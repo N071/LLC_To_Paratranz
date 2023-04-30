@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10702_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10702_1-dlg",
+    "original": "공평하게 죽음을… 쯧. 뭐랬더라, 아무튼 다 박살 내러 왔다.",
+    "context": "EN :\nEqual death to something or… Tch. Whatever, I’m here to wreck stuff.\nJP :\n公平に死を…チッ。なんつったっけ、とにかく全員ぶっ潰しに来た。"
+  },
+  {
+    "key": "lobby_morning_10702_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10702_1-dlg",
+    "original": "아씨… 아까 자명종 계속 안 끄고 자던 놈 누구였냐? 가만 안 두겠어…",
+    "context": "EN :\nBollocks… Who’s the one that kept sleeping while their alarm was clanging off? I’ll make ‘em pay…\nJP :\n畜生…さっきアラーム付けっぱで寝てたヤツ誰だ？タダじゃ置かねぇぞ。"
+  },
+  {
+    "key": "lobby_noon_10702_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10702_1-dlg",
+    "original": "점심은… 싱싱한 날 음식이나 먹고 싶네. 피가 뚝뚝 떨어지거나 하는 거 말이야.",
+    "context": "EN :\nFor lunch… I’d like something raw. The kind of stuff that’s got blood dripping from it.\nJP :\n昼メシは…新鮮な生のものが食べてぇな。血が滴るやつとかな。"
+  },
+  {
+    "key": "lobby_night_10702_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10702_1-dlg",
+    "original": "형씨는 붉은 달을 본 적 있어? 끝내주게 아름답거든. 순식간에 반해버렸지 뭐야.",
+    "context": "EN :\nEver see a red moon, mate? It’s a stoater. Fell in love with it at first sight.\nJP :\nあんさんは赤い月を見たことあるか？めっちゃ綺麗なんだよな。一目惚れしちまったんだよ。"
+  },
+  {
+    "key": "smalltalk_10702_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10702_1-dlg",
+    "original": "…상처가 걱정된다고? 방금 온몸에 소름 돋았거든? 다신 그딴 말 꺼내지 마라.",
+    "context": "EN :\n…Worried about my wounds? Bloody hell, that’s a right scunner. Don’t you ever say that to me again.\nJP :\n…傷が心配だって？鳥肌ガン立ちしたんだが？二度とそんなこと言うなよ。"
+  },
+  {
+    "key": "smalltalk_10702_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10702_2-dlg",
+    "original": "목격자가 전부 뒤지면 그게 암살이지 뭐겠어? 젠장, 다들 나한테만 성질이야.",
+    "context": "EN :\nIf there’s no witnesses alive to clepe, that’s assassination—what more do you need? Buggers won’t stop narking me about it.\nJP :\n目撃者が全員くたばればそれが暗殺だろ？クソッ、なんで皆オレにばっかキレんだよ。"
+  },
+  {
+    "key": "smalltalk_10702_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10702_3-dlg",
+    "original": "급소만 찌르는 건 사실 재미 없어. 시시하잖아?",
+    "context": "EN :\nStabbing the jugular all the time’s frankly boring. Outright unfun even, innit?\nJP :\n急所だけを刺すのぶっちゃけ面白くねぇな。つまんねぇだろ？"
+  },
+  {
+    "key": "smalltalk_10702_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10702_4-dlg",
+    "original": "다들 말 같지도 않는 말만 나불거려. 마음을 가라앉히고 고요하게 어쩌고저쩌고… 그냥 싸그리 부숴버리면 서로 편한 거 아니겠어?",
+    "context": "EN :\nMy mates keep saying daft rubbish. All that mince about inner peace n’ quiet or what have you… Ain’t it best for all of us to just wreck shite and move on?\nJP :\n皆くっだらねぇことばっかブツクサ言ってるな。心を落ち着かせて静かになんちゃらかんちゃら…。フツーに全部ぶっ潰せばお互い楽じゃないか？"
+  },
+  {
+    "key": "smalltalk_10702_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10702_5-dlg",
+    "original": "그래도 형씨는 군 말없이 시계 돌려줘서 맘에 들어. 특히 지난번에 어깨가 꿰뚫렸던 건 드럽게 아팠을 텐데 말이야.",
+    "context": "EN :\nI like that ya turn that clock without complaining much. That hole someone jabbed in my shoulder the other day must’ve been a right bugger to heal, too.\nJP :\nそれでもあんさんはブツブツ言わずに時計回してくれて気に入ってるよ。特にこの前肩が貫かれたときはクッソ痛かったろうに。"
+  },
+  {
+    "key": "neglect_10702_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10702_1-dlg",
+    "original": "어디 간 거야? 젠장, 이스마엘이었으면 바로 찾아냈을 텐데…",
+    "context": "EN :\nWhere’d you get off to? Damn, Ishmael would’ve spotted them in seconds…\nJP :\nどこ行ったんだ？クソッ、イシュメールならすぐ見つけられるだろうけど…。"
+  },
+  {
+    "key": "gacksung_10702_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10702_1-dlg",
+    "original": "그만하라고 말릴 때까지 다 썰어버릴 수 있어!",
+    "context": "EN :\nI can keep on butchering ‘em ‘til you tell me to stop!\nJP :\nやめろって言うまで切り刻めるぜ！"
+  },
+  {
+    "key": "formation_10702_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10702_1-dlg",
+    "original": "그래, 후회하지 않게 해주지!",
+    "context": "EN :\nRight, I’ll give you something you won’t regret!\nJP :\nあぁ、後悔させないさ！"
+  },
+  {
+    "key": "battleentry_10702_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10702_1-dlg",
+    "original": "그냥 눈에 보이는 거 다 박살 내면 되는 거지?",
+    "context": "EN :\nJust have to crush everything I see, aye?\nJP :\nフツーに目に見えるもん全部ぶっ壊せば良いんだろ？"
+  },
+  {
+    "key": "battle_select_10702_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10702_1-dlg",
+    "original": "그래, 누굴 조지면 되는 거야?",
+    "context": "EN :\nAlright, who do you want me to scrap?\nJP :\nあぁ、誰をバラせばいいんだ？"
+  },
+  {
+    "key": "battle_endcommand_10702_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10702_1-dlg",
+    "original": "그래, 베러 가자!",
+    "context": "EN :\nAye, I’ll go cut ‘em!\nJP :\nあぁ、切り刻むぞ！"
+  },
+  {
+    "key": "battle_enemy_break_10702_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10702_1-dlg",
+    "original": "어때, 죽을 것 같지?",
+    "context": "EN :\nHow’s that? Hurts to death, don’t it?\nJP :\nどうだ、死にそうだろ？"
+  },
+  {
+    "key": "battle_break_10702_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10702_1-dlg",
+    "original": "쳇…!",
+    "context": "EN :\nTch…!\nJP :\nチェッ…！"
+  },
+  {
+    "key": "battle_kill_10702_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10702_1-dlg",
+    "original": "타겟, 제거~",
+    "context": "EN :\nTarget wiped~\nJP :\nターゲット、じょきょ～。"
+  },
+  {
+    "key": "battle_allydead_10702_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10702_1-dlg",
+    "original": "실력도 없는데 드러내고 다니니 그러지.",
+    "context": "EN :\nShouldn’t be out in the open if you don’t have the skills to handle it.\nJP :\n実力もないのに威張って回るからそうなるんだ。"
+  },
+  {
+    "key": "choice_success_p_10702_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10702_1-dlg",
+    "original": "이거 봐. 과정은 어쨌든 결과는 좋잖아?",
+    "context": "EN :\nLook ‘ere. Process be damned, it all turned out well and fine in the end, aye?\nJP :\nこれ見ろよ。過程はどうあれ結果は良いだろ？"
+  },
+  {
+    "key": "choice_fail_n_10702_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10702_1-dlg",
+    "original": "하여간에, 맞지도 않는 곳에 보내는 건 어느 놈이든 똑같네.",
+    "context": "EN :\nNot the first time I’m sent to do work I’m not fit for.\nJP :\nなんだかんだでなぁ、相性悪い場所に送るのはどこもおんなじかぁ。"
+  },
+  {
+    "key": "battle_clear_10702_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10702_1-dlg",
+    "original": "이 정도야 기본이지. 또 찌를 거 없냐?",
+    "context": "EN :\nThis was simple. Anything else for me to stab?\nJP :\nこれくらい普通だ。他に刺すもんねぇか？"
+  },
+  {
+    "key": "battle_clear_ex_10702_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10702_1-dlg",
+    "original": "다 내 먹잇감들이었지.",
+    "context": "EN :\nThey were all prey to me.\nJP :\n全部オレの餌食だったな。"
+  },
+  {
+    "key": "battle_defeat_10702_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10702_1-dlg",
+    "original": "아직 내 칼은 안 끝났어! 형씨, 한 번 더 가자고!",
+    "context": "EN :\nMy sword says it ain’t done yet! Mate, we’re going back in!\nJP :\nまだオレの刀は終わってない！あんさん、もう一度やるぞ！"
+  }
+]

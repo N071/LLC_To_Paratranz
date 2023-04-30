@@ -1,0 +1,582 @@
+[
+  {
+    "key": "800101-name",
+    "original": "사과의 황홀기",
+    "context": "EN :\nAn Apple’s Twilight\nJP :\n林檎の恍惚期"
+  },
+  {
+    "key": "800101-desc",
+    "original": "열매가 파괴되면 모든 부위가 취약 2를 얻음.\n파괴된 열매는 1턴 후 재생됨.",
+    "context": "EN :\nWhen the Fruit is destroyed, all parts are inflicted with 2 Fragile.\nThe Fruit regenerates after 1 turn.\nJP :\n果実が全て破壊されると全部位が脆弱 2を得る。\n破壊された果実は1ターン後に再生。"
+  },
+  {
+    "key": "800101-summary",
+    "original": "열매가 파괴되면 모든 부위가 취약 2를 얻음",
+    "context": "EN :\nWhen the Fruit is destroyed, apply 2 Fragile to all parts\nJP :\n果実が全て破壊されると全部位が脆弱 2を得る。"
+  },
+  {
+    "key": "800102-name",
+    "original": "나오면 안되는 패시브1",
+    "context": "EN :\nNOT FOR DISPLAY1\nJP :\n出てはいけないパッシブ1"
+  },
+  {
+    "key": "800102-desc",
+    "original": "머리가 한 번 재생된 후, 머리의 체력을 50% 미만으로 만들면 선택지가 등장한다.",
+    "context": "EN :\nAfter the head regenerates once, bringing the head’s HP to 50% initiates a choice prompt.\nJP :\n頭が一度再生してから頭の体力を50％未満にすると、選択肢が出現する。"
+  },
+  {
+    "key": "800103-name",
+    "original": "나오면 안되는 패시브2",
+    "context": "EN :\nNOT FOR DISPLAY2\nJP :\n出てはいけないパッシブ2"
+  },
+  {
+    "key": "800103-desc",
+    "original": "3턴 시작 시 녹색 줄기 효과를 제거할 수 있는 선택지가 등장한다.",
+    "context": "EN :\nAt the start of Turn 3, a choice prompt where you can remove the Green Stem effect is initiated.\nJP :\n3ターン開始時、緑の枝の効果を除去できる選択肢が出現する。"
+  },
+  {
+    "key": "800104-name",
+    "original": "휘감는 뿌리",
+    "context": "EN :\nEntangling Roots\nJP :\n絡み付く根"
+  },
+  {
+    "key": "800104-desc",
+    "original": "뿌리가 파괴되기 전까지 턴 시작 시 모든 적에게 속박 1을 부여함.",
+    "context": "EN :\nAt the start of the turn, inflict 1 Bind on all enemies.\nThis lasts until the Roots have been broken.\nJP :\n根が破壊されるまで、ターン開始時に全ての敵に束縛 1を付与する。"
+  },
+  {
+    "key": "800104-summary",
+    "original": "뿌리가 파괴되기 전까지 모든 적에게 속박 1을 부여",
+    "context": "EN :\nInflict 1 Bind on all enemies until Roots are broken\nJP :\n根が破壊されるまで、全ての敵に束縛 1を付与"
+  },
+  {
+    "key": "800105-name",
+    "original": "단 하나의 뿌리",
+    "context": "EN :\nOne Sole Root\nJP :\nたった一つの根"
+  },
+  {
+    "key": "800105-desc",
+    "original": "파괴되지 않은 팔의 수만큼 뿌리가 공격 위력 증가 2를 얻는다.",
+    "context": "EN :\nThe Roots gain 2 Attack Power Up for each intact Arm.\nJP :\n破壊されていない腕の数だけ、根が攻撃威力増加 2を得る。"
+  },
+  {
+    "key": "800201-name",
+    "original": "피의 축제 개막",
+    "context": "EN :\nLet the Blood Festival Flow\nJP :\n血の祝祭の開幕"
+  },
+  {
+    "key": "800201-desc",
+    "original": "종말 토우를 전부 잡으면 페이즈가 변경된다.",
+    "context": "EN :\nThe battle proceeds to the next phase after all the Clay Dolls are defeated.\nJP :\n終末土偶を全て討伐するとフェーズが移行する。"
+  },
+  {
+    "key": "800202-name",
+    "original": "나오면 안됨",
+    "context": "EN :\nDON'T LET THE KIDS READ THIS\nJP :\n나오면 안됨"
+  },
+  {
+    "key": "800202-desc",
+    "original": "2페이즈 2턴 시작 시 선택지 1 등장",
+    "context": "EN :\nAt the start of turn 2 in phase 2, choice prompt 1 is initiated.\nJP :\nフェーズ2の2ターン目開始時、選択肢1が出現"
+  },
+  {
+    "key": "800203-name",
+    "original": "불의 축제 개막",
+    "context": "EN :\nLet the Fire Festival Ignite\nJP :\n火の祝祭の開幕"
+  },
+  {
+    "key": "800203-desc",
+    "original": "팔이 전부 파괴되거나, 본체의 체력이 70% 이하로 내려가면 페이즈가 변경된다.",
+    "context": "EN :\nIf both Arms are destroyed or the main body’s HP is brought to 70%, the battle proceeds to the next phase.\nJP :\n腕が全て破壊されるか、本体の体力が70%以下になるとフェーズが移行する。"
+  },
+  {
+    "key": "800204-name",
+    "original": "열기",
+    "context": "EN :\nFrenzy\nJP :\n熱気"
+  },
+  {
+    "key": "800204-desc",
+    "original": "3페이즈동안 매 턴마다 모든 적에게 화상 3을 부여한다.",
+    "context": "EN :\nDuring Phase 3\nAt the start of the turn, inflict 3 Burn on all enemies.\nJP :\n3フェーズの間、毎ターン全ての敵に火傷 3を付与する。"
+  },
+  {
+    "key": "800205-name",
+    "original": "나오면 안됨",
+    "context": "EN :\nNOT FOR DISPLAY\nJP :\n나오면 안됨"
+  },
+  {
+    "key": "800205-desc",
+    "original": "체력이 최대 체력의 60% 이하가 되면 선택지 2 등장",
+    "context": "EN :\nWhen HP is brought to 60%, choice prompt 2 is initiated.\nJP :\n体力が最大値の60%以下になると選択肢2が出現"
+  },
+  {
+    "key": "800206-name",
+    "original": "별의 축제 개막",
+    "context": "EN :\nLet the Star Festival Fall\nJP :\n星の祝祭の開幕"
+  },
+  {
+    "key": "800206-desc",
+    "original": "본체의 체력이 25% 이하가 되면 페이즈가 변경된다.",
+    "context": "EN :\nWhen HP is brought to 25%, the battle proceeds to the next phase.\nJP :\n本体の体力が25%以下になるとフェーズが移行する。"
+  },
+  {
+    "key": "800207-name",
+    "original": "나오면 안됨",
+    "context": "EN :\nNOT FOR DISPLAY\nJP :\n나오면 안됨"
+  },
+  {
+    "key": "800207-desc",
+    "original": "4페이즈 2번째 턴에 선택지 3 등장",
+    "context": "EN :\nAt the start of turn 2 in phase 4, choice prompt 3 is initiated.\nJP :\nフェーズ4の2ターン目開始時、選択肢3が出現"
+  },
+  {
+    "key": "800301-name",
+    "original": "우상 숭배",
+    "context": "EN :\nIdolatry\nJP :\n偶像崇拝"
+  },
+  {
+    "key": "800301-desc",
+    "original": "체력이 0이 되면 사망하지 않고, 행동, 타겟팅 불가 상태가 된다.\n종말 달력 제압 시 함께 제압된다.",
+    "context": "EN :\nDoes not die at 0 HP; instead, remains on the stage as an immobile and untargetable unit.\nSuppressed when the Doomsday Calendar is suppressed.\nJP :\n体力が0になると死亡せず、行動不能・ターゲット不可状態になる。\n終末カレンダー制圧と同時に制圧される。"
+  },
+  {
+    "key": "800801-name",
+    "original": "조각난 황금",
+    "context": "EN :\nCracked Gold\nJP :\n砕けた黄金"
+  },
+  {
+    "key": "800801-desc",
+    "original": "매 턴마다 황금빛 수치에 비례하여 체력을 회복한다.",
+    "context": "EN :\nHeals HP every turn based on the amount of Golden Sheen.\nJP :\n毎ターン、黄金色 の数値に比例して体力を回復する。"
+  },
+  {
+    "key": "800901-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "800901-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "800902-name",
+    "original": "파괴된 중추",
+    "context": "EN :\nFrail Core\nJP :\n破壊された中枢"
+  },
+  {
+    "key": "800902-desc",
+    "original": "머리가 파괴 당하면 다음 턴 동안 모든 부위가 행동하지 않는다. 파괴된 머리는 1턴 후 재생된다.",
+    "context": "EN :\nWhen the Head is destroyed, all parts are inflicted with Immobilize next turn.\nThe Head regenerates after 1 turn.\nJP :\n頭が破壊されると次の1ターンの間、全部位が行動しない。破壊された頭は1ターン後に再生する。"
+  },
+  {
+    "key": "800903-name",
+    "original": "허물어진 사과",
+    "context": "EN :\nRotting Apple\nJP :\n朽ちた林檎"
+  },
+  {
+    "key": "800903-desc",
+    "original": "몸통이 파괴 당하면 다음 턴 부터 모든 부위가 공격 위력 감소 2를 얻는다.",
+    "context": "EN :\nAfter the body is destroyed, all parts are inflicted with 2 Attack Power Down every turn.\nJP :\n胴体が破壊されると次のターンから全部位が攻撃威力減少 2を得る。"
+  },
+  {
+    "key": "800904-name",
+    "original": "나오면 안되는 텍스트",
+    "context": "EN :\nNOT FOR DISPLAY\nJP :\n出てはいけないテキスト"
+  },
+  {
+    "key": "800904-desc",
+    "original": "나오면 안되는 텍스트",
+    "context": "EN :\nNOT FOR DISPLAY\nJP :\n出てはいけないテキスト"
+  },
+  {
+    "key": "801001-name",
+    "original": "강화 공장 가동",
+    "context": "EN :\nUpgrade Factory at Work\nJP :\n強化工場稼働"
+  },
+  {
+    "key": "801001-desc",
+    "original": "사망 시 다음 턴에 시술을 1 얻고, 부활한다.",
+    "context": "EN :\nWhen this unit is defeated, it revives the next turn and gains 1 Surgery.\nJP :\n死亡時、次のターンに施術 1を得て復活する。"
+  },
+  {
+    "key": "801002-name",
+    "original": "당신은 강해져야합니다",
+    "context": "EN :\nYou Must Become Strong\nJP :\nあなたは強くならねばなりません"
+  },
+  {
+    "key": "801002-desc",
+    "original": "매 턴마다 보호 1을 얻는다.",
+    "context": "EN :\nAt the start of the turn, gain 1 Protection.\nJP :\n毎ターン保護 1を得る。"
+  },
+  {
+    "key": "801201-name",
+    "original": "당신은 강해져야합니다",
+    "context": "EN :\nYou Must Become Strong\nJP :\nあなたは強くならねばなりません"
+  },
+  {
+    "key": "801201-desc",
+    "original": "매 턴마다 보호 2를 얻는다.",
+    "context": "EN :\nAt the start of the turn, gain 2 Protection.\nJP :\n毎ターン保護 2を得る。"
+  },
+  {
+    "key": "801301-name",
+    "original": "흔들리는 욕망",
+    "context": "EN :\nWavering Desires\nJP :\n揺れる欲望"
+  },
+  {
+    "key": "801301-desc",
+    "original": "탐욕 상태가 되면 취약 2, 속박 10를 얻고, 스킬 슬롯이 1 증가하며, 스킬 패턴이 변경됨. ",
+    "context": "EN :\nWhile Desirous, the unit gains 2 Fragile and 10 Bind, gains 1 skill slot, and changes behavior.\nJP :\n貪欲 状態になると、脆弱 2、束縛 10を得る。スキルスロットが1増加し、スキルパターンが変化する。"
+  },
+  {
+    "key": "801302-name",
+    "original": "옭아매는 욕망",
+    "context": "EN :\nEnsnaring Desires\nJP :\n縛り付ける欲望"
+  },
+  {
+    "key": "801302-desc",
+    "original": "체력이 30% 감소할 때마다 탐욕 상태가 됨.",
+    "context": "EN :\nThe unit becomes Desirous every time it loses 30% of its HP.\nJP :\n体力が30%減少するたびに貪欲 状態になる。"
+  },
+  {
+    "key": "801904-name",
+    "original": "살갗을 에는 두려움",
+    "context": "EN :\nShuddering Terror\nJP :\n肌を抉る恐怖"
+  },
+  {
+    "key": "801904-desc",
+    "original": "이번 웨이브동안 사망한 아군 수만큼 보호를 얻는다. (최대 5)",
+    "context": "EN :\nGain 1 Protection for every ally that died this wave. (Max 5.)\nJP :\nこのウェーブの間、死亡した味方の数だけ保護 を得る。(最大5)"
+  },
+  {
+    "key": "802401-name",
+    "original": "맥동하는 팔",
+    "context": "EN :\nPulsating Arms\nJP :\n脈動する腕"
+  },
+  {
+    "key": "802401-desc",
+    "original": "턴 시작 시 본능만큼 공격 위력 증가와 보호를 얻는다.",
+    "context": "EN :\nAt the start of the turn, gain Attack Power Up and Protection by the Count of Instincts.\nJP :\nターン開始時、本能 の数だけ攻撃威力増加 と保護 を得る。"
+  },
+  {
+    "key": "802402-name",
+    "original": "훼손당한 팔",
+    "context": "EN :\nDamaged Arms\nJP :\n傷付けられた腕"
+  },
+  {
+    "key": "802402-desc",
+    "original": "공격으로 피해를 1 이상 받으면 본능을 1 잃는다.",
+    "context": "EN :\nLose 1 Instincts whenever the unit takes damage from attacks.\nJP :\n攻撃でダメージを1以上受けると本能 を1失う。"
+  },
+  {
+    "key": "802403-name",
+    "original": "껍데기 회복",
+    "context": "EN :\nRegenerating Shell\nJP :\n殻の回復"
+  },
+  {
+    "key": "802403-desc",
+    "original": "한 턴동안 공격으로 피해를 받지 않으면, 턴 종료 시 체력을 5% 회복하고, 본능을 1 얻는다.",
+    "context": "EN :\nAt the end of the turn, if the unit didn’t take any damage from attacks during the turn, heal 5% HP and gain 1 Instincts.\nJP :\n1ターンの間、攻撃でダメージを受けなければターン終了時に体力を5%回復し、本能 を1得る。"
+  },
+  {
+    "key": "802404-name",
+    "original": "광기에 찬 눈동자",
+    "context": "EN :\nFrantic Eyes\nJP :\n狂気に満ちた瞳"
+  },
+  {
+    "key": "802404-desc",
+    "original": "본능이 4 이상이면 공격적으로, 4 미만이면 방어적으로 스킬 패턴이 변경된다.",
+    "context": "EN :\nBehavior depends on the Count of Instincts.\nUses aggressive skills at +4 Instincts, and becomes defensive at 3 or less.\nJP :\n本能 が4以上ならスキルパターンが攻撃的に、4未満なら防御的になる。"
+  },
+  {
+    "key": "802501-name",
+    "original": "팽창된 공격성",
+    "context": "EN :\nAmplified Aggression\nJP :\n膨張した攻撃性"
+  },
+  {
+    "key": "802501-desc",
+    "original": "피격 시 본능 1을 얻는다. 턴 종료 시 본능이 4 이상이면 광란 상태가 된다.",
+    "context": "EN :\nWhen hit by an attack, gain 1 Instincts.\nIf the unit has +4 Instincts at the end of the turn, enter a state of Frenzy.\nJP :\n被ダメージ時、本能 1を得る。ターン終了時、本能 が4以上なら狂乱 状態になる。"
+  },
+  {
+    "key": "802502-name",
+    "original": "광란",
+    "context": "EN :\nFrenzy\nJP :\n狂乱"
+  },
+  {
+    "key": "802502-desc",
+    "original": "광란 상태가 되면 공격 위력 증가, 취약 3을 얻고, 스킬 패턴이 변경되며, 피격 시 본능을 얻지 않는다.",
+    "context": "EN :\nIn the Frenzy state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instincts from being attacked.\nJP :\n狂乱 状態になると攻撃威力増加 、脆弱 3を得てスキルパターンが変更。被ダメージ時に本能 が増えない。"
+  },
+  {
+    "key": "802503-name",
+    "original": "일렁이는 분노",
+    "context": "EN :\nShimmering Rage\nJP :\n揺らめく憤怒"
+  },
+  {
+    "key": "802503-desc",
+    "original": "체력이 50% 미만이면 매 턴마다 광란 상태가 된다.",
+    "context": "EN :\nAt less than 50% HP, enters Frenzy every turn.\nJP :\n体力が50%以下なら、毎ターン狂乱 状態になる。"
+  },
+  {
+    "key": "802701-name",
+    "original": "팽창된 공격성",
+    "context": "EN :\nAmplified Aggression\nJP :\n膨張した攻撃性"
+  },
+  {
+    "key": "802701-desc",
+    "original": "피격 시 본능 1을 얻는다. 턴 종료 시 본능이 4 이상이면 광란 상태가 된다.",
+    "context": "EN :\nWhen hit by an attack, gain 1 Instincts.\nIf the unit has +4 Instincts at the end of the turn, enter a state of Frenzy.\nJP :\n被ダメージ時、本能 1を得る。ターン終了時、本能 が4以上なら狂乱 状態になる。"
+  },
+  {
+    "key": "802702-name",
+    "original": "광란",
+    "context": "EN :\nFrenzy\nJP :\n狂乱"
+  },
+  {
+    "key": "802702-desc",
+    "original": "광란 상태가 되면 공격 위력 증가, 취약 3을 얻고, 스킬 패턴이 변경되며, 피격 시 본능을 얻지 않는다.",
+    "context": "EN :\nIn the Frenzy state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instincts from being attacked.\nJP :\n狂乱 状態になると攻撃威力増加 、脆弱 3を得てスキルパターンが変更。被ダメージ時に本能 が増えない。"
+  },
+  {
+    "key": "802801-name",
+    "original": "썩어가는 피부",
+    "context": "EN :\nRotting Skin\nJP :\n腐りゆく皮膚"
+  },
+  {
+    "key": "802801-desc",
+    "original": "턴 시작 시 체력이 50% 미만이면, 피격 시 공격자에게 독 3을 부여한다.",
+    "context": "EN :\nAt the start of the turn, if at less than 50% HP, inflict 3 Poison when attacked.\nJP :\nターン開始時に体力が50%未満なら、被ダメージ時、攻撃者へ毒 3を付与する。"
+  },
+  {
+    "key": "802802-name",
+    "original": "허물 벗기",
+    "context": "EN :\nMolt\nJP :\n脱皮"
+  },
+  {
+    "key": "802802-desc",
+    "original": "파괴 후 1턴 뒤 다른 팔이 파괴되지 않았으면, 해당 팔과 동일한 체력으로 팔이 재생된다.",
+    "context": "EN :\nAfter this part is broken, if the other arm is not broken at the end of the following turn, this part regenerates with the same HP as it.\nJP :\n破壊から1ターン後に他の腕が破壊されなければ、該当する腕と同じ体力で腕が再生する。"
+  },
+  {
+    "key": "802803-name",
+    "original": "고통의 몸부림",
+    "context": "EN :\nPained Writhing\nJP :\n苦痛の身悶え"
+  },
+  {
+    "key": "802803-desc",
+    "original": "양 팔이 파괴되면 매 턴마다 취약 5를 얻고, 모든 적에게 독 10을 부여한다.",
+    "context": "EN :\nWhen both arms are broken, the unit gains 5 Fragile and inflicts 10 Poison on all enemies every turn.\nJP :\n両腕が破壊されると毎ターン脆弱 5を得て、全ての敵に毒 10を付与する。"
+  },
+  {
+    "key": "802804-name",
+    "original": "꿈틀거리는 본능",
+    "context": "EN :\nWriggling Instincts\nJP :\n蠢く本能"
+  },
+  {
+    "key": "802804-desc",
+    "original": "본능 수치가 4 이상이면 공격적으로, 0이면 방어적으로 스킬 패턴이 변경된다.",
+    "context": "EN :\nBehavior depends on the Count of Instincts.\nUses aggressive skills at +4 Instincts, and becomes defensive at 0.\nJP :\n本能 が4以上ならスキルパターンが攻撃的に、4未満なら防御的になる。"
+  },
+  {
+    "key": "803302-name",
+    "original": "잘려나간 팔",
+    "context": "EN :\nSevered Arm\nJP :\n切断された腕"
+  },
+  {
+    "key": "803302-desc",
+    "original": "팔이 파괴되면 매 턴 시작 시 취약 5를 얻는다.",
+    "context": "EN :\nWhen the arm is broken, the unit gains 5 Fragile every turn.\nJP :\n腕が破壊されると毎ターン開始時に脆弱 5を得る。"
+  },
+  {
+    "key": "802901-name",
+    "original": "휘파람의 공포",
+    "context": "EN :\nFearsome Whistles\nJP :\n口笛の恐怖"
+  },
+  {
+    "key": "802901-desc",
+    "original": "어느 표지가 3 미만이면 싱클레어가 매 턴마다 속박 1, 마비 1을 얻는다.",
+    "context": "EN :\nIf you have collected less than 3 of A Sign, Sinclair is inflicted with 1 Bind and Paralyze every turn.\nJP :\nとある印 が3未満なら、シンクレアが毎ターン束縛 1、麻痺 1を得る。"
+  },
+  {
+    "key": "802902-name",
+    "original": "공포를 이기는 용기",
+    "context": "EN :\nCourage to Triumph Fear\nJP :\n恐怖に打ち勝つ勇気"
+  },
+  {
+    "key": "802902-desc",
+    "original": "어느 표지가 3 이상이면 싱클레어가 매 턴마다 공격 위력 증가 1, 보호 2를 얻는다.",
+    "context": "EN :\nIf you have collected 3 or more of A Sign, Sinclair gains 1 Attack Power Up and 2 Protection every turn.\nJP :\nとある印 が3以上なら、シンクレアが毎ターン攻撃威力増加 1、保護 2を得る。"
+  },
+  {
+    "key": "802903-name",
+    "original": "고통을 받아들여야 해!",
+    "context": "EN :\nYou Must Accept the Pain!\nJP :\n苦痛を受け容れよ！"
+  },
+  {
+    "key": "802903-desc",
+    "original": "턴 시작 시 파괴되지 않은 부위가 출혈 또는 화상 상태면, 최대 체력의 15%만큼 체력을 회복하고, 공격 위력 증가 3을 얻는다. 어느 표지의 개수에 비례하여 회복량과 위력 증가 값이 최대 0까지 감소한다.",
+    "context": "EN :\nAt the start of the turn, if the unbroken part has Bleed or Burn, heal 15% of Max HP and gain 3 Attack Power Up.\nThe healing and status effects gained are decreased based on the number of A Sign, down to 0.\nJP :\nターン開始時、破壊されていない部位が出血 または火傷 状態なら、体力を最大値の15%回復し、攻撃威力増加 3を得る。とある印 の個数に比例して回復量と威力増加値が最大0まで減少する。"
+  },
+  {
+    "key": "802904-name",
+    "original": "처단의 환희",
+    "context": "EN :\nBliss of Execution\nJP :\n処断の歓喜"
+  },
+  {
+    "key": "802904-desc",
+    "original": "적을 처치하면 다음 턴 시작 시 신속 2, 피해량 증가 5를 얻는다.",
+    "context": "EN :\nAfter defeating an enemy, gain 2 Haste and 5 Damage Up next turn.\nJP :\n敵を倒すと次のターン開始時にクイック 2、ダメージ量増加 5を得る."
+  },
+  {
+    "key": "803001-name",
+    "original": "넘치는 희열",
+    "context": "EN :\nOverflowing Ecstasy\nJP :\n溢れる喜悦"
+  },
+  {
+    "key": "803001-desc",
+    "original": "3턴부터 2턴마다 희열 상태가 된다.",
+    "context": "EN :\nStarting with Turn 3, becomes Ecstatic every 2 turns.\nJP :\n3ターン目から2ターン毎に喜悦 状態になる。"
+  },
+  {
+    "key": "803002-name",
+    "original": "피어난 순수",
+    "context": "EN :\nBlooming Purity\nJP :\n咲き出した純粋"
+  },
+  {
+    "key": "803002-desc",
+    "original": "크로머의 본체 체력이 50% 미만이 되면 남은 턴동안 순수 상태가 된다.",
+    "context": "EN :\nIf Kromer’s main body is brought to 50% HP, she gains Purity for the remaining turns.\nJP :\nクローマーの本体の体力が50%未満になると、残りのターンの間、純粋 状態になる。"
+  },
+  {
+    "key": "803003-name",
+    "original": "무결한 육체",
+    "context": "EN :\nFlawless Flesh\nJP :\n無欠な肉体"
+  },
+  {
+    "key": "803003-desc",
+    "original": "팔 파괴 시 해당 부위가 공격 위력 감소 2를 얻는다.",
+    "context": "EN :\nWhen the arm is broken, the part is inflicted with 2 Attack Power Down.\nJP :\n腕破壊時、該当部位が攻撃威力減少 2を得る。"
+  },
+  {
+    "key": "803101-name",
+    "original": "피주머니",
+    "context": "EN :\nBlood Sac\nJP :\n血袋 "
+  },
+  {
+    "key": "803101-desc",
+    "original": "분노 내성이 상승한다.\n우울 내성이 하락한다.",
+    "context": "EN :\nWrath Resistance increases.\nGloom Resistance decreases.\nJP :\n憤怒耐性が上昇する。\n憂鬱耐性が下落する。"
+  },
+  {
+    "key": "803102-name",
+    "original": "물주머니",
+    "context": "EN :\nFluid Sac\nJP :\n水袋"
+  },
+  {
+    "key": "803102-desc",
+    "original": "물주머니가 지속될수록 본체 체력을 (수치 * 20) 만큼 회복한다.",
+    "context": "EN :\nWhile the Fluid Sac status is active, the Core heals (20 * Fluid Sac Count) HP.\nJP :\n水袋 が持続している間は、本体の体力を(数値×20)だけ回復する。"
+  },
+  {
+    "key": "803103-name",
+    "original": "끓어오르는 피",
+    "context": "EN :\nBoiling Blood\nJP :\n湧き上がる血"
+  },
+  {
+    "key": "803103-desc",
+    "original": "피주머니 상태에서, 몸통 부위 파괴당하면 모든 적에게 20의 고정 피해를 준다.",
+    "context": "EN :\nIf the body is broken while Blood Sac is active, all enemies take 20 fixed damage.\nJP :\n血袋 状態で胴体部位を破壊されると、全ての敵へ20の固定ダメージを与える。"
+  },
+  {
+    "key": "803201-name",
+    "original": "피뢰침",
+    "context": "EN :\nLightning Rod\nJP :\n避雷 針"
+  },
+  {
+    "key": "803201-desc",
+    "original": "전봇대 피격 시, 이번 턴에 감전 2 부여.\n가지고 있는 번개가 5 이상이면, 다음 턴부터 부위마다 피격 시 이번 턴에 감전 3 부여.\n(번개가 0이 되기전까지 지속)\n나태 속성 공격에 피격 시 상대에게 원래 감전 부여가 절반으로 감소. (올림)",
+    "context": "EN :\nWhen the Telephone Pole is hit, inflict 2 Shock on the attacker this turn.\nAt 5+ Lightning, all Parts will inflict 3 Shock on the attacker, starting next turn.\n(Lasts until Lightning reaches 0.)\nWhen hit by a Sloth attack, the amount of Shock inflicted is halved. (Rounded up.)\nJP :\n電信柱が被ダメージ時、1ターンの間感電2を付与。\n保有している雷が5以上なら、次のターンから部位毎に1ターンの間感電3を付与。\n(雷が0になるまで持続)\n怠惰属性の攻撃で被ダメージ時、相手に与える感電付与数が半減。(繰り上げ)"
+  },
+  {
+    "key": "803202-name",
+    "original": "번개",
+    "context": "EN :\nLightning\nJP :\n雷 "
+  },
+  {
+    "key": "803202-desc",
+    "original": "전봇대가 부숴지지 않았을 때, 공격 종료 시 번개 1 얻는다. 전봇대 피격 시마다, 번개 1 소모.",
+    "context": "EN :\nWhile the telephone pole isn’t broken, gain 1 Lightning after an attack.\nWhenever the telephone pole is hit by an attack, lose 1 Lightning.\nJP :\n電柱が壊れていない間、攻撃終了時に雷 1を得る。電柱が被ダメージ時、雷 を1消耗する。"
+  },
+  {
+    "key": "803203-name",
+    "original": "부서지는 파편",
+    "context": "EN :\nBreaking Pieces\nJP :\n壊れる破片"
+  },
+  {
+    "key": "803203-desc",
+    "original": "전봇대가 흐트러지거나 부위 파괴되었을 때, 번개가 0이 됨. 해당 턴동안 골목파수견의 공격 스킬이 전부 취소된다.",
+    "context": "EN :\nWhen the telephone pole is Staggered or Broken, lose all Lightning.\nAll attacks of Alleyway Watchdog will then be canceled for the turn.\nJP :\n電柱が混乱するか部位破壊されたとき、雷 が0になる。該当ターンの間、路地の番犬の攻撃スキルが全て中断される。"
+  },
+  {
+    "key": "803401-name",
+    "original": "걸어다니는 봉이닭",
+    "context": "EN :\nBongy Chicken Struts\nJP :\n歩き回るボンちゃんチキン"
+  },
+  {
+    "key": "803401-desc",
+    "original": "턴 종료 시, 무작위 적 1명에게 3만큼 정신력 피해.",
+    "context": "EN :\nAt the end of the turn, deal 3 SP damage to a random enemy.\nJP :\nターン終了時、ランダムな敵1名に3の精神力ダメージ"
+  },
+  {
+    "key": "803701-name",
+    "original": "힘이 쑥쑥 봉이닭",
+    "context": "EN :\nBongy Chicken Beefs Up\nJP :\n元気もりもりボンちゃんチキン"
+  },
+  {
+    "key": "803701-desc",
+    "original": "턴 종료 시, 다음 턴에 자신 포함 모든 아군에게 피해량 증가 2, 보호 2 부여.",
+    "context": "EN :\nAt the end of the turn, apply 2 Damage Up and 2 Protection to all allies next turn.\nJP :\nターン終了時、次のターンに自分を含む味方全員にダメージ量増加 2、保護 2を付与"
+  },
+  {
+    "key": "803901-name",
+    "original": "행복해진 닭",
+    "context": "EN :\nVigorous Volaille\nJP :\n幸せになった鶏"
+  },
+  {
+    "key": "803901-desc",
+    "original": "턴 종료 시, 전투에 참여중인 (생닭 수 * 5)만큼 체력 회복.",
+    "context": "EN :\nAt the end of the turn, heal 5 HP for each Raw Chicken in battle.\nJP :\nターン終了時、戦闘に参加中の(生鶏の数×5)だけ体力を回復"
+  },
+  {
+    "key": "803902-name",
+    "original": "우울해진 닭",
+    "context": "EN :\nGloomy Gallus\nJP :\n憂鬱になった鶏"
+  },
+  {
+    "key": "803902-desc",
+    "original": "턴 종료 시, 전투에 참여중인 (생닭 수 * 5)만큼 모든 적에게 정신력 피해.",
+    "context": "EN :\nAt the end of the turn, deal 5 SP damage to all enemies for each Raw Chicken in battle.\nJP :\nターン終了時、戦闘に参加中の(生鶏の数×5)だけ全ての敵に精神力ダメージ"
+  },
+  {
+    "key": "803903-name",
+    "original": "취약해진 닭",
+    "context": "EN :\nFragile Fowl\nJP :\n脆弱になった鶏"
+  },
+  {
+    "key": "803903-desc",
+    "original": "부위 파괴 시, 매 턴마다 부위 파괴 턴까지 죽은 생닭 수만큼 취약을 얻음.",
+    "context": "EN :\nWhen a Part breaks, gain 1 Fragile every turn for each Raw Chicken that died before the Part was broken.\nJP :\n部位破壊時、部位破壊ターンまで死んだ生鶏の数だけ毎ターン脆弱を得る。"
+  },
+  {
+    "key": "803904-name",
+    "original": "강해진 닭",
+    "context": "EN :\nPowerful Poussin\nJP :\n強くなった鶏"
+  },
+  {
+    "key": "803904-desc",
+    "original": "부위 파괴 상태가 아니라면, 매 턴마다 살아있는 닭만큼 피해량 증가를 얻음.",
+    "context": "EN :\nIf the Part isn’t broken, gain 1 Damage Up for each living Raw Chicken.\nJP :\n部位破壊状態でなければ、生きている鶏の数だけ毎ターンダメージ量増加を得る。"
+  }
+]

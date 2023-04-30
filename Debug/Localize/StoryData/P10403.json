@@ -1,0 +1,151 @@
+[
+  {
+    "key": "0-content",
+    "original": "아이는 잘 보고 있으라는 듯, 눈짓을 보내곤 입 안 가득 채워져 있던 담배 연기를 뿜어냈지.",
+    "context": "EN :\nThe child gave her sole audience a confident glance, and puffed out a cloud of cigarette smoke.\nJP :\n子供は、ちゃんと見ていろという風な視線を送りながら、\n口の中いっぱいに溜め込んでいた煙草の煙を吐き出した。"
+  },
+  {
+    "key": "1-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "1-title",
+    "original": "흑운회 와카슈",
+    "context": "EN :\nKurokumo Wakashu\nJP :\n黒雲会 若衆"
+  },
+  {
+    "key": "1-content",
+    "original": "보좌, 어때? 이 정도면 예술에 가깝지 않나?",
+    "context": "EN :\nSo, Hosa? Isn’t this a work of art?\nJP :\n補佐、どうだ？これくらいなら芸術に近しくないか？"
+  },
+  {
+    "key": "2-content",
+    "original": "담배 연기로 만들어진 구름이 칼날을 지나더니, 그 연기는 두 갈래로 깔끔하게 갈라져서 나아갔어.",
+    "context": "EN :\nThe brume passed through her blade, smoke being cleanly cut in twain.\nJP :\n煙草の煙でできた雲が刃を通ると、その煙は真っ二つに分かれ漂っていった。"
+  },
+  {
+    "key": "3-teller",
+    "original": "보좌 ",
+    "context": "EN :\nHosa\nJP :\n若頭補佐"
+  },
+  {
+    "key": "3-title",
+    "original": "흑운회",
+    "context": "EN :\nKurokumo Clan\nJP :\n黒雲会"
+  },
+  {
+    "key": "3-content",
+    "original": "하여튼, 검에 관해선 알아줘야겠어.",
+    "context": "EN :\nI must admit, you really do have a way with swords.\nJP :\nともあれ、剣については認めてやらないとな。"
+  },
+  {
+    "key": "4-teller",
+    "original": "보좌 ",
+    "context": "EN :\nHosa\nJP :\n若頭補佐"
+  },
+  {
+    "key": "4-title",
+    "original": "흑운회",
+    "context": "EN :\nKurokumo Clan\nJP :\n黒雲会"
+  },
+  {
+    "key": "4-content",
+    "original": "하긴, 능력도 없었으면 보좌에게 이런 식으로 행동하는 건 손가락 한두 개 자르는 걸로는 모자라지.",
+    "context": "EN :\nAlthough, I suppose your insolence towards an advisor is only forgiven thanks to your usefulness. You’d have lost fingers and much more otherwise.\nJP :\nまぁ、能力が無いのに若頭補佐に対してこんな態度を取ったら\n指の一本や二本じゃ足りないだろうし。"
+  },
+  {
+    "key": "5-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "5-title",
+    "original": "흑운회 와카슈",
+    "context": "EN :\nKurokumo Wakashu\nJP :\n黒雲会 若衆"
+  },
+  {
+    "key": "5-content",
+    "original": "자를 일이 생긴다면 말해주었으면 좋겠군. 잘리는 형태를 미리 생각해 둔 게 있거든.",
+    "context": "EN :\nDo tell me when that time comes. I’ve got a couple of great ideas for how to cut them.\nJP :\n斬る仕事ができたら言ってくれると嬉しいな。斬る形の構想があるんだ。"
+  },
+  {
+    "key": "6-content",
+    "original": "보좌는 씁쓸한 웃음을 지었어. ",
+    "context": "EN :\nThe aide gave a bitter smile.\nJP :\n補佐は苦笑いを浮かべた。"
+  },
+  {
+    "key": "7-content",
+    "original": "어쩌면 이 아이는 관대한 것보다는 그저 성정적으로 담배 연기를 자르고 있는 아이에게 이겨내기 힘든 것일지도 모르겠네.",
+    "context": "EN :\nPerhaps it’s not the generosity of this child but the audacity of a subordinate who can wield blades like it’s second nature that keeps the Hosa from cracking a whip.\nJP :\nもしかしたらこの子供は寛大というよりかは、ただ扇情的に\n煙草の煙を切っている子供に勝つことが難しいのかもしれないね。"
+  },
+  {
+    "key": "8-teller",
+    "original": "보좌 ",
+    "context": "EN :\nHosa\nJP :\n若頭補佐"
+  },
+  {
+    "key": "8-title",
+    "original": "흑운회",
+    "context": "EN :\nKurokumo Clan\nJP :\n黒雲会"
+  },
+  {
+    "key": "8-content",
+    "original": "그런 료슈 군에게 희소식이다.",
+    "context": "EN :\nI have good news for you, Ryōshū-kun.\nJP :\nそんな良秀君に朗報だ。"
+  },
+  {
+    "key": "9-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "9-title",
+    "original": "흑운회 와카슈",
+    "context": "EN :\nKurokumo Wakashu\nJP :\n黒雲会 若衆"
+  },
+  {
+    "key": "9-content",
+    "original": "흐음.",
+    "context": "EN :\nHmh.\nJP :\nふぅん。"
+  },
+  {
+    "key": "10-teller",
+    "original": "보좌 ",
+    "context": "EN :\nHosa\nJP :\n若頭補佐"
+  },
+  {
+    "key": "10-title",
+    "original": "흑운회",
+    "context": "EN :\nKurokumo Clan\nJP :\n黒雲会"
+  },
+  {
+    "key": "10-content",
+    "original": "항쟁이다.",
+    "context": "EN :\nA strife is in sight.\nJP :\n抗争だ。"
+  },
+  {
+    "key": "11-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "11-title",
+    "original": "흑운회 와카슈",
+    "context": "EN :\nKurokumo Wakashu\nJP :\n黒雲会 若衆"
+  },
+  {
+    "key": "11-content",
+    "original": "…정말로 희소식이군.",
+    "context": "EN :\n…That’s good news indeed.\nJP :\n…本当に朗報だな。"
+  },
+  {
+    "key": "12-content",
+    "original": "아이의 눈매가 가늘어졌어. 입꼬리는 이미 솟아 있고, 손가락은 꼼지락거리고 있었지.",
+    "context": "EN :\nThe child’s eyes narrowed. Her mouth bent into a grin, and her fingers twitched.\nJP :\n子供の目元が細くなった。口角は既につり上がっていて、指はうねうねと動いてたんだ。"
+  }
+]

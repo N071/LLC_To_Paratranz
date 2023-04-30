@@ -1,0 +1,52 @@
+[
+  {
+    "key": "battle_awaken_20901_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20901_1-dlg",
+    "original": "모든 걸 거둬들일 순 없었어…",
+    "context": "EN :\nI couldn’t undo a thing…\nJP :\n全てを払い戻すことはできなかった…。"
+  },
+  {
+    "key": "battle_awaken_20902_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20902_1-dlg",
+    "original": "뜨거운 불꽃이 마음을 녹일 수 있다면…",
+    "context": "EN :\nIf fervent flames can thaw the heart…\nJP :\n熱い火花が心を溶かすことが出来れば…。"
+  },
+  {
+    "key": "battle_awaken_20903_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20903_1-dlg",
+    "original": "그래도, 언제나 추워할 수는 없으니까.",
+    "context": "EN :\nWell, I can’t shiver in the cold forever.\nJP :\nそれでも、ずっと寒いままでいることは出来ないから。"
+  },
+  {
+    "key": "battle_erosion_20902_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20902_1-dlg",
+    "original": "까맣게… 까맣게…",
+    "context": "EN :\nTo ashes… To dust…\nJP :\n黒く…黒く…。"
+  },
+  {
+    "key": "battle_erosion_20903_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20903_1-dlg",
+    "original": "얼어버리면… 아플 필요도 없어서.",
+    "context": "EN :\nStay frozen… and there will be no pain.\nJP :\n凍ってしまえば…痛くなる必要もないから。"
+  }
+]

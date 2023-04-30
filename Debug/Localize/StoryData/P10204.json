@@ -1,0 +1,518 @@
+[
+  {
+    "key": "0-content",
+    "original": "아이는 벌써 사흘째 앉은 자리에서 꼼짝을 하지 않고 있었어.",
+    "context": "EN :\nThe child had remained seated in the same spot for three days now.\nJP :\n子供はその場に座ってから三日もの間、ビクともしていなかった。"
+  },
+  {
+    "key": "1-content",
+    "original": "마치 모든 자극을 눈앞에 놓인 모니터에 다 빼앗긴 듯, 식욕도, 수면욕도.",
+    "context": "EN :\nIt is as if the screen has absorbed her attention completely, burying even the desire to eat or sleep beneath sensory stimulation.\nJP :\nまるで全ての刺激を目の前に置かれたモニターに奪われたかのように、食欲も、睡眠欲も。"
+  },
+  {
+    "key": "2-content",
+    "original": "아이는, 그 무엇도 느끼지 못하는 듯 해.",
+    "context": "EN :\nThe child seems as if she can’t feel a thing.\nJP :\n子供は、何も感じられないように見えるね。"
+  },
+  {
+    "key": "3-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "3-content",
+    "original": "그래… 바로 이거야… 계속 나오잖아…",
+    "context": "EN :\nYes… This is it… It keeps going…\nJP :\nえぇ…まさにこれよ…いくつも出てくるじゃない…。"
+  },
+  {
+    "key": "4-content",
+    "original": "가끔씩 흘러나오는 소름끼치는 웃음, 속삭이는 듯한 혼잣말, 그리고 타자소리와 마우스를 딸깍이는 소리 외에는, 아무것도 들리지 않는 공간.",
+    "context": "EN :\nThe room’s air is still, only stirred on occasion by creepy cackles, murmured monologues, and the clicks and taps of the keyboard and mouse.\nJP :\nたまに零れ落ちてくる鳥肌の立つ笑い、囁くような独り言、そしてキーボードの音とマウスをカチャカチャする音以外には、何も聞こえない空間。"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "5-content",
+    "original": "으으음! 이렇게나 많은 놈들이 의체를 찍어내고 있었다니… 지독해! 역겨워!",
+    "context": "EN :\nMmmh! Just look at how many infidels are printing out prosthetics… How appalling! How disgusting!\nJP :\nうぅううん！こんなに沢山の奴らが義体を量産してただなんて…酷い！おぞましい！"
+  },
+  {
+    "key": "6-content",
+    "original": "아이의 앞쪽에는 어디에서인가 손에 얻은 저장장치가 하나 꽂혀있었어.",
+    "context": "EN :\nA storage device was plugged into the child’s computer.\nJP :\n子供の前方にはどこからか手に入れた記憶装置が一つ挿さっていた。"
+  },
+  {
+    "key": "7-content",
+    "original": "작게 빛나고 있는 글자들을 읽어보니, 에밀 이라는 단어가 적혀 있었지. 싱클레어에게 받았다는 열쇠는, 아마 저걸 말하는 것일 거야.",
+    "context": "EN :\nIts tiny, glowing letters read “Emil”. Following the name, that must be the “key” she got from Sinclair.\nJP :\n小さく光っている文字を読んでみると、エミールという単語が書かれてるね。シンクレアに貰ったって鍵は、きっとアレのことみたい。"
+  },
+  {
+    "key": "8-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "8-content",
+    "original": "싱클레어… 싱클레어…! 정말, 정말이지 고마운 사람이네요… 당신은!",
+    "context": "EN :\nSinclair… Oh, Sinclair…! My, how grateful I am for you… Truly!\nJP :\nシンクレア…シンクレア…！本当の、本当にありがたい人間ですねぇ…あなたは！"
+  },
+  {
+    "key": "9-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "9-content",
+    "original": "크흣, 마을 통째로 이단이나 마찬가지 잖아…! 이런 곳에서 살다니, 상당히 불쾌했겠군요, 싱클레어!",
+    "context": "EN :\nKehe, the whole village is a den of heresy…! It must have been quite unpleasant to live in such a place, Sinclair!\nJP :\nくふっ、町が丸ごと異端といっても過言じゃないわ…！こんな場所で生きるだなんて、とても不快だったでしょうね、シンクレア！"
+  },
+  {
+    "key": "10-content",
+    "original": "그 아이의 머릿속에서는 빠르게 생각이 돌아가.",
+    "context": "EN :\nThe child’s mind is busied with thoughts.\nJP :\nその子供の頭はフル回転していた。"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "11-content",
+    "original": "이 순수하지 않은 것들을 어떻게 정화해야할까.",
+    "context": "EN :\nNow how will I purify those impure things?\nJP :\nこの純粋でない者達をどうやって浄化しましょう。"
+  },
+  {
+    "key": "12-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "12-content",
+    "original": "아니, 가만히 생각해보자.",
+    "context": "EN :\nNo, let’s think for a second.\nJP :\n待って、ちょっと考えてみましょうか。"
+  },
+  {
+    "key": "13-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "13-content",
+    "original": "이단들 몸뚱아리의 속에 가장 순수한 것이 숨어 있잖아?",
+    "context": "EN :\nThose heretics still keep the purest piece in their bodies, don’t they?\nJP :\n異端達のガラクタの中に、最も純粋なものが隠れているでしょう？"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "14-content",
+    "original": "뇌.",
+    "context": "EN :\nThe brain.\nJP :\n脳。"
+  },
+  {
+    "key": "15-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "15-content",
+    "original": "온 몸을 의체로 뜯어 고친 것들도 뇌 만큼은 그대로 가지고 있어.",
+    "context": "EN :\nEven those who have replaced their entire bodies with prosthetics still have a brain.\nJP :\n全身を義体に挿げ替えたモノたちも、脳だけはそのまま持っている。"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "16-content",
+    "original": "심장도, 폐도, 전부 강화 시술로 바꿔 버릴 수 있지만 뇌 만큼은 도시에서 대체할 수 없는 순수한 것이지.",
+    "context": "EN :\nThe likes of the heart and lungs can all be augmented and swapped out, but the brain is the one pure irreplaceable thing in the City.\nJP :\n心臓も、肺も、全部強化施術で変えてしまうことはできるが、脳だけは都市で代替することのできない純粋なもの。"
+  },
+  {
+    "key": "17-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "17-content",
+    "original": "하!",
+    "context": "EN :\nHa!\nJP :\nはっ！"
+  },
+  {
+    "key": "18-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "18-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "18-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "18-content",
+    "original": "그래서는 안되지. 순수한 것이 불쌍하잖아. 그 모순 자체가 불쾌하잖아!",
+    "context": "EN :\nThat won’t do. Think of the poor thing, all surrounded by impurity. The irony churns my guts just thinking about it!\nJP :\nそれじゃあ駄目でしょう。純粋なものが可哀想でしょう。その矛盾自体が不快じゃないの！"
+  },
+  {
+    "key": "19-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "19-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "19-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "19-content",
+    "original": "머리통을 뜯어 발겨서, 불순물은 불순물대로 있게 해야겠어.",
+    "context": "EN :\nI’ll have to rip their heads apart—that way, the impure will stay impure.\nJP :\n脳天をこじ開けて、不純物は不純物らしくしてやらないと。"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "20-content",
+    "original": "좋아… 좋아!",
+    "context": "EN :\nYes… Yes!\nJP :\nいいよ…いいね！"
+  },
+  {
+    "key": "21-content",
+    "original": "마침내 생각을 끝내고 의자에서 일어선 아이는, 커다란 못을 쥐어 들었어.",
+    "context": "EN :\nWith her mind finally made up, the child rose from her seat and gripped a huge nail.\nJP :\nついに思考を止めて椅子から立上がった子供は、大きな釘を握りしめた。"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "22-content",
+    "original": "후후… 당신은 제 영웅이에요. 싱클레어.",
+    "context": "EN :\nHuhu… You are my hero, Sinclair.\nJP :\nふふ…貴方は私の英雄です。シンクレア。"
+  },
+  {
+    "key": "23-content",
+    "original": "다른 손으로 피와 기름으로 얼룩진 지도를 펼치면서.",
+    "context": "EN :\nWith her other hand, she unfolded a map stained with blood and grease.\nJP :\nもう片方の手で血と油で滲んだ地図を広げながら。"
+  },
+  {
+    "key": "24-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "24-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "24-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "24-content",
+    "original": "그 회사 연구실에서 들여다 보았던 유리창에 비쳤던 모습, 그대로야!",
+    "context": "EN :\nIt’s exactly as I saw through the glass window in that company’s lab!\nJP :\nあの会社の研究室で覗き込んだ硝子窓に映った様子、そっくりそのままね！"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "25-content",
+    "original": "당신이 살짝 내비쳤던 그 불결함에 대한 정의롭고도 불 같던 분노… 그걸 살짝 건드렸더니 당신은 내게 이 보물을 전해주었죠.",
+    "context": "EN :\nThat glimpse of the righteous fury you showed for such filth… A little prod got you to hand this treasure over to me.\nJP :\n貴方がちらりと覗かせたその不潔さに対する正義溢れる、そして火のような憤怒…それに触れてあげたら貴方は私にこの宝物を渡してくれたんですよ。"
+  },
+  {
+    "key": "26-content",
+    "original": "아드득, 이로 붉은 펜의 뚜껑을 열어 뱉는 모습은 이미 무언가의 씌인 것만 같기도 했지.",
+    "context": "EN :\nShe appeared as though she were possessed by something as she bit off the lid of a red pen.\nJP :\nガリッ、歯で赤いペンのキャップを開けて吐き出す姿は、もはや何かに取り憑かれたように見えるね。"
+  },
+  {
+    "key": "27-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "27-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "27-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "27-content",
+    "original": "당신 주위의 이단을 정화하고… 혐오스러움을 깨끗하게 치워 내드리죠.",
+    "context": "EN :\nI shall purge the heresy encircling you… I shall wipe clean the disgust.\nJP :\n貴方の周囲の異端を浄化し…嫌悪を綺麗に片付けて差し上げましょう。"
+  },
+  {
+    "key": "28-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "28-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "28-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "28-content",
+    "original": "당신이라면 금방 이해하겠죠! 우리가 함께 이단을 심판하는 미래는… 확정되었으니까!",
+    "context": "EN :\nYou will see it in no time! The future where we judge heretics together… has been set in stone!\nJP :\n貴方なら直ぐに理解するでしょうね！私たちが共に異端を審判する未来は…確定していますから！"
+  },
+  {
+    "key": "29-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "29-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "29-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "29-content",
+    "original": "곧 봐요, 싱클레어.",
+    "context": "EN :\nWe will meet soon, Sinclair.\nJP :\n近いうちに会いましょう、シンクレア。"
+  },
+  {
+    "key": "30-content",
+    "original": "경박한 웃음, 강박적인 손짓.",
+    "context": "EN :\nThere was a burst of frivolous laughter and compulsive gestures.\nJP :\n軽薄な笑い、強迫的な手振り。"
+  },
+  {
+    "key": "31-content",
+    "original": "아이는 자지러지게 웃어대며…",
+    "context": "EN :\nThe child cackled like a maniac…\nJP :\n子供は大いに笑い転げて…。"
+  },
+  {
+    "key": "32-content",
+    "original": "‘칼프 마을’이라고 적힌 지도의 한 부분에 계속해서 동그라미를 그려 댔지.",
+    "context": "EN :\nAll as she kept on drawing circles over where the ‘Town of Calw’ was indicated on the map.\nJP :\n「カルフ町」と書かれた地図の一角に、何度も丸を描き殴った。"
+  },
+  {
+    "key": "33-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "33-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "33-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "33-content",
+    "original": "우리는 어깨를 나란히 하고 불결한 것들을 정화해나갈 테니까...",
+    "context": "EN :\nWe will purify the filth together, shoulder to shoulder…\nJP :\n私たちは肩を並べて、不潔なモノ達を浄化してゆくでしょう…。"
+  },
+  {
+    "key": "34-content",
+    "original": "지도 위의 마을은, 붉고도 붉게 물들어갔어.",
+    "context": "EN :\nThe town on the map was now covered in red.\nJP :\n地図の上の町は赤く、より赤く染まっていった。"
+  },
+  {
+    "key": "35-content",
+    "original": "앞으로 그렇게 변해갈 걸 암시라도 하듯이 말이야.",
+    "context": "EN :\nAs if she hinted at what would become of the town.\nJP :\nこの先、そんな風に変わっていくことを暗示でもするようにね。"
+  }
+]

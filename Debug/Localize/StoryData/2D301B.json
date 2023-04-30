@@ -1,0 +1,99 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 지하 광산 3층",
+    "context": "EN :\nCasino Mine B3\nJP :\nカジノ地下鉱山 3階"
+  },
+  {
+    "key": "0-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "0-content",
+    "original": "계속 서늘해지는 것 같아요.",
+    "context": "EN :\nFeels like it’s getting colder and colder.\nJP :\n下りる度に肌寒くなってる気がします。"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "왜 점점 얼음이 많아지죠...?",
+    "context": "EN :\nWhat’s up with all this ice around…?\nJP :\nどうして段々氷が増えてるんでしょう…？"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "이상 현상이 잦아질수록 긍정적인 신호라고 생각하는 편이 좋아요.",
+    "context": "EN :\nAn increase in the frequency of anomalies should ideally be strong, positive reflections.\nJP :\n推算するに、異常現象が頻発することは肯定的な信号だと思った方が良いかと。"
+  },
+  {
+    "key": "3-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "3-content",
+    "original": "불렀소?",
+    "context": "EN :\nDid you call?\nJP :\nお呼びかね？"
+  },
+  {
+    "key": "4-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "4-content",
+    "original": "…하아. 지금 그거, 농담은 아니었으면 좋겠어요. 덕분에 더 추워질 것 같으니까.",
+    "context": "EN :\n…Sigh. I hope that wasn’t your attempt at a joke. Thanks to you, I’m feeling even colder.\nJP :\n…はぁ。今のそれ、冗談じゃないと嬉しいんですけどね。おかげさまでもっと寒くなりそう。"
+  },
+  {
+    "key": "5-content",
+    "original": "이스마엘의 탄식을 뒤로하고, 파우스트가 한 말의 의미를 생각해보았다.",
+    "context": "EN :\nPutting aside Ishmael’s grievance, I thought about what Faust had said.\nJP :\nイシュメールの嘆きは置いといて、ファウストが言ったことの意味を考えてみた。"
+  },
+  {
+    "key": "6-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-content",
+    "original": "<…황금가지에 근접했다는 뜻… 맞지?>",
+    "context": "EN :\n<…Because that means we’re getting close to the Golden Bough… right?>\nJP :\n<…黄金の枝に近付いたってことで…合ってる？>"
+  },
+  {
+    "key": "7-content",
+    "original": "나름 모범적인 대답을 내놓았다고 생각했는데.",
+    "context": "EN :\nIt was a pretty solid answer if I do say so myself.\nJP :\nそれなりに模範的な回答を出せたと思ったけど。"
+  },
+  {
+    "key": "8-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-content",
+    "original": "네, 뭐.",
+    "context": "EN :\nYeah, sure.\nJP :\nはい、まぁ。"
+  },
+  {
+    "key": "9-content",
+    "original": "파우스트는 떨떠름하게 (어쩌면 내 귀에만 그렇게 들렸던 걸 수도 있다) 대답할 뿐이었다.",
+    "context": "EN :\nBut Faust’s reply was discouragingly dull, or at least that’s how I heard it.\nJP :\nファウストは渋そうな声で(もしかしたら私にだけ\nそういう風に聞こえたのかもしれないが)答えるだけだった。"
+  }
+]

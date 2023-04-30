@@ -1,0 +1,248 @@
+[
+  {
+    "key": "0-place",
+    "original": "전당포 거리",
+    "context": "EN :\nPawn Avenue\nJP :\n質屋の通り"
+  },
+  {
+    "key": "0-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "0-content",
+    "original": "계획을 설명 드리죠.",
+    "context": "EN :\nAllow me to give a rundown of the plan.\nJP :\n計画をご説明しますね。"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "황금가지에 도달하기 위해서 최우선이 되어야 할 건, 전원 카지노 무사 잠입입니다.",
+    "context": "EN :\nOur primary objective is to infiltrate the casino unsuspected; it will be critical for the successful recovery of the Golden Bough.\nJP :\n黄金の枝に到達するための最優先事項は、全員カジノへ無事侵入することです。"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "저희가 알아낸 정보에 의하면 입구는 총 세 개가 존재해요.",
+    "context": "EN :\nAccording to the information we’ve acquired, the casino has three entrances.\nJP :\n私たちが調べ上げた情報によると、入口は合計で3つ存在します。"
+  },
+  {
+    "key": "3-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-content",
+    "original": "일반 손님들이 출입하는 문과 VIP들만 이용가능한 전용통로, 마지막으로는 직원들이 이용하는 뒷문.",
+    "context": "EN :\nOne for ordinary visitors, one reserved for VIPs, and lastly, the backdoor used by employees.\nJP :\n一般のゲストが出入りする扉とVIPだけが利用可能な専用通路、\n最後に職員たちが利用する裏口。"
+  },
+  {
+    "key": "4-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "4-content",
+    "original": "저희는 각 입구에 한 조씩… 4명은 카지노 딜러, 4명은 일반 손님, 4명은 VIP 손님으로 위장한 후 흩어져서 출입을 할 겁니다.",
+    "context": "EN :\nWe’ll split into three groups of four Sinners to cover each entrance… Four of us will disguise as croupiers, four will pose as guests, and four will play the role of VIPs.\nJP :\n我々はそれぞれの入口に一組ずつ…四名はカジノディーラー、\n四名は一般客、四名はVIPゲストに変装し、別れてから侵入することになります。"
+  },
+  {
+    "key": "5-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "5-content",
+    "original": "확실히, 집단으로 다닐수록 눈에 띄지.",
+    "context": "EN :\nWorking in smaller groups will certainly draw less attention.\nJP :\n確かに集団であるほど、移動すれば目に付くだろうな。"
+  },
+  {
+    "key": "6-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "6-content",
+    "original": "무리 짓는 것보단 흩어지는 것이 적당하오.",
+    "context": "EN :\nIt is wiser to divide rather than unite.\nJP :\n群るよりかは、散りぼうのがよろし。"
+  },
+  {
+    "key": "7-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "7-content",
+    "original": "누가 어떤 역할을 맡을지는, 나눠드린 봉투를 열어서 확인하세요.",
+    "context": "EN :\nOpen the envelopes I gave out to confirm the role you’ve been assigned.\nJP :\n誰がどんな役割を担当するかは、お渡しした封筒を開けて確認してください。"
+  },
+  {
+    "key": "8-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-content",
+    "original": "그리고 이번 작전에서마저도 황금가지 탈환에 실패할 경우,",
+    "context": "EN :\nAlso, the higher-ups expressed concern over our performance.\nJP :\nそして今回の作戦でも黄金の枝の奪還に失敗した場合、"
+  },
+  {
+    "key": "9-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-content",
+    "original": "앞으로의 계획에 큰 차질이 생길 거라는 윗선의 우려가 있었어요.",
+    "context": "EN :\nThey stress that the company’s future plans hinge on whether we can retrieve the Golden Bough through this operation.\nJP :\nこれからの計画に大きな支障が出る、と上層部が憂慮していました。"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "그래서 이번엔 합동작전으로 갑니다.",
+    "context": "EN :\nTherefore, we will collaborate on a joint operation.\nJP :\nだから今回は合同作戦でいきます。"
+  },
+  {
+    "key": "11-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "11-content",
+    "original": "<합동?>",
+    "context": "EN :\n<Joint operation?>\nJP :\n<合同？>"
+  },
+  {
+    "key": "12-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-content",
+    "original": "보다 전문적이고 노련한 이들로 이뤄진 림버스 컴퍼니의 특수 부대…",
+    "context": "EN :\nOur partner is a special forces unit consisting of professionals and veterans…\nJP :\nより専門的で熟練した人たちで構成されたリンバス・カンパニーの特殊部隊…。"
+  },
+  {
+    "key": "13-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-content",
+    "original": "지금은 LCC, 클리어 부서라고 불리던가요. 잠입 작전에서만큼은 저희보다 우수하다고 말할 수 있을 겁니다.",
+    "context": "EN :\nI believe they are now monikered the ‘LCC’, short for the Limbus Company Clearance Department. Rest assured that they are our betters, at least in espionage operations.\nJP :\n今はLCC、クリア部署と呼ばれていましたっけ。\n侵入作戦においては、私たちより優秀だといえましょう。"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-content",
+    "original": "이미 이 정도로도 충분히 많다고 생각하는데요.",
+    "context": "EN :\nI thought twelve people was already a crowd.\nJP :\n現状でも十分多いと思うんですけど。"
+  },
+  {
+    "key": "15-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "15-content",
+    "original": "숫자가 중요한 게 아니라는 사실을 드디어 깨달았나 봐.",
+    "context": "EN :\nGuess someone finally realized that more isn’t always merrier.\nJP :\n数字が大事じゃないってことを今になって気付いたみたいだな。"
+  },
+  {
+    "key": "16-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "16-content",
+    "original": "와! 다른 부서를 보는 건 처음이네요. 어디 계시나요?",
+    "context": "EN :\nWowzer! I haven’t met staff from other teams before. Just where could they be?\nJP :\nわぁ！他の部署の人に会うのは初めてですね。\nどこにいらっしゃるんですか？"
+  },
+  {
+    "key": "17-content",
+    "original": "홍루는 금방이라도 파우스트가 데려와서 인사를 시켜줄 것처럼 주위를 두리번거렸다.",
+    "context": "EN :\nHong Lu looked around, expecting Faust to bring them forward for introductions any second.\nJP :\nホンルは、ファウストが今すぐにでも彼らを連れてきて\n挨拶させてくれることを期待したのか、周囲を見回した。"
+  },
+  {
+    "key": "18-content",
+    "original": "…물론, 한참을 두리번대도 나타나는 사람은 없었다.",
+    "context": "EN :\n…Needless to say, no one showed up like he expected.\nJP :\n…もちろん、しばらくキョロキョロしたところで出てくる人はいなかった。"
+  },
+  {
+    "key": "19-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "19-content",
+    "original": "우린 전당포로 갑니다.",
+    "context": "EN :\nWe’ll be heading to the pawnshop.\nJP :\n私たちは質屋の方に行きます。"
+  },
+  {
+    "key": "20-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "20-content",
+    "original": "요새도 그런 가게들이 있나?",
+    "context": "EN :\nIs pawning still a thing these days?\nJP :\n今でもそういう店がまだあるのか？"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-content",
+    "original": "이곳은 전당포의 거리라고도 불릴 만큼 대부분의 가게가 전당포를 겸하고 있어요.",
+    "context": "EN :\nWe’re in the so-called pawnbroker’s avenue. Most businesses double as pawnshops here.\nJP :\nここは質屋通りと呼ばれるくらい、大多数の店が質屋を兼営しています。"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "저 가게가 합류 지점이에요. 들어가죠.",
+    "context": "EN :\nThat place is our rendezvous. Let’s head inside.\nJP :\nあの店が合流地点です。入りましょう。"
+  }
+]

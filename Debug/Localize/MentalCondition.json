@@ -1,0 +1,42 @@
+[
+  {
+    "key": "OnWinDuelAsParryingCountMultiplyAndPlusPercent-add",
+    "original": "더미더미더미입니다!!!!!!합횟수*{0} + 합횟수*{1}% 증가",
+    "context": "EN :\n더미더미더미입니다!!!!!!합횟수*{0} + 합횟수*{1}% 증가\nJP :\n더미더미더미입니다!!!!!!합횟수*{0} + 합횟수*{1}% 증가"
+  },
+  {
+    "key": "OnWinDuelAsParryingCountMultiplyAndPlusPercent-min",
+    "original": "더미더미더미입니다!!!!!!합횟수*{0} + 합횟수*{1}% 감소",
+    "context": "EN :\n더미더미더미입니다!!!!!!합횟수*{0} + 합횟수*{1}% 감소\nJP :\n더미더미더미입니다!!!!!!합횟수*{0} + 합횟수*{1}% 감소"
+  },
+  {
+    "key": "OnKillEnemyAsLevelRatioMultiply-add",
+    "original": "더미더미더미입니다!!!!!!적 처치 시 적 레벨 비례 값 * {0} 증가",
+    "context": "EN :\n더미더미더미입니다!!!!!!적 처치 시 적 레벨 비례 값 * {0} 증가\nJP :\n더미더미더미입니다!!!!!!적 처치 시 적 레벨 비례 값 * {0} 증가"
+  },
+  {
+    "key": "OnKillEnemyAsLevelRatioMultiply-min",
+    "original": "더미더미더미입니다!!!!!!적 처치 시 적 레벨 비례 값 * {0} 감소",
+    "context": "EN :\n더미더미더미입니다!!!!!!적 처치 시 적 레벨 비례 값 * {0} 감소\nJP :\n더미더미더미입니다!!!!!!적 처치 시 적 레벨 비례 값 * {0} 감소"
+  },
+  {
+    "key": "OnKillEnemyByOtherAllyAsLevelRatioMultiply-add",
+    "original": "더미더미더미입니다!!!!!!아군이 적 처치 시 적 레벨 비례 값 * {0} 증가",
+    "context": "EN :\n더미더미더미입니다!!!!!!아군이 적 처치 시 적 레벨 비례 값 * {0} 증가\nJP :\n더미더미더미입니다!!!!!!아군이 적 처치 시 적 레벨 비례 값 * {0} 증가"
+  },
+  {
+    "key": "OnKillEnemyByOtherAllyAsLevelRatioMultiply-min",
+    "original": "더미더미더미입니다!!!!!!아군이 적 처치 시 적 레벨 비례 값 * {0} 감소",
+    "context": "EN :\n더미더미더미입니다!!!!!!아군이 적 처치 시 적 레벨 비례 값 * {0} 감소\nJP :\n더미더미더미입니다!!!!!!아군이 적 처치 시 적 레벨 비례 값 * {0} 감소"
+  },
+  {
+    "key": "OnDieAllyAsLevelRatio-add",
+    "original": "더미더미더미입니다!!!!!!아군 사망 시 레벨 비례 * {0} 증가",
+    "context": "EN :\n더미더미더미입니다!!!!!!아군 사망 시 레벨 비례 * {0} 증가\nJP :\n더미더미더미입니다!!!!!!아군 사망 시 레벨 비례 * {0} 증가"
+  },
+  {
+    "key": "OnDieAllyAsLevelRatio-min",
+    "original": "더미더미더미입니다!!!!!!아군 사망 시 레벨 비례 * {0} 감소",
+    "context": "EN :\n더미더미더미입니다!!!!!!아군 사망 시 레벨 비례 * {0} 감소\nJP :\n더미더미더미입니다!!!!!!아군 사망 시 레벨 비례 * {0} 감소"
+  }
+]

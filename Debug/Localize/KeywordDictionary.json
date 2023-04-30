@@ -1,0 +1,22 @@
+[
+  {
+    "key": "Gcorp-name",
+    "original": "G사",
+    "context": "EN :\nG Corp.\nJP :\nG社"
+  },
+  {
+    "key": "Gcorp-desc",
+    "original": "G사이다.",
+    "context": "EN :\nIt’s G Corp.\nJP :\nG社だ。"
+  },
+  {
+    "key": "body-name",
+    "original": "시체",
+    "context": "EN :\nCorpse\nJP :\n死体"
+  },
+  {
+    "key": "body-desc",
+    "original": "사람 혹은 동물이 사망한 후의 육신을 칭하는 말",
+    "context": "EN :\nCorpse (NOUN): The body of a person or animal after death.\nJP :\n人あるいは動物が死亡した後の肉体を称する言葉。"
+  }
+]

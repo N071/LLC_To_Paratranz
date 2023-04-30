@@ -1,0 +1,629 @@
+[
+  {
+    "key": "0-place",
+    "original": "4구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 4 - LC Branch Interior\nJP :\n4区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "0-content",
+    "original": "이 층에는 유독 구더기들이 많이 보이네.",
+    "context": "EN :\nThis floor is crawling with maggots.\nJP :\nこの階層には他のに比べてウジ虫がかなりいるね。"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<차라리 벌레가 나아. 이전 층에 있던 환상체 같은 건 두 번 다신 보고 싶지 않아.>",
+    "context": "EN :\n<These bugs aren’t so bad after the last floor’s Abnormality. Don’t want anything like that ever again.>\nJP :\n<いっそ虫の方がマシだよ。前の階層にいた幻想体とかもう二度と見たくない。>"
+  },
+  {
+    "key": "2-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "2-content",
+    "original": "풉.. 그거 그렉이 들으면 기뻐하겠다. 안 그래, 벌레 친구?",
+    "context": "EN :\nPft… Sure Greg would be glad to hear that. Aren’t you, buggy buddy?\nJP :\nぷっ…それグレッグが聞いたら喜びそう。そうでしょ、アブラ虫くん？"
+  },
+  {
+    "key": "3-content",
+    "original": "하지만 그레고르는 로쟈의 말을 듣고 있지 않았다.",
+    "context": "EN :\nBut Gregor wasn’t paying attention to Rodya.\nJP :\nしかしグレゴールはロージャの話を聞いてはいなかった。"
+  },
+  {
+    "key": "4-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "4-content",
+    "original": "…다들 아까부터 무슨 소리 안 들려?",
+    "context": "EN :\n…Don’t you all hear something?\nJP :\n…みんな、さっきから何か聞こえないか？"
+  },
+  {
+    "key": "5-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "5-content",
+    "original": "소리라면 계속 들렸잖아요. 로쟈 씨, 이 상황에서까지 배가 고픈 거예요?",
+    "context": "EN :\nWe’ve been hearing a constant growl. Rodya, are you really that hungry at a time like this?\nJP :\n音ならずっと聞こえてたじゃないですか。\nロージャさん、この状況でもお腹が空くんですか？"
+  },
+  {
+    "key": "6-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "6-content",
+    "original": "그, 그런 건 모르는 척하는 거야~ 응?",
+    "context": "EN :\nH-Hey, you’re supposed to let that kinda stuff slide~ Please, girl?\nJP :\nそ、そういうのは聞かなかったふりしてあげるもんだよ～、ねっ？"
+  },
+  {
+    "key": "7-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "7-content",
+    "original": "아니, 그거 말고… 마치…",
+    "context": "EN :\nNo, not that… It’s like…\nJP :\nいや、それじゃなくて…まるで…。"
+  },
+  {
+    "key": "8-content",
+    "original": "여태 앞장조차 서지 않았던 그레고르가 먼저 걸어가더니 홀린 듯 문을 열었다.",
+    "context": "EN :\nFor the first time on the expedition, Gregor walked ahead of the group and opened the door next to him as if by some compulsion.\nJP :\n今まで先頭にすら立たなかったグレゴールが先に歩きだすと、\n取り憑かれたようにドアを開けた。"
+  },
+  {
+    "key": "9-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "9-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "9-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "9-content",
+    "original": "잠깐, 거긴 환상체 격리실…!",
+    "context": "EN :\nWait, that’s a containment unit…!\nJP :\n待って、そこは幻想体隔離室…！"
+  },
+  {
+    "key": "10-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "10-content",
+    "original": "마치… 그때처럼…",
+    "context": "EN :\nIt’s like… that time…\nJP :\nまるで…あのときみたいに…。"
+  },
+  {
+    "key": "11-content",
+    "original": "아니다, 문은 이미 열려 있었다.",
+    "context": "EN :\nNo, the door was already open.\nJP :\nいや、扉はもう開かれていた。"
+  },
+  {
+    "key": "12-content",
+    "original": "쏟아지는 황금빛을 그레고르만이 넋을 놓은 듯 바라보고 있었다.",
+    "context": "EN :\nGregor gazed into the shower of golden light pouring from the room.\nJP :\n溢れんばかりの黄金の光を、\nグレゴールだけが魅了されたかのように眺めていた。"
+  },
+  {
+    "key": "13-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "13-content",
+    "original": "<그레고…!>",
+    "context": "EN :\n<Grego—!>\nJP :\n<グレゴ…！>"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-content",
+    "original": "우리… 시간 여행이라도 한 걸까요?",
+    "context": "EN :\nDid we… travel back in time?\nJP :\n私たち…タイムトラベルでもしたんですかね？"
+  },
+  {
+    "key": "15-content",
+    "original": "희뿌연 하늘이 보인다.",
+    "context": "EN :\nI see an overcast sky.\nJP :\n白く霞んだ空が見える。"
+  },
+  {
+    "key": "16-content",
+    "original": "먼발치에서는 비명과 함성이 비틀린 듯 얽혀 들려온다.",
+    "context": "EN :\nCries and screams twist and ring out at a distance.\nJP :\n遠くからは悲鳴と歓声がひねり合わさったかのような音が聞こえてくる。"
+  },
+  {
+    "key": "17-content",
+    "original": "그리고 한데 섞여 들리는 포격 소리와 함성 소리는 매캐하게 공간을 메워낸다.",
+    "context": "EN :\nAnd in that sky, gunfire and artillery create a cacophony.\nJP :\nそして一つに混じって聞こえる砲撃音と歓声は、煙たく空間を埋めてゆく。"
+  },
+  {
+    "key": "18-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "18-content",
+    "original": "딱 보면 모르는가? 이곳은…",
+    "context": "EN :\nIsn’t it clear enough? This is…\nJP :\n見れば分かるだろう？ここは…。"
+  },
+  {
+    "key": "19-place",
+    "original": "연기전쟁 한복판",
+    "context": "EN :\nMidst of the Smoke War\nJP :\n煙戦争の真っ只中"
+  },
+  {
+    "key": "19-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "19-content",
+    "original": "전장… 한복판.",
+    "context": "EN :\nA battlefield… The heart of it.\nJP :\n戦争の…真っ只中。"
+  },
+  {
+    "key": "20-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "20-content",
+    "original": "…이, 이건… 꿈? 악몽? 왜, 왜 또다시…",
+    "context": "EN :\n…A-Am I… dreaming? Or a nightmare? Why—Why here again…\nJP :\n…こ、これは…夢？悪夢？ど、どうしてまた…。"
+  },
+  {
+    "key": "21-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "21-content",
+    "original": "그러니까 왜 전장 한복판에 있냔 말이야! 함정에라도 빠진 거 아니야?",
+    "context": "EN :\nSo why the hell are we in a bloody battlefield?! Is this a trap or something?\nJP :\nだからなんで戦争の真っ只中にいるんだよ！罠にでもはめられたんじゃねぇか？"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "아니요. 길을 잘 찾은 것 같군요.",
+    "context": "EN :\nNo. We’re on the right track.\nJP :\nいいえ。正しい方向へ進めたようですね。"
+  },
+  {
+    "key": "23-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "23-content",
+    "original": "멀지 않은 곳에 우리가 찾던 기술의 정수가 있습니다.",
+    "context": "EN :\nThe essence of the technology we’re looking for is not far from here.\nJP :\n遠くない場所に私たちの探していた技術の精髄があります。"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "황금가지요?",
+    "context": "EN :\nYou mean the Golden Bough?\nJP :\n黄金の枝ですか？"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-content",
+    "original": "네, 다들 이곳이 언제인지 알아보시겠나요?",
+    "context": "EN :\nCorrect. Do you recognize when this was?\nJP :\nはい、皆さんここがいつなのかは分かりますか？"
+  },
+  {
+    "key": "26-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "26-content",
+    "original": "눈이라는 게 있다면 한눈에 알아보겠지.",
+    "context": "EN :\nAnyone with functioning eyes should know at a glance.\nJP :\n目さえあるなら一目で分かるだろう。"
+  },
+  {
+    "key": "27-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "27-content",
+    "original": "<어, 나는… 모르겠는데.>",
+    "context": "EN :\n<Uhhh, I actually… don’t.>\nJP :\n<えっと、その…分かんない。>"
+  },
+  {
+    "key": "28-content",
+    "original": "솔직하게 밝혔다.",
+    "context": "EN :\nI confessed.\nJP :\n正直に言った。"
+  },
+  {
+    "key": "29-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "29-content",
+    "original": "관리자님은 모르는 게 당연합니다. 관리자님께서는 눈이 없으시니.",
+    "context": "EN :\nIt’s obvious that you wouldn’t recognize this, Manager. You don’t have eyes that fit conventional definitions.\nJP :\n管理人様は分からずとも当然です。管理人様には目がございませんから。"
+  },
+  {
+    "key": "30-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "30-content",
+    "original": "그걸 변명이라고 하나요…",
+    "context": "EN :\nWas that the best excuse you have…\nJP :\nそれって言い訳になるんですか…。"
+  },
+  {
+    "key": "31-content",
+    "original": "오티스는 당황한 기색을 가리려는 듯 헛기침을 두어 번 하고, 눈을 가늘게 뜨며 전장을 바라보았다.",
+    "context": "EN :\nOutis cleared her throat as if to mask her embarrassment, then turned her narrow gaze to the battlefield.\nJP :\nウーティスは慌てた様子を隠すかのように咳払いをし、\n目を細めて戦場を眺めた。"
+  },
+  {
+    "key": "32-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "32-content",
+    "original": "소속을 과시하는 듯한 형형색색 촌스러운 깃발들이 나부끼는 걸로 봐선…",
+    "context": "EN :\nJudging from the colorful wave of garish flags showing off the factions in play…\nJP :\n所属を誇示するかのような色とりどりのダサい旗がはためいてるのを見るに…。"
+  },
+  {
+    "key": "33-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "33-content",
+    "original": "연기 전쟁이 발발한 지 최소 70일 후…",
+    "context": "EN :\nThis is at least 70 days into the Smoke War…\nJP :\n煙戦争が勃発してから少なくとも70日後…。"
+  },
+  {
+    "key": "34-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "34-content",
+    "original": "…입니다, 관리자님.",
+    "context": "EN :\n…This concludes briefing, Manager.\nJP :\n…でございます、管理人様。"
+  },
+  {
+    "key": "35-content",
+    "original": "그때, 누군가 뒤에서 긴박하게 옷깃을 잡아당겼다.",
+    "context": "EN :\nSuddenly, there was a strong tug at Heathcliff’s coat from behind.\nJP :\nそのとき、誰かが後ろから切羽詰まった風に服を引っ張ってきた。"
+  },
+  {
+    "key": "36-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "36-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "36-content",
+    "original": "당신들 미쳤어? 어서 대피해! 저 폭탄에 노출되면 급격하게 노화가 진행된다고!",
+    "context": "EN :\nAre you out of your minds? You need shelter, now! You’ll age rapidly if exposed to that bomb’s blast!\nJP :\n気でも狂った？ 早く避難して！\nあの爆弾に曝されると急激に老化が進むんだって！"
+  },
+  {
+    "key": "37-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "37-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "37-content",
+    "original": "옆 초소 직원들은 지금 전쟁이고 뭐고 지팡이 없이는 걷지도 못한다니까!",
+    "context": "EN :\nThe outpost next to ours turned into a nursing home—they can’t even walk without sticks!\nJP :\n隣の守衛所の職員達は今戦争どころじゃなくて、\n杖無しじゃ歩けすらしないんだよ！"
+  },
+  {
+    "key": "38-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "38-content",
+    "original": "대체 이 자식은 누군데 아는 척을…",
+    "context": "EN :\nWho the hell are you and why do you act like you know us—\nJP :\n一体こいつは自分を何様だと思って知ったかを…。"
+  },
+  {
+    "key": "39-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "39-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "39-content",
+    "original": "앗! 그레고르 과장님, 고생 많으십니다!",
+    "context": "EN :\nOh! Manager Gregor! My respects, sir!\nJP :\nあっ！グレゴール課長、お疲れ様です！"
+  },
+  {
+    "key": "40-content",
+    "original": "붕대를 감은 남자는 그레고르를 보자마자 각이 선 자세로 경례를 올렸다.",
+    "context": "EN :\nThe bandaged man snapped to attention and saluted Gregor as soon as he saw him.\nJP :\n包帯を巻いた男はグレゴールを見るや否や、ピチッとした姿勢で敬礼をした。"
+  },
+  {
+    "key": "41-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "41-content",
+    "original": "…너는.",
+    "context": "EN :\n…You.\nJP :\n…お前は。"
+  },
+  {
+    "key": "42-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "42-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "42-content",
+    "original": "저를 모르시겠죠. 생체 관리팀, 토마입니다!",
+    "context": "EN :\nYou wouldn’t recognize me, sir. I’m Tomah from Biomimetics Maintenance!\nJP :\n私のことはご存じないでしょうね。 生体管理チーム、トーマです！"
+  },
+  {
+    "key": "43-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "43-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "43-content",
+    "original": "선발 대열에 계신 줄 알았는데, 후방에 있었을 줄은 몰랐네요.",
+    "context": "EN :\nI thought you were part of the front unit; I didn’t expect to find you here at the back.\nJP :\n先発隊列にいらっしゃると思ったんですが、後方にいるとは思いませんでした。"
+  },
+  {
+    "key": "44-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "44-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "44-content",
+    "original": "합류를 해야 하는 거면 제가 도와드릴까요? 전 다리 특화형이여서 점프에는 자신이…",
+    "context": "EN :\nAre you on your way to the front? I could help you get there since the augmentation on my legs allows me to jump―\nJP :\n合流するべきなら私がお手伝いしましょうか？\n私は脚特化型ですからジャンプには自信が…。"
+  },
+  {
+    "key": "45-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "45-content",
+    "original": "윽, 말만 들어도 징그러워.",
+    "context": "EN :\nBweh, that sounds gross.\nJP :\nうぇ、聞くだけでも気持ち悪い。"
+  },
+  {
+    "key": "46-content",
+    "original": "토마가 의아한 눈초리로 로쟈를 쳐다보았다.",
+    "context": "EN :\nTomah looked at Rodya with suspicion.\nJP :\nトーマが訝しげな目つきでロージャを見つめた。"
+  },
+  {
+    "key": "47-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "47-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "47-content",
+    "original": "당신, 방금 무슨 말을…",
+    "context": "EN :\nYou, what did you just…\nJP :\nあなた、さっき何と…。"
+  },
+  {
+    "key": "48-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "48-content",
+    "original": "토, 토마! 대리, 아니… 사원인가?",
+    "context": "EN :\nH-Hey, Tomah! So you’re an assistant manager—or regular staff?\nJP :\nと、トーマ！代理、いや……社員か？"
+  },
+  {
+    "key": "49-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "49-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "49-content",
+    "original": "넵! 이등 사원입니다!",
+    "context": "EN :\nSir, yes, sir! I’m an assistant private, sir!\nJP :\nはい！二等社員です！"
+  },
+  {
+    "key": "50-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "50-content",
+    "original": "이, 이쪽은 아직 시술된 지 얼마 안 된 직원이라… 정신착란 부작용이 해결되지 않았어. 내가 잘 타이르지.",
+    "context": "EN :\nErr, you see, s-she’s a new hire who had her procedure not too long ago, so… Still getting over the confusion, y’know. I’ll give her a good talking to.\nJP :\nこ、こっちのはまだ施術されたばかりの職員だから… 精神錯乱の副作用がまだ解決してないんだ。俺の方でよく言い聞かせとくよ。"
+  },
+  {
+    "key": "51-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "51-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "51-content",
+    "original": "그렇군요… 아무리 그래도 전시에 준비도 안 된 직원을.",
+    "context": "EN :\nAh, I get it… Our corporation must be getting desperate, sending unprepared employees to battle.\nJP :\nそうなんですね…いくら何でも戦争の準備もできていない職員を。"
+  },
+  {
+    "key": "52-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "52-content",
+    "original": "미안, 미안하네. 내가 급히 데려갈 일이 있어서…",
+    "context": "EN :\nYeah, we’re—sorry for the trouble. I’ve got to take her somewhere real quick…\nJP :\nごめん、ごめんな。俺の方で急いで連れてく用事があって…。"
+  },
+  {
+    "key": "53-content",
+    "original": "그레고르는 거의 밀다시피 남자와 거리를 두고, 파우스트에게 급하게 다가왔다.",
+    "context": "EN :\nGregor practically yanked himself out of the conversation and hurriedly walked to Faust.\nJP :\nグレゴールは、ほぼ押しのけるように男と距離を置き、\nファウストの方へ急いで近付いた。"
+  },
+  {
+    "key": "54-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "54-content",
+    "original": "어떻게 된 거지, 파우스트 씨? 이건…",
+    "context": "EN :\nJust what’s going on, Faust? These are…\nJP :\nどうなってるんだ、ファウストさん？これは…。"
+  },
+  {
+    "key": "55-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "55-content",
+    "original": "…내 기억이잖아.",
+    "context": "EN :\n…my memories.\nJP :\n…俺の記憶じゃないか。"
+  },
+  {
+    "key": "56-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "56-content",
+    "original": "정확히는 자아심도예요.",
+    "context": "EN :\nWe’re in the fathoms of your ego, to be precise.\nJP :\n正確には自我心道です。"
+  },
+  {
+    "key": "57-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "57-content",
+    "original": "당신의 마음속에 나 있는 하나의 길. 즉…",
+    "context": "EN :\nAn open path in your psyche. In other words…\nJP :\nあなたの心の中にある一つの道。つまり…。"
+  },
+  {
+    "key": "58-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "58-content",
+    "original": "우리가 그레고르씨의 마음 안에 들어오게 되었다는 뜻이죠.",
+    "context": "EN :\nWe’ve entered your heart and mind, Gregor.\nJP :\n私たちがグレゴールさんの心の中に進入したということです。"
+  }
+]

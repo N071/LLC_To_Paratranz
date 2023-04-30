@@ -1,0 +1,502 @@
+[
+  {
+    "key": "0-place",
+    "original": "끝없는 시체들의 언덕",
+    "context": "EN :\nUnending Hill of Corpses\nJP :\n果てしない死体の丘"
+  },
+  {
+    "key": "0-content",
+    "original": "수감자들은, 지치고 훼손되었으며, 몇몇은 죽어있기도 했다.",
+    "context": "EN :\nThe Sinners were fatigued and damaged, some already dead.\nJP :\n囚人たちは疲れ傷付き、何人かは死んでもいた。"
+  },
+  {
+    "key": "1-content",
+    "original": "그렇지만 크로머는 아직도 의기양양한 채로, 사형선고라도 내리듯 손을 뻗어 싱클레어의 코트 안주머니를 뒤진다.",
+    "context": "EN :\nAs opposed to us, Kromer still stands triumphantly. She reaches for the inside of Sinclair’s coat in what seems like a declaration of his fate.\nJP :\nしかしクローマーはまだ意気揚々として、\n死刑宣告でも下すように手を伸ばしてシンクレアのコートの内ポケットをまさぐる。"
+  },
+  {
+    "key": "2-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "2-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "2-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "2-content",
+    "original": "자, 때가 됐어. 싱클레어.",
+    "context": "EN :\nNow then, it’s time, Sinclair.\nJP :\nさあ、時が来た。シンクレア。"
+  },
+  {
+    "key": "3-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "3-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "3-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\nクローマー"
+  },
+  {
+    "key": "3-content",
+    "original": "두 번째 동전… 마지막 기회를 가져갈게.",
+    "context": "EN :\nI’ll be taking the second coin… your last chance.\nJP :\n二枚目のコイン…最後のチャンスを持って行くね。"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "나한테… 왜 그러는 거야…",
+    "context": "EN :\nWhy are you… doing this to me…\nJP :\n僕に…どうしてこんなことするんだ…。"
+  },
+  {
+    "key": "5-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "5-content",
+    "original": "왜… 하필…",
+    "context": "EN :\nWhy… me…\nJP :\nなんで…よりによって…。"
+  },
+  {
+    "key": "6-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "6-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "6-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "6-content",
+    "original": "싱클레어, 내가 왜 지하실 열쇠를 순순히 돌려줬는지 알아?",
+    "context": "EN :\nSinclair, do you wanna know why I gave you back the basement key when you asked?\nJP :\nシンクレア、なんで私が地下室の鍵を素直に返したのか分かる？"
+  },
+  {
+    "key": "7-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "7-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "7-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "7-content",
+    "original": "그건 말이지. 이미 이곳을 발견했기 때문도, 열쇠를 복사했기 때문도 아냐.",
+    "context": "EN :\nListen close. It’s not because I’d made my discovery or baked a copy of it.\nJP :\nそれはね。既にここを見つけたからでも、鍵を複製したからでもないの。"
+  },
+  {
+    "key": "8-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "8-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "8-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "8-content",
+    "original": "네가 나의 열쇠였기 때문이야.",
+    "context": "EN :\nIt’s because you were my key.\nJP :\n君が私の鍵だったから。"
+  },
+  {
+    "key": "9-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "9-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "9-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "9-content",
+    "original": "나는 말이지, 벌어질 수많은 미래를 들여다보는 방법을 알고 있어.",
+    "context": "EN :\nYou see, I happen to know of a way to take a peek at the futures that might come true.\nJP :\n私はね、起こり得る数多の未来をのぞき見る方法を知ってるの。"
+  },
+  {
+    "key": "10-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "10-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "10-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "10-content",
+    "original": "그중에, 너와 내가 함께 온 둥지를 돌아다니면서 곳곳에 퍼져있는 모든 이단을 썰어버리고 다니는 미래도 보았지.",
+    "context": "EN :\nI saw one among them where you and I travel from Nest to Nest, slaughtering heretics together all around the City.\nJP :\nその中に、君と私が一緒に全部の巣を回りながらあちこちに散らばってる\n全ての異端を一掃して回る未来も見たんだ。"
+  },
+  {
+    "key": "11-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "11-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "11-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "11-content",
+    "original": "역겨운 이단의 신체 슬하에서 성장한 너지만…",
+    "context": "EN :\nEven though you were raised by heretics bearing revolting metal bodies…\nJP :\n虫唾の走る異端の身体術の下で成長した君だけど…。"
+  },
+  {
+    "key": "12-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "12-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "12-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "12-content",
+    "original": "그들이 역겹다고 느낄 수 있는 너였으니까 말이야. 재밌지?",
+    "context": "EN :\nPart of you still felt disgusted by them. Funny, isn’t it?\nJP :\n彼らを気持ち悪いと感じられる君だったからね。面白いでしょ？"
+  },
+  {
+    "key": "13-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "13-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "13-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "13-content",
+    "original": "너는 그 할버드로 이단들의 머리를 꿰뚫고!",
+    "context": "EN :\nYou would stab them in the head with your halberd!\nJP :\n君はそのハルバードで異端者の頭を貫いて！"
+  },
+  {
+    "key": "14-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "14-content",
+    "original": "거, 거짓말하지 마…",
+    "context": "EN :\nD-Don’t you lie to me…\nJP :\nう、嘘をつくな…。"
+  },
+  {
+    "key": "15-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "15-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "15-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "15-content",
+    "original": "나는 망치로 머리통을 신나게 박살 내고!",
+    "context": "EN :\nWhile I smash their heads with a hammer!\nJP :\n私は金鎚でアタマを楽しくぶっ潰して！"
+  },
+  {
+    "key": "16-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "16-content",
+    "original": "하지 마…!",
+    "context": "EN :\nStop it…!\nJP :\nやめろ…！"
+  },
+  {
+    "key": "17-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "17-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "17-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "17-content",
+    "original": "아하하… 그 세계의 너는 정말이지, 누구보다 자유롭고 초월한 듯 보였어.",
+    "context": "EN :\nAhaha… In that world, you looked like the freest person in the universe, transcending everything.\nJP :\nあはは…その世界は君はほんとね、誰よりも自由で超越してるように見えたんだ。"
+  },
+  {
+    "key": "18-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "18-content",
+    "original": "아니야…",
+    "context": "EN :\nNo…\nJP :\nちがう…。"
+  },
+  {
+    "key": "19-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "19-content",
+    "original": "거짓말이야!!!",
+    "context": "EN :\nYou’re lying!!!\nJP :\n嘘だ！！！"
+  },
+  {
+    "key": "20-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "20-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "20-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "20-content",
+    "original": "거짓말인지, 아닌지는…",
+    "context": "EN :\nWhether I’m lying or not…\nJP :\n嘘か、そうじゃないかは…。"
+  },
+  {
+    "key": "21-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "21-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "21-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "21-content",
+    "original": "우훗.",
+    "context": "EN :\nUfu.\nJP :\nうふっ。"
+  },
+  {
+    "key": "22-content",
+    "original": "순간, 크로머가 괴기한 웃음소리를 내며 동작을 멈췄다.",
+    "context": "EN :\nKromer suddenly cracked a wry laugh and stopped moving.\nJP :\nその瞬間、クローマーが怪しげな笑い声を上げながら動きを止めた。"
+  },
+  {
+    "key": "23-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "23-content",
+    "original": "<황금가지가…!>",
+    "context": "EN :\n<The Golden Bough…!>\nJP :\n<黄金の枝が…！>"
+  },
+  {
+    "key": "24-content",
+    "original": "제단 위에 놓여진 황금가지가 그녀의 웃음소리에 공명하듯, 점점 빛이 밝아지기 시작했다.",
+    "context": "EN :\nThe Golden Bough on the altar resonated with her cackle, and began to glow brighter.\nJP :\n祭壇の上に置かれた黄金の枝が彼女の笑い声に共鳴するように、\nだんだん光が強まり始めた。"
+  },
+  {
+    "key": "25-content",
+    "original": "그리곤…",
+    "context": "EN :\nThen…\nJP :\nそして…。"
+  },
+  {
+    "key": "26-model",
+    "original": "피묻은크로머",
+    "translation": "CromerBlood",
+    "context": "EN :\n#edddb9\nJP :\nleft"
+  },
+  {
+    "key": "26-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "26-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "26-content",
+    "original": "아아…! 시작됐어… 드디어, 나의 최종적인 원망이 이루어지는 시간이야!",
+    "context": "EN :\nAah…! It’s begun… At last, my final grudge will be fulfilled!\nJP :\nあぁ…！始まった…！\n遂に、私の最後の願望が果たされる時がね！"
+  },
+  {
+    "key": "27-content",
+    "original": "살점이 그녀의 하반신을 에워싼다.",
+    "context": "EN :\nA mass of flesh engulfs her lower half.\nJP :\n肉が彼女の下半身を包み込む。"
+  },
+  {
+    "key": "28-content",
+    "original": "끔찍하고 기분 나쁜 살덩이, 팔인지 다리인지 구분이 되지 않는 것들이 수없이 뻗어 나온다.",
+    "context": "EN :\nFrom the hideous organic growth, bundles of ambiguous appendages stretch outward in countless numbers.\nJP :\n恐ろしくて気持ち悪い肉の塊、腕なのか足なのか区別できないものが数え切れないほど伸びてくる。"
+  },
+  {
+    "key": "29-content",
+    "original": "욕망과 광기가 형태를 만들어 가는 것처럼…",
+    "context": "EN :\nAs if desire and madness were made manifest…\nJP :\n欲望と狂気が形作られるように…。"
+  },
+  {
+    "key": "30-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "30-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "30-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "30-content",
+    "original": "자… 싱클레어.",
+    "context": "EN :\nCome… Sinclair.\nJP :\nさぁ…シンクレア。"
+  },
+  {
+    "key": "31-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "31-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "31-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "31-content",
+    "original": "나를 찢어 마셔봐.",
+    "context": "EN :\nRip me up and chew me down.\nJP :\n私をぶっ殺してごらん。"
+  },
+  {
+    "key": "32-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "32-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "32-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "32-content",
+    "original": "할 수 있다면… 쿡쿡.",
+    "context": "EN :\nIf you can, that is… Keheh.\nJP :\nできるならね…ククッ。"
+  }
+]

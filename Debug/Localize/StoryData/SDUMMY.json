@@ -1,0 +1,40 @@
+[
+  {
+    "key": "0-place",
+    "original": "칼프 마을 광장",
+    "context": "EN :\nCalw - Town Square\nJP :\nカルフ町 広場"
+  },
+  {
+    "key": "0-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "0-content",
+    "original": "이건 더미요.",
+    "context": "EN :\nA dummy pile file.\nJP :\nこれはダミーなり。"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "왜 더미가 나오는거죠?",
+    "context": "EN :\nWhy is there a dummy pile file?\nJP :\nどうしてダミーが出てくるのですか？"
+  },
+  {
+    "key": "2-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "2-content",
+    "original": "스토리 파일이 없기 때문이라네!",
+    "context": "EN :\nThere are no story files!\nJP :\nストーリーファイルが無いからである！"
+  }
+]

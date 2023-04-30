@@ -1,0 +1,928 @@
+[
+  {
+    "key": "0-place",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "0-content",
+    "original": "<color=#9b111e>……우리는 원한다. 일곱 개의 죄악을.</color>",
+    "context": "EN :\n<color=#9b111e>We thirst for the seven sins.</color>\nJP :\n<color=#9b111e>……我々は望む、七つの罪悪を。</color>"
+  },
+  {
+    "key": "1-content",
+    "original": "<color=#9b111e>……우리는 기억한다. #&#(!@&$를.</color>",
+    "context": "EN :\n<color=#9b111e>We bear the #&#(!@&$.</color>\nJP :\n<color=#9b111e>……我々は覚えている、#&#(!@&$を。</color>"
+  },
+  {
+    "key": "2-place",
+    "original": "#&*()!#%의 #*%",
+    "context": "EN :\n#*% of #&*()!#%\nJP :\n#&*()!#%の#*%"
+  },
+  {
+    "key": "2-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "2-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "2-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "2-content",
+    "original": "이 전선이 아닌 것 같은데. 어이, 누구…",
+    "context": "EN :\nThis doesn’t look like the right wire. Hey, anybody—\nJP :\nこの電線じゃなさそうなんだが。おい、誰―"
+  },
+  {
+    "key": "3-content",
+    "original": "익숙하지 않은 음성이 한 차례 울려퍼진 것만 같았다.",
+    "context": "EN :\nAn unfamiliar voice seemed to ring in the air.\nJP :\n聞き慣れない声が一つ、鳴り響いたような気がした。"
+  },
+  {
+    "key": "4-content",
+    "original": "여긴 어디지? 나는 누구…?",
+    "context": "EN :\nWhere am I? Who am I…?\nJP :\nここはどこだ？私は誰…？"
+  },
+  {
+    "key": "5-content",
+    "original": "그런 생각이 들려고 할 때쯤, 눈 앞이 지지직거리며 밝아왔다.",
+    "context": "EN :\nAs these thoughts began to occur, a light buzzed into my sight.\nJP :\nそんな考えが頭を過ろうとした頃、目の前がバチバチいいながら明るんでいった。"
+  },
+  {
+    "key": "6-place",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "6-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "6-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "6-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "6-content",
+    "original": "…십시오.",
+    "context": "EN :\n…ake up.\nJP :\n…さい。"
+  },
+  {
+    "key": "7-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "7-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "7-content",
+    "original": "일어나십시오, 선생.",
+    "context": "EN :\nTeacher. Wake up.\nJP :\n起きてください、先生。"
+  },
+  {
+    "key": "8-content",
+    "original": "시야가 트이니, 그 곳은 이질적인 공간이었다.",
+    "context": "EN :\nLooking around, I found myself in a strange place.\nJP :\n視野が開けると、そこは異質的な空間だった。"
+  },
+  {
+    "key": "9-content",
+    "original": "책상과 의자가 수십개나 놓여있는…",
+    "context": "EN :\nIt was dotted with dozens of desks and chairs…\nJP :\n机と椅子が数十個も置かれている…。"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<학교?>",
+    "context": "EN :\n<A school?>\nJP :\n<学校？>"
+  },
+  {
+    "key": "11-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-content",
+    "original": "많이 혼란스러운가 보군요, 선생.",
+    "context": "EN :\nYou seem rather confused, Dear Teacher.\nJP :\nかなり混乱されているようですね、先生。"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "<선생? 내가?>",
+    "context": "EN :\n<Me? A teacher?>\nJP :\n<先生？私が？>"
+  },
+  {
+    "key": "13-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "13-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "13-content",
+    "original": "네, 그렇습니다. 꼴을 보아하니, 방금까지 설명하던 것도 잊으셨겠군요.",
+    "context": "EN :\nIndeed you are. Seeing how you’re acting, you must have forgotten all about the explanation that was given just now.\nJP :\nはい、そうです。そのザマを見るに、さっきまで説明していたこともお忘れになったのでしょうね。"
+  },
+  {
+    "key": "14-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "14-content",
+    "original": "<어… 그, 그런 것 같아. 아니… 그런데, 내 목소리가 들려?>",
+    "context": "EN :\n<Uh… Y—Yeah, I guess. Hey, wait a sec… You can hear me?>\nJP :\n<あ…そ、そうみたいだ。いや…ところで、私の声が聞こえるのか？>"
+  },
+  {
+    "key": "15-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "15-content",
+    "original": "저는 베. 르. 길. 리. 우. 스 입니다. 여기서 선생이 오기를 줄곧 기다리고 있었죠.",
+    "context": "EN :\nI am V.E.R.G.I.L.I.U.S. I have been waiting a long time for your arrival.\nJP :\n私はヴェ・ル・ギ・リ・ウ・スです。ここで先生が来るのをずっと待っておりました。"
+  },
+  {
+    "key": "16-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "16-content",
+    "original": "잘 부탁합니다.",
+    "context": "EN :\nI am pleased to finally meet you.\nJP :\nよろしくお願いします。"
+  },
+  {
+    "key": "17-content",
+    "original": "질문에 대답이 돌아오지 않으니, 자연스럽게 대화에 대한 기대를 포기하게 된다.",
+    "context": "EN :\nHis refusal to answer my questions saps me of any hope for an actual conversation.\nJP :\n質問に対する答えが帰ってこないので、自然と対話に対する期待が消え失せていった。"
+  },
+  {
+    "key": "18-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "18-content",
+    "original": "<왜 이러는 거야… 당신…>",
+    "context": "EN :\n<What’s… Why are you acting like this…>\nJP :\n<なんでこんなことしてるんだ…あなたは…。>"
+  },
+  {
+    "key": "19-content",
+    "original": "그저 내가 어쩔 도리가 없는 아득한 공포와 기이한 소름이 온몸에 끼치는 걸 느낄 뿐…",
+    "context": "EN :\nAll I can do is feel the sublime terror crawling up my spine, unable to resist…\nJP :\nただ私はどうしようもなく、鳥肌が全身に立つ奇妙な感覚と途方もない恐怖を感じてばかりいた…。"
+  },
+  {
+    "key": "20-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "20-content",
+    "original": "그래서… 생체 인증 절차에 대해 설명하고 있었습니다만.",
+    "context": "EN :\nAnyway… I was in the middle of explaining your biological authentication.\nJP :\nそれで…生体認証の手続きについて説明していたのですが。"
+  },
+  {
+    "key": "21-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<생체… 뭐?>",
+    "context": "EN :\n<Bio…whatnow?>\nJP :\n<生体…なに？>"
+  },
+  {
+    "key": "22-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "22-content",
+    "original": "다시 설명하는 것도 귀찮군요… 그냥 진행하죠.",
+    "context": "EN :\nI cannot be bothered to repeat myself… Let’s just move on.\nJP :\nもう一度説明するのも面倒ですね…そのまま進めましょう。"
+  },
+  {
+    "key": "23-content",
+    "original": "묘하게… 선생이라고 한 것 치고는 깔보는 느낌인데, 기분 탓일까.",
+    "context": "EN :\nIt could just be me… but for someone who’s referring to me as a teacher, it sure feels like he’s looking down on me.\nJP :\n先生と呼んでくる割には…妙に見下してる気がするんだが、気のせいだろうか。"
+  },
+  {
+    "key": "24-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "24-content",
+    "original": "자아… 선생.",
+    "context": "EN :\nOkay… Dear Teacher.\nJP :\nさぁ…先生。"
+  },
+  {
+    "key": "25-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "25-content",
+    "original": "여기 제 손가락에 선생의 손가락을 대 주세요.",
+    "context": "EN :\nNow, place your fingertip against mine right here.\nJP :\nこの私の指に、先生の指を当ててください。"
+  },
+  {
+    "key": "26-content",
+    "original": "…",
+    "context": "EN :\n…\nJP :\n…。"
+  },
+  {
+    "key": "27-place",
+    "original": "#&*()!#%의 #*%",
+    "context": "EN :\n#*% of #&*()!#%\nJP :\n#&*()!#%の#*%"
+  },
+  {
+    "key": "27-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "27-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "27-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "27-content",
+    "original": "…마엘! 두드린다고 고쳐지는게 아니다. 모르면 닥치고 짜져있도록.",
+    "context": "EN :\n…mael! You can’t simply smack a device back into function. Go scuttle off to a corner with your ignorance.\nJP :\n…メール！叩いて直るものじゃない。分からないなら黙ってすっこんでろ。"
+  },
+  {
+    "key": "28-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "28-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-content",
+    "original": "쯧, 그럼…",
+    "context": "EN :\nTch, then—\nJP :\nチッ、じゃあ…。"
+  },
+  {
+    "key": "29-content",
+    "original": "불쾌한 감각이 몸을 타고 돌아다닌다고 느낄 새도 없이, 눈 앞은 또 다른 색상으로 뒤덮여 갔다.",
+    "context": "EN :\nBefore I could fully process the unpleasant feeling creeping over me, my view was painted with a different color.\nJP :\n不快な感覚が身体を伝って巡ることを感じる暇もなく、目の前はまた別の色彩で覆われていった。"
+  },
+  {
+    "key": "30-place",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "30-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-content",
+    "original": "박사, 박사!",
+    "context": "EN :\nDoctor, Doctor!\nJP :\n博士、博士！"
+  },
+  {
+    "key": "31-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "31-content",
+    "original": "<…베르길리우스?>",
+    "context": "EN :\n<…Vergilius?>\nJP :\n<…ヴェルギリウス？>"
+  },
+  {
+    "key": "32-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "32-content",
+    "original": "박사가 말을 했어! 내, 내 손을 꼭 잡으시고…",
+    "context": "EN :\nThe doctor spoke! Here, hold my hand tight…\nJP :\n博士が喋った！私、私の手をぎゅっと掴まれて…。"
+  },
+  {
+    "key": "33-content",
+    "original": "…부서질 듯이 쥐고 있는건 당신 같은데…",
+    "context": "EN :\n…Your grip could almost break my hands…\nJP :\n…折れそうなくらいの力で握ってきてるのはそっちだと思うんだけど。"
+  },
+  {
+    "key": "34-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "34-content",
+    "original": "나는 박사를 구하러 왔어…",
+    "context": "EN :\nI’ve come here to rescue you…\nJP :\n私は博士を助けに来た…。"
+  },
+  {
+    "key": "35-content",
+    "original": "아니, 나는 박사가 아니라… 관리자 아니었어?",
+    "context": "EN :\nNo, wait, that’s not who I am… Wasn’t I a manager?\nJP :\nいや、私は博士じゃなくて…管理人じゃなかったっけ？"
+  },
+  {
+    "key": "36-content",
+    "original": "하지만 이유를 알 수 없는 힘이 있는 것 처럼, 나는 정해진 대답에 이끌리듯 시계를 달칵거릴 뿐이었다.",
+    "context": "EN :\nBut, as if compelled by an unknown force, I could only click my clock’s hands in certain manners.\nJP :\nでもわけの分からない力のせいか、私は決められた答えへと導かれるように時計をカチコチさせるばかりであった。"
+  },
+  {
+    "key": "37-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-content",
+    "original": "<……나는……?>",
+    "context": "EN :\n<…Who… am I…?>\nJP :\n<……私は……？>"
+  },
+  {
+    "key": "38-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "38-content",
+    "original": "박사께선…",
+    "context": "EN :\nDoctor, you…\nJP :\n博士は……。"
+  },
+  {
+    "key": "39-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "39-content",
+    "original": "우리 ‘림버스 아일랜드’의 일원이지.",
+    "context": "EN :\nYou’re a member of Limbus Island, just like us.\nJP :\n私たち「リンバスアイランド」の一員だ。"
+  },
+  {
+    "key": "40-content",
+    "original": "어…? 섬이 아니라 회사여야 했던 것 같은데?",
+    "context": "EN :\nHuh…? I could’ve sworn I worked for a company, not an island…\nJP :\nあれ…島じゃなくて会社だった気がするんだけど？"
+  },
+  {
+    "key": "41-content",
+    "original": "…",
+    "context": "EN :\n…\nJP :\n…。"
+  },
+  {
+    "key": "42-place",
+    "original": "#&*()!#%의 #*%",
+    "context": "EN :\n#*% of #&*()!#%\nJP :\n#&*()!#%の#*%"
+  },
+  {
+    "key": "42-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "42-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "42-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "42-content",
+    "original": "…스트씨! 이 시계 대가리는 어떻게 움직이는 거지?!",
+    "context": "EN :\n…ss Faust! How does this clock head even work?!\nJP :\n…ストさん！この時計アタマはどうやって動かすんだ！？"
+  },
+  {
+    "key": "43-content",
+    "original": "또… 이상한 목소리와 불쾌한 풍경이다.",
+    "context": "EN :\nYet again… Strange voices and unpleasant sights.\nJP :\nまた…変な声と不快な風景だ。"
+  },
+  {
+    "key": "44-content",
+    "original": "대체…",
+    "context": "EN :\nJust what…\nJP :\n一体…。"
+  },
+  {
+    "key": "45-place",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "45-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "45-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "45-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "45-content",
+    "original": "굉장해… 굉장해! 정말로 우승하다니!",
+    "context": "EN :\nAmazing… that was amazing! You really won!\nJP :\nすごい…すごい！本当に勝ってしまうだなんて！"
+  },
+  {
+    "key": "46-content",
+    "original": "이번엔 또 뭐야… 사람조차 아니게 되었잖아…",
+    "context": "EN :\nWhat is it this time… They’re not even human now…\nJP :\n今度は何だ…人間ですらなくなったじゃないか…。"
+  },
+  {
+    "key": "47-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "47-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "47-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "47-content",
+    "original": "이게 메피스토펠레스의… ‘에이스’의 달리기로군…",
+    "context": "EN :\nSo this is Mephistopheles… showing us the way a true “Ace” runs…\nJP :\nこれがメフィストフェレスの……\"エース\"の走りなのか……。"
+  },
+  {
+    "key": "48-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "48-content",
+    "original": "<무슨 헛소리를 하는 거야… 넌…>",
+    "context": "EN :\n<What are you going on about… this time…>\nJP :\n<なに変なこと言ってるんだ…あんた…。>"
+  },
+  {
+    "key": "49-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "49-content",
+    "original": "아! 안녕하신가, 트레이너 선생!",
+    "context": "EN :\nAh! Looks like the chief trainer has arrived!\nJP :\nおっ！ご苦労様だ、トレーナーさん！"
+  },
+  {
+    "key": "50-content",
+    "original": "이제는 듣지도 않는군.",
+    "context": "EN :\nHe’s not even listening to me anymore.\nJP :\nもう話すら聞いてくれないみたいだ。"
+  },
+  {
+    "key": "51-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "51-content",
+    "original": "<대체 여긴 어디야?! 둥지의 안쪽인 거야? 애초에 갑자기 왜 말 대가리로…>",
+    "context": "EN :\n<Seriously, what is this place?! The center of some Nest? What’s up with your horse mask…>\nJP :\n<一体ここはどこだ！？巣の中の方か？そもそもなんで急に馬ヅラに…。>"
+  },
+  {
+    "key": "52-content",
+    "original": "열심히 달칵거리며 그에게 항의 하려는 찰나…",
+    "context": "EN :\nAs I attempted to complain to him with my tocking…\nJP :\n必死にカチコチ言いながら彼に抗議しようとした刹那…。"
+  },
+  {
+    "key": "53-content",
+    "original": "…",
+    "context": "EN :\n…\nJP :\n…。"
+  },
+  {
+    "key": "54-place",
+    "original": "#&*()!#%의 #*%",
+    "context": "EN :\n#*% of #&*()!#%\nJP :\n#&*()!#%の#*%"
+  },
+  {
+    "key": "54-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "54-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "54-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "54-content",
+    "original": "기억 모듈… …됐나? 그런… 왜 이…",
+    "context": "EN :\nMemory module… …Did that work? The… Why is…\nJP :\n記憶モジュール…これでなんとかなったか？んな…どうしてだ、この…。"
+  },
+  {
+    "key": "55-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "55-content",
+    "original": "<머, 머리가…>",
+    "context": "EN :\n<M—My head…>\nJP :\n<あ、あたまが…。>"
+  },
+  {
+    "key": "56-place",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "56-content",
+    "original": "프로듀서…",
+    "context": "EN :\nProducer…\nJP :\nプロデューサー…。"
+  },
+  {
+    "key": "57-content",
+    "original": "지휘관…",
+    "context": "EN :\nLeader…\nJP :\n指揮官…。"
+  },
+  {
+    "key": "58-content",
+    "original": "사령관…",
+    "context": "EN :\nCommander…\nJP :\n司令官…。"
+  },
+  {
+    "key": "59-content",
+    "original": "마스터…",
+    "context": "EN :\nMaster…\nJP :\nマスター…。"
+  },
+  {
+    "key": "60-content",
+    "original": "교수…",
+    "context": "EN :\nProfessor…\nJP :\n教授…。"
+  },
+  {
+    "key": "61-content",
+    "original": "갖가지 알 수 없는 호칭들이 정신 없이 머릿 속에서 돌아다닌다.",
+    "context": "EN :\nAll kinds of unknowable protagonistic labels swirl in my head.\nJP :\n様々なわけの分からない呼び方が、頭の中で飛び交う。"
+  },
+  {
+    "key": "62-content",
+    "original": "이, 이대로가면…",
+    "context": "EN :\nAt… At this rate…\nJP :\nこ、このままじゃ…。"
+  },
+  {
+    "key": "63-content",
+    "original": "#&*()@%&!)$&8%&*%#%#!",
+    "context": "EN :\n#&*()@%&!)$&8%&*%#%#!\nJP :\n#&*()@%&!)$&8%&*%#%#!"
+  },
+  {
+    "key": "64-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "64-content",
+    "original": "돌아왔군.",
+    "context": "EN :\nYou’re back.\nJP :\n戻ったか。"
+  },
+  {
+    "key": "65-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "65-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "65-content",
+    "original": "걱정했습니다, 관리자 님.",
+    "context": "EN :\nI was getting worried about you, Executive Manager.\nJP :\n心配しました、管理人様。"
+  },
+  {
+    "key": "66-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "66-content",
+    "original": "갑자기 버스 안에서… 쓰러지지 뭡니까?",
+    "context": "EN :\nYou suddenly… fainted on the bus out of nowhere.\nJP :\n急にバスの中で…倒れたのですよ？"
+  },
+  {
+    "key": "67-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "67-content",
+    "original": "<베르길…?!>",
+    "context": "EN :\n<Vergil…?!>\nJP :\n<ヴェルギ…！？>"
+  },
+  {
+    "key": "68-content",
+    "original": "더, 더 이상은 안돼…!",
+    "context": "EN :\nNo… Not more of this…!\nJP :\nこ、これ以上は嫌だ…！"
+  },
+  {
+    "key": "69-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "69-content",
+    "original": "<히익! 히이익!!>",
+    "context": "EN :\n<Eek! EEEEK!!>\nJP :\n<ひぃっ！ひいいぃっ！！>"
+  },
+  {
+    "key": "70-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "70-content",
+    "original": "무슨 의미지, 관리자? 왜 도망가는 거지?",
+    "context": "EN :\nWhat is the meaning of this, Manager? Why are you running?\nJP :\nどういう意味だ、管理人？どうして逃げるんだ？"
+  },
+  {
+    "key": "71-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "71-content",
+    "original": "<더는 이상한 호칭으로 나를 부르지 마!!!>",
+    "context": "EN :\n<Keep you and your weird titles away from me!!!>\nJP :\n<これ以上変な呼び方で私を呼ばないでくれ！！！>"
+  },
+  {
+    "key": "72-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "72-content",
+    "original": "…고장난 알람 시계 같은 소리를 내는군.",
+    "context": "EN :\n…You sure sound like a broken clock.\nJP :\n…壊れた目覚まし時計みたいな音を出してるな。"
+  },
+  {
+    "key": "73-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "73-content",
+    "original": "고쳐보려고 이것 저것 손댔습니다만…",
+    "context": "EN :\nWe tinkered with a number of things trying to fix you up…\nJP :\n直してみようとあれこれ手を付けたのですが…。"
+  },
+  {
+    "key": "74-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "74-content",
+    "original": "핫, 시계를 돌려버리면 해결 될 일인 줄 모르고 쓸데 없이 시간을 낭비했군요.",
+    "context": "EN :\nHah, and as it turns out, all we had to do was wind that clock. Some time we wasted.\nJP :\nはっ。時計を回してしまえば解決するとは思わず、無駄に時間を浪費してしまいましたね。"
+  },
+  {
+    "key": "75-content",
+    "original": "베르길리우스가… 내 목소리를 못 알아듣고 있다.",
+    "context": "EN :\nVergilius… He doesn’t recognize my words now.\nJP :\nヴェルギリウスが…私の声を聞き取れていない。"
+  },
+  {
+    "key": "76-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "76-content",
+    "original": "<돌아… 온건가?>",
+    "context": "EN :\n<Am I… really back?>\nJP :\n<戻っ…たんだろうか？>"
+  },
+  {
+    "key": "77-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "77-content",
+    "original": "…뭐라고 째깍거리는 건지 모르겠군. 진정은 된 건가.",
+    "context": "EN :\n…I have no clue what that ticking is supposed to mean. I can suppose you did calm down a little.\nJP :\n…何とカチカチ言ってるのかは分からないな。落ち着きはしたのか。"
+  },
+  {
+    "key": "78-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "78-content",
+    "original": "파우스트 씨는… 당신이 꿈에서 거울 세계 여기저기를 다녀 왔을 가능성도 있다고 말했지만…",
+    "context": "EN :\nIf Ms. Faust is to be believed… you might have visited a number of mirror worlds in your dream…\nJP :\nファウストさんは…あなたが夢の中で、鏡の世界のあちこちを行き来した可能性もあると言ってたが…。"
+  },
+  {
+    "key": "79-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "79-content",
+    "original": "뭐, 그런 게 중요한 건 아니지 않습니까?",
+    "context": "EN :\nWell, that’s not relevant now, is it?\nJP :\nまぁ、そんなことは重要ではないじゃないですか？"
+  },
+  {
+    "key": "80-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "80-content",
+    "original": "수감자들은 이미 하차했습니다.",
+    "context": "EN :\nThe Sinners have left the bus already.\nJP :\n囚人達は既に下車しています。"
+  },
+  {
+    "key": "81-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "81-content",
+    "original": "거기서 나뒹굴지 말고…",
+    "context": "EN :\nSo stop flubbing around there…\nJP :\nそこで転がってないで…。"
+  },
+  {
+    "key": "82-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "82-content",
+    "original": "빨리 튀어 나가.",
+    "context": "EN :\nAnd get out already.\nJP :\nとっとと出てけ。"
+  },
+  {
+    "key": "83-content",
+    "original": "내가 본 괴상망측한 환상들은 무엇인지, 베르길리우스가 이상한 호칭을 몇 개나 불러댄 이유는 뭔지…",
+    "context": "EN :\nI wonder… What were all those bizarre illusions I saw, and why did Vergilius address me with all kinds of odd titles?\nJP :\n私が見た奇怪千万な幻影は何だったのだろうか、ヴェルギリウスがいくつもの変な呼び方で読んできた理由は何か…。"
+  },
+  {
+    "key": "84-content",
+    "original": "궁금한 것은 많았지만.",
+    "context": "EN :\nAs much as I was curious…\nJP :\n気になることは沢山あったが。"
+  },
+  {
+    "key": "85-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "85-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "86-content",
+    "original": "손에 묻은 기름 때를 신경질 적으로 닦아내고 있는 그에게, 말을 걸기 좋아보이진 않았다.",
+    "context": "EN :\nThis didn’t look like a good time to talk; he was wiping some grease off his hands, clearly irritated.\nJP :\n手に付いた機械油を神経質に拭いている彼に話し掛けるのは、得策ではないような気がした。"
+  },
+  {
+    "key": "87-content",
+    "original": "…어차피 째깍거리는 소리 밖에 들리지 않을테고…",
+    "context": "EN :\nAll he’d hear are my usual ticking noises anyhow…\nJP :\n…どうせカチカチという音しか聞こえないだろうし。"
+  },
+  {
+    "key": "88-content",
+    "original": "지금은… 그 수많은 베르길리우스보다 지금의 그가 낫다는 데에 안도하고 싶으니까.",
+    "context": "EN :\nRight now… I just want to bask in the relief that the Vergilius I know is here after all.\nJP :\n今は…あの数多のヴェルギリウスより、今の彼がマシだということに安堵していたかったから。"
+  },
+  {
+    "key": "89-content",
+    "original": "그래… 차라리 저렇게 까칠한 모습이 훨씬 낫지.",
+    "context": "EN :\nYep… I’d much rather have this glacial gaze of his over any other.\nJP :\nうん…むしろあんな風に刺々しい方がよっぽどマシだ。"
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 2F",
+    "context": "EN :\nCasino 2F\nJP :\nカジノ 2F"
+  },
+  {
+    "key": "0-teller",
+    "original": "오열하는 카지노 손님",
+    "context": "EN :\nBawling Casinogoer\nJP :\n嗚咽するカジノのゲスト"
+  },
+  {
+    "key": "0-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "0-content",
+    "original": "으악!!! 안돼!!!",
+    "context": "EN :\nGAAH!!! NOT AGAIN!!!\nJP :\nうわあっ！！！駄目だ！！！"
+  },
+  {
+    "key": "1-teller",
+    "original": "오열하는 카지노 손님",
+    "context": "EN :\nBawling Casinogoer\nJP :\n嗚咽するカジノのゲスト"
+  },
+  {
+    "key": "1-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "1-content",
+    "original": "돈을 또 잃었어, 젠장! 이게 몇 번째야?",
+    "context": "EN :\nI lost once again, damn! When will this end?\nJP :\nカネをまた失ったよ、クソッ！これで何回目だ？"
+  },
+  {
+    "key": "2-model",
+    "original": "흥겨운마리아치조직원",
+    "translation": "高兴的流浪乐队成员",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachi1"
+  },
+  {
+    "key": "2-teller",
+    "original": "흥겨운 마리아치 조직원",
+    "context": "EN :\nMariachi Alegre\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "2-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "2-content",
+    "original": "야야, 잠깐 타임! 우리 손님 관리 좀 해야겠다!",
+    "context": "EN :\nOye, espera, time out! Our dear customer here needs a little care!\nJP :\nやあやあ、ちょっとタイム！ちょっとうちのお客さんのケアするか！"
+  },
+  {
+    "key": "3-model",
+    "original": "흥겨운마리아치조직원",
+    "translation": "高兴的流浪乐队成员",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachi1"
+  },
+  {
+    "key": "3-teller",
+    "original": "흥겨운 마리아치 조직원",
+    "context": "EN :\nMariachi Alegre\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "3-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "3-content",
+    "original": "손님, 규칙을 까먹으신 건 아니겠죠?",
+    "context": "EN :\nDear Customer, I hope you haven’t forgotten our rule, have you?\nJP :\nお客様、規則をお忘れになったわけではないですよね？"
+  },
+  {
+    "key": "4-teller",
+    "original": "오열하는 카지노 손님",
+    "context": "EN :\nBawling Casinogoer\nJP :\n嗚咽するカジノのゲスト"
+  },
+  {
+    "key": "4-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "4-content",
+    "original": "하, 하지만… 전 재산이었는데…",
+    "context": "EN :\nB-But… That was all the money I had…\nJP :\nで、でも…全財産だったのに…。"
+  },
+  {
+    "key": "5-model",
+    "original": "흥겨운마리아치조직원",
+    "translation": "高兴的流浪乐队成员",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachi1"
+  },
+  {
+    "key": "5-teller",
+    "original": "흥겨운 마리아치 조직원",
+    "context": "EN :\nMariachi Alegre\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "5-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "5-content",
+    "original": "자꾸 분위기를 흐리시면 손님으로 파냐타 파티를 할 수도 있어요.",
+    "context": "EN :\nIf you keep dampening the mood of the table, we might throw a pañata party out of you.\nJP :\n何度も雰囲気を悪くすれば、お客様で\nパニャータパーティーを開くことになります。"
+  },
+  {
+    "key": "6-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "6-content",
+    "original": "(어, 파냐타 파티가 뭐냐?)",
+    "context": "EN :\n(Uh, what’s a pañata party?)\nJP :\n(ん、パニャータパーティーって何だ？)"
+  },
+  {
+    "key": "7-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "7-content",
+    "original": "<몰라, 알고 싶지도 않아…>",
+    "context": "EN :\n<I don’t think I want to know…>\nJP :\n<知らない、知りたくもないよ…。>"
+  },
+  {
+    "key": "8-content",
+    "original": "흐느끼던 손님은 그 친절한 협박이 여간 무서운 게 아니었던지, 자리에서 일어났다.",
+    "context": "EN :\nPressured by gentle intimidation, the weeping guest stood up from their seat.\nJP :\nその親切な脅迫がよほど恐ろしいものだったのか、\nすすり泣いていた客はその場から立ち上がった。"
+  },
+  {
+    "key": "9-content",
+    "original": "그러더니 직원이 건넨 마라카스를 들고…",
+    "context": "EN :\nAnd then, being handed a pair of maracas from the staff, they…\nJP :\nすると職員が渡したマラカスを持って…。"
+  },
+  {
+    "key": "10-content",
+    "original": "춤을 추기 시작했다. 연신 흐느끼며…",
+    "context": "EN :\n…Started dancing, sobbing all the way…\nJP :\n踊り始めた。ずっとすすり泣きながら…。"
+  },
+  {
+    "key": "11-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "11-content",
+    "original": "이건 또 뭐야…?",
+    "context": "EN :\nWhat’s this now…?\nJP :\nなんだこれ…？"
+  },
+  {
+    "key": "12-model",
+    "original": "경쾌한마리아치조직원",
+    "translation": "轻快的流浪乐队成员",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachi2"
+  },
+  {
+    "key": "12-teller",
+    "original": "경쾌한 마리아치 조직원",
+    "context": "EN :\nMariachi Vivaz\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "12-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "12-content",
+    "original": "우리 파가 접수하고 있는 층엔 반드시 지켜야 할 규칙이 있어요.",
+    "context": "EN :\nThere’s a rule every visitor to this floor must follow—una tradición mariachi, if you will.\nJP :\nうちの派が管轄してる階には必ず守るべき規則があります。"
+  },
+  {
+    "key": "13-model",
+    "original": "경쾌한마리아치조직원",
+    "translation": "轻快的流浪乐队成员",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachi2"
+  },
+  {
+    "key": "13-teller",
+    "original": "경쾌한 마리아치 조직원",
+    "context": "EN :\nMariachi Vivaz\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "13-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "13-content",
+    "original": "도박이란 오로지 즐거움을 위한 행위, 그러므로 슬픔도 아픔도 모두 춤으로 승화시켜야만 해요.",
+    "context": "EN :\nGambling is entertainment, an activity done purely for fun; thus, all the sadness and pain brought to you must be sublimated into dance.\nJP :\n賭博とはただ楽しむのための行為、\nそれゆえ悲しみも痛みも全てダンスに昇華させなければなりません。"
+  },
+  {
+    "key": "14-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "14-content",
+    "original": "춤이라면 내가 한 수 가르쳐줄 수 있다네!",
+    "context": "EN :\nAllow this knight to demonstrate what dancing is about!\nJP :\nダンスなら私が教えてしんぜよう！"
+  },
+  {
+    "key": "15-content",
+    "original": "하지만 보기보다 그들은 냉정했다.",
+    "context": "EN :\nAlas, they were harsher judges than they seemed.\nJP :\nしかし、見てくれよりも彼らは冷静だった。"
+  },
+  {
+    "key": "16-model",
+    "original": "흥겨운마리아치조직원",
+    "translation": "高兴的流浪乐队成员",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachi1"
+  },
+  {
+    "key": "16-teller",
+    "original": "흥겨운 마리아치 조직원",
+    "context": "EN :\nMariachi Alegre\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "16-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "16-content",
+    "original": "이 자는 안 되겠어.",
+    "context": "EN :\nThis one won’t do.\nJP :\nこの人は駄目だ。"
+  },
+  {
+    "key": "17-model",
+    "original": "경쾌한마리아치조직원",
+    "translation": "轻快的流浪乐队成员",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachi2"
+  },
+  {
+    "key": "17-teller",
+    "original": "경쾌한 마리아치 조직원",
+    "context": "EN :\nMariachi Vivaz\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "17-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "17-content",
+    "original": "몸짓에 진심이 담겨 있지 않군.",
+    "context": "EN :\nHer movement is insincere.\nJP :\n動作に真心が込もってないな。"
+  },
+  {
+    "key": "18-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "18-content",
+    "original": "그게 무슨 소리인가!",
+    "context": "EN :\nWhat on earth do you mean?!\nJP :\nそれはどういう意味か！"
+  },
+  {
+    "key": "19-model",
+    "original": "흥겨운마리아치조직원",
+    "translation": "高兴的流浪乐队成员",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachi1"
+  },
+  {
+    "key": "19-teller",
+    "original": "흥겨운 마리아치 조직원",
+    "context": "EN :\nMariachi Alegre\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "19-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "19-content",
+    "original": "춤은 마음을 비추는 창구.",
+    "context": "EN :\nDance is a window to the heart.\nJP :\nダンスは心を映す窓。"
+  },
+  {
+    "key": "20-model",
+    "original": "경쾌한마리아치조직원",
+    "translation": "轻快的流浪乐队成员",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachi2"
+  },
+  {
+    "key": "20-teller",
+    "original": "경쾌한 마리아치 조직원",
+    "context": "EN :\nMariachi Vivaz\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "20-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "20-content",
+    "original": "마음이 맑고 투명하지 못한다면 춤만큼 의미 없어지는 것도 없지.",
+    "context": "EN :\nWithout a clear and pure heart, it loses all meaning.\nJP :\n心が無色透明でないときに踊るダンスほど、意味がないものは無い。"
+  },
+  {
+    "key": "21-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "21-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "22-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "22-content",
+    "original": "…그대들, 다소 무례하군.",
+    "context": "EN :\n…I find thine assessment rather disgracious.\nJP :\n…うぬら、多少無礼ではないか。"
+  },
+  {
+    "key": "23-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "23-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "23-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "23-content",
+    "original": "점점 돌이킬 수 없어지는 군… 뭐해, 소드?",
+    "context": "EN :\nThis is getting further out of hand… What are you doing, Saude?\nJP :\n段々引き返せなくなってきたな…何してるんだ、ソード？"
+  },
+  {
+    "key": "24-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "24-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "24-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "24-content",
+    "original": "아, 시말서를 미리 쓰고 있었답니다.",
+    "context": "EN :\nOh, I was writing our letter of apology in advance.\nJP :\nあぁ、始末書をあらかじめ書いていました。"
+  }
+]

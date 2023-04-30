@@ -1,0 +1,167 @@
+[
+  {
+    "key": "dungeon_1_3_0101-content",
+    "original": "관문 초입",
+    "context": "EN :\nGate Entrance\nJP :\n関門入口"
+  },
+  {
+    "key": "dungeon_1_3_0102-content",
+    "original": "지하실 입구",
+    "context": "EN :\nBasement Entrance\nJP :\n地下室の入口"
+  },
+  {
+    "key": "dungeon_1_3_0103-content",
+    "original": "기계 장치방",
+    "context": "EN :\nMachinery Room\nJP :\n機械装置部屋"
+  },
+  {
+    "key": "dungeon_1_3_0104-content",
+    "original": "제 1 관문",
+    "context": "EN :\nGate #1\nJP :\n第1関門"
+  },
+  {
+    "key": "dungeon_1_3_0105-content",
+    "original": "폐쇄된 문",
+    "context": "EN :\nSealed Door\nJP :\n閉鎖された扉"
+  },
+  {
+    "key": "dungeon_1_3_0106-content",
+    "original": "잊혀진 통로",
+    "context": "EN :\nForgotten Passage\nJP :\n忘れられた通路"
+  },
+  {
+    "key": "dungeon_1_3_0107-content",
+    "original": "격리 구역",
+    "context": "EN :\nContainment Area\nJP :\n隔離区域"
+  },
+  {
+    "key": "dungeon_1_3_0108-content",
+    "original": "침식 개체 격리소",
+    "context": "EN :\nCorroded Entity Block\nJP :\n侵食個体隔離所"
+  },
+  {
+    "key": "dungeon_1_3_0109-content",
+    "original": "정예병 훈련소",
+    "context": "EN :\nElite Training Quarters\nJP :\n精鋭兵訓練所"
+  },
+  {
+    "key": "dungeon_1_3_0110-content",
+    "original": "감옥 구역",
+    "context": "EN :\nPrison Area\nJP :\n監獄区域"
+  },
+  {
+    "key": "dungeon_1_3_0111-content",
+    "original": "옛 창고",
+    "context": "EN :\nOld Warehouse\nJP :\n旧倉庫"
+  },
+  {
+    "key": "dungeon_1_3_0112-content",
+    "original": "봉쇄 구역",
+    "context": "EN :\nBlockade Zone\nJP :\n封鎖区域"
+  },
+  {
+    "key": "dungeon_1_3_0113-content",
+    "original": "예배실",
+    "context": "EN :\nChapel\nJP :\n礼拝室"
+  },
+  {
+    "key": "dungeon_1_3_0114-content",
+    "original": "고문실",
+    "context": "EN :\nTorture Chamber\nJP :\n拷問室"
+  },
+  {
+    "key": "dungeon_1_3_0201-content",
+    "original": "지하 예배당 복도",
+    "context": "EN :\nChurch Corridor\nJP :\n地下礼拝堂 廊下"
+  },
+  {
+    "key": "dungeon_1_3_0202-content",
+    "original": "페쇄된 기도실",
+    "context": "EN :\nClosed Prayer Room\nJP :\n閉鎖された祈祷室"
+  },
+  {
+    "key": "dungeon_1_3_0203-content",
+    "original": "비명이\n들리는 방",
+    "context": "EN :\nRoom of Echoing Screams\nJP :\n悲鳴が聞こえる部屋"
+  },
+  {
+    "key": "dungeon_1_3_0204-content",
+    "original": "제 2 관문",
+    "context": "EN :\nGate #2\nJP :\n第2関門"
+  },
+  {
+    "key": "dungeon_1_3_0205-content",
+    "original": "짓무름의 다리",
+    "context": "EN :\nBridge of Suppuration\nJP :\n爛れの橋"
+  },
+  {
+    "key": "dungeon_1_3_0206-content",
+    "original": "지하 예배당",
+    "context": "EN :\nUnderground Church\nJP :\n地下礼拝堂"
+  },
+  {
+    "key": "dungeon_1_3_0207-content",
+    "original": "묵상의 교단",
+    "context": "EN :\nMeditator’s Pulpit\nJP :\n黙想の教壇"
+  },
+  {
+    "key": "dungeon_1_3_0208-content",
+    "original": "예배당 입구",
+    "context": "EN :\nChurch Door\nJP :\n礼拝堂入口"
+  },
+  {
+    "key": "dungeon_1_3_0209-content",
+    "original": "눈물의 제단",
+    "context": "EN :\nAltar of Tears\nJP :\n涙の祭壇"
+  },
+  {
+    "key": "dungeon_1_3_0210-content",
+    "original": "제단 입구",
+    "context": "EN :\nAltar Entrance\nJP :\n祭壇入口"
+  },
+  {
+    "key": "dungeon_1_3_0211-content",
+    "original": "성물함",
+    "context": "EN :\nSacristy\nJP :\n聖具室"
+  },
+  {
+    "key": "dungeon_1_3_0212-content",
+    "original": "중앙 구역",
+    "context": "EN :\nCentral Area\nJP :\n中央区域"
+  },
+  {
+    "key": "dungeon_1_3_0213-content",
+    "original": "속죄의 제단",
+    "context": "EN :\nAltar of Penance\nJP :\n贖罪の祭壇"
+  },
+  {
+    "key": "dungeon_1_3_0214-content",
+    "original": "정화소",
+    "context": "EN :\nPurificatory\nJP :\n浄化所"
+  },
+  {
+    "key": "dungeon_1_3_0215-content",
+    "original": "제 3 관문",
+    "context": "EN :\nGate #3\nJP :\n第3関門"
+  },
+  {
+    "key": "dungeon_1_3_0216-content",
+    "original": "자격 판별대",
+    "context": "EN :\nThe Judging Block\nJP :\n資格判別台"
+  },
+  {
+    "key": "dungeon_1_3_0217-content",
+    "original": "성소로 가는 길",
+    "context": "EN :\nPath to Hallowed Ground\nJP :\n聖所への道"
+  },
+  {
+    "key": "dungeon_1_3_0301-content",
+    "original": "의식의 광장",
+    "context": "EN :\nRitual Square\nJP :\n儀式の広場"
+  },
+  {
+    "key": "dungeon_1_3_0302-content",
+    "original": "시체들의 언덕",
+    "context": "EN :\nHill of Corpses\nJP :\n死体の丘"
+  }
+]

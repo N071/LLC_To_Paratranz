@@ -1,0 +1,12 @@
+[
+  {
+    "key": "1-content",
+    "original": "{0}턴 이내 클리어",
+    "context": "EN :\nClear within {0} turns\nJP :\n{0}ターン以内にクリア"
+  },
+  {
+    "key": "2-content",
+    "original": "던전 보스 제압 완료",
+    "context": "EN :\nSuppress the Dungeon Boss\nJP :\nダンジョンボス制圧完了"
+  }
+]

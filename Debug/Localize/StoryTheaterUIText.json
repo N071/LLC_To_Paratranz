@@ -1,0 +1,222 @@
+[
+  {
+    "key": "MAINSTORY-content",
+    "original": "주요이야기",
+    "context": "EN :\nMain Story\nJP :\nメインストーリー"
+  },
+  {
+    "key": "PERSONALITYSTORY-content",
+    "original": "인격이야기",
+    "context": "EN :\nIdentity Archive\nJP :\n人格ストーリー"
+  },
+  {
+    "key": "NOTE_OF_DANTE-content",
+    "original": "단테의 노트",
+    "context": "EN :\nDante’s Notes\nJP :\nダンテのノート"
+  },
+  {
+    "key": "EPISODE-content",
+    "original": "{0}화",
+    "context": "EN :\nEp. {0}\nJP :\n{0}話"
+  },
+  {
+    "key": "PAGE-content",
+    "original": "{0}장",
+    "context": "EN :\nPg. {0}\nJP :\n{0}章"
+  },
+  {
+    "key": "PROGRESS-content",
+    "original": "진행도",
+    "context": "EN :\nProgress\nJP :\n進行度"
+  },
+  {
+    "key": "Before-content",
+    "original": "전투 전",
+    "context": "EN :\nPre-battle\nJP :\n戦闘前"
+  },
+  {
+    "key": "After-content",
+    "original": "전투 후",
+    "context": "EN :\nPost-battle\nJP :\n戦闘後"
+  },
+  {
+    "key": "None-content",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "ENTER-content",
+    "original": "입장",
+    "context": "EN :\nEnter\nJP :\n入場"
+  },
+  {
+    "key": "CLOSE-content",
+    "original": "닫기",
+    "context": "EN :\nClose\nJP :\n閉じる"
+  },
+  {
+    "key": "MIRRORWOLDS-content",
+    "original": "거울 세계들",
+    "context": "EN :\nMirror Worlds\nJP :\n鏡の世界"
+  },
+  {
+    "key": "STORY-content",
+    "original": "스토리",
+    "context": "EN :\nStory\nJP :\nストーリー"
+  },
+  {
+    "key": "SECURITY_MATERIAL-content",
+    "original": "보안 자료",
+    "context": "EN :\nClassified Logs\nJP :\n保安資料"
+  },
+  {
+    "key": "SPEECH-content",
+    "original": "대사",
+    "context": "EN :\nDialogue\nJP :\n台詞"
+  },
+  {
+    "key": "OPEN_CONDITION-content",
+    "original": "개방 조건: ",
+    "context": "EN :\nTo Unlock: \nJP :\n解放条件:"
+  },
+  {
+    "key": "DEEP_ANALYSIS-content",
+    "original": "심층 분석: ",
+    "context": "EN :\nIn-depth: \nJP :\n深層分析:"
+  },
+  {
+    "key": "DATA_DOWNLOAD-content",
+    "original": "데이터 다운로드",
+    "context": "EN :\nData Download\nJP :\nデータダウンロード"
+  },
+  {
+    "key": "DATA_DOWNLOAD_DESC-content",
+    "original": "음성을 재생하시겠습니까?\n재생 시, 추가 데이터를 다운로드 합니다.",
+    "context": "EN :\nPlay sound files for voiced dialogue?\nAdditional data will be downloaded.\nJP :\n音声を再生しますか？\n再生時に追加データをダウンロードします。"
+  },
+  {
+    "key": "DATA_DOWNLOAD_NO-content",
+    "original": "음성 없음\n(0.00MB)",
+    "context": "EN :\nUnvoiced\n(0.00 MB)\nJP :\n音声なし\n(0.00MB)"
+  },
+  {
+    "key": "DATA_DOWNLOAD_YES-content",
+    "original": "음성 있음\n({0}MB)",
+    "context": "EN :\nVoiced\n({0} MB)\nJP :\n音声あり\n({0}MB)"
+  },
+  {
+    "key": "CV_1-content",
+    "original": "민승우",
+    "context": "EN :\nMin Seung-woo\nJP :\nミン・スンウ"
+  },
+  {
+    "key": "CV_2-content",
+    "original": "박지윤",
+    "context": "EN :\nPark Ji-yoon\nJP :\nパク・ジユン"
+  },
+  {
+    "key": "CV_3-content",
+    "original": "김예림",
+    "context": "EN :\nKim Yea-lim\nJP :\nキム・イェリム"
+  },
+  {
+    "key": "CV_4-content",
+    "original": "이새아",
+    "context": "EN :\nYi Sae-ah\nJP :\nイ・セア"
+  },
+  {
+    "key": "CV_5-content",
+    "original": "권성혁",
+    "context": "EN :\nKwon Sung-hyuk\nJP :\nグォン・ソンヒョク"
+  },
+  {
+    "key": "CV_6-content",
+    "original": "김신우",
+    "context": "EN :\nKim Sin-woo\nJP :\nキム・シンウ"
+  },
+  {
+    "key": "CV_7-content",
+    "original": "홍승효",
+    "context": "EN :\nHong Seung-hyo\nJP :\nホン・スンヒョ"
+  },
+  {
+    "key": "CV_8-content",
+    "original": "장예나",
+    "context": "EN :\nJang Ye-na\nJP :\nジャン・イェナ"
+  },
+  {
+    "key": "CV_9-content",
+    "original": "윤아영",
+    "context": "EN :\nYoon A-young\nJP :\nユン・アヨン"
+  },
+  {
+    "key": "CV_10-content",
+    "original": "김다올",
+    "context": "EN :\nKim Da-ol\nJP :\nキム・ダウル"
+  },
+  {
+    "key": "CV_11-content",
+    "original": "김보나",
+    "context": "EN :\nKim Bo-na\nJP :\nキム・ボナ"
+  },
+  {
+    "key": "CV_12-content",
+    "original": "최한",
+    "context": "EN :\nChoi Han\nJP :\nチェ・ハン"
+  },
+  {
+    "key": "gacksung-content",
+    "original": "동기화",
+    "context": "EN :\nUptie\nJP :\n同期化"
+  },
+  {
+    "key": "EnterStoryPopupDesc-content",
+    "original": "{0}에\n입장하시겠습니까?",
+    "context": "EN :\nWill you enter\n{0}?\nJP :\n{0}へ\n入場しますか？"
+  },
+  {
+    "key": "No-content",
+    "original": "취소",
+    "context": "EN :\nCancel\nJP :\nキャンセル"
+  },
+  {
+    "key": "DetailStoryDungeon-content",
+    "original": "스토리 던전 내부",
+    "context": "EN :\nWithin Story Dungeon\nJP :\nストーリーダンジョン内部"
+  },
+  {
+    "key": "NeedsPersonality-content",
+    "original": "필요 인격",
+    "context": "EN :\nIdentity Required\nJP :\n必要な人格"
+  },
+  {
+    "key": "NeedsPersonalityButton-content",
+    "original": "필요 인격 보기",
+    "context": "EN :\nView Requirements\nJP :\n必要な人格を見る"
+  },
+  {
+    "key": "MainStoryOpenCondition_101-content",
+    "original": "1-1 스테이지 클리어",
+    "context": "EN :\nClear 1-1\nJP :\n1-1 ステージクリア"
+  },
+  {
+    "key": "MainStoryOpenCondition_102-content",
+    "original": "2-1 스테이지 클리어",
+    "context": "EN :\nClear 2-1\nJP :\n2-1 ステージクリア"
+  },
+  {
+    "key": "MainStoryOpenCondition_103-content",
+    "original": "3-1 스테이지 클리어",
+    "context": "EN :\nClear 3-1\nJP :\n3-1 ステージクリア"
+  },
+  {
+    "key": "PersonalityStory_OpenCodition-content",
+    "original": "인격 동기화 {0}단계 개방",
+    "context": "EN :\nUnlocked at Uptie Tier {0}\nJP :\n人格同期化{0}段階 解放"
+  },
+  {
+    "key": "OTHERSTORY-content",
+    "original": "그 밖의 이야기",
+    "context": "EN :\nDetour Tales\nJP :\nその他のストーリー"
+  }
+]

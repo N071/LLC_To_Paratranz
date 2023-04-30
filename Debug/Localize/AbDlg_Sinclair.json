@@ -1,0 +1,142 @@
+[
+  {
+    "key": "1-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\n단테"
+  },
+  {
+    "key": "1-dialog",
+    "original": "이 정도는 저라도 해낼 수 있겠어요.",
+    "context": "EN :\nI think even I could handle this one.\nJP :\nこれくらいなら僕でもやれそうです。"
+  },
+  {
+    "key": "2-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\n단테"
+  },
+  {
+    "key": "2-dialog",
+    "original": "...네, 해볼게요.",
+    "context": "EN :\n…Okay, I’ll try.\nJP :\n…はい、やってみます。"
+  },
+  {
+    "key": "3-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\n단테"
+  },
+  {
+    "key": "3-dialog",
+    "original": "필요하시다면... 해볼게요.",
+    "context": "EN :\nIf you need me to… I’ll give it a go.\nJP :\n必要なら…やってみます。"
+  },
+  {
+    "key": "4-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\n단테"
+  },
+  {
+    "key": "4-dialog",
+    "original": "꼭 저여야만 할까요?",
+    "context": "EN :\nDoes it have to be me?\nJP :\n僕である必要はあるんですか？"
+  },
+  {
+    "key": "5-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\n단테"
+  },
+  {
+    "key": "5-dialog",
+    "original": "저요? 진짜로요? 분명히 실패할 거예요. 망쳐놓을 거라고요.",
+    "context": "EN :\nMe? Seriously? I’ll definitely fail. I’ll end up ruining it all.\nJP :\n僕ですか？本気ですか？きっと失敗します。台無しになりますよ。"
+  },
+  {
+    "key": "6-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\n단테"
+  },
+  {
+    "key": "6-dialog",
+    "original": "해, 해냈어요... 하지만 다음에도 성공할지는 모르겠어요.",
+    "context": "EN :\nI—I did it… I doubt I could make it work again, though.\nJP :\nや、やり遂げました…。でも次も成功するかは分からないです。"
+  },
+  {
+    "key": "7-teller",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\n단테"
+  },
+  {
+    "key": "7-dialog",
+    "original": "...이렇게 될 줄 알았어.",
+    "context": "EN :\n…I knew this would happen.\nJP :\n…こうなるって思ってた。"
+  },
+  {
+    "key": "8-teller",
+    "original": "검계 싱클레어",
+    "context": "EN :\nBlade Lineage Sinclair\nJP :\n剣契 シンクレア"
+  },
+  {
+    "key": "8-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "검계 싱클레어",
+    "context": "EN :\nBlade Lineage Sinclair\nJP :\n剣契 シンクレア"
+  },
+  {
+    "key": "9-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "검계 싱클레어",
+    "context": "EN :\nBlade Lineage Sinclair\nJP :\n剣契 シンクレア"
+  },
+  {
+    "key": "10-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "검계 싱클레어",
+    "context": "EN :\nBlade Lineage Sinclair\nJP :\n剣契 シンクレア"
+  },
+  {
+    "key": "11-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "검계 싱클레어",
+    "context": "EN :\nBlade Lineage Sinclair\nJP :\n剣契 シンクレア"
+  },
+  {
+    "key": "12-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "검계 싱클레어",
+    "context": "EN :\nBlade Lineage Sinclair\nJP :\n剣契 シンクレア"
+  },
+  {
+    "key": "13-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "검계 싱클레어",
+    "context": "EN :\nBlade Lineage Sinclair\nJP :\n剣契 シンクレア"
+  },
+  {
+    "key": "14-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  }
+]

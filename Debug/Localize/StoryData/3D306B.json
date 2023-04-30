@@ -1,0 +1,618 @@
+[
+  {
+    "key": "0-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "0-content",
+    "original": "그날은 크리스마스이브로, 온 마을에 종소리와 기쁨으로 가득 차 있을 때였다.",
+    "context": "EN :\nIt was Christmas Eve, and the whole town was filled with jingles and joy.\nJP :\nその日はクリスマスイブで、町中が鐘の音と喜びで満ちあふれていた。"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "성야의 가호 아래에, 나는 돌아가서 가족들에게 나름의 고해를 해볼 생각이었다.",
+    "context": "EN :\nUnder the blessing of the holy night, I was planning to confess my sin to my family.\nJP :\n聖夜の加護の下、僕は帰って家族に自分なりの告白をするつもりだった。"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "지하실 열쇠를 훔친, 바보 같은 실수를 저질렀지만 나는 다시 모범적인 아들로 돌아갈 것이라고.",
+    "context": "EN :\nI wanted to tell them that I made the foolish mistake of stealing the basement key and that I’d go back to being a good son.\nJP :\n地下室の鍵を盗むという、馬鹿な間違いを犯したけど\n僕は再び模範的な息子に戻るつもりだと。"
+  },
+  {
+    "key": "3-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "3-content",
+    "original": "그 시간 동안 나는 너무도 괴롭고 끔찍했다고. 내가 속한 세계가 얼마나 평화롭고 만족스러웠는지 절실히 깨달았다고.",
+    "context": "EN :\nThat the short time I spent away from the right path was agonizing. That I learned how peaceful and fulfilling the world I’d been living in truly was.\nJP :\nその間、僕はとてもつらくておぞましい思いをした。僕が属している世界が\nどれほど平和で満足に足るものだったかを切実に悟ったって。"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "그러면 가족들은 처음엔 잠깐 놀라겠지만 이내 날 그 낙원의 공간으로 받아들여 줄 것이다.",
+    "context": "EN :\nMy family might be surprised at first, but I was sure they’d welcome me back into their paradise.\nJP :\nそうすればきっと家族は最初はちょっと驚くだろうけど、\nすぐにあの楽園へと受け入れてくれるだろう。"
+  },
+  {
+    "key": "5-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "5-content",
+    "original": "분명, 그랬을 것이다.",
+    "context": "EN :\nThat was how it should’ve been.\nJP :\nきっと、そうだっただろう。"
+  },
+  {
+    "key": "6-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "6-content",
+    "original": "하지만.",
+    "context": "EN :\nHowever…\nJP :\nでも。"
+  },
+  {
+    "key": "7-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "7-content",
+    "original": "어…?",
+    "context": "EN :\nHuh…?\nJP :\nあれ…？"
+  },
+  {
+    "key": "8-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "8-content",
+    "original": "원래 같았다면 정문 앞에 설 때부터 나를 반겨줄 로봇 강아지의 소리가 들렸어야 했지만, 집은 고요한 밤 아래에 둘러싸여 있을 뿐이었고.",
+    "context": "EN :\nI was supposed to hear a robot dog greet me when I stood at the gate, but my home was covered in silence and darkness.\nJP :\n普段なら正門の前に立つあたりから僕を迎えてくれるロボット犬の声が\n聞こえてくるのだが、家はただ静かな夜に包まれているだけだった。"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-content",
+    "original": "뒤이어 내가 마주한 건, 멸망에 뒤집혀 버린 낙원이었다.",
+    "context": "EN :\nWhen I walked inside, I was confronted with a fallen paradise.\nJP :\nその後に僕が直面したのは、滅亡に引っくり返ってしまった楽園だった。"
+  },
+  {
+    "key": "10-teller",
+    "original": "누나",
+    "context": "EN :\nSister\nJP :\n姉"
+  },
+  {
+    "key": "10-title",
+    "original": "나의 가족들",
+    "context": "EN :\nMy Dear Family\nJP :\n僕の家族"
+  },
+  {
+    "key": "10-content",
+    "original": "싱클레어… 도망 쳐…",
+    "context": "EN :\nSinclair… Run…\nJP :\nシンクレア…にげ…て…。"
+  },
+  {
+    "key": "11-teller",
+    "original": "아버지",
+    "context": "EN :\nFather\nJP :\nお父さん"
+  },
+  {
+    "key": "11-title",
+    "original": "나의 가족들",
+    "context": "EN :\nMy Dear Family\nJP :\n僕の家族"
+  },
+  {
+    "key": "11-content",
+    "original": "싱… 싱클… 싱, 싱, 싱싱싱…",
+    "context": "EN :\nSi… Sincl… S-S-Sisisi―\nJP :\nしん…シンク…しん、しん、シンシンシン…。"
+  },
+  {
+    "key": "12-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "12-content",
+    "original": "누군가가 아버지의 머리를 내리친다.",
+    "context": "EN :\nSomeone smashes my father’s head.\nJP :\n誰かがお父さんの頭を叩き付ける。"
+  },
+  {
+    "key": "13-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "13-content",
+    "original": "녹슨 은색의 갑주를 입고 있는 괴상한 인물이다.",
+    "context": "EN :\nIt’s a disturbing individual wearing rusty silver armor.\nJP :\n錆びた銀色の甲冑を着ている怪しげな人物だ。"
+  },
+  {
+    "key": "14-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-title",
+    "original": "기억 속의 누군가",
+    "context": "EN :\nReminisced Person\nJP :\n記憶の中の誰か"
+  },
+  {
+    "key": "14-content",
+    "original": "인간 되지 아니한 것들이 인간성을 흠모하여 거짓 감정을 남발하다니.",
+    "context": "EN :\nHow unsightly of these non-humans to still admire humanity and display false emotion.\nJP :\n人間ではないものが人間性を敬慕し、偽りの感情を濫発するとは。"
+  },
+  {
+    "key": "15-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "15-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "15-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "15-content",
+    "original": "내버려 둬, 귀도. 불순물들 특유의 생존본능이야.",
+    "context": "EN :\nLet those impure things be, Guido. It’s their survival instincts kicking in.\nJP :\nほっといて、グイド。不純物特有の生存本能だから。"
+  },
+  {
+    "key": "16-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "16-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "16-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "16-content",
+    "original": "아니… 전기가 끊기는 것을 두려워할 뿐이라고 하는 게 맞나. 하하!",
+    "context": "EN :\nOr should I say… they’re scared of shutting down? Haha!\nJP :\nいや…電気が切れるのを恐れてるだけっていうのが正しいかな。あはは！"
+  },
+  {
+    "key": "17-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "17-content",
+    "original": "기계 파편과 피, 살점들이 공중에 튀었다가 다시 바닥으로 떨어진다.",
+    "context": "EN :\nPieces of metal, flesh, and blood fly into the air before hitting the floor.\nJP :\n機械の破片や血、肉が空中に飛び散って再び地面に落ちる。"
+  },
+  {
+    "key": "18-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "18-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "18-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "18-content",
+    "original": "싱클레어! 너 왔구나!!!",
+    "context": "EN :\nSinclair! You’re here!!!\nJP :\nシンクレア！来てくれたんだ！！！"
+  },
+  {
+    "key": "19-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "19-content",
+    "original": "아… 아…",
+    "context": "EN :\nAh… Ahh…\nJP :\nあ…あ…。"
+  },
+  {
+    "key": "20-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "20-content",
+    "original": "피와 살점이 묻은 망치를 든 채로 크로머가 다가온다.",
+    "context": "EN :\nKromer approaches, carrying a hammer stained with blood and flesh.\nJP :\n血と肉のついた金鎚を持ったままクローマーが近づいてくる。"
+  },
+  {
+    "key": "21-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "21-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "21-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "21-content",
+    "original": "아, 이거 말이야?",
+    "context": "EN :\nOh, this thing?\nJP :\nあ、これね？"
+  },
+  {
+    "key": "22-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "22-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "22-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "22-content",
+    "original": "난 옛날부터 저런 더러운 놈들이랑 조금만 엮여도 불결해서 참을 수가 없었거든.",
+    "context": "EN :\nEver since I was little, I couldn’t stand being involved with filthy affronts to humanity like these.\nJP :\n私、昔からあんな汚いやつらと少しでも絡むのが不潔で我慢できなかったんだ。"
+  },
+  {
+    "key": "23-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "23-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "23-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "23-content",
+    "original": "왜냐하면 나는 사람을 사랑하는 박애주의자니까!",
+    "context": "EN :\nBecause I’m a humanitarian who loves all things human!\nJP :\nなぜなら、私は人を愛する博愛主義者だから！"
+  },
+  {
+    "key": "24-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "24-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "24-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "24-content",
+    "original": "그런데 그런 불순한 새끼들의 자식이기까지 하면…",
+    "context": "EN :\nNow imagine how it feels to face the son of a pack of those affronts to humanity…\nJP :\nでも、そんな不純な野郎どものたちの子供でもあるっていうなら…。"
+  },
+  {
+    "key": "25-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "25-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "25-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "25-content",
+    "original": "내가 널 어떻게 해야 할까, 싱클레어? 응?",
+    "context": "EN :\nJust what should I do with you, Sinclair? Hmm?\nJP :\n私は君をどうすればいいんだろうね、シンクレア？ね？"
+  },
+  {
+    "key": "26-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "26-content",
+    "original": "나의 다리는 힘이 풀린지 오래다.",
+    "context": "EN :\nMy legs have long given up.\nJP :\n僕の足は既に力が抜けていた。"
+  },
+  {
+    "key": "27-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "27-content",
+    "original": "입도 마찬가지다. 온 몸의 모든 요소가 자기 멋대로 움직이는 것만 같았다.",
+    "context": "EN :\nMy mouth couldn’t move. It was as if my whole body refused to cooperate.\nJP :\n口も同じだ。全身の全機能が自分勝手に動いているような気がした。"
+  },
+  {
+    "key": "28-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "28-content",
+    "original": "눈앞에 크로머의 발이 보였다. 차마 고개를 들 수도 없었다. 그렇게 가까워져서야 두려운지 눈이 질끈 감겼다.",
+    "context": "EN :\nI saw Kromer standing right before me. I couldn’t dare look up. Terror kicked in with the realization that she was so close to me, and my eyes shut themselves tight.\nJP :\n目の前にクローマーの足が見えた。どうしても顔を上げることもできなかった。\nそれくらいの距離になってやっと怖くなったのか目がぎゅっと閉じられた。"
+  },
+  {
+    "key": "29-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "29-content",
+    "original": "아버지와 어머니와 누나를 으깬 살점이 남아있는 저 망치가 나를 향해 다가올 거란 생각을 하니 견딜 수 없을 정도로 두려웠다.",
+    "context": "EN :\nThe thought that the same hammer that crushed my father, mother, and sister would now come for me was unbearable.\nJP :\n父と母と姉を潰した肉が付いているあの金鎚が僕に向かって\n近づいてくると思うと、耐えられないくらい怖かった。"
+  },
+  {
+    "key": "30-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "30-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "31-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "31-content",
+    "original": "하지만 아무런 기척도 없다.",
+    "context": "EN :\nBut nothing happened.\nJP :\nしかし、何かが起こりそうな気配は全くしない。"
+  },
+  {
+    "key": "32-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "32-content",
+    "original": "의아해진 나는 조심스럽게 눈을 떠서 고개를 들었다.",
+    "context": "EN :\nConfused, I carefully opened my eyes and lifted my head.\nJP :\n不思議に思った僕は恐る恐る目を開けて顔を上げた。"
+  },
+  {
+    "key": "33-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "33-content",
+    "original": "크로머는 나를 바라보고 있었다.",
+    "context": "EN :\nKromer was watching me.\nJP :\nクローマーは僕を見つめていた。"
+  },
+  {
+    "key": "34-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "34-content",
+    "original": "언젠가 내가 책상에 앉아있을 때, 자신의 이름을 알려주며 말을 걸어왔을 때처럼 완벽한 미소를 지으며.",
+    "context": "EN :\nMaking a perfect smile just like the one she’d made when she first came to my desk and told me her name.\nJP :\nいつだったか僕が机に座っているとき、自分の名前を教えて\n話しかけてきたときのように、完璧な笑みを浮かべながら。"
+  },
+  {
+    "key": "35-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "35-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "35-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "35-content",
+    "original": "하지만 너는 내 영웅이야, 싱클레어.",
+    "context": "EN :\nWell, you are my hero, Sinclair.\nJP :\nでも君は私の英雄だからね、シンクレア。"
+  },
+  {
+    "key": "36-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "36-content",
+    "original": "그러더니 내 교복 셔츠 주머니에 손을 넣어 동전 하나를 꺼내 간다.",
+    "context": "EN :\nShe then reaches into the pocket on my school shirt and takes out a coin.\nJP :\nすると、僕の制服のシャツのポケットに手を入れてコインを一枚取り出していく。"
+  },
+  {
+    "key": "37-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "37-content",
+    "original": "나에게 쥐여 준 두 닢의 동전이다.",
+    "context": "EN :\nIt’s one of the two she handed me the other day.\nJP :\n私に握らせた二枚のコインだ。"
+  },
+  {
+    "key": "38-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "38-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "38-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "38-content",
+    "original": "앞으로… 무엇이든 의심하고, 불안해하고… 끊임없이 나를 떠올리면서 겁에 질린 채 살아.",
+    "context": "EN :\nFrom now on… You’ll doubt everything, be anxious of everything… and live in ever-constant terror as your memories of me haunt you.\nJP :\nこれから…全てを疑って、不安になって…絶えず私を思い出しながら\n恐怖に取り憑かれたまま生きて。"
+  },
+  {
+    "key": "39-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "39-content",
+    "original": "으… 으으…",
+    "context": "EN :\nNhh… Ungh…\nJP :\nう…うぅ…。"
+  },
+  {
+    "key": "40-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "40-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "40-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "40-content",
+    "original": "그러다가 때가 되면… 내가 널 부를 거야.",
+    "context": "EN :\nAnd, when the time comes… I will call for you.\nJP :\nそうして時が来たら…。私が君を呼ぶから。"
+  },
+  {
+    "key": "41-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "41-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "41-title",
+    "original": "학급생?",
+    "context": "EN :\nStudent?\nJP :\n学級生?"
+  },
+  {
+    "key": "41-content",
+    "original": "어이! 이 아이를 안전한 곳으로 옮겨! 누구라도 손 대면 내가 가만두지 않겠어.",
+    "context": "EN :\nHey! Someone take this kid to safety! Lay a finger on him and I’ll make you regret it.\nJP :\nおう！この子を安全な場所に運べ！誰であれ手出しすれば容赦しないぞ。"
+  },
+  {
+    "key": "42-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "42-content",
+    "original": "엄습하는 이명과 구둣발 소리, 그리고 어지러움 속에서…",
+    "context": "EN :\nAmidst the piercing noise, storms of heavy footsteps, and disorientation…\nJP :\n襲いかかる耳鳴りと靴の音、そして目眩の中で…。"
+  },
+  {
+    "key": "43-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "43-content",
+    "original": "나는 그대로 기절했다.",
+    "context": "EN :\nI lost consciousness.\nJP :\n僕はそのまま気絶した。"
+  }
+]

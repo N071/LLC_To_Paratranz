@@ -1,0 +1,112 @@
+[
+  {
+    "key": "0-place",
+    "original": "4구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 4 - LC Branch Interior\nJP :\n4区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "홉킨스",
+    "translation": "霍普金斯",
+    "context": "EN :\nleft\nJP :\nhopkins"
+  },
+  {
+    "key": "0-teller",
+    "original": "홉킨스",
+    "context": "EN :\nHopkins\nJP :\nホプキンス"
+  },
+  {
+    "key": "0-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "0-content",
+    "original": "역시… 붉은시선님의 수하들답게 능력도 만만치가 않군요.",
+    "context": "EN :\nImpressive… I expected no less of the Red Gaze’s minions.\nJP :\nやはり…赤い視線様の手下だといえるくらいには、侮れない実力ですね。"
+  },
+  {
+    "key": "1-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "1-content",
+    "original": "…수하라고?",
+    "context": "EN :\n…What’d you say?\nJP :\n…手下だって？"
+  },
+  {
+    "key": "2-model",
+    "original": "아야",
+    "translation": "阿雅",
+    "context": "EN :\nleft\nJP :\naya"
+  },
+  {
+    "key": "2-teller",
+    "original": "아야",
+    "context": "EN :\nAya\nJP :\nアヤ"
+  },
+  {
+    "key": "2-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "2-content",
+    "original": "아이고, 우리 홉킨스가 말실수를 해서… 제가 대신 사과할게요~ 헤헤.",
+    "context": "EN :\nOh boy, there goes Hopkins again, being clumsy with his tongue… I’ll apologize in his stead~ Heheh.\nJP :\nあらら、うちのホプキンスが失言しちゃって…私が代わりに謝りますね～えへへ。"
+  },
+  {
+    "key": "3-model",
+    "original": "아야",
+    "translation": "阿雅",
+    "context": "EN :\nleft\nJP :\naya"
+  },
+  {
+    "key": "3-teller",
+    "original": "아야",
+    "context": "EN :\nAya\nJP :\nアヤ"
+  },
+  {
+    "key": "3-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "3-content",
+    "original": "그런데 왜 이렇게 꾸물럭대는 거야, 홉킨스? 치질 다시 도졌어?",
+    "context": "EN :\nWhat’s taking you so long though, Hopkins? Hemorrhoids acting up again?\nJP :\nところでなんでそんなクネクネしてるの、ホプキンス？\n痔でも再発した？"
+  },
+  {
+    "key": "4-model",
+    "original": "홉킨스",
+    "translation": "霍普金斯",
+    "context": "EN :\nleft\nJP :\nhopkins"
+  },
+  {
+    "key": "4-teller",
+    "original": "홉킨스",
+    "context": "EN :\nHopkins\nJP :\nホプキンス"
+  },
+  {
+    "key": "4-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "4-content",
+    "original": "무, 무슨 말을 하는 거야? 내가 언제…",
+    "context": "EN :\nW-What—no I’m not! Dunno what you mean…\nJP :\nな、何言ってるんだ？俺がいつ…。"
+  },
+  {
+    "key": "5-content",
+    "original": "자리에서 잠시 꾸물거리던 홉킨스가 자리에서 일어섰다.",
+    "context": "EN :\nHopkins got up after a bit of dawdling.\nJP :\nその場でしばらくの間くねくねしていたホプキンスが立ち上がった。"
+  },
+  {
+    "key": "6-content",
+    "original": "주머니가 불룩해져 있는 것 같았지만 구태여 아는 척하진 않기로 했다.",
+    "context": "EN :\nHis pockets were laden with something, but I decided not to bother pointing it out.\nJP :\nポケットが膨らんでいるような気がしたが、あえて知らないフリをすることにした。"
+  }
+]

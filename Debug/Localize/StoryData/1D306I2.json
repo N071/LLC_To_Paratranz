@@ -1,0 +1,96 @@
+[
+  {
+    "key": "0-place",
+    "original": "4구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 4 - LC Branch Interior\nJP :\n4区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-content",
+    "original": "구더기들이 소리 없는 비명을 지르며 무너져 내린다. ",
+    "context": "EN :\nThe mass of maggots falls apart in a hail of silent screams.\nJP :\n蛆虫たちが声なき悲鳴を上げて崩れ落ちる。"
+  },
+  {
+    "key": "1-content",
+    "original": "그 너머로 보이는 건 황금색으로 물결치는 빛이다.",
+    "context": "EN :\nBeyond that, I see a wave of radiant golden light.\nJP :\nその向こうに見えるのは黄金色に波打つ光だ。"
+  },
+  {
+    "key": "2-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<저건… 황금 가지?>",
+    "context": "EN :\n<Is that… the Golden Bough?>\nJP :\n<あれは…黄金の枝？>"
+  },
+  {
+    "key": "3-content",
+    "original": "가까이 다가가려고 발을 내딛이려는 그때, 사과가 요동친다. ",
+    "context": "EN :\nJust as I begin to approach it, the apple begins to tremble.\nJP :\n近付くために足を踏み出そうとしたそのとき、林檎が揺れ動く。"
+  },
+  {
+    "key": "4-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "4-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "4-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "4-content",
+    "original": "저 혹시… 림버스 컴퍼니에서 오신 분들… 맞나요?",
+    "context": "EN :\nExcuse me… Are you the people from… Limbus Company?\nJP :\nあの、もしかして…リンバス・カンパニーから来た方で…合ってますか？"
+  },
+  {
+    "key": "5-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "5-content",
+    "original": "<유리? 괜찮은 거야?>",
+    "context": "EN :\n<Yuri? You’re okay?>\nJP :\n<ユーリ？大丈夫か？>"
+  },
+  {
+    "key": "6-content",
+    "original": "눈 앞에서 삼켜진 걸 똑똑히 보았는데도 다급한 물음이 튀어나온다. ",
+    "context": "EN :\nEven though I had clearly seen it devour her, I couldn’t stop myself from asking.\nJP :\n目の前で飲み込まれたのをしっかりと見たはずなのに、\nにわかにそんな質問が飛び出て来た。"
+  },
+  {
+    "key": "7-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "7-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "7-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "7-content",
+    "original": "…버스로 돌아가면, 카론한테 …알려줘도 될까요?",
+    "context": "EN :\n…When we go back to the bus, can I—Charon how to…?\nJP :\n…バスに帰ったら、カロンに…教えても良いですか？"
+  },
+  {
+    "key": "8-content",
+    "original": "그리고 로쟈가 마음에 들어했던 분홍색깔의 머리카락이 보인 것 같았다.",
+    "context": "EN :\nThen I saw a glimpse of the pink locks of hair that Rodya took a liking to.\nJP :\nそしてロージャが気に入っていた、ピンク色の髪が見えた気がした。"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "key": "Ally-content",
+    "original": "아군",
+    "context": "EN :\nFriendly Units\nJP :\n味方"
+  },
+  {
+    "key": "RandomAlly-content",
+    "original": "무작위 아군",
+    "context": "EN :\nRandom Friendly Units\nJP :\nランダムな味方"
+  },
+  {
+    "key": "EveryAlly-content",
+    "original": "모든 아군",
+    "context": "EN :\nAll Allies\nJP :\n全味方"
+  },
+  {
+    "key": "EveryEnemy-content",
+    "original": "모든 적군",
+    "context": "EN :\nAll Enemies\nJP :\n全ての敵"
+  },
+  {
+    "key": "ChosenPersonality-content",
+    "original": "선택한 인격",
+    "context": "EN :\nThe Selected Identity\nJP :\n選択した人格"
+  },
+  {
+    "key": "HighestHpAlly-content",
+    "original": "체력이 높은 아군",
+    "context": "EN :\nFriendly Units with the most HP\nJP :\n体力の高い味方"
+  },
+  {
+    "key": "LowestHpAlly-content",
+    "original": "체력이 낮은 아군",
+    "context": "EN :\nFriendly Units with the least HP\nJP :\n体力の低い味方"
+  },
+  {
+    "key": "HighestMpAlly-content",
+    "original": "정신력이 높은 아군",
+    "context": "EN :\nFriendly Units with the highest SP\nJP :\n精神力の高い味方"
+  },
+  {
+    "key": "LowestMpAlly-content",
+    "original": "정신력이 낮은 아군",
+    "context": "EN :\nFriendly Units with the lowest SP\nJP :\n精神力の低い味方"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "key": "0-place",
+    "original": "4구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 4 - LC Branch Interior\nJP :\n4区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "0-content",
+    "original": "단테, 이 격리실 앞. 여태까지 만난 것들과는 다른 느낌이 들지 않나요?",
+    "context": "EN :\nDante, something about this containment unit seems different from the others, does it not?\nJP :\nダンテ、この隔離室前。今までと遭遇してきたのとは違う感じがしませんか？"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<그런 것 같은데… 아, 이게?>",
+    "context": "EN :\n<Yeah, it really does… Wait, is this―?>\nJP :\n<そんな気がするけど…あ、これが？>"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "네, 황금가지가 뿌리내린 환상체가 있을 거예요.",
+    "context": "EN :\nYes, that is most likely where we can find the Abnormality in which the Golden Bough has taken root.\nJP :\nはい、黄金の枝が根を下ろした幻想体が居るはずです。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "하아… 그래도 다 온 모양이구만.",
+    "context": "EN :\nHaah… We did manage to come this far, huh.\nJP :\nはぁ…でもやっと辿り着けたみたいだな。"
+  },
+  {
+    "key": "4-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "4-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "4-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "4-content",
+    "original": "그레고르 씨…",
+    "context": "EN :\nSay, Gregor…\nJP :\nグレゴールさん…。"
+  },
+  {
+    "key": "5-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "5-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "5-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "5-content",
+    "original": "…버스로 돌아가면, 카론한테 지도 보는 법을 알려줘도 될까요?",
+    "context": "EN :\n…When we go back to the bus, can I teach Charon how to use a map?\nJP :\n…バスに帰ったら、カロンに地図の読み方を教えても良いですか？"
+  },
+  {
+    "key": "6-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "6-content",
+    "original": "…그래, 그래. 카론이 좋아할 거야.",
+    "context": "EN :\n…Yeah, sounds good. I’m sure she’ll like it.\nJP :\n…うんうん。カロンが喜ぶだろうな。"
+  },
+  {
+    "key": "7-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "7-content",
+    "original": "그럴 리가요…",
+    "context": "EN :\nI doubt that…\nJP :\nそんなわけ…。"
+  },
+  {
+    "key": "8-content",
+    "original": "싱클레어는 고개를 절레절레하며 대답하곤 헛구역질을 했다.",
+    "context": "EN :\nSinclair shook his head, then dry-retched afterward.\nJP :\nシンクレアは首を振って答えながら、オエッと顔を作った。"
+  },
+  {
+    "key": "9-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "9-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "9-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "9-content",
+    "original": "후후, 돌아갈 곳이 있다는 건 좋은 거네요.",
+    "context": "EN :\nHuhu, it’s nice to have a place to go back to.\nJP :\nふふっ、帰る場所があるって良いことですね。"
+  }
+]

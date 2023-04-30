@@ -1,0 +1,224 @@
+[
+  {
+    "key": "0-place",
+    "original": "4구 뒷골목 어딘가",
+    "context": "EN :\nSome Backstreets of District 4\nJP :\n4区 裏路地のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "0-content",
+    "original": "배부르게 밥을 먹은 지가 언제더라, 기계 덩어리 팔자가 더 낫네…",
+    "context": "EN :\nGee, when was the last time I had a feast? Even a big blocky machine eats better than we do…\nJP :\n最後にお腹いっぱいご飯を食べたのっていつだったっけ、\n機械の塊として生きる方がマシかも…。"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "제공되는 식사는 모두 정량이에요.",
+    "context": "EN :\nDo mind that all meals are provided with appropriately determined quantities.\nJP :\n提供される食事はすべて定量です。"
+  },
+  {
+    "key": "2-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "2-content",
+    "original": "그 정도 먹어서는 기운이 안 난단 말이야!",
+    "context": "EN :\nIt’s not nearly enough to get me going!\nJP :\nあのくらいじゃやる気出ないんだって！"
+  },
+  {
+    "key": "3-content",
+    "original": "저 멀리서 히스클리프가 누구는 배가 불러서 이러고 있냐! 라고 외치는 것 같았지만, 로쟈는 들리지 않는 척을 하려는 모양이었다.",
+    "context": "EN :\nI thought I heard Heathcliff shout “You think I’m doing this on a full stomach?!” in the distance, but Rodya seemed to pretend she heard nothing.\nJP :\n遠くでヒースクリフが腹一杯だからこんなことやってるとでも思ってんのか！と叫んでいるようだったが、ロージャは聞こえないふりをしているみたいだ。"
+  },
+  {
+    "key": "4-content",
+    "original": "그러고 보니.",
+    "context": "EN :\nSpeaking of…\nJP :\nそういえば。"
+  },
+  {
+    "key": "5-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "5-content",
+    "original": "<이 버스의 연료는 피나 단백질인가 봐?>",
+    "context": "EN :\n<Does this bus run on stuff like blood or protein?>\nJP :\n<このバスの燃料は血とか蛋白質みたいだな？>"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "엔케팔린이에요. 로보토미 코퍼레이션에서 추출했던 에너지죠.",
+    "context": "EN :\nIt’s Enkephalin, an energy source Lobotomy Corporation treated.\nJP :\nエンケファリンです。\nロボトミーコーポレーションで抽出されていたエネルギーです。"
+  },
+  {
+    "key": "7-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "7-content",
+    "original": "이전 L사 말이군요. 특이점으로 에너지를 생산하는 회사라고 들었어요. L사가 몰락한 지금은 잔해밖에 남지 않았지만.",
+    "context": "EN :\nYou mean the previous L Corp. I heard it produced energy using its Singularity, though all that remains of the company now is rubble.\nJP :\n前のL社のことですね。特異点でエネルギーを生産する会社だと聞きました。\nL社が没落した今は残骸しか残ってませんけど。"
+  },
+  {
+    "key": "8-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-content",
+    "original": "맞아요. 그래서 지금은 구하기가 꽤 힘들어요.",
+    "context": "EN :\nThat’s right, which is why it’s become a rarity these days.\nJP :\nそうです。だから今はかなり手に入れづらいんです。"
+  },
+  {
+    "key": "9-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-content",
+    "original": "하지만 메피스토펠레스는 신체에서 엔케팔린을 강제로 추출할 수 있죠.",
+    "context": "EN :\nHowever, Mephistopheles is capable of forcibly extracting Enkephalin from the body.\nJP :\nしかしメフィストフェレスは身体から\nエンケファリンを強制的に抽出することができます。"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<신체?>",
+    "context": "EN :\n<The body…?>\nJP :\n<身体？>"
+  },
+  {
+    "key": "11-content",
+    "original": "나는 수감자들에게 무어라 지휘하는 오티스와 버스의 아가리를 번갈아 보면서 의문을 떠올렸다.",
+    "context": "EN :\nI posed a question, watching Outis give orders to the other Sinners, then glancing to the maw of the bus in turn.\nJP :\n私は囚人たちにあれこれ指揮するウーティスとバスの口を交互に見ながら疑問を抱いた。"
+  },
+  {
+    "key": "12-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-content",
+    "original": "네, 엔케팔린은 뇌와 척수신경에서만 추출돼요. 특히나 생명 활동이 있을수록 효율이 좋죠.",
+    "context": "EN :\nCorrect, Enkephalin can only be extracted from the brain and the spinal nerves. It can be taken from live subjects for greater efficiency.\nJP :\nはい、エンケファリンは脳と脊髄神経のみから抽出されます。\n特に生命活動があるほど効率が良いですね。"
+  },
+  {
+    "key": "13-content",
+    "original": "그래서 베르길리우스가 되도록이면 죽이지 말라고 했던 거구나.",
+    "context": "EN :\nSo that’s why Vergilius told the Sinners not to kill the assailants.\nJP :\nだからヴェルギリウスができれば殺すなって言ってたのか。"
+  },
+  {
+    "key": "14-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "14-content",
+    "original": "<그럼…>",
+    "context": "EN :\n<Okay, and…>\nJP :\n<じゃあ…。>"
+  },
+  {
+    "key": "15-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-content",
+    "original": "'그럼 해당 부위만 먹여도 되는 거 아니야?'라기엔 피와 근육도 연료로 쓰일 수 있어요.",
+    "context": "EN :\nIf “Why the rest of their body?” is what you’re thinking, there is a point, as their blood and flesh can also be processed into fuel.\nJP :\n「じゃあ該当部位だけ食べればいいんじゃないか？」と思うかもしれませんが、\n血と筋肉も燃料に使えます。"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "엔케팔린이 시동과 추력을 위해서 필요하다면, 나머지 생체 물질은 순항할 때 사용되죠. 엔케팔린이 되도록 천천히 소모되게 하기 위한 설계죠.",
+    "context": "EN :\nWhile Enkephalin is used to generate ignition and thrust, the remaining organic matter is spent on maintaining speed, thus reducing Enkephalin usage.\nJP :\nエンケファリンが始動と推力のために必要だとすると、\nそれ以外の生体物質は巡航するときに使用されます。\nエンケファリンがなるべくゆっくり消耗されるようにするための設計です。"
+  },
+  {
+    "key": "17-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "17-content",
+    "original": "하이브리드이오.",
+    "context": "EN :\nA hybrid.\nJP :\nハイブリッドなり。"
+  },
+  {
+    "key": "18-content",
+    "original": "파우스트는 이후로도 대부분의 연료는 지부에서 수급해오고, 항상 이런 식으로만 연료를 채울 수 없다는 부가 설명을 했지만…",
+    "context": "EN :\nFaust went on to explain how most of the vehicle’s fuel is taken from the branch facilities, and that it won’t be a sufficient source on its own…\nJP :\nファウストはその後「燃料の大半は支部で支給され、いつもこんなやり方で燃料を満たしているわけではない」という追加説明をしてきたが…。"
+  },
+  {
+    "key": "19-content",
+    "original": "머릿속에 제대로 들어오는 이야기는 아니었다.",
+    "context": "EN :\nBut most of it went in one ear and out the other.\nJP :\n頭の中にちゃんと入ってこなかった。"
+  },
+  {
+    "key": "20-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "20-content",
+    "original": "<…복잡한 문제네. 잘은 모르겠지만, 앞으로도 고생이 많겠어.>",
+    "context": "EN :\n<…Well, that’s complicated. I got that it’s tough work, at least.>\nJP :\n<…ややこしい問題だな。よく分からないけど、これからも苦労しそうだね。>"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-content",
+    "original": "뭘요. 파우스트는 고생하지 않는답니다.",
+    "context": "EN :\nDon’t mention it. Faust knows no struggle.\nJP :\nいいえ別に。ファウストは苦労しませんもの。"
+  },
+  {
+    "key": "22-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "22-content",
+    "original": "고생은 우리가 하고 있지… 이봐! 관리자 양반! 또 온다고!",
+    "context": "EN :\nIf anyone’s doing the heavy lifting, it’d be us… Hey! Manager Bud! More incoming!\nJP :\n苦労は俺たちがしてるだろ…おい！管理人の旦那！また来るぞ！"
+  }
+]

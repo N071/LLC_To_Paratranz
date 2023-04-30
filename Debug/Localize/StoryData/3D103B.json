@@ -1,0 +1,208 @@
+[
+  {
+    "key": "0-place",
+    "original": "11구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 11 - LC Branch Interior\nJP :\n11区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "0-content",
+    "original": "…어디서 짐승이 기어 다니는 소리 들리지 않아?",
+    "context": "EN :\n…You hear beasts crawling around somewhere?\nJP :\n……どこかから獣がほっつき回ってる音が聞こえねぇか？"
+  },
+  {
+    "key": "1-content",
+    "original": "뭔가가 바닥을 기어 다니는 소리가 들린다.",
+    "context": "EN :\nThere certainly is the sound of something moving along the floor.\nJP :\n何かが床を這うような音が聞こえる。"
+  },
+  {
+    "key": "2-model",
+    "original": "침식직원1",
+    "translation": "被侵蚀的职员1",
+    "context": "EN :\n钉与锤\nJP :\nAbnormality_Employee"
+  },
+  {
+    "key": "2-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???\n"
+  },
+  {
+    "key": "2-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "2-content",
+    "original": "으… 으으으…",
+    "context": "EN :\nNnh… Ghhhgn…\nJP :\nう…ううう…。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "저것들도 환상체인가?",
+    "context": "EN :\nAre those Abnormalities?\nJP :\nあれも幻想体なのか？"
+  },
+  {
+    "key": "4-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "4-content",
+    "original": "자세히 봐요, 환상체가 아니에요. 인장이 박혀 있어요…",
+    "context": "EN :\nTake a closer look—they aren’t Abnormalities. See that emblem…\nJP :\nちゃんと見てください、幻想体じゃないです\n。印章が埋め込んでありますよ……。"
+  },
+  {
+    "key": "5-content",
+    "original": "이스마엘이 속삭이는 소리가 들린다.",
+    "context": "EN :\nIshmael whispered softly to us.\nJP :\nイシュメールの囁く音が聞こえる。"
+  },
+  {
+    "key": "6-content",
+    "original": "자세히 보니 그들에게는 낯익은 인장들이 박혀 있었다. 심문관들에게서나 보였던 것이다.",
+    "context": "EN :\nUpon closer inspection, I could spot the emblems she mentioned. They were the ones worn by the Inquisitors.\nJP :\nよく見ると彼らには見慣れた印章が埋め込まれている。\n審問官たちにしか見られなかったものだ。"
+  },
+  {
+    "key": "7-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "7-content",
+    "original": "E.G.O 침식 현상이군요.",
+    "context": "EN :\nE.G.O Corrosion has wrested them.\nJP :\nE.G.O侵蝕現象ですね。"
+  },
+  {
+    "key": "8-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "8-content",
+    "original": "그 기분 나쁜 상태를 말하는 건가…?",
+    "context": "EN :\nYou mean that nauseating state…?\nJP :\nあの気分悪い状態のことか…？"
+  },
+  {
+    "key": "9-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "9-content",
+    "original": "전투 중에 멘탈이 흔들릴 때 그랬던 것 같은데… 마치 뭔가에 잡아먹히는 것 같다고 할까요.",
+    "context": "EN :\nI think it happened to me in battle once when I was on the verge of a breakdown… It was like I was being devoured.\nJP :\n戦闘中メンタルが揺れるときにそうなった気がするけど…。\nまるで何かに食われるような感じがするといいますか。"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "우적우적 씹혀 먹히는 것과는 궤가 다르지만… 본질을 좀 먹어 들어간다는 것을 생각하면 괜찮은 표현이네요.",
+    "context": "EN :\nAlthough it’s not quite like consumption in the conventional sense… I do suppose that it is a serviceable analogy, seeing as it eats away at your essence.\nJP :\nむしゃむしゃと食べられるのとは次元が違いますが…\n本質が蝕まれるということを考慮すると悪く無い表現ですね。"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "…그리고 이 장소는, 아까 층과는 다르게 의체들을 고문만 하는 장소가 아닌 것 같아요.",
+    "context": "EN :\n…And in observation, unlike the last floor, this place does not seem to be exclusively for torturing prosthesis users.\nJP :\n…そしてこの場所は、さきほどの階と違い義体に拷問のみを施す場所ではなさそうです。"
+  },
+  {
+    "key": "12-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-content",
+    "original": "스스로 침식을 강행시키는 장소, 라는 말이 타당하겠군요.",
+    "context": "EN :\nIt would be fair to say that its purpose is to induce Corrosion unto oneself.\nJP :\n自ら侵蝕を強行させる場所、という言葉が妥当でしょう。"
+  },
+  {
+    "key": "13-model",
+    "original": "침식직원1",
+    "translation": "被侵蚀的职员1",
+    "context": "EN :\n钉与锤\nJP :\nAbnormality_Employee"
+  },
+  {
+    "key": "13-teller",
+    "original": "침식된 이단심문관",
+    "context": "EN :\nCorroded Inquisitor\nJP :\n侵蝕された異端審問官"
+  },
+  {
+    "key": "13-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "13-content",
+    "original": "어… 으… 아…",
+    "context": "EN :\nUrg… Ghh… Arrh…\nJP :\nお…う…あ…。"
+  },
+  {
+    "key": "14-content",
+    "original": "비틀거리며 다가오는 그 무언가를 바라보며…",
+    "context": "EN :\nStaring at those beings stumbling about…\nJP :\nよろめきながら近付くその何かを眺めながら…。"
+  },
+  {
+    "key": "15-content",
+    "original": "나는 복잡한 한숨을 내쉬었다.",
+    "context": "EN :\nIt evoked complex feelings that made me sigh.\nJP :\n私は複雑なため息をついた。"
+  },
+  {
+    "key": "16-content",
+    "original": "고작 나 같은 시계 머리에 죽일 듯이 분노하면서, 시계보다 볼썽사나운 모습으로 변모해가면서까지 살아야만 하는 걸까.",
+    "context": "EN :\nIs my artificial head really worth raging over, so much so that they would transform themselves into something far more hideous than having a clock for a head?\nJP :\nたかが私みたいな時計ヅラに対して血管が切れそうなくらい怒りながら、\n時計よりもみっともない姿に変貌してまでも生きていくべきなのか。"
+  },
+  {
+    "key": "17-content",
+    "original": "스스로의 자아를 잃고, 무언가에 덧씌워져 가면서까지.",
+    "context": "EN :\nChoosing to lose themselves, being possessed…\nJP :\n自らの自我を失い、何かに上書きされながら"
+  },
+  {
+    "key": "18-content",
+    "original": "그렇게 나를 없애 버리고 얻는 황금가지는…",
+    "context": "EN :\nWhat about when they claim the Golden Bough after going to these lengths…?\nJP :\nそうやって私を抹消して得る黄金の枝は…。"
+  },
+  {
+    "key": "19-content",
+    "original": "과연 저들의 가치를 위해 사용되기는 하는 걸까.",
+    "context": "EN :\nWill it even be used for their benefit?\nJP :\n果たして彼らの価値のために使われるのだろうか。"
+  },
+  {
+    "key": "20-content",
+    "original": "문득, 그런 생각이 들었다.",
+    "context": "EN :\nThen, it occurred to me.\nJP :\nふと、そんな考えが頭をよぎった。"
+  },
+  {
+    "key": "21-content",
+    "original": "황금가지가 어떤 결과를 불러올 것인지도 모르며 행동하고 있는 건.",
+    "context": "EN :\nAm I really so different from those unsightly zealots…\nJP :\n黄金の枝がどんな結果を呼び起こすのかも知らないまま行動しているのは、"
+  },
+  {
+    "key": "22-content",
+    "original": "저 볼썽사나운 침식자들과 나 또한 다를 바가 없다는 것을.",
+    "context": "EN :\n…when I’m searching for the Golden Boughs without even knowing what they’ll be used for?\nJP :\nあのみっともない侵蝕者も私も、そう変わりないということを。"
+  }
+]

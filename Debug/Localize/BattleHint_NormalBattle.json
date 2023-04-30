@@ -1,0 +1,27 @@
+[
+  {
+    "key": "1-content",
+    "original": "거울던전을 통해 자아 파편을 모으고 일일 보상을 얻어 인격을 성장시킬 수 있습니다.",
+    "context": "EN :\nMake sure to collect your daily rewards and Egoshards from Mirror Dungeons to power up your Identities!\nJP :\n鏡ダンジョンを通じて自我の破片を集め、デイリー報酬を手に入れて人格を成長させることができます。"
+  },
+  {
+    "key": "2-content",
+    "original": "착용한 E.G.O를 확인하고 인격을 구성해서 전투에 E.G.O 자원을 얻어봅시다.",
+    "context": "EN :\nTake into account what E.G.O you bring when you build your team so that you can gather the necessary resources more easily.\nJP :\n着用したE.G.Oを確認し、人格を構成して戦闘にてE.G.O資源を手に入れてみましょう。"
+  },
+  {
+    "key": "3-content",
+    "original": "E.G.O는 정신력이 높은 상태에서 사용 시 전투의 승기를 가져오기 쉬워집니다.",
+    "context": "EN :\nE.G.O can shift the battle in your favor if used when your Sinners have enough Sanity.\nJP :\nE.G.Oは精神力の高い状態にて使用した場合、勝機を掴みやすくなります。"
+  },
+  {
+    "key": "4-content",
+    "original": "정신력이 소모된 적이 패닉 상태가 된다면 부정적인 효과를 가지게 되어 전투의 승기를 가질 수 있습니다.",
+    "context": "EN :\nWhen an enemy runs out of Sanity and falls into Panic, they’ll suffer negative effects, giving you an advantage.\nJP :\n精神力の消耗した敵がパニック状態になるとマイナス効果が入り、勝機を掴むことができます。"
+  },
+  {
+    "key": "5-content",
+    "original": "흐트러짐 상태에서 다음 흐트러짐 구간까지 피해를 준다면, 더 강한 추가 피해를 줄 수 있습니다.",
+    "context": "EN :\nIf a Staggered character’s health falls below the next Stagger Threshold, they’ll take extra damage.\nJP :\n混乱状態で、次の混乱区間までダメージを与えることができれば、より強い追加ダメージを与えることができます。"
+  }
+]

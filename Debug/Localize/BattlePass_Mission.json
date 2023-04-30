@@ -1,0 +1,67 @@
+[
+  {
+    "key": "CLEAR_STAGE-content",
+    "original": "임의의 스테이지 {0}회 클리어",
+    "context": "EN :\nClear any stage {0} time(s)\nJP :\n任意のステージを{0}回クリア"
+  },
+  {
+    "key": "KILL_ENEMY_ANY-content",
+    "original": "전투 중 적 누적 {0}명 섬멸",
+    "context": "EN :\nDefeat {0} enemies\nJP :\n戦闘中に敵を計{0}体殲滅"
+  },
+  {
+    "key": "KILL_ENEMY_ABNORMALITY-content",
+    "original": "전투 중 환상체 {0}체 제압",
+    "context": "EN :\nSuppress {0} Abnormalities\nJP :\n戦闘中に幻想体を{0}体制圧"
+  },
+  {
+    "key": "SOMEONE_PARTICIPATED_IN_BATTLE-content",
+    "original": "{1} 전투 참여 {0}회",
+    "context": "EN :\nHave {1} in battle {0} time(s)\nJP :\n{1}が{0}回戦闘に参加"
+  },
+  {
+    "key": "MIRROR_DUNGEON_TRY-content",
+    "original": "거울 던전 {0}회 도전",
+    "context": "EN :\nEnter the Mirror Dungeon {0} time(s)\nJP :\n鏡ダンジョン {0}回挑戦"
+  },
+  {
+    "key": "MIRROR_DUNGEON_CLEAR-content",
+    "original": "거울 던전 {0}회 클리어",
+    "context": "EN :\nClear Mirror Dungeons {0} time(s)\nJP :\n鏡ダンジョン {0}回クリア"
+  },
+  {
+    "key": "BATTLEPASS_LEVELUP-content",
+    "original": "배틀패스 레벨 {0} 달성",
+    "context": "EN :\nReach Battle Pass Level {0}\nJP :\nバトルパス レベル{0}到達"
+  },
+  {
+    "key": "USE_EGO_20402-content",
+    "original": "4번째 성냥불 료슈를 {0}회 사용",
+    "context": "EN :\nUse Ryōshū’s 4th Match Flame {0} time(s)\nJP :\n4本目のマッチの火 良秀を{0}回使用"
+  },
+  {
+    "key": "USE_ANNOUNCER_2-content",
+    "original": "그레고르 아나운서를 {0}회 사용",
+    "context": "EN :\nHave Gregor as the Announcer {0} time(s)\nJP :\nグレゴールアナウンサーを{0}回使用"
+  },
+  {
+    "key": "LOGIN_ONCE-content",
+    "original": "일일 로그인 {0}회",
+    "context": "EN :\n{0} daily log-ins\nJP :\nデイリーログイン {0}回"
+  },
+  {
+    "key": "LOGIN_MULTIPLE-content",
+    "original": "누적 일일 로그인 {0}회",
+    "context": "EN :\n{0} total daily log-ins\nJP :\n累計ログイン {0}回"
+  },
+  {
+    "key": "EXPDUNGEON_CLEAR-content",
+    "original": "경험치 채광 {0}회 클리어",
+    "context": "EN :\nClear EXP Luxcavation {0} time(s)\nJP :\n経験値採光 {0}回クリア"
+  },
+  {
+    "key": "THREADDENGEON_CLEAR-content",
+    "original": "끈 채광 {0}회 클리어",
+    "context": "EN :\nClear Thread Luxcavation {0} time(s)\nJP :\n紐採光 {0}回クリア"
+  }
+]

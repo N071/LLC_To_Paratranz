@@ -1,0 +1,357 @@
+[
+  {
+    "key": "0-content",
+    "original": "<style=\"dkr\">어쩌면 그때가 바로",
+    "context": "EN :\n<style=\"den\">Maybe that was when</style>\nJP :\n<style=\"djp\">多分　その頃に決めたんだ"
+  },
+  {
+    "key": "1-content",
+    "original": "<style=\"dkr\">타락한 채로 남기로 결심한 때일까",
+    "context": "EN :\n<style=\"den\">I chose to stay fallen</style>\nJP :\n<style=\"djp\">堕落したままで居続けようと"
+  },
+  {
+    "key": "2-content",
+    "original": "<style=\"dkr\"><size=20>반짝임</size>",
+    "context": "EN :\n<style=\"den\"><size=20>Lights</size></style>\nJP :\n<style=\"djp\"><size=20>煌めき"
+  },
+  {
+    "key": "3-content",
+    "original": "<style=\"dkr\"><size=20>별</size>",
+    "context": "EN :\n<style=\"den\">A <size=20>star</size></style>\nJP :\n<style=\"djp\"><size=20>惑星"
+  },
+  {
+    "key": "4-content",
+    "original": "<style=\"dkr\"><size=20>목소리</size>",
+    "context": "EN :\n<style=\"den\">A <size=20>voice</size></style>\nJP :\n<style=\"djp\"><size=20>音声"
+  },
+  {
+    "key": "5-content",
+    "original": "<style=\"dkr\">일그러진 <size=20>생각</size>",
+    "context": "EN :\n<style=\"den\">A twisted <size=20>thought</size></style>\nJP :\n<style=\"djp\">歪む思い"
+  },
+  {
+    "key": "6-content",
+    "original": "<style=\"dkr\"><size=20>감촉</size>",
+    "context": "EN :\n<style=\"den\">A <size=20>touch</size></style>\nJP :\n<style=\"djp\"><size=20>接触"
+  },
+  {
+    "key": "7-content",
+    "original": "<style=\"dkr\"><size=20>입맞춤</size>",
+    "context": "EN :\n<style=\"den\">A <size=20>kiss</size></style>\nJP :\n<style=\"djp\"><size=20>口付け"
+  },
+  {
+    "key": "8-content",
+    "original": "<style=\"dkr\">뒤틀린 <size=20>꿈</size>",
+    "context": "EN :\n<style=\"den\">A distorted <size=20>dream</size></style>\nJP :\n<style=\"djp\">崩壊する<size=20>夢"
+  },
+  {
+    "key": "9-content",
+    "original": "<style=\"dkr\"><size=20>잔물결",
+    "context": "EN :\n<style=\"den\"><size=20>Ripples</size></style>\nJP :\n<style=\"djp\"><size=20>波浪"
+  },
+  {
+    "key": "10-content",
+    "original": "<style=\"dkr\"><size=20>우물",
+    "context": "EN :\n<style=\"den\">A <size=20>well</size></style>\nJP :\n<style=\"djp\"><size=20>井戸"
+  },
+  {
+    "key": "11-content",
+    "original": "<style=\"dkr\"><size=20>돌",
+    "context": "EN :\n<style=\"den\">A <size=20>stone</size></style>\nJP :\n<style=\"djp\"><size=20>重石"
+  },
+  {
+    "key": "12-content",
+    "original": "<style=\"dkr\">불어나는 <size=20>욕망</style></size>",
+    "context": "EN :\n<style=\"den\">A multiplying <size=20>desire</size></style>\nJP :\n<style=\"djp\">繁殖する<size=20>欲望"
+  },
+  {
+    "key": "13-content",
+    "original": "<style=\"dkr\">과일",
+    "context": "EN :\n<style=\"den\">A fruit</style>\nJP :\n<style=\"djp\">果実"
+  },
+  {
+    "key": "14-content",
+    "original": "<style=\"dkr\"><size=20>죄",
+    "context": "EN :\n<style=\"den\">A <size=20>sin</size></style>\nJP :\n<style=\"djp\"><size=20>罪咎"
+  },
+  {
+    "key": "15-content",
+    "original": "<style=\"dkr\">성모",
+    "context": "EN :\n<style=\"den\">A holy mother</style>\nJP :\n<style=\"djp\">聖なる母"
+  },
+  {
+    "key": "16-content",
+    "original": "<style=\"dkr\">난 감염됐어, <size=20>네게 감염되어",
+    "context": "EN :\n<style=\"den\">I’m infected, <size=20>I’m infected</size></style>\nJP :\n<style=\"djp\">君に感染され <size=20>感染され"
+  },
+  {
+    "key": "17-content",
+    "original": "<style=\"dkr\">네게 잠식당해 <size=20>나는 새로 거듭나</style></size>",
+    "context": "EN :\n<style=\"den\">You have invaded and <size=20>re-created me</size></style>\nJP :\n<style=\"djp\">君は僕を侵食し　<size=20>僕を作り直した"
+  },
+  {
+    "key": "18-content",
+    "original": "<style=\"dkr\">내 <size=20>시체</size>를 밟고 일어서",
+    "context": "EN :\n<style=\"den\">Stepped over my <size=20>body</size></style>\nJP :\n<style=\"djp\">僕の<size=20>死体</size>を踏み越え"
+  },
+  {
+    "key": "19-content",
+    "original": "<style=\"dkr\"><size=20>볕</size>이 잘 드는 곳을 찾아",
+    "context": "EN :\n<style=\"den\">Found a <size=20>sunny</size> spot</style>\nJP :\n<style=\"djp\"><size=20>日向</size>を見つけた"
+  },
+  {
+    "key": "20-content",
+    "original": "<style=\"dkr\">몸을 둥글게</size> 말고",
+    "context": "EN :\n<style=\"den\">Curled into a <size=20>ball</size></style>\nJP :\n<style=\"djp\">体を小さく<size=20>丸め</size>"
+  },
+  {
+    "key": "21-content",
+    "original": "<style=\"dkr\"><size=20>실</size>을 짜내",
+    "context": "EN :\n<style=\"den\">Spinning out the <size=20>silk</size></style>\nJP :\n<style=\"djp\"><size=20>絹</size>を紡ぎ　織り成す"
+  },
+  {
+    "key": "22-content",
+    "original": "<style=\"dkr\"><size=20>머리</size>부터 <size=20>발끝</size>까지",
+    "context": "EN :\n<style=\"den\">From my <size=20>head</size> to <size=20>toe</size></style>\nJP :\n<style=\"djp\"><size=20>頭</size>の<size=20>天辺</size>からつま先まで"
+  },
+  {
+    "key": "23-content",
+    "original": "<style=\"dkr\">따뜻한 <size=20>고치</size> 속에서 나는 너와 같은 <size=20>존재</size>가 되기를 꿈꾸었어",
+    "context": "EN :\n<style=\"den\">Inside the warm <size=20>cocoon</size>, I dreamt <size=20>to be</size> like <size=20>you</size></style>\nJP :\n<style=\"djp\">暖かい<size=20>繭</size>の中　君のような<size=20>存在</size>に化ける夢を見た"
+  },
+  {
+    "key": "24-content",
+    "original": "<style=\"dkr\">돌이킬 길이 없다는 것은 알고 있지만",
+    "context": "EN :\n<style=\"den\">Though I know there's no undo</style>\nJP :\n<style=\"djp\">もうやり直せないと分かっている"
+  },
+  {
+    "key": "25-content",
+    "original": "<style=\"dkr\">어차피 더 잃을 것이 무엇 있으리?",
+    "context": "EN :\n<style=\"den\">What do I have left to lose?</style>\nJP :\n<style=\"djp\">でも　失敗したってこれ以上失う物はないよね？"
+  },
+  {
+    "key": "26-content",
+    "original": "<style=\"dkr\"><size=20>분열",
+    "context": "EN :\n<style=\"den\"><size=20>Split</size></style>\nJP :\n<style=\"djp\"><size=20>分裂"
+  },
+  {
+    "key": "27-content",
+    "original": "<style=\"dkr\"><size=20>하늘",
+    "context": "EN :\n<style=\"den\">A <size=20>sky</size></style>\nJP :\n<style=\"djp\"><size=20>天空"
+  },
+  {
+    "key": "28-content",
+    "original": "<style=\"dkr\"><size=20>대지",
+    "context": "EN :\n<style=\"den\">An <size=20>earth</size></style>\nJP :\n<style=\"djp\"><size=20>大地"
+  },
+  {
+    "key": "29-content",
+    "original": "<style=\"dkr\"><size=20>틈새</size> 사이로 떨어져",
+    "context": "EN :\n<style=\"den\">I fell into a <size=20>crack</size></style>\nJP :\n<style=\"djp\"><size=20>狭間</size>に落ちていく"
+  },
+  {
+    "key": "30-content",
+    "original": "<style=\"dkr\"><size=20>탄생",
+    "context": "EN :\n<style=\"den\">A <size=20>birth</size></style>\nJP :\n<style=\"djp\"><size=20>生誕"
+  },
+  {
+    "key": "31-content",
+    "original": "<style=\"dkr\"><size=20>알",
+    "context": "EN :\n<style=\"den\">An <size=20>egg</size></style>\nJP :\n<style=\"djp\"><size=20>卵"
+  },
+  {
+    "key": "32-content",
+    "original": "<style=\"dkr\">갓 벌어진 <size=20>막",
+    "context": "EN :\n<style=\"den\">A freshly opened <size=20>membrane</size></style>\nJP :\n<style=\"djp\">切り裂かれたての<size=20>粘膜"
+  },
+  {
+    "key": "33-content",
+    "original": "<style=\"dkr\"><size=20>세포",
+    "context": "EN :\n<style=\"den\">A <size=20>cell</size></style>\nJP :\n<style=\"djp\"><size=20>細胞"
+  },
+  {
+    "key": "34-content",
+    "original": "<style=\"dkr\"><size=20>부패",
+    "context": "EN :\n<style=\"den\">A <size=20>rot</size></style>\nJP :\n<style=\"djp\"><size=20>腐敗"
+  },
+  {
+    "key": "35-content",
+    "original": "<style=\"dkr\"><size=20>재</size>로 변한 얼굴",
+    "context": "EN :\n<style=\"den\">A face returned to <size=20>ashes</size></style>\nJP :\n<style=\"djp\"><size=20>灰燼</size>に帰す顔"
+  },
+  {
+    "key": "36-content",
+    "original": "<style=\"dkr\"><size=20>상처",
+    "context": "EN :\n<style=\"den\">A <size=20>wound</size></style>\nJP :\n<style=\"djp\"><size=20>傷口"
+  },
+  {
+    "key": "37-content",
+    "original": "<style=\"dkr\"><size=20>미술",
+    "context": "EN :\n<style=\"den\">An <size=20>art</size></style>\nJP :\n<style=\"djp\"><size=20>芸術"
+  },
+  {
+    "key": "38-content",
+    "original": "<style=\"dkr\">지각이 있는 <size=20>화폭</size>",
+    "context": "EN :\n<style=\"den\">A sentient <size=20>canvas</size></style>\nJP :\n<style=\"djp\">知覚を持つ<size=20>画布"
+  },
+  {
+    "key": "39-content",
+    "original": "<style=\"dkr\">깨부숴, 깨부숴, 껍데기를 깨부수고",
+    "context": "EN :\n<style=\"den\">Breaking breaking breaking the shell</style>\nJP :\n<style=\"djp\">壊して壊して殻を壊して"
+  },
+  {
+    "key": "40-content",
+    "original": "<style=\"dkr\">깨어난다, 그래 지금 깨는 거야",
+    "context": "EN :\n<style=\"den\">Breaking out, oh break it now</style>\nJP :\n<style=\"djp\">脱出しようよ　ねえ今すぐ壊して"
+  },
+  {
+    "key": "41-content",
+    "original": "<style=\"dkr\">알려주세요, 보여주세요",
+    "context": "EN :\n<style=\"den\">Show me how, show me how</style>\nJP :\n<style=\"djp\">どうやって？見せて？"
+  },
+  {
+    "key": "42-content",
+    "original": "<style=\"dkr\">잘 들으렴, 우리 부서진 아이야",
+    "context": "EN :\n<style=\"den\">Listen up, my broken child</style>\nJP :\n<style=\"djp\">聞きたまえ　壊された我が子よ"
+  },
+  {
+    "key": "43-content",
+    "original": "<style=\"dkr\">애탄하자,",
+    "context": "EN :\n<style=\"den\">Let’s lament</style>\nJP :\n<style=\"djp\">嘆きましょう"
+  },
+  {
+    "key": "44-content",
+    "original": "<style=\"dkr\">애탄하자꾸나",
+    "context": "EN :\n<style=\"den\">Let’s lament</style>\nJP :\n<style=\"djp\">嘆きましょう"
+  },
+  {
+    "key": "45-content",
+    "original": "<style=\"dkr\"><size=20>삶</size>과 <size=20>죽음</size>과 <size=20>선</size>과 <size=20>악</size>",
+    "context": "EN :\n<style=\"den\">The <size=20>life</size>, the <size=20>death</size>, the <size=20>good</size>, the <size=20>bad</size></style>\nJP :\n<style=\"djp\"><size=20>生</size>と<size=20>死</size>と<size=20>善</size>と<size=20>悪</size>と"
+  },
+  {
+    "key": "46-content",
+    "original": "<style=\"dkr\">우리가 건 끝나지 않는 <size=20>저주</size>",
+    "context": "EN :\n<style=\"den\">The never ending <size=20>curse</size> we cast</style>\nJP :\n<style=\"djp\">自らがかけ続けた終わらない<size=20>呪い達</size>"
+  },
+  {
+    "key": "47-content",
+    "original": "<style=\"dkr\"><size=20>지배</size> 지배, <size=20>지배,</size> 해방",
+    "context": "EN :\n<style=\"den\"><size=20>Control</size>, Control, <size=20>Control</size>, Release</style>\nJP :\n<style=\"djp\"><size=20>支配</size>支配<size=20>支配</size>釈放"
+  },
+  {
+    "key": "48-content",
+    "original": "<style=\"dkr\">지배, <size=20>배신,</size> 지배, <size=20>포기</size>",
+    "context": "EN :\n<style=\"den\">Control, <size=20>Betray</size>, Control, <size=20>Let Go</size></style>\nJP :\n<style=\"djp\">支配<size=20>裏切</size>支配<size=20>放棄</size>"
+  },
+  {
+    "key": "49-content",
+    "original": "<style=\"dkr\"><size=20>은폐, 폭로, 비현실, 초현실",
+    "context": "EN :\n<style=\"den\"><size=20>Conceal, Reveal, Unreal, Surreal</size></style>\nJP :\n<style=\"djp\"><size=20>隠蔽暴露非現実超現実"
+  },
+  {
+    "key": "50-content",
+    "original": "<style=\"dkr\"><size=20>기원, 환기, 해독, 재독",
+    "context": "EN :\n<style=\"den\"><size=20>Invoke, Evoke, Decode, Reload</size></style>\nJP :\n<style=\"djp\"><size=20>祈願召喚解読再読"
+  },
+  {
+    "key": "51-content",
+    "original": "<style=\"dkr\">애탄하자,",
+    "context": "EN :\n<style=\"den\">Let’s lament</style>\nJP :\n<style=\"djp\">嘆きましょう"
+  },
+  {
+    "key": "52-content",
+    "original": "<style=\"dkr\"><size=20>애탄하자꾸나",
+    "context": "EN :\n<style=\"den\"><size=20>Let’s lament</size></style>\nJP :\n<style=\"djp\"><size=20>嘆きましょう"
+  },
+  {
+    "key": "53-content",
+    "original": "<style=\"dkr\">미완성된 <size=20>성지</size>에서밖에 살 수 없었던 <size=20>과거</size>여",
+    "context": "EN :\n<style=\"den\">The <size=20>past</size> that only got to live in the incomplete <size=20>holy land</size></style>\nJP :\n<style=\"djp\">未完成の<size=20>聖地</size>でしか生き残れなかった僕達の<size=20>昔</size>よ"
+  },
+  {
+    "key": "54-content",
+    "original": "<style=\"dkr\">하늘의 우리",
+    "context": "EN :\n<style=\"den\">Celestial</style>\nJP :\n<style=\"djp\">天体世界"
+  },
+  {
+    "key": "55-content",
+    "original": "<style=\"dkr\">Ayiah",
+    "context": "EN :\n<style=\"den\">Ayiah</style>\nJP :\n<style=\"djp\">Ayiah"
+  },
+  {
+    "key": "56-content",
+    "original": "<style=\"dkr\">별의 우리",
+    "context": "EN :\n<style=\"den\">We’re astral</style>\nJP :\n<style=\"djp\">星々は僕達"
+  },
+  {
+    "key": "57-content",
+    "original": "<style=\"dkr\">Ayiou",
+    "context": "EN :\n<style=\"den\">Ayiou</style>\nJP :\n<style=\"djp\">Ayiou"
+  },
+  {
+    "key": "58-content",
+    "original": "<style=\"dkr\">다시 태어나",
+    "context": "EN :\n<style=\"den\">I’m reborn</style>\nJP :\n<style=\"djp\">僕は生まれ変わり"
+  },
+  {
+    "key": "59-content",
+    "original": "<style=\"dkr\">Le rheaiah",
+    "context": "EN :\n<style=\"den\">Le rheaiah</style>\nJP :\n<style=\"djp\">Le rheaiah"
+  },
+  {
+    "key": "60-content",
+    "original": "<style=\"dkr\">완전한 자유",
+    "context": "EN :\n<style=\"den\">Total liberation</style>\nJP :\n<style=\"djp\">完全なる自由を得た"
+  },
+  {
+    "key": "61-content",
+    "original": "<style=\"dkr\">Katre o lamenta",
+    "context": "EN :\n<style=\"den\">Katre o lamenta</style>\nJP :\n<style=\"djp\">Katre o lamenta"
+  },
+  {
+    "key": "62-content",
+    "original": "<style=\"dkr\">내 연한 피부",
+    "context": "EN :\n<style=\"den\">My tender skin</style>\nJP :\n<style=\"djp\">柔らかい僕の肌"
+  },
+  {
+    "key": "63-content",
+    "original": "<style=\"dkr\">갓난아이가 우는 가곡",
+    "context": "EN :\n<style=\"den\">A vagitus song</style>\nJP :\n<style=\"djp\">産声の歌"
+  },
+  {
+    "key": "64-content",
+    "original": "<style=\"dkr\">본질적",
+    "context": "EN :\n<style=\"den\">Essential</style>\nJP :\n<style=\"djp\">必須的に"
+  },
+  {
+    "key": "65-content",
+    "original": "<style=\"dkr\">숨을 쉬었고",
+    "context": "EN :\n<style=\"den\">I breathed</style>\nJP :\n<style=\"djp\">僕は息を吸い"
+  },
+  {
+    "key": "66-content",
+    "original": "<style=\"dkr\">궁극적",
+    "context": "EN :\n<style=\"den\">Eventual</style>\nJP :\n<style=\"djp\">必然的に"
+  },
+  {
+    "key": "67-content",
+    "original": "<style=\"dkr\">비명을 질렀다",
+    "context": "EN :\n<style=\"den\">And screamed</style>\nJP :\n<style=\"djp\">叫びを放つ"
+  },
+  {
+    "key": "68-content",
+    "original": "<style=\"dkr\">영원",
+    "context": "EN :\n<style=\"den\">Eternal</style>\nJP :\n<style=\"djp\">永久的に"
+  },
+  {
+    "key": "69-content",
+    "original": "<style=\"dkr\">내 갓 난 폐로 목청껏",
+    "context": "EN :\n<style=\"den\">From my new lungs</style>\nJP :\n<style=\"djp\">真っ新な肺の底から"
+  },
+  {
+    "key": "70-content",
+    "original": "<style=\"dkr\">영혼의 불가피한 해방",
+    "context": "EN :\n<style=\"den\">Inevitable freeing of the soul</style>\nJP :\n<style=\"djp\">避けられない魂の解放"
+  }
+]

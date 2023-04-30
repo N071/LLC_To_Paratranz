@@ -1,0 +1,102 @@
+[
+  {
+    "key": "9900401-levelList",
+    "original": "[{\"level\":1,\"name\":\"싱거운 타격\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Weak Blow\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"不器用な打撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9900501-levelList",
+    "original": "[{\"level\":1,\"name\":\"어설픈 베기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clumsy Chop\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"ぎこちない斬撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9900601-levelList",
+    "original": "[{\"level\":1,\"name\":\"서투른 찌르기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clunky Stab\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"拙い刺突\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9900701-levelList",
+    "original": "[{\"level\":1,\"name\":\"어설픈 베기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clumsy Chop\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"ぎこちない斬撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9900801-levelList",
+    "original": "[{\"level\":1,\"name\":\"서투른 찌르기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clunky Stab\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"拙い刺突\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9900901-levelList",
+    "original": "[{\"level\":1,\"name\":\"싱거운 타격\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Weak Blow\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"不器用な打撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901001-levelList",
+    "original": "[{\"level\":1,\"name\":\"어설픈 베기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clumsy Chop\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"ぎこちない斬撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901101-levelList",
+    "original": "[{\"level\":1,\"name\":\"서투른 찌르기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clunky Stab\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"拙い刺突\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901201-levelList",
+    "original": "[{\"level\":1,\"name\":\"어설픈 베기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clumsy Chop\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"ぎこちない斬撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901301-levelList",
+    "original": "[{\"level\":1,\"name\":\"서투른 찌르기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clunky Stab\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"拙い刺突\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901401-levelList",
+    "original": "[{\"level\":1,\"name\":\"어설픈 베기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clumsy Chop\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"ぎこちない斬撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901501-levelList",
+    "original": "[{\"level\":1,\"name\":\"싱거운 타격\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Weak Blow\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"不器用な打撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901601-levelList",
+    "original": "[{\"level\":1,\"name\":\"어설픈 베기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clumsy Chop\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"ぎこちない斬撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901701-levelList",
+    "original": "[{\"level\":1,\"name\":\"싱거운 타격\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Weak Blow\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"不器用な打撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901801-levelList",
+    "original": "[{\"level\":1,\"name\":\"타격\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Hit\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"打撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901802-levelList",
+    "original": "[{\"level\":1,\"name\":\"묵직한 일격\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Heavy Strike\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"どっしりした一撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901803-levelList",
+    "original": "[{\"level\":1,\"name\":\"막기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Block\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"防ぐ\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9901901-levelList",
+    "original": "[{\"level\":1,\"name\":\"어설픈 베기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clumsy Chop\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"ぎこちない斬撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9902001-levelList",
+    "original": "[{\"level\":1,\"name\":\"싱거운 타격\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Weak Blow\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"不器用な打撃\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "9902101-levelList",
+    "original": "[{\"level\":1,\"name\":\"서투른 찌르기\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clunky Stab\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"拙い刺突\",\"desc\":\"\"}]"
+  }
+]

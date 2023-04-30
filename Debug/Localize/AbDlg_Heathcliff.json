@@ -1,0 +1,142 @@
+[
+  {
+    "key": "1-teller",
+    "original": "시 히스클리프",
+    "context": "EN :\nShi Heathcliff\nJP :\nシ ヒースクリフ"
+  },
+  {
+    "key": "1-dialog",
+    "original": "다 쳐부숴줄거야. 괜찮지?",
+    "context": "EN :\nI’ll smash ‘em good, aight?\nJP :\n全部ブッ潰してやる。いいだろ？"
+  },
+  {
+    "key": "2-teller",
+    "original": "시 히스클리프",
+    "context": "EN :\nShi Heathcliff\nJP :\nシ ヒースクリフ"
+  },
+  {
+    "key": "2-dialog",
+    "original": "가보지, 뭐. ",
+    "context": "EN :\nMight as well, I suppose.\nJP :\nまぁ、行くか。"
+  },
+  {
+    "key": "3-teller",
+    "original": "시 히스클리프",
+    "context": "EN :\nShi Heathcliff\nJP :\nシ ヒースクリフ"
+  },
+  {
+    "key": "3-dialog",
+    "original": "정 시킬 사람 없으면 시키던가.",
+    "context": "EN :\nIf you really don’t have anything better to suggest.\nJP :\n任せるヤツがいないなら任せればいいだろ。"
+  },
+  {
+    "key": "4-teller",
+    "original": "시 히스클리프",
+    "context": "EN :\nShi Heathcliff\nJP :\nシ ヒースクリフ"
+  },
+  {
+    "key": "4-dialog",
+    "original": "다른 놈들 보내. ",
+    "context": "EN :\nGet someone else.\nJP :\n他のヤツらを出せ。"
+  },
+  {
+    "key": "5-teller",
+    "original": "시 히스클리프",
+    "context": "EN :\nShi Heathcliff\nJP :\nシ ヒースクリフ"
+  },
+  {
+    "key": "5-dialog",
+    "original": ".... 너 지금 나랑 장난하냐? 이걸 보낸다고?",
+    "context": "EN :\n…Are you taking the piss? You want ME to do this?\nJP :\n……テメェふざけてんのか？これで出すって？"
+  },
+  {
+    "key": "6-teller",
+    "original": "시 히스클리프",
+    "context": "EN :\nShi Heathcliff\nJP :\nシ ヒースクリフ"
+  },
+  {
+    "key": "6-dialog",
+    "original": "너 왜 뿌듯해보이냐? 내가 해낸건데. ",
+    "context": "EN :\nWhat’s that proud look? I’m the one who dealt with it.\nJP :\nどうしてお前が嬉しそうなんだよ？オレがやったのに。"
+  },
+  {
+    "key": "7-teller",
+    "original": "시 히스클리프",
+    "context": "EN :\nShi Heathcliff\nJP :\nシ ヒースクリフ"
+  },
+  {
+    "key": "7-dialog",
+    "original": "아 열받네. 내가 딴놈 보내라 하지 않았었냐?",
+    "context": "EN :\nThis is really narking me. Didn’t I tell you to get someone else?\nJP :\nあぁムカツク。他のヤツ出せって言っただろ？"
+  },
+  {
+    "key": "36-teller",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\n이상"
+  },
+  {
+    "key": "36-dialog",
+    "original": "다 쳐부숴줄거야. 괜찮지?",
+    "context": "EN :\nI’ll smash ‘em good, aight?\nJP :\n全部ブッ潰してやる。いいだろ？"
+  },
+  {
+    "key": "37-teller",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\n이상"
+  },
+  {
+    "key": "37-dialog",
+    "original": "가보지, 뭐. ",
+    "context": "EN :\nMight as well, I suppose.\nJP :\nまぁ、行くか。"
+  },
+  {
+    "key": "38-teller",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\n이상"
+  },
+  {
+    "key": "38-dialog",
+    "original": "정 시킬 사람 없으면 시키던가.",
+    "context": "EN :\nIf you really don’t have anything better to suggest.\nJP :\n任せるヤツがいないなら任せればいいだろ。"
+  },
+  {
+    "key": "39-teller",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\n이상"
+  },
+  {
+    "key": "39-dialog",
+    "original": "다른 놈들 보내. ",
+    "context": "EN :\nGet someone else.\nJP :\n他のヤツらを出せ。"
+  },
+  {
+    "key": "40-teller",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\n이상"
+  },
+  {
+    "key": "40-dialog",
+    "original": ".... 너 지금 나랑 장난하냐? 이걸 보낸다고?",
+    "context": "EN :\n…Are you taking the piss? You want ME to do this?\nJP :\n……テメェふざけてんのか？これで出すって？"
+  },
+  {
+    "key": "41-teller",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\n이상"
+  },
+  {
+    "key": "41-dialog",
+    "original": "너 왜 뿌듯해보이냐? 내가 해낸건데. ",
+    "context": "EN :\nWhat’s that proud look? I’m the one who dealt with it.\nJP :\nどうしてお前が嬉しそうなんだよ？オレがやったのに。"
+  },
+  {
+    "key": "42-teller",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\n이상"
+  },
+  {
+    "key": "42-dialog",
+    "original": "아 열받네. 내가 딴놈 보내라 하지 않았었냐?",
+    "context": "EN :\nThis is really narking me. Didn’t I tell you to get someone else?\nJP :\nあぁムカツク。他のヤツ出せって言っただろ？"
+  }
+]

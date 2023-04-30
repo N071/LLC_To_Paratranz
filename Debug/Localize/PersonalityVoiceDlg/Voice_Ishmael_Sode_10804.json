@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10804_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10804_1-dlg",
+    "original": "본 측, 이스마엘. 제가 도와드릴 게 있나요?",
+    "context": "EN :\nIshmael speaking. Is there anything I can help you with?\nJP :\nこちらイシュメール。お手伝いすることはありますか？"
+  },
+  {
+    "key": "lobby_morning_10804_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10804_1-dlg",
+    "original": "아, 아침… 체조 중이랍니다. 미리 몸을 풀어놓고 있어야 되거든요.",
+    "context": "EN :\nAh, I was… doing my morning routine. I need to warm up my body for what’s to come.\nJP :\nあ、朝の…体操中です。あらかじめ身体をほぐしておく必要がありますので。"
+  },
+  {
+    "key": "lobby_noon_10804_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10804_1-dlg",
+    "original": "밥은 항상 균형 잡힌 식단으로 먹어야 해요. 진정한 프로는 편식 따위 하진 않으니까요.",
+    "context": "EN :\nI make sure to have a balanced diet at all times. True professionals are not picky eaters.\nJP :\n食事は常にバランスの取れたものを摂る必要があります。真のプロは偏食などしませんからね。"
+  },
+  {
+    "key": "lobby_night_10804_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10804_1-dlg",
+    "original": "문제없는 하루였나요, 관리자님? 저는 이제야 좀 쉴 것 같네요.",
+    "context": "EN :\nDid you have an untroubled day, Manager? It looks like I can finally rest.\nJP :\n問題ない一日でしたか、管理人さん？私はそろそろ休まないとですね。"
+  },
+  {
+    "key": "smalltalk_10804_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10804_1-dlg",
+    "original": "전 효율적인 작전 설계와 정찰 방법에 대해 누구보다 잘 알고 있답니다.",
+    "context": "EN :\nI know better than anyone about efficient mission planning and reconnaissance.\nJP :\n私は効率的な作戦設計と偵察方法について、誰よりも熟知しています。"
+  },
+  {
+    "key": "smalltalk_10804_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10804_2-dlg",
+    "original": "관리자님의 핵심 능력 중 하나는 팀의 에이스를 어떻게 잘 써먹느냐는 거겠죠.",
+    "context": "EN :\nOne of the key qualities a manager must possess is the ability to utilize the ace members of their team.\nJP :\n管理人様として肝心な能力のうち一つは、チームのエースをどうやって上手く扱うかです。"
+  },
+  {
+    "key": "smalltalk_10804_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10804_3-dlg",
+    "original": "작전이 내려오면, 누구누구처럼 무작정 돌진 하는 것만큼 최악의 행동은 없답니다. 모든 변수를 다 예상해야 해요.",
+    "context": "EN :\nWhen carrying out missions, there’s nothing worse than charging in without a thought—like a certain someone. You need to anticipate every variable.\nJP :\n作戦中、誰かさんのように無鉄砲で突進することほど最悪の行動はありません。全ての変数を予想しなければなりません。"
+  },
+  {
+    "key": "smalltalk_10804_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10804_4-dlg",
+    "original": "알아요, 제가 가끔은 강박적인 수준으로 사전 계획에 집착하고 있다는 거요. \n하지만 사소한 실수가 분열로, 그리고 전멸로 이어지는 건 다 아시겠죠.",
+    "context": "EN :\nI know—I know I can be obsessive about preplanning at times.\nIn my defense, however, you should be well aware that even a small mistake can lead to discordance and consequently a total wipeout.\nJP :\n分かっています、私がたまに強迫的なほど事前計画に執着しているってことは。\nしかし些細な失敗が分裂に、そして全滅に繋がるということはご存じですよね。"
+  },
+  {
+    "key": "smalltalk_10804_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10804_5-dlg",
+    "original": "가끔… 관리자님의 능력을 보면 다행이다 싶다가도 뼛속까지 허무해지기도 해요. \n제대로 된 수습도 없이 죽어간 옛 대원들은...",
+    "context": "EN :\nOccasionally… your capabilities reassure me, Manager. But at the same time, it leaves me with this empty feeling.\nThinking about my old teammates—they couldn’t even be given a proper burial…\nJP :\n稀に…管理人様の能力を見ると幸いに思うと同時に、骨の髄まで染みるくらいの虚しさを感じたりもします。\n骨すらまともに拾えずに死んでいった昔の隊員たちは……。"
+  },
+  {
+    "key": "gacksung_10804_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10804_1-dlg",
+    "original": "승진이요? 네, 알고 있었답니다. …고맙다는 인사는 해야겠네요.",
+    "context": "EN :\nA promotion? Yes, I was aware of it. …I do suppose I owe you some thanks.\nJP :\n昇進ですか？はい、知っておりました。…ありがたいとは言っておくべきでしょうね。"
+  },
+  {
+    "key": "neglect_10804_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10804_1-dlg",
+    "original": "하… 또 다른 분들 뒤치다꺼리 하러 가신 건가요?",
+    "context": "EN :\nSigh… Have you gone off to clean up after the others again?\nJP :\nはぁ…また他の方々の後片付けをしに行ったんですか？"
+  },
+  {
+    "key": "formation_10804_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10804_1-dlg",
+    "original": "작전호출, 입감.",
+    "context": "EN :\nMission confirmed, now on stand-by.\nJP :\n作戦呼び出し、応答。"
+  },
+  {
+    "key": "battleentry_10804_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10804_1-dlg",
+    "original": "준비는 끝났습니다. 명령 대기.",
+    "context": "EN :\nPreparations are complete. Awaiting orders.\nJP :\n準備は終了しました。命令待機。"
+  },
+  {
+    "key": "battle_select_10804_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10804_1-dlg",
+    "original": "…수신.",
+    "context": "EN :\n…Wilco.\nJP :\n…受信。"
+  },
+  {
+    "key": "battle_endcommand_10804_1-desc",
+    "original": "공격시작",
+    "context": "EN :\nCommencing Attack\nJP :\n공격 시작"
+  },
+  {
+    "key": "battle_endcommand_10804_1-dlg",
+    "original": "교전 시작합니다.",
+    "context": "EN :\nEngaging the target.\nJP :\n交戦開始します。"
+  },
+  {
+    "key": "battle_enemy_break_10804_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10804_1-dlg",
+    "original": "표적 무력화.",
+    "context": "EN :\nTarget incapacitated.\nJP :\n標的無力化。"
+  },
+  {
+    "key": "battle_break_10804_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10804_1-dlg",
+    "original": "앗!",
+    "context": "EN :\nAh!\nJP :\nあっ！"
+  },
+  {
+    "key": "battle_kill_10804_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10804_1-dlg",
+    "original": "표적, 완전 무력화.",
+    "context": "EN :\nTarget neutralization confirmed.\nJP :\n標的、完全無力化。"
+  },
+  {
+    "key": "battle_allydead_10804_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10804_1-dlg",
+    "original": "…의무팀, 의무팀은 없어요?",
+    "context": "EN :\n…Medic, don’t we have a medical team?\nJP :\n…医務チーム、医務チームはいないのですか？"
+  },
+  {
+    "key": "choice_success_p_10804_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10804_1-dlg",
+    "original": "아, 상황 종료라고 알림.",
+    "context": "EN :\nAhem, reporting in that we’re all clear.\nJP :\nあー、状況終了を告げる。"
+  },
+  {
+    "key": "choice_fail_n_10804_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10804_1-dlg",
+    "original": "실패… 라고 알림.",
+    "context": "EN :\nMission status… failure.\nJP :\n失敗…を告げる。"
+  },
+  {
+    "key": "battle_clear_10804_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10804_1-dlg",
+    "original": "임무 완료. 절차대로 복귀하겠습니다. 교신 끝.",
+    "context": "EN :\nMission complete. Returning to base per procedure. Out.\nJP :\n任務完了。手順通り復帰します。通信終わり。"
+  },
+  {
+    "key": "battle_clear_ex_10804_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10804_1-dlg",
+    "original": "이 정도면 훈장감… 아, 정정! 임무 완료라고 알림. 교, 교신 끝!",
+    "context": "EN :\nThis could earn me a medal… Ah, disregard this transmission! Mission complete. I-Ishmael, out!\nJP :\nこの程度なら勲章…あー、訂正！任務完了を告げる。つ、通信終わり！"
+  },
+  {
+    "key": "battle_defeat_10804_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10804_1-dlg",
+    "original": "제 방식은 완벽했어요. 원인은 다른 곳에서 찾아보길 바란답니다.",
+    "context": "EN :\nMy methodology was flawless. If you’re looking for a reason we failed, kindly search elsewhere.\nJP :\n私の方法は完璧でした。原因は他所より調べることを願います。"
+  }
+]

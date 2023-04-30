@@ -1,0 +1,67 @@
+[
+  {
+    "key": "MirrorWorld_Name_1-content",
+    "original": "흑운회와 검계의 세계",
+    "context": "EN :\nWorld of the Kurokumo Clan and Blade Lineage\nJP :\n黒雲会と剣契の世界"
+  },
+  {
+    "key": "MirrorWorld_Name_2-content",
+    "original": "리우 협회의 세계",
+    "context": "EN :\nWorld of the Liu Association\nJP :\nリウ協会の世界"
+  },
+  {
+    "key": "MirrorWorld_Name_3-content",
+    "original": "츠바이 협회의 세계",
+    "context": "EN :\nWorld of the Zwei Association\nJP :\nツヴァイ協会の世界"
+  },
+  {
+    "key": "MirrorWorld_Name_4-content",
+    "original": "시 협회의 세계",
+    "context": "EN :\nWorld of the Shi Association\nJP :\nシ協会の世界"
+  },
+  {
+    "key": "MirrorWorld_Name_5-content",
+    "original": "세븐 협회의 세계",
+    "context": "EN :\nWorld of the Seven Association\nJP :\nセブンの世界"
+  },
+  {
+    "key": "MirrorWorld_Name_6-content",
+    "original": "W사의 세계",
+    "context": "EN :\nWorld of W Corp.\nJP :\nW社の世界"
+  },
+  {
+    "key": "MirrorWorld_Name_7-content",
+    "original": "R사의 세계",
+    "context": "EN :\nWorld of R Corp.\nJP :\nR社の世界"
+  },
+  {
+    "key": "MirrorWorld_Name_8-content",
+    "original": "LCCB의 세계",
+    "context": "EN :\nWorld of the LCCB\nJP :\nLCCBの世界"
+  },
+  {
+    "key": "MirrorWorld_Name_9-content",
+    "original": "구 L사의 세계",
+    "context": "EN :\nWorld of the Old L Corp.\nJP :\n旧L社の世界"
+  },
+  {
+    "key": "MirrorWorld_Name_10-content",
+    "original": "구 G사의 세계",
+    "context": "EN :\nWorld of the Old G Corp.\nJP :\n旧G社の世界"
+  },
+  {
+    "key": "MirrorWorld_Name_11-content",
+    "original": "J사 뒷골목의 세계",
+    "context": "EN :\nWorld of the J Corp. Backstreets\nJP :\nJ社裏路地の世界"
+  },
+  {
+    "key": "MirrorWorld_Name_12-content",
+    "original": "N사의 세계",
+    "context": "EN :\nWorld of N Corp.\nJP :\nN社の世界"
+  },
+  {
+    "key": "MirrorWorld_Name_13-content",
+    "original": "23구 뒷골목의 세계",
+    "context": "EN :\nWorld of the District 23 Backstreets\nJP :\n23区裏路地の世界"
+  }
+]

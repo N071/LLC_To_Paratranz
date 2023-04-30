@@ -1,0 +1,952 @@
+[
+  {
+    "key": "8501-name",
+    "original": "기억속 어긋난 패잔병",
+    "context": "EN :\nRecollected Awry Soldier\nJP :\n記憶の中の歪んだ敗残兵"
+  },
+  {
+    "key": "8501-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "850101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "850101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8502-name",
+    "original": "기억속 절망하는 패잔병",
+    "context": "EN :\nRecollected Wallowing Soldier\nJP :\n記憶の中の絶望する敗残兵"
+  },
+  {
+    "key": "8502-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "850201-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "850201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8503-name",
+    "original": "기억속 침식된 패잔병",
+    "context": "EN :\nRecollected Overtaken Soldier\nJP :\n記憶の中の侵食された敗残兵"
+  },
+  {
+    "key": "8503-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "850301-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "850301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8504-name",
+    "original": "기억속 짓물린 G사 부장",
+    "context": "EN :\nRecollected Festered G Corp. H. Manager\nJP :\n記憶の中の爛れたG社の部長"
+  },
+  {
+    "key": "8504-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "850401-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "850401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8505-name",
+    "original": "흥겨운 마리아치 조직원",
+    "context": "EN :\nMariachi Alegre\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "8505-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "850501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "850501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8506-name",
+    "original": "경쾌한 마리아치 조직원",
+    "context": "EN :\nMariachi Vivaz\nJP :\n軽快なマリアッチの組織員"
+  },
+  {
+    "key": "8506-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "850601-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "850601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8507-name",
+    "original": "위협적인 철공회 조직원",
+    "context": "EN :\nThreatening Tieqiu Crewman\nJP :\n威圧的な鉄工会の組織員"
+  },
+  {
+    "key": "8507-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "850701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "850701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8508-name",
+    "original": "몸 푸는 철공회 조직원",
+    "context": "EN :\nFlexing Tieqiu Crewman\nJP :\n身体を解す鉄工会の組織員"
+  },
+  {
+    "key": "8508-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "850801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "850801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8509-name",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "8509-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "850901-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "850901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8510-name",
+    "original": "울음 두꺼비",
+    "context": "EN :\nBlubbering Toad\nJP :\n泣きヒキガエル"
+  },
+  {
+    "key": "8510-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "851001-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "851001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "851002-name",
+    "original": "왼쪽 눈",
+    "context": "EN :\nLeft Eye\nJP :\n左目"
+  },
+  {
+    "key": "851002-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "851003-name",
+    "original": "오른쪽 눈",
+    "context": "EN :\nRight Eye\nJP :\n右目"
+  },
+  {
+    "key": "851003-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8511-name",
+    "original": "받드는 N사 이단 심문관",
+    "context": "EN :\nServile N Corp. Inquisitor\nJP :\n崇めるN社異端審問官"
+  },
+  {
+    "key": "8511-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "851101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "851101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8512-name",
+    "original": "따르는 N사 이단 심문관",
+    "context": "EN :\nCompliant N Corp. Inquisitor\nJP :\n従うN社異端審問官"
+  },
+  {
+    "key": "8512-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "851201-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "851201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8513-name",
+    "original": "고문하는 N사 이단 심문관",
+    "context": "EN :\nScourging N Corp. Inquisitor\nJP :\n拷問するN社異端審問官"
+  },
+  {
+    "key": "8513-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "851301-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "851301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8514-name",
+    "original": "심문에 능한 N사 이단 심문관",
+    "context": "EN :\nInterrogative N Corp. Inquisitor\nJP :\n審問に長けたN社異端審問官"
+  },
+  {
+    "key": "8514-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "851401-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "851401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8515-name",
+    "original": "집착하는 N사 이단 심문관",
+    "context": "EN :\nObsessive N Corp. Inquisitor\nJP :\n執着するN社異端審問官"
+  },
+  {
+    "key": "8515-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "851501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "851501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8516-name",
+    "original": "으뜸 기쁨의 N사 이단 심문관",
+    "context": "EN :\nJoyous N Corp. Inquisitor\nJP :\n無上の喜びに浸る異端審問官"
+  },
+  {
+    "key": "8516-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "851601-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "851601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8517-name",
+    "original": "집념의 귀도",
+    "context": "EN :\nGuido the Persistent\nJP :\n執念のグイド"
+  },
+  {
+    "key": "8517-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "851701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "851701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8518-name",
+    "original": "굴절된 골목파수견",
+    "context": "EN :\nRefracted Alleyway Watchdog\nJP :\n屈折した路地の番犬"
+  },
+  {
+    "key": "8518-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "851801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "851801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "851802-name",
+    "original": "전봇대",
+    "context": "EN :\nTelepole\nJP :\n電信柱"
+  },
+  {
+    "key": "851802-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "851803-name",
+    "original": "사람",
+    "context": "EN :\nPerson\nJP :\n人間"
+  },
+  {
+    "key": "851803-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "851804-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "851804-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8519-name",
+    "original": "kqe-1j-23",
+    "context": "EN :\nKqe-1j-23\nJP :\nkqe-1j-23"
+  },
+  {
+    "key": "8519-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "851901-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "851901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8520-name",
+    "original": "마을 주민의 심장",
+    "context": "EN :\nHeart of the Townsfolk\nJP :\n町の住民の心臓"
+  },
+  {
+    "key": "8520-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "852001-name",
+    "original": "심장",
+    "context": "EN :\nHeart\nJP :\n心臓"
+  },
+  {
+    "key": "852001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8521-name",
+    "original": "K사 3등급 직원",
+    "context": "EN :\nK Corp. Class 3 Staff\nJP :\nK社 3級職員"
+  },
+  {
+    "key": "8521-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "852101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "852101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8522-name",
+    "original": "모든 것이 있는 이단 심문관",
+    "context": "EN :\nEverything There of an Inquisitor\nJP :\n全てのある異端審問官"
+  },
+  {
+    "key": "8522-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "852201-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "852201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8523-name",
+    "original": "K사 3등급 직원 - 강화",
+    "context": "EN :\nK Corp. Class 3 Empowered Staff\nJP :\nK社 3級職員 - 強化"
+  },
+  {
+    "key": "8523-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "852301-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "852301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8524-name",
+    "original": "단수어",
+    "context": "EN :\nHeadless Ichthys\nJP :\n断首魚"
+  },
+  {
+    "key": "8524-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "852401-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "852401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "852402-name",
+    "original": "오른다리",
+    "context": "EN :\nRight Leg\nJP :\n右脚"
+  },
+  {
+    "key": "852402-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "852403-name",
+    "original": "왼다리",
+    "context": "EN :\nLeft Leg\nJP :\n左脚"
+  },
+  {
+    "key": "852403-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "852404-name",
+    "original": "꼬리",
+    "context": "EN :\nTail\nJP :\n尾"
+  },
+  {
+    "key": "852404-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8525-name",
+    "original": "꿈틀거리는 이단 심문관",
+    "context": "EN :\nSlithering Inquisitor\nJP :\n蠢く異端審問官"
+  },
+  {
+    "key": "8525-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "852501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "852501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "852502-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "852502-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "852503-name",
+    "original": "오른팔",
+    "context": "EN :\nRight Arm\nJP :\n右腕"
+  },
+  {
+    "key": "852503-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8526-name",
+    "original": "온전한 인간을 꿈꾸는 크로머",
+    "context": "EN :\nKromer the Dreamer of Human Wholeness\nJP :\n完全な人間を夢見るクローマー"
+  },
+  {
+    "key": "8526-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "852601-name",
+    "original": "오른팔",
+    "context": "EN :\nRight Arm\nJP :\n右腕"
+  },
+  {
+    "key": "852601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "852602-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "852602-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "852603-name",
+    "original": "큰입",
+    "context": "EN :\nMaw\nJP :\n大口"
+  },
+  {
+    "key": "852603-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8527-name",
+    "original": "나는 비워내느니",
+    "context": "EN :\nMy Form Empties\nJP :\n我、無に至れり"
+  },
+  {
+    "key": "8527-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "852701-name",
+    "original": "불상",
+    "context": "EN :\nBuddha Mūrti\nJP :\n仏像"
+  },
+  {
+    "key": "852701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "852702-name",
+    "original": "석좌",
+    "context": "EN :\nStone Seat\nJP :\n石座"
+  },
+  {
+    "key": "852702-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8528-name",
+    "original": "이끌린 귀도",
+    "context": "EN :\nLured Guido\nJP :\n導かれたグイド"
+  },
+  {
+    "key": "8528-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "852801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "852801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8529-name",
+    "original": "이끌린 아이드",
+    "context": "EN :\nLured Aida\nJP :\n導かれたアイド"
+  },
+  {
+    "key": "8529-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "852901-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "852901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8530-name",
+    "original": "이끌린 짓물린 G사 부장",
+    "context": "EN :\nLured Festered G Corp. H. Manager\nJP :\n導かれた爛れたG社の部長"
+  },
+  {
+    "key": "8530-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "853001-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "853001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8531-name",
+    "original": "침착한 K사 검문소 요원",
+    "context": "EN :\nCalm K Corp. Checkpoint Security\nJP :\n落ち着いたK社検問所要員"
+  },
+  {
+    "key": "8531-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "853101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "853101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8532-name",
+    "original": "든든한 K사 검문소 요원",
+    "context": "EN :\nReliable K Corp. Checkpoint Security\nJP :\n心強いK社検問所要員"
+  },
+  {
+    "key": "8532-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "853201-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "853201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8533-name",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "8533-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "853301-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "853301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8534-name",
+    "original": "K사 3등급 직원",
+    "context": "EN :\nK Corp. Class 3 Staff\nJP :\nK社 3級職員"
+  },
+  {
+    "key": "8534-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "853401-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "853401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8535-name",
+    "original": "나아가려 하는 이단심문관",
+    "context": "EN :\nProceeding Inquisitor\nJP :\n進もうとする異端審問官"
+  },
+  {
+    "key": "8535-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "853501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "853501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8536-name",
+    "original": "네 발 짐승",
+    "context": "EN :\nFour-legged Beast\nJP :\n四つ足の獣"
+  },
+  {
+    "key": "8536-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "853601-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "853601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8537-name",
+    "original": "굴절된 단수어",
+    "context": "EN :\nRefracted Headless Ichthys\nJP :\n屈折した断首魚"
+  },
+  {
+    "key": "8537-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "853701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "853701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "853702-name",
+    "original": "오른다리",
+    "context": "EN :\nRight Leg\nJP :\n右脚"
+  },
+  {
+    "key": "853702-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "853703-name",
+    "original": "왼다리",
+    "context": "EN :\nLeft Leg\nJP :\n左脚"
+  },
+  {
+    "key": "853703-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "853704-name",
+    "original": "꼬리",
+    "context": "EN :\nTail\nJP :\n尾"
+  },
+  {
+    "key": "853704-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8538-name",
+    "original": "골목파수견",
+    "context": "EN :\nAlleyway Watchdog\nJP :\n路地の番犬"
+  },
+  {
+    "key": "8538-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "853801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "853801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "853802-name",
+    "original": "전봇대",
+    "context": "EN :\nTelepole\nJP :\n電信柱"
+  },
+  {
+    "key": "853802-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "853803-name",
+    "original": "사람",
+    "context": "EN :\nPerson\nJP :\n人間"
+  },
+  {
+    "key": "853803-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "853804-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "853804-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  }
+]

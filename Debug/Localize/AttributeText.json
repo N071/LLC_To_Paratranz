@@ -1,0 +1,47 @@
+[
+  {
+    "key": "CRIMSON-name",
+    "original": "분노",
+    "context": "EN :\nWrath\nJP :\n憤怒"
+  },
+  {
+    "key": "SCARLET-name",
+    "original": "색욕",
+    "context": "EN :\nLust\nJP :\n色欲"
+  },
+  {
+    "key": "AMBER-name",
+    "original": "나태",
+    "context": "EN :\nSloth\nJP :\n怠惰"
+  },
+  {
+    "key": "SHAMROCK-name",
+    "original": "탐식",
+    "context": "EN :\nGlut.\nJP :\n暴食"
+  },
+  {
+    "key": "AZURE-name",
+    "original": "우울",
+    "context": "EN :\nGloom\nJP :\n憂鬱"
+  },
+  {
+    "key": "INDIGO-name",
+    "original": "오만",
+    "context": "EN :\nPride\nJP :\n傲慢"
+  },
+  {
+    "key": "VIOLET-name",
+    "original": "질투",
+    "context": "EN :\nEnvy\nJP :\n嫉妬"
+  },
+  {
+    "key": "WHITE-name",
+    "original": "광기",
+    "context": "EN :\nMad.\nJP :\n狂気"
+  },
+  {
+    "key": "BLACK-name",
+    "original": "비탄",
+    "context": "EN :\nAngst\nJP :\n悲嘆"
+  }
+]

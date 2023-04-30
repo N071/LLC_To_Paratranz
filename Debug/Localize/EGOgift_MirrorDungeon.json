@@ -1,0 +1,602 @@
+[
+  {
+    "key": "9001-name",
+    "original": "지옥나비의 꿈",
+    "context": "EN :\nHellterfly’s Dream\nJP :\n地獄蝶の夢"
+  },
+  {
+    "key": "9001-desc",
+    "original": "화상에 걸린 적에게 스킬 효과로 화상을 부여할 경우, 모든 적에게 화상 3을 무작위로 나누어 부여.\n\n분노 완전 공명을 발동하였다면 전투 시작 시, 모든 적에게 화상 5를 무작위로 나누어 부여.",
+    "context": "EN :\nAfter inflicting Burn via skill effects to an already Burned enemy, randomly inflict a total of 3 Burn to all enemies.\n\nWhen activating Wrath Absolute Resonance, randomly inflict a total of 5 Burn to all enemies at the start of the combat phase.\nJP :\n火傷 状態の敵にスキルによる効果で火傷 を付与するとき、全ての敵を対象に火傷 をランダムに付与(合計3)。\n\n憤怒完全共鳴を発動した場合は戦闘開始時、全ての敵を対象に火傷 をランダムに付与(合計5)。"
+  },
+  {
+    "key": "9001-simpleDesc",
+    "original": "[{\"abilityID\":9001,\"simpleDesc\":\"화상 3 무작위로 나누어 부여\"},{\"abilityID\":90011,\"simpleDesc\":\"화상 5 무작위로 나누어 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9001,\"simpleDesc\":\"Randomly inflict 3 Burn\"},{\"abilityID\":90011,\"simpleDesc\":\"Randomly inflict 5 Burn\"}]\nJP :\n[{\"abilityID\":9001,\"simpleDesc\":\"ランダムに火傷 を付与(合計3)\"},{\"abilityID\":90011,\"simpleDesc\":\"ランダムに火傷 を付与(合計5)\"}]"
+  },
+  {
+    "key": "9002-name",
+    "original": "도착증",
+    "context": "EN :\nPerversion\nJP :\n倒錯症"
+  },
+  {
+    "key": "9002-desc",
+    "original": "스킬을 사용하여 적을 처치한 경우, 사용한 스킬 속성의 E.G.O 자원 +1.\n\n사용한 스킬 속성이 분노일 경우, 효과가 강화되어 해당 아군이 보유한 모든 스킬 속성의 E.G.O 자원 +1.",
+    "context": "EN :\nAfter defeating an enemy by using a skill, gain 1 E.G.O resource of that skill’s Affinity.\n\nIf said skill’s Affinity was Wrath, gain 1 E.G.O resource of all Affinities that the user has instead.\nJP :\nスキルを使用して敵を倒した場合、使用したスキル属性のE.G.O資源+1\n\n使用した罪悪属性が憤怒の場合は効果が強化され、該当する味方の持つ全スキル属性のE.G.O資源+1"
+  },
+  {
+    "key": "9002-simpleDesc",
+    "original": "[{\"abilityID\":9002,\"simpleDesc\":\"사용한 스킬 속성 E.G.O 자원 +1\"},{\"abilityID\":90021,\"simpleDesc\":\"보유한 모든 스킬 속성 E.G.O 자원 +1\"}]",
+    "context": "EN :\n[{\"abilityID\":9002,\"simpleDesc\":\"+1 E.G.O resource of the used skill’s Affinity\"},{\"abilityID\":90021,\"simpleDesc\":\"+1 E.G.O resource for all Affinities of the user\"}]\nJP :\n[{\"abilityID\":9002,\"simpleDesc\":\"使用したスキル属性E.G.O資源+1\"},{\"abilityID\":90021,\"simpleDesc\":\"保有している全スキル属性E.G.O資源+1\"}]"
+  },
+  {
+    "key": "9003-name",
+    "original": "재에서 재로",
+    "context": "EN :\nAshes to Ashes\nJP :\n灰は灰に"
+  },
+  {
+    "key": "9003-desc",
+    "original": "전투 시작 시 모든 적(환상체일 경우, 모든 부위)이 화상에 걸린 경우, 적 전체에게 화상 2 부여.",
+    "context": "EN :\nAt the start of the combat phase, if all enemies (or all Abnormality parts) have Burn, inflict 2 Burn on all enemies.\nJP :\n戦闘開始時、全ての敵(幻想体の場合は全部位)が火傷 状態なら敵全体に火傷 2を付与。"
+  },
+  {
+    "key": "9003-simpleDesc",
+    "original": "[{\"abilityID\":9003,\"simpleDesc\":\"화상 2 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9003,\"simpleDesc\":\"Inflict 2 Burn\"}]\nJP :\n[{\"abilityID\":9003,\"simpleDesc\":\"火傷 2を付与\"}]"
+  },
+  {
+    "key": "9004-name",
+    "original": "혈액 포집팩",
+    "context": "EN :\nPhlebotomy Pack\nJP :\n血液採取パック"
+  },
+  {
+    "key": "9004-desc",
+    "original": "스킬을 사용하여 적에게 피해를 입힐 경우, 해당 아군이 잃은 체력의 7.5%만큼 체력을 회복 (인격마다 턴 당 1회 발동)\n\n사용한 스킬 속성이 분노일 경우, 효과가 강화되어 잃은 체력의 15%만큼 체력을 회복.",
+    "context": "EN :\nAfter dealing damage to enemies by using skills, heal 7.5% of the character’s missing HP. (Once per character per turn.)\n\nIf the skill’s Affinity was Wrath, heal 15% of missing HP instead.\nJP :\nスキルを使用して敵にダメージを与える場合、該当する味方が失った体力の7.5%分体力を回復。(1ターンにつき1回)\n\n使用したスキル属性が憤怒の場合は効果が強化され、失った体力の15%分体力を回復。"
+  },
+  {
+    "key": "9004-simpleDesc",
+    "original": "[{\"abilityID\":9004,\"simpleDesc\":\"잃은 체력 7.5%만큼 체력 회복\"},{\"abilityID\":90041,\"simpleDesc\":\"잃은 체력 15%만큼 체력 회복\"}]",
+    "context": "EN :\n[{\"abilityID\":9004,\"simpleDesc\":\"Heal 7.5% of missing HP\"},{\"abilityID\":90041,\"simpleDesc\":\"Heal 15% of missing HP\"}]\nJP :\n[{\"abilityID\":9004,\"simpleDesc\":\"失った体力の7.5%を回復\"},{\"abilityID\":90041,\"simpleDesc\":\"失った体力の15%を回復\"}]"
+  },
+  {
+    "key": "9005-name",
+    "original": "상처붙이",
+    "context": "EN :\nWound Clerid\nJP :\nキズモドキ"
+  },
+  {
+    "key": "9005-desc",
+    "original": "출혈을 부여하는 스킬 또는 분노 속성의 스킬로 적에게 피해를 입힐 경우, 대상에게 출혈 3 추가로 부여.",
+    "context": "EN :\nAfter dealing damage to enemies by using a Wrath or Bleed-effect skill, inflict 3 Bleed on the targets.\nJP :\n出血 を付与するスキル、または憤怒属性のスキルで敵にダメージを与える場合、対象に出血 を追加で3付与。"
+  },
+  {
+    "key": "9005-simpleDesc",
+    "original": "[{\"abilityID\":9005,\"simpleDesc\":\"출혈 3 추가 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9005,\"simpleDesc\":\"Inflict 3 additional Bleed\"}]\nJP :\n[{\"abilityID\":9005,\"simpleDesc\":\"出血 3を追加付与\"}]"
+  },
+  {
+    "key": "9006-name",
+    "original": "커피와 종이학",
+    "context": "EN :\nCoffee and Cranes\nJP :\nコーヒーと折り鶴"
+  },
+  {
+    "key": "9006-desc",
+    "original": "턴 시작 시, 이전 턴에 사용한 스킬 속성에 해당하지 않는 나머지 모든 속성의 E.G.O 자원 중 무작위 하나 +1.\n\n사용한 스킬 속성 중 색욕이 존재할 경우, 효과가 강화되어 이전 턴에 사용한 스킬 속성에 해당하지 않는 나머지 모든 속성의 E.G.O 자원 전부 +1.",
+    "context": "EN :\nAt the start of the turn, gain 1 E.G.O resource of a random Affinity that wasn’t used last turn.\n\nIf a Lust skill was used last turn, gain 1 E.G.O resource of every Affinity that wasn’t used last turn instead.\nJP :\nターン開始時、前のターンで使用しなかったE.G.O資源のうち1つをランダムで+1\n\n使用したスキル属性に色欲が存在する場合は効果が強化され、前のターンで使用しなかった全属性のE.G.O資源を+1"
+  },
+  {
+    "key": "9006-simpleDesc",
+    "original": "[{\"abilityID\":9006,\"simpleDesc\":\"조건 충족한 무작위 E.G.O 자원 중 하나 +1\"},{\"abilityID\":90061,\"simpleDesc\":\"조건 충족한 모든 E.G.O 자원 +1\"}]",
+    "context": "EN :\n[{\"abilityID\":9006,\"simpleDesc\":\"+1 E.G.O resource of a random applicable Affinity\"},{\"abilityID\":90061,\"simpleDesc\":\"+1 E.G.O resource of all applicable Affinities\"}]\nJP :\n[{\"abilityID\":9006,\"simpleDesc\":\"条件を満たすランダムなE.G.O資源のうち一つ+1\"},{\"abilityID\":90061,\"simpleDesc\":\"条件を満たす全E.G.O資源+1\"}]"
+  },
+  {
+    "key": "9007-name",
+    "original": "주홍 나방떼",
+    "context": "EN :\nEclipse of Scarlet Moths\nJP :\n朱色の蛾の群れ"
+  },
+  {
+    "key": "9007-desc",
+    "original": "턴 시작 시, 처음으로 적에게 피해를 입힌 스킬의 피해량 절반만큼 무작위 대상 하나에게 고정 피해를 입힘.\n\n사용한 스킬 속성이 색욕일 경우, 효과가 강화되어 무작위 대상 둘에게 고정 피해를 입힘.",
+    "context": "EN :\nEach turn, when dealing damage with a skill for the first time, deal half its damage as fixed damage to a random enemy.\n\nIf the skill’s Affinity was Lust, deal said damage to two random enemies instead.\nJP :\nターン開始時、最初に敵にダメージを与えたスキルのダメージ量の半分をランダムで1名に固定ダメージとして与える。\n\n使用したスキル属性が色欲の場合は効果が強化され、ランダムな2名に固定ダメージを与える。"
+  },
+  {
+    "key": "9007-simpleDesc",
+    "original": "[{\"abilityID\":9007,\"simpleDesc\":\"스킬 피해량에 비례하여 고정 피해 부여\"},{\"abilityID\":90071,\"simpleDesc\":\"스킬 피해량에 비례하여 고정 피해 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9007,\"simpleDesc\":\"Deal fixed damage based on skill damage\"},{\"abilityID\":90071,\"simpleDesc\":\"Deal fixed damage based on skill damage\"}]\nJP :\n[{\"abilityID\":9007,\"simpleDesc\":\"スキルのダメージ量に比例した固定ダメージを付与\"},{\"abilityID\":90071,\"simpleDesc\":\"スキルのダメージ量に比例した固定ダメージを付与\"}]"
+  },
+  {
+    "key": "9008-name",
+    "original": "늘어붙은 쇠말뚝",
+    "context": "EN :\nGrimy Iron Stake\nJP :\n焦げ付いた杭"
+  },
+  {
+    "key": "9008-desc",
+    "original": "단일 코인 스킬을 사용하여 적에게 피해를 입힐 경우, 대상에게 출혈 1을 부여하고 다음 턴까지 방어 레벨 감소 1을 부여.\n\n대상이 출혈에 걸린 상태일 경우, 효과가 강화되어 출혈 3 부여.",
+    "context": "EN :\nAfter dealing damage using a single-Coin skill, inflict 1 Bleed and 1 Defense Level Down on the target.\n\nIf the target already has Bleed, inflict 3 Bleed in addition.\nJP :\nコインが1枚のスキルを使用して敵にダメージを与えた場合、対象に出血 1を付与し、次のターンまで防御レベル減少 1を付与。\n\n対象が出血 している場合は効果が強化され、出血 3を付与。"
+  },
+  {
+    "key": "9008-simpleDesc",
+    "original": "[{\"abilityID\":9008,\"simpleDesc\":\"출혈 1, 방어 레벨 감소 1 부여\"},{\"abilityID\":90081,\"simpleDesc\":\"출혈 3, 방어 레벨 감소 1 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9008,\"simpleDesc\":\"Inflict 1 Bleed & 1 Defense Level Down\"},{\"abilityID\":90081,\"simpleDesc\":\"Inflict 3 Bleed & 1 Defense Level Down\"}]\nJP :\n[{\"abilityID\":9008,\"simpleDesc\":\"出血 1、防御レベル減少 1を付与\"},{\"abilityID\":90081,\"simpleDesc\":\"出血 3、防御レベル減少 1を付与\"}]"
+  },
+  {
+    "key": "9009-name",
+    "original": "작열우모",
+    "context": "EN :\nFiery Down\nJP :\n灼熱の羽毛"
+  },
+  {
+    "key": "9009-desc",
+    "original": "화상을 부여하는 스킬 또는 색욕 속성의 스킬로 적에게 피해를 입힐 경우, 대상에게 화상 3 부여.\n\n턴 시작 시 화상 20 이상을 보유한 적의 경우, 화상이 2배로 증가.",
+    "context": "EN :\nAfter dealing damage to enemies using a Lust or Burn-effect skill, inflict 3 Burn on the targets.\n\nIf the enemy had 20+ Burn at the start of the turn, double their current Burn.\nJP :\n火傷 を付与するスキルまたは色欲属性のスキルで敵にダメージを与えた場合、対象に火傷 3を付与。\n\nターン開始時に火傷 2を0以上持つ敵の場合、火傷 が2倍に増加。"
+  },
+  {
+    "key": "9009-simpleDesc",
+    "original": "[{\"abilityID\":9009,\"simpleDesc\":\"화상 3 부여\"},{\"abilityID\":90091,\"simpleDesc\":\"화상 2배로 증가\"}]",
+    "context": "EN :\n[{\"abilityID\":9009,\"simpleDesc\":\"Inflict 3 Burn\"},{\"abilityID\":90091,\"simpleDesc\":\"Double enemy Burn\"}]\nJP :\n[{\"abilityID\":9009,\"simpleDesc\":\"火傷 3を付与\"},{\"abilityID\":90091,\"simpleDesc\":\"火傷 が2倍に増加\"}]"
+  },
+  {
+    "key": "9010-name",
+    "original": "블러디 가젯",
+    "context": "EN :\nBloody Gadget\nJP :\nブラッディー・ガジェット"
+  },
+  {
+    "key": "9010-desc",
+    "original": "턴 시작 시, 무작위 아군 중 한 명이 피해량 증가 2를 얻음.\n\n색욕 속성 스킬을 보유한 아군에게 우선으로 적용되며, 이 경우에는 피해량 증가 1을 추가로 얻음.",
+    "context": "EN :\nAt the start of the turn, apply 2 Damage Up to a random ally.\n\nPrioritizes allies with Lust skills; apply an additional 1 Damage Up to said allies.\nJP :\nターン開始時、ランダムな味方1名へダメージ量増加 2を付与。\n\n色欲属性のスキルを持つ味方が優先され、この場合はダメージ量増加 1を追加付与。"
+  },
+  {
+    "key": "9010-simpleDesc",
+    "original": "[{\"abilityID\":9010,\"simpleDesc\":\"피해량 증가 2 얻음\"},{\"abilityID\":90101,\"simpleDesc\":\"피해량 증가 3 얻음\"}]",
+    "context": "EN :\n[{\"abilityID\":9010,\"simpleDesc\":\"Apply 2 Damage Up\"},{\"abilityID\":90101,\"simpleDesc\":\"Apply 3 Damage Up\"}]\nJP :\n[{\"abilityID\":9010,\"simpleDesc\":\"ダメージ量増加 2を得る\"},{\"abilityID\":90101,\"simpleDesc\":\"ダメージ量増加 3を得る\"}]"
+  },
+  {
+    "key": "9011-name",
+    "original": "여우비",
+    "context": "EN :\nSunshower\nJP :\nキツネの嫁入り"
+  },
+  {
+    "key": "9011-desc",
+    "original": "나태 완전 공명을 발동하였거나 둘 이상의 대상을 동시에 공격하는 스킬을 사용하는 경우 발동.\n\n전투 시작 시, 아군 전체의 스킬 위력 +2.",
+    "context": "EN :\nWhen activating Sloth Absolute Resonance or using a skill that attacks multiple targets:\n\nAll allies gain +2 Skill Power at the start of the combat phase.\nJP :\n怠惰完全共鳴を発動するか、2名以上の対象を同時に攻撃するスキルを使用する場合に発動。\n\n戦闘開始時、味方全体のスキル威力+2"
+  },
+  {
+    "key": "9011-simpleDesc",
+    "original": "[{\"abilityID\":9011,\"simpleDesc\":\"스킬 위력 +2\"}]",
+    "context": "EN :\n[{\"abilityID\":9011,\"simpleDesc\":\"Skill Power +2\"}]\nJP :\n[{\"abilityID\":9011,\"simpleDesc\":\"スキル威力+2\"}]"
+  },
+  {
+    "key": "9012-name",
+    "original": "오늘의 표정",
+    "context": "EN :\nToday’s Expression\nJP :\n今日の表情"
+  },
+  {
+    "key": "9012-desc",
+    "original": "타격 피해를 입히는 스킬 또는 나태 속성의 스킬로 적 처치 시, 다음 턴까지 해당 아군의 타격 스킬 위력 +2.",
+    "context": "EN :\nAfter defeating an enemy by using a Sloth or Blunt damage skill, the ally’s Blunt Skill Power is boosted by 2 until the end of next turn.\nJP :\n打撃ダメージを与えるスキル、または怠惰属性のスキルで敵を倒したとき、該当する味方が次のターンまで打撃スキル威力+2"
+  },
+  {
+    "key": "9012-simpleDesc",
+    "original": "[{\"abilityID\":9012,\"simpleDesc\":\"타격 스킬 위력 +2\"}]",
+    "context": "EN :\n[{\"abilityID\":9012,\"simpleDesc\":\"Blunt Skill Power +2\"}]\nJP :\n[{\"abilityID\":9012,\"simpleDesc\":\"打撃スキル威力 +2\"}]"
+  },
+  {
+    "key": "9013-name",
+    "original": "부적 묶음",
+    "context": "EN :\nTalisman Bundle\nJP :\nお守りの束"
+  },
+  {
+    "key": "9013-desc",
+    "original": "스킬을 사용하여 적 하나에게 12 이상의 체력 피해를 입힐 경우, 대상에게 파열 위력 2 부여.\n\n사용한 스킬이 참격 피해를 입힌 경우, 효과가 강화되어 파열 위력 4 부여.",
+    "context": "EN :\nAfter dealing 12+ HP damage with a single skill, inflict 2 Rupture on the target.\n\nIf the skill dealt Slash damage, inflict 4 Rupture instead.\nJP :\nスキルを使用して敵1名に12以上のダメージを与えた場合、対象に破裂 威力2を付与。\n\n斬撃によってダメージを与えた場合は効果が強化され、破裂 威力4を付与。"
+  },
+  {
+    "key": "9013-simpleDesc",
+    "original": "[{\"abilityID\":9013,\"simpleDesc\":\"파열 위력 2 부여\"},{\"abilityID\":90131,\"simpleDesc\":\"파열 위력 4 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9013,\"simpleDesc\":\"Inflict 2 Rupture\"},{\"abilityID\":90131,\"simpleDesc\":\"Inflict 4 Rupture\"}]\nJP :\n[{\"abilityID\":9013,\"simpleDesc\":\"破裂 威力2を付与\"},{\"abilityID\":90131,\"simpleDesc\":\"破裂 威力4を付与\"}]"
+  },
+  {
+    "key": "9014-name",
+    "original": "녹슨 기념 주화",
+    "context": "EN :\nRusty Commemorative Coin\nJP :\n錆びた記念通貨"
+  },
+  {
+    "key": "9014-desc",
+    "original": "전투 시작 시 처음으로 사용된 아군의 단일 코인 스킬로 대상이 되는 적이 아무도 사망하지 않았다면, 해당 스킬을 한 번 더 사용함.\n\n단일 코인 스킬 또는 나태 속성의 스킬로 적을 처치한 경우, 해당 아군이 스킬 위력 +1.",
+    "context": "EN :\nIf the first single-Coin skill that an ally uses during the combat phase doesn’t defeat any enemies, use it one more time.\n\nAfter defeating an enemy by using a Sloth or single-Coin skill, the character gains +1 Skill Power next turn.\nJP :\n戦闘開始時、味方が初めて使用するコインが1枚のスキルで誰も死亡しなかった場合、該当するスキルをもう一度使用する。\n\nコインが1枚のスキル、または怠惰属性のスキルで敵を倒した場合、該当する味方にスキル威力+1"
+  },
+  {
+    "key": "9014-simpleDesc",
+    "original": "[{\"abilityID\":9014,\"simpleDesc\":\"스킬을 다시 사용함\"},{\"abilityID\":90141,\"simpleDesc\":\"스킬 위력 +1\"}]",
+    "context": "EN :\n[{\"abilityID\":9014,\"simpleDesc\":\"Reuse single-Coin skill\"},{\"abilityID\":90141,\"simpleDesc\":\"Skill Power +1\"}]\nJP :\n[{\"abilityID\":9014,\"simpleDesc\":\"スキルを再使用\"},{\"abilityID\":90141,\"simpleDesc\":\"スキル威力+1\"}]"
+  },
+  {
+    "key": "9015-name",
+    "original": "고혈",
+    "context": "EN :\nBlood, Sweat, and Tears\nJP :\n膏血"
+  },
+  {
+    "key": "9015-desc",
+    "original": "흐트러짐 상태의 적에게 스킬을 사용하여 가하는 피해량 +10%.\n\n사용한 스킬의 속성이 나태일 경우, 효과가 강화되어 피해량 +20%.",
+    "context": "EN :\nSkills deal +10% damage to Staggered enemies.\n\nIf the skill’s Affinity is Sloth, deal +20% damage instead.\nJP :\n混乱状態の敵へスキルで与えるダメージ量+10%\n\n使用したスキルの属性が怠惰の場合は効果が強化され、与ダメージ量+20%"
+  },
+  {
+    "key": "9015-simpleDesc",
+    "original": "[{\"abilityID\":9015,\"simpleDesc\":\"피해량 +10%\"},{\"abilityID\":90151,\"simpleDesc\":\"피해량 +20%\"}]",
+    "context": "EN :\n[{\"abilityID\":9015,\"simpleDesc\":\"Damage +10%\"},{\"abilityID\":90151,\"simpleDesc\":\"Damage +20%\"}]\nJP :\n[{\"abilityID\":9015,\"simpleDesc\":\"与ダメージ量+10%\"},{\"abilityID\":90151,\"simpleDesc\":\"与ダメージ量+20%\"}]"
+  },
+  {
+    "key": "9016-name",
+    "original": "초록빛 결실",
+    "context": "EN :\nGreen Spirit\nJP :\n緑色の結実"
+  },
+  {
+    "key": "9016-desc",
+    "original": "흐트러짐 상태가 아닌 적에게 탐식 속성 스킬로 피해를 입히거나 스킬 효과로 진동을 부여할 경우, 모든 적에게 진동 4를 무작위로 나누어 부여.",
+    "context": "EN :\nAfter damaging a non-Staggered enemy by using a Gluttony skill, or inflicting Tremor using skill effects, randomly inflict a total of 4 Tremor on all enemies.\nJP :\n混乱状態ではない敵に暴食属性のスキルでダメージを与えるか、スキルの効果で振動 を与える場合、全ての敵を対象に振動 をランダムに付与(合計4)。"
+  },
+  {
+    "key": "9016-simpleDesc",
+    "original": "[{\"abilityID\":9016,\"simpleDesc\":\"진동 4 무작위로 나누어 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9016,\"simpleDesc\":\"Randomly inflict 4 Tremor\"}]\nJP :\n[{\"abilityID\":9016,\"simpleDesc\":\"ランダムに振動 を付与(合計4)\"}]"
+  },
+  {
+    "key": "9017-name",
+    "original": "문자 석판",
+    "context": "EN :\nLithograph\nJP :\n文字の刻まれた石板"
+  },
+  {
+    "key": "9017-desc",
+    "original": "적이 흐트러짐 상태에 빠질 때마다 아군 중 가장 체력이 적은 인격이 최대 체력의 5%만큼 체력을 회복.\n\n회복 효과를 받는 인격이 탐식 속성 스킬을 보유한 경우, 효과가 강화되어 최대 체력의 10%만큼을 회복.",
+    "context": "EN :\nWhenever an enemy is Staggered, the lowest health ally heals 5% of their Max HP.\n\nIf said ally has Gluttony skills, heal 10% of Max HP instead.\nJP :\n敵が混乱状態に陥るたび、最も体力の少ない人格が、体力を最大値の5%回復。\n\n回復効果を受ける人格が暴食属性のスキルを保有している場合は効果が強化され、最大値の10%回復。"
+  },
+  {
+    "key": "9017-simpleDesc",
+    "original": "[{\"abilityID\":9017,\"simpleDesc\":\"최대 체력 5%만큼 체력 회복\"},{\"abilityID\":90171,\"simpleDesc\":\"최대 체력 10%만큼 체력 회복\"}]",
+    "context": "EN :\n[{\"abilityID\":9017,\"simpleDesc\":\"Heal 5% of Max HP\"},{\"abilityID\":90171,\"simpleDesc\":\"Heal 10% of Max HP\"}]\nJP :\n[{\"abilityID\":9017,\"simpleDesc\":\"体力を最大値の5%回復\"},{\"abilityID\":90171,\"simpleDesc\":\"体力を最大値の10%回復\"}]"
+  },
+  {
+    "key": "9018-name",
+    "original": "장미 면류관",
+    "context": "EN :\nCrown of Roses\nJP :\n薔薇の冠"
+  },
+  {
+    "key": "9018-desc",
+    "original": "턴 시작 시, 무작위 적 하나에게 파열 4 부여.\n\n탐식 완전 공명을 발동하였다면 전투 시작 시, 모든 적에게 파열 2 부여.",
+    "context": "EN :\nAt the start of the turn, inflict 4 Rupture on a random enemy.\n\nWhen activating Gluttony Absolute Resonance, inflict 2 Rupture on all enemies at the start of the combat phase.\nJP :\nターン開始時、ランダムな敵1名に破裂 4を付与。\n\n暴食完全共鳴を発動すると、戦闘開始時に全ての敵へ破裂 2を付与。"
+  },
+  {
+    "key": "9018-simpleDesc",
+    "original": "[{\"abilityID\":9018,\"simpleDesc\":\"파열 4 부여\"},{\"abilityID\":90181,\"simpleDesc\":\"파열 2 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9018,\"simpleDesc\":\"Inflict 4 Rupture\"},{\"abilityID\":90181,\"simpleDesc\":\"Inflict 2 Rupture\"}]\nJP :\n[{\"abilityID\":9018,\"simpleDesc\":\"破裂 4を付与\"},{\"abilityID\":90181,\"simpleDesc\":\"破裂 2を付与\"}]"
+  },
+  {
+    "key": "9019-name",
+    "original": "끈적거리는 진액",
+    "context": "EN :\nSticky Muck\nJP :\n粘つくエキス"
+  },
+  {
+    "key": "9019-desc",
+    "original": "관통 피해를 입히는 스킬 또는 탐식 속성의 스킬로 적에게 피해를 입힐 경우, 대상에게 방어 레벨 감소 1 부여.",
+    "context": "EN :\nAfter dealing damage by using a Gluttony or Pierce damage skill, inflict 1 Defense Level Down on the target.\nJP :\n貫通ダメージを与えるスキルまたは暴食属性のスキルで敵にダメージを与えた場合、対象に防御レベル減少 1を付与。"
+  },
+  {
+    "key": "9019-simpleDesc",
+    "original": "[{\"abilityID\":9019,\"simpleDesc\":\"방어 레벨 감소 1 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9019,\"simpleDesc\":\"Inflict 1 Defense Level Down\"}]\nJP :\n[{\"abilityID\":9019,\"simpleDesc\":\"防御レベル減少 1を付与\"}]"
+  },
+  {
+    "key": "9020-name",
+    "original": "흰 목화",
+    "context": "EN :\nWhite Gossypium\nJP :\n白い綿花"
+  },
+  {
+    "key": "9020-desc",
+    "original": "턴 시작 시 흐트러짐 상태인 적들이 있을 경우, 대상은 흐트러짐 상태에서 풀려나는 대신 (8+흐트러짐 단계x4)만큼 출혈을 얻고 2만큼 출혈 횟수 증가.",
+    "context": "EN :\nAt the start of the turn, un-Stagger enemies, and inflict (8 + Stagger LV x 4) Bleed on them, then inflict +2 Bleed Count.\nJP :\nターン開始時に混乱状態の敵がいる場合、対象は混乱状態が解除される代わりに(8+混乱段階×4)だけ出血 を得て、出血 回数が2増加。"
+  },
+  {
+    "key": "9020-simpleDesc",
+    "original": "[{\"abilityID\":9020,\"simpleDesc\":\"출혈 (8+흐트러짐 단계x4) 부여, 출혈 횟수 2 증가\"}]",
+    "context": "EN :\n[{\"abilityID\":9020,\"simpleDesc\":\"Inflict (8 + Stagger LV x 4) Bleed and apply +2 Bleed Count\"}]\nJP :\n[{\"abilityID\":9020,\"simpleDesc\":\"出血 を(8+混乱段階×4)付与、出血 回数が2増加\"}]"
+  },
+  {
+    "key": "9021-name",
+    "original": "쪽빛 지포라이터",
+    "context": "EN :\nBlue Zippo Lighter\nJP :\n藍色のジッポライター"
+  },
+  {
+    "key": "9021-desc",
+    "original": "턴 시작 시, 우울 속성 E.G.O 자원 +1, 나머지 속성의 E.G.O 자원 중 무작위 2종 +1.",
+    "context": "EN :\nAt the start of the turn, gain 1 Gloom E.G.O resource and 1 E.G.O resource of 2 other random Affinities.\nJP :\nターン開始時に憂鬱属性のE.G.O資源+1、それ以外のE.G.O資源のうち2種類をランダムで+1"
+  },
+  {
+    "key": "9021-simpleDesc",
+    "original": "[{\"abilityID\":9021,\"simpleDesc\":\"우울 속성 E.G.O 자원 +1, 나머지 속성의 E.G.O 자원 중 무작위 2종 +1\"}]",
+    "context": "EN :\n[{\"abilityID\":9021,\"simpleDesc\":\"+1 Gloom E.G.O resource, +1 E.G.O resource of 2 other random Affinities\"}]\nJP :\n[{\"abilityID\":9021,\"simpleDesc\":\"憂鬱属性のE.G.O資源+1、それ以外のE.G.O資源のうち2種類をランダムで+1\"}]"
+  },
+  {
+    "key": "9022-name",
+    "original": "환상통",
+    "context": "EN :\nPhantom Pain\nJP :\n幻肢痛"
+  },
+  {
+    "key": "9022-desc",
+    "original": "스킬을 사용하여 적 하나만 공격하는 경우, 가하는 피해량 +15%.\n\n우울 완전 공명을 발동하였다면 전투 시작 시, 모든 아군이 공격 레벨 증가 1을 얻음.",
+    "context": "EN :\nSkills deal +15% damage to single targets.\n\nWhen activating Gloom Absolute Resonance, apply 1 Offense Level Up to all allies at the start of the combat phase.\nJP :\nスキルを使用して敵1名のみを攻撃する場合、与ダメージ量+15%\n\n憂鬱完全共鳴を発動した場合は戦闘開始時、全味方に攻撃レベル増加 1を付与。"
+  },
+  {
+    "key": "9022-simpleDesc",
+    "original": "[{\"abilityID\":9022,\"simpleDesc\":\"피해량 +15%\"},{\"abilityID\":90221,\"simpleDesc\":\"공격 레벨 증가 1 얻음\"}]",
+    "context": "EN :\n[{\"abilityID\":9022,\"simpleDesc\":\"Damage +15%\"},{\"abilityID\":90221,\"simpleDesc\":\"Gain 1 Offense Level Up\"}]\nJP :\n[{\"abilityID\":9022,\"simpleDesc\":\"与ダメージ量+15%\"},{\"abilityID\":90221,\"simpleDesc\":\"攻撃レベル増加 1を得る\"}]"
+  },
+  {
+    "key": "9023-name",
+    "original": "벼락가지",
+    "context": "EN :\nThunderbranch\nJP :\n稲妻の枝"
+  },
+  {
+    "key": "9023-desc",
+    "original": "스킬을 사용하여 파열 효과 부여 시, 파열 1을 추가로 부여하고 횟수 1만큼 증가.",
+    "context": "EN :\nWhen inflicting Rupture using skill effects, inflict 1 additional Rupture and increase its Count by 1.\nJP :\nスキルを使用して破裂 効果を付与するとき、破裂 1を追加付与し、回数も1増加。"
+  },
+  {
+    "key": "9023-simpleDesc",
+    "original": "[{\"abilityID\":9023,\"simpleDesc\":\"파열 1 부여, 파열 횟수 1 증가\"}]",
+    "context": "EN :\n[{\"abilityID\":9023,\"simpleDesc\":\"Inflict 1 Rupture and +1 Rupture Count\"}]\nJP :\n[{\"abilityID\":9023,\"simpleDesc\":\"破裂 1を付与、破裂 回数1増加\"}]"
+  },
+  {
+    "key": "9024-name",
+    "original": "녹아내린 눈알",
+    "context": "EN :\nMelty Eyeball\nJP :\n溶け落ちた目玉"
+  },
+  {
+    "key": "9024-desc",
+    "original": "진동 폭발된 적에게 방어 레벨 감소 3 부여.",
+    "context": "EN :\nInflict 3 Defense Level Down on enemies affected by Tremor’s burst.\nJP :\n振動 爆発した敵へ防御レベル減少 3を付与。"
+  },
+  {
+    "key": "9024-simpleDesc",
+    "original": "[{\"abilityID\":9024,\"simpleDesc\":\"방어 레벨 감소 3 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9024,\"simpleDesc\":\"Inflict 3 Defense Level Down\"}]\nJP :\n[{\"abilityID\":9024,\"simpleDesc\":\"防御レベル減少 3を付与\"}]"
+  },
+  {
+    "key": "9025-name",
+    "original": "잿빛 코트",
+    "context": "EN :\nGrey Coat\nJP :\n灰色のコート"
+  },
+  {
+    "key": "9025-desc",
+    "original": "스킬을 사용하여 둘 이상의 적을 공격하는 경우, 가하는 피해량 +20%.\n\n광역 대상 스킬 또는 우울 속성 스킬로 적에게 피해를 입힐 경우, 입힌 피해량의 20%만큼 해당 아군이 체력을 회복.",
+    "context": "EN :\nWhen using a multi-target skill, increase its damage by 20%.\n\nAfter dealing damage with a Gloom or multi-target skill, heal by 20% of the damage dealt.\nJP :\nスキルを使用して2名以上の敵を攻撃するとき、与ダメージ量+20%\n\n広域を対象とするスキルまたは憂鬱属性のスキルで敵にダメージを与えた場合、該当する味方が与ダメージ量の20%体力を回復。"
+  },
+  {
+    "key": "9025-simpleDesc",
+    "original": "[{\"abilityID\":9025,\"simpleDesc\":\"피해량 +20%\"},{\"abilityID\":90251,\"simpleDesc\":\"입힌 피해량 20%만큼 체력 회복\"}]",
+    "context": "EN :\n[{\"abilityID\":9025,\"simpleDesc\":\"Damage +20%\"},{\"abilityID\":90251,\"simpleDesc\":\"Heal 20% of damage dealt\"}]\nJP :\n[{\"abilityID\":9025,\"simpleDesc\":\"与ダメージ量+20%\"},{\"abilityID\":90251,\"simpleDesc\":\"与ダメージの20%体力を回復\"}]"
+  },
+  {
+    "key": "9026-name",
+    "original": "대기만성형 타투",
+    "context": "EN :\nLate-bloomer’s Tattoo\nJP :\n大器晩成型タトゥー"
+  },
+  {
+    "key": "9026-desc",
+    "original": "단일 코인 스킬 또는 오만 속성의 스킬로 적에게 피해를 입힐 경우, 해당 아군이 공격 레벨 증가 1, 방어 레벨 증가 1 얻음.",
+    "context": "EN :\nAfter dealing damage with a Pride or single-Coin skill, gain 1 Offense Level Up and 1 Defense Level Up.\nJP :\nコインが1枚のスキルまたは傲慢属性のスキルで敵にダメージを与えたとき、該当する味方に攻撃レベル増加 1、防御レベル増加 1を付与。"
+  },
+  {
+    "key": "9026-simpleDesc",
+    "original": "[{\"abilityID\":9026,\"simpleDesc\":\"공격 레벨 증가 1, 방어 레벨 증가 1 얻음\"}]",
+    "context": "EN :\n[{\"abilityID\":9026,\"simpleDesc\":\"Gain 1 Offense Level Up & 1 Defense Level Up\"}]\nJP :\n[{\"abilityID\":9026,\"simpleDesc\":\"攻撃レベル増加 1、防御レベル 1を得る\"}]"
+  },
+  {
+    "key": "9027-name",
+    "original": "가장 낮은 별",
+    "context": "EN :\nLowest Star\nJP :\n一番低い星"
+  },
+  {
+    "key": "9027-desc",
+    "original": "적에게 타격 피해를 입힐 때마다 대상에게 5만큼의 정신력 피해를 입힘.\n\n피해를 입힌 스킬의 속성이 오만일 경우, 3만큼의 정신력 피해를 추가로 입힘.",
+    "context": "EN :\nAfter dealing Blunt damage, deal 5 SP damage to the target.\n\nIf the skill’s Affinity was Pride, deal an additional 3 SP damage.\nJP :\n敵に打撃ダメージを与えるたび、対象に精神力ダメージを5与える。\n\nスキルの属性が傲慢の場合、精神力ダメージを追加で3与える。"
+  },
+  {
+    "key": "9027-simpleDesc",
+    "original": "[{\"abilityID\":9027,\"simpleDesc\":\"5만큼 정신력 피해\"},{\"abilityID\":90271,\"simpleDesc\":\"3만큼 정신력 추가 피해\"}]",
+    "context": "EN :\n[{\"abilityID\":9027,\"simpleDesc\":\"Deal 5 SP damage\"},{\"abilityID\":90271,\"simpleDesc\":\"Deal +3 SP damage\"}]\nJP :\n[{\"abilityID\":9027,\"simpleDesc\":\"精神力ダメージを5与える\"},{\"abilityID\":90271,\"simpleDesc\":\"+3の精神力追加ダメージ\"}]"
+  },
+  {
+    "key": "9028-name",
+    "original": "편견",
+    "context": "EN :\nPrejudice\nJP :\n偏見"
+  },
+  {
+    "key": "9028-desc",
+    "original": "스테이지 시작 시, 가장 체력이 적은 아군이 최대 체력의 15%만큼 체력을 회복.\n\n오만 완전 공명을 발동하였다면 전투 시작 시, 가장 체력이 적은 아군이 잃은 체력의 10%만큼 체력을 회복.",
+    "context": "EN :\nAt the start of the 3rd turn, the lowest health ally heals 15% of their Max HP.\n\nWhen activating Pride Absolute Resonance, the lowest health ally heals 10% of their missing HP at the start of the combat phase.\nJP :\n戦闘開始時、最も体力の少ない味方が、体力を体力を最大値の15%回復。\n\n傲慢完全共鳴を発動した場合、戦闘開始時に最も体力の少ない味方が、失った体力の10%分体力を回復。"
+  },
+  {
+    "key": "9028-simpleDesc",
+    "original": "[{\"abilityID\":9028,\"simpleDesc\":\"최대 체력의 15%만큼 체력 회복\"},{\"abilityID\":90281,\"simpleDesc\":\"잃은 체력의 10%만큼 체력 회복\"}]",
+    "context": "EN :\n[{\"abilityID\":9028,\"simpleDesc\":\"Heal 15% of Max HP\"},{\"abilityID\":90281,\"simpleDesc\":\"Heal 10% of missing HP\"}]\nJP :\n[{\"abilityID\":9028,\"simpleDesc\":\"体力を最大値の15%回復\"},{\"abilityID\":90281,\"simpleDesc\":\"失った体力の10%を回復\"}]"
+  },
+  {
+    "key": "9029-name",
+    "original": "작고 나쁠 인형",
+    "context": "EN :\nLittle and To-be-Naughty Plushie\nJP :\n小さくて悪くなる人形"
+  },
+  {
+    "key": "9029-desc",
+    "original": "출혈에 걸린 적에게 입히는 피해량 +10%, 대상에게 받는 피해량 -20%.\n\n오만 속성 스킬을 보유한 아군은 효과가 강화되어, 출혈에 걸린 적에게 입히는 피해량 +20%, 대상에게 받는 피해량 -30%.",
+    "context": "EN :\nDeal +10% damage and take -20% damage against enemies with Bleed.\n\nAllies with Pride skills deal +20% damage and take -30% damage against enemies with Bleed.\nJP :\n出血 状態の敵への与ダメージ量+10%、対象からの被ダメージ量-20%\n\n傲慢属性のスキルを保有する味方は効果が強化され、出血 状態の敵への与ダメージ量+20%、対象からの被ダメージ量-30%"
+  },
+  {
+    "key": "9029-simpleDesc",
+    "original": "[{\"abilityID\":9029,\"simpleDesc\":\"가하는 피해량 +10%, 받는 피해량 -20%\"},{\"abilityID\":90291,\"simpleDesc\":\"가하는 피해량 +20%, 받는 피해량 -30%\"}]",
+    "context": "EN :\n[{\"abilityID\":9029,\"simpleDesc\":\"Deal +10% damage and take -20% damage\"},{\"abilityID\":90291,\"simpleDesc\":\"Deal +20% damage and take -30% damage\"}]\nJP :\n[{\"abilityID\":9029,\"simpleDesc\":\"与ダメージ量+10%、被ダメージ量-20%\"},{\"abilityID\":90291,\"simpleDesc\":\"与ダメージ量+20%、被ダメージ量-30%\"}]"
+  },
+  {
+    "key": "9030-name",
+    "original": "수집하는 해골",
+    "context": "EN :\nGathering Skulls\nJP :\n収集する骸骨"
+  },
+  {
+    "key": "9030-desc",
+    "original": "관통 피해를 입히는 스킬 또는 오만 속성의 스킬로 적 처치 시, 해당 아군이 다음 2턴 동안 관통 위력 2 증가.",
+    "context": "EN :\nAfter defeating an enemy by using a Pride or Pierce damage skill, gain 2 Pierce Power Up for 2 turns.\nJP :\n貫通ダメージを与えるスキルまたは傲慢属性のスキルで敵を倒した場合、該当する味方が次の2ターンの間、貫通威力が2増加。"
+  },
+  {
+    "key": "9030-simpleDesc",
+    "original": "[{\"abilityID\":9030,\"simpleDesc\":\"관통 스킬 위력 +2\"}]",
+    "context": "EN :\n[{\"abilityID\":9030,\"simpleDesc\":\"Pierce Skill Power +2\"}]\nJP :\n[{\"abilityID\":9030,\"simpleDesc\":\"貫通スキル威力 +2\"}]"
+  },
+  {
+    "key": "9031-name",
+    "original": "닉시 다이버전스",
+    "context": "EN :\nNixie Divergence\nJP :\nニクシー・ダイバージェンス"
+  },
+  {
+    "key": "9031-desc",
+    "original": "스테이지 시작 시, 적 전체에게 진동 4, 진동 횟수 4 부여.\n\n질투 속성 스킬로 적에게 피해를 입힐 때마다 대상에게 진동 2 부여.",
+    "context": "EN :\nAt the start of the battle, inflict 4 Tremor with 4 Count on all enemies.\n\nWhen dealing damage with an Envy skill, inflict 2 Tremor on the target.\nJP :\nステージ開始時に敵全体へ振動 4、振動 回数4を付与。\n\n嫉妬属性のスキルで敵にダメージを与えるたび、対象に振動 2を付与。"
+  },
+  {
+    "key": "9031-simpleDesc",
+    "original": "[{\"abilityID\":9031,\"simpleDesc\":\"진동 4 부여\"},{\"abilityID\":90311,\"simpleDesc\":\"진동 2 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9031,\"simpleDesc\":\"Inflict 4 Tremor\"},{\"abilityID\":90311,\"simpleDesc\":\"Inflict 2 Tremor\"}]\nJP :\n[{\"abilityID\":9031,\"simpleDesc\":\"振動 4を付与\"},{\"abilityID\":90311,\"simpleDesc\":\"振動 2を付与\"}]"
+  },
+  {
+    "key": "9032-name",
+    "original": "꿈을 꾸는 전기양",
+    "context": "EN :\nDreaming Electric Sheep\nJP :\n夢見る電気羊"
+  },
+  {
+    "key": "9032-desc",
+    "original": "참격 피해를 입히는 스킬 또는 질투 속성의 스킬로 적 처치 시, 해당 아군이 다음 2턴 동안 참격 스킬 위력 +2.\n\n질투 완전 공명을 발동하였다면, 전투 시작 시 모든 아군이 공격 레벨 증가 1, 방어 레벨 증가 1 얻음.",
+    "context": "EN :\nAfter defeating an enemy by using an Envy or Slash damage skill, gain 2 Slash Power Up for 2 turns.\n\nWhen activating Envy Absolute Resonance, apply 1 Offense Level Up and 1 Defense Level Up to all allies at the start of the combat phase.\nJP :\n斬撃ダメージを与えるスキルまたは嫉妬属性のスキルで敵を倒したとき、該当する味方が次の2ターンの間、斬撃スキル威力+2\n\n嫉妬完全共鳴を発動した場合、戦闘開始時に全味方へ攻撃レベル増加 1、防御レベル増加 +1"
+  },
+  {
+    "key": "9032-simpleDesc",
+    "original": "[{\"abilityID\":9032,\"simpleDesc\":\"참격 스킬 위력 +2\"},{\"abilityID\":90321,\"simpleDesc\":\"공격 레벨 증가 1, 방어 레벨 증가 1 얻음\"}]",
+    "context": "EN :\n[{\"abilityID\":9032,\"simpleDesc\":\"Slash Skill Power +2\"},{\"abilityID\":90321,\"simpleDesc\":\"Gain 1 Offense Level Up & 1 Defense Level Up\"}]\nJP :\n[{\"abilityID\":9032,\"simpleDesc\":\"斬撃スキル威力 +2\"},{\"abilityID\":90321,\"simpleDesc\":\"攻撃レベル増加 1、防御レベル 1を得る\"}]"
+  },
+  {
+    "key": "9033-name",
+    "original": "근무용 통상 배터리",
+    "context": "EN :\nStandard-duty Battery\nJP :\n勤務用通常バッテリー"
+  },
+  {
+    "key": "9033-desc",
+    "original": "스킬을 사용하여 적에게 피해를 입힐 경우, 대상에게 파열 3 부여.\n\n사용한 스킬의 속성이 질투일 경우, 파열 2를 추가로 부여.",
+    "context": "EN :\nWhen dealing damage using skills, inflict 3 Rupture.\n\nIf the skill’s Affinity was Envy, inflict an additional 2 Rupture.\nJP :\nスキルを使用して敵にダメージを与えた場合、対象に破裂 3を付与。\n\n使用したスキルの属性が嫉妬の場合、破裂 2を追加付与。"
+  },
+  {
+    "key": "9033-simpleDesc",
+    "original": "[{\"abilityID\":9033,\"simpleDesc\":\"파열 3 부여\"},{\"abilityID\":90331,\"simpleDesc\":\"파열 5 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9033,\"simpleDesc\":\"Inflict 3 Rupture\"},{\"abilityID\":90331,\"simpleDesc\":\"Inflict 5 Rupture\"}]\nJP :\n[{\"abilityID\":9033,\"simpleDesc\":\"破裂 3を付与\"},{\"abilityID\":90331,\"simpleDesc\":\"破裂 5を付与\"}]"
+  },
+  {
+    "key": "9034-name",
+    "original": "일점타격논리회로",
+    "context": "EN :\nPinpoint Logic Circuit\nJP :\n一点打撃論理回路"
+  },
+  {
+    "key": "9034-desc",
+    "original": "화상 효과를 부여하는 스킬 또는 질투 속성의 스킬로 적에게 피해를 입힐 경우, 대상에게 해당 스킬의 코인 수 절반만큼 추가로 화상 부여. (소수는 올림하여 계산)",
+    "context": "EN :\nWhen dealing damage using an Envy or Burn-effect skill, inflict additional Burn by half the skill’s total Coins. (Rounded up.)\nJP :\n火傷 を付与するスキルまたは嫉妬属性のスキルで敵にダメージを与えた場合、対象に(該当するスキルのコイン枚数÷2)だけ追加で火傷 を付与。(小数点繰り上げ)"
+  },
+  {
+    "key": "9034-simpleDesc",
+    "original": "[{\"abilityID\":9034,\"simpleDesc\":\"스킬의 코인 수 절반만큼 화상 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9034,\"simpleDesc\":\"Inflict Burn by half the skill’s total coins\"}]\nJP :\n[{\"abilityID\":9034,\"simpleDesc\":\"スキルコインの枚数÷2だけ火傷 を付与\"}]"
+  },
+  {
+    "key": "9035-name",
+    "original": "저주 인형",
+    "context": "EN :\nVoodoo Doll\nJP :\n呪いの人形"
+  },
+  {
+    "key": "9035-desc",
+    "original": "턴 시작 시, 적 전체에게 3만큼 고정 피해를 입힘.\n\n대상의 체력이 33% 미만이면 공격 위력 감소 1만큼을 추가로 부여.",
+    "context": "EN :\nAt the start of the turn, deal 3 fixed damage to all enemies.\n\nEnemies with 33% or less HP are inflicted with 1 Attack Power Down.\nJP :\nターン開始時、敵全体に固定ダメージを3与える。\n\n対象の体力が33%未満であれば、攻撃威力減少 1を追加付与。"
+  },
+  {
+    "key": "9035-simpleDesc",
+    "original": "[{\"abilityID\":9035,\"simpleDesc\":\"3만큼 고정 피해 부여\"},{\"abilityID\":90351,\"simpleDesc\":\"3만큼 고정 피해, 공격 위력 감소 1 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9035,\"simpleDesc\":\"Deal 3 fixed damage\"},{\"abilityID\":90351,\"simpleDesc\":\"Deal 3 fixed damage and inflict 1 Attack Power Down\"}]\nJP :\n[{\"abilityID\":9035,\"simpleDesc\":\"3の固定ダメージを付与\"},{\"abilityID\":90351,\"simpleDesc\":\"3の固定ダメージ、攻撃威力減少 1を付与\"}]"
+  },
+  {
+    "key": "9036-name",
+    "original": "카르밀라",
+    "context": "EN :\nCarmilla\nJP :\nカーミラ"
+  },
+  {
+    "key": "9036-desc",
+    "original": "전투 스테이지 입장 시, 환상체 이외의 모든 적에게 최대 체력 20%만큼 고정 피해를 입힘.",
+    "context": "EN :\nAt the start of the battle, non-Abnormality enemies take fixed damage equal to 20% of their Max HP.\nJP :\n戦闘開始時、幻想体以外の全ての敵へ体力20%分の固定ダメージを与える。"
+  },
+  {
+    "key": "9036-simpleDesc",
+    "original": "[{\"abilityID\":9036,\"simpleDesc\":\"최대 체력 20%만큼 고정 피해 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9036,\"simpleDesc\":\"Deal 20% of Max HP as fixed damage\"}]\nJP :\n[{\"abilityID\":9036,\"simpleDesc\":\"体力最大値の20%分固定ダメージを付与\"}]"
+  },
+  {
+    "key": "9037-name",
+    "original": "플라스크 속의 아이",
+    "context": "EN :\nChild within a Flask\nJP :\nフラスコの中の子供"
+  },
+  {
+    "key": "9037-desc",
+    "original": "스테이지 시작 시, 모든 속성의 E.G.O 자원+1.",
+    "context": "EN :\nAt the start of the battle, gain 1 E.G.O resource for every Sin Affinity.\nJP :\n戦闘開始時、全属性のE.G.O資源+1"
+  },
+  {
+    "key": "9037-simpleDesc",
+    "original": "[{\"abilityID\":9037,\"simpleDesc\":\"모든 속성 E.G.O 자원 +1\"}]",
+    "context": "EN :\n[{\"abilityID\":9037,\"simpleDesc\":\"+1 E.G.O resource for all Affinities\"}]\nJP :\n[{\"abilityID\":9037,\"simpleDesc\":\"全スキル属性のE.G.O資源+1\"}]"
+  },
+  {
+    "key": "9038-name",
+    "original": "환상 사냥",
+    "context": "EN :\nIllusory Hunt\nJP :\n幻想狩り"
+  },
+  {
+    "key": "9038-desc",
+    "original": "환상체가 등장하는 전투 방에 입장 시, 아군 전체에게 피해량 증가 2만큼을 부여.",
+    "context": "EN :\nWhen entering an Abnormality combat encounter, apply 2 Damage Up to all allies.\nJP :\n幻想体との戦闘が開始した場合、味方全体にダメージ増加2を付与."
+  },
+  {
+    "key": "9038-simpleDesc",
+    "original": "[{\"abilityID\":9038,\"simpleDesc\":\"피해량 증가 2 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":9038,\"simpleDesc\":\"Apply 2 Damage Up\"}]\nJP :\n[{\"abilityID\":9038,\"simpleDesc\":\"ダメージ量増加 2を得る\"}]"
+  },
+  {
+    "key": "9039-name",
+    "original": "귀로",
+    "context": "EN :\nHomeward\nJP :\n帰路"
+  },
+  {
+    "key": "9039-desc",
+    "original": "전투 방에 입장 시, 전투에 참여한 모든 아군이 최대 체력의 12%만큼 체력을 회복.",
+    "context": "EN :\nWhen entering a combat encounter, all participating allies heal 12% of their Max HP.\nJP :\n戦闘突入時、戦闘に参加した全味方が体力を最大値の12%回復."
+  },
+  {
+    "key": "9039-simpleDesc",
+    "original": "[{\"abilityID\":9039,\"simpleDesc\":\"최대 체력 12%만큼 체력 회복\"}]",
+    "context": "EN :\n[{\"abilityID\":9039,\"simpleDesc\":\"Heal 12% of Max HP\"}]\nJP :\n[{\"abilityID\":9039,\"simpleDesc\":\"体力を最大値の12%回復\"}]"
+  },
+  {
+    "key": "9040-name",
+    "original": "내일의 운세",
+    "context": "EN :\nTomorrow’s Fortune\nJP :\n明日の運勢"
+  },
+  {
+    "key": "9040-desc",
+    "original": "E.G.O 기프트 선택 창에 등장하는 항목이 3개에서 4개로 증가.",
+    "context": "EN :\nIncrease the number of options by 1 when choosing an E.G.O Gift.\nJP :\n選択ウィンドウに出現するE.G.Oギフトが3つから4つに増加."
+  },
+  {
+    "key": "9040-simpleDesc",
+    "original": "[{\"abilityID\":9040,\"simpleDesc\":\"기프트 선택지 증가\"}]",
+    "context": "EN :\n[{\"abilityID\":9040,\"simpleDesc\":\"More E.G.O Gift options\"}]\nJP :\n[{\"abilityID\":9040,\"simpleDesc\":\"ギフトの選択肢が増加\"}]"
+  }
+]

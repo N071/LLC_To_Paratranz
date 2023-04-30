@@ -1,0 +1,872 @@
+[
+  {
+    "key": "이상-krname",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "이상-nickName",
+    "original": "1번 수감자",
+    "context": "EN :\nSinner #1\nJP :\n囚人1番"
+  },
+  {
+    "key": "파우스트-krname",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "파우스트-nickName",
+    "original": "2번 수감자",
+    "context": "EN :\nSinner #2\nJP :\n囚人2番"
+  },
+  {
+    "key": "돈키호테-krname",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "돈키호테-nickName",
+    "original": "3번 수감자",
+    "context": "EN :\nSinner #3\nJP :\n囚人3番"
+  },
+  {
+    "key": "료슈-krname",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "료슈-nickName",
+    "original": "4번 수감자",
+    "context": "EN :\nSinner #4\nJP :\n囚人4番"
+  },
+  {
+    "key": "뫼르소-krname",
+    "original": "뫼르소",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "뫼르소-nickName",
+    "original": "5번 수감자",
+    "context": "EN :\nSinner #5\nJP :\n囚人5番"
+  },
+  {
+    "key": "홍루-krname",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "홍루-nickName",
+    "original": "6번 수감자",
+    "context": "EN :\nSinner #6\nJP :\n囚人6番"
+  },
+  {
+    "key": "히스클리프-krname",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "히스클리프-nickName",
+    "original": "7번 수감자",
+    "context": "EN :\nSinner #7\nJP :\n囚人7番"
+  },
+  {
+    "key": "이스마엘-krname",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "이스마엘-nickName",
+    "original": "8번 수감자",
+    "context": "EN :\nSinner #8\nJP :\n囚人8番"
+  },
+  {
+    "key": "로쟈-krname",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "로쟈-nickName",
+    "original": "9번 수감자",
+    "context": "EN :\nSinner #9\nJP :\n囚人9番"
+  },
+  {
+    "key": "싱클레어-krname",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "싱클레어-nickName",
+    "original": "11번 수감자",
+    "context": "EN :\nSinner #11\nJP :\n囚人11番"
+  },
+  {
+    "key": "오티스-krname",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "오티스-nickName",
+    "original": "12번 수감자",
+    "context": "EN :\nSinner #12\nJP :\n囚人12番"
+  },
+  {
+    "key": "그레고르-krname",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "그레고르-nickName",
+    "original": "13번 수감자",
+    "context": "EN :\nSinner #13\nJP :\n囚人13番"
+  },
+  {
+    "key": "아야-krname",
+    "original": "아야",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "유리-krname",
+    "original": "유리",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "홉킨스-krname",
+    "original": "홉킨스",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "G사 직원-krname",
+    "original": "G사 직원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "G사 직원-nickName",
+    "original": "G사 직원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "독백-krname",
+    "original": "독백",
+    "context": "EN :\n\nJP :\n独白"
+  },
+  {
+    "key": "베르길리우스-krname",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "베르길리우스-nickName",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "베르길리우스2-krname",
+    "original": "베르길리우스2",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "베르길리우스2-nickName",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "베르길리우스3-krname",
+    "original": "베르길리우스3",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "베르길리우스3-nickName",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "눈이붉은자-krname",
+    "original": "눈이붉은자",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "눈이붉은자-nickName",
+    "original": "눈이 붉은 자",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "카론-krname",
+    "original": "카론",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "카론-nickName",
+    "original": "운전수",
+    "context": "EN :\nBus Driver\nJP :\n運転手"
+  },
+  {
+    "key": "단테-krname",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "단테-nickName",
+    "original": "관리자",
+    "context": "EN :\nManager\nJP :\n管理人"
+  },
+  {
+    "key": "4구 불량배 1-krname",
+    "original": "4구 불량배 1",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "4구 불량배 1-nickName",
+    "original": "4구 불량배 1",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "4구 불량배 2-krname",
+    "original": "4구 불량배 2",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "4구 불량배 2-nickName",
+    "original": "4구 불량배 2",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "4구 불량배 3-krname",
+    "original": "4구 불량배 3",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "4구 불량배 3-nickName",
+    "original": "4구 불량배 3",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "석상머리-krname",
+    "original": "석상머리",
+    "context": "EN :\n\nJP :\n石像の頭"
+  },
+  {
+    "key": "석상머리-nickName",
+    "original": "로보토미 지부 생존자?",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "G사부장-krname",
+    "original": "G사부장",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "G사부장-nickName",
+    "original": "G사부장",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "화난패잔병-krname",
+    "original": "화난패잔병",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "화난패잔병-nickName",
+    "original": "화난패잔병",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "의아한패잔병-krname",
+    "original": "의아한패잔병",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "의아한패잔병-nickName",
+    "original": "의아한패잔병",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "쓰러진아야-krname",
+    "original": "쓰러진아야",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "쓰러진아야-nickName",
+    "original": "8급 해결사",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "백설공주그림자-krname",
+    "original": "백설공주그림자",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "카지노경호원대장-krname",
+    "original": "카지노경호원대장",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "카지노경호원대장-nickName",
+    "original": "경호원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "각잡힌카지노경호원-krname",
+    "original": "각잡힌카지노경호원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "각잡힌카지노경호원-nickName",
+    "original": "경호원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "세보이고싶었던콩콩파조직원-krname",
+    "original": "세보이고싶었던콩콩파조직원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "세보이고싶었던콩콩파조직원-nickName",
+    "original": "콩콩이파",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "콩을싫어하는콩콩파조직원-krname",
+    "original": "콩을싫어하는콩콩파조직원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "콩을싫어하는콩콩파조직원-nickName",
+    "original": "콩콩이파",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "콩콩이파보스-krname",
+    "original": "콩콩이파보스",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "콩콩이파보스-nickName",
+    "original": "콩콩이파",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "에피-krname",
+    "original": "에피",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "위협적인철공회조직원-krname",
+    "original": "위협적인철공회조직원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "위협적인철공회조직원-nickName",
+    "original": "철공회",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "몸푸는철공회조직원-krname",
+    "original": "몸푸는철공회조직원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "몸푸는철공회조직원-nickName",
+    "original": "철공회",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "철공회보스-krname",
+    "original": "철공회보스",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "철공회보스-nickName",
+    "original": "철공회",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "흥겨운마리아치조직원-krname",
+    "original": "흥겨운마리아치조직원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "흥겨운마리아치조직원-nickName",
+    "original": "마리아치",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "경쾌한마리아치조직원-krname",
+    "original": "경쾌한마리아치조직원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "경쾌한마리아치조직원-nickName",
+    "original": "마리아치",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "아이드-krname",
+    "original": "아이드",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "아이드-nickName",
+    "original": "마리아치",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "너맞아볼래매우-krname",
+    "original": "너맞아볼래매우",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "너맞아볼래매우-nickName",
+    "original": "당신은 강해졌나요",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "노예-krname",
+    "original": "노예",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "노예-nickName",
+    "original": "볼모가 된 빚쟁이",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "소드-krname",
+    "original": "소드",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "소냐-krname",
+    "original": "소냐",
+    "context": "EN :\n\nJP :\nソーニャ"
+  },
+  {
+    "key": "전당포주인-krname",
+    "original": "전당포주인",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "전당포주인-nickName",
+    "original": "10구",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "촌스러운말투의콩콩파조직원-krname",
+    "original": "촌스러운말투의콩콩파조직원",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "촌스러운말투의콩콩파조직원-nickName",
+    "original": "콩콩파",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "크로머-krname",
+    "original": "크로머",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "크로머-nickName",
+    "original": "못과 망치",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "귀도-krname",
+    "original": "귀도",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "귀도-nickName",
+    "original": "못과 망치",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "N사심문관1-krname",
+    "original": "N사심문관1",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "N사심문관1-nickName",
+    "original": "못과 망치",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "N사심문관2-krname",
+    "original": "N사심문관2",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "N사심문관2-nickName",
+    "original": "못과 망치",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "N사심문관3-krname",
+    "original": "N사심문관3",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "N사심문관3-nickName",
+    "original": "못과 망치",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "지크프리트-krname",
+    "original": "지크프리트",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "지크프리트-nickName",
+    "original": "1급 해결사",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "검문소경비-krname",
+    "original": "검문소경비",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "검문소경비-nickName",
+    "original": "K사 검문소",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "침식직원1-krname",
+    "original": "침식직원1",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "침식직원1-nickName",
+    "original": "못과 망치",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "침식직원2-krname",
+    "original": "침식직원2",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "침식직원2-nickName",
+    "original": "못과 망치",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "제복소드-krname",
+    "original": "제복소드",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "제복에피-krname",
+    "original": "제복에피",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "학생크로머-krname",
+    "original": "학생크로머",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "학생크로머-nickName",
+    "original": "학급생",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "피묻은크로머-krname",
+    "original": "피묻은크로머",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "데미안-krname",
+    "original": "데미안",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "학생데미안-krname",
+    "original": "학생데미안",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "늑대-krname",
+    "original": "늑대",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "늑대-nickName",
+    "original": "늑대",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "표범-krname",
+    "original": "표범",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "표범-nickName",
+    "original": "표범",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "사자-krname",
+    "original": "사자",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "사자-nickName",
+    "original": "사자",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "프롤로그단테-krname",
+    "original": "프롤로그단테",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "프롤로그단테-nickName",
+    "original": "프롤로그단테",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "프롤로그단테2-krname",
+    "original": "프롤로그단테2",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "프롤로그단테2-nickName",
+    "original": "프롤로그단테",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "프롤로그파우스트-krname",
+    "original": "프롤로그파우스트",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "프롤로그파우스트-nickName",
+    "original": "프롤로그파우스트",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "???-krname",
+    "original": "???",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "???-nickName",
+    "original": "???",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "헤르만-krname",
+    "original": "헤르만",
+    "context": "EN :\n\nJP :\nヘルマン"
+  },
+  {
+    "key": "헤르만-nickName",
+    "original": "헤르만",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "피묻은귀도-krname",
+    "original": "피묻은귀도",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "다친소드-krname",
+    "original": "다친소드",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "변신크로머-krname",
+    "original": "변신크로머",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "애프터팀상사-krname",
+    "original": "애프터팀상사",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "애프터팀상사-nickName",
+    "original": "LCCA",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "구보-krname",
+    "original": "구보",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "가환-krname",
+    "original": "가환",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "더미-krname",
+    "original": "더미",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "더미2-krname",
+    "original": "더미2",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "크로머목소리-krname",
+    "original": "크로머목소리",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "그레고르요리사-krname",
+    "original": "그레고르요리사",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "그레고르요리사-nickName",
+    "original": "13번 수감자",
+    "context": "EN :\nSinner #13\nJP :\n囚人13番"
+  },
+  {
+    "key": "뫼르소요리사-krname",
+    "original": "뫼르소요리사",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "뫼르소요리사-nickName",
+    "original": "5번 수감자",
+    "context": "EN :\nSinner #5\nJP :\n囚人5番"
+  },
+  {
+    "key": "오티스요리사-krname",
+    "original": "오티스요리사",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "오티스요리사-nickName",
+    "original": "12번 수감자",
+    "context": "EN :\nSinner #12\nJP :\n囚人12番"
+  },
+  {
+    "key": "료슈요리사-krname",
+    "original": "료슈요리사",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "료슈요리사-nickName",
+    "original": "4번 수감자",
+    "context": "EN :\nSinner #4\nJP :\n囚人4番"
+  },
+  {
+    "key": "삼조-krname",
+    "original": "삼조",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "보살치킨-krname",
+    "original": "보살치킨",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "은봉치킨-krname",
+    "original": "은봉치킨",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "히스클리프요리사-krname",
+    "original": "히스클리프요리사",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "히스클리프요리사-nickName",
+    "original": "7번 수감자",
+    "context": "EN :\nSinner #7\nJP :\n囚人7番"
+  },
+  {
+    "key": "뒤틀린닭1-krname",
+    "original": "뒤틀린닭1",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린닭1-nickName",
+    "original": "뒤틀린 것",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린닭2-krname",
+    "original": "뒤틀린닭2",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린닭2-nickName",
+    "original": "뒤틀린 것",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린손님1-krname",
+    "original": "뒤틀린손님1",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린손님1-nickName",
+    "original": "뒤틀린 것",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린손님2-krname",
+    "original": "뒤틀린손님2",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린손님2-nickName",
+    "original": "뒤틀린 것",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린주인-krname",
+    "original": "뒤틀린주인",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린주인-nickName",
+    "original": "뒤틀린 것",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "그렉료슈-krname",
+    "original": "그렉료슈",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "그렉료슈-nickName",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린주인카운트1-krname",
+    "original": "뒤틀린주인카운트1",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린주인카운트1-nickName",
+    "original": "뒤틀린 것",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린주인카운트2-krname",
+    "original": "뒤틀린주인카운트2",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린주인카운트2-nickName",
+    "original": "뒤틀린 것",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린주인카운트3-krname",
+    "original": "뒤틀린주인카운트3",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "뒤틀린주인카운트3-nickName",
+    "original": "뒤틀린 것",
+    "context": "EN :\n\nJP :\n"
+  }
+]

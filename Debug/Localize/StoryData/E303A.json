@@ -1,0 +1,443 @@
+[
+  {
+    "key": "0-place",
+    "original": "은봉이네 호프집 주방",
+    "context": "EN :\nEunbong’s Bar & Fryers Kitchen\nJP :\nウンボンのチキン酒場 厨房"
+  },
+  {
+    "key": "0-model",
+    "original": "뒤틀린주인카운트1",
+    "translation": "扭曲的老板的计数1",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing_Count1"
+  },
+  {
+    "key": "0-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "0-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "0-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "1-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "1-content",
+    "original": "…이 숫자는 뭐야?",
+    "context": "EN :\n…What’re these numbers?\nJP :\n…この数字はなんだ？"
+  },
+  {
+    "key": "2-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "2-content",
+    "original": "다섯의 기회 중 둘을 소비하였다… 이런 뜻이 아닐까 하오만...",
+    "context": "EN :\nIt may be an indicator… alerting us of squandering two out of five opportunities…\nJP :\n五つの機会の内、二つを消費せり…かかる意味にやあらんが…。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<이렇게 된 거, 각각 팀에서 요리를 다시 준비해보는 건 어때?>",
+    "context": "EN :\n<I guess each team can prepare another dish then. How’s that sound?>\nJP :\n<こうなったんだし、それぞれのチームで料理をもう一回準備するのはどう？>"
+  },
+  {
+    "key": "4-content",
+    "original": "그렇게.",
+    "context": "EN :\nAnd just like that…\nJP :\nそうして、"
+  },
+  {
+    "key": "5-content",
+    "original": "림버스 컴퍼니의 요리 대전이 시작되게 된 것이다…",
+    "context": "EN :\nThus began Limbus Company’s petite cooking competition…\nJP :\nリンバス・カンパニーの料理大戦が始まったのであった…。"
+  },
+  {
+    "key": "6-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "6-content",
+    "original": "자, 자… 역할군을 한 명씩 정해보지. 어차피 다 실패할 거지만…",
+    "context": "EN :\nRight, now… Let’s assign each of us a role. Not that it’ll make a difference, but…\nJP :\nさ、さあ…役割と一人ずつ決めようか。どうせまた失敗するだろうけど…。"
+  },
+  {
+    "key": "7-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "7-content",
+    "original": "홍루 씨는… 혹시 부엌에 들어가 본 적은 있나?",
+    "context": "EN :\nSay, Hong Lu… Have you ever seen a kitchen before?\nJP :\nホンルさんは…もしかして厨房に入ったことはあるか？"
+  },
+  {
+    "key": "8-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "8-content",
+    "original": "엣헴…!",
+    "context": "EN :\nAhem…!\nJP :\nゥエッヘン…！"
+  },
+  {
+    "key": "9-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "9-content",
+    "original": "음, 제 방에는 부엌이라는 게 따로 없었어요. 어렸을 땐 간식 얻어먹으려고 집 2층에 있던 대식당에 몰래 간 적은 있긴 했죠.",
+    "context": "EN :\nWell, my room didn’t have any kitchenettes. Though, I did sneak into the grand dining hall on the second floor a few times for snacks when I was a kid.\nJP :\nうーん、僕の部屋には厨房というものは無かったですね。小さい頃は、おやつを貰いに家の二階にあった大食堂にこっそり忍び込んだことはありました。"
+  },
+  {
+    "key": "10-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-content",
+    "original": "에에엣헴!!",
+    "context": "EN :\nAaaaHEM!!\nJP :\nウゥエッヘェエエン！！！"
+  },
+  {
+    "key": "11-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11-content",
+    "original": "그 다음, 이상 씨…",
+    "context": "EN :\nNext up, we have Yi Sang…\nJP :\nその次、イサンさん…。"
+  },
+  {
+    "key": "12-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "12-content",
+    "original": "며칠 전에 다 같이 유통기한 지난 우유 먹고 혼자만 얼굴 멀쩡했던 놈 아니야?",
+    "context": "EN :\nWasn’t he the only one who came out fine when we drank that spoilt milk the other day?\nJP :\n数日前にみんなで消費期限の過ぎた牛乳を飲んで、一人だけ平気そうな顔してなかったか？"
+  },
+  {
+    "key": "13-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "13-content",
+    "original": "으으으으음… 폐까지 스며드는 센슈얼한 냄새였소.",
+    "context": "EN :\nMmmmmh… The smell was a sensual one, permeating my pulmonary depths.\nJP :\nうぅうううむ…肺まで染み入るセンシュオルな匂いなりけり。"
+  },
+  {
+    "key": "14-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "14-content",
+    "original": "크으으으으흠!!!",
+    "context": "EN :\nAHKEHMMMMM!!!\nJP :\nクッッフウゥウゥン！！！！"
+  },
+  {
+    "key": "15-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "15-content",
+    "original": "돈키호테, 아까부터 목 상태가 안 좋은 거야?",
+    "context": "EN :\nDon Quixote, is something wrong with your throat?\nJP :\nドンキホーテ、さっきから喉の調子が悪いのか？"
+  },
+  {
+    "key": "16-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "16-content",
+    "original": "내게 맡겨보는 것은 어떻소?",
+    "context": "EN :\nWhat say you let me take the mantle?\nJP :\n私に任せるのはどうであるか？"
+  },
+  {
+    "key": "17-content",
+    "original": "돈키호테가 왜인지 수줍은 얼굴로 뒷짐을 지고 있었다.",
+    "context": "EN :\nShe said this with a bashful expression, her hands behind her back.\nJP :\nドンキホーテがなんだか恥ずかしそうな顔で後ろ手を組んでいた。"
+  },
+  {
+    "key": "18-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "18-content",
+    "original": "돈키호테… 이거 꼬맹이들 장난하는 시간 아니야.",
+    "context": "EN :\nDon Quixote… This isn’t time for kids’ stuff.\nJP :\nドンキホーテ…これはちびっ子のお遊戯の時間じゃないんだ。"
+  },
+  {
+    "key": "19-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "19-content",
+    "original": "꼬맹이 아니오! 그리고 저쪽 팀에서는 싱클레어 군한테도 요리 시켜주는데, 왜 여기는 안 시켜주는 것이오!",
+    "context": "EN :\nI am no child! And why am I denied the chef’s place when Sinclair is allowed to do such on the other team!\nJP :\nちびっ子ではありませぬ！それにあっちのチームじゃシンクレア君にも料理させるのに、どうしてこっちではさせてくれぬのであるか！"
+  },
+  {
+    "key": "20-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "20-content",
+    "original": "음?",
+    "context": "EN :\nHm?\nJP :\nん？"
+  },
+  {
+    "key": "21-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "21-content",
+    "original": "닭이 너무 들쑥날쑥하게 잘렸다. 반듯하게 잘라야지. 허리는 더 펴고.",
+    "context": "EN :\nThe chicken is chopped too unevenly. You should cut them better. Keep your back straight.\nJP :\n鶏があまりにも不揃いに切られた。綺麗に切らないと。腰はもっと伸ばせ。"
+  },
+  {
+    "key": "22-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "22-content",
+    "original": "네… 네…!",
+    "context": "EN :\nRight… Okay…!\nJP :\nは…はい…！"
+  },
+  {
+    "key": "23-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "23-content",
+    "original": "꼬맹이~ 이거 너무 삼삼한 거 아니야? 난 좀 더 달짝지근하게 했으면 좋겠어.",
+    "context": "EN :\nKiddo~ Isn’t this a bit bland? I think it could use a teensy bit more sweetness.\nJP :\nおちびちゃ～ん、これ薄味すぎない？私はもうちょっと甘くしてほしいんだけど。"
+  },
+  {
+    "key": "24-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "24-content",
+    "original": "다, 달게요? 설탕이… 어디 있더라…",
+    "context": "EN :\nS-Sweetness? Uhh, let’s see… Where’s the sugar…\nJP :\nあ、甘くですか？砂糖が…どこにあったっけ…。"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-content",
+    "original": "파우스트가 보았을 땐, 불 세기를 더 강하게 해야 한다는 판단이 드는군요.",
+    "context": "EN :\nBased on what Faust is seeing, the heat needs to be pitched up one notch.\nJP :\nファウストからすると、火の強さをもっと強くすべきだという判断をしたいですね。"
+  },
+  {
+    "key": "26-model",
+    "original": "료슈요리사",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "26-content",
+    "original": "저건 안 돼. 칼 쓰는 솜씨부터가 글러 먹었어.",
+    "context": "EN :\nThat one’s hopeless. The knife grip is all wrong.\nJP :\nあれは駄目だ、包丁の使い方からが間違っている。"
+  },
+  {
+    "key": "27-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "27-content",
+    "original": "다들, 그러지 말고 직접 거들지 그래요?",
+    "context": "EN :\nWhy don’t you all stop being backseat chefs and actually help?\nJP :\nみんな、そういう風にじゃなくて直接手伝ったらどうですか？"
+  },
+  {
+    "key": "28-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "28-content",
+    "original": "으음… 확실히 싱클레어 정도면 믿을 만할 것 같네… 도련님 입맛이니 적당히 까다로울 거고…",
+    "context": "EN :\nHmm… I mean, you could definitely trust Sinclair to take on that kind of stuff… His palate should be a good enough judge, too, growing up in a wealthy family ‘n all…\nJP :\nうーん…確かにシンクレアくらいなら信用できそうだな…。坊ちゃんだから、ある程度は味にうるさいだろうし…。"
+  },
+  {
+    "key": "29-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "29-content",
+    "original": "잠깐, 왜 나한텐 아무도 요리해보란 말을 안 하냐? 잘 봐, 내가 계란 정도는...",
+    "context": "EN :\nNow wait a tick, why isn’t anybody giving me any suggestions? Watch, I can cook an egg—\nJP :\n待てよ、どうしてオレには誰も料理しろって言わないんだ？よく見ろ、オレだって卵くらいは···。"
+  },
+  {
+    "key": "30-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "30-content",
+    "original": "젠장! 프라이팬이 왜 달궈져 있는 거야? 뜨거워서 뒤질 뻔했네!",
+    "context": "EN :\nBloody hell! Why is the damn fry pan heated? It almost grilled me dead!\nJP :\nクソッ！なんでフライパンが温まってんだ？熱くてくたばるとこだったじゃねぇか！"
+  },
+  {
+    "key": "31-content",
+    "original": "히스클리프가 던진 프라이팬이 벽에 부딪혀 여러 조각으로 깨져 나가는 모습을 다 같이 감상했다.",
+    "context": "EN :\nEveryone watched as the pan Heathcliff threw hit a wall and broke into pieces.\nJP :\nヒースクリフが投げたフライパンが壁にぶつかり、いくつかの塊に割れていく様子を皆で鑑賞した。"
+  },
+  {
+    "key": "32-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "32-content",
+    "original": "…이 식당, 최소 140여 일은 청소하지 않은 것 같은 곰팡이 냄새와 잡내가 난다.",
+    "context": "EN :\n…This restaurant reeks of mold and other uncleaned stains. It is likely that the kitchen has been left unattended for at least 140 days.\nJP :\n…このレストラン、少なくとも140日は掃除していないようなカビ臭さと、全体的な悪臭がする。"
+  },
+  {
+    "key": "33-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "33-content",
+    "original": "차라리 밖에서 요리를 하는 게 위생상 더 안전할 수도 있다.",
+    "context": "EN :\nCooking outside may be more sanitary to the current situation.\nJP :\nむしろ外で料理をした方が、衛生上より安全かもしれない。"
+  },
+  {
+    "key": "34-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "34-content",
+    "original": "나도 시켜주시오, 요리!!!",
+    "context": "EN :\nI prithee, give me permission to cook!!!\nJP :\n私にもさせてくだされ、料理！！！"
+  },
+  {
+    "key": "35-model",
+    "original": "뒤틀린닭1",
+    "translation": "扭曲的鸡1",
+    "context": "EN :\n扭曲的存在\nJP :\nChicken1"
+  },
+  {
+    "key": "35-teller",
+    "original": "생닭",
+    "context": "EN :\nRaw Chicken\nJP :\n生鶏"
+  },
+  {
+    "key": "35-title",
+    "original": "뒤틀린 것",
+    "context": "EN :\nDistorted Thing\nJP :\nねじれたもの"
+  },
+  {
+    "key": "35-content",
+    "original": "꼬고고고곡!!!!",
+    "context": "EN :\nBwakbwakbawkbawkbawk!!!!\nJP :\nコゴゴゴゴッ！！！！"
+  },
+  {
+    "key": "36-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "36-content",
+    "original": "<감히 주방을 어지럽히다니! 가만두지 않겠닭!>",
+    "context": "EN :\n<“How dare you mess up our kitchen! You’ll reckon with our wrath for your fowl deed!”>\nJP :\n<よくも厨房を荒らすなど！許さないコケッ！>"
+  },
+  {
+    "key": "37-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "37-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "38-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "38-content",
+    "original": "<라고 말하는 것 같아서…>",
+    "context": "EN :\n<It just felt like that’s what it was saying…>\nJP :\n<って言ってる気がするから…。>"
+  },
+  {
+    "key": "39-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "39-content",
+    "original": "…자, 힘내자, 그레고르.",
+    "context": "EN :\n…C’mon, keep it together, Gregor.\nJP :\n…よぉし、がんばろう、ぐれごぉる。"
+  }
+]

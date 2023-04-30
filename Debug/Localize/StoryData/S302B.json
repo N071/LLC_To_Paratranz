@@ -1,0 +1,297 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-content",
+    "original": "싱클레어의 소동이 해결되고 얼마 지나지 않은 뒤…",
+    "context": "EN :\nShortly after the situation with Sinclair was dealt with…\nJP :\nシンクレアの騒ぎが解決して間もなく…。"
+  },
+  {
+    "key": "1-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "1-content",
+    "original": "그나저나, 아까는 11구 뒷골목으로 간다는 걸 K사라고 잘못 말한 거지?",
+    "context": "EN :\nBy the way, you meant the Backstreets of District 11 when you said K Corp’s Nest, yeah?\nJP :\nところで、さっきは11区の裏路地に行くってのをK社って言い間違えたんだろ？"
+  },
+  {
+    "key": "2-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "2-content",
+    "original": "딴지 걸기엔 다들 들떠 보이는 분위기라 타이밍을 놓쳤는데…",
+    "context": "EN :\nI missed pointing it out earlier since everyone got a bit excited there…\nJP :\n茶々入れようにも、みんな浮かれててタイミングを逃したんだけど…。"
+  },
+  {
+    "key": "3-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "3-content",
+    "original": "난 어지간해서는 잘못 말하는 법이 없다.",
+    "context": "EN :\nI rarely misspeak, if ever.\nJP :\n俺はよほどのことじゃなきゃ言い間違えることはない。"
+  },
+  {
+    "key": "4-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "4-content",
+    "original": "맞게 들었어, 그레고르. 우리는 K사 둥지로 간다.",
+    "context": "EN :\nI know what I said, Gregor. K Corp’s Nest is where we’re going.\nJP :\n聞き間違いじゃない、グレゴール。俺たちはK社の巣へ行く。"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "어, 근데 둥지로 들어가려면…",
+    "context": "EN :\nHuh, alright, but if we’re entering a Nest…\nJP :\nあ、でも巣に入るには…。"
+  },
+  {
+    "key": "6-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "6-content",
+    "original": "그래. 심사가 필요하지.",
+    "context": "EN :\nIndeed, there’s the immigration process.\nJP :\nああ、審査が必要だ。"
+  },
+  {
+    "key": "7-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "7-content",
+    "original": "난 K사 비자 없는데. 나 빼고 다들 있는 거 아니지?",
+    "context": "EN :\nI don’t have a K Corp. visa. Y’ain’t about to tell me everyone else got one, right?\nJP :\n私K社のビザないんだけど。私以外全員持ってるとかじゃないよね？"
+  },
+  {
+    "key": "8-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "8-content",
+    "original": "뭐냐. 왜 날 보냐?",
+    "context": "EN :\nWhat. Why’re you lookin’ at me?\nJP :\nなんだよ。何でオレのこと見んだよ？"
+  },
+  {
+    "key": "9-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "9-content",
+    "original": "방법은 간단하다. 닥. 돌.",
+    "context": "EN :\nThe solution is simple: C. I.\nJP :\n方法は簡単だ。だま・とつ。"
+  },
+  {
+    "key": "10-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "10-content",
+    "original": "그리고 뚫릴 때까지 죽. 살.을 반복하면 돼.",
+    "context": "EN :\nAnd keep on D. E. R. ‘til we’ve breached the defense.\nJP :\nそして路が空くまでしん・いきを繰り返せば良い。"
+  },
+  {
+    "key": "11-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "11-content",
+    "original": "즉, 닥.돌.죽.살. 후후…",
+    "context": "EN :\nIn short, CIDER. Huhu…\nJP :\nつまり、だま・とつ・しん・いき。ふふ…。"
+  },
+  {
+    "key": "12-content",
+    "original": "이젠 료슈의 말에 그게 뭔데? 같은 질문을 말하는 수감자는 거의 없었다.",
+    "context": "EN :\nWhatever that eccentric abbreviation means for Ryōshū, the Sinners have learned to stop questioning it.\nJP :\nもう良秀の言葉になにそれ？なんて質問をする囚人はほぼいなかった。"
+  },
+  {
+    "key": "13-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "13-content",
+    "original": "림버스 컴퍼니 정도의 회사라면, 그냥 통과될지도 모를 텐데요.",
+    "context": "EN :\nA company as big as ours might get a free pass.\nJP :\nリンバス・カンパニーくらいの会社になると、\nフリーパスになることはありそうですけど。"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-content",
+    "original": "그리고 료슈 씨가 말한 방식으로는 엄청난 시간이 소모될 거예요. 날개가 관리하는 둥지를 대체 뭐라고 생각하는 거예요?",
+    "context": "EN :\nNot to mention, breaking through using the method dear Ryōshū suggested will take ages. How badly must you underestimate a Nest actively governed by a Wing to say that?\nJP :\nそして良秀さんの言う方法では物凄い時間が消耗されますよ。\n翼が管理する巣を一体何だと思ってるんですか？"
+  },
+  {
+    "key": "15-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "15-content",
+    "original": "<아하, 닥.돌.죽.살 중에 내가 감당해야 할 고통은 아무도 생각 안 해주는 거야?>",
+    "context": "EN :\n<Oh, I see, no one’s gonna take into account how much I’ll suffer for that CIDER, huh?>\nJP :\n<おい、だま・とつ・しん・いきの最中に\n私が耐えるべき苦痛のことは誰も心配してくれないのか？>"
+  },
+  {
+    "key": "16-content",
+    "original": "슬프게도, 그 말에 대답해주는 수감자들은 아무도 없었다.",
+    "context": "EN :\nSadly, none of our Sinners bothered to respond to me in any capacity.\nJP :\n悲しいかな、その言葉に返事してくれる囚人は誰もいなかった。"
+  },
+  {
+    "key": "17-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "17-content",
+    "original": "이스마엘이 말한 대로, 우리는 비자를 면제받아 통과한다.",
+    "context": "EN :\nAs Ishmael said, we’ll pass the immigration without needing a visa.\nJP :\nイシュメールの言う通り、俺たちはビザ免除で通る。"
+  },
+  {
+    "key": "18-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "18-content",
+    "original": "림버스 컴퍼니의 뒤엔 꽤 다양한 분야의 주주들이 계시거든.",
+    "context": "EN :\nLimbus Company has backing from the shareholders of a wide array of fields.\nJP :\nリンバス・カンパニーの後ろには、\n様々な分野の株主がかなりいらっしゃるからな。"
+  },
+  {
+    "key": "19-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "19-content",
+    "original": "아, 혹시 H사의 주주님도 아시나요? ",
+    "context": "EN :\nOh, do you happen to know the shareholder of H Corp, then?\nJP :\nあぁ、もしかしてH社の株主さんもご存じですか？"
+  },
+  {
+    "key": "20-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "20-content",
+    "original": "제 동생이 어렸을 때 붉은색 여권이 아니면 안 된다고 고집을 부려서 직접 저희 집에 방문해주신 적이 있으시거든요.",
+    "context": "EN :\nThey once personally visited our home because my younger sibling insisted upon having a red passport as a kid.\nJP :\n僕の弟が幼い頃、赤色のパスポートじゃないと嫌だって駄々を捏ねて\n僕らの家まで直接訪ねてきたことがあるんですよ。"
+  },
+  {
+    "key": "21-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "21-content",
+    "original": "글쎄, 나 같은 일개 길잡이는 그런 것까지 아는 위치가 아니라서.",
+    "context": "EN :\nCouldn’t say, I’m merely a humble guide who wouldn’t be in the position to know such a thing.\nJP :\nさぁ、俺みたいな一介の案内人はそんなことまで知る立場にないからな。"
+  },
+  {
+    "key": "22-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "22-content",
+    "original": "그렇게 대답할 가치가 있어 보이는 질문도 아니고.",
+    "context": "EN :\nOtherwise, the question doesn’t seem like one that’s really worth answering.\nJP :\nそこまで答える価値がありそうな質問でもないし。"
+  },
+  {
+    "key": "23-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "23-content",
+    "original": "너무하네요…",
+    "context": "EN :\nHow harsh…\nJP :\n酷いです…。"
+  },
+  {
+    "key": "24-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "24-content",
+    "original": "그보다 중요한 건 검문소까지 가는 길목이다.",
+    "context": "EN :\nThat leaves the route to the checkpoint as our concern.\nJP :\nそれより大事なのは検問所までの道のりだ。"
+  },
+  {
+    "key": "25-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "25-content",
+    "original": "검문소의 심사가 까다롭다는 건, 통행권을 노리는 자들이 지천으로 널려 있다는 뜻이기도 하지.",
+    "context": "EN :\nThorough inspection means that there are plenty of people looking for an easy way in, including those who’d take the pass by force.\nJP :\n検問所の審査が厳しいというのは、\n通行権を狙う輩がそこらに溢れかえっているという意味でもある。"
+  },
+  {
+    "key": "26-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "26-content",
+    "original": "…버스 근처에 불청객의 소리가 많다.",
+    "context": "EN :\n…I hear several interlopers surrounding the bus.\nJP :\n…バス付近に招かれざる客の声が多い。"
+  },
+  {
+    "key": "27-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "27-content",
+    "original": "<뭐… 이제는 일과지.>",
+    "context": "EN :\n<Welp… Have bus—will battle.>\nJP :\n<まぁ…もはや日課か。>"
+  }
+]

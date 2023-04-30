@@ -1,0 +1,192 @@
+[
+  {
+    "key": "90001-name",
+    "original": "벌레 육체",
+    "context": "EN :\nVerminous Body\nJP :\n虫の肉体"
+  },
+  {
+    "key": "90001-desc",
+    "original": "턴 종료 시 체력 5 회복",
+    "context": "EN :\nAt the end of the turn, heal 5 HP.\nJP :\nターン終了時に体力を5回復"
+  },
+  {
+    "key": "90002-name",
+    "original": "영양분 보충",
+    "context": "EN :\nNutritive Reinforcements\nJP :\n養分補充"
+  },
+  {
+    "key": "90002-desc",
+    "original": "적 처치 시 체력 20 회복, 다음 턴에 수비 위력 증가 5를 얻음",
+    "context": "EN :\nAfter defeating an enemy, heal 20 HP, and gain 5 Defense Power Up next turn.\nJP :\n敵を倒した時、体力を20回復。次のターンに守備威力増加 5を得る"
+  },
+  {
+    "key": "90003-name",
+    "original": "날카로운 칼",
+    "context": "EN :\nSharp Edge\nJP :\n鋭い刃"
+  },
+  {
+    "key": "90003-desc",
+    "original": "공격 적중 시 출혈 1-2 부여\\n턴 시작 시 표적이 있는 캐릭터가 있으면, 해당 캐릭터를 공격함",
+    "context": "EN :\nOn hit, inflict 1-2 Bleed.\nIf a unit is Marked, attack them first.\nJP :\n攻撃的中時、出血 を1-2付与\nターン開始時、標的 を持つキャラクターを攻撃する"
+  },
+  {
+    "key": "90004-name",
+    "original": "사기 하락",
+    "context": "EN :\nWeak Morale\nJP :\n士気下落"
+  },
+  {
+    "key": "90004-desc",
+    "original": "아군이 사망할 때마다 영구적으로 취약 1을 얻음",
+    "context": "EN :\nWhenever an ally dies, permanently gain 1 Fragile.\nJP :\n味方が死亡する度、永続的に脆弱 1を得る"
+  },
+  {
+    "key": "90005-name",
+    "original": "응징",
+    "context": "EN :\nRetribution\nJP :\n成敗"
+  },
+  {
+    "key": "90005-desc",
+    "original": "체력이 50% 이하가 되면 다음 턴에 공격 위력 증가 5를 얻음",
+    "context": "EN :\nWhen HP drops below 50%, gain 5 Attack Power Up next turn.\nJP :\n体力が50%以下になると、次のターンに攻撃威力増加 5を得る"
+  },
+  {
+    "key": "90006-name",
+    "original": "정신 파동",
+    "context": "EN :\nMind Wave\nJP :\n精神波動"
+  },
+  {
+    "key": "90006-desc",
+    "original": "공격 적중 시 대상의 정신력 -10",
+    "context": "EN :\nOn hit, target loses 10 SP.\nJP :\n攻撃的中時、対象の精神力-10"
+  },
+  {
+    "key": "9000101-name",
+    "original": "부상당한 강화 육체",
+    "context": "EN :\nInjured Augmentation\nJP :\n負傷した強化肉体"
+  },
+  {
+    "key": "9000101-desc",
+    "original": "체력이 50% 미만일 때 턴 시작 시 체력 1 회복",
+    "context": "EN :\nAt the start of the turn, if at less than 50% HP, heal 1 HP.\nJP :\n体力が50%未満のとき、ターン開始時に体力を1回復"
+  },
+  {
+    "key": "9000102-name",
+    "original": "강화 육체",
+    "context": "EN :\nAugmented Body\nJP :\n強化肉体"
+  },
+  {
+    "key": "9000102-desc",
+    "original": "체력이 50% 미만일 때 턴 시작 시 체력 2 회복",
+    "context": "EN :\nAt the start of the turn, if at less than 50% HP, heal 2 HP.\nJP :\n体力が50%未満のとき、ターン開始時に体力を2回復"
+  },
+  {
+    "key": "9000103-name",
+    "original": "침식된 강화 육체",
+    "context": "EN :\nCorroded Augmentation\nJP :\n侵食された強化肉体"
+  },
+  {
+    "key": "9000103-desc",
+    "original": "체력이 50% 미만일 때 턴 시작 시 체력 4 회복",
+    "context": "EN :\nAt the start of the turn, if at less than 50% HP, heal 4 HP.\nJP :\n体力が50%未満のとき、ターン開始時に体力を4回復"
+  },
+  {
+    "key": "9100301-name",
+    "original": "큰형님",
+    "context": "EN :\nBig Boss\nJP :\n兄貴分"
+  },
+  {
+    "key": "9100301-desc",
+    "original": "이 캐릭터가 사망하면 모든 아군 정신력 -45",
+    "context": "EN :\nWhen this unit is defeated, all its allies lose 45 SP.\nJP :\nこのキャラクターが死亡すると全味方の精神力-45"
+  },
+  {
+    "key": "9100302-name",
+    "original": "아그들아!",
+    "context": "EN :\nNot Me Boys!\nJP :\nちびども！"
+  },
+  {
+    "key": "9100302-desc",
+    "original": "아군이 사망할 때마다 이 캐릭터의 정신력 -15",
+    "context": "EN :\nThis unit loses 15 SP whenever an ally is defeated.\nJP :\n味方が死亡するたびに、このキャラクターの精神力-15"
+  },
+  {
+    "key": "9100401-name",
+    "original": "파티 타임",
+    "context": "EN :\nHora de Fiesta\nJP :\nパーティータイム"
+  },
+  {
+    "key": "9100401-desc",
+    "original": "매 턴마다 자신 포함 모든 아군 정신력 10 회복\n자신의 정신력 20이상이면 턴 시작 시 공격 위력 증가, 수비 위력 증가 1 얻음",
+    "context": "EN :\nAt the start of the turn, all allies heal 10 SP.\nAt 20+ SP, gain 1 Attack Power Up and Defense Power Up.\nJP :\n毎ターン、自分を含む全味方の精神力を10回復\n自分の精神力が20以上ならターン開始時に攻撃威力増加 1、守備威力増加 1を得る"
+  },
+  {
+    "key": "9100402-name",
+    "original": "파티 종료",
+    "context": "EN :\nSe Acabó la Fiesta\nJP :\nパーティーお開き"
+  },
+  {
+    "key": "9100402-desc",
+    "original": "이 캐릭터가 사망하면 모든 아군 정신력 -45",
+    "context": "EN :\nWhen this unit is defeated, all its allies lose 45 SP.\nJP :\nこのキャラクターが死亡すると全味方の精神力-45"
+  },
+  {
+    "key": "9002801-name",
+    "original": "HP탄",
+    "context": "EN :\nHP Bullets\nJP :\nHP弾"
+  },
+  {
+    "key": "9002801-desc",
+    "original": "턴 시작 시 체력 15 회복\n체력이 50%미만이면 체력 15 추가 회복",
+    "context": "EN :\nAt the start of the turn, heal 15 HP.\nAt less than 50% HP, heal 15 additional HP.\nJP :\nターン開始時に体力を15回復\n体力が50%未満なら、体力15を追加で回復"
+  },
+  {
+    "key": "9003201-name",
+    "original": "고귀한 희생있도다",
+    "context": "EN :\nNoble be Thy Sacrifice\nJP :\n高貴な犠牲であった"
+  },
+  {
+    "key": "9003201-desc",
+    "original": "아군이 사망하면 다음 턴 시작 시 공격 위력 증가 1을 얻는다.",
+    "context": "EN :\nWhen an ally is defeated, gain 1 Attack Power Up next turn.\nJP :\n味方が死亡すると、次のターン開始時に攻撃威力増加 1を得る。"
+  },
+  {
+    "key": "9003801-name",
+    "original": "처단의 기쁨",
+    "context": "EN :\nJoy of Execution\nJP :\n処断の歓び"
+  },
+  {
+    "key": "9003801-desc",
+    "original": "적을 처치하면 다음 턴 시작 시 피해량 증가 2를 얻는다.",
+    "context": "EN :\nAfter defeating an enemy, gain 2 Damage Up next turn.\nJP :\n敵を倒すと次のターン開始時に、ダメージ量増加 2を得る。"
+  },
+  {
+    "key": "9100501-name",
+    "original": "쥐는 자의 망치",
+    "context": "EN :\nHammer of the One Who Grips\nJP :\n握る者の金鎚"
+  },
+  {
+    "key": "9100501-desc",
+    "original": "이 캐릭터가 살아있는동안 모든 아군이 턴 시작 시 정신력 10 회복\n이 캐릭터가 사망하면 모든 아군 정신력 -45",
+    "context": "EN :\nAt the start of the turn, all allies heal 10 SP.\nWhen this unit is defeated, all its allies lose 45 SP.\nJP :\nこのキャラクターが生きている間、全味方がターン開始時に精神力を10回復\nこのキャラクターが死亡すると、全味方の精神力-45"
+  },
+  {
+    "key": "9100601-name",
+    "original": "집념",
+    "context": "EN :\nPersistence\nJP :\n執念"
+  },
+  {
+    "key": "9100601-desc",
+    "original": "체력이 50% 미만이 되면, 다음 턴 시작 시 자신에게 부여된 부정적인 효과를 제거하고, 매 턴마다 광신 4, 공격 위력 증가 1, 수비 위력 증가 1을 얻는다.",
+    "context": "EN :\nWhen HP drops below 50%, remove all negative status effects next turn, and gain 4 Fanatic, 1 Attack Power Up, and 1 Defense Power Up each turn.\nJP :\n体力が50%未満になると、次のターン開始時自分に付与されたマイナス効果を除去し、毎ターン狂信 4、攻撃威力増加 1、守備威力増加 1を得る。"
+  },
+  {
+    "key": "9100502-name",
+    "original": "두드릴지라",
+    "context": "EN :\nThou Shalt Hammer\nJP :\n撲せよ"
+  },
+  {
+    "key": "9100502-desc",
+    "original": "자신에게 광신이 있을 때 피해량 +50% ",
+    "context": "EN :\nIf this unit is Fanatic, deal +50% damage.\nJP :\n自分に狂信 がある場合、ダメージ量+50%"
+  }
+]

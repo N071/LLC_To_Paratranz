@@ -1,0 +1,17 @@
+[
+  {
+    "key": "item_count_basic-content",
+    "original": "{1} {0}개",
+    "context": "EN :\n{1} x{0}\nJP :\n{1} {0}つ"
+  },
+  {
+    "key": "item_count_page-content",
+    "original": "{1} {0}장",
+    "context": "EN :\n{0} {1}(s)\nJP :\n{1} {0}枚"
+  },
+  {
+    "key": "item_count_lunacy_free-content",
+    "original": "즉시 광기 {0}(무료) 지급",
+    "context": "EN :\nGet {0} Free Lunacy as a bonus\nJP :\n狂気{0} 即時(無償)支給"
+  }
+]

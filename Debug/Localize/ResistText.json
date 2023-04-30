@@ -1,0 +1,32 @@
+[
+  {
+    "key": "resist_weak-content",
+    "original": "취약",
+    "context": "EN :\nFatal\nJP :\n脆弱"
+  },
+  {
+    "key": "resist_vulnerable-content",
+    "original": "약점",
+    "context": "EN :\nWeak\nJP :\n弱点"
+  },
+  {
+    "key": "resist_normal-content",
+    "original": "보통",
+    "context": "EN :\nNormal\nJP :\n普通"
+  },
+  {
+    "key": "resist_endure-content",
+    "original": "견딤",
+    "context": "EN :\nEndure\nJP :\n抵抗"
+  },
+  {
+    "key": "resist_resist-content",
+    "original": "내성",
+    "context": "EN :\nIneff.\nJP :\n耐性"
+  },
+  {
+    "key": "resist_immune-content",
+    "original": "면역",
+    "context": "EN :\nImmune\nJP :\n免疫"
+  }
+]

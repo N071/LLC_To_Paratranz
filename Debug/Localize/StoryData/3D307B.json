@@ -1,0 +1,256 @@
+[
+  {
+    "key": "0-place",
+    "original": "어느 골목길 한 가운데",
+    "context": "EN :\nMiddle of an Alleyway\nJP :\nある路地の真ん中"
+  },
+  {
+    "key": "0-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "0-content",
+    "original": "정신을 차리니 햇빛으로 잔뜩 달궈져 뜨거워진, 한낮의 골목길 한 가운데였다.",
+    "context": "EN :\nWhen I came to my senses, I found myself in an alleyway at midday, heated by the sun.\nJP :\n気がつくと日差しでじっくり熱された、真昼の路地の真ん中にいた。"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "난 그곳에서 멍하니 누워있었다.",
+    "context": "EN :\nI stayed there on the ground, dazed and confused.\nJP :\n僕はそこでぼーっと横になっていた。"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "길가 곳곳에 아지랑이가 피어오르는 것이 보였다.",
+    "context": "EN :\nI could see a haze rise from the surface.\nJP :\n道のあちこちから陽炎が立ち上るのが見えた。"
+  },
+  {
+    "key": "3-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "3-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "3-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "3-content",
+    "original": "싱클레어. 네 세계에 금이 갔구나.",
+    "context": "EN :\nSinclair. A crack has been made in your world.\nJP :\nシンクレア、君の世界にひびが入ったんだね。"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "내가 데미안을 봤을 때 종종 느꼈던 위화감의 정체를 알 것도 같았다.",
+    "context": "EN :\nI felt like I was starting to understand what the strange feeling I often got from Demian was.\nJP :\n僕がデミアンを見たときに度々感じた違和感の正体が、分かりそうな気がした。"
+  },
+  {
+    "key": "5-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "5-content",
+    "original": "어째서 그 아이는 항상 발걸음 소리가 나지 않았던 걸까.",
+    "context": "EN :\nI always found it weird how I never heard his footsteps.\nJP :\nどうしてあの子からは、いつも足音がしなかったのだろうか。"
+  },
+  {
+    "key": "6-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "6-content",
+    "original": "왜 모든 건 고독하고 조용하게, 어디에도 속하지 않은 듯 고요하게 다가오는 걸까.",
+    "context": "EN :\nWhy does everything arrive in desolate silence as if it belongs to no world at all?\nJP :\nなぜすべては孤独で静かに、どこにも属していないかの如く\n静かに近づいてくるんだろうか。"
+  },
+  {
+    "key": "7-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "7-content",
+    "original": "가족의 죽음도, 악의 세계도, 절망도…",
+    "context": "EN :\nThe loss of my family, the world of evil, all this despair…\nJP :\n家族の死も、悪の世界も、絶望も…。"
+  },
+  {
+    "key": "8-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "8-content",
+    "original": "그리고 너도.",
+    "context": "EN :\nAnd you, too.\nJP :\nそして君も。"
+  },
+  {
+    "key": "9-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "9-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "9-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "9-content",
+    "original": "두렵니, 싱클레어?",
+    "context": "EN :\nAre you scared, Sinclair?\nJP :\n怖いのかい、シンクレア？"
+  },
+  {
+    "key": "10-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "10-content",
+    "original": "그는 내게 말했다.",
+    "context": "EN :\nHe spoke to me.\nJP :\n彼は僕に言った。"
+  },
+  {
+    "key": "11-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11-content",
+    "original": "모든 것을 관통하여 보고 있다는 듯이, 그리고 그 모든 것이 예정된 수순에 지나지 않는다는 듯이.",
+    "context": "EN :\nHe had the eyes of a person who saw through everything, and the attitude of someone who predicted this series of events.\nJP :\n全てを見通しているかのように、\nそしてその全てが予定されたプロセスに過ぎないかのように。"
+  },
+  {
+    "key": "12-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "12-content",
+    "original": "심지어 그는 알고 있는 듯이, 대답을 기다리지 않고 말했다.",
+    "context": "EN :\nHe didn’t even wait for me to reply, like he knew what I was going to say.\nJP :\nしかも彼は知っているような素振りで、返事を待たずに言った。"
+  },
+  {
+    "key": "13-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "13-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "13-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "13-content",
+    "original": "언젠간 전부 깨 버린 채, 박차고 오를 날이 오겠지.",
+    "context": "EN :\nOne day, you’ll break it altogether and soar.\nJP :\nいつか全部割れたまま、こみ上げてくる日が来るだろう。"
+  },
+  {
+    "key": "14-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "14-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "14-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "14-content",
+    "original": "나는… 전부 끄집어내진 너를 보고 싶어.",
+    "context": "EN :\nAnd I… wish to see you completely bare.\nJP :\n僕は…全てが引っ張り出された君が見たいんだ。"
+  },
+  {
+    "key": "15-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "15-content",
+    "original": "입 밖으로 꺼내지 못하고 있던 나의 속 대답이, 어떨 것이라는 걸 이미 알고 있다는 듯.",
+    "context": "EN :\nHe responded as if he already knew the answer I was hesitating on.\nJP :\n口に出せずにいた私の本音が、どういうものなのか\nもう分かっているかのように。"
+  },
+  {
+    "key": "16-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "16-content",
+    "original": "그러나 그의 말은 온기가 가득한 듯하면서도…",
+    "context": "EN :\nAlthough his words seemed to radiate warmth…\nJP :\nしかし、彼の言葉は温もりに満ちているようでありながら…。"
+  },
+  {
+    "key": "17-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "17-content",
+    "original": "제대로 익지 않은 칠면조의 차가운 내부를 씹는 것만 같은 서늘한 기분이 들어…",
+    "context": "EN :\nI felt a certain chill, like biting into the cold insides of a half-cooked turkey…\nJP :\n火が通っていない七面鳥の冷たい中を噛むような冷ややかな感じがして…。"
+  },
+  {
+    "key": "18-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "18-content",
+    "original": "나는 다시 한 번 정신을 잃을 수 밖에 없었다.",
+    "context": "EN :\nI couldn’t help but fall unconscious again.\nJP :\n僕はもう一度気を失うことしかできなかった。"
+  }
+]

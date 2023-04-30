@@ -1,0 +1,240 @@
+[
+  {
+    "key": "0-content",
+    "original": "전쟁터를 떠난지 이미 너무 많은 세월이 지났던 탓인지,",
+    "context": "EN :\nPerhaps the time this ex-soldier spent off the battlefield was long enough to rust his prowess.\nJP :\n戦場を去ってからあまりにも多くの歳月が過ぎたせいか、"
+  },
+  {
+    "key": "1-content",
+    "original": "과거엔 수많은 적들을 썰어버렸을 G사 부장의 숨은 꺼져가고 있었다. ",
+    "context": "EN :\nThe head manager who must have defeated countless enemies in his glory days was now nearing his own end.\nJP :\n過去には数多の敵を切り刻んできたG社部長の息は消えかかっていた。"
+  },
+  {
+    "key": "2-place",
+    "original": "4구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 4 - LC Branch Interior\nJP :\n4区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "2-model",
+    "original": "G사부장",
+    "translation": "G公司部长",
+    "context": "EN :\nG公司部长\nJP :\nInsectMan"
+  },
+  {
+    "key": "2-teller",
+    "original": "노쇠한 옛 G사 부장",
+    "context": "EN :\nDecrepit G Corp. Head Manager\nJP :\n老衰した旧G社の部長"
+  },
+  {
+    "key": "2-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "2-content",
+    "original": "한때는 널 존경하는 자들도 있었지, 그레고르…",
+    "context": "EN :\nYou were once well-respected, Gregor…\nJP :\nかつてはお前を尊敬した人たちもいたな、グレゴール…。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "…존경해달라고 부탁한 적 없었어.",
+    "context": "EN :\n…I never really asked for respect.\nJP :\n…尊敬してくれって頼んだことはないけどな。"
+  },
+  {
+    "key": "4-model",
+    "original": "G사부장",
+    "translation": "G公司部长",
+    "context": "EN :\nG公司部长\nJP :\nInsectMan"
+  },
+  {
+    "key": "4-teller",
+    "original": "노쇠한 옛 G사 부장",
+    "context": "EN :\nDecrepit G Corp. Head Manager\nJP :\n老衰した旧G社の部長"
+  },
+  {
+    "key": "4-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "4-content",
+    "original": "더 이상은 전진하지 마라… 그곳은 지옥이야.",
+    "context": "EN :\nDon’t proceed any further… Only hell awaits you.\nJP :\nこれ以上、前に進むな…あそこは地獄だ。"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "미안하지만 그러기는 힘들 것 같아. 성실하게 일하지 않으면 잘리거든.",
+    "context": "EN :\nSorry, but I don’t think I can follow your advice. I ought to be a go-getter if I don’t wanna be fired.\nJP :\n申し訳ないけど、それは難しいかな。真面目に働かないとクビになるし。"
+  },
+  {
+    "key": "6-model",
+    "original": "G사부장",
+    "translation": "G公司部长",
+    "context": "EN :\nG公司部长\nJP :\nInsectMan"
+  },
+  {
+    "key": "6-teller",
+    "original": "노쇠한 옛 G사 부장",
+    "context": "EN :\nDecrepit G Corp. Head Manager\nJP :\n老衰した旧G社の部長"
+  },
+  {
+    "key": "6-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "6-content",
+    "original": "돈에… 명예까지 팔아버린 거냐.",
+    "context": "EN :\nHave you abandoned your honor… for some pittance?\nJP :\nカネに…名誉まで売り払ったのか。"
+  },
+  {
+    "key": "7-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "7-content",
+    "original": "애저녁에 훈장이랑 같이 팔았지. 집주인이 월세를 독촉해서 말이야.",
+    "context": "EN :\nI sold that away long ago, right with my medal. Landlord couldn’t wait for rent any longer.\nJP :\n昔の夕方に勲章と一緒に売ったよ。大家さんが家賃を催促してきたからな。"
+  },
+  {
+    "key": "8-content",
+    "original": "죽어가던 옛 부장의 얼굴에 쓰디쓴 웃음이 떠올랐다.",
+    "context": "EN :\nA bitter smile appeared on the head manager’s face.\nJP :\n死にかけていた元部長の顔に、苦笑いが浮かんだ。"
+  },
+  {
+    "key": "9-model",
+    "original": "G사부장",
+    "translation": "G公司部长",
+    "context": "EN :\nG公司部长\nJP :\nInsectMan"
+  },
+  {
+    "key": "9-teller",
+    "original": "노쇠한 옛 G사 부장",
+    "context": "EN :\nDecrepit G Corp. Head Manager\nJP :\n老衰した旧G社の部長"
+  },
+  {
+    "key": "9-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "9-content",
+    "original": "너도… 우리와 다를 것 없군…",
+    "context": "EN :\nYou’re… no different from us…\nJP :\nお前も…俺たちと変わらないな。"
+  },
+  {
+    "key": "10-model",
+    "original": "G사부장",
+    "translation": "G公司部长",
+    "context": "EN :\nG公司部长\nJP :\nInsectMan"
+  },
+  {
+    "key": "10-teller",
+    "original": "노쇠한 옛 G사 부장",
+    "context": "EN :\nDecrepit G Corp. Head Manager\nJP :\n老衰した旧G社の部長"
+  },
+  {
+    "key": "10-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "10-content",
+    "original": "결국, 우리는…",
+    "context": "EN :\nIn the end, we’re…\nJP :\n結局、俺たちは…。"
+  },
+  {
+    "key": "11-model",
+    "original": "G사부장",
+    "translation": "G公司部长",
+    "context": "EN :\nG公司部长\nJP :\nInsectMan"
+  },
+  {
+    "key": "11-teller",
+    "original": "노쇠한 옛 G사 부장",
+    "context": "EN :\nDecrepit G Corp. Head Manager\nJP :\n老衰した旧G社の部長"
+  },
+  {
+    "key": "11-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "11-content",
+    "original": "역겨운… 벌레 새끼들일 뿐…",
+    "context": "EN :\nNothing… but disgusting pests…\nJP :\n気色悪い…虫ケラでしか…。"
+  },
+  {
+    "key": "12-content",
+    "original": "그러더니 숨을 몇 번 몰아쉬고 더 이상 움직이지 않았다.",
+    "context": "EN :\nHe took a few more shallow breaths, then ceased to move.\nJP :\nそう言うと何度か激しく息をして、それ以上動かなくなった。"
+  },
+  {
+    "key": "13-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "13-content",
+    "original": "…어이, 담배 좀 빌릴 수 있나?",
+    "context": "EN :\n…Hey, mind if I borrow a cig?\nJP :\n…おい、ちょっと煙草貸してくれるか？"
+  },
+  {
+    "key": "14-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "14-content",
+    "original": "…이번만이다.",
+    "context": "EN :\n…Just this once.\nJP :\n…今回だけだぞ。"
+  },
+  {
+    "key": "15-content",
+    "original": "그레고르는 자기 담배와 빌린 담배를 함께 꺼내 물더니, 빌렸던 담배에 불을 붙여 숨이 끊어진 자의 품에 슬쩍 던져주었다.",
+    "context": "EN :\nGregor put the borrowed cigarette next to the one he already held in his mouth, then lit it and tossed it on the chest of the deceased commander.\nJP :\nグレゴールは自分の煙草と借りた煙草を取り出して一緒に咥えると、\n借りた煙草に火を付けて息絶えた者の胸へそっと投げやった。"
+  },
+  {
+    "key": "16-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "16-content",
+    "original": "미안, 저거한테 내 담배를 나눠서 물려주긴 싫었거든.",
+    "context": "EN :\nSorry, didn’t wanna share mine with that thing.\nJP :\nすまんな、アレに俺の煙草を分けて咥えさせるのは嫌だったんだよ。"
+  },
+  {
+    "key": "17-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "17-content",
+    "original": "…흥.",
+    "context": "EN :\n…Hmph.\nJP :\n…ふん。"
+  },
+  {
+    "key": "18-content",
+    "original": "료슈의 코웃음과 그레고르의 담배 연기. 그리고 만연한 침묵만이 그 자리에 잠시간 남아 있었다.",
+    "context": "EN :\nRyōshū gave a snort. The smoke from Gregor’s cigarette lingered with the prevailing silence in the air for a short while.\nJP :\n良秀の鼻笑いとグレゴールの煙草の煙。\nそして蔓延した沈黙だけがその場にしばらく留まっていた。"
+  }
+]

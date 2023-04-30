@@ -1,0 +1,119 @@
+[
+  {
+    "key": "0-place",
+    "original": "4구 로보토미 지부 입구 근처 ",
+    "context": "EN :\nDistrict 4 - LC Branch Entryway\nJP :\n4区ロボトミー支部 入口付近"
+  },
+  {
+    "key": "0-content",
+    "original": "그레고르가 담배에 불을 붙이더니, 어느 때보다 길게 연기를 내뱉는다.",
+    "context": "EN :\nGregor lights his cigarette and takes a drag, followed by smoke streaming out from his mouth.\nJP :\nグレゴールが煙草に火を付けると、いつにも増して長く煙を燻らせた。"
+  },
+  {
+    "key": "1-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "1-content",
+    "original": "다른 보안 업체에 취직을 해도 이것보다는 나았을 텐데요…",
+    "context": "EN :\nThey’d have fared better than this if they got a job at a security company or something…\nJP :\n他の警備会社に就職したとしても、これよりはマシだと思うんですけど…。"
+  },
+  {
+    "key": "2-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "2-content",
+    "original": "평생을 군인으로 살았던 자들이다. 다른 직업으로 새 출발 하기엔 적응하고 바뀌어야 할 것들이 너무 많았겠지.",
+    "context": "EN :\nThey spent their entire lives as soldiers. The changes required for them to start a new life must have been overwhelming.\nJP :\n一生を軍人として生きてきた者達だ。他の職業で新たな出発をするには適応し、\n変えなければならないものがとても多かっただろう。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "그리고, 몰락한 날개 출신이라는 건 엄청난 꼬리표야. 누가 받아주면 구둣발이라도 핥아 줘야 할 정도로…",
+    "context": "EN :\nYou have no idea how stubbornly the stigma of a fallen Wing’s remnants will haunt you. If anyone’s generous enough to take you in, licking their boots is the least you can do…\nJP :\nそれに、没落した翼出身ってのは物凄い烙印だ。\n誰かが拾ってくれたら靴底でも舐めてあげなきゃならないくらいには…。"
+  },
+  {
+    "key": "4-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "4-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "4-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "4-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "아… 미안하다. 내가 생각이 짧았네.",
+    "context": "EN :\nOh… Sorry ‘bout that. Should’ve chosen my words carefully.\nJP :\nあ…ごめん。浅はかだったな。"
+  },
+  {
+    "key": "6-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "6-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "6-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "6-content",
+    "original": "아니에요. G사나 L사나 상황은 비슷했겠죠.",
+    "context": "EN :\nNo, it’s fine. I’m sure things were rough with G Corp’s fall, too.\nJP :\nいえ。G社もL社も状況は同じだったでしょうし。"
+  },
+  {
+    "key": "7-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "7-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "7-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "7-content",
+    "original": "…날개가 부러진다는 건 그만큼 혼란스러운 사건이니까요.",
+    "context": "EN :\n…The breaking of a Wing is a turbulent affair for many people.\nJP :\n…翼が折れるというのは、そういった混乱を引き起こす事件ですからね。"
+  }
+]

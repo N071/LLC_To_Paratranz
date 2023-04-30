@@ -1,0 +1,147 @@
+[
+  {
+    "key": "announcer_cheer_3_1-dlg",
+    "original": "카론, 기다리는거 못해. 100초만 기다려 줄게.",
+    "context": "EN :\nCharon’s not good at waiting. You get 100 seconds.\nJP :\nカロン、待つのむり。100秒だけ待ってあげる。"
+  },
+  {
+    "key": "announcer_cheer_3_2-dlg",
+    "original": "늦으면 메피랑 먼저 갈 거야.",
+    "context": "EN :\nLeaving with Mephi if you’re late.\nJP :\n遅れたらメフィと先に行っちゃうから。"
+  },
+  {
+    "key": "announcer_specialcheer_3_1-dlg",
+    "original": "아야하는 승객들 있어. 울면 안돼.",
+    "context": "EN :\nPassengers are hurt. Don’t cry.\nJP :\nいたいいたいする乗客がいる。泣いちゃだめ。"
+  },
+  {
+    "key": "announcer_specialcheer_3_2-dlg",
+    "original": "왜 메피 먹이들이 된 거야? 카론 슬퍼.",
+    "context": "EN :\nWhy did they turn into Mephi treats? Charon’s sad now.\nJP :\nどうしてメフィのエサになったの？カロンかなしい。"
+  },
+  {
+    "key": "announcer_enemy_break_3_1-dlg",
+    "original": "적들이 흔들흔들. 기회, 아냐?",
+    "context": "EN :\nFoes are all shimmy-shaky. A chance, isn’t it?\nJP :\n敵がゆらゆら。チャンス、じゃない？"
+  },
+  {
+    "key": "announcer_ally_break_3_1-dlg",
+    "original": "그래서 카론이 안전벨트 잘 하라고 했잖아.",
+    "context": "EN :\nCharon did tell you to fasten your seatbelts.\nJP :\nだからカロンが安全ベルトしっかりしてって言ったでしょ。"
+  },
+  {
+    "key": "announcer_killenemy_3_1-dlg",
+    "original": "메피가 배고파했어. 잘됐다. 그치?",
+    "context": "EN :\nMephi had been peckish. Well done, right?\nJP :\nメフィがおなか空いてた。よかった。ね？"
+  },
+  {
+    "key": "announcer_ally_dead_3_1-dlg",
+    "original": "승객이 조용해졌어. 조금 있다 째깍 째깍 해줘야 돼.",
+    "context": "EN :\nA passenger went all hush. Don’t forget to tick your tock later.\nJP :\n乗客が静かになった。後でチクタクしないと。"
+  },
+  {
+    "key": "announcer_enemy_adv_3_1-dlg",
+    "original": "적들이 이기고 있어. 카론, 먼저 가버릴 거야.",
+    "context": "EN :\nThe bad guys are winning. Charon might just up and leave.\nJP :\n敵が勝ってる。カロン、先行っちゃうよ。"
+  },
+  {
+    "key": "announcer_ally_adv_3_1-dlg",
+    "original": "야호. 이기는 편. 우리 편.",
+    "context": "EN :\nWoohoo. This side—the winners’ side.\nJP :\nやっほぉ。勝ってるの。こっち。"
+  },
+  {
+    "key": "announcer_danger_3_1-dlg",
+    "original": "…일촉즉발? 이거 배웠어.",
+    "context": "EN :\n…Mortal peril? Been taught this phrase.\nJP :\n…一触即発？これ覚えたの。"
+  },
+  {
+    "key": "announcer_enemy_specialskill_3_1-dlg",
+    "original": "땅이 떨리고 있어. 카론도 흔들흔들.",
+    "context": "EN :\nThe ground is shaking. Charon’s rumbly-tumbly too.\nJP :\n地面がゆれてる。カロンもゆらゆら。"
+  },
+  {
+    "key": "announcer_enemy_specialgimmick_3_1-dlg",
+    "original": "알쏭달쏭해. 뭐가 나올지 모르겠어.",
+    "context": "EN :\nA mystery. No telling what will pop up.\nJP :\nあいまいだ。なにが出てくるかわからない。"
+  },
+  {
+    "key": "announcer_advatk_physical_3_1-dlg",
+    "original": "승객이 딱콩 한 방 먹였어.",
+    "context": "EN :\nA passenger gave them a boink.\nJP :\n乗客がいっぱつボカンした。"
+  },
+  {
+    "key": "announcer_disadvatk_physical_3_1-dlg",
+    "original": "방금 건 아무 쓸모도 없었어. 바보.",
+    "context": "EN :\nThat one did nothing. Dummy.\nJP :\nさっきのはなんも意味なかった。ばか。"
+  },
+  {
+    "key": "announcer_advatk_attr_3_1-dlg",
+    "original": "무얼 잘못했는지 아는 것 부터가 시작이랬어.",
+    "context": "EN :\nThey said knowing what you did wrong is the first step.\nJP :\nなにを間違ってるのか知ることからがはじまりだって言ってた。"
+  },
+  {
+    "key": "announcer_disadvatk_attr_3_1-dlg",
+    "original": "지금 뭘 잘못했는지는 알기나 해? …드라마에서 봤어.",
+    "context": "EN :\nDo you even have any idea what you did wrong? …Learnt that from a drama.\nJP :\n今なんでこうなってるか分かってはいるの？…ドラマでみた。"
+  },
+  {
+    "key": "announcer_enemy_specialbuff_3_1-dlg",
+    "original": "적들이 뭔가 기분이 좋아 보이는 것 같아. 카론, 기분 나빠.",
+    "context": "EN :\nThose foes look like they’re in a good mood. It upsets Charon.\nJP :\n敵がなんだか気分よさそう。カロン、気分わるい。"
+  },
+  {
+    "key": "announcer_enemy_specialdebuff_3_1-dlg",
+    "original": "쟤네 좀 봐. 속이 메스꺼워 보여.",
+    "context": "EN :\nLook at them. They wanna toss cookies.\nJP :\nあいつら見て。おなかムカムカしてるみたい。"
+  },
+  {
+    "key": "announcer_ally_specialbuff_3_1-dlg",
+    "original": "승객들, 뭔가 기분 좋은 일이라도 있었던 거야?",
+    "context": "EN :\nDid something good happen to the passengers?\nJP :\n乗客、なにか良いことでもあったの？"
+  },
+  {
+    "key": "announcer_ally_specialdebuff_3_1-dlg",
+    "original": "…멀미 봉투는 좌석 밑에 있어. 메피한테 토하지 마.",
+    "context": "EN :\n…There’s a doggy bag below your seats. No throwing up on Mephi.\nJP :\n…エチケットぶくろは座席のした。メフィに吐かないで。"
+  },
+  {
+    "key": "announcer_enemy_destroy_3_1-dlg",
+    "original": "쨍그랑. 부위가 조각났어. 계속 해도 돼.",
+    "context": "EN :\nKachlank. A spot broke. Keep forward.\nJP :\nがっしゃん。部位が壊れた。つづけていいよ。"
+  },
+  {
+    "key": "announcer_enemy_destroy_3_2-dlg",
+    "original": "승객들, 저거 깨뜨렸어. 변상할 필요는 없으니까, 계속 해도 돼.",
+    "context": "EN :\nPassengers just broke that. No one will tell us to pay for the damage, so go on.\nJP :\n乗客が、あれ割った。弁償しなくていいから、つづけて。"
+  },
+  {
+    "key": "announcer_round_takebigdmg_3_1-dlg",
+    "original": "카론, 빙글빙글.",
+    "context": "EN :\nCharon’s all spinny.\nJP :\nカロン、くるくる。"
+  },
+  {
+    "key": "announcer_round_takebigdmg_3_2-dlg",
+    "original": "으, 아파보여.",
+    "context": "EN :\nEep, that looked hurty.\nJP :\nうぅ、いたそう。"
+  },
+  {
+    "key": "announcer_round_givebigdmg_3_1-dlg",
+    "original": "대성공이야. 카론, 신나. 노래부를까?",
+    "context": "EN :\nA huge success. Charon’s excited. Permission to sing?\nJP :\n大成功だ。カロン、たのしい。うたおうかな？"
+  },
+  {
+    "key": "announcer_round_givebigdmg_3_2-dlg",
+    "original": "우와! 카론도 깜짝.",
+    "context": "EN :\nWhoa! Charon’s shocked too.\nJP :\nうわぁ！カロンもびっくり。"
+  },
+  {
+    "key": "announcer_multikillenemy_3_1-dlg",
+    "original": "일타이피, 맞지? 카론, 쓰담해 줄게.",
+    "context": "EN :\n“Two rats with one stone”, right? Charon will reward you with pats.\nJP :\n一挙両利、だよね？カロン、なでなでしてあげる。"
+  },
+  {
+    "key": "announcer_equip_3_1-dlg",
+    "original": "카론 등장. 다들 기뻐해.",
+    "context": "EN :\nCharon appears. All rejoice.\nJP :\nカロンさんじょう。みんなよろこべ。"
+  }
+]

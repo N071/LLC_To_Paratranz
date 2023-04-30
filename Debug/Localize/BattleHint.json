@@ -1,0 +1,172 @@
+[
+  {
+    "key": "1-content",
+    "original": "거울던전 입장 시에는 엔케팔린 모듈이 필요합니다.",
+    "context": "EN :\nIt costs Enkephalin Modules to enter Mirror Dungeons.\nJP :\n鏡ダンジョン入場時にはエンケファリンモジュールが必要です。"
+  },
+  {
+    "key": "2-content",
+    "original": "모든 스킬은 1개 이상의 코인을 가지고 있습니다.",
+    "context": "EN :\nEvery skill consists of at least 1 Coin.\nJP :\n全てのスキルは1枚以上のコインを持っています。"
+  },
+  {
+    "key": "3-content",
+    "original": "코인은 앞면과 뒷면에 따라 위력이 감소하거나 증가합니다.",
+    "context": "EN :\nA Coin’s Power may increase or decrease depending on the face it lands on.\nJP :\nコインは表面が出るか、裏面が出るかによって威力が増減します。"
+  },
+  {
+    "key": "4-content",
+    "original": "코인의 앞면과 뒷면은 스킬 효과의 활성화에도 영향을 줍니다.",
+    "context": "EN :\nCoin faces also affect the activation of certain skill effects.\nJP :\nコインの裏表はスキル効果の活性化にも影響を及ぼします。"
+  },
+  {
+    "key": "5-content",
+    "original": "환상체를 제외한 적은 정신력이 일정 이하로 떨어지면, 패닉 상태에 빠지게 됩니다.",
+    "context": "EN :\nAll enemies (save for Abnormalities) can Panic when their Sanity falls below a certain threshold.\nJP :\n全ての敵は精神力が一定以下になると、パニック状態に陥ります。(幻想体を除く)"
+  },
+  {
+    "key": "6-content",
+    "original": "정신력이 최저 수치가 된 수감자는 E.G.O에 침식됩니다.",
+    "context": "EN :\nSinners with low Sanity will be corroded by E.G.O.\nJP :\n精神力が最低値になった囚人は、E.G.Oに侵蝕されます。"
+  },
+  {
+    "key": "7-content",
+    "original": "E.G.O에 침식된 수감자는 아군과 적군을 구별 없이 공격하니 주의하세요.",
+    "context": "EN :\nCorroded Sinners will lash out indiscriminately, so be careful.\nJP :\nE.G.Oに侵蝕された囚人は、敵味方を区別せずに攻撃しますのご注意ください。"
+  },
+  {
+    "key": "8-content",
+    "original": "상태 이상의 위력은 상태 이상이 주는 피해량을 표시합니다.",
+    "context": "EN :\nA status effect’s Potency indicates how much damage it will deal.\nJP :\n状態異常にて付与するダメージ量は「威力」として表示されます。"
+  },
+  {
+    "key": "9-content",
+    "original": "사용한 스킬 아이콘(죄)은 E.G.O 자원으로 모여 E.G.O를 사용하는데 매개체가 됩니다.",
+    "context": "EN :\nAfter use, skills are converted into E.G.O resources corresponding to their Sin Affinity.\nJP :\n使用したスキルアイコン(罪)はE.G.O資源となり、E.G.Oを使用するための媒体になります。"
+  },
+  {
+    "key": "10-content",
+    "original": "같은 환상체를 여러 번 잡으면 관찰 레벨이 올라 환상체에게 주는 피해량이 증가합니다.",
+    "context": "EN :\nDefeating an Abnormality multiple times raises its Observation Level, allowing you to better damage it in future encounters.\nJP :\n同じ幻想体を何度も倒すと観察レベルが上昇し、幻想体へ与えるダメージ量が増加します。"
+  },
+  {
+    "key": "11-content",
+    "original": "자원이 필요한 스킬은 자원이 없을 때 스킬이 취소되니 주의가 필요합니다.",
+    "context": "EN :\nSkills that require resources will be canceled if the character is missing the required amount.\nJP :\n資源が必要なスキルは、資源が無いときに発動がキャンセルされるので注意が必要です。"
+  },
+  {
+    "key": "12-content",
+    "original": "속도는 매 턴마다 최솟값, 최댓값 사이의 랜덤한 값으로 정해집니다.",
+    "context": "EN :\nSpeed is randomly determined within a given range each turn.\nJP :\n速度はターン毎に最小～最大値のランダムな値に決まります。"
+  },
+  {
+    "key": "13-content",
+    "original": "속도에 따라 아군과 적의 진형 배치가 변경됩니다.",
+    "context": "EN :\nSpeed determines the formation of units in combat.\nJP :\n速度によって味方と敵の陣形が変わります。"
+  },
+  {
+    "key": "14-content",
+    "original": "전투 시 인격은 착용한 가장 낮은 등급 E.G.O의 속성 내성을 가지고 시작합니다.",
+    "context": "EN :\nAt the start of battle, your characters assume the Sin Resistances of the lowest grade E.G.O they have equipped.\nJP :\n戦闘時、人格は装備しているE.G.O.のうち最も低い属性耐性を持った状態で始まります。"
+  },
+  {
+    "key": "15-content",
+    "original": "E.G.O를 사용하면 E.G.O가 가지고 있는 가장 높은 속성 내성으로 변경 및 유지됩니다.",
+    "context": "EN :\nAfter a Sinner uses E.G.O, their Sin Resistances are updated; however, any values that would be lowered will instead remain as they were.\nJP :\nE.G.Oを使用すると、E.G.Oの持つ最も高い属性耐性に変更および維持されます。"
+  },
+  {
+    "key": "16-content",
+    "original": "방어 스킬 사용 시 인격 슬롯의 최하단에 있는 스킬 혹은 E.G.O가 방어 스킬로 변경됩니다.",
+    "context": "EN :\nA generated Defense skill will fill in the Sinner’s bottom skill slot, replacing the current skill or E.G.O.\nJP :\n防御スキル使用時、人格スロットの最下段にあるスキルまたはE.G.Oが防御スキルへと変更されます。"
+  },
+  {
+    "key": "17-content",
+    "original": "E.G.O 사용을 취소하면 사용한 자원은 반환됩니다.",
+    "context": "EN :\nCancelling E.G.O before using it will return its resources.\nJP :\nE.G.Oの使用をキャンセルすると、使用した資源は返還されます。"
+  },
+  {
+    "key": "18-content",
+    "original": "같은 속성 스킬이 2개 이상 연결되었다면, 죄악 공명이 발동해 강한 피해를 줍니다.",
+    "context": "EN :\nIf 2+ skills of the same Sin are in a chain, Sin Resonance activates, strengthening your attacks.\nJP :\n同じ属性スキルが2つ以上繋がれば、罪悪共鳴が発動して強力なダメージを与えます。"
+  },
+  {
+    "key": "19-content",
+    "original": "같은 속성이 연속으로 3개 이상 연결되었다면, 완전 공명이 발동해 더 강한 피해를 줍니다.",
+    "context": "EN :\nIf 3+ skills of the same Sin are in direct succession, Absolute Resonance activates, GREATLY strengthening your attacks.\nJP :\n同じ属性スキルが3つ以上連続で繋がれば、完全共鳴が発動してより強力なダメージを与えます。"
+  },
+  {
+    "key": "20-content",
+    "original": "합이 높아질수록 최종적으로 받거나 주는 피해가 증가합니다.",
+    "context": "EN :\nThe longer a Clash goes on, the higher the victor’s final damage will be.\nJP :\nマッチが続くほど、最終的な被・与ダメージが増加します。"
+  },
+  {
+    "key": "21-content",
+    "original": "흐트러짐 구간까지 체력이 소모되면, 공격 유형 내성이 취약으로 변경되고 다음 턴까지 행동하지 않습니다.",
+    "context": "EN :\nWhen a character’s health falls below the Stagger Threshold, they become vulnerable to all attacks and can’t act until the end of the following turn.\nJP :\n混乱区間まで体力が消耗されると攻撃タイプ耐性が脆弱に変わり、次のターンまで行動しなくなります。"
+  },
+  {
+    "key": "22-content",
+    "original": "던전 진행 시 세이브 룸에서 피해를 회복하고 던전 탐사 진행을 저장할 수 있습니다.",
+    "context": "EN :\nIn Dungeons, you can heal up and save your progress at Checkpoints.\nJP :\nダンジョン進行時、セーブルームでダメージを回復して探査進捗を記録することが出来ます。"
+  },
+  {
+    "key": "23-content",
+    "original": "모든 인격은 전투 패시브와 서포트 패시브를 가지고 있습니다.",
+    "context": "EN :\nEvery Identity has a Combat Passive and a Support Passive.\nJP :\n全ての人格はバトルパッシブとサポートパッシブを持っています。"
+  },
+  {
+    "key": "24-content",
+    "original": "전투에 참여한 인격은 전투 패시브를 사용하며, 활성화되기 위해서는 특정 죄를 연결해야 합니다.",
+    "context": "EN :\nCharacters participating in battle have Combat Passives that activate after chaining skills of certain Affinities.\nJP :\n戦闘に参加した人格はバトルパッシブを使用し、活性化するためには特定の罪を接続する必要があります。"
+  },
+  {
+    "key": "25-content",
+    "original": "전투에 참여하지 않은 인격의 패시브는 서포트 패시브로 적용됩니다.",
+    "context": "EN :\nSinners who are not directly participating in battle will provide aid with their Support Passives.\nJP :\n戦闘に参加していない人格のパッシブは、サポートパッシブとして適用されます。"
+  },
+  {
+    "key": "26-content",
+    "original": "환상체는 부위마다 내성과 사용하는 스킬이 다릅니다.",
+    "context": "EN :\nAn Abnormality’s Parts may have differing Resistances and behavior.\nJP :\n幻想体は部位毎に耐性が異なり、使用するスキルも異なります。"
+  },
+  {
+    "key": "27-content",
+    "original": "환상체 전투 중에는 선택지가 발생하고 결과에 따라 다양한 효과나 E.G.O 기프트를 얻을 수 있습니다.",
+    "context": "EN :\nWhen confronting Abnormalities, you may encounter situations requiring you to make a choice; depending on the outcome, you might receive various effects or even E.G.O Gifts.\nJP :\n幻想体戦闘中には選択肢が発生し、結果によって様々な効果やE.G.Oギフトを得ることが出来ます。"
+  },
+  {
+    "key": "28-content",
+    "original": "선택지가 요구하는 죄를 가지고 있지 않더라도 성공할 수 있습니다.",
+    "context": "EN :\nIt’s still possible to pass a check even without the requisite Sin.\nJP :\n選択肢の要求する罪を持っていなくても成功することがあります。"
+  },
+  {
+    "key": "29-content",
+    "original": "던전을 진행하면서 선택지와 전투로 E.G.O 기프트를 얻을 수 있습니다.",
+    "context": "EN :\nYou can obtain E.G.O Gifts from both checks and battles as you progress through a Dungeon.\nJP :\nダンジョンを進めながら、選択肢と戦闘によってE.G.Oギフトを得ることが出来ます。"
+  },
+  {
+    "key": "30-content",
+    "original": "적은 정신력이 소모되어 패닉 상태가 되면, 부정적인 효과를 가지게 됩니다.",
+    "context": "EN :\nWhen an enemy runs out of Sanity and falls into Panic, they suffer negative effects.\nJP :\n敵は精神力が消耗されてパニック状態になると、マイナス効果が入ります。"
+  },
+  {
+    "key": "31-content",
+    "original": "흐트러짐 상태에서 다음 흐트러짐 구간까지 피해를 준다면 추가 피해를 줍니다.",
+    "context": "EN :\nIf a Staggered character’s HP falls below the next Stagger Threshold, they’ll take extra damage.\nJP :\n混乱状態で、次の混乱区間までダメージを与えることができれば、追加ダメージを与えることができます。"
+  },
+  {
+    "key": "32-content",
+    "original": "상태 이상의 횟수는 상태 이상이 유지되는 턴 수를 표시합니다.",
+    "context": "EN :\nA status effect’s Count indicates how long it will last or how many times it will activate during combat.\nJP :\n状態異常のターン持続数は「状態異常の回数」として表示されます。"
+  },
+  {
+    "key": "33-content",
+    "original": "E.G.O 스킬은 조작 패널의 최하단에서부터 생성됩니다.",
+    "context": "EN :\nE.G.O skills are placed at the bottom of a Sinner’s column.\nJP :\nE.G.Oスキルは操作パネルの最下段から生成されます。"
+  },
+  {
+    "key": "34-content",
+    "original": "서로 공격 스킬로 공격할 때, 같은 위력이라면 합이 발생합니다. ",
+    "context": "EN :\nClashes occur when two attack skills of the same Power target each other.\nJP :\nお互いを攻撃スキルで攻撃するとき、同じ威力ならマッチが発生します。"
+  }
+]

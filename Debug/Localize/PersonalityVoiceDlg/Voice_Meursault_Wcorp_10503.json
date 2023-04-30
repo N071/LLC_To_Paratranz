@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10503_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10503_1-dlg",
+    "original": "목적지를 말씀해주신다면, 안내해드리겠습니다.",
+    "context": "EN :\nTell me your destination, and I’ll guide you there.\nJP :\n目的地をおっしゃっていただければ、ご案内いたします。"
+  },
+  {
+    "key": "lobby_morning_10503_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10503_1-dlg",
+    "original": "이해가 되지 않는 것은 많지만, 그중 하나가 지각을 하는 자들입니다. 회사에서 요구하는 기본적인 소양이라고 생각합니다.",
+    "context": "EN :\nThere are many things I fail to comprehend, and those who are late to work are one of them. I believe timely arrival is a basic requirement for an employee to meet.\nJP :\n理解できないものは多いですが、そのうちの一つが遅刻をする者たちです。会社が要求する基本的な素養だと思います。"
+  },
+  {
+    "key": "lobby_noon_10503_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10503_1-dlg",
+    "original": "이 시간대에는 햇빛을 쬐곤 합니다. 햇빛을 아무 때나 볼 수 있다는 것이 낯선 탓이었을 수도 있겠군요.",
+    "context": "EN :\nI often expose myself to sunlight at this hour. It may be attributed to the fact that the nature of my occupation prevented me from seeing it frequently.\nJP :\nこの時間帯には日光を浴びたりします。日光をいつでも見られるということに慣れていないからかもしれませんね。"
+  },
+  {
+    "key": "lobby_night_10503_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10503_1-dlg",
+    "original": "저와 대화하는 걸 즐겨하는 이는 드뭅니다. 그렇지 않은 관리자님은 유별난 사람이겠군요.",
+    "context": "EN :\nFew people enjoy conversing with me. That would make you a strange one, Manager.\nJP :\n私と話すのが好きな者は稀です。そうでない管理人さんは並外れていらっしゃいますね。"
+  },
+  {
+    "key": "smalltalk_10503_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10503_1-dlg",
+    "original": "시체들을 보는 건 익숙합니다. 그것이 유쾌하다는 뜻은 아니지만.",
+    "context": "EN :\nI am familiar with dead bodies. Familiarity does not assure pleasantness, however.\nJP :\n死体を見るのには慣れています。それが愉快だという意味ではありませんが。"
+  },
+  {
+    "key": "smalltalk_10503_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10503_2-dlg",
+    "original": "돈키호테는 W사에 입사한 것이 자랑스럽다고 하더군요. 조금 신기했습니다.",
+    "context": "EN :\nDon Quixote says she is proud to have joined W Corp. I found that rather curious.\nJP :\nドンキホーテはW社に入社したことを誇りに思っていると言っていました。少し不思議でした。"
+  },
+  {
+    "key": "smalltalk_10503_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10503_3-dlg",
+    "original": "만약 워프 열차를 이용하신다면 미리 말씀 주셔도 괜찮습니다, 관리자님의 파편은 제가 모아드리겠습니다.",
+    "context": "EN :\nIf you’re ever taking a WARP train, you may let me know, Manager. I will personally pick up your pieces.\nJP :\nもしワープ列車をご利用になるのであれば、事前におっしゃっていただいても問題ございません。管理人様の破片は私が集めて差し上げます。"
+  },
+  {
+    "key": "smalltalk_10503_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10503_4-dlg",
+    "original": "누군가와 공감한다는 것이 그렇게 중요한 일이었다면… 사규에 명시되었어야 했을 겁니다. ",
+    "context": "EN :\nIf it is actually that important to empathize with others… they should have stated as much in the company guidelines.\nJP :\n誰かと共感するということがそれほど重要なことであったのなら…社規に明示されるべきでした。"
+  },
+  {
+    "key": "smalltalk_10503_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10503_5-dlg",
+    "original": "W사는 유독 퇴사자가 많은 기업이었습니다. 그들의 마지막 모습은 항상 눈물과 침 범벅이더군요. 구태여 이해하려는 노력은 하지 않았습니다.",
+    "context": "EN :\nW Corp. saw particularly many resignations. The quitting employees always had copious amounts of tears and saliva about their faces. I did not make an active effort to comprehend their behavior.\nJP :\nW社は特に退社者が多い企業でした。彼らの最後の姿はいつも涙とよだれにまみれていました。わざわざ理解しようとする努力はしませんでした。"
+  },
+  {
+    "key": "neglect_10503_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10503_1-dlg",
+    "original": "제시간에만 돌아오시길. ",
+    "context": "EN :\nDo make sure to return in time.\nJP :\n時間通りに戻ってきてください。"
+  },
+  {
+    "key": "gacksung_10503_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10503_1-dlg",
+    "original": "승진은… 익숙합니다.",
+    "context": "EN :\nPromotions… That, I am used to.\nJP :\n昇進には…慣れております。"
+  },
+  {
+    "key": "formation_10503_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10503_1-dlg",
+    "original": "네, 목적지를 향해.",
+    "context": "EN :\nUnderstood, I’ll get you to your destination.\nJP :\nはい、目的地に向かいます。"
+  },
+  {
+    "key": "battleentry_10503_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10503_1-dlg",
+    "original": "목적지까지 가기 위하여.",
+    "context": "EN :\nOnto our destination.\nJP :\n目的地まで辿り着くため。"
+  },
+  {
+    "key": "battle_select_10503_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10503_1-dlg",
+    "original": "여전히 유별난 사람이시군요.",
+    "context": "EN :\nYou are certainly a peculiar individual.\nJP :\nやはり、並外れた人間でいらっしゃいますね。"
+  },
+  {
+    "key": "battle_endcommand_10503_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10503_1-dlg",
+    "original": "방해물을 제거합니다.",
+    "context": "EN :\nRemoving obstacles.\nJP :\n障害物を除去します。"
+  },
+  {
+    "key": "battle_enemy_break_10503_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10503_1-dlg",
+    "original": "그다지 유쾌하진 않군요.",
+    "context": "EN :\nI am not particularly amused.\nJP :\nそこまで愉快ではありませんね。"
+  },
+  {
+    "key": "battle_break_10503_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10503_1-dlg",
+    "original": "흡!",
+    "context": "EN :\nHmpfh!\nJP :\nふっ！"
+  },
+  {
+    "key": "battle_kill_10503_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10503_1-dlg",
+    "original": "모을 필요는 없겠군요.",
+    "context": "EN :\nI won’t have to collect these remains.\nJP :\n集める必要はなさそうですね。"
+  },
+  {
+    "key": "battle_allydead_10503_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10503_1-dlg",
+    "original": "파편은 나중에 모으겠습니다.",
+    "context": "EN :\nI’ll collect their remains later.\nJP :\n破片は後ほど集めます。"
+  },
+  {
+    "key": "choice_success_p_10503_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10503_2-dlg",
+    "original": "규정대로 했을 뿐입니다.",
+    "context": "EN :\nI merely followed the procedures.\nJP :\n規定通りにやっただけです。"
+  },
+  {
+    "key": "choice_fail_n_10503_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10503_1-dlg",
+    "original": "규정에 없던 내용이군요.",
+    "context": "EN :\nThis was not in the procedures.\nJP :\n規定に無い内容ですね。"
+  },
+  {
+    "key": "battle_clear_10503_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10503_1-dlg",
+    "original": "이곳의 시체들은 더 단단하군요.",
+    "context": "EN :\nThe corpses here are more durable than what I work with.\nJP :\nここの死体は、比較的頑丈ですね。"
+  },
+  {
+    "key": "battle_clear_ex_10503_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10503_1-dlg",
+    "original": "다들 알맞은 파편으로 조각났군요.",
+    "context": "EN :\nAll of them have been segmented into adequate pieces.\nJP :\n皆、適切な破片になりましたね。"
+  },
+  {
+    "key": "battle_defeat_10503_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10503_1-dlg",
+    "original": "익숙해지는 과정일 뿐입니다.",
+    "context": "EN :\nIt’s a necessary step for familiarization.\nJP :\n慣れゆく過程に過ぎません。"
+  }
+]

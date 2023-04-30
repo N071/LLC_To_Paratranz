@@ -1,0 +1,142 @@
+[
+  {
+    "key": "1-teller",
+    "original": "W 파우스트",
+    "context": "EN :\nW. Faust\nJP :\nW ファウスト"
+  },
+  {
+    "key": "1-dialog",
+    "original": "당신이 합리적인 사람이라면, 제가 가는게 맞겠네요.",
+    "context": "EN :\nThe rational choice would be to allow me to handle this.\nJP :\n貴方が合理的な人間ならば、私が前に出ることが正解なんでしょうね。"
+  },
+  {
+    "key": "2-teller",
+    "original": "W 파우스트",
+    "context": "EN :\nW. Faust\nJP :\nW ファウスト"
+  },
+  {
+    "key": "2-dialog",
+    "original": "비교적 쉬울 임무라곤 판단되네요. ",
+    "context": "EN :\nMy analysis does tell me that this task will be relatively easy.\nJP :\n比較的簡単な任務だとは判断できますね。"
+  },
+  {
+    "key": "3-teller",
+    "original": "W 파우스트",
+    "context": "EN :\nW. Faust\nJP :\nW ファウスト"
+  },
+  {
+    "key": "3-dialog",
+    "original": "장담은 못해요. 우주의 섭리에 따르죠. ",
+    "context": "EN :\nI can’t guarantee the results. It will be up to the chaos of the universe.\nJP :\n断言はできません。宇宙の摂理に従います。"
+  },
+  {
+    "key": "4-teller",
+    "original": "W 파우스트",
+    "context": "EN :\nW. Faust\nJP :\nW ファウスト"
+  },
+  {
+    "key": "4-dialog",
+    "original": "저라면 다른 자를 보내겠어요. ",
+    "context": "EN :\nIf I were you, I would assign someone else to this task.\nJP :\n私なら、他の者を前に出しますね。"
+  },
+  {
+    "key": "5-teller",
+    "original": "W 파우스트",
+    "context": "EN :\nW. Faust\nJP :\nW ファウスト"
+  },
+  {
+    "key": "5-dialog",
+    "original": "당신을 관리자 직책에 앉힌 걸 후회하게 만들 선택이에요.",
+    "context": "EN :\nThis choice would make the decision to place you as our manager a regrettable one.\nJP :\n貴方を管理人の座に着かせたことを後悔させる選択ですね。"
+  },
+  {
+    "key": "6-teller",
+    "original": "W 파우스트",
+    "context": "EN :\nW. Faust\nJP :\nW ファウスト"
+  },
+  {
+    "key": "6-dialog",
+    "original": "성공에 연연해 하지 마세요.",
+    "context": "EN :\nTry not to cling to this success.\nJP :\n成功に固執しないでください。"
+  },
+  {
+    "key": "7-teller",
+    "original": "W 파우스트",
+    "context": "EN :\nW. Faust\nJP :\nW ファウスト"
+  },
+  {
+    "key": "7-dialog",
+    "original": "실패에 연연해 하지 마세요. ",
+    "context": "EN :\nTry not to dwell on this failure.\nJP :\n失敗に固執しないでください。"
+  },
+  {
+    "key": "36-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\n제복에피"
+  },
+  {
+    "key": "36-dialog",
+    "original": "당신이 합리적인 사람이라면, 제가 가는게 맞겠네요.",
+    "context": "EN :\nThe rational choice would be to allow me to handle this.\nJP :\n貴方が合理的な人間ならば、私が前に出ることが正解なんでしょうね。"
+  },
+  {
+    "key": "37-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\n제복에피"
+  },
+  {
+    "key": "37-dialog",
+    "original": "비교적 쉬울 임무라곤 판단되네요. ",
+    "context": "EN :\nMy analysis does tell me that this task will be relatively easy.\nJP :\n比較的簡単な任務だとは判断できますね。"
+  },
+  {
+    "key": "38-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\n제복에피"
+  },
+  {
+    "key": "38-dialog",
+    "original": "장담은 못해요. 우주의 섭리에 따르죠. ",
+    "context": "EN :\nI can’t guarantee the results. It will be up to the chaos of the universe.\nJP :\n断言はできません。宇宙の摂理に従います。"
+  },
+  {
+    "key": "39-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "39-dialog",
+    "original": "저라면 다른 자를 보내겠어요. ",
+    "context": "EN :\nIf I were you, I would assign someone else to this task.\nJP :\n私なら他の者を前に出しますね。"
+  },
+  {
+    "key": "40-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "40-dialog",
+    "original": "당신을 관리자 직책에 앉힌 걸 후회하게 만들 선택이에요.",
+    "context": "EN :\nThis choice would make the decision to place you as our manager a regrettable one.\nJP :\n貴方を管理人の座に座らせたことを後悔させる選択ですね。"
+  },
+  {
+    "key": "41-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "41-dialog",
+    "original": "성공에 연연해 하지 마세요.",
+    "context": "EN :\nTry not to cling to this success.\nJP :\n成功に固執しないでください。"
+  },
+  {
+    "key": "42-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "42-dialog",
+    "original": "실패에 연연해 하지 마세요. ",
+    "context": "EN :\nTry not to dwell on this failure.\nJP :\n失敗に固執しないでください。"
+  }
+]

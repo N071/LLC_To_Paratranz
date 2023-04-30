@@ -1,0 +1,1542 @@
+[
+  {
+    "key": "mainui_main_button0-content",
+    "original": "유리창",
+    "context": "EN :\nWindow\nJP :\n硝子窓"
+  },
+  {
+    "key": "mainui_main_button1-content",
+    "original": "수감자",
+    "context": "EN :\nSinners\nJP :\n囚人"
+  },
+  {
+    "key": "mainui_main_button2-content",
+    "original": "상영관",
+    "context": "EN :\nTheater\nJP :\n上映館"
+  },
+  {
+    "key": "mainui_main_button3-content",
+    "original": "운전석",
+    "context": "EN :\nDrive\nJP :\n運転席"
+  },
+  {
+    "key": "mainui_main_button4-content",
+    "original": "추출",
+    "context": "EN :\nExtract\nJP :\n抽出"
+  },
+  {
+    "key": "mainui_main_button5-content",
+    "original": "자판기",
+    "context": "EN :\nDispense\nJP :\n自販機"
+  },
+  {
+    "key": "mainui_main_exp-content",
+    "original": "EXP",
+    "context": "EN :\nEXP\nJP :\nEXP"
+  },
+  {
+    "key": "mainui_main_stamina-content",
+    "original": "스태미너",
+    "context": "EN :\nStamina\nJP :\nスタミナ"
+  },
+  {
+    "key": "mainui_main_enkephalin-content",
+    "original": "엔케팔린",
+    "context": "EN :\nEnkephalin\nJP :\nエンケファリン"
+  },
+  {
+    "key": "mainui_main_madness-content",
+    "original": "광기",
+    "context": "EN :\nLunacy\nJP :\n狂気"
+  },
+  {
+    "key": "mainui_battleselection_everydungeon-content",
+    "original": "거울 던전",
+    "context": "EN :\nMirror Dungeons\nJP :\n鏡ダンジョン"
+  },
+  {
+    "key": "mainui_stageinfo_recommendlevel-content",
+    "original": "추천 레벨",
+    "context": "EN :\nDifficulty\nJP :\n推奨レベル"
+  },
+  {
+    "key": "mainui_stageinfo_enemyinfo-content",
+    "original": "적 정보",
+    "context": "EN :\nEnemy Info\nJP :\n敵情報"
+  },
+  {
+    "key": "mainui_stageinfo_exclearcondition-content",
+    "original": "EX 클리어 조건",
+    "context": "EN :\nEX Objectives\nJP :\nEXクリア条件"
+  },
+  {
+    "key": "mainui_stageinfo_statinfo-content",
+    "original": "스테이터스",
+    "context": "EN :\nStatus\nJP :\nステータス"
+  },
+  {
+    "key": "mainui_stageinfo_resistinfo-content",
+    "original": "내성 정보",
+    "context": "EN :\nResistances\nJP :\n耐性情報"
+  },
+  {
+    "key": "mainui_stageinfo_enterbutton-content",
+    "original": "입장",
+    "context": "EN :\nEnter\nJP :\n入場"
+  },
+  {
+    "key": "mainui_stageinfo_dungeonclear-content",
+    "original": "던전 클리어 조건",
+    "context": "EN :\nMain Objectives\nJP :\nダンジョンクリア条件"
+  },
+  {
+    "key": "mainui_sinners_battleannouncer-content",
+    "original": "아나운서",
+    "context": "EN :\nANNOUNCER\nJP :\nアナウンサー"
+  },
+  {
+    "key": "mainui_sinners_dante-content",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "mainui_sinners_decklist-content",
+    "original": "덱 목록",
+    "context": "EN :\nDECK LIST\nJP :\nデッキリスト"
+  },
+  {
+    "key": "mainui_sinners_deck-content",
+    "original": "덱",
+    "context": "EN :\nDeck\nJP :\nデッキ"
+  },
+  {
+    "key": "mainui_sinners_passive-content",
+    "original": "지속 효과",
+    "context": "EN :\nPASSIVES\nJP :\nパッシブ効果"
+  },
+  {
+    "key": "mainui_sinners_egoresource-content",
+    "original": "E.G.O 자원",
+    "context": "EN :\nAFFINITIES\nJP :\nE.G.O資源"
+  },
+  {
+    "key": "mainui_sinners_participant-content",
+    "original": "참여 인원 선택",
+    "context": "EN :\nSelect Participants\nJP :\n参加人員選択"
+  },
+  {
+    "key": "mainui_sinners_startbattle-content",
+    "original": "전투 시작",
+    "context": "EN :\nTo Battle!\nJP :\n戦闘開始"
+  },
+  {
+    "key": "mainui_common_personality-content",
+    "original": "인격",
+    "context": "EN :\nIdentities\nJP :\n人格"
+  },
+  {
+    "key": "mainui_common_filter-content",
+    "original": "필터",
+    "context": "EN :\nFilter\nJP :\nフィルター"
+  },
+  {
+    "key": "mainui_common_state-content",
+    "original": "현황",
+    "context": "EN :\nCurrent\nJP :\n現状"
+  },
+  {
+    "key": "mainui_common_sort-content",
+    "original": "정렬",
+    "context": "EN :\nSort\nJP :\nソート"
+  },
+  {
+    "key": "mainui_sinners_unequipego-content",
+    "original": "미장착",
+    "context": "EN :\nUnequipped\nJP :\n未装着"
+  },
+  {
+    "key": "mainui_skip_desc-content",
+    "original": "스킵 하시겠습니까?",
+    "context": "EN :\nAre you sure you want to skip?\nJP :\nスキップしますか？"
+  },
+  {
+    "key": "mainui_battleresult_reward-content",
+    "original": "보상",
+    "context": "EN :\nRewards\nJP :\n報酬"
+  },
+  {
+    "key": "mainui_battleresult_exclearreward-content",
+    "original": "EX 클리어 보상",
+    "context": "EN :\nEX Rewards\nJP :\nEXクリア報酬"
+  },
+  {
+    "key": "mainui_battleresult_statistics-content",
+    "original": "통계",
+    "context": "EN :\nStats\nJP :\n統計"
+  },
+  {
+    "key": "mainui_ok-content",
+    "original": "확인",
+    "context": "EN :\nConfirm\nJP :\n確認"
+  },
+  {
+    "key": "mainui_battleresult_victory-content",
+    "original": "전투 승리",
+    "context": "EN :\nVictory\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "mainui_battleresult_defeat-content",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "mainui_battleresult_return-content",
+    "original": "반환",
+    "context": "EN :\nReturn\nJP :\n返還"
+  },
+  {
+    "key": "mainui_battleresult_hint-content",
+    "original": "힌트",
+    "context": "EN :\nHint\nJP :\nヒント"
+  },
+  {
+    "key": "mainui_page-content",
+    "original": "{0}장",
+    "context": "EN :\nPg. {0}\nJP :\n{0}枚"
+  },
+  {
+    "key": "mainui_cancel-content",
+    "original": "취소",
+    "context": "EN :\nCancel\nJP :\nキャンセル"
+  },
+  {
+    "key": "mainui_select-content",
+    "original": "선택",
+    "context": "EN :\nSelect\nJP :\n選択"
+  },
+  {
+    "key": "mainui_select_finished-content",
+    "original": "선택 완료",
+    "context": "EN :\nFinalize\nJP :\n選択完了"
+  },
+  {
+    "key": "mainui_grade-content",
+    "original": "{0} 단계",
+    "context": "EN :\nStage {0}\nJP :\nレベル{0}"
+  },
+  {
+    "key": "mainui_floor-content",
+    "original": "{0}층",
+    "context": "EN :\nFloor {0}\nJP :\n{0}階"
+  },
+  {
+    "key": "mainui_main_enkephalin_Box-content",
+    "original": "엔케팔린 박스",
+    "context": "EN :\nEnkephalin Box\nJP :\nエンケファリンボックス"
+  },
+  {
+    "key": "mainui_main_own_count-content",
+    "original": "소지 수",
+    "context": "EN :\nOwned\nJP :\n所持数"
+  },
+  {
+    "key": "mainui_mirror_entrance_entry-content",
+    "original": "{0}에 입장하시겠습니까?",
+    "context": "EN :\nWill you enter {0}?\nJP :\n{0}へ入場しますか？"
+  },
+  {
+    "key": "mainui_mirror_entrance_progressing-content",
+    "original": "{0}을 진행 중입니다.",
+    "context": "EN :\n{0} is in progress.\nJP :\n{0}を進行中です。"
+  },
+  {
+    "key": "mainui_mirror_entrance_re_entry-content",
+    "original": "다시 입장하시겠습니까?",
+    "context": "EN :\nWill you reenter the dungeon?\nJP :\n再入場しますか？"
+  },
+  {
+    "key": "mainui_mirror_entrance_quit-content",
+    "original": "던전 탐사를 그만두시겠습니까?",
+    "context": "EN :\nQuit exploring the dungeon?\nJP :\nダンジョン探索を終了しますか？"
+  },
+  {
+    "key": "mainui_mirror_entrance_quit_former-content",
+    "original": "기존 던전 탐사를 그만두시겠습니까?",
+    "context": "EN :\nForfeit previous exploration progress?\nJP :\n進行中のダンジョン探索を終了しますか？"
+  },
+  {
+    "key": "mainui_mirror_entrance_warning-content",
+    "original": "※소비한 엔케팔린 모듈은 반환되지 않습니다.",
+    "context": "EN :\n※ Spent Enkephalin Modules will not be refunded.\nJP :\n※消費したエンケファリンモジュールは返還されません。"
+  },
+  {
+    "key": "mainui_proress-content",
+    "original": "진행",
+    "context": "EN :\nProceed\nJP :\n進行"
+  },
+  {
+    "key": "mainui_stop-content",
+    "original": "중단",
+    "context": "EN :\nHalt\nJP :\n中断"
+  },
+  {
+    "key": "mainui_next-content",
+    "original": "다음",
+    "context": "EN :\nNext\nJP :\n次へ"
+  },
+  {
+    "key": "mainui_ego_list-content",
+    "original": "E.G.O 목록",
+    "context": "EN :\nE.G.O List\nJP :\nE.G.Oリスト"
+  },
+  {
+    "key": "mainui_personality_list-content",
+    "original": "인격 목록",
+    "context": "EN :\nIdentity List\nJP :\n人格リスト"
+  },
+  {
+    "key": "mainui_acquired_reward-content",
+    "original": "획득 보상",
+    "context": "EN :\nRewards Acquired\nJP :\n獲得報酬"
+  },
+  {
+    "key": "mainui_dungeon_finished-content",
+    "original": "탐사 종료",
+    "context": "EN :\nPause Exploration\nJP :\n探査終了"
+  },
+  {
+    "key": "mainui_category-content",
+    "original": "범례",
+    "context": "EN :\nLegend\nJP :\nカテゴリ"
+  },
+  {
+    "key": "mainui_stats_hp-content",
+    "original": "체력",
+    "context": "EN :\nHP\nJP :\n体力"
+  },
+  {
+    "key": "mainui_stats_speed-content",
+    "original": "속도",
+    "context": "EN :\nSPD\nJP :\n速度"
+  },
+  {
+    "key": "mainui_stats_defense-content",
+    "original": "방어 레벨",
+    "context": "EN :\nDefense Level\nJP :\n防御レベル"
+  },
+  {
+    "key": "mainui_upgrade-content",
+    "original": "강화",
+    "context": "EN :\nPower-up\nJP :\n強化"
+  },
+  {
+    "key": "mainui_mirror_select_ego-content",
+    "original": "E.G.O 선택으로 이동",
+    "context": "EN :\nTo E.G.O\nJP :\nE.G.O選択へ移動"
+  },
+  {
+    "key": "mainui_mirror_opening-content",
+    "original": "개방 중",
+    "context": "EN :\nNow Open\nJP :\n開放中"
+  },
+  {
+    "key": "mainui_simulation-content",
+    "original": "시뮬레이션",
+    "context": "EN :\nSimulation\nJP :\nシミュレーション"
+  },
+  {
+    "key": "mainui_untill-content",
+    "original": "까지",
+    "context": "EN :\nExpiry\nJP :\nまで"
+  },
+  {
+    "key": "mainui_free-content",
+    "original": "무료",
+    "context": "EN :\nFree\nJP :\n無償"
+  },
+  {
+    "key": "mainui_paid-content",
+    "original": "유료",
+    "context": "EN :\nPaid\nJP :\n有償"
+  },
+  {
+    "key": "mainui_support-content",
+    "original": "지원",
+    "context": "EN :\nSupport\nJP :\nサポート"
+  },
+  {
+    "key": "mainui_gacha_rateinfo-content",
+    "original": "확률 상세보기",
+    "context": "EN :\nProbabilities\nJP :\n確率の詳細"
+  },
+  {
+    "key": "mainui_gacha_history-content",
+    "original": "추출 이력",
+    "context": "EN :\nExtraction History\nJP :\n抽出履歴"
+  },
+  {
+    "key": "mainui_gacha_daliynotice-content",
+    "original": "매일 {0}시에 초기화",
+    "context": "EN :\nResets each day at {0}:00\nJP :\n毎日{0}時にリセット"
+  },
+  {
+    "key": "mainui_gacha_alreadyusedgacha-content",
+    "original": "금일 이용 가능 횟수 이용 완료",
+    "context": "EN :\nDaily Quota Exhausted\nJP :\n本日分の利用上限到達"
+  },
+  {
+    "key": "mainui_gacha_extract1-content",
+    "original": "1회 추출",
+    "context": "EN :\nExtract 1\nJP :\n1回抽出"
+  },
+  {
+    "key": "mainui_gacha_extract10-content",
+    "original": "10회 추출",
+    "context": "EN :\nExtract 10\nJP :\n10回抽出"
+  },
+  {
+    "key": "mainui_open_battlepass-content",
+    "original": "배틀 패스가 열렸습니다!",
+    "context": "EN :\nThe Battle Pass is unlocked!\nJP :\nバトルパスが解放されました！"
+  },
+  {
+    "key": "mainui_grade_without_space-content",
+    "original": "{0}단계",
+    "context": "EN :\nStep {0}\nJP :\nレベル{0}"
+  },
+  {
+    "key": "mainui_type-content",
+    "original": "유형",
+    "context": "EN :\nType\nJP :\nタイプ"
+  },
+  {
+    "key": "mainui_level_unit-content",
+    "original": "{0}성",
+    "context": "EN :\n{0}★\nJP :\n星{0}"
+  },
+  {
+    "key": "mainui_Change_lobby_illust-content",
+    "original": "로비 일러스트 변경",
+    "context": "EN :\nChange Lobby Art\nJP :\nロビーイラストの変更"
+  },
+  {
+    "key": "mainui_lobby_illust_acquisition_method-content",
+    "original": "획득 조건",
+    "context": "EN :\nTo Unlock:\nJP :\n獲得条件"
+  },
+  {
+    "key": "mainui_networkingerror_content-content",
+    "original": "네트워크가 불안정 합니다.\n 네트워크 상태를 확인해주세요",
+    "context": "EN :\nThe network is unstable.\nPlease check your Internet connection.\nJP :\nネットワークが不安定です。\nネットワーク状態を確認してください。"
+  },
+  {
+    "key": "mainui_networkingerror_close-content",
+    "original": "닫기",
+    "context": "EN :\nClose\nJP :\n閉じる"
+  },
+  {
+    "key": "mainui_networkingerror_retry-content",
+    "original": "재시도",
+    "context": "EN :\nRetry\nJP :\nリトライ"
+  },
+  {
+    "key": "mainui_event_notice-content",
+    "original": "이벤트 공지",
+    "context": "EN :\nEvent Notifs\nJP :\nイベント告知"
+  },
+  {
+    "key": "mainui_system_notice-content",
+    "original": "시스템 공지",
+    "context": "EN :\nSystem Notifs\nJP :\nシステム告知"
+  },
+  {
+    "key": "mainui_team-content",
+    "original": "팀",
+    "context": "EN :\nTeam\nJP :\nチーム"
+  },
+  {
+    "key": "mainui_cost-content",
+    "original": "코스트",
+    "context": "EN :\nCost\nJP :\nコスト"
+  },
+  {
+    "key": "mainui_dungeon_progress_rate-content",
+    "original": "던전 진행도",
+    "context": "EN :\nDungeon Progress\nJP :\nダンジョン進行度"
+  },
+  {
+    "key": "mainui_guaranteed_reward-content",
+    "original": "확정 보상",
+    "context": "EN :\nRewards\nJP :\n確定報酬"
+  },
+  {
+    "key": "mainui_select_reward-content",
+    "original": "선택 보상",
+    "context": "EN :\nOptional Rewards\nJP :\n選択報酬"
+  },
+  {
+    "key": "mainui_battle_pass_exp-content",
+    "original": "배틀 패스 경험치",
+    "context": "EN :\nBattle Pass XP\nJP :\nバトルパス経験値"
+  },
+  {
+    "key": "mainui_enforce_ticket-content",
+    "original": "강화 티켓",
+    "context": "EN :\nUpgrade Tickets\nJP :\n強化チケット"
+  },
+  {
+    "key": "mainui_reward_random_box-content",
+    "original": "랜덤 자아 파편 상자",
+    "context": "EN :\nEgoshard Crates\nJP :\n自我の破片ボックス(ランダム)"
+  },
+  {
+    "key": "mainui_reward_select_box-content",
+    "original": "선택 자아 파편 상자",
+    "context": "EN :\nNominable Egoshard Crates\nJP :\n自我の破片ボックス(セレクト)"
+  },
+  {
+    "key": "mainui_manaUsage-content",
+    "original": "정신 소모량",
+    "context": "EN :\nSanity Cost\nJP :\n精神消耗量"
+  },
+  {
+    "key": "mainui_abnormality_analysis_level-content",
+    "original": "환상 해석 단계",
+    "context": "EN :\nCurrent Tier\nJP :\n幻想解析段階"
+  },
+  {
+    "key": "mainui_analysis-content",
+    "original": "해석",
+    "context": "EN :\nThreadspin\nJP :\n解析"
+  },
+  {
+    "key": "mainui_abnormality_analysis-content",
+    "original": "환상 해석",
+    "context": "EN :\nThreadspinning\nJP :\n幻想解析"
+  },
+  {
+    "key": "mainui_receive-content",
+    "original": "수령",
+    "context": "EN :\nReceive\nJP :\n受け取る"
+  },
+  {
+    "key": "mainui_dungeon_finished_reward-content",
+    "original": "탐사 종료 보상",
+    "context": "EN :\nExploration Reward\nJP :\n探査終了報酬"
+  },
+  {
+    "key": "mainui_passive-content",
+    "original": "패시브",
+    "context": "EN :\nPassives\nJP :\nパッシブ"
+  },
+  {
+    "key": "mainui_support_passive-content",
+    "original": "서포트 패시브",
+    "context": "EN :\nSupport\nJP :\nサポートパッシブ"
+  },
+  {
+    "key": "mainui_synchronization-content",
+    "original": "동기화",
+    "context": "EN :\nUptie\nJP :\n同期化"
+  },
+  {
+    "key": "mainui_personality_synchronization_level-content",
+    "original": "인격 동기화 레벨",
+    "context": "EN :\nUptie Tier\nJP :\n人格同期化レベル"
+  },
+  {
+    "key": "mainui_owned-content",
+    "original": "보유",
+    "context": "EN :\nOwned\nJP :\n保有"
+  },
+  {
+    "key": "mainui_growth_level_limited-content",
+    "original": "Lv. {0} 이상 사용 불가",
+    "context": "EN :\nCannot use at Lv. {0}+\nJP :\nLv.{0}以上 使用不能"
+  },
+  {
+    "key": "mainui_stats_attack-content",
+    "original": "공격력",
+    "context": "EN :\nATK\nJP :\n攻撃力"
+  },
+  {
+    "key": "mainui_mailbox_receive_all-content",
+    "original": "일괄 수령",
+    "context": "EN :\nReceive All\nJP :\n一括受け取り"
+  },
+  {
+    "key": "mainui_mailbox_receive_history-content",
+    "original": "수령 이력",
+    "context": "EN :\nHistory\nJP :\n受け取り履歴"
+  },
+  {
+    "key": "mainui_remain_days-content",
+    "original": "{0}일 남음",
+    "context": "EN :\n{0} days left\nJP :\n残り{0}日"
+  },
+  {
+    "key": "mainui_mail_remains_count-content",
+    "original": "보관중인 우편",
+    "context": "EN :\nInbox\nJP :\n保管中のメール"
+  },
+  {
+    "key": "mainui_mail_warning-content",
+    "original": "※ 최대 100개 까지 보관이 가능하며, 기한이 지난 선물은 <color=#990000>삭제</color>됩니다.",
+    "context": "EN :\n※ Maximum capacity is 100; expired mail will be <color=#990000>deleted</color>.\nJP :\n※最大100つまでまで保管が可能です。期限の過ぎたプレゼントは<color=#990000>削除</color>されます。"
+  },
+  {
+    "key": "mainui_mail_warning2-content",
+    "original": "※ 우편함에서 수령한 아이템은 청약 철회가 제한될 수 있습니다.",
+    "context": "EN :\n※ Items received at the mailbox may be subject to cancellation restrictions.\nJP :\n※郵便箱から受け取ったアイテムは請約撤回が制限されることがあります。"
+  },
+  {
+    "key": "main_information-content",
+    "original": "정보",
+    "context": "EN :\nInfo\nJP :\n情報"
+  },
+  {
+    "key": "main_until-content",
+    "original": "까지",
+    "context": "EN :\nExpiry\nJP :\nまで"
+  },
+  {
+    "key": "mainui_synchronization_grade-content",
+    "original": "동기화 단계",
+    "context": "EN :\nUptie Tier\nJP :\n同期化段階"
+  },
+  {
+    "key": "mainui_organization-content",
+    "original": "편성",
+    "context": "EN :\nTEAMS\nJP :\n編成"
+  },
+  {
+    "key": "story_ui_log_popup-content",
+    "original": "로그",
+    "context": "EN :\nLog\nJP :\nログ"
+  },
+  {
+    "key": "mail_box_attachments-content",
+    "original": "우편 내용물",
+    "context": "EN :\nContent\nJP :\n郵便物"
+  },
+  {
+    "key": "mail_box_unseal_result-content",
+    "original": "우편 보상",
+    "context": "EN :\nParcel Received\nJP :\n郵便報酬"
+  },
+  {
+    "key": "item_use_result-content",
+    "original": "아이템 사용 결과",
+    "context": "EN :\nItem Used\nJP :\nアイテム使用結果"
+  },
+  {
+    "key": "giving_up_story_dungeon_title-content",
+    "original": "스토리 던전 포기",
+    "context": "EN :\nForfeit Story Dungeon\nJP :\nギブアップ"
+  },
+  {
+    "key": "giving_up_story_dungeon_content-content",
+    "original": "현재 {0}장 스토리 던전을 진행 중입니다.\n진행을 포기하고 새로운 던전에 도전하시겠습니까?",
+    "context": "EN :\nYou’re currently exploring Episode {0}’s Story Dungeon.\nForfeit your progress and enter a new dungeon?\nJP :\n現在{0}章のストーリーダンジョンを進行中です。\nギブアップして新しいダンジョンに挑戦しますか？"
+  },
+  {
+    "key": "mainui_all-content",
+    "original": "전체",
+    "context": "EN :\nAll\nJP :\n全体"
+  },
+  {
+    "key": "mainui_opened-content",
+    "original": "개방",
+    "context": "EN :\nOpen\nJP :\n解放"
+  },
+  {
+    "key": "mainui_not_opened-content",
+    "original": "미개방",
+    "context": "EN :\nLocked\nJP :\n未解放"
+  },
+  {
+    "key": "mainui_buy-content",
+    "original": "구매",
+    "context": "EN :\nConfirm\nJP :\n購入"
+  },
+  {
+    "key": "mainui_use-content",
+    "original": "사용",
+    "context": "EN :\nUse\nJP :\n使用"
+  },
+  {
+    "key": "mainui_consume-content",
+    "original": "소모",
+    "context": "EN :\nConsumable\nJP :\n消耗"
+  },
+  {
+    "key": "mainui_currencies-content",
+    "original": "재화",
+    "context": "EN :\nCurrency\nJP :\n通貨"
+  },
+  {
+    "key": "mainui_inventory-content",
+    "original": "인벤토리",
+    "context": "EN :\nInventory\nJP :\nインベントリ"
+  },
+  {
+    "key": "mainui_awaken_requirement_amount-content",
+    "original": "필요 끈 수량",
+    "context": "EN :\nThread Req.\nJP :\n必要な紐の数"
+  },
+  {
+    "key": "mainui_passive_skill_addition-content",
+    "original": "패시브 스킬 추가",
+    "context": "EN :\nPassives Unlocked\nJP :\nパッシブスキル追加"
+  },
+  {
+    "key": "mainui_ego_awaken_skill_reinforcement-content",
+    "original": "E.G.O 각성 스킬 강화",
+    "context": "EN :\nE.G.O Awakening Upgraded\nJP :\nE.G.O覚醒スキル強化"
+  },
+  {
+    "key": "mainui_ego_erosion_skill_reinforcement-content",
+    "original": "E.G.O 침식 스킬 강화",
+    "context": "EN :\nE.G.O Corrosion Upgraded\nJP :\nE.G.O侵蝕スキル強化"
+  },
+  {
+    "key": "mainui_lack_of_material_amount-content",
+    "original": "끈이 부족합니다.",
+    "context": "EN :\nNot enough Thread.\nJP :\n紐が不足しています。"
+  },
+  {
+    "key": "mainui_move-content",
+    "original": "이동",
+    "context": "EN :\nGo\nJP :\n移動"
+  },
+  {
+    "key": "mainui_move_to_twine_store-content",
+    "original": "끈 상점 이동",
+    "context": "EN :\nThread Exchange\nJP :\n紐ショップへ移動"
+  },
+  {
+    "key": "mainui_move_to_twine_store_question-content",
+    "original": "끈이 부족합니다.\n끈 상점으로 이동하시겠습니까?",
+    "context": "EN :\nInsufficient Thread.\nGo to the Thread Exchange?\nJP :\n紐が不足しています。\n紐ショップへ移動しますか？"
+  },
+  {
+    "key": "mainui_confirm_of_purchased_twine-content",
+    "original": "끈 {0}개를 구입하시겠습니까?",
+    "context": "EN :\nConvert to {0} Thread?\nJP :\n紐{0}本を購入しますか？"
+  },
+  {
+    "key": "mainui_result_of_purchased_twine-content",
+    "original": "끈 {0}개를 구입하였습니다.",
+    "context": "EN :\nAcquired {0} Thread.\nJP :\n紐{0}本を購入しました。"
+  },
+  {
+    "key": "mainui_personality_awaken_completion-content",
+    "original": "인격 동기화 완료",
+    "context": "EN :\nIdentity Uptied\nJP :\n人格同期化完了"
+  },
+  {
+    "key": "mainui_ego_awaken_completion-content",
+    "original": "환상 해석 완료",
+    "context": "EN :\nE.G.O Threadspun\nJP :\n幻想解析完了"
+  },
+  {
+    "key": "mainui_new_skill_acquisition-content",
+    "original": "신규 스킬 [{0}] 획득",
+    "context": "EN :\nNew Skill: [{0}]\nJP :\n新規スキル[{0}]獲得"
+  },
+  {
+    "key": "mainui_new_passive_skill_acquisition-content",
+    "original": "신규 패시브 스킬 [{0}] 획득",
+    "context": "EN :\nNew Passive: [{0}]\nJP :\n新規パッシブスキル[{0}]獲得"
+  },
+  {
+    "key": "mainui_new_battle_passive_acquisition-content",
+    "original": "신규 전투 패시브 [{0}] 획득",
+    "context": "EN :\nNew Combat Passive: [{0}]\nJP :\n新規バトルパッシブ[{0}]獲得"
+  },
+  {
+    "key": "mainui_new_support_passive_acquisition-content",
+    "original": "신규 서포트 패시브 [{0}] 획득",
+    "context": "EN :\nNew Support Passive: [{0}]\nJP :\n新規サポートパッシブ [{0}]獲得"
+  },
+  {
+    "key": "mainui_skill_reinforcement-content",
+    "original": "스킬 [{0}] 강화",
+    "context": "EN :\nSkill Enhanced: [{0}]\nJP :\nスキル[{0}]強化"
+  },
+  {
+    "key": "mainui_unlock_personality_story-content",
+    "original": "[{0}]의 이야기 개방",
+    "context": "EN :\nStory of [{0}] Unlocked\nJP :\n[{0}]のストーリーが解放"
+  },
+  {
+    "key": "mainui_ego_awaken_skill_name_reinforcement-content",
+    "original": "E.G.O 각성 스킬 [{0}] 강화",
+    "context": "EN :\nE.G.O Awakening [{0}] Upgraded\nJP :\nE.G.O覚醒スキル[{0}]強化"
+  },
+  {
+    "key": "mainui_ego_erosion_skill_name_reinforcement-content",
+    "original": "E.G.O 침식 스킬 [{0}] 강화",
+    "context": "EN :\nE.G.O Corrosion [{0}] Upgraded\nJP :\nE.G.O侵蝕スキル[{0}]強化"
+  },
+  {
+    "key": "mainui_specific_level_achievement-content",
+    "original": "LV{0} 달성",
+    "context": "EN :\nReach Lv. {0}\nJP :\nLV{0}到達"
+  },
+  {
+    "key": "mainui_personality_awaken_level_up_condition-content",
+    "original": "동기화 {0}단계 조건",
+    "context": "EN :\nUptie Tier {0} Requirements\nJP :\n条件：同期化{0}段階"
+  },
+  {
+    "key": "mainui_battle_passsive_addition-content",
+    "original": "배틀 패시브 추가",
+    "context": "EN :\nCombat Passives Unlocked\nJP :\nバトルパッシブ追加"
+  },
+  {
+    "key": "mainui_support_passsive_addition-content",
+    "original": "서포트 패시브 추가",
+    "context": "EN :\nSupport Passives Unlocked\nJP :\nサポートパッシブ追加"
+  },
+  {
+    "key": "mainui_check_purchase-content",
+    "original": "구매 확인",
+    "context": "EN :\nConfirm Purchase\nJP :\n購入確認"
+  },
+  {
+    "key": "mainui_acquire_banner-content",
+    "original": "배너 획득",
+    "context": "EN :\nBanner Acquired\nJP :\nバナー獲得"
+  },
+  {
+    "key": "mainui_purchase_complete-content",
+    "original": "구매 완료",
+    "context": "EN :\nPurchased\nJP :\n購入完了"
+  },
+  {
+    "key": "mainui_activation-content",
+    "original": "활성화",
+    "context": "EN :\nACTIVATED\nJP :\n活性化"
+  },
+  {
+    "key": "mainui_ask_purchase_enkephalin-content",
+    "original": "엔케팔린이 부족합니다.\n엔케팔린 충전 창으로 이동하시겠습니까?",
+    "context": "EN :\nInsufficient Enkephalin.\nWould you like to recharge your Enkephalin?\nJP :\nエンケファリンが不足しています。\nエンケファリンチャージウィンドウへ移動しますか？"
+  },
+  {
+    "key": "mainui_ask_purchase_enkephalin_box-content",
+    "original": "엔케팔린 박스가 부족합니다.\n엔케팔린 박스를 구매하시겠습니까?",
+    "context": "EN :\nYou don’t have enough Enkephalin Boxes.\nWould you like to go purchase some?\nJP :\nエンケファリンボックスが不足しています。\nエンケファリンボックスを購入しますか？"
+  },
+  {
+    "key": "mainui_rewatching-stage-story-content",
+    "original": "스토리 다시보기",
+    "context": "EN :\nRewatch Story\nJP :\nストーリーの再読"
+  },
+  {
+    "key": "mainui_before_battle-content",
+    "original": "전투 전",
+    "context": "EN :\nPre-battle\nJP :\n戦闘前"
+  },
+  {
+    "key": "mainui_after_battle-content",
+    "original": "전투 후",
+    "context": "EN :\nPost-battle\nJP :\n戦闘後"
+  },
+  {
+    "key": "mainui_story-content",
+    "original": "스토리",
+    "context": "EN :\nStory\nJP :\nストーリー"
+  },
+  {
+    "key": "Get_Reward-content",
+    "original": "보상 획득",
+    "context": "EN :\nRewards Earned\nJP :\n報酬獲得"
+  },
+  {
+    "key": "mainui_user_exp-content",
+    "original": "관리자 경험치",
+    "context": "EN :\nManager EXP\nJP :\n管理人経験値"
+  },
+  {
+    "key": "mainui_chapter_progress-content",
+    "original": "챕터 진행도",
+    "context": "EN :\nProgress\nJP :\nチャプター進行度"
+  },
+  {
+    "key": "mainui_ex_clear_progress-content",
+    "original": "EX-클리어",
+    "context": "EN :\nEX Cleared\nJP :\nEX-クリア"
+  },
+  {
+    "key": "mainui_notice_spend_free_lunacy_first-content",
+    "original": "※무료 광기부터 먼저 사용됩니다.",
+    "context": "EN :\n※ Free Lunacy is used first.\nJP :\n※無償狂気から先に使用されます。"
+  },
+  {
+    "key": "mainui_notice_require_lunacy-content",
+    "original": "※광기가 부족합니다.",
+    "context": "EN :\n※ Not enough Lunacy.\nJP :\n※狂気が不足しています。"
+  },
+  {
+    "key": "mainui_progress_of_spend-content",
+    "original": "{0}을(를) 소비하여 {1}을(를) 진행합니다.",
+    "context": "EN :\nSpend {0} to proceed with {1}?\nJP :\n{0}を消費し、{1}を進めます。"
+  },
+  {
+    "key": "game_setting-content",
+    "original": "게임 설정",
+    "context": "EN :\nConfig\nJP :\nゲーム設定"
+  },
+  {
+    "key": "level-content",
+    "original": "레벨",
+    "context": "EN :\nLevel\nJP :\nレベル"
+  },
+  {
+    "key": "name-content",
+    "original": "이름",
+    "context": "EN :\nName\nJP :\n名前"
+  },
+  {
+    "key": "order_of_acquisition-content",
+    "original": "획득 순",
+    "context": "EN :\nHire Date\nJP :\n獲得順"
+  },
+  {
+    "key": "tolerance-content",
+    "original": "내성",
+    "context": "EN :\nResist\nJP :\n耐性"
+  },
+  {
+    "key": "outstanding_staff-content",
+    "original": "우수 사원",
+    "context": "EN :\nMost Valued Employee\nJP :\n優秀社員"
+  },
+  {
+    "key": "total_damage_contribution-content",
+    "original": "총 대미지 기여량",
+    "context": "EN :\nDamage Contributed\nJP :\n総ダメージ寄与量"
+  },
+  {
+    "key": "deal_damage-content",
+    "original": "가한 피해량",
+    "context": "EN :\nDealt\nJP :\n与ダメージ量"
+  },
+  {
+    "key": "taken_damage-content",
+    "original": "받은 피해량",
+    "context": "EN :\nTaken\nJP :\n被ダメージ量"
+  },
+  {
+    "key": "user_level_up_notice-content",
+    "original": "관리자 레벨이 상승했습니다.",
+    "context": "EN :\nManager Level Increased!\nJP :\n管理人レベルが上昇しました。"
+  },
+  {
+    "key": "increase_maxium_enkephalin-content",
+    "original": "엔케팔린 최대치 상승",
+    "context": "EN :\nEnkephalin Capacity Up!\nJP :\nエンケファリン最大値が上昇"
+  },
+  {
+    "key": "recharge_enkephalin_notice-content",
+    "original": "엔케팔린이 충전되었습니다.",
+    "context": "EN :\nEnkephalin has been refilled.\nJP :\nエンケファリンがチャージされました。"
+  },
+  {
+    "key": "gacha_extract_multiple-content",
+    "original": "{0}회 추출",
+    "context": "EN :\nExtract {0}\nJP :\n{0}回抽出"
+  },
+  {
+    "key": "number_of_times-content",
+    "original": "회",
+    "context": "EN :\nTime(s)\nJP :\n回"
+  },
+  {
+    "key": "number_of_remain_extract_times-content",
+    "original": "남은 추출 횟수",
+    "context": "EN :\nExtractions Remaining\nJP :\n残り抽出階数"
+  },
+  {
+    "key": "notice_of_remain_extract_chance-content",
+    "original": "{0}회 이내 3성 인격 또는 E.G.O 확정 등장",
+    "context": "EN :\n3★ Identity or E.G.O assured in {0} Extractions\nJP :\n{0}回以内に星3人格、またはE.G.Oが確定排出"
+  },
+  {
+    "key": "mainui_settings-content",
+    "original": "설정",
+    "context": "EN :\nSettings\nJP :\n設定"
+  },
+  {
+    "key": "mainui_environment_settings-content",
+    "original": "환경 설정",
+    "context": "EN :\nSettings\nJP :\n環境設定"
+  },
+  {
+    "key": "mainui_back-content",
+    "original": "돌아가기",
+    "context": "EN :\nReturn\nJP :\n戻る"
+  },
+  {
+    "key": "mainui_quit_game-content",
+    "original": "게임 종료",
+    "context": "EN :\nQuit Game\nJP :\nゲーム終了"
+  },
+  {
+    "key": "mainui_acquisition-content",
+    "original": "획득",
+    "context": "EN :\nOwned\nJP :\n獲得"
+  },
+  {
+    "key": "mainui_not_acquisition-content",
+    "original": "미획득",
+    "context": "EN :\nUnowned\nJP :\n未獲得"
+  },
+  {
+    "key": "mainui_no_record-content",
+    "original": "획득 기록 없음",
+    "context": "EN :\nNo Record\nJP :\n獲得記録なし"
+  },
+  {
+    "key": "resume-content",
+    "original": "재개",
+    "context": "EN :\nResume\nJP :\n再開"
+  },
+  {
+    "key": "mainui_entering-content",
+    "original": "입장하기",
+    "context": "EN :\nEnter\nJP :\n入場"
+  },
+  {
+    "key": "mainui_open_after_clear-content",
+    "original": "{0}장 클리어 후 개방",
+    "context": "EN :\nClear Ch. {0} to Unlock\nJP :\n{0}章クリア後に解放"
+  },
+  {
+    "key": "mainui_organization_sharp-content",
+    "original": "편성 #{0}",
+    "context": "EN :\nTeam #{0}\nJP :\n編成#{0}"
+  },
+  {
+    "key": "mainui_participant_count-content",
+    "original": "편성 편집",
+    "context": "EN :\nEdit Team\nJP :\n編成の編集"
+  },
+  {
+    "key": "mainui_edit-content",
+    "original": "편집",
+    "context": "EN :\nEdit\nJP :\n編集"
+  },
+  {
+    "key": "mainui_unlock_condition_by_personality_awaken_level-content",
+    "original": "동기화 {0}단계 개방",
+    "context": "EN :\nUnlocked at Tier {0}\nJP :\n同期化{0}段階 解放"
+  },
+  {
+    "key": "skill_growth_value-content",
+    "original": "성장계수",
+    "context": "EN :\nGrowth\nJP :\n成長係数"
+  },
+  {
+    "key": "gacha_history_notice-content",
+    "original": "※지난 {0}일간 이력이 최대 {1}건 표기됩니다.",
+    "context": "EN :\n※ Up to {1} cases over the last {0} days are displayed.\nJP :\n※{0}日前までの履歴が最大{1}件表示されます。"
+  },
+  {
+    "key": "gacha_history_empty-content",
+    "original": "추출 이력이 없습니다.",
+    "context": "EN :\nNo extraction record to display.\nJP :\n抽出履歴がありません。"
+  },
+  {
+    "key": "own-content",
+    "original": "소지",
+    "context": "EN :\nOwned\nJP :\n所持"
+  },
+  {
+    "key": "gacha_category-content",
+    "original": "추출 종류",
+    "context": "EN :\nCategory\nJP :\n抽出種類"
+  },
+  {
+    "key": "gacha_time-content",
+    "original": "추출 일시",
+    "context": "EN :\nDate\nJP :\n抽出日程"
+  },
+  {
+    "key": "used_currencies-content",
+    "original": "사용 재화",
+    "context": "EN :\nCurrency Used\nJP :\n使用通貨"
+  },
+  {
+    "key": "mainui_ask_purchase_enkephalin_module-content",
+    "original": "엔케팔린 모듈이 부족합니다.\n엔케팔린 모듈을 제작하시겠습니까?",
+    "context": "EN :\nYou don’t have enough Enkephalin Modules.\nWould you like to go assemble some?\nJP :\nエンケファリンモジュールが不足しています。\nエンケファリンモジュールを製作しますか？"
+  },
+  {
+    "key": "list-content",
+    "original": "목록",
+    "context": "EN :\nList\nJP :\nリスト"
+  },
+  {
+    "key": "rank-content",
+    "original": "등급",
+    "context": "EN :\nRarity\nJP :\nランク"
+  },
+  {
+    "key": "probability-content",
+    "original": "확률",
+    "context": "EN :\nOdds\nJP :\n確率"
+  },
+  {
+    "key": "gacha_rate_label-content",
+    "original": "추출 확률 안내",
+    "context": "EN :\nExtraction Probabilities\nJP :\n抽出確率の案内"
+  },
+  {
+    "key": "gacha_rate_title_ten1-content",
+    "original": "[10회 추출 (1~9번째 추출)]: [1회 추출]과 동일",
+    "context": "EN :\n[10 Extractions (1st-9th)]: Same rates as [1 Extraction]\nJP :\n[10回抽出(1～9回目)]：[1回抽出]と同一"
+  },
+  {
+    "key": "gacha_rate_title_ten2-content",
+    "original": "[10회 추출 (10번째 추출)]",
+    "context": "EN :\n[10 Extractions (10th)]\nJP :\n[10回抽出(10回目)]"
+  },
+  {
+    "key": "gacha_rate_info_intro1-content",
+    "original": "「한국게임산업협회의 자율 규제」에 따라 확률형 아이템의 상세 확률을 안내드립니다.\n\n개별 등장 확률은 소수점 5번째 자리에서 반올림한 수치이며, 실제 합산 확률은 100%에 맞추어 적용됩니다.",
+    "context": "EN :\nIn compliance with the 「Voluntary Restraint Guidelines of Korea Association of Game Industry」, detailed rates for chance-based items are disclosed here.\n\nIndividual rates are rounded up from the fifth digit after the decimal point. The actual sum is applied as 100%.\nJP :\n「韓国ゲーム産業協会の自律規制」に従い、確率型アイテムの詳細確率をご案内します。\n\n個別排出確率は小数点の5桁目から四捨五入した数値であり、実際の合算確率は100%に合わせて適用されます。"
+  },
+  {
+    "key": "gacha_rate_info_intro2-content",
+    "original": "10회 추출을 진행할 경우에는 2성 이상의 인격 1명을 확정으로 획득합니다.\n\n이에 따라 10번째 추출의 등장 확률은 다음과 같습니다.",
+    "context": "EN :\nIn [10 Extractions], at least 1 Identity with a rarity of 2★ or higher will be extracted.\n\nThe table for the 10th Extraction is as follows:\nJP :\n10回抽出を行う場合は、星2以上の人格1名が確定で排出されます。\n\nこれにより、10番目の抽出の排出確率は以下の通りです。"
+  },
+  {
+    "key": "gacha_rate_info_ego1-content",
+    "original": "상단에 있는 추출 확률에 따라 하단에 명시된 목록에 있는 인격과 E.G.O를 획득할 수 있습니다.\n\n획득할 수 있는 인격과 E.G.O는 특정 시즌에 따라 변경될 수 있으며, 이러한 경우에는 변경 전에 공지사항을 통해 미리 안내합니다.",
+    "context": "EN :\nBelow is the list of Identities and E.G.O you can obtain following the aforementioned rates.\n\nThe list may change in certain seasons; upcoming changes to the reward tables will be announced in advance.\nJP :\n上段にある抽出確率によって、下段にて明示されたリストにある人格とE.G.Oを獲得することができます。\n\n獲得できる人格とE.G.Oは、特定のシーズンによって変更されることがあり、この場合は変更前にお知らせを通じて事前にご案内します。"
+  },
+  {
+    "key": "gacha_rate_info_ego2-content",
+    "original": "<b>추출 진행 시 E.G.O는 비복원 추출로 진행되며, 추출이나 자판기 또는 보상을 수령하여 획득한 E.G.O는 추출을 통해 획득할 수 있는 목록에서 제외됩니다.</b>\n\n획득할 수 있는 목록에 E.G.O가 존재한다면 추출을 통해 E.G.O를 획득할 확률은 변동되지 않습니다. 이에 따라 E.G.O를 획득할수록 E.G.O의 개별 획득 확률은 증가합니다.",
+    "context": "EN :\n<b>E.G.O is extracted non-repetitively; E.G.O acquired through any means, including Extraction, Dispenser, and redemption from the mailbox, will be excluded from the Extraction table.</b>\n\nAs long as there is E.G.O remaining in the table of possible results, the chance of extracting E.G.O in Extraction does not change. Therefore, the chance of acquiring specific E.G.O will increase as more extractions are performed.\nJP :\n<b>抽出進行時、E.G.Oは非復元抽出で行われ、抽出や自販機、または報酬を受けて獲得したE.G.Oは抽出によって獲得できるリストから除外されます。</b>\n\n獲得可能リストにE.G.Oが存在する場合、抽出によってE.G.Oを獲得する確率は変動しません。これにより、E.G.Oを獲得するほどE.G.Oの個別獲得確率は増加します。"
+  },
+  {
+    "key": "gacha_rate_info_complete1-content",
+    "original": "목록 내에 있는 모든 E.G.O를 획득하여 더 이상 목록에 E.G.O가 존재하지 않게 된다면 1회 추출 시와 10회 추출 시의 등장 확률은 다음과 같이 변경됩니다.",
+    "context": "EN :\nIf there is no E.G.O remaining in the table due to the user acquiring all of them, the rates for [1 Extraction] and [10 Extraction] will change accordingly to the following:\nJP :\nリスト内にある全てのE.G.Oを獲得してリストからE.G.O消えた場合、1回抽出時と10回抽出時の排出確率は以下のように変更されます。"
+  },
+  {
+    "key": "gacha_rate_info_complete2-content",
+    "original": "특정 추출 인격 또는 E.G.O가 등장할 경우에는 특정 추출 확률이 적용되어 추출 확률이 증가합니다.\n\n특정 추출 확률 인격이 등장할 경우, 해당 특정 추출 인격과 동일한 등급 인격이 등장할 확률의 50%를 동일한 단계의 특정 추출 인격 수만큼 균등하게 분배합니다.\n\n특정 추출 대상이 아닌 인격도 마찬가지로 등장할 확률의 50%을 특정 추출 대상이 아닌 인격 수만큼 균등하게 분배합니다.",
+    "context": "EN :\nIn Target Extractions, certain Identities and E.G.O have higher extraction rates.\n\nTarget Identities account for 50% of the probabilities for their respective rarities; the rates are evenly shared among them.\n\nThe other 50% of probabilities are evenly distributed between the non-targeted Identities in the table.\nJP :\n特定抽出人格、またはE.G.Oが排出される場合は特定抽出確率が適用され、抽出確率が増加します。\n\n特定抽出確率の人格が排出される場合、該当する特定抽出人格と同じランクの人格が排出される確率の50%が、同一ランクの特定抽出人格へ均等に分配されます。\n\n特定抽出対象でない人格も同様に、排出確率の50%が、特定抽出対象でない人格へ均等に分配されます。"
+  },
+  {
+    "key": "gacha_rate_info_complete3-content",
+    "original": "위 내용은 특정 추출 E.G.O의 경우에도 동일하게 동작합니다.\n\n특정 추출 확률이 적용되어도 각 추출의 경우에 대한 등장 확률은 변동되지 않습니다.",
+    "context": "EN :\nThe same applies to Target E.G.O.\n\nChanges in probabilities for Target Extractions do not affect the chances of items of certain types and rarities appearing.\nJP :\n上記の内容は特定抽出E.G.Oの場合も同様です。\n\n特定の抽出確率が適用されても、各抽出に対する排出確率は変動しません。"
+  },
+  {
+    "key": "gacha_rate_info_piece1-content",
+    "original": "★ 자아 파편\n이미 보유한 인격 또는 E.G.O를 중복하여 획득할 경우에는 분류와 단계에 따라 각 캐릭터의 자아 파편으로 전환되어 획득하게 됩니다.",
+    "context": "EN :\n★ Egoshards\nWhen you extract an Identity or E.G.O you already own, you will get Egoshards of the character, its quantity depending on the item’s type and rarity.\nJP :\n★ 自我の破片\n保有済みの人格またはE.G.Oを重複して獲得した場合、分類とランクによって各キャラクターの自我の破片へ転換・獲得することになります。"
+  },
+  {
+    "key": "gacha_rate_info_piece2-content",
+    "original": "획득한 자아 파편은 미리 공지한 기간 동안 사용할 수 있으며, 보유한 자아 파편의 50%만큼 다음 시즌으로 이월됩니다.\n\n이월되지 않은 자아 파편은 끈으로 전환됩니다.",
+    "context": "EN :\nEgoshards can only be used for a set period. When the expiration date arrives, 50% of the Egoshards in possession are carried over to the next season.\n\nThe remaining Egoshards are converted to Thread.\nJP :\n獲得した自我の破片は事前に告知した期間中に使用でき、保有している自我の破片の50%が次のシーズンに繰り越されます。\n\n繰越されない自我の断片は紐に還元されます。"
+  },
+  {
+    "key": "gacha_rate_info_piece3-content",
+    "original": "위 내용은 자아 파편 상자의 경우에도 동일하게 동작합니다.\n\n이러한 경우에는 다음 시즌이 시작되어 자아 파편과 자아 파편 상자가 이월되기 전에 전에 공지사항을 통해 미리 안내합니다.",
+    "context": "EN :\nThe same applies to Egoshard Crates.\n\nPlayers will be notified of the upcoming season change and expiration of Egoshards and Egoshard Crates sometime before the expiration date.\nJP :\n上記の内容は、自我の破片ボックスの場合も同様です。\n\nこの場合、次のシーズンが始まって自我の破片・自我の破片ボックスが繰り越される前に、お知らせを通じて事前に案内します。"
+  },
+  {
+    "key": "personality_preview_notice-content",
+    "original": "본 화면에는 인격의 최대 레벨, 동기화 단계가 표시됩니다.",
+    "context": "EN :\nThe Identity’s stats at max level and Uptie tier are displayed here.\nJP :\nこの画面には人格の最大レベル、同期段階が表示されます。"
+  },
+  {
+    "key": "ego_preview_notice-content",
+    "original": "본 화면에는 E.G.O의 최대 환상 해석 단계가 표시됩니다.",
+    "context": "EN :\nThe E.G.O is displayed at its max tier here.\nJP :\nこの画面には、E.G.Oの最大幻想解析段階が表示されます。"
+  },
+  {
+    "key": "season_1-content",
+    "original": "시즌 1",
+    "context": "EN :\nSeason 1\nJP :\nシーズン1"
+  },
+  {
+    "key": "commonly-content",
+    "original": "통상",
+    "context": "EN :\nRegular\nJP :\n恒常"
+  },
+  {
+    "key": "notice_external_website-content",
+    "original": "외부 웹사이트로 이동합니다.",
+    "context": "EN :\nMove to an external website.\nJP :\n外部ウェブサイトへ移動します。"
+  },
+  {
+    "key": "pass_level-content",
+    "original": "패스 레벨",
+    "context": "EN :\nPass Level\nJP :\nパスレベル"
+  },
+  {
+    "key": "normal_reward-content",
+    "original": "일반 보상",
+    "context": "EN :\nRegular Reward\nJP :\n一般報酬"
+  },
+  {
+    "key": "limbus_pass_reward-content",
+    "original": "림버스 패스 보상",
+    "context": "EN :\nLimbus Pass Reward\nJP :\nリンバスパス報酬"
+  },
+  {
+    "key": "loading_battlehint-content",
+    "original": "전투 팁",
+    "context": "EN :\nCombat Tips\nJP :\nTIPS"
+  },
+  {
+    "key": "status_up-content",
+    "original": "스테이터스 증가",
+    "context": "EN :\nStats Increased\nJP :\nステータス増加"
+  },
+  {
+    "key": "active_skill_acquired-content",
+    "original": "액티브 스킬 추가",
+    "context": "EN :\nSkills Gained\nJP :\nアクティブスキル追加"
+  },
+  {
+    "key": "active_skill_reinforcement-content",
+    "original": "액티브 스킬 강화",
+    "context": "EN :\nSkills Upgraded\nJP :\nアクティブスキル強化"
+  },
+  {
+    "key": "progress_ego_gacksung-content",
+    "original": "해석 진행",
+    "context": "EN :\nProgress Threadspin\nJP :\n解析進行"
+  },
+  {
+    "key": "skill_with_index-content",
+    "original": "스킬{0}",
+    "context": "EN :\nSkill {0}\nJP :\nスキル{0}"
+  },
+  {
+    "key": "mail_date-content",
+    "original": "수령 일시",
+    "context": "EN :\nDate\nJP :\n受け取り日時"
+  },
+  {
+    "key": "mail_sender-content",
+    "original": "보낸 이",
+    "context": "EN :\nSender\nJP :\n送信者"
+  },
+  {
+    "key": "mail_history_notice-content",
+    "original": "※최대 {0}개의 수령 이력이 표시됩니다.",
+    "context": "EN :\n※ Up to {0} claimed items will be displayed in the history.\nJP :\n※最大{0}つの受け取り履歴が表示されます。"
+  },
+  {
+    "key": "cant_receive_mail_all_tilte-content",
+    "original": "수령 불가",
+    "context": "EN :\nCannot Claim\nJP :\n受け取り不可"
+  },
+  {
+    "key": "cant_receive_mail_all_main-content",
+    "original": "일괄 수령 가능한 우편물 없음",
+    "context": "EN :\nNo mail available to claim with “Claim All”\nJP :\n一括受け取り可能な郵便物はありません"
+  },
+  {
+    "key": "attached_item-content",
+    "original": "첨부 아이템",
+    "context": "EN :\nAttached\nJP :\n添付アイテム"
+  },
+  {
+    "key": "inventory_category_all-content",
+    "original": "전체",
+    "context": "EN :\nAll\nJP :\n全体"
+  },
+  {
+    "key": "inventory_category_normal-content",
+    "original": "기본",
+    "context": "EN :\nBasic\nJP :\n基本"
+  },
+  {
+    "key": "inventory_category_consumable-content",
+    "original": "소모품",
+    "context": "EN :\nConsumables\nJP :\n消耗品"
+  },
+  {
+    "key": "inventory_category_pieces-content",
+    "original": "파편",
+    "context": "EN :\nEgoshards\nJP :\n破片"
+  },
+  {
+    "key": "enkephalin_injection_complete-content",
+    "original": "엔케팔린 주입 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン注入完了"
+  },
+  {
+    "key": "purchase_impossible-content",
+    "original": "구매 불가",
+    "context": "EN :\nCannot Purchase\nJP :\n購入不能"
+  },
+  {
+    "key": "notice_not_enough_pieces-content",
+    "original": "※파편이 부족합니다.",
+    "context": "EN :\n※ Not enough Egoshards.\nJP :\n※破片が不足しています。"
+  },
+  {
+    "key": "buy_personaliy-content",
+    "original": "인격 구매",
+    "context": "EN :\nPurchase Identity\nJP :\n人格購入"
+  },
+  {
+    "key": "buy_ego-content",
+    "original": "E.G.O 구매",
+    "context": "EN :\nPurchase E.G.O\nJP :\nE.G.O購入"
+  },
+  {
+    "key": "not_enough_pieces-content",
+    "original": "파편 수량 부족",
+    "context": "EN :\nNot enough Egoshards\nJP :\n破片不足"
+  },
+  {
+    "key": "basis-content",
+    "original": "기초",
+    "context": "EN :\nBasic\nJP :\n基礎"
+  },
+  {
+    "key": "skip_tutorial-content",
+    "original": "튜토리얼 스킵",
+    "context": "EN :\nSkip Tutorial\nJP :\nチュートリアルをスキップ"
+  },
+  {
+    "key": "skip_tutorial_description-content",
+    "original": "튜토리얼을 스킵하시겠습니까?",
+    "context": "EN :\nAre you sure you want to skip the tutorial?\nJP :\nチュートリアルをスキップしますか？"
+  },
+  {
+    "key": "min_speed_upgrade-content",
+    "original": "최소 속도 상승",
+    "context": "EN :\nMin. SPD Up\nJP :\n最小速度上昇"
+  },
+  {
+    "key": "max_speed_upgrade-content",
+    "original": "최대 속도 상승",
+    "context": "EN :\nMax. SPD Up\nJP :\n最大速度上昇"
+  },
+  {
+    "key": "min_max_speed_upgrade-content",
+    "original": "최소, 최대 속도 상승",
+    "context": "EN :\nMin. and Max. SPD Up\nJP :\n最小・最大速度上昇"
+  },
+  {
+    "key": "mailbox-content",
+    "original": "우편함",
+    "context": "EN :\nMailbox\nJP :\n郵便箱"
+  },
+  {
+    "key": "remain_days_label-content",
+    "original": "수령 기한",
+    "context": "EN :\nDue Date\nJP :\n受け取り期限"
+  },
+  {
+    "key": "extract_again-content",
+    "original": "재추출",
+    "context": "EN :\nExtract Again\nJP :\n再抽出"
+  },
+  {
+    "key": "ego_gift-content",
+    "original": "E.G.O 기프트",
+    "context": "EN :\nE.G.O Gifts\nJP :\nE.G.Oギフト"
+  },
+  {
+    "key": "classification-content",
+    "original": "분류",
+    "context": "EN :\nCategory\nJP :\n分類"
+  },
+  {
+    "key": "quantity-content",
+    "original": "수량",
+    "context": "EN :\nQuantity\nJP :\n数量"
+  },
+  {
+    "key": "appearance_probability-content",
+    "original": "등장 확률",
+    "context": "EN :\nRate\nJP :\n排出率"
+  },
+  {
+    "key": "Individual_appearance_probability-content",
+    "original": "개별 등장 확률",
+    "context": "EN :\nIndividual Rate\nJP :\n個別排出率"
+  },
+  {
+    "key": "notice_sold_out-content",
+    "original": "입고 준비 중...",
+    "context": "EN :\nOut of Stock\nJP :\n在庫準備中…"
+  },
+  {
+    "key": "select_piece-content",
+    "original": "교환 파편 선택",
+    "context": "EN :\nChoose Egoshard\nJP :\n交換破片を選択"
+  },
+  {
+    "key": "mail_item_warning-content",
+    "original": "※수령 시 청약 철회 제한",
+    "context": "EN :\n※ Refund may be restricted after redeeming the item.\nJP :\n※受領時、制約撤回が制限されます"
+  },
+  {
+    "key": "mainui_unlock_condition_by_ego_awaken_level-content",
+    "original": "환상 해석 {0}단계 개방",
+    "context": "EN :\nUnlocked at Tier {0}\nJP :\n幻想解析{0}段階 解放"
+  },
+  {
+    "key": "empty_mailbox_notice-content",
+    "original": "보관 중인 우편이 없습니다.",
+    "context": "EN :\nNo mail in storage.\nJP :\n保管中の郵便物はありません。"
+  },
+  {
+    "key": "gacha_rate_detail-content",
+    "original": "추출 확률 상세",
+    "context": "EN :\nDetailed Rates\nJP :\n抽出確率の詳細"
+  },
+  {
+    "key": "gacha_alarm_title-content",
+    "original": "추출 진행",
+    "context": "EN :\nProceeding with Extraction\nJP :\n抽出進行"
+  },
+  {
+    "key": "clear_specific_stage-content",
+    "original": "{0} 클리어",
+    "context": "EN :\nClear {0}\nJP :\n{0} クリア"
+  },
+  {
+    "key": "clear_main_chapter_stage-content",
+    "original": "{0}장 클리어",
+    "context": "EN :\nClear Ch. {0}\nJP :\n{0}章クリア"
+  },
+  {
+    "key": "ingredients-content",
+    "original": "재료",
+    "context": "EN :\nItems\nJP :\n素材"
+  },
+  {
+    "key": "remote_download_return_title-content",
+    "original": "새로운 다운로드 항목이 추가되었습니다.\n타이틀로 돌아갑니다.",
+    "context": "EN :\nA new download has been added.\nReturning to the title screen.\nJP :\n新たにダウンロード項目が追加されました。\nタイトルへ戻ります。"
+  },
+  {
+    "key": "battle_skip-content",
+    "original": "전투 스킵",
+    "context": "EN :\nSkip Battle\nJP :\n戦闘スキップ"
+  },
+  {
+    "key": "ask_battle_skip-content",
+    "original": "전투 스킵을 진행하시겠습니까?",
+    "context": "EN :\nWould you like to skip the battle?\nJP :\n戦闘スキップを行いますか？"
+  },
+  {
+    "key": "notice_consumption_multiples-content",
+    "original": "{0} 소모 {1} 배 증가",
+    "context": "EN :\n{0} cost x {1}\nJP :\n{0}消耗 {1}倍増化"
+  },
+  {
+    "key": "notice_additional_rewards-content",
+    "original": "추가 보상 {0} 획득",
+    "context": "EN :\nAdditional rewards {0} earned\nJP :\n追加報酬 {0}獲得"
+  },
+  {
+    "key": "gacha_notice_exclude_ego-content",
+    "original": "본 추출에는 E.G.O 가 등장하지 않습니다.",
+    "context": "EN :\nThis extraction banner does not include E.G.O.\nJP :\n本抽出ではE.G.Oが排出されません。"
+  },
+  {
+    "key": "gacha_notice_single_season-content",
+    "original": "본 추출에서 등장하는 2성과 3성 인격은 시즌 {0} 에 해당합니다.",
+    "context": "EN :\nThe 2★ and 3★ Identities in this extraction banner belong to Season {0}.\nJP :\n本抽出で排出される星2・3人格はシーズン{0}のものです。"
+  },
+  {
+    "key": "error_and_return_to_main-content",
+    "original": "오류가 발생하였습니다.\n메인 화면으로 돌아가겠습니다.",
+    "context": "EN :\nAn error has occurred.\nReturning to the title screen.\nJP :\nエラーが発生しました。\nメイン画面へ戻ります。"
+  },
+  {
+    "key": "to_window-content",
+    "original": "유리창 이동",
+    "context": "EN :\nTo Window\nJP :\n硝子窓へ移動"
+  },
+  {
+    "key": "completion-content",
+    "original": "완료",
+    "context": "EN :\nComplete\nJP :\n完了"
+  },
+  {
+    "key": "event_in_progress-content",
+    "original": "이벤트 중",
+    "context": "EN :\nEvent Open\nJP :\nイベント中"
+  },
+  {
+    "key": "end_of_event-content",
+    "original": "이벤트 종료",
+    "context": "EN :\nEvent Closed\nJP :\nイベント終了"
+  },
+  {
+    "key": "gacha_rate_info_intro1_1a-content",
+    "original": "1회 추출 시 등장 확률은 다음과 같습니다.",
+    "context": "EN :\nThe rates for a single Extraction are as follows.\nJP :\n1回抽出時、排出率は以下の通りです。"
+  },
+  {
+    "key": "gacha_rate_info_intro1_1b-content",
+    "original": "{0} 1회 사용 시, 등장 확률은 다음과 같습니다.",
+    "context": "EN :\nThe table for one use of {0} is as follows.\nJP :\n{0}1回使用時、排出率は以下の通りです。"
+  },
+  {
+    "key": "gacha_rate_info_intro1_1c-content",
+    "original": "{0} 사용 시, 다음 재화 중 하나를 선택할 수 있습니다",
+    "context": "EN :\nWhen you use {0}, you can choose one currency from the following.\nJP :\n{0}使用時、以下のアイテムのうち1つを選択できます。"
+  },
+  {
+    "key": "package_info_detail1-content",
+    "original": "등장하는 재화를 설정하였을 때, {0} 1개를 사용하여 설정한 재화를 획득할 수량의 확률은 다음과 같습니다.",
+    "context": "EN :\nWhen you have selected the currency, the table for acquiring different quantities of the set currency by using one {0} is as follows.\nJP :\n排出されるアイテムを設定した場合、{0}を1つ使用して設定したアイテムを獲得できる数量の確率は以下の通りです。"
+  },
+  {
+    "key": "package_info_detail2-content",
+    "original": "※ 하단 표의 “{0}”은(는) 상단 표의 등장하는 재화 중 하나를 선택하였을 때의 예시입니다.",
+    "context": "EN :\n※ “{0}” in the lower table is an example for selecting one of the currencies from the table above.\nJP :\n※表下段の”{0}”は、表上段の出現するアイテムのうち1つを選択した場合の例です。"
+  },
+  {
+    "key": "acquired_quantity-content",
+    "original": "획득 수량",
+    "context": "EN :\nAmount\nJP :\n獲得数"
+  },
+  {
+    "key": "name_of_currencies-content",
+    "original": "재화명",
+    "context": "EN :\nCurrency\nJP :\nアイテム名"
+  },
+  {
+    "key": "package_info_title-content",
+    "original": "재화 등장 확률 상세",
+    "context": "EN :\nDetailed Currency Appearance Rates\nJP :\nアイテム排出確率の詳細"
+  },
+  {
+    "key": "used_once-content",
+    "original": "1회 사용",
+    "context": "EN :\nOne Use\nJP :\n1回使用"
+  },
+  {
+    "key": "probability_details-content",
+    "original": "확률 상세",
+    "context": "EN :\nProbabilities\nJP :\n確率詳細"
+  },
+  {
+    "key": "be_in_use-content",
+    "original": "사용 중",
+    "context": "EN :\nIn Use\nJP :\n使用中"
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "key": "introduce_word_1-content",
+    "original": "부릉부릉",
+    "context": "EN :\nVroom-Vroom\nJP :\nぶるんぶるん"
+  },
+  {
+    "key": "introduce_word_2-content",
+    "original": "덜컹덜컹",
+    "context": "EN :\nRumble-Tumble\nJP :\nがたんごとん"
+  },
+  {
+    "key": "introduce_word_3-content",
+    "original": "시계 대가리",
+    "context": "EN :\nClockface\nJP :\n時計ヅラ"
+  },
+  {
+    "key": "introduce_word_4-content",
+    "original": "벌레 양반",
+    "context": "EN :\nBug Guy\nJP :\n虫の旦那"
+  },
+  {
+    "key": "introduce_word_5-content",
+    "original": "모.분.조.도",
+    "context": "EN :\nTRANCHES\nJP :\nく・へ・し・ぶ"
+  },
+  {
+    "key": "introduce_word_6-content",
+    "original": "빨래",
+    "context": "EN :\nLaundry\nJP :\n洗濯"
+  },
+  {
+    "key": "introduce_word_7-content",
+    "original": "버스 청소",
+    "context": "EN :\nBus Jannie\nJP :\nバスの掃除"
+  },
+  {
+    "key": "introduce_word_8-content",
+    "original": "정의 구현",
+    "context": "EN :\nEnactor of Justice\nJP :\n正義の体現"
+  },
+  {
+    "key": "introduce_word_9-content",
+    "original": "두근두근",
+    "context": "EN :\nPit-a-pat\nJP :\nどきどき"
+  },
+  {
+    "key": "introduce_word_10-content",
+    "original": "쌈박질",
+    "context": "EN :\nBrawling\nJP :\n喧嘩"
+  },
+  {
+    "key": "introduce_word_11-content",
+    "original": "질문",
+    "context": "EN :\nQuestions\nJP :\n質問"
+  },
+  {
+    "key": "introduce_word_12-content",
+    "original": "댄스 타임",
+    "context": "EN :\nDance Time\nJP :\nダンスタイム"
+  },
+  {
+    "key": "introduce_word_13-content",
+    "original": "기도",
+    "context": "EN :\nPrayer\nJP :\n祈祷"
+  },
+  {
+    "key": "introduce_word_14-content",
+    "original": "엔케팔린",
+    "context": "EN :\nEnkephalin\nJP :\nエンケファリン"
+  },
+  {
+    "key": "introduce_word_15-content",
+    "original": "림버스 컴퍼니",
+    "context": "EN :\nLimbus Company\nJP :\nリンバス・カンパニー"
+  },
+  {
+    "key": "introduce_word_16-content",
+    "original": "황금가지",
+    "context": "EN :\nGolden Bough\nJP :\n黄金の枝"
+  },
+  {
+    "key": "introduce_word_17-content",
+    "original": "빵빵",
+    "context": "EN :\nHonk-Honk\nJP :\nパンパーン"
+  },
+  {
+    "key": "introduce_word_18-content",
+    "original": "우회전",
+    "context": "EN :\nRight Turn\nJP :\n右折"
+  },
+  {
+    "key": "introduce_word_19-content",
+    "original": "째깍째깍",
+    "context": "EN :\nTick-Tock\nJP :\nカチカチ"
+  },
+  {
+    "key": "introduce_word_20-content",
+    "original": "유행",
+    "context": "EN :\nIn Fashion\nJP :\n流行"
+  },
+  {
+    "key": "introduce_word_21-content",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "introduce_word_22-content",
+    "original": "빨간색",
+    "context": "EN :\nRed\nJP :\n赤色"
+  },
+  {
+    "key": "introduce_word_23-content",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "introduce_word_24-content",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "introduce_word_25-content",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "introduce_word_26-content",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "introduce_word_27-content",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "introduce_word_28-content",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "introduce_word_29-content",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "introduce_word_30-content",
+    "original": "뫼르소",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "introduce_word_31-content",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "introduce_word_32-content",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "introduce_word_33-content",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "introduce_word_34-content",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "introduce_word_35-content",
+    "original": "크리스마스",
+    "context": "EN :\nChristmas\nJP :\nクリスマス"
+  },
+  {
+    "key": "introduce_word_36-content",
+    "original": "닭꼬치",
+    "context": "EN :\nChicken Kebab\nJP :\n焼き鳥"
+  },
+  {
+    "key": "introduce_word_37-content",
+    "original": "수염",
+    "context": "EN :\nMustache\nJP :\n髭"
+  },
+  {
+    "key": "introduce_word_38-content",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "introduce_word_39-content",
+    "original": "폐기물",
+    "context": "EN :\nWaste\nJP :\n廃棄物"
+  },
+  {
+    "key": "introduce_word_40-content",
+    "original": "수감자",
+    "context": "EN :\nSinner\nJP :\n囚人"
+  },
+  {
+    "key": "introduce_sentence_1-content",
+    "original": "{0} 해도 돼?",
+    "context": "EN :\nPermission to {0}?\nJP :\n{0}してもいい？"
+  },
+  {
+    "key": "introduce_sentence_2-content",
+    "original": "안녕하세요, {0} 입니다.",
+    "context": "EN :\nGreetings, I’m {0}.\nJP :\nこんにちは、{0}です。"
+  },
+  {
+    "key": "introduce_sentence_3-content",
+    "original": "{0}은(는) 4구로 간다.",
+    "context": "EN :\n{0} will go to District 4.\nJP :\n{0}は4区へ行く。"
+  },
+  {
+    "key": "introduce_sentence_4-content",
+    "original": "{0} 같은 사람이 되고 싶어.",
+    "context": "EN :\nI wanna be just like {0}.\nJP :\n{0}みたいな人になりたい。"
+  },
+  {
+    "key": "introduce_sentence_5-content",
+    "original": "{0}, 도착하면 아무나 깨워라",
+    "context": "EN :\n{0}, wake me up when we’re there.\nJP :\n{0}、着いたら誰か起こせよ"
+  },
+  {
+    "key": "introduce_sentence_6-content",
+    "original": "{0}(이)라면 괜찮지 않을까요?",
+    "context": "EN :\n{0} should suffice, don’t you think?\nJP :\n{0}なら大丈夫じゃないですか？"
+  },
+  {
+    "key": "introduce_sentence_7-content",
+    "original": "그저 무의미한 {0} 일뿐.",
+    "context": "EN :\n{0} is an idle affair.\nJP :\nただ、いたずらなる{0}ゆえ。"
+  },
+  {
+    "key": "introduce_sentence_8-content",
+    "original": "관리자님, 저런 {0} 같은 건 그냥 무시하시는 게 좋습니다.",
+    "context": "EN :\nI suggest that you ignore such {0}, Executive Manager.\nJP :\n管理人さん、あんな{0}みたいなのはフツーに無視した方が良いです。"
+  },
+  {
+    "key": "introduce_sentence_9-content",
+    "original": "우린 일개 {0} (이)지, 정의를 위해 나서는 히어로는 아니니까요.",
+    "context": "EN :\nWe’re {0}, not “heroes” fighting for justice.\nJP :\n私たちは一介の{0}であって、正義のために前へ出るヒーローではないじゃないですか。"
+  },
+  {
+    "key": "introduce_sentence_10-content",
+    "original": "삶은 늘 {0} 일 뿐. ",
+    "context": "EN :\nLife is full of {0}.\nJP :\n人生はいつも{0}です。"
+  },
+  {
+    "key": "introduce_sentence_11-content",
+    "original": "늘 하고 있던 {0} 중이다.",
+    "context": "EN :\nHandling {0} as usual.\nJP :\nいつも通り{0}中だ。"
+  },
+  {
+    "key": "introduce_sentence_12-content",
+    "original": "다들 와서 {0} 좀 보게나!",
+    "context": "EN :\nCome hither, fellows, and behold this {0}!\nJP :\n皆の者！{0}を見たまえ！"
+  },
+  {
+    "key": "introduce_sentence_13-content",
+    "original": "나는 {0}만 보며 살아가기로 결심했어!",
+    "context": "EN :\nI decided to forget and focus on {0}!\nJP :\n{0}だけを見ながら生きていくことにしたんだ！"
+  },
+  {
+    "key": "introduce_sentence_14-content",
+    "original": "각오가 되어 있으면 {0} 해보던가.",
+    "context": "EN :\nGo ahead and {0}, if you dare.\nJP :\n覚悟が出来てるなら、{0}してみればいいんじゃないか。"
+  },
+  {
+    "key": "introduce_sentence_15-content",
+    "original": "이런 {0} 본 적 있소?",
+    "context": "EN :\nHath you seen such {0}?\nJP :\nこんな{0}見たことありまするか？"
+  },
+  {
+    "key": "introduce_sentence_16-content",
+    "original": "나는 울적할 때 {0} 하곤 해.",
+    "context": "EN :\nWhenever I’m feeling down, I indulge in a bit of {0}.\nJP :\n憂鬱なときには{0}するんだ。"
+  },
+  {
+    "key": "introduce_sentence_17-content",
+    "original": "{0}이(가) 언제나 옳지는 않아요.",
+    "context": "EN :\n{0} isn’t always correct.\nJP :\n{0}がいつも正しいわけではありません。"
+  },
+  {
+    "key": "introduce_sentence_18-content",
+    "original": "이제는 {0} 뿐이야.",
+    "context": "EN :\nAll we can count on now is {0}.\nJP :\nもう{0}しかない。"
+  },
+  {
+    "key": "introduce_sentence_19-content",
+    "original": "기분 좋은 {0}, 기분 좋게 도착.",
+    "context": "EN :\nCock-a-hoop {0}’s cock-a-hoop parking.\nJP :\n気分良い{0}、気分良く到着。"
+  },
+  {
+    "key": "introduce_sentence_20-content",
+    "original": "약자에게 {0}을(를) 주기 위해 왔노라!",
+    "context": "EN :\nI am come to liberate the weak and {0}!\nJP :\n弱者へ{0}を与えに参った！"
+  },
+  {
+    "key": "introduce_sentence_21-content",
+    "original": "{0}만으로는 부족해...",
+    "context": "EN :\n{0} won’t cut it…\nJP :\n{0}だけじゃ足りない…。"
+  },
+  {
+    "key": "introduce_sentence_22-content",
+    "original": "그렇게 쳐다봐도 소용없습니다, {0}.",
+    "context": "EN :\nYou won’t sway me with that look, {0}.\nJP :\nそんな風に見つめても無駄です、{0}。"
+  },
+  {
+    "key": "introduce_sentence_23-content",
+    "original": "우린 세상에서 제일 의미 없는 {0}을(를) 하고 있어!",
+    "context": "EN :\nThis has got to be the most pointless {0} in the world!\nJP :\nオレたちゃぁ、この世でいっちばん意味ない{0}をしてんだぞ！"
+  },
+  {
+    "key": "introduce_sentence_24-content",
+    "original": "그래... 이딴 {0}도 있는 거군.",
+    "context": "EN :\nReally… {0} can be rubbish like this, huh…\nJP :\nそうか…こんな{0}もあるのか…。"
+  },
+  {
+    "key": "introduce_sentence_25-content",
+    "original": "어디서 굴러온 {0}(이)지?",
+    "context": "EN :\nFrom under what stone did {0} come out?\nJP :\nどこから転がってきた{0}だ？"
+  },
+  {
+    "key": "introduce_sentence_26-content",
+    "original": "아, {0} 할 시간입니다.",
+    "context": "EN :\nOh, it is time for {0}.\nJP :\nあぁ、{0}の時間です。"
+  },
+  {
+    "key": "introduce_sentence_27-content",
+    "original": "나도 그대처럼 엄청난 {0}(이)가 되는 것이 꿈이오!",
+    "context": "EN :\nI set my heart on becoming a magnificent {0} such as you!\nJP :\n私もそなたのような凄い{0}になるのが夢でありまする！"
+  },
+  {
+    "key": "introduce_sentence_28-content",
+    "original": "늦었어, {0}까지 셌는데도 너희 안 왔어.",
+    "context": "EN :\nYou’re late. Counted to {0} and you still didn’t come.\nJP :\n遅い。{0}まで数えたのにお前たちが来なかった。"
+  },
+  {
+    "key": "introduce_sentence_29-content",
+    "original": "나는 {0}을(를) 기억할 것입니다.",
+    "context": "EN :\nI will remember {0}.\nJP :\n私は{0}を忘れません。"
+  },
+  {
+    "key": "introduce_sentence_30-content",
+    "original": "미안해, 다음에 {0} 사줄게.",
+    "context": "EN :\nSorry about that. I’ll buy you {0} later.\nJP :\nごめんな、あとで{0}買ってあげるから。"
+  },
+  {
+    "key": "introduce_sentence_31-content",
+    "original": "어떻게 {0}을(를) 그냥 지나칠 수 있겠소?",
+    "context": "EN :\nI cannot turn a blind eye to {0}, can I?\nJP :\nどうして{0}を見過ごすことができよう？"
+  },
+  {
+    "key": "introduce_sentence_32-content",
+    "original": "{0}을(를) 기억하고 있겠지.",
+    "context": "EN :\nI’m sure you remember {0}.\nJP :\n{0}を覚えているだろう。"
+  },
+  {
+    "key": "introduce_sentence_33-content",
+    "original": "왜 나를 야리냐? {0} 하고 싶냐?",
+    "context": "EN :\nWhy are you gawking at me? Looking to get {0}?\nJP :\nなんでガン飛ばして来てんだよ？{0}してぇのか？"
+  },
+  {
+    "key": "introduce_sentence_34-content",
+    "original": "윽... {0}(이)네요, 정말.",
+    "context": "EN :\nUgh… What a mess {0} is, huh.\nJP :\nうっ…{0}ですね、本当に。"
+  },
+  {
+    "key": "introduce_sentence_35-content",
+    "original": "날 보러와, {0}!",
+    "context": "EN :\nCome see me, {0}!\nJP :\n私に会いに来て、{0}！"
+  },
+  {
+    "key": "introduce_sentence_36-content",
+    "original": "하지만 너는 내 {0}(이)야.",
+    "context": "EN :\nWell, you are my {0}.\nJP :\nでも君は私の{0}だからね。"
+  },
+  {
+    "key": "introduce_sentence_37-content",
+    "original": "메피가 좋아하는 {0}.",
+    "context": "EN :\nMephi loves {0}.\nJP :\nメフィの好きな{0}。"
+  },
+  {
+    "key": "introduce_sentence_38-content",
+    "original": "야! {0} 더 없냐? 맛있네.",
+    "context": "EN :\nOi! Got more of this {0}? It’s peak.\nJP :\nおい！{0}もっとねぇか？うめぇな。"
+  },
+  {
+    "key": "introduce_sentence_39-content",
+    "original": "{0}(이)라고 불러주시오.",
+    "context": "EN :\nCall me {0}, if you please.\nJP :\n{0}と呼んでください。"
+  },
+  {
+    "key": "introduce_sentence_40-content",
+    "original": "최선을 다해 주세요, {0}.",
+    "context": "EN :\nPlease do your best, {0}.\nJP :\n最善を尽くしてください、{0}。"
+  },
+  {
+    "key": "introduce_word_41-content",
+    "original": "소화",
+    "context": "EN :\nChurning\nJP :\n消化"
+  },
+  {
+    "key": "introduce_word_42-content",
+    "original": "구휼",
+    "context": "EN :\nSuccor\nJP :\n救恤"
+  },
+  {
+    "key": "introduce_sentence_41-content",
+    "original": "{0}을(를) 데우기 위한 수프를 찾으셨나요?",
+    "context": "EN :\nLooking for the soup to warm up your {0}?\nJP :\n{0}を温めるためのスープをお求めですか？"
+  },
+  {
+    "key": "introduce_sentence_42-content",
+    "original": "이보게!!!!!! {0} 하고 가시게!!!!",
+    "context": "EN :\nSalutations!!!!!! I implore thee to try this {0}!!!!\nJP :\nやい、そこの！！！！！{0}していきなされ！！！！！"
+  },
+  {
+    "key": "introduce_word_43-content",
+    "original": "치킨",
+    "context": "EN :\nChicken\nJP :\nチキン"
+  },
+  {
+    "key": "introduce_word_44-content",
+    "original": "재료 손질",
+    "context": "EN :\nIngredient Trimming\nJP :\n食材の下拵え"
+  },
+  {
+    "key": "introduce_sentence_43-content",
+    "original": "{0}, 튀겨버린다.",
+    "context": "EN :\n{0}, rev up those fryers.\nJP :\n{0}, 揚げてやる。"
+  }
+]

@@ -1,0 +1,749 @@
+[
+  {
+    "key": "0-place",
+    "original": "칼프 마을 광장",
+    "context": "EN :\nCalw - Town Square\nJP :\nカルフ町 広場"
+  },
+  {
+    "key": "0-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "0-content",
+    "original": "…힘든 상대였어요. 저자가 완전히 정신을 차리기 전에 우선 도망치죠.",
+    "context": "EN :\n…That was a tough opponent. We should move before they come back to their senses.\nJP :\n…きつい相手でした。\nあの人が完全に気を取り戻す前に、とりあえず逃げましょう。"
+  },
+  {
+    "key": "1-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "1-content",
+    "original": "수치스러운 소리를 잘도 지껄이는군. 승기를 잡은 군인은 적을 두고 꽁무니를 빼지 않는다.",
+    "context": "EN :\nWhat a shameful thing to say. A soldier does not retreat before the enemy when victory is in sight.\nJP :\n恥ずかしいことをよくもほざくんだな。\n勝機を掴んだ軍人は、敵を前にして尻尾を巻きはしない。"
+  },
+  {
+    "key": "2-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "2-content",
+    "original": "지금 군인 정신이 중요할 때예요?",
+    "context": "EN :\nCan’t you save the military drill for a better time?\nJP :\n今、軍人精神が大事なときですか？"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<이스마엘 말이 맞는 것 같아. 저자는 우리 실력으로 상대하기 버거워.>",
+    "context": "EN :\n<Ishmael is right. That’s not someone we can beat easily.>\nJP :\n<イシュメールの言う通りだと思う。あの人は私たちの実力じゃ手に負えない。>"
+  },
+  {
+    "key": "4-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "4-content",
+    "original": "…철수하겠습니다.",
+    "context": "EN :\n…We will fall back.\nJP :\n…撤収いたします。"
+  },
+  {
+    "key": "5-content",
+    "original": "오티스가 내키지 않는단 표정으로 한 걸음 물러섰다.",
+    "context": "EN :\nOutis reluctantly backed down.\nJP :\nウーティスは気が進まないという顔で一歩退いた。"
+  },
+  {
+    "key": "6-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-content",
+    "original": "<싱클레어, 크로머 라는 자가 말한 ‘네가 알던 그 곳’이라는 게 어디야?>",
+    "context": "EN :\n<Sinclair, do you know what that Kromer meant by “that familiar spot”?>\nJP :\n<シンクレア、クローマーって人が言ってた「君の知っていたそこ」ってどこ？>"
+  },
+  {
+    "key": "7-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "7-content",
+    "original": "그… 건.",
+    "context": "EN :\nThat’s… well…\nJP :\nそれ…は。"
+  },
+  {
+    "key": "8-content",
+    "original": "싱클레어는 여전히 몸을 떨면서 공포에 마음을 빼앗긴 듯 해 보였다.",
+    "context": "EN :\nSinclair shook. He was seemingly overwhelmed with dread.\nJP :\nシンクレアは未だに震えながら、恐怖に心を奪わているようだった。"
+  },
+  {
+    "key": "9-content",
+    "original": "하지만 이를 갈고 있던 싱클레어에게는 그를 앞서는 분노도 담긴 듯했다.",
+    "context": "EN :\nBut I could also see a teeth-grinding anger in him that surpassed his fear.\nJP :\nしかし歯ぎしりをしているシンクレアには、\nそれを超える怒りが湧き出てているようにも思えた。"
+  },
+  {
+    "key": "10-content",
+    "original": "문득, 마음속에 피어난 생각이 있었다.",
+    "context": "EN :\nLooking at him, a thought blossomed in my mind.\nJP :\nふと、心に浮かんだことがあった。"
+  },
+  {
+    "key": "11-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "11-content",
+    "original": "<이제는 말해야 해. 싱클레어.>",
+    "context": "EN :\n<You need to talk, Sinclair.>\nJP :\n<今こそ言わなきゃ駄目だ。シンクレア。>"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "<네 이야기 하나로, 우리가 죽을 횟수를 절반은 줄일 수 있을 거야.>",
+    "context": "EN :\n<Tell us what you know, and you’ll prevent half the deaths we might suffer.>\nJP :\n<君の話一つで、私たちが死ぬ回数を半分は減らすことができるんだ。>"
+  },
+  {
+    "key": "13-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "13-content",
+    "original": "작전의 성공률도 올라간다. 효과적인 정보를 기대하지.",
+    "context": "EN :\nIt’ll also raise the likelihood of our success. I’m looking forward to hearing something useful.\nJP :\n作戦の成功率も上がる。効果的な情報を期待する。"
+  },
+  {
+    "key": "14-content",
+    "original": "…이 행동이 관리자로서 옳은 행동이 맞겠지.",
+    "context": "EN :\n…I hope I’m doing the right thing as the manager.\nJP :\n…この行動こそ、管理人として正しい行動だろう。"
+  },
+  {
+    "key": "15-content",
+    "original": "나의 이야기를 들은 싱클레어는 고개를 빠르게 젓고 크게 호흡을 들이키더니, 어렵게 입을 열었다.",
+    "context": "EN :\nSinclair shook his head upon hearing my words, breathed in, and finally opened his mouth after some struggle.\nJP :\n私の話を聞いたシンクレアは首を素早く縦に振って大きく息を吸い込み、\nおずおずと口を開いた。"
+  },
+  {
+    "key": "16-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "16-content",
+    "original": "…우리 집이요. 크로머는 분명 그곳에 있을 거예요.",
+    "context": "EN :\n…My house. That’s where Kromer must be.\nJP :\n…僕の家です。クローマーはきっとそこにいるはずです。"
+  },
+  {
+    "key": "17-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "17-content",
+    "original": "너, 그 자식이랑 아는 사이였냐?",
+    "context": "EN :\nSo, you know that bird?\nJP :\nお前、あいつと知り合いだったのか？"
+  },
+  {
+    "key": "18-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "18-content",
+    "original": "젠장, 하도 귀가 찢어질 듯 웃어대서 머리가 다 지끈거리네.",
+    "context": "EN :\nBollocks, my head is still pounding thanks to her shrill laugh.\nJP :\nクソッ、耳が張り裂けるくれぇ笑ってたせいで頭が痛てぇよ。"
+  },
+  {
+    "key": "19-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "19-content",
+    "original": "…학교에서 만났어요.",
+    "context": "EN :\n…I met her at school.\nJP :\n…学校で会いました。"
+  },
+  {
+    "key": "20-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "20-content",
+    "original": "저런, 혹시 친구였어? 친구라면 잘 타일렀으면 좋겠는데…",
+    "context": "EN :\nOh boy, she’s a friend of yours? Whatever’s going on, sure hope you can talk it out…\nJP :\nあら、もしかして友達だったの？\n友達なら、良い感じにたしなめられると良いんだけど…。"
+  },
+  {
+    "key": "21-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "21-content",
+    "original": "친구 아니에요. 크로머는 우리 가족들을 죽였어요.",
+    "context": "EN :\nShe’s not my friend. Kromer killed my family.\nJP :\n友達じゃないです。クローマーは僕の家族を殺したんです。"
+  },
+  {
+    "key": "22-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "22-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "23-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "23-content",
+    "original": "미안해.",
+    "context": "EN :\nMy bad.\nJP :\nごめんね。"
+  },
+  {
+    "key": "24-content",
+    "original": "나무에 매달린 의체 머리 하나가 아주 천천히 우리 쪽으로 움직였다.",
+    "context": "EN :\nA prosthetic head hanging from a tree slowly turned to face us.\nJP :\n木にぶら下がっている義体の頭が、ゆっくりと私たちの方を向いた。"
+  },
+  {
+    "key": "25-content",
+    "original": "의체에 새어 나오는 불빛은 조명처럼 간간이 깜빡이고 있었다.",
+    "context": "EN :\nLights and sparks occasionally flickered within.\nJP :\n義体から漏れる明かりは、照明のように時折チカチカと点滅していた。"
+  },
+  {
+    "key": "26-teller",
+    "original": "누군가의 의체 머리",
+    "context": "EN :\nA Prosthetic Head\nJP :\n誰かの義体の頭"
+  },
+  {
+    "key": "26-title",
+    "original": "칼프 마을 주민",
+    "context": "EN :\nCalw Townsfolk\nJP :\nカルフ町の住民"
+  },
+  {
+    "key": "26-content",
+    "original": "싱… 클… 레… 어. 칙… 치직…",
+    "context": "EN :\nSin…cl…a…ir… Bzt… Pzzt…\nJP :\nシん…ク…れ…あ。ジッ…ジジッ…。"
+  },
+  {
+    "key": "27-teller",
+    "original": "누군가의 의체 머리",
+    "context": "EN :\nA Prosthetic Head\nJP :\n誰かの義体の頭"
+  },
+  {
+    "key": "27-title",
+    "original": "칼프 마을 주민",
+    "context": "EN :\nCalw Townsfolk\nJP :\nカルフ町の住民"
+  },
+  {
+    "key": "27-content",
+    "original": "왜… 돌아… 온 거니…",
+    "context": "EN :\nWhy… did you… return…\nJP :\nなンで…もどっ…テ…きた…。"
+  },
+  {
+    "key": "28-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "28-content",
+    "original": "…싱클레어, 이웃들이야?",
+    "context": "EN :\n…Sinclair, are those your neighbors?\nJP :\n…シンクレア、知り合い？"
+  },
+  {
+    "key": "29-content",
+    "original": "조각조각이 나버린 의체들을 바라보며 로쟈가 물어왔다.",
+    "context": "EN :\nRodya asked while looking at the dismembered prostheses.\nJP :\nバラバラになってしまった義体を眺めながら、ロージャが尋ねてきた。"
+  },
+  {
+    "key": "30-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "30-content",
+    "original": "그런 것 같아요… 아니었으면 좋겠지만요…",
+    "context": "EN :\nIt looks like they were… I really hope that isn’t the case, though…\nJP :\nそうみたいです…。違うと嬉しいんですけど…。"
+  },
+  {
+    "key": "31-content",
+    "original": "불꽃이 타닥타닥 피어오르는 전선들을 어두운 표정으로 바라보며 싱클레어가 대답했다.",
+    "context": "EN :\nSinclair replied, watching with a grim look on his face as their bare wires sparked and short-circuited.\nJP :\n火花がバチバチと散る電線を暗い表情で眺めながら\nシンクレアが答えた。"
+  },
+  {
+    "key": "32-content",
+    "original": "간신히 소리를 내던 머리는 곧 무수한 잡음만 낸 채 멈췄다.",
+    "context": "EN :\nThe robotic head soon stopped moving, only emitting discordant things.\nJP :\nかろうじて音を出していた頭は、\nまもなく無数の雑音を出したまま止まった。"
+  },
+  {
+    "key": "33-content",
+    "original": "그러더니 곧 노래 하나가 울려 퍼진다.",
+    "context": "EN :\nThen, a song begins to fill the air.\nJP :\nすると歌が一つ、鳴り響いた。"
+  },
+  {
+    "key": "34-teller",
+    "original": "누군가의 의체 머리",
+    "context": "EN :\nA Prosthetic Head\nJP :\n誰かの義体の頭"
+  },
+  {
+    "key": "34-title",
+    "original": "칼프 마을 주민",
+    "context": "EN :\nCalw Townsfolk\nJP :\nカルフ町の住民"
+  },
+  {
+    "key": "34-content",
+    "original": "고요한 밤…",
+    "context": "EN :\nSilent night…\nJP :\n静かな…。"
+  },
+  {
+    "key": "35-content",
+    "original": "매달려 있는 머리들로부터 모두 같은 노래가 흘러나오고 있다.",
+    "context": "EN :\nAll the heads hung from the trees are singing the same song.\nJP :\nぶら下がっている頭たちから、同じ歌が流れていた。"
+  },
+  {
+    "key": "36-content",
+    "original": "껍데기만 남은 각양각색의 머리에서부터 울려 퍼지는 성가는 불길과 함께 내려앉는다.",
+    "context": "EN :\nThe carol leaking through the vocal units of so many lifeless heads lands on the flames below.\nJP :\nガワだけが残った様々な頭から鳴り響く聖歌は、炎と共に鎮まった。"
+  },
+  {
+    "key": "37-teller",
+    "original": "누군가의 의체 머리",
+    "context": "EN :\nA Prosthetic Head\nJP :\n誰かの義体の頭"
+  },
+  {
+    "key": "37-title",
+    "original": "칼프 마을 주민",
+    "context": "EN :\nCalw Townsfolk\nJP :\nカルフ町の住民"
+  },
+  {
+    "key": "37-content",
+    "original": "거룩한 밤…",
+    "context": "EN :\nHoly night…\nJP :\n真夜中…。"
+  },
+  {
+    "key": "38-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "38-content",
+    "original": "이들에게 이단이란 건… 역시 의체 보유자를 말하는 것이군요.",
+    "context": "EN :\nIt’s clearer than ever now… Prosthetic body parts are “heresy” to them.\nJP :\n彼らにとって異端というのは…やはり義体保持者のことみたいですね。"
+  },
+  {
+    "key": "39-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "39-content",
+    "original": "도시에 의체 보유자들이 보이게 된 지 꽤 오랜 시간이 흘렀지만…",
+    "context": "EN :\nThough it has been quite a while since prostheses were first introduced to the City…\nJP :\n都市に義体保持者が見られるようになってから、\nかなり長い時間が経ちましたが…。"
+  },
+  {
+    "key": "40-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "40-content",
+    "original": "여전히 그들의 모습을 보고 이질감을 느끼는 사람들은 많죠.",
+    "context": "EN :\nMany people still find them foreign and alienating.\nJP :\n依然として彼らの姿を見て異質感を感じる人は多いです。"
+  },
+  {
+    "key": "41-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "41-content",
+    "original": "…저희 마을은요.",
+    "context": "EN :\n…Our town.\nJP :\n…僕の町はですね。"
+  },
+  {
+    "key": "42-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "42-content",
+    "original": "저희 마을은… ‘K사 의체 산업의 성지’라고 불릴 정도로, 주민 대부분이 하이엔드 의체 부품 제작에 종사하고 있었어요.",
+    "context": "EN :\nOur town was called… “The Holy Site of Nest K’s Prosthetic Industry”. Most of the residents worked in manufacturing high-end prosthesis components.\nJP :\n僕の町は…「K社の義体産業の聖地」と呼ばれるくらいには、\n住民のほとんどがハイエンド義体部品の製作に従事していました。"
+  },
+  {
+    "key": "43-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "43-content",
+    "original": "크로머는 오래전부터 계속 우리 마을을 주시했던 거예요.",
+    "context": "EN :\nKromer has been keeping an eye on our town for a long time.\nJP :\nクローマーはずっと前から僕の町に目を付けていたんです。"
+  },
+  {
+    "key": "44-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "44-content",
+    "original": "네 가족도…",
+    "context": "EN :\nSo, was your family…\nJP :\n君の家族も…。"
+  },
+  {
+    "key": "45-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "45-content",
+    "original": "네, 저희 아버지는 신생 의체 회사의 대표였어요.",
+    "context": "EN :\nYeah, my father was the owner of a fledgling prosthetics company too.\nJP :\nはい、僕のお父さんは新生義体会社の代表でした。"
+  },
+  {
+    "key": "46-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "46-content",
+    "original": "그래서…",
+    "context": "EN :\nIs that why…\nJP :\nだから…。"
+  },
+  {
+    "key": "47-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "47-content",
+    "original": "아니.",
+    "context": "EN :\nNo.\nJP :\nいいえ。"
+  },
+  {
+    "key": "48-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "48-content",
+    "original": "제가 보기엔, 이 자들에게 그런 거창한 사상 따위는 없어요.",
+    "context": "EN :\nThe way I see it, attributing it to a high-flown cause of any kind is giving them too much credit.\nJP :\n私が見るに、この人達にそんな大それた思想なんかはありません。"
+  },
+  {
+    "key": "49-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "49-content",
+    "original": "그냥… 그냥, 광기와 폭력에 매료된 미치광이죠.",
+    "context": "EN :\nThey’re… just lunatics, consumed by madness and violence.\nJP :\nただ…ただ、狂気と暴力に魅了された狂人です。"
+  },
+  {
+    "key": "50-content",
+    "original": "이스마엘의 일갈이 있었고.",
+    "context": "EN :\nIshmael asserted to him.\nJP :\nイシュメールの一喝があり。"
+  },
+  {
+    "key": "51-content",
+    "original": "이웃들이 내걸린 크리스마스트리를 한참 동안 바라보던 싱클레어가 나를 향해 고개를 돌렸다.",
+    "context": "EN :\nAfter a while of staring at the “Christmas” trees decorated with his neighbors, Sinclair turned to me.\nJP :\n隣人が吊されたクリスマスツリーをしばらく眺めていたシンクレアが\n私の方へ首を向けた。"
+  },
+  {
+    "key": "52-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "52-content",
+    "original": "관리자 님, 예전부터 여쭤보고 싶었던 게 있어요.",
+    "context": "EN :\nManager, I have a question if it’s alright with you.\nJP :\n管理人さん、以前からお聞きしたかったことがあるんです。"
+  },
+  {
+    "key": "53-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "53-content",
+    "original": "<뭔데?>",
+    "context": "EN :\n<What is it?>\nJP :\n<なんだ？>"
+  },
+  {
+    "key": "54-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "54-content",
+    "original": "그… 기분이 어떠세요?",
+    "context": "EN :\nWell… How does it feel?\nJP :\nその…気持ちはどうですか？"
+  },
+  {
+    "key": "55-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "55-content",
+    "original": "<기분?>",
+    "context": "EN :\n<Feel?>\nJP :\n<気持ち？>"
+  },
+  {
+    "key": "56-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "56-content",
+    "original": "네.",
+    "context": "EN :\nYeah.\nJP :\nはい。"
+  },
+  {
+    "key": "57-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "57-content",
+    "original": "머리 대신 의체를 달고 있는 기분이 어떻냐고요.",
+    "context": "EN :\nI mean, how does it feel to have a prosthetic replacement for your head?\nJP :\n頭の代わりに義体を着けている気持ちはどうなんですか。"
+  },
+  {
+    "key": "58-content",
+    "original": "그런 식의 질문은 처음 받아보는 것이기에 잠시 당혹감을 느꼈다.",
+    "context": "EN :\nI was a little taken aback since I’ve never had anyone ask that kind of question before.\nJP :\nそんな質問は初めてだったので、しばらく困惑した。"
+  },
+  {
+    "key": "59-content",
+    "original": "문제는 의체를 지니기 전의 기분까지는 내가 알 리가 만무하다는 것이다.",
+    "context": "EN :\nThe issue is that there’s no way to know how I might have felt before I got a clock for a head.\nJP :\n問題は、義体を持つ前の気持ちを\n私が知っているわけがないということだ。"
+  },
+  {
+    "key": "60-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "60-content",
+    "original": "<으음… 그게…>",
+    "context": "EN :\n<Uhm… That’s…>\nJP :\n<うぅん…それが…。>"
+  },
+  {
+    "key": "61-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "61-content",
+    "original": "아! 그, 저… 따지려 드는 게 아니라요.",
+    "context": "EN :\nOh! It’s—um… I’m not trying to argue with you or anything.\nJP :\nあっ！そ、あの…問い詰めてるわけじゃないんです。"
+  },
+  {
+    "key": "62-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "62-content",
+    "original": "…무, 무례한 질문이었겠죠. 죄송해요.",
+    "context": "EN :\n…T-That was probably rude of me. I apologize.\nJP :\n…ぶ、 無礼な質問でしたよね。ごめんなさい。"
+  },
+  {
+    "key": "63-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "63-content",
+    "original": "<아니야, 괜찮아.>",
+    "context": "EN :\n<No need, it’s alright.>\nJP :\n<いや、大丈夫だ。>"
+  },
+  {
+    "key": "64-content",
+    "original": "다른 수감자는 이보다 억겁은 더 무례한 언사를 뱉어댔는데, 뭐.",
+    "context": "EN :\nThe other Sinners were a billion times ruder to me with their daily interactions, anyway.\nJP :\n他の囚人たちはこれよりもっと厄介で無礼な言葉を吐き捨ててたし、まあ。"
+  },
+  {
+    "key": "65-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "65-content",
+    "original": "<어차피 머리가 바뀌기 전의 기억은 없어서… 대답해 줄 수도 없는걸.>",
+    "context": "EN :\n<I’m afraid I can’t answer that… I don’t remember a single thing about my life before this clock.>\nJP :\n<どの道、頭が変わる前の記憶が無いから…答えてあげようもないしなぁ。>"
+  },
+  {
+    "key": "66-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "66-content",
+    "original": "그러시군요…",
+    "context": "EN :\nI see…\nJP :\nそうなんですね…。"
+  },
+  {
+    "key": "67-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "67-content",
+    "original": "항상 궁금했어요. 머리 대신 다른 것이 자리를 잡았을 때의 기분은 어떤지…",
+    "context": "EN :\nI’ve always wondered what it feels like when there’s something sitting where your head should be…\nJP :\nいつも気になってたんです。\n頭の代わりに他のモノが定着したときは、どういう気持ちになるのか…。"
+  },
+  {
+    "key": "68-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "68-content",
+    "original": "가족들은 모자를 쓰고 시계를 걸치는 것과 다를 바 없다고 말했지만…",
+    "context": "EN :\nMy family said it’s no different from wearing a hat or a watch…\nJP :\n家族は帽子を被って、時計を着けるのと変わらないって言ってたけど…。"
+  },
+  {
+    "key": "69-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "69-content",
+    "original": "저는 아무리 떠올리려고 해도 잘 상상이 되지 않더라고요.",
+    "context": "EN :\nBut I just couldn’t picture it well no matter how I approached it.\nJP :\n僕はいくら想像しようとしても、上手く思い浮かべられなかったんですよ。"
+  },
+  {
+    "key": "70-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "70-content",
+    "original": "그 덕에, 저만 유일하게 살아남았지만요.",
+    "context": "EN :\nAnd now, I’m the only survivor thanks to that.\nJP :\nそのおかげで、僕だけが唯一生き延びたんですけど。"
+  },
+  {
+    "key": "71-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "71-content",
+    "original": "<어린 나이였을 텐데, 의체 시술이 무서울 만했겠지. 그런 걸로 죄책감 가질 필요는 없어.>",
+    "context": "EN :\n<I’m sure the procedure seemed terrifying at such a young age. You don’t have to feel guilty about that.>\nJP :\n<幼い頃だっただろうし、義体施術が怖かったんだろう。\nそんなことで罪悪感を持つ必要はないよ。>"
+  },
+  {
+    "key": "72-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "72-content",
+    "original": "아니에요…",
+    "context": "EN :\nThat’s not it…\nJP :\n違います…。"
+  },
+  {
+    "key": "73-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "73-content",
+    "original": "그런 게 아니에요…",
+    "context": "EN :\nIt’s nothing like that…\nJP :\nそういうことじゃないんですよ…。"
+  },
+  {
+    "key": "74-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "74-content",
+    "original": "전 단테 씨 생각처럼 그렇게 무고한 사람이 아니에요…",
+    "context": "EN :\nI’m afraid I’m not as innocent as you might think, Dante…\nJP :\n僕はダンテさんが思ってるような、無垢な人間じゃないんです…。"
+  },
+  {
+    "key": "75-content",
+    "original": "싱클레어가 조용히 고개를 떨궜다.",
+    "context": "EN :\nSinclair quietly hung his head.\nJP :\nシンクレアが静かに項垂れた。"
+  },
+  {
+    "key": "76-content",
+    "original": "대답할 말을 열심히 찾아보았지만, 뾰족한 위로는 솟아나지 않았고.",
+    "context": "EN :\nI racked my brains for an appropriate reply, but no suitable words of comfort came up.\nJP :\nこれに対してなんと答えるべきか一生懸命考えてみたが、\nこれといった良さげな慰めの言葉が湧いてくるわけでもなく。"
+  },
+  {
+    "key": "77-content",
+    "original": "타닥거리고 지직거리는 불쾌한 잡음만이 도로를 메울 뿐이었다.",
+    "context": "EN :\nOnly the unpleasant sounds of sparks and flames filled the street.\nJP :\nガタガタしてバチバチする不快な雑音だけが、道路を埋めるばかりであった。"
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "0-content",
+    "original": "저기! 질문이 있네!",
+    "context": "EN :\nPardon me! I have a question!\nJP :\nその！質問があるのだが！"
+  },
+  {
+    "key": "1-content",
+    "original": "돈키호테가 갑작스럽게 손을 번쩍 들었다.",
+    "context": "EN :\nDon Quixote suddenly raised her hand.\nJP :\nドンキホーテが急に手をぴしっと挙げた。"
+  },
+  {
+    "key": "2-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "2-content",
+    "original": "해.",
+    "context": "EN :\nShoot.\nJP :\nん。"
+  },
+  {
+    "key": "3-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "3-content",
+    "original": "첫 번째 규칙은 이해했다네! 그럼 두 번째는 무엇인가?",
+    "context": "EN :\nVerily, I understood the first rule well! What is the second rule, then?\nJP :\n一つ目の規則は理解した！それなら二つ目の規則は何だろうか！"
+  },
+  {
+    "key": "4-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "4-content",
+    "original": "나 참… 아니 그걸 왜 굳이 나서서 물어보는 거야?",
+    "context": "EN :\nHah, really… Why are you so eager to learn that?\nJP :\nおいおい…いや何でそれをわざわざ聞くんだよ？"
+  },
+  {
+    "key": "5-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "5-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "6-content",
+    "original": "베르길리우스가 서늘한 표정으로 료슈를 쳐다보았다. 마침 새로운 담배에 불을 당긴 료슈가 오묘한 표정으로 그를 바라보았다.",
+    "context": "EN :\nVergilius gave a cold stare to Ryōshū, who had just lit her cigarette. She looked back at him with a peculiar face.\nJP :\nヴェルギリウスは冷ややかな表情で良秀を見つめた。\n丁度新しい煙草に火を灯けた良秀が微妙な顔で彼を見つめた。"
+  },
+  {
+    "key": "7-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "7-content",
+    "original": "두 번째 규칙…",
+    "context": "EN :\nRule number two…\nJP :\n二つ目の規則…。"
+  },
+  {
+    "key": "8-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "8-content",
+    "original": "버스 바닥에 담배꽁초 버리지 마. 자국 남으니까.",
+    "context": "EN :\nDon’t litter the bus floor with cigarettes. They leave burn marks.\nJP :\nバスの床に吸い殻を捨てるな。跡が残る。"
+  },
+  {
+    "key": "9-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "9-content",
+    "original": "…하.",
+    "context": "EN :\n…Hah.\nJP :\n…はっ。"
+  },
+  {
+    "key": "10-content",
+    "original": "버스에는 다시 정적이 흐른다.",
+    "context": "EN :\nThe bus falls silent again.\nJP :\nバスには再び静寂が流れる。"
+  },
+  {
+    "key": "11-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "11-content",
+    "original": "잠깐, 버스에 정적이 흐르면 안 되지. 엔진소리는 어디 갔나?",
+    "context": "EN :\nNow wait a second, the bus shouldn’t be this quiet. Where’s the engine’s roar?\nJP :\n待て、バスに静寂が流れちゃ駄目だろ。エンジンの音はどこへ行った？"
+  },
+  {
+    "key": "12-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "12-content",
+    "original": "카론, 왜 속도를 안 내는 거지?",
+    "context": "EN :\nCharon, why aren’t you speeding up?\nJP :\nカロン、どうしてスピードを出さないんだ？"
+  },
+  {
+    "key": "13-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "13-content",
+    "original": "밥이 없어. 메피가 배고파해.",
+    "context": "EN :\nNo food. Mephi is hungry.\nJP :\nご飯がない。メフィが腹ぺこ。"
+  },
+  {
+    "key": "14-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "14-content",
+    "original": "잘됐군. 분위기를 좀 환기시키지.",
+    "context": "EN :\nGood. We could use something to lift the mood.\nJP :\nちょうど良いな。空気をちょっと入れ換えようか。"
+  },
+  {
+    "key": "15-content",
+    "original": "주유소라도 들르는 걸까?",
+    "context": "EN :\nAre we dropping by a gas station?\nJP :\nガソリンスタンドにでも寄るんだろうか？"
+  },
+  {
+    "key": "16-content",
+    "original": "버스 주유구에 기름을 넣고 있는 베르길리우스의 모습이 잘 상상되진 않는다.",
+    "context": "EN :\nThe idea of Vergilius casually plugging a fuel nozzle into the bus like an average driver felt alien.\nJP :\nバスの給油口にガソリンを注いでいるヴェルギリウスの姿は\nあまり想像できなかった。"
+  },
+  {
+    "key": "17-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "17-content",
+    "original": "차가 움직이려면 연료가 필요하지.",
+    "context": "EN :\nA car needs fuel to run.\nJP :\n車が動くには燃料が必要だ。"
+  },
+  {
+    "key": "18-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "18-content",
+    "original": "카론, 헤드라이트를 깜빡거려 봐. 무대 조명처럼.",
+    "context": "EN :\nCharon, try flashing the headlights a bit. Like stage lights.\nJP :\nカロン、ヘッドライトを点滅させてみろ。舞台照明みたいに。"
+  },
+  {
+    "key": "19-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "19-content",
+    "original": "응, 댄스 타임이야.",
+    "context": "EN :\nMhm, it’s dance timey.\nJP :\nうん、ダンスタイムだよ。"
+  },
+  {
+    "key": "20-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "20-content",
+    "original": "잠깐, 헤드라이트까지 켜면 습격받기 딱 좋은 상황이잖아요.",
+    "context": "EN :\nWait, if we do that, we’re effectively asking to be attacked.\nJP :\n待って、ヘッドライドまで点けたら襲撃されるのに\nおあつらえ向きの状況になるじゃないですか。"
+  },
+  {
+    "key": "21-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "21-content",
+    "original": "그걸 노린 거군.",
+    "context": "EN :\nThat appears to be the intent.\nJP :\nそれを狙ったのか。"
+  },
+  {
+    "key": "22-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "22-content",
+    "original": "…네?",
+    "context": "EN :\n…Sorry?\nJP :\n…はい？"
+  },
+  {
+    "key": "23-content",
+    "original": "누군가 밖에서 버스의 철판을 내리치는 소리가 들렸다.",
+    "context": "EN :\nI could hear someone slam the bus outside.\nJP :\n誰かが外でバスの外壁を叩き付ける音が聞こえた。"
+  },
+  {
+    "key": "24-teller",
+    "original": "숫자 세는 불한당",
+    "context": "EN :\nNumber-nuts Hooligan\nJP :\n数を数えるゴロツキ"
+  },
+  {
+    "key": "24-title",
+    "original": "4구 뒷골목",
+    "context": "EN :\nDistrict 4 Backstreets\nJP :\n4区裏路地"
+  },
+  {
+    "key": "24-content",
+    "original": "어이! 가진 거 다 놓고 내려! 30초 준다! 10! 9!",
+    "context": "EN :\nOi! Leave all ya stuff behind and get off! Y’got 30 seconds! Ten! Nine!\nJP :\nおい！持ってるもの全部置いて下りな！30秒やる！10！9！"
+  },
+  {
+    "key": "25-teller",
+    "original": "예리한 불한당",
+    "context": "EN :\nSharp Hooligan\nJP :\n鋭いゴロツキ"
+  },
+  {
+    "key": "25-title",
+    "original": "4구 뒷골목",
+    "context": "EN :\nDistrict 4 Backstreets\nJP :\n4区裏路地"
+  },
+  {
+    "key": "25-content",
+    "original": "이봐, 20이 빠졌잖아.",
+    "context": "EN :\nEy, you skipped twenty of ‘em.\nJP :\nおい、20が抜けてるだろ。"
+  },
+  {
+    "key": "26-teller",
+    "original": "숫자 세는 불한당",
+    "context": "EN :\nNumber-nuts Hooligan\nJP :\n数を数えるゴロツキ"
+  },
+  {
+    "key": "26-title",
+    "original": "4구 뒷골목",
+    "context": "EN :\nDistrict 4 Backstreets\nJP :\n4区裏路地"
+  },
+  {
+    "key": "26-content",
+    "original": "어… 어… 그럼 20초 동안은 기도나 하고 있어라!",
+    "context": "EN :\nEr… Uhh… Well say your prayers for the other 20!\nJP :\nあ…あ…じゃあ20秒くらいは祈ってろ！"
+  },
+  {
+    "key": "27-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "27-content",
+    "original": "하아, 왜 이렇게 주변에 모자란 사람들이 많은 건지.",
+    "context": "EN :\nSigh, why am I surrounded by dullards left and right.\nJP :\nはぁ、どうしてご近所にはおつむの足りない人ばっかりいるんだろう。"
+  },
+  {
+    "key": "28-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "28-content",
+    "original": "…뭐라고 했냐?",
+    "context": "EN :\n…What’d you just say?\nJP :\n…今何つった？"
+  },
+  {
+    "key": "29-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "29-content",
+    "original": "비겁하게 습격을 하다니! 틀림없는 악인들이로군!",
+    "context": "EN :\nHow cowardly of them to ambush us! They must be villains without a shadow of a doubt!\nJP :\n襲撃をするなど卑怯だ！紛うことなき悪人たちである！"
+  },
+  {
+    "key": "30-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "30-content",
+    "original": "자, 다들 내려.",
+    "context": "EN :\nAlright, everyone off.\nJP :\nさぁ、全員下りろ。"
+  },
+  {
+    "key": "31-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "31-content",
+    "original": "그리고 말이야, 최대한 죽지 않을 만큼만 해줘. 알지?",
+    "context": "EN :\nAnd one more thing: we want them near death, not dead. Got it?\nJP :\nあとな、なるべく殺さないようにしてくれ。分かったか？"
+  }
+]

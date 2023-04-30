@@ -1,0 +1,92 @@
+[
+  {
+    "key": "1-name",
+    "original": "시즌 1 시작 기념 배너",
+    "context": "EN :\nSeason 1 Celebratory Banner\nJP :\nシーズン1 開始記念バナー"
+  },
+  {
+    "key": "1-desc",
+    "original": "배틀 패스 (기본) 1레벨에 획득",
+    "context": "EN :\nObtained at Standard Pass Level 1.\nJP :\nバトルパス(基本) レベル1にて獲得"
+  },
+  {
+    "key": "2-name",
+    "original": "시즌 1 완료 기념 배너",
+    "context": "EN :\nSeason 1 Completion Banner\nJP :\nシーズン1 完了記念バナー"
+  },
+  {
+    "key": "2-desc",
+    "original": "배틀 패스 (프리미엄) 60레벨에 획득",
+    "context": "EN :\nObtained at Limbus Pass (Premium) Level 60.\nJP :\nバトルパス(プレミアム) レベル60にて獲得"
+  },
+  {
+    "key": "3-name",
+    "original": "근무 실적 우수 사원",
+    "context": "EN :\nProof of Diligent Attendance\nJP :\n勤務実績優秀社員"
+  },
+  {
+    "key": "3-desc",
+    "original": "신입 관리자 근태 보상 이벤트에서 획득",
+    "context": "EN :\nObtained from the New-hire’s Attendance Rewards event.\nJP :\n新入管理人 勤怠報酬イベントにて獲得"
+  },
+  {
+    "key": "4-name",
+    "original": "상냥한 관리자",
+    "context": "EN :\nKind Manager\nJP :\n優しい管理人"
+  },
+  {
+    "key": "4-desc",
+    "original": "신입 관리자 근태 보상 이벤트에서 획득",
+    "context": "EN :\nObtained from the New-hire’s Attendance Rewards event.\nJP :\n新入管理人 勤怠報酬イベントにて獲得"
+  },
+  {
+    "key": "5-name",
+    "original": "거울굴절철도 1호선 기념 배너 I",
+    "context": "EN :\nRefraction Railway Line 1 Basic Banner\nJP :\n鏡屈折鉄道1号線 記念バナーI"
+  },
+  {
+    "key": "5-desc",
+    "original": "거울굴절철도 1호선 13단계 클리어 시 획득",
+    "context": "EN :\nObtained by clearing Station 13 of Refraction Railway Line 1.\nJP :\n鏡屈折鉄道1号線 レベル13クリア時に獲得"
+  },
+  {
+    "key": "6-name",
+    "original": "거울굴절철도 1호선 기념 배너 II",
+    "context": "EN :\nRefraction Railway Line 1 Decorated Banner\nJP :\n鏡屈折鉄道1号線 記念バナーII"
+  },
+  {
+    "key": "6-desc",
+    "original": "거울굴절철도 1호선 13단계 클리어, 누적 턴 120 이하 시 획득",
+    "context": "EN :\nObtained by clearing Station 13 of Refraction Railway Line 1 under 120 Total Turns.\nJP :\n鏡屈折鉄道1号線 レベル13クリア、累計ターンが120以下のときに獲得"
+  },
+  {
+    "key": "7-name",
+    "original": "거울굴절철도 1호선 기념 배너 III",
+    "context": "EN :\nRefraction Railway Line 1 Embellished Banner\nJP :\n鏡屈折鉄道1号線 記念バナーIII"
+  },
+  {
+    "key": "7-desc",
+    "original": "거울굴절철도 1호선 13단계 클리어, 누적 턴 120 이하 조건을 이벤트 2주차에 완료 시 획득",
+    "context": "EN :\nObtained by clearing Station 13 of Refraction Railway Line 1 under 120 Total Turns during the first two weeks of the event.\nJP :\n鏡屈折鉄道1号線 レベル13クリア、累計ターンが120以下の条件をイベントの2週目以内達成時に獲得"
+  },
+  {
+    "key": "8-name",
+    "original": "헬스 치킨",
+    "context": "EN :\nHell’s Chicken\nJP :\nヘルズチキン"
+  },
+  {
+    "key": "8-desc",
+    "original": "헬스 치킨 이벤트에서 획득",
+    "context": "EN :\nObtained from the Hell’s Chicken event.\nJP :\nヘルズチキンイベントにて獲得"
+  },
+  {
+    "key": "9-name",
+    "original": "어머니께...",
+    "context": "EN :\nTo My Mother…\nJP :\n母さんへ…。"
+  },
+  {
+    "key": "9-desc",
+    "original": "헬스 치킨 이벤트에서 획득",
+    "context": "EN :\nObtained from the Hell’s Chicken event.\nJP :\nヘルズチキンイベントにて獲得"
+  }
+]

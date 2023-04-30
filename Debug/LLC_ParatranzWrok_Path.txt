@@ -1,0 +1,3 @@
+./Debug/Localize
+Paratranz 的目录
+支持相对和绝对目录

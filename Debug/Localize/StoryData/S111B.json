@@ -1,0 +1,968 @@
+[
+  {
+    "key": "0-place",
+    "original": "4구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 4 - LC Branch Interior\nJP :\n4区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-content",
+    "original": "우리는 로보토미 코퍼레이션 지부라는 낡은 건물 안으로 들어갔다. ",
+    "context": "EN :\nWe entered the derelict building of Lobotomy Corporation.\nJP :\n私たちはロボトミーコーポレーション支部という、古びた建物の中へ入った。"
+  },
+  {
+    "key": "1-content",
+    "original": "빛이 점점 시들어갈수록, 지하에서 풍겨오는 악취도 상당해진다.",
+    "context": "EN :\nAs the light goes dim, the dreadful stench from underground grows stronger.\nJP :\n光が段々と薄れて行くにつれ、地下から漂う悪臭も相当なものになる。"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "우욱… 냄새가… 지독해요…",
+    "context": "EN :\nUrk… The smell… It’s awful…\nJP :\nうぇ…臭いが…酷いです…。"
+  },
+  {
+    "key": "3-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "3-content",
+    "original": "으음… 허파 속으로 쓰레기가 막 붙고 있소.",
+    "context": "EN :\nMmm… I can feel the waste collecting in my lungs.\nJP :\nうぅむ…肺の中へ五味が頻りに付きたり。"
+  },
+  {
+    "key": "4-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "4-content",
+    "original": "되려 머리가 맑아지는 냄새요.",
+    "context": "EN :\nThe odor is so intense, it winds back to refreshing.\nJP :\n却りて頭が澄む臭いなり。"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-content",
+    "original": "다시 한번 말씀드리지만, 이 안에서 죽으면 전투가 끝나도 되살아나지 못해요.",
+    "context": "EN :\nLet me warn you one last time: If you die here, Dante won’t be able to resuscitate you even when the battle has finished.\nJP :\nもう一度申し上げますが、この中で死ぬと\n戦闘が終わっても生き返ることはできません。"
+  },
+  {
+    "key": "6-model",
+    "original": "홉킨스",
+    "translation": "霍普金斯",
+    "context": "EN :\nleft\nJP :\nhopkins"
+  },
+  {
+    "key": "6-teller",
+    "original": "홉킨스",
+    "context": "EN :\nHopkins\nJP :\nホプキンス"
+  },
+  {
+    "key": "6-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "6-content",
+    "original": "되살아나…?",
+    "context": "EN :\nResuscitate…?\nJP :\n生き返る…？"
+  },
+  {
+    "key": "7-model",
+    "original": "아야",
+    "translation": "阿雅",
+    "context": "EN :\nleft\nJP :\naya"
+  },
+  {
+    "key": "7-teller",
+    "original": "아야",
+    "context": "EN :\nAya\nJP :\nアヤ"
+  },
+  {
+    "key": "7-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "7-content",
+    "original": "유행하는 개그인가 봐~ 에휴, 요샌 도시에 무슨 이야기가 떠도는지도 모를 정도가 되어버렸어~",
+    "context": "EN :\nMust be a popular joke or something~ Whew, I can’t even tell what kind of stories circulate the City these days~\nJP :\n最近流行りのジョークなんでしょ～。\nもう、最近都市にどんな話が出回ってるのか追いつけなくなっちゃった～。"
+  },
+  {
+    "key": "8-content",
+    "original": "오해가 조금 쌓인 듯했지만, 파우스트가 특별히 설명하려고 하지 않는 모습을 보고, 나도 가만히 있기로 했다.",
+    "context": "EN :\nThey seem to have misunderstood us, but seeing as Faust made no comment on it, I decided not to add my input.\nJP :\n誤解が少し生じた気がするが、ファウストが特に\n説明しようという素振りを見せていないので、私も何もしないことにした。"
+  },
+  {
+    "key": "9-content",
+    "original": "그보다는, 코앞에 있는 악취의 근원들이 눈에 밟히는 상황이었기에.",
+    "context": "EN :\nThe sources of this rancid smell were a more pressing concern.\nJP :\nそんなことより、鼻の先にある悪臭の根源が目に付く状況だったからだ。"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<죽은 이후로 시간이 상당히 지난 모양이야.>",
+    "context": "EN :\n<Looks like they probably died a while ago.>\nJP :\n<死んでからかなり時間が経ったみたいだ。>"
+  },
+  {
+    "key": "11-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11-content",
+    "original": "정확한 관측이십니다. 시체의 붕괴기에 다다른 것으로 보이는군요.",
+    "context": "EN :\nAn astute observation, Manager. The corpses have reached the stage of active decay.\nJP :\n正確な観測でございます。死体の崩壊期に至ったように見えますね。"
+  },
+  {
+    "key": "12-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "12-content",
+    "original": "어휴, 벌레들이 한창 잔치라도 여는 모양이네.",
+    "context": "EN :\nBleh, looks like the bugs are having a feast over there.\nJP :\nはぁ、虫たちの宴会真っ盛りってところね。"
+  },
+  {
+    "key": "13-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "13-content",
+    "original": "…얼른 서두르자고.",
+    "context": "EN :\n…Let’s just hurry along.\nJP :\n…先を急ごうか。"
+  },
+  {
+    "key": "14-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "14-content",
+    "original": "엥… 그렉? 자기 혹시 벌레 무서워해?",
+    "context": "EN :\nHuh… Something up, Gregor babe? Are you scared of bugs?\nJP :\nあら…グレッグ？あなたもしかして虫が苦手なの？"
+  },
+  {
+    "key": "15-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "15-content",
+    "original": "…이건 노파심인데, 설마 벌레 시체를 얼굴에 들이대는 유치한 짓은…",
+    "context": "EN :\n…Now, I’m sure you’re more mature than shoving dead bugs in someone’s face…\nJP :\nこれは老婆心から言うんだけど、まさか虫の死骸を顔に突きつける幼稚なことは…。\n"
+  },
+  {
+    "key": "16-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "16-content",
+    "original": "짠!!!",
+    "context": "EN :\nBoo!!!\nJP :\nじゃーん！！！"
+  },
+  {
+    "key": "17-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "17-content",
+    "original": "하지 않을 거라고 믿… 윽! 저리 치워! 뭐가 그렇게 웃긴 거야?",
+    "context": "EN :\nBut just in case one of y― Gah! Put it away! What’s so funny about this?!\nJP :\nしないって信じ…うっ！どけろ！何がそんなにおかしいんだよ？"
+  },
+  {
+    "key": "18-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "18-content",
+    "original": "푸핫… 웃기잖아~ 벌레를 무서워하는 게 다른 사람도 아닌 자기일 줄은…",
+    "context": "EN :\nPffhaw… I mean, it’s hilarious~ Who would’ve thought that you of all people’d be scared of these little wrigglers…\nJP :\nぷはっ…面白いでしょ～。\n虫を怖がってるのが他でもないあなただって…。"
+  },
+  {
+    "key": "19-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "19-content",
+    "original": "…그렉? 그렇게 싫었어?",
+    "context": "EN :\n…Greg? Did you hate it that bad?\nJP :\n…グレッグ？そんなに嫌だったの？"
+  },
+  {
+    "key": "20-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "20-content",
+    "original": "…됐어.",
+    "context": "EN :\n…Forget it.\nJP :\n…いいって。"
+  },
+  {
+    "key": "21-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "21-content",
+    "original": "거기! 장난은 그만 쳐라. 관리자님이 신경 쓰셔야 할 거리를 만들지 말란 말이다!",
+    "context": "EN :\nYou there! Stop with your mischief this instant. Do not cause additional concerns for our manager!\nJP :\nそこ！ふざけるのもいい加減にしろ。\n管理人様が気にするべきことを作るなという意味だ！"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "잠깐… 이 시체는 아직 온기가 있군요.",
+    "context": "EN :\nHold on… this body is still warm.\nJP :\n待ってください…この死体はまだ温かいですね。"
+  },
+  {
+    "key": "23-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "23-content",
+    "original": "공격받은 건 꽤 최근인 듯 하구료.",
+    "context": "EN :\nSuch is the sign of a recent attack.\nJP :\n攻撃せられしは近頃であるべし。"
+  },
+  {
+    "key": "24-content",
+    "original": "어두운 표정으로 시체들을 살펴보던 유리의 표정이 서서히 밝아졌다.",
+    "context": "EN :\nThe gloom that had cast over Yuri’s face cleared after observing the bodies for a minute.\nJP :\n暗い表情で死体を調べていたユーリの表情が徐々に明るくなたった。"
+  },
+  {
+    "key": "25-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "25-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "25-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "25-content",
+    "original": "우리… 아니, 로보토미 코퍼레이션 직원들은 아니네요.",
+    "context": "EN :\nThese aren’t our… I mean, Lobotomy Corporation’s employees.\nJP :\n私たち…いえ、ロボトミーコーポレーションの職員ではないですね。"
+  },
+  {
+    "key": "26-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "26-content",
+    "original": "여긴 이제 금광이나 다름없는 곳이 되어버려서, 어중이떠중이들도 모여든다더군요.",
+    "context": "EN :\nI heard these buried facilities are considered pure goldmines now, attracting all sorts looking for riches.\nJP :\nここはもう金鉱とそう変わりない場所になったせいで、\n有象無象が集まってくるようになったらしいですね。"
+  },
+  {
+    "key": "27-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "27-content",
+    "original": "몇몇 해결사나 조직들 사이에선 로보토미 드림이나 엔케팔린 러쉬란 말이 도는 정도니까요.",
+    "context": "EN :\nPhrases like the “Lobotomy Dream” or the “Enkephalin Rush” are apparently starting to catch on among Fixers and Syndicates.\nJP :\nいくつかのフィクサーや組織の間では、ロボトミードリームだとか\nエンケファリンラッシュって言葉が出回ってるくらいですし。"
+  },
+  {
+    "key": "28-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "28-content",
+    "original": "로드, 엔러쉬… 멋있는 줄임이군…",
+    "context": "EN :\nLD, E-Rush… Got a nice ring to it…\nJP :\nロド、エンラッシュ…格好良い略だな…。"
+  },
+  {
+    "key": "29-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "29-content",
+    "original": "하아, 조용히 있다가 기껏 말한다는 게…",
+    "context": "EN :\nSigh, that’s what you have to say after keeping quiet for so long…?\nJP :\nはぁ、ずっと静かだったのにやっと喋ったのがそんな…。"
+  },
+  {
+    "key": "30-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "30-content",
+    "original": "그러한 잉글리쉬는 본래의 뜻을 가물하게 만들지 않겠소?",
+    "context": "EN :\nIs such a frivolous use of English not prone to blurring the original meaning?\nJP :\nさるエングレッシュは本来の意味を曖昧模糊にせずや？"
+  },
+  {
+    "key": "31-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "31-content",
+    "original": "제 말이 그 말…",
+    "context": "EN :\nThat’s what I’m sayi―\nJP :\nそのとお…。"
+  },
+  {
+    "key": "32-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "32-content",
+    "original": "이상 씨, 뭔가 말수가 많아 진 것 같은데요?",
+    "context": "EN :\nHuh, you seem to be talking a lot more than usual, Yi Sang?\nJP :\nイサンさん、何だか口数が増えてませんか？"
+  },
+  {
+    "key": "33-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "33-content",
+    "original": "이상하오?",
+    "context": "EN :\nDoes that reflect strangely?\nJP :\n異常なりや？"
+  },
+  {
+    "key": "34-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "34-content",
+    "original": "그이는 원래 말수가 적지 않은 사람이에요.",
+    "context": "EN :\nHe was never really the quiet sort.\nJP :\nあちらの彼はもともと口数が少なくない人です。"
+  },
+  {
+    "key": "35-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "35-content",
+    "original": "최근에 조금… 바뀌었을 뿐.",
+    "context": "EN :\nHe only had a… shift recently.\nJP :\n最近少し…変わっただけ。"
+  },
+  {
+    "key": "36-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "36-content",
+    "original": "관찰력이 높은 졸개가 많아지는 건 나쁘지 않은 일이지.",
+    "context": "EN :\nIt’s not a bad thing to have more lackeys with keen eyes.\nJP :\n観察力の高い手下どもが増えるのは悪くないことだ。"
+  },
+  {
+    "key": "37-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "37-content",
+    "original": "계속 지금의 상태를 유지해 줬으면 좋겠군. 가지.",
+    "context": "EN :\nI’d like you to keep that up. Let us march.\nJP :\n今の状態をずっと維持してくれると良いんだがな。行くぞ。"
+  },
+  {
+    "key": "38-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "38-content",
+    "original": "마치 그대가 캡틴 같구료. 관리자께서 할 일이라고 보오만.",
+    "context": "EN :\nYou make yourself look like the captain here. I dare say that role belongs to the manager.\nJP :\nまるでそなたがキャプテンのようなり。管理人のいとなみにあらん。"
+  },
+  {
+    "key": "39-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "39-content",
+    "original": "…제가 주제가 넘었습니다. 관리자님.",
+    "context": "EN :\n…Please forgive my insolence, Manager.\nJP :\n…わたくしめが差し出がましいことをしてしまいました。管理人様。"
+  },
+  {
+    "key": "40-content",
+    "original": "오티스는 허를 찔렸다는 듯 딱딱한 표정을 짓다가, 이내 내게 고개를 숙였다.",
+    "context": "EN :\nFrowning as though she were caught off-guard, Outis bows to me as she apologizes.\nJP :\nウーティスは虚を衝かれたような硬い表情を浮かべ、\nすぐに私に向かって頭を下げた。"
+  },
+  {
+    "key": "41-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "41-content",
+    "original": "<아, 아니야. 내려가자.>",
+    "context": "EN :\n<N-No, it’s nothing. Let’s head down.>\nJP :\n<だ、だいじょうぶ。下りようか。>"
+  },
+  {
+    "key": "42-content",
+    "original": "대부분의 시체는 일부가 기이하게 변해 있었다.",
+    "context": "EN :\nMost of the corpses’ body parts were morphed in bizarre ways.\nJP :\n大体の死体は一部が奇妙に変貌していた。"
+  },
+  {
+    "key": "43-content",
+    "original": "창자를 뚫고 나온 여러 쌍의 날개라던가, 괴상하게 꼬여버린 채 축 늘어진 더듬이들도 보였다.",
+    "context": "EN :\nOne had pairs of wings protruding through their intestines, and another had horribly twisted antennae hanging down.\nJP :\nはらわたから突き出てた数対の翅や、\n奇妙に絡まったままぶらりと垂れた触角も見えた。"
+  },
+  {
+    "key": "44-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "44-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "44-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "44-content",
+    "original": "우리가 아까 마주쳤던 자들이랑 비슷해 보이지 않나요?",
+    "context": "EN :\nThese look kinda similar to the thugs we ran into just before, don’t they?\nJP :\nさっき私たちとぶつかった人と似てませんか？"
+  },
+  {
+    "key": "45-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "45-content",
+    "original": "그, 벌레 머리 하고 있던 사람들 말이죠?",
+    "context": "EN :\nYou mean those bug-headed people?\nJP :\nあの、虫頭の人たちのことですよね？"
+  },
+  {
+    "key": "46-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "46-content",
+    "original": "조용, 전방에 거수자 포착.",
+    "context": "EN :\nQuiet, I’m seeing Uniform Tangos ahead.\nJP :\n静かに、前方に挙不者を補足。"
+  },
+  {
+    "key": "47-content",
+    "original": "오티스의 말 대로 복도 너머에는 다수의 그림자가 보였다.",
+    "context": "EN :\nAs Outis noted, multiple figures could be seen down the corridor.\nJP :\nウーティスの言う通り、廊下の向こうには多数の影が見えた。"
+  },
+  {
+    "key": "48-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "48-content",
+    "original": "(거수… 자? 가 뭐야?)",
+    "context": "EN :\n(Uni…form? What’s all that?)\nJP :\n(挙不…者？ってなに？)"
+  },
+  {
+    "key": "49-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "49-content",
+    "original": "(거동 수상자… 적일 지도 모른다고.)",
+    "context": "EN :\n(Unidentified targets… Possibly hostile.)\nJP :\n(挙動不審者…敵かもしれないってことだ。)"
+  },
+  {
+    "key": "50-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "50-content",
+    "original": "…음.",
+    "context": "EN :\n…Mhm.\nJP :\n…うむ。"
+  },
+  {
+    "key": "51-content",
+    "original": "아마 모두의 머릿속에 같은 생각이 들지 않았을까.",
+    "context": "EN :\nI’m sure one idea crossed all of our minds:\nJP :\nきっと全員の頭に同じことが浮かんだのではないだろうか。"
+  },
+  {
+    "key": "52-content",
+    "original": "파우스트가 말했던, 지부에 남아있을지도 모르는 ‘환상체’라는 미지의 존재.",
+    "context": "EN :\nThe enigmatic ‘Abnormalities’ that might be roaming this facility, as Faust mentioned.\nJP :\nファウストが言っていた、\n支部に残っているかもしれない「幻想体」という未知の存在。"
+  },
+  {
+    "key": "53-content",
+    "original": "저 그림자의 주인이 그들일지도 모른다고.",
+    "context": "EN :\nThat might be what those shadowy figures are.\nJP :\nあの影の主がそれかもしれないんだ。"
+  },
+  {
+    "key": "54-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "54-content",
+    "original": "…마주칠 수밖에 없겠군.",
+    "context": "EN :\n…We have no choice but to face them.\nJP :\n…ご対面といくしかないだろうな。"
+  },
+  {
+    "key": "55-teller",
+    "original": "야비한 패잔병",
+    "context": "EN :\nCrooked Veteran\nJP :\n粗野な敗残兵"
+  },
+  {
+    "key": "55-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "55-content",
+    "original": "어이! 거기 누구야?!",
+    "context": "EN :\nHey! Who goes there?!\nJP :\nおい！そこ、誰だ！"
+  },
+  {
+    "key": "56-content",
+    "original": "하지만 그 무리는 사람이었다.",
+    "context": "EN :\nInstead, what we faced was people.\nJP :\nしかしその群れは人間だった。"
+  },
+  {
+    "key": "57-content",
+    "original": "다행이라고 이야기할 수 있을지는, 아직 모르겠지만.",
+    "context": "EN :\nIt was too early to deem that as fortunate, though.\nJP :\n幸いにも、と言えるかはまだ分からないけど。"
+  },
+  {
+    "key": "58-teller",
+    "original": "야비한 패잔병",
+    "context": "EN :\nCrooked Veteran\nJP :\n粗野な敗残兵"
+  },
+  {
+    "key": "58-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "58-content",
+    "original": "뭐야? 이 근방엔 우리들뿐이라며.",
+    "context": "EN :\nHuh? I thought we were the only people ‘round here.\nJP :\n何だ？この近辺には俺たちだけしかいないって話だろ。"
+  },
+  {
+    "key": "59-teller",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "59-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "59-content",
+    "original": "입구 쪽에서 처리를 못 한 건가? 그새 다른 쥐새끼들이 들어왔나 보군.",
+    "context": "EN :\nDid they slip past our team at the entrance? Those scavengers keep coming one after the other.\nJP :\n入口の方で処理できなかったか？\nいつの間に他のネズミどもが入ってきたみたいだな。"
+  },
+  {
+    "key": "60-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "60-content",
+    "original": "어이, 벌레들! 아까 그 시체들은 너네 친구들이냐?",
+    "context": "EN :\nOi, bug buggers! You friends with the bodies back there?\nJP :\nおい、虫たち！さっきのあの死体はお前らの友達か？"
+  },
+  {
+    "key": "61-teller",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "61-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "61-content",
+    "original": "시체?! 너 이 새끼…",
+    "context": "EN :\nBodies?! You bastards didn’t…\nJP :\n死体！？おまえこのクソや…。"
+  },
+  {
+    "key": "62-teller",
+    "original": "야비한 패잔병",
+    "context": "EN :\nCrooked Veteran\nJP :\n粗野な敗残兵"
+  },
+  {
+    "key": "62-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "62-content",
+    "original": "잠깐.",
+    "context": "EN :\nWait.\nJP :\n待て。"
+  },
+  {
+    "key": "63-teller",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "63-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "63-content",
+    "original": "…어디서 온 찌꺼기들인진 모르겠지만, 들어봐.",
+    "context": "EN :\n…I don’t know where you scum’re from, but hear me out a sec.\nJP :\n…どこから来たゴミクズどもかは知らないが、聞け。"
+  },
+  {
+    "key": "64-teller",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "64-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "64-content",
+    "original": "어차피 너희도 엔케팔린을 챙기러 온 거지? 여기서 한 층만 더 내려가면 손쉽게 엔케팔린을 얻을 수 있어.",
+    "context": "EN :\nYou’re here for the Enkephalin, aren’t ya? If you go just one floor down, there’s a treasure trove just waiting to be nabbed.\nJP :\nどうせお前らもエンケファリンを取りに来たんだろ？\nここからもう一階だけ下りていけば容易くエンケファリンが手に入るぞ。"
+  },
+  {
+    "key": "65-teller",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "65-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "65-content",
+    "original": "거기는 너희에게 양보할게. 서로 챙길 것만 챙기고 좋게 좋게 헤어지자…",
+    "context": "EN :\nWhatever’s on that floor is yours. We’ll just take what we can here and be on our…\nJP :\nそこはお前らに譲るよ。互いに取るもん取って良い感じに別れよう…。"
+  },
+  {
+    "key": "66-teller",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "66-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "66-content",
+    "original": "고. 하, 하하.",
+    "context": "EN :\n…way. Ha—Haha.\nJP :\nか。は、はは。"
+  },
+  {
+    "key": "67-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "67-content",
+    "original": "쯧, 알아본 것 같네.",
+    "context": "EN :\nTsk, so you recognized me, huh.\nJP :\nちっ、バレたか。"
+  },
+  {
+    "key": "68-content",
+    "original": "그의 말 대로, 조금이나마 유하게 넘어가려던 자의 표정이…",
+    "context": "EN :\nThe moment the soldier’s eyes landed on Gregor’s face…\nJP :\n彼の言う通り、少しでも穏便に済ませようとしてた人の顔が…。"
+  },
+  {
+    "key": "69-content",
+    "original": "그레고르를 보자마자 일순간 무너져 내렸다.",
+    "context": "EN :\nTheir thin veil of kindness was torn down.\nJP :\nグレゴールを見るや否や一瞬で崩れ落ちた。"
+  },
+  {
+    "key": "70-teller",
+    "original": "야비한 패잔병",
+    "context": "EN :\nCrooked Veteran\nJP :\n粗野な敗残兵"
+  },
+  {
+    "key": "70-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "70-content",
+    "original": "이 배신자 녀석…",
+    "context": "EN :\nTraitorous pissant…\nJP :\nこの裏切り者が…。"
+  },
+  {
+    "key": "71-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "71-content",
+    "original": "아하, 너는 전방에 소속되어 있었나 보네. 어때, 그래도 포스터보단 실물이 낫지?",
+    "context": "EN :\nAhh, you must’ve been dispatched to the front lines too. I look better in real life than on those flyers, right?\nJP :\nあはぁ、お前は前方に所属してたみたいだな。\nどうだ、それでもポスターよりかは実物の方が良いだろぉ？"
+  },
+  {
+    "key": "72-teller",
+    "original": "야비한 패잔병",
+    "context": "EN :\nCrooked Veteran\nJP :\n粗野な敗残兵"
+  },
+  {
+    "key": "72-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "72-content",
+    "original": "헛소리 집어치워! 내가 너 따위에게 경례를 했었다는게 역겨우니까.",
+    "context": "EN :\nCut the cheeky crap! I’m disgusted that I once saluted to your face.\nJP :\n馬鹿なこと言うな！\nお前なんかに敬礼したことがあるってことに反吐が出るよ。"
+  },
+  {
+    "key": "73-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "73-content",
+    "original": "이런, 실물에 대고 한 것도 아닌데 너무 그러지 말지 그래.",
+    "context": "EN :\nWhoa, easy there, it’s not like you had to salute me in person.\nJP :\nありゃぁ、実物に対してやったわけでもないのにそう言ってくれるなよ。"
+  },
+  {
+    "key": "74-teller",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "74-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "74-content",
+    "original": "너는 그 같잖은 특혜로 시술 부작용 없이 평범한 사람 행세하며 살아갔겠지만…",
+    "context": "EN :\nWhile you posed as a normal member of society thanks to your dumbass privilege freeing you from the side effects…\nJP :\nお前はそのくっだらねぇ特別待遇で、\n施術の副作用なく平凡な人のフリをして生きてたんだろうけどな…。"
+  },
+  {
+    "key": "75-teller",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "75-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "75-content",
+    "original": "우리는 아니었어, 이 기만자 새끼야. 우린 전쟁에서 패배하자마자 버려졌다고.",
+    "context": "EN :\nWe never even got a chance, you fraternizer. We were thrown away right after the war was lost.\nJP :\n俺たちはそうじゃなかった、この欺瞞野郎が。俺たちは戦争で敗北してすぐに捨てられたんだよ。"
+  },
+  {
+    "key": "76-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "76-content",
+    "original": "…버려진 건 나도 마찬가지였어. 모든 군인들이 똑같지 않나?",
+    "context": "EN :\n…I was tossed out all the same, you know. Isn’t that how it is for all the soldiers?\nJP :\n…捨てられたのは俺もだよ。軍人なら全員同じじゃないか？"
+  },
+  {
+    "key": "77-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "77-content",
+    "original": "그중에서도 너희들은, 버려진 벌레처럼 살아가길 선택했나 보지?",
+    "context": "EN :\nSo this is the lifestyle you chose? Rifling through the trash like actual bugs?\nJP :\nその中でお前たちは、捨てられた\n虫ケラみたいに生きていくことを選んだみたいだな？"
+  },
+  {
+    "key": "78-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "78-content",
+    "original": "어이! 적을 도발해서 좋을 건 없지 않은가!",
+    "context": "EN :\nHalt! No good can come out of taunting your foe!\nJP :\nおい！敵を挑発して良いことは何も無いだろう！"
+  },
+  {
+    "key": "79-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "79-content",
+    "original": "당신도 군 출신이라면 알잖아.",
+    "context": "EN :\nYou served the military too. Y’know where this is going.\nJP :\nあなたも軍出身なら分かるだろ。"
+  },
+  {
+    "key": "80-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "80-content",
+    "original": "앞에 서 있는 것들과 싸우게 될지, 아닐지 정도는.",
+    "context": "EN :\nWe’re not getting outta this without a fight.\nJP :\n目の前に立っているモノたちと戦うことになるか、そうならないかくらいは。"
+  },
+  {
+    "key": "81-teller",
+    "original": "야비한 패잔병",
+    "context": "EN :\nCrooked Veteran\nJP :\n粗野な敗残兵"
+  },
+  {
+    "key": "81-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "81-content",
+    "original": "…순순히 보내줄 생각이었는데.",
+    "context": "EN :\n…We were planning to let you through, we really were.\nJP :\n…大人しく見逃してやろうと思ったんだけどな。"
+  },
+  {
+    "key": "82-teller",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "82-title",
+    "original": "몰락한 G사",
+    "context": "EN :\nG Corp. Remnant\nJP :\n没落したG社"
+  },
+  {
+    "key": "82-content",
+    "original": "저 배신자 새끼 째로 잘라 죽여주지.",
+    "context": "EN :\nBut now, I’ll mince you and your traitor friend into mutt meat.\nJP :\nあの裏切りクソ野郎もろとも切り刻んで殺してやる。"
+  },
+  {
+    "key": "83-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "83-content",
+    "original": "어이없는 새끼들이네. 우리가 엔케팔린을 가져오면 그대로 뒤통수 갈겼을 것들이.",
+    "context": "EN :\nLike hell you were. You were gonna wait for us to climb back up with the Enkephalin so you could backstab us and swipe it.\nJP :\n呆れたヤツら。オレたちがエンケファリンを持って来たら、\nそのまま後ろから頭をズガンといくつもりだったくせに。"
+  },
+  {
+    "key": "84-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "84-content",
+    "original": "그, 그랬던 거였어요?",
+    "context": "EN :\nW—Wait, were they?\nJP :\nそ、そうだったんですか？"
+  },
+  {
+    "key": "85-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "85-content",
+    "original": "밑바닥에 떨어질 대로 떨어진 놈들한테 의리란 게 남아있을 것 같냐?",
+    "context": "EN :\nThey’ve fallen to rock bottom and below, an’ I swear down they don’t care a whit for honor, eh?\nJP :\n底辺の底辺まで落ちぶれた奴らに義理ってもんが残ってるとでも？"
+  },
+  {
+    "key": "86-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "86-content",
+    "original": "가진 놈들도 뒤통수를 쳐 때리는 판인데. 그런 말랑한 걸 기대하냐, 넌.",
+    "context": "EN :\nWell-off or broke, people turn on each other as long as there’s something. You’re way too naive to think otherwise.\nJP :\nマシな奴らでも割と後ろから殴るってのに。\nそんなちょろいのを期待してんのか、お前。"
+  }
+]

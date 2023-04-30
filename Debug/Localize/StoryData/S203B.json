@@ -1,0 +1,2010 @@
+[
+  {
+    "key": "0-place",
+    "original": "전당포",
+    "context": "EN :\nA Pawnshop\nJP :\n質屋"
+  },
+  {
+    "key": "0-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "0-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "0-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "0-content",
+    "original": "자… 이번 작전은요, 저희가 숟가락으로 떠먹여 줄 테니까 그냥 입을 벌려서 골고루 씹기만 하면 된답니다.",
+    "context": "EN :\nNow… For this mission, we’ll basically spoon-feed you everything. All you have to do is open wide and chew up your simple tasks.\nJP :\nさぁ…今回の作戦はですね、私たちがスプーンで掬ってあーんしてあげますから、ただ口を開けてよくよく噛んでくださればいいのですよ。"
+  },
+  {
+    "key": "1-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "1-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "1-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "1-content",
+    "original": "여기 봉투에 든 문서들 확인하시고, 거기에 적혀 있는 대로, 고~대로만 하면 돼요.",
+    "context": "EN :\nCheck the documents in this envelope, and do exactly, preciiiiisely as the papers say.\nJP :\nこの封筒に入った文章を確認して、そこに書かれている通りに、\nそのま～んまやってくれればいいんです。"
+  },
+  {
+    "key": "2-content",
+    "original": "‘고~대로’라는 부분에서 고~를 쓸데없이 길게 늘어뜨린다고 생각해서 기분이 나빴지만, 아무 말 하지 않기로 했다.",
+    "context": "EN :\nThe way Saude dragged out that vowel needled me a bit, but I decided not to argue.\nJP :\n「そのま～んま」って部分でま～を無駄に長く伸ばしてることにイラッとしたが、何も言わないことにした。"
+  },
+  {
+    "key": "3-content",
+    "original": "말해봐야 째깍거리는 소리 말고는 들리지도 않을 테고.",
+    "context": "EN :\nEven if I did, the ticking of a clock would be all she’d hear.\nJP :\n言ったところでカチカチという音以外何も聞こえないだろうし。"
+  },
+  {
+    "key": "4-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "4-content",
+    "original": "뭐야, 말로는 공조라면서 함께할 생각은 전혀 없고 그냥 뒤꽁무니나 쫓아오라는 소리군.",
+    "context": "EN :\nThere’s not a lot of joining together at all in this “joint operation”, is there? You’re just telling us to follow from behind.\nJP :\nなんだよ、口じゃ共同とか言いながら一緒にやることは\n全く考えてなくて、ただケツでも追っかけてこいってことか。"
+  },
+  {
+    "key": "5-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "5-content",
+    "original": "자존심 상하네. 이것들이 누구를 모지리로 알아?",
+    "context": "EN :\nThis is insulting. Are they taking us for lubbers or what?\nJP :\nプライド傷付くわぁ。私たちのことマヌケだとでも？"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "관리자님, 이거 그대로 두고 봐…",
+    "context": "EN :\nLook, Manager, we’ve got to put our foot down and…\nJP :\n管理人さん。こいつらに、ちょっと目に物を見せ…。"
+  },
+  {
+    "key": "7-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "7-content",
+    "original": "두고 봐…",
+    "context": "EN :\nAnd…\nJP :\n見せ…。"
+  },
+  {
+    "key": "8-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "8-content",
+    "original": "…도 되겠네?",
+    "context": "EN :\n…do as they say, I guess?\nJP :\n…なくてもよさそうね？"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<뭐?>",
+    "context": "EN :\n<Huh?>\nJP :\n<えっ？>"
+  },
+  {
+    "key": "10-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-content",
+    "original": "…얘네들이 준 문서요. 완벽해요.",
+    "context": "EN :\n…The documents they gave us. They’re flawless.\nJP :\n…こいつらのくれた文章なんですけどね、完璧です。"
+  },
+  {
+    "key": "11-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "11-content",
+    "original": "이것 봐요. 동선까지 전부 들어 있어요. 이렇게 깔끔하고 체계적으로 쓰여 있는 문서는 정말 오랜만에 보는데요.",
+    "context": "EN :\nLook at this. It has routes drawn out and everything. It’s been ages since I saw a plan this clear and meticulous.\nJP :\nこれ見てください。導線まで全部書いてあります。\nこんな綺麗で体系的に書かれている文書はひっさしぶりに見ましたね。"
+  },
+  {
+    "key": "12-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "12-content",
+    "original": "음, 확실히. 제대로 된 작전계획을 써봤던 티가 나는군.",
+    "context": "EN :\nMhm, surely. This is certainly indicative of their knowledge in writing up proper plans of operation.\nJP :\nうむ、確かに。まともな作戦計画を書いてきたのが分かるな。"
+  },
+  {
+    "key": "13-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "13-content",
+    "original": "아, 물론 관리자님의 계획성에 비하면 발끝에도 못 미치지만.",
+    "context": "EN :\nAh, this isn’t to say that it holds a candle to the level of forethought you display, Manager.\nJP :\nあぁ、もちろん管理人様の計画性に比べると爪の先ほどもないけど。"
+  },
+  {
+    "key": "14-content",
+    "original": "이스마엘의 말에 마음이 동해, 그들이 내민 봉투를 뜯어 작전이 명시된 문서를 찬찬히 읽었다.",
+    "context": "EN :\nConvinced by Ishmael’s commendation, I opened the envelope and carefully read the rundown of the operation.\nJP :\nイシュメールの言葉に心が動き、彼らが差し出した封筒を開封して\n作戦の書かれた文書をゆっくりと読んだ。"
+  },
+  {
+    "key": "15-content",
+    "original": "요약을 하자면 이번 작전은 다음과 같았다.",
+    "context": "EN :\nThe goal could be summarized as the following:\nJP :\n要約すると、今回の作戦は以下の通りだ。"
+  },
+  {
+    "key": "16-content",
+    "original": "‘카지노의 꼭대기 층 도달 작전’",
+    "context": "EN :\n‘Reach the top floor of the casino.’\nJP :\n「カジノの最上階到達作戦」"
+  },
+  {
+    "key": "17-content",
+    "original": "작전의 계기가 되었던 것은 오늘 이루어진다는 갬블 대회의 우승 상품.",
+    "context": "EN :\nThe main reason behind organizing this plan was the first-place prize for the table game to be held today.\nJP :\n作戦のきっかけとなったのは、今日行われるギャンブル大会の優勝賞品。"
+  },
+  {
+    "key": "18-content",
+    "original": "카지노의 꼭대기 층에서 이루어진다는 대회의 승자가 되어야만, 황금가지가 있는 곳까지의 길이 열린다는 듯하다.",
+    "context": "EN :\nAccording to the papers, winning the competition held on the top floor of the casino is the only way to gain access to the area with the Golden Bough.\nJP :\nカジノの最上階で行われる大会の勝者になってようやく、\n黄金の枝がある場所までの道が開かれるようだ。"
+  },
+  {
+    "key": "19-content",
+    "original": "이 갬블에 참여하는 이들은 카지노를 공동입찰 했던 네 개의 조직인데…",
+    "context": "EN :\nFour Syndicates that jointly bid on the casino will be playing in this game of chance…\nJP :\nこのギャンブルに参加するものたちはカジノ共同入札した四つの組織だが…。"
+  },
+  {
+    "key": "20-content",
+    "original": "우린 그 중… 악명 높은 조직 중 하나인 콩…",
+    "context": "EN :\nOf the four… We will be using the name of the infamous…\nJP :\n私たちはその中で…悪名高い組織のひとつである、ぽ…。"
+  },
+  {
+    "key": "21-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<콩콩이파?>",
+    "context": "EN :\n<Tingtang Gang?>\nJP :\n<ぽんぽん派？>"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "이름이 조직의 성격까지 대변해주진 않아요. 얕은 편견일 뿐이죠.",
+    "context": "EN :\nA name doesn’t necessarily reflect the nature of an organization. That’s a shallow prejudice.\nJP :\n名前が組織の性質までを代弁してくれるわけではありません。\n薄っぺらい偏見に過ぎません。"
+  },
+  {
+    "key": "23-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "23-content",
+    "original": "편견이라는 색깔 안경을 구태여 끼우는 것은 이상적이지 아니하오.",
+    "context": "EN :\nIt is unideal for one to choose to see things through the tinted lens that is bias.\nJP :\n偏見という色眼鏡をあえて付けるは、理想的にあらざりけり。"
+  },
+  {
+    "key": "24-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "24-content",
+    "original": "<…그래.>",
+    "context": "EN :\n<…Right.>\nJP :\n<…そっか。>"
+  },
+  {
+    "key": "25-content",
+    "original": "…아무튼, ‘콩콩이파’의 두목의 신분으로 위장하여 도박게임에서 승자가 된 후.",
+    "context": "EN :\n…Back to the plan, we’ll disguise as the boss of the ‘Tingtang Gang’ and win that game of chance.\nJP :\n…とにかく、「ぽんぽん派」のボスに身分を偽装して、\nギャンブルゲームで勝者となり。"
+  },
+  {
+    "key": "26-content",
+    "original": "우리는 황금가지가 있는 지하로 내려가야만 한다.",
+    "context": "EN :\nAfterwards, we have to go to the underground floors where the Golden Bough lies.\nJP :\n私たちは黄金の枝がある地下へと下りていかなければならない。"
+  },
+  {
+    "key": "27-content",
+    "original": "그전까지는 전당포에 있는 물건들을 사용해 위장을 해 카지노에 잠입, 각각 부여받은 신분에 따라 VIP 이용객이나 딜러로 변장하여, 꼭대기 층의 성공 소식을 기다린다.",
+    "context": "EN :\nLeading up to the game, we’ll use the items and clothing we can find in pawnshops to disguise as our given roles, enter the casino, and wait for the team on the top floor to win the game.\nJP :\nそれまでは質屋にある物品を使用して偽装状態でカジノに侵入、各々与えられた\n身分に従ってVIP利用客やディーラーに変装し、最上階の成功連絡を待つ。\n"
+  },
+  {
+    "key": "28-content",
+    "original": "계획의 얼개는 이 정도로 요약할 수 있을 것 같은데…",
+    "context": "EN :\nThat’s about it for the outline of this plan, I think…\nJP :\n計画の骨組みはこんな風に要約できるけど…。"
+  },
+  {
+    "key": "29-content",
+    "original": "아니, 잠깐. 이거 꼭대기 층에서 지면 전부 물거품이 되는 계획 아닌가?",
+    "context": "EN :\nHey, wait a second. Won’t this entire thing fall apart if our player doesn’t win?\nJP :\nちょっと待て。これ最上階で負けたら計画が全部水の泡になるんじゃないのか？"
+  },
+  {
+    "key": "30-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "30-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "30-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "30-content",
+    "original": "혹시나 할 때를 대비해서 위조 신분증까지 준비해 놨답니다. 카지노에서 불시에 신분 검사를 할 수도 있으니까.",
+    "context": "EN :\nWe’ve prepared fake identification as well. It’s just in case the casino security runs random inspections on visitors.\nJP :\nもしものために備えて偽造身分証まで準備しました。\nカジノでは不意に身分検査が行われることもありますし。"
+  },
+  {
+    "key": "31-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "31-content",
+    "original": "좋아, 다 좋은데… 꼭대기 층의 갬블에서는 어떻게 이길 작정이야?",
+    "context": "EN :\nAlright, that’s all fine and dandy… But how do you plan to win once you’re at the top floor?\nJP :\nよし、大体良いけど…最上階のギャンブルにはどうやって勝つつもりだ？"
+  },
+  {
+    "key": "32-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "32-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "32-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "32-content",
+    "original": "우리 복장을 보면 감이 잡히지 않아?",
+    "context": "EN :\nWhat do you think our outfits are for?\nJP :\n俺たちの服装見たらなんとなく分かんないか？"
+  },
+  {
+    "key": "33-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "33-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "33-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "33-content",
+    "original": "카지노 딜러로 자연스럽게 섞이기 위해 몇 개월을 연습했지. ",
+    "context": "EN :\nWe practiced for months to pass off as bona fide croupiers.\nJP :\nカジノディーラーとして自然に振る舞えるように何ヶ月も練習したんだ。"
+  },
+  {
+    "key": "34-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "34-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "34-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "34-content",
+    "original": "알아서 좋은 패를 넘겨줄 거야. 눈만 멀쩡히 달려있으면 이기는 건 걱정할 필요도 없지.",
+    "context": "EN :\nWe’ll give you good luck. The game is in your bag, all you need is a pair of functioning eyes.\nJP :\n適当に良い札を渡すから。目さえちゃんと付いてるなら\n負ける心配をする必要もないだろ。"
+  },
+  {
+    "key": "35-content",
+    "original": "에피라는 자는 눈만 멀쩡히 달려있으면… 이라고 다시 중얼거리며, 이쪽을 묘하게 흘긋댔다.",
+    "context": "EN :\nEffie mumbled the last part to himself again while casting a sidelong scowl at our group.\nJP :\nエピって人は目さえちゃんと付いてれば…と再び呟き、\nこっちを変にチラ見してきた。"
+  },
+  {
+    "key": "36-content",
+    "original": "어지간히 신뢰받지 못한다는 느낌을 풍기는군.",
+    "context": "EN :\nHe’s making it painfully obvious he has no faith in us.\nJP :\n信用してないって空気をかなり漂わせてるな。"
+  },
+  {
+    "key": "37-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "37-content",
+    "original": "콩콩이파 두목으로는 어떻게 위장할 건데?",
+    "context": "EN :\nAnd how are we gonna take the place of the Tingtang Gang’s boss?\nJP :\nぽんぽん派のボスには、どうやってなりすますんだ？"
+  },
+  {
+    "key": "38-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "38-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "38-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "38-content",
+    "original": "카지노에서 제공되는 식사에 수면제를 섞을 거예요. 주방장이랑도 이미 얘기가 끝났답니다.",
+    "context": "EN :\nWe’ll put sedatives in the food served at the casino. We’ve already finished negotiating the details with the head chef.\nJP :\nカジノで提供される食事に睡眠剤を混ぜます。\nコック長とも既に話が付いています。"
+  },
+  {
+    "key": "39-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "39-content",
+    "original": "수면제…",
+    "context": "EN :\nSedatives…\nJP :\n睡眠薬…。"
+  },
+  {
+    "key": "40-content",
+    "original": "소드와 에피가 서로 눈을 마주치며 찡긋거린다.",
+    "context": "EN :\nSaude and Effie winked at each other.\nJP :\nソードとエピがお互い目を合わせるとウィンクした。"
+  },
+  {
+    "key": "41-content",
+    "original": "눈만 마주쳐도 서로의 마음이 통한다는 최적의 콤비라는 걸 명백히 알 수 있는 몸짓이었다.",
+    "context": "EN :\nIt was a gesture demonstrating that the two were ideal partners, able to tell each other’s thoughts just from exchanging glances.\nJP :\n目が合うだけでもお互いの心が通じるという最適のコンビだってことが\nありありと分かる動作だった。"
+  },
+  {
+    "key": "42-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "42-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "42-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "42-content",
+    "original": "사장님~ 진열대 여기서부터 저기까지 물건들 좀 보고 있을게요~",
+    "context": "EN :\nHey, Dear Pawnbroker~ We’ll be taking a look at the goods on showcase from here to there~\nJP :\nしゃちょうさ～ん、陳列台のここからあそこまでの品物、\nちょっと見物しますね～。"
+  },
+  {
+    "key": "43-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "43-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "43-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "43-content",
+    "original": "네? 아! 아이고, 예. 그러믄요. 찬찬히 둘러보세요.",
+    "context": "EN :\nHyes? Oh! No yeah, sure, of course. Please take your time, ma’am.\nJP :\nはえぃ？あぁ！あんれまぁ、はい。もちろんです。ゆっくりご覧くだせぇ。"
+  },
+  {
+    "key": "44-content",
+    "original": "방금 전과는 전혀 다르게, 전당포 주인은 허리가 땅바닥을 파고들기 직전까지 굽신거리고 있었다.",
+    "context": "EN :\nThe pawnbroker’s attitude took a sharp turn from disdainful to kowtowing.\nJP :\n先程とは打って変わって、\n質屋の主人は腰が地面に食い込みそうなくらいペコペコしていた。"
+  },
+  {
+    "key": "45-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "45-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "45-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "45-content",
+    "original": "그럼 다들 진열장에서 알맞은 물건을 가져가죠.",
+    "context": "EN :\nNow then, let’s take what we need from the display.\nJP :\nじゃあ皆さん、ここから適切な物品を持って行ってください。"
+  },
+  {
+    "key": "46-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "46-content",
+    "original": "와! 이거, 구프샤 디자이너가 제작했던 브로치죠?",
+    "context": "EN :\nOh my! This is a Guppcha Designer Brooch, isn’t it?\nJP :\nわぁ！これ、グプシャのデザイナーが作ったブローチですよね？"
+  },
+  {
+    "key": "47-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "47-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "47-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "47-content",
+    "original": "햐~ 이걸 알아보시는 분이 계실 줄이야. 저희 전당포의 대들보 입죠. 10개밖에 제작이 안 되어서 아마 부르는 게 값…",
+    "context": "EN :\nHyah~ What discerning eyes you have there, sir. This beaut is the mainstay of our shop’s catalogue. Only 10 of those were ever made, so its worth is positively un­—\nJP :\nひゃあ～これが分かる方がいらっしゃるとはのぉ。我が質屋の大黒柱なんですぇ。\n十個しか作られてのぉて、きっと言い値で…。"
+  },
+  {
+    "key": "48-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "48-content",
+    "original": "저희 집 강아지가 산책할 때마다 끼고 다니는 목줄 장식이었어요. 다시 보니까 너무 반갑네요!",
+    "context": "EN :\nMy dog used to have one of these on its collar whenever we took it out for walkies. It’s so nice to see something that brings back pleasant memories!\nJP :\n僕の家の犬が散歩するときに付けてたリードの飾りだったんですよ。また見られるだなんて、凄く嬉しくなりますね！"
+  },
+  {
+    "key": "49-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "49-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "49-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "49-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "50-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "50-content",
+    "original": "나는 이 소가죽으로 만든 장갑이 탐나는데. 이걸 샀던 녀석은 아마 패션센스가 남달랐을 것 같아~",
+    "context": "EN :\nI’m down for these cowhide gloves. Whoever had ‘em must’ve been a fashionista~\nJP :\n私はこの牛革製の手袋が欲しいな。これを買ったやつは\nきっとファッションセンスが人並みじゃなかっただろうなぁ～。"
+  },
+  {
+    "key": "51-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "51-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "51-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "51-content",
+    "original": "봉투에 적혀 있는 대로 가져가세요. 각자 맡은 역할이 있답니다.",
+    "context": "EN :\nPlease take items that suit what’s written in the envelopes. You have roles to play.\nJP :\n封筒に書かれている通りに持って行ってください。\nそれぞれの役割がありますので。"
+  },
+  {
+    "key": "52-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "52-content",
+    "original": "이보시오, 내 봉투에는 청소부라고 써져 있는데 뭔가 착오가 있는 것 같소만!",
+    "context": "EN :\nPardon, but the envelope I have received says “janitor”, this must be an error of some sort!\nJP :\nやや、私の封筒には掃除屋と書かれているが、\n何か勘違いがあるのではあるまいか！"
+  },
+  {
+    "key": "53-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "53-content",
+    "original": "좋아, 다 좋은데… 돈은 어떻게 지불할 작정이야?",
+    "context": "EN :\nOkay, it’s good and all, but… Do you have the money to pay for all this?\nJP :\nよし、大体良いけど…どう支払うつもりだ？"
+  },
+  {
+    "key": "54-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "54-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "54-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "54-content",
+    "original": "격 떨어지게 예산 걱정을 왜 하는 거야? 이 ‘블랙카드’로는 못 긁는 게 없어.",
+    "context": "EN :\nWorrying about spendings? Who do you think we are, some low-rank hirelings? There’s nothing I can’t afford using this ‘Black Card’.\nJP :\nはしたないなぁ、なんで予算の心配をするんだよ？\nこの「ブラックカード」で落とせないものはないんだ。"
+  },
+  {
+    "key": "55-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "55-content",
+    "original": "단테! 어떻게 된 거야? 투쁠 고기는 예산 딸려서 못 먹는다며!",
+    "context": "EN :\nDante! What’s this about?! You told me we can’t have prime beef ‘cause we don’t have the budget!\nJP :\nダンテ！どういうこと？A5の肉は足が出るから食べられないって言ったでしょ！"
+  },
+  {
+    "key": "56-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "56-content",
+    "original": "수준 이상의 성과를 보이는 부서에겐 회사에서 한도 없는 카드를 준다는 소문이 사실이었군요.",
+    "context": "EN :\nSo the rumors were true that teams with notable performance are given a company card with no spending limit.\nJP :\n基準以上の成果を上げる部署には会社から限度額のないカードをくれるって噂は\n事実のようですね。"
+  },
+  {
+    "key": "57-content",
+    "original": "모두가 블랙 카드의 존재로 격분을 금치 못하고 있는 동안…",
+    "context": "EN :\nWhile everyone was shocked by the proven existence of the fabled Black Card…\nJP :\n皆がブラックカードの存在に憤りを禁じ得ずにいる間…。"
+  },
+  {
+    "key": "58-content",
+    "original": "밖에서부터 우렁찬 소리가 들려왔다.",
+    "context": "EN :\nA loud voice came from outside.\nJP :\n外から雄叫びが聞こえてきた。"
+  },
+  {
+    "key": "59-model",
+    "original": "촌스러운말투의콩콩파조직원",
+    "translation": "言辞土气的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong3"
+  },
+  {
+    "key": "59-teller",
+    "original": "촌스러운 말투의 콩콩이파 조직원",
+    "context": "EN :\nRustic-sounding Tingtanger\nJP :\n田舎訛りのぽんぽん派の組織員"
+  },
+  {
+    "key": "59-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "59-content",
+    "original": "어이 할배! 오늘까지 자릿세 내야 한다는 거, 나만 아는 사실이었어?",
+    "context": "EN :\nOi, dotard! Didn’t I say ya payment was due today?\nJP :\nおいじじい！今日までみかじめ料ださにゃぁならんの、知ってっか？"
+  },
+  {
+    "key": "60-content",
+    "original": "한눈에 봐도 포악한 조직에 몸을 담고 있을 것 같은 자가 전당포 안으로 들어왔다.",
+    "context": "EN :\nSomeone who clearly belongs to a vicious Syndicate entered the pawnshop.\nJP :\n一目見ただけでも粗暴な組織に身を置いているように見える人が\n質屋の中に入ってきた。"
+  },
+  {
+    "key": "61-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "61-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "61-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "61-content",
+    "original": "하… 한 번만 봐주십시오. 다음에는 꼭 납부하겠습니다.",
+    "context": "EN :\nP-Please… give me one more chance. I swear I’ll have the money ready.\nJP :\nい…いちどだけ見逃してくだせぇ。次は必ず納めますから。"
+  },
+  {
+    "key": "62-model",
+    "original": "촌스러운말투의콩콩파조직원",
+    "translation": "言辞土气的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong3"
+  },
+  {
+    "key": "62-teller",
+    "original": "촌스러운 말투의 콩콩이파 조직원",
+    "context": "EN :\nRustic-sounding Tingtanger\nJP :\n田舎訛りのぽんぽん派の組織員"
+  },
+  {
+    "key": "62-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "62-content",
+    "original": "한 번? 할배, 덧셈도 못 해? 지난번에도 똑같이 말했잖아! 내가 노친네 숫자 공부 봐주느라 형님한테 깨져야겠어?",
+    "context": "EN :\nOne more? Can’t ya do basic math? Ya said the same thing last time! Boss won’t like me wasting precious time reteaching you kindergarten, ya hear?\nJP :\n一度？じじい、足し算もできんのか？この前もおんなじこと言っとったろ！\nおらがジジババの算数べんきょ見てやってアニキにボコられろってか？"
+  },
+  {
+    "key": "63-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "63-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "63-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "63-content",
+    "original": "저, 저같이 힘없고 몸도 성치 않은 노인네한테 뽑아 먹을 게 뭣이 있다고…!",
+    "context": "EN :\nI-I’m just a frail old man standing on doddery feet, there’s really nothing you’ll get out of shaking me down…!\nJP :\nわ、わしみたいに力ものぉて、\n身体もぼろぼろの老人からなにを搾り取れると思っとるのさ…！"
+  },
+  {
+    "key": "64-content",
+    "original": "전당포 주인이 과하게 커다란 목소리와 함께 이쪽을 쳐다보았다.",
+    "context": "EN :\nPleading with an overtly loud voice, the pawnbroker looked at us.\nJP :\n質屋の主人がやけに大きい声を出しながらこっちを見つめた。"
+  },
+  {
+    "key": "65-model",
+    "original": "촌스러운말투의콩콩파조직원",
+    "translation": "言辞土气的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong3"
+  },
+  {
+    "key": "65-teller",
+    "original": "촌스러운 말투의 콩콩이파 조직원",
+    "context": "EN :\nRustic-sounding Tingtanger\nJP :\n田舎訛りのぽんぽん派の組織員"
+  },
+  {
+    "key": "65-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "65-content",
+    "original": "에? 이제는 큰소리를 치네? 어~ 화내봐, 화내! 그래야 나도 죄책감이란 게 줄어들 것 같으니까!",
+    "context": "EN :\nEh? Ya talking back now? Yeah, go on then, get mad! I won’t feel so guilty that way!\nJP :\nあぇ？今度は大声だしちょるのぉ？や～い、怒れや怒れ！\nそいたらおらも罪悪感ちゅうもんが減りそうやかんな！"
+  },
+  {
+    "key": "66-content",
+    "original": "도와주지 않고 뭐하냐는 듯한 표정이었던 것도 같다.",
+    "context": "EN :\nIn a way, he looked like he was covertly begging us to help him, based on his expression.\nJP :\n助けもせずに何してるんだという顔だったような感じもする。"
+  },
+  {
+    "key": "67-content",
+    "original": "수감자들도 자연스럽게 소란이 난 쪽을 쳐다보고 있다.",
+    "context": "EN :\nThe Sinners’ attention was naturally drawn to the ongoing row.\nJP :\n囚人たちも自然と騒ぎが起こっている方を見つめている。"
+  },
+  {
+    "key": "68-model",
+    "original": "촌스러운말투의콩콩파조직원",
+    "translation": "言辞土气的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong3"
+  },
+  {
+    "key": "68-teller",
+    "original": "촌스러운 말투의 콩콩이파 조직원",
+    "context": "EN :\nRustic-sounding Tingtanger\nJP :\n田舎訛りのぽんぽん派の組織員"
+  },
+  {
+    "key": "68-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "68-content",
+    "original": "거기 뭘 봐? 구경났냐?!",
+    "context": "EN :\nWhat’re ya lookin’ at? Ya think I’m playing?!\nJP :\n何見とる？見せモンか！？"
+  },
+  {
+    "key": "69-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "69-content",
+    "original": "와… 진짜 전형적인 대사라서 대꾸하고 싶지도 않았어요. 좀 더 창의적인 시비를 걸 순 없는 걸까요?",
+    "context": "EN :\nGee… That was so stereotypical, I didn’t even get an urge to reply. Can’t people be more creative about throwing taunts?\nJP :\nわぁ…典型的すぎる台詞で返事する気も失せましたね。\nもうちょっとクリエイティブな因縁の付け方はできないんですか？"
+  },
+  {
+    "key": "70-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "70-content",
+    "original": "저희가 도와줘야 하는 거… 아닐까요?",
+    "context": "EN :\nShouldn’t we… help out, maybe?\nJP :\n僕たちが助け…た方がいいんじゃないですか？"
+  },
+  {
+    "key": "71-content",
+    "original": "코웃음을 치는 이스마엘과는 달리 싱클레어는 불안한 듯 그쪽을 연신 흘긋거렸다.",
+    "context": "EN :\nUnlike Ishmael, who scoffed at the goon, Sinclair anxiously glanced over.\nJP :\n鼻で笑ったイシュメールとは違い、シンクレアは不安そうな顔でしきりにそちらをチラチラ見ている。"
+  },
+  {
+    "key": "72-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "72-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "72-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "72-content",
+    "original": "어쩔 수 없답니다. 뒷골목은 뒷골목 나름대로의 규율이 존재하고, 그것들이 얼기설기 엮여서 돌아가는 구조니까요.",
+    "context": "EN :\nWe have no choice, the Backstreets have their own rules and order. We aren’t the ones to disturb that complex web of their society.\nJP :\nどうしようもありません。裏路地は裏路地なりの規律が存在し、\nそれらがぐちゃぐちゃに絡まりつつ回っていく構造ですからね。"
+  },
+  {
+    "key": "73-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "73-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "73-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "73-content",
+    "original": "우리 같은 외지인들이 어설프게 개입을 하면 눈에만 띌 뿐이에요.",
+    "context": "EN :\nOutsiders like us will only cause a bigger scene if we try to step in.\nJP :\n私たちみたいな外地人たちが中途半端に介入しても、目を付けられるだけです。"
+  },
+  {
+    "key": "74-content",
+    "original": "수감자들이 외면을 택한 것에 만족한 불한당은 제 본업을 마저 이어 나갔다.",
+    "context": "EN :\nPleased by the Sinners choosing to stay away, the goon continued with the extortion.\nJP :\n囚人たちが無視を決め込んだことに満足したゴロツキは、自分の業務を再開した。"
+  },
+  {
+    "key": "75-model",
+    "original": "촌스러운말투의콩콩파조직원",
+    "translation": "言辞土气的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong3"
+  },
+  {
+    "key": "75-teller",
+    "original": "촌스러운 말투의 콩콩이파 조직원",
+    "context": "EN :\nRustic-sounding Tingtanger\nJP :\n田舎訛りのぽんぽん派の組織員"
+  },
+  {
+    "key": "75-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "75-content",
+    "original": "흥, 돈이 없으면 그거를 내놓으면 되잖아? 몇 번이나 말했는데.",
+    "context": "EN :\nHmph, if y’ain’t got money, why don’t ya pay your dues in that instead? We keep telling you.\nJP :\nふん、カネがねぇならそいつを渡せばいいだろぅ？\n何度も言っちょるのに。"
+  },
+  {
+    "key": "76-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "76-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "76-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "76-content",
+    "original": "그, 그것만은 안 됩니다… 제발…",
+    "context": "EN :\nA-Anything but that… Please…\nJP :\nそ、それだけはいけませぬ…後生ですから…。"
+  },
+  {
+    "key": "77-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "77-content",
+    "original": "<…정말 저대로 내버려 두어도 괜찮은 걸까?>",
+    "context": "EN :\n<…Is it really okay to leave them be?>\nJP :\n<…本当にあのまま放っておいて良いんだろうか？>"
+  },
+  {
+    "key": "78-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "78-content",
+    "original": "영 보기 그러시면 제가 나설까요, 관리자님?",
+    "context": "EN :\nShall I settle the dispute for them so it does not bother you, Manager?\nJP :\n見苦しいならわたくしが行きましょうか、管理人様？"
+  },
+  {
+    "key": "79-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "79-content",
+    "original": "그런데, ‘그거’라는 게 뭐지?",
+    "context": "EN :\nWhat does that toughster mean by “that”, anyway?\nJP :\nところで、「あれ」ってなんだろう？"
+  },
+  {
+    "key": "80-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "80-content",
+    "original": "…이곳엔 돈보다 더 가치 있는 재화가 존재해요.",
+    "context": "EN :\n…A currency more valuable than money exists in this District.\nJP :\n…ここにはお金以上に価値のある通貨が存在します。"
+  },
+  {
+    "key": "81-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "81-content",
+    "original": "J사의 특이점은 무엇이든 잠글 수 있는 강력한 보안 기술이죠.",
+    "context": "EN :\nIt’s well known that J Corp’s Singularity is a powerful security technology capable of locking anything.\nJP :\nJ社の特異点は何でも閉じられる強力な保安技術です。"
+  },
+  {
+    "key": "82-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "82-content",
+    "original": "하지만 그런 보안 기술이 생겨난 데에는 J사 뒷골목의 오래된 문화와 역사를 바탕으로 하고 있어요.",
+    "context": "EN :\nWhat is less known, however, is the extensive cultural and historical background of the Backstreets of Nest J that lead to the Singularity’s creation.\nJP :\nでもそんな保安技術が生まれた背景には、\nJ社の裏路地の長い歴史と文化的要因にあります。"
+  },
+  {
+    "key": "83-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "83-content",
+    "original": "여, 역사…? 너 지금, 그걸 여기서 설명하겠다는 말이냐…? 난 입사 조건에 공부까지 있는 줄 몰랐다고!",
+    "context": "EN :\nH, history…? Are you seriously about to lecture us here and now…? I was never told about any mandatory education when I joined this company!\nJP :\nれ、歴史…？お前今、それをここで説明すんのか…？\n入社条件に勉強があるなんて知らなかったってのに！"
+  },
+  {
+    "key": "84-content",
+    "original": "강한 반발에도 파우스트는 개의치 않고 말을 이었다.",
+    "context": "EN :\nIn spite of the opposition, Faust went on with her explanation.\nJP :\n強い反発も意に介さず、ファウストは話を続けた。"
+  },
+  {
+    "key": "85-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "85-content",
+    "original": "이곳에선 사람들의 ‘소망력’을 추출해낼 수 있는 기술이 사용되고 있어요.",
+    "context": "EN :\nHere, a technology exists to extract ‘wishpower’ from people.\nJP :\nここでは人々の「願望力」を抽出することのできる技術が使用されています。"
+  },
+  {
+    "key": "86-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "86-content",
+    "original": "특이점으로 승인되기에는 보편성이 다소 떨어져서 대중적으로 알려지진 않았지만.",
+    "context": "EN :\nThough it’s not widely known outside this District since it didn’t quite have the generality to be recognized as a Singularity.\nJP :\n特異点として承認されるには普遍性が少し落ちるので、\n大衆的に知られているわけではないですが。"
+  },
+  {
+    "key": "87-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "87-content",
+    "original": "일종의 ‘운’을 사고파는 거예요. 화폐처럼.",
+    "context": "EN :\nIn essence, it’s processing ‘luck’ into a commodity that can be traded. Like a form of money.\nJP :\n一種の「運」を売買するのです。貨幣のように。"
+  },
+  {
+    "key": "88-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "88-content",
+    "original": "이 소망력을 무력으로 추출 당하지 않기 위해 어느덧 이를 방어하는 보안 기술까지 생겨나고 만 거죠. 그게 지금의 특이점으로 이어진 거고요.",
+    "context": "EN :\nIt brought forth the need for a way to stop others from forcibly extracting this wishpower, leading to the creation of a security technology that ultimately developed into the Singularity we know today.\nJP :\nこの願望力を為す術もなく奪われないようにするため、いつしかこれを\n防御する保安技術が生まれてしまったんです。それが今の特異点へと繋がりました。"
+  },
+  {
+    "key": "89-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "89-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "89-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "89-content",
+    "original": "이야~ 파우스트, 이놈들한테 눈높이 교육 시키느라 고생이 많겠다.",
+    "context": "EN :\nGee-wee, Faust~ Must be tiring having to teach these dunces in ways they can get it.\nJP :\nいやぁ～ファウスト、こいつらの目線に合わせた教育を\n施すのは骨が折れそうだねぇ。"
+  },
+  {
+    "key": "90-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "90-content",
+    "original": "염두에 두고 있었던 일이라 괜찮아요.",
+    "context": "EN :\nIt’s fine, this was within my anticipated scenario.\nJP :\n念頭に置いていたので大丈夫です。"
+  },
+  {
+    "key": "91-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "91-content",
+    "original": "그 말투, 무진장 거슬리는데…",
+    "context": "EN :\nI don’t like the way you say that…\nJP :\nその言い方、すっげぇ気に障るんだけど…。"
+  },
+  {
+    "key": "92-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "92-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "92-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "92-content",
+    "original": "자자, 그럼 우린 진열대에 있는 적당한 물건들을 각자 집은 다음에 여길 벗어나자고요.",
+    "context": "EN :\nCome on now, gather the items to help with your disguises so we can leave.\nJP :\nまあまあ、それじゃあ私たちは陳列台にある適切な物品を\n各自ピックアップして、ここから離脱しましょうか。"
+  },
+  {
+    "key": "93-content",
+    "original": "소드라는 자가 계획이 빽빽하게 적힌 종이를 펄럭거리며 바쁘다는 점을 강조했다.",
+    "context": "EN :\nSaude flapped the document full of scheduled plans to emphasize that we’d be busy.\nJP :\nソードという人が計画のびっしり書かれた紙を\nペラペラさせながら、忙しいとう点を強調した。"
+  },
+  {
+    "key": "94-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "94-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "94-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "94-content",
+    "original": "우린 일개 회사원이지, 정의를 위해 나서는 ‘히어로’가 아니잖아요.",
+    "context": "EN :\nWe’re salaried workers, not “heroes” fighting for justice.\nJP :\n私たちは一介の会社員であって、\n正義のために前へ出る「ヒーロー」ではないじゃないですか。"
+  },
+  {
+    "key": "95-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "95-content",
+    "original": "<잠깐만… 그 단어는…!>",
+    "context": "EN :\n<Wait… Not that word…!>\nJP :\n<待って…その単語は…！>"
+  },
+  {
+    "key": "96-content",
+    "original": "머리를 스치고 간 불길한 예감에 수감자들의 인원을 서둘러 체크해보았다.",
+    "context": "EN :\nA bad feeling rushing through my head prompted me to count the Sinners I could see.\nJP :\n頭をよぎった不吉な予感に、囚人の人数を急いでチェックしてみた。"
+  },
+  {
+    "key": "97-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "97-content",
+    "original": "<누군가의 가치관과는… 크게… 동떨어지는… 발언인데…>",
+    "context": "EN :\n<That… does not align with a certain someone’s… beliefs…>\nJP :\n<誰かさんの価値観とは…大きく…かけ離れた…発言なんだけど…。>"
+  },
+  {
+    "key": "98-content",
+    "original": "누군가의 가치관을… 크게 자극하는 발언이기도 하고…!",
+    "context": "EN :\nAnd it’s one that would severely provoke her principles…!\nJP :\n誰かさんの価値観を…大きく刺激する発言でもあるし…！"
+  },
+  {
+    "key": "99-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "99-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "100-content",
+    "original": "이스마엘이 내 말을 알아차렸다는 듯 황급히 주위를 둘러보았다.",
+    "context": "EN :\nIshmael seems to have noticed what I meant, and hurriedly looked around.\nJP :\nイシュメールが私の言ったことの意味を理解したのか、慌てて周りを見回した。"
+  },
+  {
+    "key": "101-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "101-content",
+    "original": "남의 귀중품을 함부로 약탈하려 하다니! 필시, 악인의 행동이라고밖에 볼 수 없다!",
+    "context": "EN :\nThou darest try to pilfer the valuables of others? This behavior can only be seen as wholehearted villainy!\nJP :\n他人の貴重品をむやみに略奪しようとは！\nまさに、悪人の行動としかいいようがない！"
+  },
+  {
+    "key": "102-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "102-content",
+    "original": "<안돼…! 돈키호테…!>",
+    "context": "EN :\n<Oh no…! Don Quixote…!>\nJP :\n<駄目だ…！ドンキホーテ…！>"
+  },
+  {
+    "key": "103-content",
+    "original": "하지만 이미 한발 늦었다.",
+    "context": "EN :\nBut it was a moment too late.\nJP :\nだが、一足遅かった。"
+  },
+  {
+    "key": "104-content",
+    "original": "돈키호테는 총알처럼 튀어 나가 전당포 주인의 멱살을 잡고 있는 콩콩이파 조직원을 향해 망설임 없이 랜스를 휘두르고 있었다.",
+    "context": "EN :\nDon Quixote had already sprinted forward and was swinging her lance at the Tingtanger who gripped the pawnbroker by the collar.\nJP :\nドンキホーテは弾丸のように飛び出し、質屋の主人の胸倉を掴んでいる\nぽんぽん派の組織員に向かって躊躇なくランスを振りかざしていた。"
+  },
+  {
+    "key": "105-content",
+    "original": "깡!",
+    "context": "EN :\nWHACK!\nJP :\nカンッ！"
+  },
+  {
+    "key": "106-content",
+    "original": "기습당할 걸 전혀 상상하지 못했는지 랜스의 무딘 옆면은 그놈의 머리통을 정확히 가격했고,",
+    "context": "EN :\nCaught completely unaware, the goon was hit right on the head with the blunt side of her lance.\nJP :\n奇襲されるとは全く思っていなかったのか、ランスの鈍い側面は奴の脳天を\n正確にぶっ叩き、"
+  },
+  {
+    "key": "107-content",
+    "original": "유쾌한 타격음과 함께 맥아리 없이 바닥으로 쓰러진 조직원을 모두가 한참 바라보았다.",
+    "context": "EN :\nKnocked out on the floor in a frisky swing, the fainted goon became the center of attention for all of us inside the pawnshop for a solid minute.\nJP :\n愉快な打撃音と共に、脈絡もなく床に倒れた組織員を\n誰もがしばらく見つめていた。"
+  },
+  {
+    "key": "108-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "108-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "108-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "108-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "109-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "109-content",
+    "original": "아, 참고로 수감자들을 통제하는 역할은 제게 주어진 업무에 포함되지 않았어요. 이쪽 분의 역할이죠.",
+    "context": "EN :\nAh, for your information, keeping the Sinners in check is not part of my job description. That would be the job of this person here.\nJP :\nあぁ、ちなみに囚人たちを統制する役割は私に課せられた業務に\n含まれていませんでした。こちらの方の役割です。"
+  },
+  {
+    "key": "110-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "110-content",
+    "original": "<그렇게 쳐다봐도 소용없어. 내 선에서 저 녀석의 통제는 불가능하단 말이야…>",
+    "context": "EN :\n<Don’t give me that look. There’s nothing in my abilities to keep her under control…>\nJP :\n<そう見つめても無駄だよ。私じゃあいつの統制はできないんだって…。>"
+  },
+  {
+    "key": "111-content",
+    "original": "내 말이 수감자 외에는 들리지 않는다는 걸 알아도 자기변호는 멈출 수 없었다.",
+    "context": "EN :\nI couldn’t stop myself from defending my position even when I was aware that my voice wouldn’t reach anyone besides the Sinners.\nJP :\n私の言葉が囚人以外に聞こえないということは分かっていながらも、自己弁護を止めることはできなかった。"
+  },
+  {
+    "key": "112-content",
+    "original": "하기야. 내 항변이 설사 들렸어도, 기막히다는 듯 쳐다보는 그들의 표정은 딱히 바뀌지 않았겠지만.",
+    "context": "EN :\nOh well. It’s not like my defense would’ve made them look any less baffled towards me if they could hear it.\nJP :\nまぁ、私の抗弁が聞こえたところで、呆れた顔で見つめる彼らの顔が\n変わることはなかっただろうが。"
+  },
+  {
+    "key": "113-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "113-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "113-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "113-content",
+    "original": "오오오…!",
+    "context": "EN :\nOooh…!\nJP :\nおぁぉ…！"
+  },
+  {
+    "key": "114-content",
+    "original": "유일하게 이 상황을 기뻐하는 건 전당포 주인뿐이었다.",
+    "context": "EN :\nThe pawnbroker was the only one chuffed by this turn of events.\nJP :\n唯一この状況を喜んでいるのは質屋の主人だけだった。"
+  },
+  {
+    "key": "115-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "115-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "115-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "115-content",
+    "original": "아이고, 그 놈 꼴 좋네요. 하지만 살짝 더 세게 내려쳤어도 좋았을 법했습니다.",
+    "context": "EN :\nGreat work, ma’am. Serves that hooligan right! But I’ll say, you could’ve whopped ‘em a tad harder, maybe.\nJP :\nあんやぁ、いい気味でんなぁ。\nでも、もうちとばかり強く叩いてもバチはあたらんでしょうに。"
+  },
+  {
+    "key": "116-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "116-content",
+    "original": "베르길리우스가 ‘악인을 처단하는 건 상관없지만, 작전 외 인물들까지 끌어들이면 곤란해질 거다’ 라고 해서 말이오! 힘 조절을 했다네!",
+    "context": "EN :\nVergilius advised me that while I am free to deliver justice unto villains, I must do so without unduly involving irrevelants in our mission! Thus, I showed moderation!\nJP :\nヴェルギリウスが「悪人を処断するのはどうでも良いが、\n作戦外の人物まで巻き込むと厄介なことになるだろう。」と申していたので！\n力を調節したのでありまする！"
+  },
+  {
+    "key": "117-content",
+    "original": "혼자 뿌듯해하는 그 표정, 여간 얄밉지 않을 수 없다.",
+    "context": "EN :\nHer proud expression never looked so provoking.\nJP :\n一人満足げに浮かべるその顔、ちょっと憎たらしく思わずにはいられない。"
+  },
+  {
+    "key": "118-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "118-content",
+    "original": "<아하, 그 말을 기억했는데도 튀어 나간 거야?>",
+    "context": "EN :\n<Uh-huh. So you remembered his words and still leapt forward?>\nJP :\n<おぃぃ、その言葉を覚えていたのに飛び出していったのか？>"
+  },
+  {
+    "key": "119-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "119-content",
+    "original": "신념을 지켜야 하기에 어쩔 수 없었네, 부디 이해해주게나!",
+    "context": "EN :\n‘Twas a necessary action to stay true to my creed. Please understand my virtuous violence!\nJP :\n信念を守らんがゆえにどうしようもなかったのだ、どうか分かってくだされ！"
+  },
+  {
+    "key": "120-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "120-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "120-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "120-content",
+    "original": "그런데… 이놈, 설마 죽은 건 아니겠죠?",
+    "context": "EN :\nNot to kill the mood, but… That ruffian isn’t actually dead, right?\nJP :\nところで…こいつ、まさか死んだわけじゃぁないでしょうねぇ？"
+  },
+  {
+    "key": "121-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "121-content",
+    "original": "영감, 방금 전까지는 아쉬워하지 않았어?",
+    "context": "EN :\nI thought you wanted her to get straight to wallops, old sport?\nJP :\nじいさん、さっきまでは残念そうにしてなかったか？"
+  },
+  {
+    "key": "122-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "122-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "122-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "122-content",
+    "original": "그건 그렇지만… 이러다 '유로지비' 가 나서면 여러모로 복잡해지잖습니까.",
+    "context": "EN :\nI did, I did… But things would get fairly complicated if the Yurodiviye showed up, you know.\nJP :\nそれはそうじゃが…こうして「ユロージヴィ」に出られると色々とややこしいじゃあ\nありませんかぇ。"
+  },
+  {
+    "key": "123-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "123-content",
+    "original": "'유로지비?' 걔네가 왜 여기에… 아니, 그보다 걔네 걱정을 왜 하는 거야?",
+    "context": "EN :\nThe Yurodiviye? What are they doing here… No, forget that, why are you worrying about them?\nJP :\nユロージヴィ？あいつらがどうしてここに…いえ、\nそれよりなんであいつらの心配をするの？"
+  },
+  {
+    "key": "124-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "124-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "124-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "124-content",
+    "original": "아이고, 소식도 늦는구만요. 벌써 몇 개월 전부터 이 근처에서 깽판을 치고 있는데.",
+    "context": "EN :\nNot up to date with the news, are you, ma’am? They’ve been causing trouble here for months now.\nJP :\nあんれぁ、噂が回るのがおそいですなぁ。もう数ヶ月も前からこの近くで暴れ回っておりますのに。"
+  },
+  {
+    "key": "125-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "125-content",
+    "original": "그들도 악당인가?!",
+    "context": "EN :\nAre they villains as well?!\nJP :\n彼らも悪党か！？"
+  },
+  {
+    "key": "126-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "126-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "126-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "126-content",
+    "original": "어유, 저희한테는 악당이죠. 뭐라 그랬더라, 돈을 꽁치고 있는 장사치들을 조져서 힘든 사람에게 나눠야 한댔나. 뭐의 분배라 하던데…",
+    "context": "EN :\nOh, they’re villains to us humble merchants for sure. They were going on about, what was it, roughing up greedy peddlers keeping money to themselves, and giving it to those who need it. Distributing something, they said…\nJP :\nいんやぁ、我々にとっては悪党でしょう。なんといったか、カネをかすめ取ってる\n売人どもをぶっ潰して貧しい人に分け与えるべきだとかなんとか。\nなんかの分配っていっとりましたけど…。"
+  },
+  {
+    "key": "127-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "127-content",
+    "original": "부의 재분배.",
+    "context": "EN :\nThe redistribution of wealth.\nJP :\n富の再分配。"
+  },
+  {
+    "key": "128-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "128-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "128-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "128-content",
+    "original": "아아~ 맞아요, 그거. 에휴, 우리들이 무슨 돈이 있다고. 심지어 자기들이 와서 그러는 것도 아녀요. 매번 이 지역 깡패들을 시켜서 그러고 다닌다니까요?",
+    "context": "EN :\nAah~ That’s it, yes. Those scoundrels are robbing us poor saps of what little wealth we have. And they don’t even do the dirty work themselves, it’s always the local brutes they send. Can you believe it?\nJP :\nあぁ～そうです、それ。はぁ、私たちにそんなお金があるもんかって話ですよ。\nそれに自分たちが来てやるわけでものぉて、毎回この辺りの\nならずもんを遣わせて回ってるんですぇ？"
+  },
+  {
+    "key": "129-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "129-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "129-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "129-content",
+    "original": "하여간 지들이 옳은 일 한답시고 기세등등하게 다녀서 힘들어요. 처음에는 뭘 찾으려고 하는 것 같았는데, 이제는 돈이나 뺏고…",
+    "context": "EN :\nAnyhoo, life has been hard for us because of those self-righteous bunches. Looked like they were here to find something at first, but all they do now is squeeze money outta us…\nJP :\n何はともあれ、正しいことやりますって意気揚々と出回ってて大変ですのぉ。\n最初は何かを探してたみたいですけど、今やお金ばっかし奪って…。"
+  },
+  {
+    "key": "130-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "130-content",
+    "original": "…아! 그, 근데 말이야. 우리 피해야 하지 않을까? 콩콩이 파들이 들이닥칠지도 모르는데.",
+    "context": "EN :\n…Ah! I-I just realized, shouldn’t we take our leave now? More toughies from the Tingtang Gang might be coming this way.\nJP :\n…あ！と、ところでね。私たち逃げた方がいいんじゃないかな？\nぽんぽん派がやってくるかもしれないし。"
+  },
+  {
+    "key": "131-content",
+    "original": "로쟈가 황급히 주인의 말을 끊는 것처럼 보이는 것 같았지만 깊이 생각할 겨를이 없는 상황이었다.",
+    "context": "EN :\nIt seemed like Rodya deliberately cut off the pawnbroker in a hurry, but I had little time to think about the implications.\nJP :\nロージャが慌てて主人の話を遮っているようにも見えたが、\nそれについて深く考えるような時間もない状況だった。"
+  },
+  {
+    "key": "132-content",
+    "original": "그 말과 동시에 돈키호테가 쓰러뜨린 조직원이 조금씩 움찔거리는 것이, 곧 정신을 차리고 일어날 것만 같았다.",
+    "context": "EN :\nThe gang member Don Quixote had knocked out began to flinch as though to get back up soon.\nJP :\nその言葉と同時にドンキホーテが倒した組織員が少しずつピクピクと動き始め、\nすぐにでも気を取り戻して起き上がりそうに思えた。"
+  },
+  {
+    "key": "133-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "133-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "133-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "133-content",
+    "original": "하아, 골치 아프게… 쓸데없이 일만 벌려서는.",
+    "context": "EN :\nSigh, what a hassle… You’re making the problem bigger than it had to be.\nJP :\nはぁ、あったま痛い…余計なことばっかり。"
+  },
+  {
+    "key": "134-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "134-content",
+    "original": "이봐, 머핀과 소보루랬나? 너무 표정 구기지 말라고. 널려 있는 게 전당포잖아? 얼마든지 대체를…",
+    "context": "EN :\nHey, Muffin and Sablé, was it? Don’t be so tart now. There are plenty of pawnshops around here, right? We can always find a different—\nJP :\nおい、エビとソバっていったか？そんな顔するなよ。\n質屋なんてそんじょそこらにあるだろ？いくらでも対処を…。"
+  },
+  {
+    "key": "135-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "135-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "135-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "135-content",
+    "original": "에피랑 소드에요. 사람 이름을 맛있게 만들어 주시지는 않았으면 좋겠어요.",
+    "context": "EN :\nIt’s Effie and Saude. Please don’t mistake our names for confections.\nJP :\nエピとソードです。\n人の名前を美味しそうにしてもらえないでいただけると助かります。"
+  },
+  {
+    "key": "136-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "136-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "136-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "136-content",
+    "original": "그리고 널려 있는 게 전당포라는 뜻은 다시 말해…",
+    "context": "EN :\nAnd your statement that there are plenty of pawnshops in the vicinity won’t mean much…\nJP :\nそして、そんじょそこらに質屋があるということはつまり…。"
+  },
+  {
+    "key": "137-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "137-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "137-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "137-content",
+    "original": "이 소동을 눈치챈 모든 전당포가 곧 문을 닫을 거라는 소리랍니다…",
+    "context": "EN :\n…When said pawnshops notice the trouble happening here and close…\nJP :\nこの騒動に気付いた全ての質屋が、まもなく閉店準備に入るということです…。"
+  },
+  {
+    "key": "138-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "138-content",
+    "original": "<돈키호테…!>",
+    "context": "EN :\n<Don Quixote…!>\nJP :\n<ドンキホーテ…！>"
+  },
+  {
+    "key": "139-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "139-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "139-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "139-content",
+    "original": "바보들한테 일일이 설명하기도 이제 지친다. 얼른 나가자.",
+    "context": "EN :\nI’m getting tired of lecturing these idiots on every little thing. We should just leave.\nJP :\nバカどもに一々説明するのももう疲れるよ。さっさと行こう。"
+  },
+  {
+    "key": "140-content",
+    "original": "막 나가려는 순간, 우리가 쓰러뜨렸던 인물과 비슷한 계열의 복장을 입은 (그리고 똑같이 험상궂은) 인물이 가게 안으로 들이닥쳤다.",
+    "context": "EN :\nRight as I tried to leave, someone wearing similar thuggish clothes to the one we’d just knocked out—with a face that looked just as rough—stormed into the shop.\nJP :\nちょうど出て行こうとした瞬間、私たちが倒した人物と似たジャンルの服装をした(そして顔のいかつさも同じくらいの)人が店の中へ入ってきた。"
+  },
+  {
+    "key": "141-model",
+    "original": "세보이고싶었던콩콩파조직원",
+    "translation": "想表现得很强壮的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong1"
+  },
+  {
+    "key": "141-teller",
+    "original": "세보이고 싶었던 콩콩이파 조직원",
+    "context": "EN :\nChest-puffing Tingtanger\nJP :\n強く見られたかったぽんぽん派の組織員"
+  },
+  {
+    "key": "141-title",
+    "original": "콩콩이 파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "141-content",
+    "original": "어이 영감, 우리 막내 보지 못했…",
+    "context": "EN :\nAyo, codger, have you seen our li’l—\nJP :\nおいじいさん、俺んとこの末っ子を見なか…。"
+  },
+  {
+    "key": "142-model",
+    "original": "세보이고싶었던콩콩파조직원",
+    "translation": "想表现得很强壮的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong1"
+  },
+  {
+    "key": "142-teller",
+    "original": "세보이고 싶었던 콩콩이파 조직원",
+    "context": "EN :\nChest-puffing Tingtanger\nJP :\n強く見られたかったぽんぽん派の組織員"
+  },
+  {
+    "key": "142-title",
+    "original": "콩콩이 파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "142-content",
+    "original": "비실아! 이게 다 무슨 일이냐?!",
+    "context": "EN :\nWee slimmy! Just what’s going on here?!\nJP :\nガリ！一体どうなってんだ！？"
+  },
+  {
+    "key": "143-content",
+    "original": "우리는 전당포에 우연히 들어온 선량한 손님처럼 보이기 위해 부단히 애를 썼다.",
+    "context": "EN :\nWe did our best to pretend to be innocent customers who just happened to be in the pawnshop at the wrong time.\nJP :\n私たちは質屋に偶然入ってきた善良な客のように振る舞おうと、なんとか頑張った。"
+  },
+  {
+    "key": "144-content",
+    "original": "하지만 타이밍 좋게도 쓰러진 조직원이 정신을 차리기 시작했고…",
+    "context": "EN :\nHowever, in an unfortunate concurrence of events, the goon came back to senses…\nJP :\nしかしタイミングが良いことに倒れた組織員が気を取り戻し始め…。"
+  },
+  {
+    "key": "145-model",
+    "original": "세보이고싶었던콩콩파조직원",
+    "translation": "想表现得很强壮的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong1"
+  },
+  {
+    "key": "145-teller",
+    "original": "세보이고 싶었던 콩콩이파 조직원",
+    "context": "EN :\nChest-puffing Tingtanger\nJP :\n強く見られたかったぽんぽん派の組織員"
+  },
+  {
+    "key": "145-title",
+    "original": "콩콩이 파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "145-content",
+    "original": "어떤 새끼야! 어서 말해! 내가 아주 사지를 찢어 줄랑게!",
+    "context": "EN :\nWho did this?! Tell me now! That bean is gonna regret the day they grew stems!\nJP :\nどんなやつだ！早く言え！俺がきっちり四肢を捥いでやらぁ！"
+  },
+  {
+    "key": "146-model",
+    "original": "촌스러운말투의콩콩파조직원",
+    "translation": "言辞土气的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong3"
+  },
+  {
+    "key": "146-teller",
+    "original": "세보이고 싶었던 콩콩이파 조직원",
+    "context": "EN :\nChest-puffing Tingtanger\nJP :\n強く見られたかったぽんぽん派の組織員"
+  },
+  {
+    "key": "146-title",
+    "original": "콩콩이 파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "146-content",
+    "original": "윽… 저… 저기…",
+    "context": "EN :\nGnh… O… Over there…\nJP :\nうっ…あ…あの…。"
+  },
+  {
+    "key": "147-model",
+    "original": "촌스러운말투의콩콩파조직원",
+    "translation": "言辞土气的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong3"
+  },
+  {
+    "key": "147-teller",
+    "original": "세보이고 싶었던 콩콩이파 조직원",
+    "context": "EN :\nChest-puffing Tingtanger\nJP :\n強く見られたかったぽんぽん派の組織員"
+  },
+  {
+    "key": "147-title",
+    "original": "콩콩이 파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "147-content",
+    "original": "빨간… 시계 대가리…",
+    "context": "EN :\nThat red… timepuss…\nJP :\n赤い…時計アタマ…。"
+  },
+  {
+    "key": "148-content",
+    "original": "발뺌을 하기에는 그 손가락이 정확히 이쪽 좌표를 지목하고 있었고,",
+    "context": "EN :\nThe direction that finger was pointing was simply too unambiguous for me to pretend otherwise.\nJP :\n言い逃れをしようにもその指はこちらの座標を正確に指し示しており、"
+  },
+  {
+    "key": "149-content",
+    "original": "‘빨간 시계 대가리’는 아마 이 구역을 전부 뒤져도 나밖에는 없었을 것이 분명했기에 부정은 무의미했다.",
+    "context": "EN :\nPlus, there’s no point in denying that I was meant by “red timepuss”, as I’m sure there would be literally no one else matching that description in this entire District.\nJP :\n「赤い時計アタマ」というのは、この区域をひっくり返しても\n私しかいないのはほぼ確実だったので、否定は無意味だった。"
+  },
+  {
+    "key": "150-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "150-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "150-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "150-content",
+    "original": "노파심에 덧붙이지만 저는 전혀 모르는 일입니다. 이제 막 얼음찜질을 해드리려고 수건을 가지고 가려던 참이었습죠.",
+    "context": "EN :\nJust so you don’t get the wrong idea, I have nothing to do with these people or what happened here. I was just about to bring a towel to cool this poor fellow’s head.\nJP :\n老婆心で言うんですが、私には全く分かりませんのぉ。今ちょうど冷やして\nしんぜようと、手ぬぐいを持って来ようとしてたところでして。"
+  },
+  {
+    "key": "151-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "151-content",
+    "original": "저 노인네가 진짜…",
+    "context": "EN :\nThat smarmy gaffer…\nJP :\nあんのクソジジイが…。"
+  },
+  {
+    "key": "152-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "152-content",
+    "original": "기대도 안 했지만, 줏대라고는 바람에 흔들리는 갈대만도 못하네요.",
+    "context": "EN :\nI had no expectations for him in the first place, but that man really has a shaky reed for his backbone.\nJP :\n期待もしていなかったですが、芯というものが風になびく葦ほどもないですね。"
+  },
+  {
+    "key": "153-content",
+    "original": "전당포 주인의 태세 전환과 시계 비하 발언(심지어 내 탓도 아닌 일에)에 살짝 가슴이 아팠지만 의연해지기로 했다.",
+    "context": "EN :\nAlthough the pawnbroker switching sides in a heartbeat and the finger-pointing clock slander—over something I wasn’t responsible for, too—hurt me a little, I was determined to stand firm.\nJP :\n質屋の主人の手のひら返しと、時計に対する卑下発言(それも私のせいでもないこと)に\n少し胸が痛んだが、毅然とした態度を取ることにした。"
+  },
+  {
+    "key": "154-model",
+    "original": "세보이고싶었던콩콩파조직원",
+    "translation": "想表现得很强壮的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong1"
+  },
+  {
+    "key": "154-teller",
+    "original": "세보이고 싶었던 콩콩이파 조직원",
+    "context": "EN :\nChest-puffing Tingtanger\nJP :\n強く見られたかったぽんぽん派の組織員"
+  },
+  {
+    "key": "154-title",
+    "original": "콩콩이 파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "154-content",
+    "original": "야… 거기 작것들… 스톱. 동작 그만.",
+    "context": "EN :\nJah… Frijolitos over there… Stop. Freeze in your tracks.\nJP :\nおい…そこのテメェら…ストップ。動作やめ。"
+  },
+  {
+    "key": "155-content",
+    "original": "왜냐하면 지금 당장 튀어야 할 상황이라는 게 명백했기 때문이다.",
+    "context": "EN :\nMostly because it was clear that we had to run right now.\nJP :\nなぜなら今は、すぐ逃げるべき状況だということが明白だったからだ。"
+  },
+  {
+    "key": "156-content",
+    "original": "별것도 아닌 것에 마음을 쓰다 간 곤죽이 되어버릴 테니까.",
+    "context": "EN :\nIf I kept letting small things bother me, I would be reduced to a pulp sooner rather than later.\nJP :\n大したことでもない事象に気を使っていると、\nくたくたになってしまうだろうから。"
+  },
+  {
+    "key": "157-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "157-content",
+    "original": "하. 뭘 도망쳐. 귀찮은데 그냥 다 죽이자.",
+    "context": "EN :\nBah. No need to run. Let’s just kill them all and be done with it.\nJP :\nはっ。何を逃げるんだ。面倒臭いし皆殺しにしよう。"
+  },
+  {
+    "key": "158-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "158-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "158-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "158-content",
+    "original": "왜, 아주 콩콩이파를 뿌리째 뽑아내자고 하지?",
+    "context": "EN :\nWhat’s next? You’re going to wipe out the whole Syndicate?\nJP :\nなんだよ、ぽんぽん派を根こそぎ殲滅でもするつもりか？"
+  },
+  {
+    "key": "159-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "159-content",
+    "original": "훗. 그것도 나쁘지 않겠어.",
+    "context": "EN :\nHeh. That doesn’t sound too bad.\nJP :\nふっ。それも悪くないだろう。"
+  },
+  {
+    "key": "160-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "160-content",
+    "original": "악의 무리는 단숨에 뿌리를 뽑아야 정의가 바로 서는 법!",
+    "context": "EN :\nThe forces of evil must be uprooted with haste in order to raise the banner of justice high!\nJP :\n悪の群れは一息に根を抜いてこそ、正義が立つものである！"
+  },
+  {
+    "key": "161-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "161-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "161-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "161-content",
+    "original": "저기, 너희 중엔 정신이 똑바로 박혀 있는 직원이 정말 없는 거야?",
+    "context": "EN :\nUh, so, is there seriously no one on your team who’s in their right mind?\nJP :\nあの、お前らの中に精神がまともな職員って本当にいないのか？"
+  },
+  {
+    "key": "162-content",
+    "original": "이스마엘은 그 말이 모욕으로 들렸던 듯 반박을 하고 싶어 하는 낌새였지만, 그보다 콩콩이파 일당들이 품에서 무기를 꺼내고 있는 것이 더 눈에 들어왔다.",
+    "context": "EN :\nIshmael looked insulted by this remark and seemed to be thinking of a counterargument, but the Tingtang goons arming themselves were a more pressing matter.\nJP :\nイシュメールにはその言葉が侮辱に聞こえたようで、反論したげだったが\nそれよりもぽんぽん派の一味が懐から武器を取り出している様子が目に入ってきた。"
+  },
+  {
+    "key": "163-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "163-content",
+    "original": "<일단…>",
+    "context": "EN :\n<Let’s just…>\nJP :\n<とりあえず…。>"
+  },
+  {
+    "key": "164-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "164-content",
+    "original": "<일단 밖으로 나가!>",
+    "context": "EN :\n<Let’s get outta here first!>\nJP :\n<とりあえず表に出ろ！>"
+  }
+]

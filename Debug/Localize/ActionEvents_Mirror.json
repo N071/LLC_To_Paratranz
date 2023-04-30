@@ -1,0 +1,817 @@
+[
+  {
+    "key": "900011-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "900011-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "900011-desc",
+    "original": "아무 것도 없는 빈 공간에\n어째서인지 자판기가 들어서 있다.\n\n어디서부터 전기가 들어오는 걸까?...\n\n그리고 이 파도소리는 어디서부터 들려오는 것일까.\n\n마침, 앞은 깔끔한 공터라 이곳에서\n수감자들을 쉬어가게 해도 좋을 것 같다.\n\n자판기 앞에 서 보니 여러가지 버튼들이 늘어서 있다.",
+    "context": "EN :\nIn an empty space,\nyou find a lone vending machine.\n\nWhere does it get its power…?\n\nBesides that, what’s with this sound of crashing waves?\n\nRegardless, this vacant lot looks to be a good place\nfor your Sinners to take a break.\n\nStanding in front of the vending machine, you see rows of buttons.\nJP :\n何もない空いた空間に\nなぜか自動販売機が立っている。\n\nどこから電気が来てるんだろう…？\n\nそして、この波の音はどこから聞こえてくるのだろうか。\n\nちょうど、前はきれいな空き地なので、ここで\n囚人たちを休ませても良さそうだ。\n\n自動販売機の前に立ってみると、\n色んなボタンが並んでいた。"
+  },
+  {
+    "key": "900011-options",
+    "original": "[{\"message\":\"버튼을 눌러본다.\",\"result\":[\"그저 버튼을 한 번 눌렀을 뿐인데,\\n자판기에서는 쉬지않고 음료캔들이 쏟아져 나왔다.\\n\\n캔들은 죄다 보라색일 뿐이다.\\n\\n배와 포도 같은 것이 그려져 있는 의미를 알 수는 없지만,\\n어디선가 이 것을 보았던 것만 같은 기분이 든다.\\n\\n아마, 마셔도 괜찮을 것이다.\\n\\n수감자 모두에게 캔을 나누어 주었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Press one.\",\"result\":[\"With just a single press,\\nthe machine ejected one can after another.\\n\\nAll the cans are purple.\\n\\nYou can’t fathom the meaning of the ships and grapes doodled on them,\\nbut they somehow feel familiar, and well… cheery.\\n\\nThey should be okay to drink.\\n\\nYou passed the cans out to the Sinners.\"]}]\nJP :\n[{\"message\":\"ボタンを押してみる。\",\"result\":[\"ただボタンを一回押しただけなのに、\\n自動販売機からは絶えず缶が溢れ出てきた。\\n\\n缶は全部紫色だ。\\n\\n梨や葡萄のようなものが\\n描かれている意味は分からないけど、\\nどこかでこれを見たような気がする。\\n\\nたぶん、飲んでも問題ない気がする。\\n\\n囚人全員に缶を分け与えた。\"]}]"
+  },
+  {
+    "key": "900012-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "900012-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "900012-desc",
+    "original": "아무 것도 없는 빈 공간에\n어째서인지 자판기가 들어서 있다.\n\n어디서부터 전기가 들어오는 걸까?...\n\n그리고 이 파도소리는 어디서부터 들려오는 것일까.\n\n마침, 앞은 깔끔한 공터라 이곳에서\n수감자들을 쉬어가게 해도 좋을 것 같다.\n\n자판기 앞에 서 보니 여러가지 버튼들이 늘어서 있다.",
+    "context": "EN :\nIn an empty space,\nyou find a lone vending machine.\n\nWhere does it get its power…?\n\nBesides that, what’s with this sound of crashing waves?\n\nRegardless, this vacant lot looks to be a good place\nfor your Sinners to take a break.\n\nStanding in front of the vending machine, you see rows of buttons.\nJP :\n何もない空いた空間に\nなぜか自動販売機が立っている。\n\nどこから電気が来てるんだろう…？\n\nそして、この波の音はどこから聞こえてくるのだろうか。\n\nちょうど、前はきれいな空き地なので、ここで\n囚人たちを休ませても良さそうだ。\n\n自動販売機の前に立ってみると、\n色んなボタンが並んでいた。"
+  },
+  {
+    "key": "900012-options",
+    "original": "[{\"message\":\"버튼을 눌러본다.\",\"result\":[\"그저 버튼을 한 번 눌렀을 뿐인데,\\n자판기에서는 쉬지않고 음료캔들이 쏟아져 나왔다.\\n\\n캔들은 죄다 보라색일 뿐이다.\\n\\n배와 포도 같은 것이 그려져 있는 의미를 알 수는 없지만,\\n어디선가 이 것을 보았던 것만 같은 기분이 든다.\\n\\n아마, 마셔도 괜찮을 것이다.\\n\\n수감자 모두에게 캔을 나누어 주었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Press one.\",\"result\":[\"With just a single press,\\nthe machine ejected one can after another.\\n\\nAll the cans are purple.\\n\\nYou can’t fathom the meaning of the ships and grapes doodled on them,\\nbut they somehow feel familiar, and well… cheery.\\n\\nThey should be okay to drink.\\n\\nYou passed the cans out to the Sinners.\"]}]\nJP :\n[{\"message\":\"ボタンを押してみる。\",\"result\":[\"ただボタンを一回押しただけなのに、\\n自動販売機からは絶えず缶が溢れ出てきた。\\n\\n缶は全部紫色だ。\\n\\n梨や葡萄のようなものが\\n描かれている意味は分からないけど、\\nどこかでこれを見たような気がする。\\n\\nたぶん、飲んでも問題ない気がする。\\n\\n囚人全員に缶を分け与えた。\"]}]"
+  },
+  {
+    "key": "900013-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "900013-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "900013-desc",
+    "original": "아무 것도 없는 빈 공간에\n어째서인지 자판기가 들어서 있다.\n\n어디서부터 전기가 들어오는 걸까?...\n\n그리고 이 파도소리는 어디서부터 들려오는 것일까.\n\n마침, 앞은 깔끔한 공터라 이곳에서\n수감자들을 쉬어가게 해도 좋을 것 같다.\n\n자판기 앞에 서 보니 여러가지 버튼들이 늘어서 있다.",
+    "context": "EN :\nIn an empty space,\nyou find a lone vending machine.\n\nWhere does it get its power…?\n\nBesides that, what’s with this sound of crashing waves?\n\nRegardless, this vacant lot looks to be a good place\nfor your Sinners to take a break.\n\nStanding in front of the vending machine, you see rows of buttons.\nJP :\n何もない空いた空間に\nなぜか自動販売機が立っている。\n\nどこから電気が来てるんだろう…？\n\nそして、この波の音はどこから聞こえてくるのだろうか。\n\nちょうど、前はきれいな空き地なので、ここで\n囚人たちを休ませても良さそうだ。\n\n自動販売機の前に立ってみると、\n色んなボタンが並んでいた。"
+  },
+  {
+    "key": "900013-options",
+    "original": "[{\"message\":\"버튼을 눌러본다.\",\"result\":[\"그저 버튼을 한 번 눌렀을 뿐인데,\\n자판기에서는 쉬지않고 음료캔들이 쏟아져 나왔다.\\n\\n캔들은 죄다 보라색일 뿐이다.\\n\\n배와 포도 같은 것이 그려져 있는 의미를 알 수는 없지만,\\n어디선가 이 것을 보았던 것만 같은 기분이 든다.\\n\\n아마, 마셔도 괜찮을 것이다.\\n\\n수감자 모두에게 캔을 나누어 주었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Press one.\",\"result\":[\"With just a single press,\\nthe machine ejected one can after another.\\n\\nAll the cans are purple.\\n\\nYou can’t fathom the meaning of the ships and grapes doodled on them,\\nbut they somehow feel familiar, and well… cheery.\\n\\nThey should be okay to drink.\\n\\nYou passed the cans out to the Sinners.\"]}]\nJP :\n[{\"message\":\"ボタンを押してみる。\",\"result\":[\"ただボタンを一回押しただけなのに、\\n自動販売機からは絶えず缶が溢れ出てきた。\\n\\n缶は全部紫色だ。\\n\\n梨や葡萄のようなものが\\n描かれている意味は分からないけど、\\nどこかでこれを見たような気がする。\\n\\nたぶん、飲んでも問題ない気がする。\\n\\n囚人全員に缶を分け与えた。\"]}]"
+  },
+  {
+    "key": "900021-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "900021-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "900021-desc",
+    "original": "내어다보니, 무언가 반짝이며 빛을 쏘아내는 것이 있었다.\n\n들여다보니, 길쭉한 거울들이\n몇 개 씩이나 서로를 마주보고 서있었다.\n\n그렇다보니, 그곳으로 가\n거울 앞에 서보아야만 할 것 같았다.\n\n거울로 둘러싸인 방의 안은 고요하고도 조금은 서늘하다.",
+    "context": "EN :\nUp ahead, you see some sort of ray of light.\n\nLooking closely, there are numerous tall mirrors.\nThey all face each other.\n\nWhile examining them,\nyou feel the need to stand before the mirrors.\n\nThe room, wall-to-wall with reflections, is quiet and chilly.\nJP :\n見渡してみると、何かきらきらしながら\n光を放つものがあった。\n\n覗いてみると、長い鏡が\nいくつも向かい合って立っていた。\n\nそうしていると、そこに入って\n鏡の前に立たなければならない気がした。\n\n鏡に囲まれた部屋の中は静かで、\n少しひんやりとしている。"
+  },
+  {
+    "key": "900021-options",
+    "original": "[{\"message\":\"거울 앞에 선다.\",\"result\":[\"어느새 나는 정신을 잃었던 것 같다.\\n\\n깨어나보니, 무수한 자아의\\n공간으로 빠져들어간 후였다.\\n\\n그 속에서 조우한 것은 거울 너머\\n무한한 가능성들 사이에 놓여진 자들이었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Stand in front of one.\",\"result\":[\"You seem to have lost consciousness.\\n\\nWhen you came to your senses,\\nyou found yourself in a dreamscape of infinite selves.\\n\\nThere, you encountered those placed between limitless possibilities beyond the mirrors.\"]}]\nJP :\n[{\"message\":\"鏡の前に立つ\",\"result\":[\"いつの間にか私は気を失っていたようだ。\\n\\n目覚めると、無数の自我の\\n空間に迷い込んてしまっていた。\\n\\nその中で遭遇したのは、鏡の向こうの\\n無限の可能性たちの間に置かれた者たちだった。\"]}]"
+  },
+  {
+    "key": "900031-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "900031-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "900031-desc",
+    "original": "그 기계는 누군가가 줄곧 관리하고 있었던 것처럼\n먼지 한 톨 없이 깔끔한 모습이었다.\n\n[원하시는 앰플을 선택하고 자리에 누워주십시오.]\n\n기계 앞 전광판에는 그렇게 쓰여있었다.\n\n전광판의 뒷편으로는 적색, 녹색, 하얀색 등\n갖가지 색이 든 앰플이 보인다.\n\n차갑게 식은 수술대 위에 조심스레 올라간다.",
+    "context": "EN :\nThe machine seemed to be well-maintained.\nNot a single speck of dirt rested on its surface.\n\n[Please select an ampule and go atop the table.]\n\nThose were the instructions on the display next to it.\n\nBehind that display, you see ampules containing\nliquids of various colors, like red, green, and white.\n\nYou carefully get on the cold operating table.\nJP :\nその機械は誰かがずっと管理していたかのように\n埃ひとつも無い、綺麗な状態だった。\n\n[お好みのアンプルを選択し、\nこちらで横になってください。]\n\n機械の前の電光掲示板には、そう書かれていた。\n\n電光掲示板の裏側には赤、緑、白など\n色とりどりのアンプルが見える。\n\n慎重に、冷たい手術台へと上がった。"
+  },
+  {
+    "key": "900031-options",
+    "original": "[{\"message\":\"앰플을 선택한다.\",\"result\":[\"[앰플 선택을 확인했습니다.]\\n\\n섬칫한 기분이 드는 기계팔이 갑작스레 움직이더니,\\n앰플 하나를 꺼내어 또 다른 기계에 꽂아 넣었다.\\n\\n[고통은 잠시입니다.]\\n\\n상당히 우악스러운 속도와 움직임으로,\\n그 기계팔은 큼지막한 주사를 수감자에게 꽂아넣었다.\\n\\n[90db 이상의 소음을 감지했습니다.\\n30분 이상 지속되면 영구적인\\n고막의 손상을 초래할 수 있습니다.]\\n\\n전광판에는 단조로운 느낌으로 그렇게 쓰여졌지만,\\n당연히 그들의 비명 소리가 줄어들 일은 없었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Choose an ampule.\",\"result\":[\"[Confirmed choice of ampule.]\\n\\nA foreboding mechanical arm suddenly began to move,\\ntaking out your selection and plugging it into another machine.\\n\\n[The pain is temporary.]\\n\\nThe arm swung wildly,\\njabbing a large needle into the Sinner.\\n\\n[Noise over 90 dB detected.\\nMore than 30 minutes of exposure\\nmay permanently damage eardrums.]\\n\\nThe display plainly warned,\\nbut that obviously didn’t help palliate the scream.\"]}]\nJP :\n[{\"message\":\"アンプルを選ぶ。\",\"result\":[\"[アンプル選択を確認しました。]\\n\\n不気味な機械の腕が急に動くと、\\nアンプルを1つ取り出し、別の機械へ差し込んだ。\\n\\n[苦痛は一瞬です。]\\n\\nかなり荒々しい速さと動作で、\\nその機械の腕は、囚人に大きな注射器を刺した。\\n\\n[90dB以上の騒音を感知しました。\\n30分以上続くと恒久的な\\n鼓膜の損傷を引き起こす恐れがあります。]\\n\\n電光掲示板には、そうシンプルに表示されていたが\\n当然、彼らの悲鳴が収まることはなかった。\"]}]"
+  },
+  {
+    "key": "901001-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901001-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901001-desc",
+    "original": "아롱거리며 떠다니는 주홍빛 동그라미들이 보인다.\n빛들은 휘날리고 흐늘거리며 아지랑이를 만든다.\n\n아지랑이 속에는 무언가 타 죽어간다.\n저 불에 닿으면 나도 타버리는 걸까.",
+    "context": "EN :\nOrange circles float in the air before your eyes.\nThe lights flutter and dance in the air, creating a haze.\n\nSomething is burning to death within.\nWould you be scorched as well if the flames touched you?\nJP :\nオレンジ色をしたいくつもの丸が\nちらつきながら浮かんでいる。\n光はひらめきゆらめき、陽炎を作る。\n\n陽炎の中で、何かが燃えて死んでいく。\nあの火に触れたら私も燃えてしまうのだろうか。"
+  },
+  {
+    "key": "901001-options",
+    "original": "[{\"message\":\"손을 뻗는다.\",\"result\":[\"아지랑이에 홀린 듯이 손가락을 \\n내밀어 불빛이 다가오길 기다린다.\\n\\n아른거리는 불은 손가락 위에 살며시 앉는다.\\n그러자 불이 손가락을 감싸 안았다.\\n\\n하나의 불은 둘이 되어, 넷이 되어, 여덟이 되어\\n걷잡을 수 없이 불어나 몸을 뒤덮는다.\"]},{\"message\":\"등을 돌린다.\",\"result\":[\"아쉬움에 손을 뻗을까 고민했지만,\\n이유 모를 온기는 피하는 편이 나았기에 등을 돌렸다.\\n\\n한순간 모든 것이 식는 듯 등이 싸늘해졌지만 다행이었을지도 모른다.\\n\\n어쩌면 전부 타버렸을 테니.\"]}]",
+    "context": "EN :\n[{\"message\":\"Reach out.\",\"result\":[\"Enchanted by the haze, you extend a finger,\\nwaiting for one of the lights to land.\\n\\nA glimmering ball gently perches on your digit.\\nThen, a fire engulfs it.\\n\\nAnother glow attaches to your body, then four, then eight.\\nThey multiply until you have been entirely shrouded in light.\"]},{\"message\":\"Turn around.\",\"result\":[\"Resisting the temptation to reach out,\\nyou decide it’s better to stay away from such dubious warmth.\\n\\nYou feel a cold wave crawl up your spine in an instant, but it may be the right choice.\\n\\nEven children know not to play with fire.\"]}]\nJP :\n[{\"message\":\"手を伸ばす。\",\"result\":[\"陽炎に取り憑かてしまったかのように、\\n指を 差し出して明かりが近付いてくるのを待つ。\\n\\nちらつく火は指の上にそっと座る。\\nすると火が指を包み込んだ。\\n\\n一つの火は二つになり、四つになり、八つになって\\n手の施しようもなく増え、身体を覆ってゆく。\"]},{\"message\":\"背を向ける。\",\"result\":[\"名残惜しさに手を伸ばすか悩んだが、\\nわけの分からぬ温もりは避けるのが良いだろうと背を向けた。\\n\\n一瞬、全てが冷えるように背中がひんやりとしたが、逆に幸いだったのかもしれない。\\n\\nもしかすると、全て焼けてしまったかもしれないから。\"]}]"
+  },
+  {
+    "key": "901002-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901002-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901002-desc",
+    "original": "피가 쏟아져 내리고, 황금향이 너머에 있다.\n눈앞의 나선이 요란하게 쇳소리를 낸다.\n\n파고들며 파고들다 여기에 다다른듯하다.\n눈은 없지만, 이것은 삐걱거리며 나를 마주한다.",
+    "context": "EN :\nBlood pours from above; the land of gold lies beyond.\nThe spiral ahead loudly screeches.\n\nIt must have reached this depth after burrowing and burrowing.\nAlthough it has no eyes, it creaks to face you.\nJP :\n血が降り注ぎ、黄金の香りが彼方にある。\n目の前の螺旋が、けたたましい鉄の音を立てる。\n\n食い込み、また食い込みながらここへと至ったようだ。\n目はないが、これは軋みながら私と向き合う。"
+  },
+  {
+    "key": "901002-options",
+    "original": "[{\"message\":\"눈을 떼지 않는다.\",\"result\":[\"눈을 떼지 않고 기묘한 움직임을 탐하듯 바라본다.\\n가시의 나선들이 머릿속을 파고드는 느낌.\\n\\n뇌가 파헤쳐지며 혐오와 경멸이 쏟아져 나온다.\\n마치 이런 감정들이 원래 내 안에 자리했던 것처럼.\"]},{\"message\":\"눈을 돌린다.\",\"result\":[\"\"]}]",
+    "context": "EN :\n[{\"message\":\"Keep looking.\",\"result\":[\"You continue to stare at its peculiar movements with yearning eyes.\\nIt feels as though spirals of spikes are digging into your head.\\n\\nFrom the excavated brain, geysers of hatred and contempt erupt.\\nIt’s as if those feelings were inside you all along.\"]},{\"message\":\"Avert your eyes.\",\"result\":[\"\"]}]\nJP :\n[{\"message\":\"目を離さない。\",\"result\":[\"目を離さず奇妙な動きを貪るように眺める。\\nトゲのついた螺旋が頭の中に食い込むような感覚。\\n\\n脳が掘り返され、嫌悪と軽蔑が溢れ出る。\\nまるでこういう感情が、 元々私の中に存在していたかのように。\"]},{\"message\":\"目を背ける。\",\"result\":[\"\"]}]"
+  },
+  {
+    "key": "901003-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901003-desc",
+    "original": "울음소리가 잿빛 황야를 울린다.\n멀리서 거대하고 울렁이는 안개가 스멀스멀 밀려온다.\n\n그것은 마치 인간의 형상과도 같다.\n혹은 망령이나 귀신이 형태를 갖춘 모습 같기도 하다.\n\n절규하듯 벌려진 입이 끝없이 검다.",
+    "context": "EN :\nA cry rings out in the ashen wilderness.\nFrom the distance, an undulating wall of fog rises.\n\nIts shape resembles a human.\nYet, it could be a spirit or a ghost taken form.\n\nIts mouth, agape as if crying in despair, is completely dark.\nJP :\n泣き声が灰色の荒野に響く。\n遠くから大きな霧が揺らめきながら押し寄せてくる。\n\nそれはまるで人間のような形をしていた。\nあるいは亡霊や幽霊が、形を持ったもののようにも見えた。\n\n絶叫しているかのように開いた口は、果てしなく黒い。"
+  },
+  {
+    "key": "901003-options",
+    "original": "[{\"message\":\"안개 속으로 걸어 들어 간다.\",\"result\":[\"\"]},{\"message\":\"안개의 눈을 바라본다.\",\"result\":[\"\"]}]",
+    "context": "EN :\n[{\"message\":\"Walk into the mist.\",\"result\":[\"\"]},{\"message\":\"Look the mist in the eye.\",\"result\":[\"\"]}]\nJP :\n[{\"message\":\"霧の中に入っていく。\",\"result\":[\"\"]},{\"message\":\"霧の芽を見つめる。\",\"result\":[\"\"]}]"
+  },
+  {
+    "key": "901004-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901004-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901004-desc",
+    "original": "피를 필요로 하는 사람에게 피를 나눠준다.\n하지만 나눠주는 피는 자신의 피뿐이다.\n\n자신의 피를 필요치 않은 이들도\n여지없이 가위로 갈라 피를 들이붓는다.\n\n그렇기에 그것의 앞에는 피를 필요로 하는 자밖에 없다.",
+    "context": "EN :\nIt gives blood to those who need it.\nThe only blood it has to give is its own.\n\nEven those who don’t need a transfusion\nare bled dry with scissors, forced to accept.\n\nThus, its road is filled with receivers that need blood.\nJP :\n血を必要とする人に血を分け与える。\nしかし、分け与える血は自分の血だけだ。\n\n自分の血を必要としない者たちも\n容赦なく鋏で切って血を注ぎ込む。\n\nだからこそ、それの前には血を必要とする者しかいない。"
+  },
+  {
+    "key": "901004-options",
+    "original": "[{\"message\":\"피를 받는다.\",\"result\":[\"그것은 매달아 둔 혈액 팩을 떼어내어 우리에게 내밀었다.\\n\\n우리가 받아드는 걸 보고,\\n그것은 재빠르게 빈 혈액 팩을 매달았다.\\n\\n기이한 속도로 팩이 핏물로 차올라간다.\\n\\n그것은 자신이 해야 할 일을 마무리했다는\\n듯이 아무렇지 않게 우리를 지나갔다.\"]},{\"message\":\"피를 기부한다.\",\"result\":[\"그것이 자신의 피를 계속해서\\n나눈다는 것이 문득 서글펐다.\\n\\n우리는 그것에게 피를 나누기로 했다.\\n\\n기기긱\\n그것에게 의사를 밝히자,\\n그것은 마음에 들지 않는 듯이 울었다.\\n\\n그러고는 팔을 내민 자에게\\n가위를 들어 그대로 팔뚝을 잘라냈다.\\n\\n기기긱\\n그리고는 자신의 몸에 연결된\\n수많은 관 중 하나를 단면에 꽂아 넣었다.\\n\\n그러자 팔이 생겨났다.\\n흘러나온 피는 바닥에 그대로 엎질러져 있을 뿐이다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Accept blood.\",\"result\":[\"It plucked a blood bag and handed it to us.\\n\\nSeeing us accept it,\\nit quickly hung an empty one in its place.\\n\\nThe bag fills with blood at an uncanny pace.\\n\\nHaving fulfilled its duty, it strolled past us.\"]},{\"message\":\"Donate blood.\",\"result\":[\"Its endless donation of blood\\nwas a pitiful sight.\\n\\nWe decided to share some of our own.\\n\\nGIGIGIH.\\nWhen we expressed our willingness to donate,\\nit cried as if to signal its displeasure.\\n\\nThen, it raised a pair of scissors,\\nchopping off the arm of the one who volunteered their blood.\\n\\nGIGIGIH.\\nThen, it pulled out one of the tubes connected to its body,\\nplugging it into the cut wound.\\n\\nAn arm soon grew back.\\nThe spilled blood stayed on the floor.\"]}]\nJP :\n[{\"message\":\"血を受ける。\",\"result\":[\"それはぶら下がっていた血液パックを取り外し、私たちに差し出した。\\n\\n私たちが受け入れるのを見て、\\nそれは素早くに空の血液パックを吊るした。\\n\\n異常な速度でパックに血が満たされてゆく。\\n\\nそれは自分の役目は終わったという風に\\n何事もなかったかのように私たちから離れていった。\"]},{\"message\":\"血を寄付する。\",\"result\":[\"ふと、それが自分の血をずっと\\n分け与えていることに遣る瀬なさを感じた。\\n\\n私たちはそれに血を分けることにした。\\n\\nギギギッ\\nそれに意思を伝えると、\\nそれは快く思わなかったのか泣いた。\\n\\nそして腕を差し出した者に対して\\n鋏を構え、そのまま腕を断ち切った。\\n\\nギギギッ\\nそうして、自分の身体に繋がっている\\n数多の管のうちの一つを断面に挿し込んだ。\\n\\nすると腕が生えてきた。\\n流れ出た血は、床にこぼれたままだった。\"]}]"
+  },
+  {
+    "key": "901005-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901005-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901005-desc",
+    "original": "곡소리가 숲을 메운다.\n무엇이 서러워서 저렇게 목놓아 우는 걸까.\n\n숲의 가운데에 관이 하나 놓여있다.\n그 무엇이더라도 부디 관에서 나오지\n말아 달라는 듯 여러 끈이 동여매져 있다.\n\n하지만 관은 덜컹거리고 끼익거린다.",
+    "context": "EN :\nA wail fills the forest.\nYou can’t help but wonder what it’s so sorrowful for.\n\nThere’s a coffin in the middle of the woods.\nIt has been tied with multiple cords and ropes,\nin what appears to be a desperate attempt to keep its contents from escaping.\n\nHowever, the coffin continues to rumble and creak.\nJP :\n哭声が森を満たす。\n何が恨めしくてあれほど声高に泣いているのだろうか。\n\n森の真ん中に棺が一つ置かれている。\n何がなんでも棺から出てくるなという風に、\n何本もの縄で縛り付けられている。\n\nしかし棺桶はガタガタ、そしてキイキイと鳴る。"
+  },
+  {
+    "key": "901005-options",
+    "original": "[{\"message\":\"관을 연다.\",\"result\":[\"\"]},{\"message\":\"그대로 둔다.\",\"result\":[\"\"]}]",
+    "context": "EN :\n[{\"message\":\"Open the coffin.\",\"result\":[\"\"]},{\"message\":\"Leave it be.\",\"result\":[\"\"]}]\nJP :\n[{\"message\":\"棺を開ける。\",\"result\":[\"\"]},{\"message\":\"そのままにしておく。\",\"result\":[\"\"]}]"
+  },
+  {
+    "key": "901006-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901006-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901006-desc",
+    "original": "'당신은 누구시길래 이곳까지 왔소?'\n\n종이가 바스락거리며 말을 건다.\n\n'안 그래도 급한 일거리가 있었는데,\n마침 잘됐군. 이 일을 맡아 주지 않겠소?'\n\n종이가 내민 종이에는 요란한 글자들이 쓰여있다.\n안타깝게도 나는 전혀 알아채지 못할 선과 점들이다.\n\n'어떻소? 해보지 않겠소?'",
+    "context": "EN :\n“Who are you, and what brings you here?”\n\nA piece of paper rustles.\n\n“Well, you came just at the right time for me;\nI’ve urgent business that needs doing.\nWon’t you take the job?”\n\nIt held out another piece of paper with lousy letters written on it.\nUnfortunately, you can’t make sense of these lines and dots.\n\n“How’s about it? You up for it?”\nJP :\n「あなたはどちら様で、どうしてここまで来られたのですかぇ？」\n\n紙がカサカサと声を掛けてくる。\n\n「ちょうど急な仕事があったのだが、\nちょうど良かった。この仕事を引き受けはくれませんかの？」\n\n紙が差し出した紙には派手な文字が書かれている。\n残念ながら、私にはまったく読めない点と線だ。\n\n「どうでしょう？やってみませんかぇ？」"
+  },
+  {
+    "key": "901006-options",
+    "original": "[{\"message\":\"고개를 끄덕인다.\",\"result\":[\"\"]},{\"message\":\"거절한다.\",\"result\":[\"\"]}]",
+    "context": "EN :\n[{\"message\":\"Nod.\",\"result\":[\"\"]},{\"message\":\"Shake your head.\",\"result\":[\"\"]}]\nJP :\n[{\"message\":\"頷く。\",\"result\":[\"\"]},{\"message\":\"拒否する。\",\"result\":[\"\"]}]"
+  },
+  {
+    "key": "901007-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901007-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901007-desc",
+    "original": "'이것 봐요, 이 나비들 정말 아름답지 않나요?'\n\n'그리고 이 노을빛은 어떻구요!\n계속 이 길을 천천히 걸어보고 싶네요.'\n\n'당신도 잠시 여기서 숨을\n돌리고 쉬어가는 것이 어떤가요?'\n\n노란빛을 띤 무언가가 따스한 말투로 손짓하고 있다.",
+    "context": "EN :\n“Look at those butterflies! Aren’t they just beautiful?”\n\n“And gander at that sunset, too!\nReally makes you want to go for a stroll.”\n\n“Why don’t you stop for a moment\nand take a breather here?”\n\nSomething yellow gestures warmly at you.\nJP :\n「見てください、この蝶。とても美しくないですか？」\n\n「そして、この夕焼けはどうでしょう！\nいつまでもこの道をゆっくりと歩いていたいですね。」\n\n「あなたもしばらくここで一息ついて\n休んで行くのはどうでしょう？」\n\n黄色い何かが暖かい口調で手招きしている。"
+  },
+  {
+    "key": "901007-options",
+    "original": "[{\"message\":\"잠시 쉬어간다\",\"result\":[\"'여기까지 오느라 힘들지는 않았나요?'\\n\\n'이 나비를 보세요.\\n쳐다만 보고 있어도 마음이 따스해진답니다.'\\n\\n그것의 말을 따라\\n흐놀아지는 나비들을 쳐다보았다.\\n마음이 따스하게 퍼지는 것이 느껴진다.\\n\\n'그 아이들이 당신들을 따라가고 싶은 모양이네요!'\\n\\n그 말처럼, 몇몇 나비 무리가\\n자리를 떠도 계속해서 우리를 찾아왔다.\"]},{\"message\":\"무시하고 떠난다.\",\"result\":[\"'아주 바쁘신가 보네요!'\\n\\n그것은 처음과 같이 우리에게 손짓하고 있었다.\\n그것은 잘 가라는 배웅의 표시였을지도 모른다.\\n\\n'기회가 되면 또 봐요!'\"]}]",
+    "context": "EN :\n[{\"message\":\"Take a break.\",\"result\":[\"“Wasn’t it tiring coming all the way here?”\\n\\n“Really, check out those butterflies.\\nJust watching them will warm your heart.”\\n\\nYou looked at the butterflies as the voice suggested.\\nThey indeed fill the heart with a certain warmth.\\n\\n“Looks like some of them want to tag along!”\\n\\nA kaleidoscope of butterflies started following you,\\neven after you left that scenic spot.\"]},{\"message\":\"Ignore it and leave.\",\"result\":[\"“You must be very busy then!”\\n\\nIt made the same gesture as when it first greeted us.\\nPerhaps it was waving goodbye all along.\\n\\n“Another time, I suppose!”\"]}]\nJP :\n[{\"message\":\"ちょっと休んでいく。\",\"result\":[\"「ここまで来るのは、大変ではありませんでしたか？」\\n\\n「この蝶を見てください。\\n眺めているだけで心が暖かくなるのですよ。」\\n\\nそれの言葉に従って\\n黄昏れる蝶々を眺めた。\\n心に暖かいものが広がっていくのを感じる。\\n\\n「その子たち、あなた方に付いて行きたいようですね！」\\n\\nその言葉の通り、いくつかの蝶の群れが\\nその場から離れても、私たちの方へとやってきた。\"]},{\"message\":\"無視して離れる。\",\"result\":[\"「すごく忙しいんですね！」\\n\\nそれは初めて会ったときのように手を振っていた。\\nそれは良い旅をという見送りのしるしだったのかもしれない。\\n\\n「ご縁があれば、またお会いしましょう！」\"]}]"
+  },
+  {
+    "key": "901008-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901008-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901008-desc",
+    "original": "구석구석 못이 박혀 아파하는 곰 인형이다.\n\n못 사이에 잔뜩 번진 핏자국으로\n고통받아온 나날들을 짐작할 수 있다.\n\n눈으로 추정되는 구멍은\n말라붙은 핏자국과 함께 텅 비어버렸다.\n\n그럼에도 불구하고 의무를 다하려는 듯,\n안아 줄 것처럼 팔을 벌리고 서 있다.",
+    "context": "EN :\nA teddy bear suffers from having nails lodged into its body.\n\nThe bloodstains decorating it\nare a telling sign of all the time it spent in pain.\n\nThe holes where its eyes should be are empty.\nNothing but dry red marks remain inside.\n\nIn spite of that, it stands with its arms wide,\nendeavoring to fulfill its duty of giving hugs.\nJP :\n至るところに釘が刺さり、痛がっている熊のぬいぐるみだ。\n\n釘の合間に見えるべっとりと滲んだ血痕から\n苦しんできた日々を想像できそうだ。\n\n目と思わしき穴は、乾いた血痕と共に\nがらんどうになっている。\n\nにもかかわらず義務を果たそうとしているのか、\n抱きしめんばかりに腕を広げて立っている。"
+  },
+  {
+    "key": "901008-options",
+    "original": "[{\"message\":\"못을 뺀다.\",\"result\":[\"\"]},{\"message\":\"반창고를 붙여준다.\",\"result\":[\"반창고를 주머니에서 꺼내\\n가슴의 구멍에 붙였다.\\n\\n피가 천천히 배어 나와 반창고를 적셨다.\\n아직 그 상처가 많이 시려 보인다.\\n\\n한동안은 떨어질 일이 없게,\\n반창고를 여러 개 덧붙였다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Remove the nails.\",\"result\":[\"\"]},{\"message\":\"Bandage its wounds.\",\"result\":[\"You applied bandages\\nto the holes in its chest.\\n\\nBlood leaks and saturates them.\\nThe wound still seems sore.\\n\\nYou gave it some extra dressing,\\nmaking sure that it’ll last a good while.\"]}]\nJP :\n[{\"message\":\"釘を抜く。\",\"result\":[\"\"]},{\"message\":\"絆創膏を貼ってあげる。\",\"result\":[\"絆創膏をポケットから取り出して\\n胸の穴に貼り付けた。\\n\\n血がゆっくり染み出してきて、絆創膏を濡らした。\\nその傷はまだ、かなり痛々しく見える。\\n\\nしばらくは剥がれることがないように、\\n絆創膏をまたいくつか貼り付けた。\"]}]"
+  },
+  {
+    "key": "901009-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901009-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901009-desc",
+    "original": "조용히 촛불이 타들어 가는 곳.\n무언가를 적는 소리만이 공간을 채운다.\n\n거대한 살갗으로 만들어진 책을\n세 눈이 번갈아 가며 뚫어지게 쳐다본다.\n\n무엇을 보고 적는 것인지,\n아니면 생각하고 적는 것인지는\n모르지만 기록은 거침없다.\n\n파멸과 멸망을 열망하며\n써 내려가고 써 내려간다.\n\n어딘가의 예언이 될 수 있는 구절들이 적혀갈 것만 같다.",
+    "context": "EN :\nCandles quietly burn away.\nScribbling sounds are all that fill the air.\n\nA trio of eyes takes turns glaring\ninto a grand tome, bound in skin.\n\nYou can’t tell what it’s referencing,\nor if there is any deliberation in its writing;\nhands are busy nonetheless.\n\nYearning for destruction and doom,\nit writes and writes and writes.\n\nYou feel the passages it’s writing may be prophecies for someplace and sometime.\nJP :\n静かに蝋燭が燃えゆく場所。\n何かを書く音だけが、その空間に満ちている。\n\n巨大な皮膚で作られた本を\n三つの目が交互に、穴が空くほど見つめている。\n\n何を見て書くのか、\nそれとも考えながら書いているのかは\n分からないが、記録は止め処ない。\n\n破滅と滅亡を熱望し\n書き下し、また書き下す。\n\nどこかの予言になり得る文言や節が書かれてしまいそうな気がする。"
+  },
+  {
+    "key": "901009-options",
+    "original": "[{\"message\":\"촛불을 끈다.\",\"result\":[\"주변에 있는 촛불을 하나씩 꺼트렸다.\\n\\n점점 공간은 어두워졌지만,\\n그것의 기록은 멈출 생각이 없어 보였다.\\n\\n남은 불빛은,\\n그것이 쥐고 있던 깃털 펜.\\n\\n그마저도 우리는 앗아가 버렸다.\\n\\n그러더니 아무것도 보이지 않게 되었다.\\n\\n남은 것은,\\n손에 쥔 그 펜뿐.\"]},{\"message\":\"책을 엿본다.\",\"result\":[\"!@)(!@&)&*%(%@!@#*(#)*(%&!@#$\\n\\n@$*@)$ ?\\n@#$!!@#* !\\n@*()!%&$(^!!!!@&(@)\"]}]",
+    "context": "EN :\n[{\"message\":\"Snuff out the candles.\",\"result\":[\"You hushed the candles, one by one.\\n\\nThe space grew darker,\\nbut its hands won’t stop.\\n\\nThe only light left\\nwas on the quill it held.\\n\\nEven that was snuffed by our breaths.\\n\\nThen, the whole place went dark.\\n\\nAll that’s left\\nis the pen in its hand.\"]},{\"message\":\"Peek at the book.\",\"result\":[\"!@)(!@&)&*%(%@!@#*(#)*(%&!@#$\\n\\n@$*@)$ ?\\n@#$!!@#* !\\n@*()!%&$(^!!!!@&(@)\"]}]\nJP :\n[{\"message\":\"蝋燭を消す。\",\"result\":[\"周りにある蝋燭を一つずつ吹き消した。\\n\\n段々と空間は暗くなったが、\\nそれの記録が止まりそうな気配は無かった。\\n\\n残った光は、\\nそれが握っていた羽毛ペン。\\n\\nそれすらも私たちは奪ってしまった。\\n\\nすると何も見えなくなってしまった。\\n\\n残ったのは、\\n手に持ったあのペンのみ。\"]},{\"message\":\"本を覗き見る。\",\"result\":[\"!@)(!@&)&*%(%@!@#*(#)*(%&!@#$\\n\\n@$*@)$ ?\\n@#$!!@#* !\\n@*()!%&$(^!!!!@&(@)\"]}]"
+  },
+  {
+    "key": "901010-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901010-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901010-desc",
+    "original": "붉은 방안에 종소리가 이따금씩 울려 퍼진다.\n그 소리는 낮고 가라앉는 울림이다.\n\n불상은 무언가를 외고 있다.\n무엇을 읊고 있는지는 알아듣지 못한다.\n\n하지만 기쁨이 아닌 것을\n중얼거리고 있음을 알 것만 같다.\n\n불상의 손가락은 놋쇠로 된 고리를 쥐고 있다.",
+    "context": "EN :\nA bell occasionally tolls in the red room.\nIt’s a heavy, subduing sound.\n\nThe statue is chanting something.\nYou’re unable to recognize its words.\n\nBut, you feel that whatever it is,\nis not a joyous thing.\n\nThere’s a brass ring on the statue’s finger.\nJP :\n赤い部屋の中で鐘の音が時折鳴り響く。\nその音は低く、沈むような響きだ。\n\n仏像は何かを唱えている。\n何を呟いているのかは聞き取れない。\n\nでも歓びではないものを\n呟いているのは確かな気がする。\n\n仏像の指には真鍮の輪が嵌められている。"
+  },
+  {
+    "key": "901010-options",
+    "original": "[{\"message\":\"귀를 기울인다\",\"result\":[\"눈을 감고 소리에 집중한다.\\n무엇을 말하고 있는 것일까.\\n\\n이것이 말하는 것은 생각이다.\\n\\n생각을 말로 토해냄으로 자신을 비운다.\\n그 무엇도 자신에 남아있지 않도록.\\n\\n그것이 불상이 찾아낸 자신을 잊는 방법이다.\\n\\n어느새 나 또한 사라져간다.\",\"눈을 감고 소리에 집중한다.\\n무엇을 말하고 있는지에 더욱 집중한다.\\n\\n이것은 스스로의 생각을 설법한다.\\n\\n생각을 말해내는 것으로 자신을 비워내려 한다.\\n\\n그렇다면 나는 그것을 주워섬긴다.\\n\\n비워낸 것을 받아들여, 채워나간다.\\n\\n그것은 자신을 잊었으나, 나는 자신을 자각한다.\"]},{\"message\":\"놋쇠반지를 집는다\",\"result\":[\"\"]}]",
+    "context": "EN :\n[{\"message\":\"Listen closer.\",\"result\":[\"You close your eyes and focus on the sound.\\nWhat is it saying?\\n\\nThis thing is uttering thoughts.\\n\\nEmpty oneself by verbalizing one’s thoughts.\\nExpel everything within so that nothing remains.\\n\\nThat is the statue’s way of forgetting the self.\\n\\nYou sense yourself disappearing as well.\",\"You close your eyes and focus on the sound.\\nYou are able to pay closer attention to what it is saying.\\n\\nIt is uttering its thoughts in the form of a mantra.\\n\\nIt is emptying itself by verbalizing its thoughts.\\n\\nIn that case, you will absorb its teachings.\\n\\nFill yourself with the sermon it has gouged out.\\n\\nWhile it has forgotten itself, you gain a clearer sense of self.\"]},{\"message\":\"Take the brass ring.\",\"result\":[\"\"]}]\nJP :\n[{\"message\":\"耳を傾ける\",\"result\":[\"目を閉じて音に集中する。\\n何を言っているのだろうか。\\n\\nこれが話していることは考えである。\\n\\n考えを言葉で吐き出すことで自分を空にする。\\nいかなるものも自分へ残らないように。\\n\\nそれが仏像の見つけた自分を忘れる方法だ。\\n\\nいつしか私もまた、消えていく。\",\"目を閉じて音に集中する。\\n何を言っているかに一層集中する。\\n\\nこれは自らの考えを説法する。\\n\\n考えを話すことで自分を空にしようとする。\\n\\nそれなら私はそれを並べ立てる。\\n\\n空にしたものを受け容れ、満たしていく。\\n\\nそれは自分を忘れたが、私は自身を自覚する。\"]},{\"message\":\"真鍮の指輪を摘まむ。\",\"result\":[\"\"]}]"
+  },
+  {
+    "key": "901011-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901011-subDesc",
+    "original": "놋쇠반지를 집는다",
+    "context": "EN :\nTake the brass ring.\nJP :\n真鍮の指輪を摘まむ。"
+  },
+  {
+    "key": "901011-desc",
+    "original": "쓰레기장 골목길.\n비가 그친지 얼마 안 되어 꿉꿉하고 불쾌하다.\n\n그 골목에는 낡고 찢겨진 우산들이 모여있다.\n\n우산들이 들썩인다.\n자세히보니, 우산 속에 덩치가 큰 여우가 있다.\n\n우산은 여우의 등에 녹슨 쇠를 뿌리내렸다.",
+    "context": "EN :\nAn alleyway garbage dump.\nIts atmosphere is stuffy and unpleasant thanks to the humidity from the rain.\n\nA pile of old and torn umbrellas sits in a corner.\n\nThe umbrellas jiggled.\nLooking closer, there’s a large fox underneath.\n\nThe umbrellas’ rusted iron blades have firmly rooted themselves in its back.\nJP :\nゴミ捨て場の路地\n雨上がりからそう経っていないのでじめじめして不快だ。\n\nその路地には、古くて破れた傘が集まっている。\n\n傘々が揺れる。\nよく見ると、傘の中に大柄なキツネがいる。\n\n傘はキツネの背中に錆びた鉄を根付かせた。"
+  },
+  {
+    "key": "901011-options",
+    "original": "[{\"message\":\"우산을 뽑는다.\",\"result\":[\"등에 뿌리내린 우산이 여우를 아프게 하는 것 같다.\\n\\n힘을 주어 뽑으니, 여우의 살갗이 함께 딸려 나왔다.\\n\\n여우는 날카로운 음성과 함께 우리를 노려보았다.\\n\\n그러고서는 입에 물고 있는 우산으로 힘껏 후려쳤다.\\n\\n이해보다 해결을 추구하는 마음을 끊어내듯.\"]},{\"message\":\"쓰다듬는다.\",\"result\":[]}]",
+    "context": "EN :\n[{\"message\":\"Pull out the umbrellas.\",\"result\":[\"Those umbrellas seem to be causing it pain.\\n\\nWhen you pull them out with force, bits of its flesh come off with them.\\n\\nThe fox yelped sharply and gave us a glare.\\n\\nThen, it smacked you with the umbrella in its mouth.\\n\\nIt seemed to reprimand your attitude of pursuing resolution without forethought.\"]},{\"message\":\"Pet the fox.\",\"result\":[]}]\nJP :\n[{\"message\":\"傘を抜く。\",\"result\":[\"背中に根付いた傘がキツネを傷付けているようだ。\\n\\n力を入れて抜くと、キツネの皮膚が一緒に剥がれた。\\n\\nキツネは鋭い声と共に私たちを睨み付けた。\\n\\nそうして、口に咥えた傘で力いっぱい殴った。\\n\\n理解より、解決を追い求める心を断ち切るように。\"]},{\"message\":\"撫でる。\",\"result\":[]}]"
+  },
+  {
+    "key": "901013-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901013-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901013-desc",
+    "original": "조용히 타들어 가는 촛불 소리가 들린다.\n좁고 답답한 이 방안에 나무 인형 하나가 서 있다.\n\n이 방을 가득 채운 부적은 소원의 부적일까.\n\n나무 인형이 바라는 것이 있는 것일까.",
+    "context": "EN :\nYou hear the quiet flickering of candles.\nIn this cramped room, you find a wooden doll, standing.\n\nAre the talismans filling the room for a wish?\n\nDoes this wooden doll wish for anything?\nJP :\n静かに燃えていく蝋燭の音が聞こえる。\n狭くて息苦しいこの部屋に、木の人形が一つ立っている。\n\nこの部屋にびっしり貼られたお守りは、願いのお守りだろうか。\n\n木の人形に、望みがあるのだろうか。"
+  },
+  {
+    "key": "901013-options",
+    "original": "[{\"message\":\"인형에 붙어있는 부적을 뗀다.\",\"result\":[\"부적을 떼자 나무 인형이 무릎을 꿇었다.\\n\\n부적을 가져가지 말아 달라는 간청일까,\\n아니면 고맙다는 감사의 표현일까.\\n\\n지금은 알지 못할 사실이다.\"]},{\"message\":\"방에 붙어있는 부적을 뗀다.\"}]",
+    "context": "EN :\n[{\"message\":\"Remove the doll’s talismans.\",\"result\":[\"After you removed them, the doll knelt.\\n\\nIs it begging you not to take it,\\nor is it a gesture of gratitude?\\n\\nYou won’t know for now.\"]},{\"message\":\"Remove the wall talismans.\"}]\nJP :\n[{\"message\":\"人形に付いているお守りを剥がす。\",\"result\":[\"お守りを外すと木の人形が膝を突いた。\\n\\nお守りを持って行かないで欲しいという懇願だろうか、\\nそれともありがとうという感謝の表現だろうか。\\n\\n今となっては分からない。\"]},{\"message\":\"部屋に付いているお守りを剥がす。\"}]"
+  },
+  {
+    "key": "90101302-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90101302-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90101302-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90101302-options",
+    "original": "[{\"message\":\"계속 떼어낸다.\",\"result\":[\"무언가에 홀린 듯 방에 있는\\n부적들을 떼어내기 시작했다.\\n\\n그러자 꺼져있던 촛불에\\n하나씩 불이 옮겨붙었고,\\n\\n좁은 방 안은 이미 새하얄\\n정도로 밝은 방이 되어버렸다.\\n\\n그 가운데에, 나무 인형은\\n자유로워진 모양새가 되어 있었다.\\n\\n그것은 뚜벅뚜벅 걸어오더니,\\n손을 내밀어 무언가를 쥐어주었다.\"]},{\"message\":\"그만둔다.\",\"result\":[\"아무 일도 일어나지 않았다.\\n인형은 그저 그곳에서 삐걱거릴 뿐이다.\\n\\n손에 쥔 부적은 어느새 끈적한\\n피가 되어 손가락 사이로 흘러내렸다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Continue.\",\"result\":[\"You followed the urge\\nto remove every talisman from the room.\\n\\nAs you did, the candles lit up one by one…\\n\\nUntil the room was filled\\nwith a pale brightness.\\n\\nThe wooden doll at the center\\nseemed to be liberated from a binding force.\\n\\nIt walked to you,\\noffering an object.\"]},{\"message\":\"Stop.\",\"result\":[\"Nothing happened.\\nThe doll would simply stand there, producing small noises.\\n\\nThe talismans in hand have turned into sticky blood,\\nslipping between your fingers.\"]}]\nJP :\n[{\"message\":\"剥がし続ける。\",\"result\":[\"取り憑かれたかのように\\n部屋のお守りを剥がし始めた。\\n\\nすると消えていた蝋燭に\\n一つずつ火が点り始め、\\n\\n狭い部屋の中が真っ白になってしまうほどに\\n明るい部屋になってしまった。\\n\\nその中心で、木の人形は\\n自由になったようだった。\\n\\nそれはとくとくと歩いてきて、\\n手を差し出し、何かを握らてきた。\"]},{\"message\":\"やめる。\",\"result\":[\"何も起こらなかった。\\n人形はただそこで軋む音を出すのみ。\\n\\n手に持ったお守りはいつしか粘つく\\n血となって指の間を流れ落ちた。\"]}]"
+  },
+  {
+    "key": "901014-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901014-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901014-desc",
+    "original": "고통 소리가 뜨거운 열기 속에서 울려 퍼진다.\n짐승의 소리인지 사람의 소리인지 구분하기 힘들다.\n\n지글거리며 타는 소리와 살이 타는\n냄새가 공간 속에 스며든다.\n\n'제발! 물 한 모금이라도,\n누가 물 한 모금이라도 나에게 줘!'",
+    "context": "EN :\nA pained moan echoes across the heat.\nIt’s hard to tell if it comes from a beast or a human.\n\nA sizzle spreads into the air\nalong with the smell of burning flesh.\n\n“Please! I need water!\nWon’t someone give me water to drink?”\nJP :\n苦痛の音が、熱気の中で響き渡る。\n獣の声なのか、人の声なのか区別が付かない。\n\nジリジリと燃える音と肌の焼ける\n臭いが空間に染み渡る。\n\n「どうか！水を一口だけでも、\n誰か水を一口だけでもちょうだい！」"
+  },
+  {
+    "key": "901014-options",
+    "original": "[{\"message\":\"물을 준다.\",\"result\":[\"물을 입 안으로 흘려 넣자,\\n곧바로 속에서 수증기가 터져 나온다.\\n\\n달궈진 몸은 물 한 모금조차 허락하지 않는다.\\n\\n물이 끓어 터진 괴로움 때문인지,\\n갈증을 달래지 못한 아쉬움 때문인지 모르겠지만,\\n황소는 날뛰며 여기저기 몸을 부딪친다.\\n\\n그리고 우리에게도 달려들어 달궈진 몸통을 부딪친다.\"]},{\"message\":\"물을 주지 않는다.\",\"result\":[\"몸을 치켜들고 싶지만 치켜들 수 없는 몸으로\\n황소는 땅 가운데에서 크게 울부짖는다.\\n\\n그 소리가 너무 고통스러워 문득 울고만 싶어진다.\\n\\n깊고 깊은 울음이 내내 허공을 맴돌았다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Give water.\",\"result\":[\"You pour some water into the mouth,\\nonly for it to immediately burst into steam.\\n\\nIts scorching body won’t allow a single drop in.\\n\\nWhether from the pain inflicted by scalds,\\nor the frustration of unquenched thirst,\\nthe bull is thrown into a rampage, ramming into walls.\\n\\nWe are not spared from its wrathful charge.\"]},{\"message\":\"Don’t give water.\",\"result\":[\"Unable to even lift its body,\\nthe bull lets out a great bellow.\\n\\nIt is a sorrowful wail that brings a tear to your eye.\\n\\nA deep, mournful cry rang through the air for a long time.\"]}]\nJP :\n[{\"message\":\"水を与える。\",\"result\":[\"水を口の中に流し込むと\\nすぐに中から水蒸気が噴き出す。\\n\\n熱された体は、水を一口飲むことすら許さない。\\n\\n水が沸騰してしまった苦しさのせいか、\\n渇きを癒せなかった口惜しさのせいかは分からないが、\\n牡牛は暴れ回りながら、あちこちに体をぶつける。\\n\\nそして私たちにも飛びかかり、熱された体をぶつける。\"]},{\"message\":\"水をあげない。\",\"result\":[\"持ち上げようとも、持ち上がらない図体の雄牛は\\n地面の真ん中で、大声を出して泣き叫ぶ。\\n\\nその音があまりにも苦しそうで、何だか泣いてしまいたくなる。\\n\\n深い深い泣き声が、ずっと宙に浮かんでいた。\"]}]"
+  },
+  {
+    "key": "901016-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901016-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901016-desc",
+    "original": "향기와 악취가 뒤섞인 동굴이다.\n\n'오랜만의 손님이군! 뭐라도 대접해야 할 텐데.'\n\n'여기서 먹을 수 있는 건 다 먹어버린 것 같아서 말이지.'\n\n'보다시피, 남은 건 손에 든 요정주 한잔이야.'\n\n'요정주라도 한잔할래?'\n\n두툼하고 끈적한 손이 이쪽을 향한다.",
+    "context": "EN :\nThe cavern is full of smells, good and bad.\n\n“Been a while since I had visitors! I oughta give you a right treat.”\n\n“Plum outta luck for eatery, I’ve already had all the food.”\n\n“Straight as you can see, this glass o’ fairy wine is all I have.”\n\n“Would ya care for a drink?”\n\nA thick, slimy hand makes its offer.\nJP :\n香りと悪臭が入り混じった洞窟だ。\n\n「久しぶりのお客様だ！何かしらもてなさないとな。」\n\n「ここで食べられるのは、 全部食べちゃった気がするんだけど。」\n\n「ご覧の通り、残ったのは手持ちの妖精酒一杯だよ。」\n\n「妖精酒でも一杯やるか？」\n\n厚ぼったくて粘っこい手がこちらへと伸びてくる。"
+  },
+  {
+    "key": "901016-options",
+    "original": "[{\"message\":\"고개를 끄덕인다.\",\"result\":[\"역겨운 냄새가 가득한 잔이다.\\n곰팡내 가득한 신발에 꽃향기 탈취제를\\n뿌려 새로 생겨나는 냄새와 같다.\\n\\n잔에 담긴 액체에는 요정들의 팔다리가 떠 있다.\\n\\n'양껏 들게!'\"]},{\"message\":\"고개를 젓는다.\",\"result\":[\"호의였을지 모르는 제안을 거절한다.\\n\\n'그래? 사양하진 않아도 되는데.'\\n\\n초록빛 덩어리는 다시 물어볼 필요는 없다는 듯\\n잔에 든 내용물을 입에 털어 넣었다.\\n\\n'그냥 보내긴 그러니,\\n이 잔이라도 가져가는 건 어때?'\\n\\n잔을 받아보니,\\n안에는 아직도 초록빛 물체가 차 있었다.\\n\\n무얼 마신 건지 도저히 알 수가 없다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Nod.\",\"result\":[\"The glass smells awful.\\nIt stinks like a moldy shoe\\nsprayed with some flowery air freshener.\\n\\nThe limbs of fairies float in the liquid.\\n\\n“Help yourself!”\"]},{\"message\":\"Shake your head.\",\"result\":[\"You turn down the possibly cordial offer.\\n\\n“Really now? No need to hold back.”\\n\\nThe green blob swallowed down the contents in one gulp,\\nnot bothering to ask you twice.\\n\\n“Well, can’t have a visitor leave empty-handed.\\nWhy don’tcha take this glass at the very least?”\\n\\nLooking into it,\\nyou still find the green substance inside.\\n\\nThere’s no way at all to tell what it drank.\"]}]\nJP :\n[{\"message\":\"頷く。\",\"result\":[\"嫌な臭いでいっぱいの杯だ。\\nカビ臭さでいっぱいの靴に花の香りの消臭剤を\\n撒いて生まれたかのような匂いがする。\\n\\n杯に入った液体には、妖精たちの手足が浮かんでいる。\\n\\n「ほら、ぐいっと！」\"]},{\"message\":\"首を横に振る。\",\"result\":[\"厚意の上で聞いてきたかもしれない提案を断った。\\n\\n「そうか？遠慮しなくてもいいのに。」\\n\\n緑色の塊は聞き直さなくても良いだろうという風に\\n杯に入った中身を口に注ぎ込んだ。\\n\\n「そのまま見送るのもはあれだし、\\nこの杯だけでも持っていくのはどうだ？」\\n\\n杯を受け取ると、\\n中にはまだ緑色の物体で満たされていた。\\n\\n何を飲んだのか、到底理解が及ばなかった。\"]}]"
+  },
+  {
+    "key": "90101601-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90101601-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90101601-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90101601-options",
+    "original": "[{\"message\":\"모두와 나누어 마신다\",\"result\":[\"한 잔이라고 해도 꽤 커다란 잔이다.\\n\\n모두와 함께 나누어 마실까 싶어,\\n천천히 나누어 마셨다.\\n\\n기분 나쁜 촉감이 목구멍을 괴롭혔지만,\\n생각보다 맛은 좋았다.\"]},{\"message\":\"한명이 전부 마신다.\",\"result\":[\"목이 마른 자가 모두 마시게 했다.\\n\\n생각보다 맛은 좋았다고 하지만,\\n계속해서 헛구역질을 하고 있다.\\n\\n기분 나쁜 촉감이 목에 남아있다는 듯하다.\\n종종 씹히는 작은 요정의 몸체가 비릿하다고도 한다.\\n\\n갈증은 해소된 듯하지만,\\n무언가 다른 문제가 생긴 것 같기도 하다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Share it with everyone.\",\"result\":[\"The glass is rather large for just one person.\\n\\nYou decide to share it with everyone,\\nand slowly sip your portion.\\n\\nAn unpleasant texture tingled your throat,\\nbut it was surprisingly tasty otherwise.\"]},{\"message\":\"Let one person drink it all.\",\"result\":[\"You had the thirstiest one drink it all.\\n\\nIt apparently tastes pretty good,\\nbut they kept heaving.\\n\\nThere’s an odd, bothering feeling in their throat.\\nThey also complained that the bits of fairy flesh are bitter.\\n\\nTheir thirst was quenched,\\nbut it might have only been replaced with another problem.\"]}]\nJP :\n[{\"message\":\"皆で分けて飲む。\",\"result\":[\"一杯とはいえ、かなり大きな杯だ。\\n\\nみんなで分けて飲もうと思い、\\nゆっくりとちびちび回し飲みした。\\n\\n気持ち悪い喉越しが食道を苦しめたが、\\n思っていたより味は良かった。\"]},{\"message\":\"一人で全部飲む。\",\"result\":[\"喉の渇いた人に全部飲ませた。\\n\\n思ったより味は良かったとのことだが、\\n吐き気を催し続けている。\\n\\n気持ち悪い感覚が喉に残っているようだ。\\nそれに、時折歯に当たる小さな妖精の身体が生臭いらしい。\\n\\n渇きは解消されたようだが、\\n何か別の問題が生じたような気もする。\"]}]"
+  },
+  {
+    "key": "901017-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901017-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901017-desc",
+    "original": "옳고 그름을 기록한다.\n그분이 내린 옳고 그름을, 그것은 기록한다.\n\n그저 기록할 뿐, 판단하지 않는다.\n판단은 보좌의 일이 아니기 때문일 것이다.\n\n보좌는 침묵과 함께 에메랄드빛 석판을 건넸다.",
+    "context": "EN :\nIt records right and wrong.\nIts job is to record the judgement of the one above.\n\nIt does not assess what it writes.\nTo lay down judgement is not a secretary’s role.\n\nThe scribe silently presented an emerald tablet.\nJP :\n正邪を記録する。\n彼の者が下した正邪を、それは記録する。\n\nただ記録するだけで、判断はしない。\n判断は補佐の仕事ではないからだろう。\n\n補佐官は沈黙と共に、エメラルド色の石板を渡してきた。"
+  },
+  {
+    "key": "901017-options",
+    "original": "[{\"message\":\"석판을 읽는다.\"},{\"message\":\"석판의 글자를 지운다.\",\"result\":[\"날카로운 물건을 꺼내 글자를 긁어냈다.\\n그것은 그저 가만히 서 있을 뿐이다.\\n\\n그것이 당신의 판단이라면 그 또한 옳을 것이라는 듯.\\n\\n어느 순간 석판은 파삭거리며\\n부러지더니, 흙처럼 흩어졌다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Read the tablet.\"},{\"message\":\"Scrape out the letters.\",\"result\":[\"You use a sharp implement to scrape out the letters.\\nIt stood still, giving no response.\\n\\nIt seems to accept your judgement as valid.\\n\\nAt one point, the tablet began to break,\\nand eventually crumbled into dust.\"]}]\nJP :\n[{\"message\":\"石版を読む。\"},{\"message\":\"石版の文字を消す。\",\"result\":[\"鋭い物を取り出して、字を引っ掻いた。\\nそれはただ、じっと立っていた。\\n\\nそれがあなたの判断なら、それもまた正しいことだろうと。\\n\\nいつしか石板は、パサパサと音を立てながら\\n折れると、土のようにばらけていった。\"]}]"
+  },
+  {
+    "key": "901018-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901018-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901018-desc",
+    "original": "이 표지판은 무엇을 가리키는 걸까.\n자신을 나무에 동여매어 무언가를 알리고 있다.\n\n절박하게 알리는 그 모습은 애처롭기까지 하다.",
+    "context": "EN :\nWhat does this signboard say?\nIt hangs itself on a tree, trying to make its content known.\n\nIts desperation is almost pitiable.\nJP :\nこの表示板は何を指し示しているのだろうか。\n自分を木に縛り付けながら何かを知らせている。\n\n切実に知らせようとするその姿に、哀みさえ感じる。"
+  },
+  {
+    "key": "901018-options",
+    "original": "[{\"message\":\"장미를 딴다\"},{\"message\":\"가시덩굴을 풀어낸다.\",\"result\":[\"덩굴을 풀어내려 할 때마다\\n누런 살점이 투둑투둑 떨어진다.\\n\\n몸을 조이고 상처를 내 고통을 주는 줄 알았던 덩굴은\\n아이러니하게도 형체를 잃지 않도록 도와주고 있다.\\n\\n살점을 잃어만 가는 모습에 몸부림치는 몸통은\\n주변에 널린 꽃송이들로 비명을 지른다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Pick a rose.\"},{\"message\":\"Unravel the brambles.\",\"result\":[\"As you try to untangle the vines,\\nsallow bits of flesh fall off.\\n\\nThe thorny brambles you thought were a source of constricting pain\\nironically had been keeping the body together.\\n\\nThe body writhes as its flesh falls apart.\\nBlossoms of flowers sprawled on the ground substitute its screams.\"]}]\nJP :\n[{\"message\":\"薔薇を手折る。\"},{\"message\":\"茨を解く。\",\"result\":[\"茨を解こうとするたびに\\n黄色い肉がぼとぼと落ちる。\\n\\n身体を締め付けて傷をつけ、苦痛を与えるとばかり思っていた茨は\\n皮肉にも、形を保とうと支え合っている。\\n\\n肉を失うばかりの、もがく胴体は\\n周りに散らばった花より悲鳴をあげる。\"]}]"
+  },
+  {
+    "key": "901019-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901019-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901019-desc",
+    "original": "소금 내와 악취가 섞인 황량한 갯벌이다.\n그나마 남아있는 옥빛 바닷물은\n이미 무엇도 품고 있는 것 같지 않다.\n\n눈앞에 거대한 조개가 걸어가고 있다.\n조개가 걸을 때마다 악취가 뒤섞인 녹색 오물을 뿌린다.\n\n더러운 것을 조개가 머금은 걸까,\n조개한테서 더러운 것들이 나오고 있는 걸까.",
+    "context": "EN :\nThe barren mudflat reeks of salt and rot.\nWhat little jade-colored seawater is left there\ndoesn’t seem to have anything inside.\n\nA giant clam walks before you.\nWith each step it takes, it sprays a fetid green muck.\n\nIs the clam the source of the contamination,\nor is it working to contain the filth?\nJP :\n塩の匂いと悪臭の混じった、荒れ果てている干潟だ。\nかろうじて残っている翡翠色の海水は、\nもはや何かがいるような気配がしなかった。\n\n目の前で巨大な貝が歩いている。\n貝は歩くたび、悪臭の入り混じった緑色の汚物を撒く。\n\n汚物を貝が取り込んだのか、\nそれとも貝から汚物が出ているのだろうか。"
+  },
+  {
+    "key": "901019-options",
+    "original": "[{\"message\":\"녹색물질을 담는다.\"},{\"message\":\"다가간다.\",\"result\":[\"녹색 오물을 헤치고 다가간다.\\n\\n오물이 가득한 벌에 발이\\n잠길 때마다 끔찍한 고통이 따라온다.\\n\\n더 이상 앞으로 나아갈 수 없다.\\n\\n걷기 힘든 장소인 것도 이유이지만,\\n더 걷다간 다리가 녹아내릴 것만 같았다.\\n\\n잠시 그렇게 망설였던 순간,\\n그것은 순식간에 다른 곳으로 이동해 버렸다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Sample the green substance.\"},{\"message\":\"Approach it.\",\"result\":[\"You wade through the virescence.\\n\\nWith each step, the foul mud\\nbrings terrible pain to one’s feet.\\n\\nYou can no longer move forward.\\n\\nBesides struggling to wade through,\\nyou worry that your legs might slough off if you go farther.\\n\\nWhile you were hesitating,\\nthe clam walked off into the distance.\"]}]\nJP :\n[{\"message\":\"緑色の物質を掬う。\"},{\"message\":\"近寄る。\",\"result\":[\"緑色の汚物をかき分けて近づく。\\n\\n汚物だらけの潟に足が\\n沈む度、酷い苦痛が伴う。\\n\\nこれ以上前には進めない。\\n\\n歩きにくい場所だということも理由だが、\\nこれ以上歩けば足が溶けてしまいそうだ。\\n\\nそんなことをちょっと迷っていると、\\nそれはあっという間に別の場所に移動してしまった。\"]}]"
+  },
+  {
+    "key": "901020-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901020-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901020-desc",
+    "original": "하얗지만 어두운 꽃들의 밭이 펼쳐져 있다.\n이곳의 하늘은 붉고 바람은 스산하다.\n\n꽃밭 한가운데에서 거대한 꽃 하나가 하늘하늘 움직인다.\n\n마치 멀리서 누군가 손짓하는 것만 같다.",
+    "context": "EN :\nA field of white, yet somehow dark flowers is ahead.\nThe sky is red, the air windy and bleak.\n\nOne giant flower flutters amidst the field.\n\nIt resembles a person waving from afar.\nJP :\n白いけど、暗い花々の畑が広がっている。\nここの空は赤く、冷たい風が吹きすさんでいる。\n\n花畑の真ん中で、巨大な花がゆらゆら動く。\n\nまるで遠くから、誰かが手招きしているようだ。"
+  },
+  {
+    "key": "901020-options",
+    "original": "[{\"message\":\"다가간다.\"},{\"message\":\"나도 손짓 한다.\",\"result\":[\"그리운 마음에 멀리서 손을 흔든다.\\n\\n모든 꽃이 순식간에\\n붉게 물들며 이쪽으로 고개를 돌렸다.\\n\\n우리를 바라보는 것만 같던\\n붉은 꽃잎은, 이윽고 우리를 덮쳤다.\\n\\n마치 어중간한 마음으로 나에게 손을 내밀지 말라는 듯이.\"]}]",
+    "context": "EN :\n[{\"message\":\"Approach it.\"},{\"message\":\"Wave back.\",\"result\":[\"You wave out of nostalgia.\\n\\nIn an instant, all the flowers went awash with red,\\nsimultaneously turning to face you.\\n\\nAfter staring into us for a little while,\\ntheir red petals flew at us.\\n\\nIt was like a punishment for making a half-hearted gesture.\"]}]\nJP :\n[{\"message\":\"近寄る。\"},{\"message\":\"手を振り返す。\",\"result\":[\"懐かしさを感じて、遠くから手を振った。\\n\\nての花が瞬く間に\\n赤く染まり、こちらへ首を向けた。\\n\\n私たちを眺めているかのように思えた\\n赤い花びらが、まもなく私たちに襲いかかった。\\n\\nまるで、中途半端な気持ちで私に手を差し伸べるなという風に。\"]}]"
+  },
+  {
+    "key": "901021-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901021-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901021-desc",
+    "original": "차원의 틈에 사고로 낙오된 불쌍한 승객이 보인다.\n대부분은 이 승객이 사라졌다는 것조차 알기 힘들 것이다.\n\n적어도 운송 회사는 알겠지만,\n그런 승객은 애초에 없었던 것과 같이 감춘다.\n\n그렇게 승객은 단순히 길을 잃은 것만이 아닌,\n도시에서 존재를 잃은 무엇도 아닌 폐기물이 된다.",
+    "context": "EN :\nYou see a poor passenger, stranded between dimensions.\nMost will never realize that this person ever disappeared.\n\nWell, the transport company would know,\nbut they’ll simply pretend that the passenger never existed.\n\nLost and abandoned, tossed out like trash,\nhaving no place left in the City.\nJP :\n次元の狭間に事故で落ちた哀れな乗客が見える。\nこの乗客がいなくなったことさえ大体の人は気付かないだろう。\n\n少なくとも運送会社は知っているだろうが、\nそのような乗客はそもそもいなかったという風に隠す。\n\nそうして乗客は単に道に迷っただけでなく、\n都市で存在を失った何物でも無い廃棄物になる。"
+  },
+  {
+    "key": "901021-options",
+    "original": "[{\"message\":\"가야할 방향을 손으로 알려준다.\"},{\"message\":\"가만히 서 있는다.\",\"result\":[\"그것은 멀뚱멀뚱 이곳을 바라보았다.\\n\\n그리고는 깨달았다는 듯, 천천히 다가왔다.\\n\\n다가오자 알 수 있었던 것은, 그것이 승객이\\n아니라 운송회사의 직원이었다는 것이었다.\\n\\n가슴께에 매달린 사원증을 보면 알 수 있었다.\\n\\n즉, 사원이었던 그것은\\n원래 하던 일을 해야 한다는 생각으로 다가오고 있다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Point the direction it should go.\"},{\"message\":\"Stand still.\",\"result\":[\"It idly stared in our direction.\\n\\nThen, it began shambling for us, realizing something.\\n\\nAs it drew closer, you were able to identify\\nthat the being was a company employee, not a passenger.\\n\\nThe ID card on its chest gave it away.\\n\\nThis stranded employee was approaching us,\\npreparing to go through the motions.\"]}]\nJP :\n[{\"message\":\"進むべき方向を指し示す。\"},{\"message\":\"じっと立っている。\",\"result\":[\"それはぼんやりとこちらを眺めた。\\n\\nそれから悟ったかのように、ゆっくりと近づいてきた。\\n\\n近づくと分かったのは、それが乗客ではなく\\n運送会社の職員だったということ。\\n\\n胸元にぶら下がっている社員証を見れば分かる。\\n\\nつまり、社員であったそれは\\n本来の仕事をこなすべきだという考えで近付いてきている。\"]}]"
+  },
+  {
+    "key": "901022-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901022-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901022-desc",
+    "original": "때때로 마음은 길을 잃는다.\n\n그런 마음들은 어디로 가는 걸까.\n\n그런 곳이 실존한다면,\n아마도 이런 곳일 것이다.\n\n사람 모양을 한 텅 빈 석상에,\n마음은 자리를 잡았다.\n\n그리고 무엇이라도 움켜쥐려 팔을 뻗는다.",
+    "context": "EN :\nSometimes, the mind wanders.\n\nWhere does such a mind end up?\n\nIf it had a physical destination,\nthen it must look like this.\n\nAn empty, humanlike statue\nis where that mind would decide to settle.\n\nNow, it extends its arms, trying to grab at anything.\nJP :\n時に心は道に迷う。\n\nそんな心はどこへ行くのだろうか。\n\nそんな場所が実在するなら、\nおそらくこんな場所なんだろう。\n\n人の形をした、がらんどうの石像に\n心は落ちついていた。\n\nそして何かしら掴もうと、腕を伸ばす。"
+  },
+  {
+    "key": "901022-options",
+    "original": "[{\"message\":\"팔을 뻗어 손을 잡는다.\",\"result\":[\"그것이 뻗어대는 손을 잡았다.\\n하지만 잡히지 않았다.\\n\\n그것은 존재해선 안 되는 것이 보이는 것처럼,\\n마치 허상과 같았다.\\n\\n그것도 그 사실을 깨달은 듯,\\n뻗어 대던 팔을 거두더니...\\n\\n그대로 스스로 부서져,\\n자그마한 조각상으로 변했다.\"]},{\"message\":\"거절한다.\"}]",
+    "context": "EN :\n[{\"message\":\"Reach out to grab its hand.\",\"result\":[\"You tried to hold its hand,\\nbut you couldn’t touch it.\\n\\nIt was an illusion—something that shouldn’t be—made visible.\\n\\nIt retracted its arm,\\nas if it understood as well…\\n\\nThen, it broke itself,\\nturning into a small statue.\"]},{\"message\":\"Refuse it.\"}]\nJP :\n[{\"message\":\"腕を伸ばして手を掴む。\",\"result\":[\"それが伸ばす手を掴んだ。\\nしかし、掴めやしなかった。\\n\\nそれは存在してはならないものが見えるように、\\nさながら虚像のようだった。\\n\\nそれもその事実を悟ったようで、\\n伸ばしていた腕を引っ込めると…\\n\\nそのまま自ら壊れ、\\n小さな彫像へと変わった。\"]},{\"message\":\"拒否する。\"}]"
+  },
+  {
+    "key": "901023-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901023-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901023-desc",
+    "original": "황야 가운데 원념이 서린 나무 한 그루가 놓여있다.\n\n불쾌한 기운이 뒤섞인 공간.\n하늘조차 어수선한 모습이다.\n\n마치, 팔처럼 뻗어진 듯 한 가지가 인상적이다.\n\n나무는 아무런 움직임이 없지만, 무언가를 원하는 듯하다.",
+    "context": "EN :\nA resentful tree stands among a desolate plain.\n\nThe place has an air of umbrage.\nSomething feels discordant about the sky.\n\nYou note one twig growing out of the tree like an arm.\n\nThough the tree is unmoving, it seems to want something.\nJP :\n荒野の中に怨念のこもった木が一本生えている。\n\n不快な空気の入り交じった空間\n空さえ落ち着かない様子だ。\n\nまるで、腕のように伸びた一本の枝が印象的だ。\n\n木には何の動きもないが、何かを望んでいるようだ。"
+  },
+  {
+    "key": "901023-options",
+    "original": "[{\"message\":\"물을 뿌린다.\",\"result\":[\"나무의 주위에 물을 조금 뿌렸다.\\n\\n마치 뜨거운 철판 위에 물을 뿌리듯,\\n물은 끓듯이 사라졌다.\\n\\n하지만, 무언가 바뀐 점은 보이지 않는 듯하다.\\n\\n가지가 조금 생기가 돋았을까?\\n하지만 그렇게 변하지는 않은 것만 같다.\"]},{\"message\":\"가지를 꺾어간다.\",\"result\":[\"계속 신경 쓰이던 팔처럼 뻗어진 가지를 뜯어냈다.\\n\\n그러자 끔찍한 비명이 여러 개가 섞여서 튀어나왔다.\\n\\n꺾인 가지에 귀를 기울여 보니,\\n비명은 그곳에서 나오고 있었다.\\n\\n꺼림칙하지만, 동시에 이것을 아무렇게나 버리면\\n무언가 잘못될 것 같다는 예감이 강하게 찾아왔다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Sprinkle water.\",\"result\":[\"You sprinkled water around the tree.\\n\\nIt soon boiled away,\\nas it would on a cast-iron skillet.\\n\\nYou don’t see any change in the tree.\\n\\nMaybe the twig has become livelier?\\nNo matter how you look at it, it’s rather hard to tell.\"]},{\"message\":\"Snap the twig.\",\"result\":[\"You snapped the arm-like twig that had been bothering you.\\n\\nA cacophony of dreadful screams struck your ears.\\n\\nYou noticed that the screams were coming from the twig.\\n\\nAs much as it creeps you out, you get a strong feeling\\nthat you will suffer terrible consequences if you throw it away.\"]}]\nJP :\n[{\"message\":\"水をやる。\",\"result\":[\"木の周りに水を少しまいた。\\n\\nまるで熱い鉄板の上に水をかけるように、\\n湯は沸騰するがごとく消えた。\\n\\nしかし、特に何も変わったことはないようだ。\\n\\n枝がちょっと生き生きしたかな？\\nしかし、そこまで変わってはいないようだ。\"]},{\"message\":\"枝を折る。\",\"result\":[\"ずっと気になっていた腕のように伸びた枝を折り取った。\\n\\nすると恐ろしい悲鳴がいくつも飛び出てきた。\\n\\n折れた枝に耳を傾けてみると、\\n悲鳴はそこから出ていた。\\n\\n嫌な感じはするが、それと同時にこれを不用意に捨てると\\n何か良くないことが起こりそうだという予感が強くした。\"]}]"
+  },
+  {
+    "key": "90102301-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90102301-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90102301-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90102301-options",
+    "original": "[{\"message\":\"물을 좀 더 뿌린다.\",\"result\":[\"문득, 정신을 차리고 보니\\n나무가 기억하던 것 보다 생생해진 것처럼 보였다.\\n\\n불쾌한 기운은 언제부터인지 느껴지질 않고 있었다.\\n\\n정말 오랫동안 메말라 있었던 것일까.\\n손처럼 뻗어진 가지가 움직여 나에게로 다가왔다.\\n\\n그것은, 감사를 표하려는 것처럼\\n많은 선물을 내게 쥐여주었다.\",\"좀 더 물을 뿌려보지만,\\n끓듯이 사라지는 것은 변하지 않는다.\\n\\n조금 흡수하는 양이 적어진 걸까?\\n하지만 그렇게 변하지는 않은 것만 같다.\"]},{\"message\":\"가지를 꺾어간다.\",\"result\":[\"계속 신경 쓰이던 팔처럼 뻗어진 가지를 뜯어냈다.\\n\\n그러자 끔찍한 비명이 여러 개가 섞여서 튀어나왔다.\\n\\n꺾인 가지에 귀를 기울여 보니,\\n비명은 그곳에서 나오고 있었다.\\n\\n꺼림칙하지만, 동시에 이것을 아무렇게나 버리면\\n무언가 잘못될 것 같다는 예감이 강하게 찾아왔다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Give it more water.\",\"result\":[\"With another go and look around,\\nthe tree appeared more alive than you first thought.\\n\\nThe foreboding aura disappeared at some point, too.\\n\\nCould you really have quenched its age-long thirst?\\nThe twig rustled and came to you.\\n\\nIt gave you a handful of gifts\\nas a token of its gratitude.\",\"You try pouring more water,\\nbut it still vaporizes in an instant.\\n\\nMaybe it’s started to absorb less?\\nAnother close look still shows no changes.\"]},{\"message\":\"Snap the twig.\",\"result\":[\"You snapped the arm-like twig that had been bothering you.\\n\\nA cacophony of dreadful screams struck your ears.\\n\\nYou noticed that the screams were coming from the twig.\\n\\nAs much as it creeps you out, you get a strong feeling\\nthat you will suffer terrible consequences if you throw it away.\"]}]\nJP :\n[{\"message\":\"もっと水をやる。\",\"result\":[\"ふと、気がつくと\\n木が先程よりも生き生きとしているような気がした。\\n\\nいつしか不快感は感じられなくなっていた。\\n\\n本当に長い間渇いていたのだろうか。\\n手のように伸びた枝が動き、私へ近づいてきた。\\n\\nそれは、感謝の意を表すかのように\\n沢山の贈り物を私に握らせてくれた。\",\"もう少し水をかけてみたが、\\n沸騰するように消えるのは変わらない。\\n\\n吸収する量がちょっと少なくなったかな？\\nしかし、そこまで変わってはいないようだ。\"]},{\"message\":\"枝を折る。\",\"result\":[\"ずっと気になっていた腕のように伸びた枝を折り取った。\\n\\nすると恐ろしい悲鳴がいくつも飛び出てきた。\\n\\n折れた枝に耳を傾けてみると、\\n悲鳴はそこから出ていた。\\n\\n嫌な感じはするが、それと同時にこれを不用意に捨てると\\n何か良くないことが起こりそうだという予感が強くした。\"]}]"
+  },
+  {
+    "key": "901024-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901024-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901024-desc",
+    "original": "꾸엥 꾸엥 꾸엥\n거대한 두꺼비가 동굴 속에서 운다.\n\n동굴 여기저기에는 검푸른 진액이 묻어있다.\n\n이 진액은 마치 우울과 같다.\n눈물이나 슬픔과는 다른, 우울의 즙.\n\n두꺼비는 이 즙을 품고 있다.",
+    "context": "EN :\n“Croohoo, croohoo, croohoo.”\nA giant toad cries inside a cave.\n\nPatches of dark blue resin cover the cave.\n\nThis resin is like gloom.\nA sap of gloom, not quite like tears or sadness.\n\nThe toad holds this resin.\nJP :\nぐぇん、ぐぇん、ぐぇん\n巨大なヒキガエルが洞窟の中で鳴く。\n\n洞窟のあちこちには青黒い粘液が付着している。\n\nこの粘液はまるで憂鬱のようだ。\n涙や哀しみとは違う、憂鬱の汁。\n\nヒキガエルはこの汁を溜め込んでいる。"
+  },
+  {
+    "key": "901024-options",
+    "original": "[{\"message\":\"울음 소리를 흉내낸다.\",\"result\":[\"꾸어엉 꾸엥\\n두꺼비는 답하듯 다른 소리를 낸다.\\n\\n마치 알았다는 듯, 이해한다는 듯한 소리다.\\n\\n그러더니 기다랗고 새파란 혀를 불쑥 꺼내어\\n우리 중 하나를 잡아 채 간다.\\n\\n잠시 뒤에 끌려간 누군가가 입속에서 돌아왔다.\\n\\n푹 젖은 듯했다.\\n수분에든, 우울감이든.\",\"꾸잉 꾸엥\\n두꺼비의 소리가 탁하고 낮다.\\n\\n무슨 말인지 알 수 없다는 듯한 소리다.\\n\\n그것은 몇 번을 그렇게 울더니,\\n어느 순간 펄쩍거리며 자리를 떠났다.\\n\\n자리에는 쩐득거리는 검푸른 진액만 남아있었다.\"]},{\"message\":\"차분히 앉아서 기다린다.\",\"result\":[\"동굴 속에서 얼마나 시간이 지났는지 모르겠다.\\n\\n두꺼비가 울음을 멎을 때까지 기다리자,\\n그것은 눈을 꿈뻑거리며 우리를 응시했다.\\n\\n쑤욱, 그런 소리가 나더니\\n이내 기다랗고 새파란 혓바닥이\\n우리에게 천천히 다가왔다.\\n\\n혓바닥 위에는 두꺼비의\\n눈알이 올라가 있었다.\\n\\n가져가라는 듯하여 집어 들자,\\n남은 한쪽 눈을 우리에게 꿈뻑거리고\\n어디론가로 가버렸다.\\n\\n들어줘서 고맙다는 걸까.\"]}]",
+    "context": "EN :\n[{\"message\":\"Mimic the cry.\",\"result\":[\"“Cruh-huh, croohoo.”\\nThe toad makes a different noise as if to answer.\\n\\nIt sounds like an affirmative reply.\\n\\nIt extracts its long blue tongue,\\nsnatching a person from our group.\\n\\nSometime later, they walked back out of its mouth.\\n\\nThey seemed drenched…\\nin moisture, or gloom.\",\"“Croohic, croohoo.”\\nThe toad’s cry is dull and heavy.\\n\\nIt doesn’t seem to have understood what it heard.\\n\\nAfter crying like that a few more times,\\nit hopped away from its spot.\\n\\nAll that’s left is the sticky blue resin.\"]},{\"message\":\"Sit and wait.\",\"result\":[\"An indeterminate amount of time passes.\\n\\nAs you waited for the toad to finish its cries,\\nit gazed into us, closing and opening its eyelids slowly.\\n\\nWith a quick, slick sound,\\na long blue tongue\\npopped out towards us.\\n\\nAn eyeball belonging to the toad\\nwas on its tongue.\\n\\nWhen we picked it up,\\nit blinked its other eye at us\\nbefore going on its way.\\n\\nWas that its thanks for lending an ear?\"]}]\nJP :\n[{\"message\":\"鳴き声を真似する。\",\"result\":[\"ぐぉおん、ぐぇん\\nヒキガエルは答えるかのように違う音を出す。\\n\\nまるで分かったと言ってるような、理解したと言っているような音だ。\\n\\nすると長くて真っ青な舌をひょいと出して\\n私たちのうち一人を捕まえていく。\\n\\nしばらくして、連れて行かれた人が口から戻ってきた。\\n\\nすっかり濡れてしまったようだ。\\n水分にも、憂鬱感にも。\",\"ぐぃん、ぐぇん\\nヒキガエルの声が低く、濁っている。\\n\\n何を言っているのか分からないという風な声だ。\\n\\nそれは何度かそうやって鳴くと、\\n急にぴょんと跳ね、その場から離れた。\\n\\nその場には青黒い粘液だけが残っていた。\"]},{\"message\":\"ゆっくり座って待つ。\",\"result\":[\"洞窟の中でどれだけ時間が経ったのかは分からない。\\n\\nヒキガエルが鳴き止むまで待つと、\\nそれは目をパチパチさせながら私たちを凝視した。\\n\\nすーっ、そんな音がすると\\nすぐに長くて真っ青な舌が\\n私たちにゆっくりと近づいてきた。\\n\\n舌の上にはヒキガエルの\\n目玉が載っていた。\\n\\n持って行けというような気がして取ると\\n残った片目を私たちにぱちぱちさせて\\nどこかに行ってしまった。\\n\\n聞いてくれてありがとうことだろうか。\"]}]"
+  },
+  {
+    "key": "901025-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901025-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901025-desc",
+    "original": "광장에 한 사람이 서 있다.\n\n한쪽 팔을 휘적이며 이쪽을 바라본다.\n\n머리에 있는 구멍은 그자의 눈 같기도,\n탄환이 뚫어낸 자국 같기도 하다.\n\n아마, 그건 손에 들고 있는\n리볼버로 만들어낸 바람구멍이다.\n\n사람은 총구를 나에게 겨눈다.",
+    "context": "EN :\nA person stands in the square.\n\nThey look this way, waving an arm.\n\nThe cavity in their head may be an eye,\nor a bullet hole.\n\nIf it is, it must have been the work\nof the revolver in their hand.\n\nThat person points the gun at you.\nJP :\n広場に誰かが一人立っている。\n\n片腕を振り回しながらこちらを見つめる。\n\n頭にある穴はそれの目のようにも、\n弾丸が突き抜けた跡のようにも見える。\n\nきっと、それは手に持っている\nリボルバーで作り出した風穴だ。\n\n人は銃口を私に向ける。"
+  },
+  {
+    "key": "901025-options",
+    "original": "[{\"message\":\"다가간다.\",\"result\":[\"겨눠진 총구는 두렵지 않다.\\n\\n방아쇠를 당기더라도.\\n\\n몇 번이고 격철이 움직이더라도,\\n\\n사람은 자신의 머리에 총알을 박을 테니까.\\n\\n나에게 향한 총구는\\n순식간에 자신을 향했고,\\n이내 불을 뿜는다.\\n\\n사람은 사라지고,\\n잿빛 코트만 바닥에 덩그러니 남았다.\"]},{\"message\":\"엎드린다.\",\"result\":[\"맞아야 할 운은 피하면 도망간다.\\n\\n맞지 않으려 한 불운은 기어코 쫓아오기 마련이다.\\n\\n총구는 사람의 머리로 돌아갔지만,\\n탄환은 우리에게 향했다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Approach them.\",\"result\":[\"You don’t fear the pointed gun.\\n\\nEven if they were to pull the trigger…\\n\\nIt doesn’t matter how many times the hammer strikes.\\n\\nYou know the bullet will hit that person’s head.\\n\\nIn the blink of an eye,\\nthe gun aimed at their own temple,\\nand soon fired.\\n\\nThe person was gone,\\nleaving an ashen coat on the floor.\"]},{\"message\":\"Duck and cover.\",\"result\":[\"Oncoming fortune will slip past if you avoid it.\\n\\nMisfortune you thought to avoid will come back to bite you.\\n\\nAlthough the gun was pointed at their head,\\nthe bullet came your way.\"]}]\nJP :\n[{\"message\":\"近寄る。\",\"result\":[\"向けられた銃口は怖くない。\\n\\n引き金を引かれても。\\n\\n何度打ち金が動こうとも、\\n\\n人は自分の頭に銃弾をぶち込むだろうから。\\n\\n私へ向かった銃口は\\n瞬時に自らへ向かい、\\n間もなく火を噴く。\\n\\n人は消え、\\n灰色のコートだけが静かに床へ落ちた。\"]},{\"message\":\"伏せる。\",\"result\":[\"当たってこようとする幸運は、避ければ逃げていく。\\n\\n当たってこようとする不運は、避ければ必ず追いかけてくるものだ。\\n\\n銃口は人の頭に向いたが、\\n弾丸は私たちに向かって飛んできた\"]}]"
+  },
+  {
+    "key": "901026-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901026-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901026-desc",
+    "original": "여러 눈알이 이쪽을 바라본다.\n가운데 있는 것은 나무가지 같이 보이지만 사람이다.\n\n천국은 파고들기도 하지만\n때로는 마음속에 기생한다.\n\n한번 박혀버린 천국은 내가 아닌\n누군가의 눈으로밖에 보지 못할 것이다.",
+    "context": "EN :\nA cluster of eyes looks this way.\nThe thing in the middle has the appearance of a tree branch, but it is human.\n\nHeaven sometimes burrows;\nother times, it makes a home in the heart.\n\nOnce taken root, that heaven\nwill only be visible through the eyes of others.\nJP :\n沢山の目玉がこちら見つめる。\n真ん中にあるのは木の枝のように見えるが、人間だ。\n\n天国は喰い込むこともあるが\nときには心の中に寄生する。\n\n一度刺さってしまった天国は私ではない\n誰かの目でしか見られないだろう。"
+  },
+  {
+    "key": "901026-options",
+    "original": "[{\"message\":\"눈을 감는다.\",\"result\":[\"눈을 감아도 보이는 것이 천국이다.\\n\\n천국이 박혀있는 이상\\n내가 보고 싶지 않은 것을\\n보지 않을 수는 없다.\\n\\n그 말은 이것이 보고 싶어 하는\\n것만을 보아야 하는 것이다.\\n\\n나는 눈을 감고 있었지만,\\n동시에 눈을 뜨고 있었다.\\n\\n영원히 감을 수 없을 것이다.\"]},{\"message\":\"마주한다.\",\"result\":[\"눈을 깜빡이지 않고 그대로 바라본다.\\n\\n이것의 눈알은 미동조차 하지 않는다.\\n\\n사람이 괴로움에 움찔거려도 눈동자는 개의치 않는다.\\n\\n이것들이 바라보는 것은 내가 아니다.\\n\\n내 뒤에 있을 어딘가의 천국일 것이다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Close your eyes.\",\"result\":[\"Even with one’s eyes closed, heaven is there.\\n\\nAs long as heaven is lodged in,\\nthere is no way to avert your gaze\\nfrom what you wish not to see.\\n\\nMeaning, you may only see\\nwhat it wants you to see.\\n\\nEven though one’s eyes were closed,\\none’s sight remained open.\\n\\nIt will be forever impossible to close.\"]},{\"message\":\"Return the gaze.\",\"result\":[\"You stare into it without blinking.\\n\\nIts eyes won’t so much as flinch.\\n\\nThose eyes don’t care if the host twitches in pain.\\n\\nYou are not what the eyes are looking at.\\n\\nIt must be heaven somewhere behind me.\"]}]\nJP :\n[{\"message\":\"目を閉じる。\",\"result\":[\"目を閉じても見えるのが天国だ。\\n\\n天国が刺さっている以上\\n私が見たくないものを\\n見ずにいることはできない。\\n\\nつまり、これが見たがっている\\nものだけを見なければならないということだ。\\n\\n私は目を閉じていたが、\\n同時に目を開けていた。\\n\\n永遠に閉じることはできないだろう。\"]},{\"message\":\"目を合わせる。\",\"result\":[\"瞬きせず、そのまま見つめ返す。\\n\\nこれの目玉は微動だにしない。\\n\\n人が苦しさに悶えても、瞳は気にも留めない。\\n\\nこれらが見つめているのは私ではない。\\n\\n私の後ろにあるはずの、どこかの天国だろう。\"]}]"
+  },
+  {
+    "key": "901027-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901027-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901027-desc",
+    "original": "아아, 이것은 너무나 파랗다.\n\n이 순수한 푸르름은 그 무엇도\n가까이 오게 두지 않는다.\n\n다가가고자 할수록 몸이 밀려난다.\n그러나 그것은 너무나 파랗다.\n\n파랗고 싶어진다.\n\n너무나 강한 이끌림에\n몸이 찢겨나갈 것만 같다.",
+    "context": "EN :\nOh, how blue this is.\n\nThe pure hue of blue\nallows nothing to approach.\n\nWhen you try to go near, your body is pushed away.\nAnd yet, it is so, so blue.\n\nYou wish to have that color.\n\nThe irresistible allure\nis almost tearing you apart.\nJP :\nああ、これはあまりにも青い。\n\nこの純粋な蒼さは\nいかなるものも近寄せない。\n\n近づこうとするほど体が押し返される。\nしかし、それはあまりにも青い。\n\n蒼くなりたい。\n\nあまりにも強い衝動に\n身体が裂けてしまいそうだ。"
+  },
+  {
+    "key": "901027-options",
+    "original": "[{\"message\":\"나아간다.\",\"result\":[\"파랗다.\\n\\n파랗다.\\n\\n우리도 파랗다.\\n\\n나도 파랗다.\\n\\n짙고도연하고울적하고도유쾌하고시리고도따뜻\\n하고날카롭고도부드럽고서늘하면서도후덥하다\"]},{\"message\":\"밀려난다.\",\"result\":[\"그러나 우리는 불순물이다.\\n\\n진정 파랗고 싶다면\\n진정한 푸르름을 가진 것을\\n푸름으로 두어야 한다.\\n\\n우리는 그대로 튕겨 나왔다.\\n\\n무언가 모를 고양감이\\n우리를 감싸 안았다.\"]},{\"message\":\"서둘러 떠난다.\",\"result\":[\"정신을 바르게 하고 눈을 피했다.\\n\\n저것에 이끌려서는 안 된다.\\n\\n저런 것을 보는 것도,\\n보았던 기억조차도 남겨서는 안 된다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Forward.\",\"result\":[\"Blue.\\n\\nIt’s blue.\\n\\nWe’re blue.\\n\\nI’m blue too.\\n\\nDEEPYETFAINTGLOOMYYETMERRYFRIGIDYET\\nWARMSHARPYETSOFTCOOLYETSWELTERING\"]},{\"message\":\"Backward.\",\"result\":[\"Alas, we are but impurities.\\n\\nTo be truly blue,\\nthe one with the true blue\\nmust be left alone in one’s blueness.\\n\\nWe were bounced off.\\n\\nA strange, uplifting aura\\nshrouded us.\"]},{\"message\":\"Take your leave.\",\"result\":[\"You gathered your wits and turned away.\\n\\nYou mustn’t fall for its temptation.\\n\\nYou will keep your eyes away from it,\\nand forget that you ever saw such a thing.\"]}]\nJP :\n[{\"message\":\"進む。\",\"result\":[\"青い。\\n\\n青い。\\n\\n私たちも青い。\\n\\n私も青い。\\n\\nこくもうすくゆううつながらもゆかいでさむくも\\nあつくするどくもやわらくすずしくもむしあつい\"]},{\"message\":\"押し返される。\",\"result\":[\"しかし、私たちは不純物だ。\\n\\n本当に蒼くなりたいのなら\\n真の蒼さを持ったものを\\n蒼さとすべきだ。\\n\\n私たちはそのまま弾き返された。\\n\\nなんだかよく分からない高揚感が\\n私たちを包み込んだ。\"]},{\"message\":\"急いで離れる。\",\"result\":[\"正気を取り戻して目を背けた。\\n\\nあれに引っ張られていけない。\\n\\nあんなものを見ることも、\\n見た記憶さえ残してはいけない。\"]}]"
+  },
+  {
+    "key": "901028-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901028-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901028-desc",
+    "original": "이곳은 가시덩굴로 만들어진 거미집.\n거미집은 한때 축하에 쓰였을 꽃으로 채워져 있다.\n\n누군가의 피로 채워져 있는 듯한 꽃과,\n그 사이를 기어 다니는 신랑 신부.\n\n이들이 기어갈 때마다\n손과 발에서 피가 배어 나온다.\n\n한쪽의 피가 너무 많이 쏟아지기 전에\n다른 한쪽과 위아래를 바꾸며 움직이는 듯하다.",
+    "context": "EN :\nIt’s a spider’s nest made of thorny vines\nand filled with flowers, perhaps once used for celebration.\n\nThe buds appear to be filled with someone’s blood.\nThe bride and groom crawl between them.\n\nAs they scuttle around,\nblood seeps out of their hands and feet.\n\nIt appears that they change sides\nbefore the bottom one loses too much blood.\nJP :\nここは茨でできた蜘蛛の巣。\n蜘蛛の巣はかつてお祝いに使われたであろう花で満たされている。\n\n誰かの血で満たされているような花と、\nその間を這い動く新郎新婦。\n\n彼らが這うたびに\n手足から血がにじみ出る。\n\n片方の血が流れすぎる前に\nもう片方と上下を入れ替えて動いているようだ。"
+  },
+  {
+    "key": "901028-options",
+    "original": "[{\"message\":\"꽃 하나를 따간다.\",\"result\":[\"피에 얼룩진 꽃을 떼어가니 그것은 기뻐했다.\\n\\n축복의 꽃들은 어느새 저주가 되어\\n이들이 거미집을 벗어나지 못하게\\n하고 있는 것인지도 모른다.\\n\\n그 꽃은 그것들이 심고 기른 것이 아니다.\\n\\n누군가의 알량한 마음이\\n꽃잎을 자라게 만들고 있을 뿐이다.\"]},{\"message\":\"가시덩굴을 뜯어간다.\",\"result\":[\"가시덩굴을 뜯어내자 그것은 괴성을 질렀다.\\n\\n자신들을 아프게 하는 장소일지라도 이들에게는 집이다.\\n\\n보금자리를 망치는 자는 미움을 받는다.\\n\\n섣부르게 아픔에 다가가려 하는 것은 독일지 모른다.\",\"가시덩굴을 뜯어내려 했지만,\\n생각보다 그 덩굴이 질기다는 걸 알 수 있었다.\\n\\n몇 번을 더 힘을 썼지만,\\n남는 것은 손바닥에 남은 상처들뿐이었다.\\n\\n그것들은 조용한 모습으로\\n그저 쳐다보고 있을 뿐이었다.\\n\\n화가 난 것 같기도,\\n두려워하는 것 같기도 하다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Pick a flower.\",\"result\":[\"When you plucked a blood-soaked flower, it expressed joy.\\n\\nThose congratulatory flowers\\nmay be acting as a curse now,\\npreventing them from leaving the nest.\\n\\nThose flowers were not planted or raised by the couple.\\n\\nThe petals were feeding on\\nsomeone’s naïveté.\"]},{\"message\":\"Remove the brambles.\",\"result\":[\"When you tore out a vine, it screamed.\\n\\nAs much as it hurts them, it’s still their home.\\n\\nThose who ruin it will be detested.\\n\\nIt may not be wise to approach the ache so rashly.\",\"You tried to remove the vines,\\nbut they were tougher than they seemed.\\n\\nAfter a few tugs pass,\\nyou only have scratches on your palms.\\n\\nThey were quietly watching the affair.\\n\\nThey looked both upset,\\nor afraid in some way.\"]}]\nJP :\n[{\"message\":\"花を一本持っていく。\",\"result\":[\"血に染まった花を取って行くと、それは喜んだ。\\n\\n祝福の花たちはいつしか呪いになり\\n彼らが蜘蛛の巣から抜け出せないように\\nしているのかもしれない。\\n\\nその花は彼らが植えて育てたものではない。\\n\\n誰かのつまらない気持ちが\\n花びらを育てているだけだ。\"]},{\"message\":\"茨を引きちぎる。\",\"result\":[\"茨を引きちぎると、それは悲鳴を上げた。\\n\\n自分たちを傷つける場所であっても、彼らにとっては家だ。\\n\\n居場所を滅ぼす者は憎まれる。\\n\\n中途半端に痛みへ近づこうとするのは毒かもしれない。\",\"茨を剥がそうとしたが、\\n思ったいたよりその茨が硬いことが分かった。\\n\\n何度も力を入れたが、\\n残ったのは手のひらの傷だけだった。\\n\\nそれらは静かな姿で\\nただ眺めているだけだった。\\n\\n怒っているようにも、\\n恐れているようにも見える。\"]}]"
+  },
+  {
+    "key": "901031-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901031-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901031-desc",
+    "original": "그것은 묵묵히 무거운 것을 옮긴다.\n\n옮기는 횟수가 늘어가는 만큼,\n진공관의 숫자가 갱신되는 것 같다.\n\n기계는 목적을 위해 존재한다.\n무슨 일이라도 시켜봐야만 할 것 같다.",
+    "context": "EN :\nIt carries heavy objects without a word.\n\nAs it does its work,\nthe number on the electronic display seems to update.\n\nMachines exist for a purpose.\nYou feel like you should give it an order.\nJP :\nそれは黙々と重いものを運ぶ。\n\n運ぶ回数が増えるたび、\n真空管の数字が更新されるようだ。\n\n機械は目的のために存在する。\n何かしらやらせた方が良い気がする。"
+  },
+  {
+    "key": "901031-options",
+    "original": "[{\"message\":\"짐을 옮기라고 명령한다.\"},{\"message\":\"아무것도 하지 말라 명령한다.\",\"result\":[\"작동은 하지만 목적 없이 서 있는\\n기계는 존재를 잃기 마련이다.\\n\\n아무것도 하지 않는 것을 목적으로 삼은\\n기계는 하지 않는 것을 하게 된다.\\n\\n요란한 끓는 소리와 함께\\n몸체가 달궈지며 뜨거운 증기를 내뿜는다.\\n\\n위험한 색으로 몸이 달아오르는 것을 보고,\\n서둘러 방에서 빠져 나왔다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Order it to carry luggage.\"},{\"message\":\"Order it to do nothing.\",\"result\":[\"A purposeless machine is bound to lose\\nthe meaning of its existence, even if it is functional.\\n\\nA machine whose purpose is to do nothing\\nwill do whatever it takes to achieve its directive.\\n\\nWith a loud boiling noise,\\nthe machine’s body begins to heat, expelling hot steam.\\n\\nSeeing it glow a dangerous-looking hue,\\nwe quickly escaped the room.\"]}]\nJP :\n[{\"message\":\"荷物を運べと命令する。\"},{\"message\":\"何もするなと命令する。\",\"result\":[\"作動はするが目的もなく立っている\\n機械は存在を失うものである。\\n\\n何もしないことを目的とした機械は\\nしないことをすることになる。\\n\\n騒がしい沸騰音とともに\\n体の温度が上昇し、熱い蒸気を噴き出す。\\n\\n体が危険な色になるまで熱されたのを見て、\\n急いで部屋から抜け出した。\"]}]"
+  },
+  {
+    "key": "901032-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901032-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901032-desc",
+    "original": "어두운 도시, 하지만 건물들의\n불빛은 제대로 켜져 있다.\n\n가운데 있는 거대한 전기 구름에서\n전기를 가져다 쓰는 것 같다.\n\n먹구름에는 머리와 다리가 달려있다.\n모습은 마치 양과 같다.\n\n전기양은 괴로워한다.\n전기를 빼앗기고 있는 걸까?",
+    "context": "EN :\nIt’s a dark cityscape,\nbut the buildings are well-lit.\n\nIt appears that they are powered\nby the massive buzzing cloud at the center.\n\nThe cloud has a head and two pairs of legs.\nIt resembles a sheep.\n\nThe “electric sheep” seems to be in pain.\nIs it being siphoned of its power?\nJP :\n暗い都市、しかし建物の\n明かりはきちんとついている。\n\n真ん中にある巨大な電気雲から\n電気を持ってきて使っているようだ。\n\n暗雲には頭と足がついている。\nその姿はまるで羊のようだ。\n\n電気羊は苦しむ。\n電気を奪われているのだろうか？"
+  },
+  {
+    "key": "901032-options",
+    "original": "[{\"message\":\"케이블을 끊는다.\",\"result\":[\"집들의 조명이 순식간에 꺼졌다.\\n\\n전기양은 폭풍 소리와 같은 울음을 내며 멀리 달려갔다.\\n\\n어둠만이 남은 도시에는\\n빛을 잃은 울음이 가득 찼다.\\n\\n전기양이 있던 자리에는 작은 무언가만 놓여 있었다.\"]},{\"message\":\"바닥에 놓인 케이블을 전기양에게 하나 더 연결한다.\",\"result\":[\"전기양이 비명을 지른다.\\n\\n불쾌한 비명이 시끄럽게 나부끼고,\\n공간을 번쩍거리게 한다.\\n\\n건물들의 불빛은 밝다 못해 불타는 듯 밝아졌다.\\n\\n이내 그것의 구름이 발하는 빛이 흐릿해졌다.\\n\\n꿈을 꾸는 걸까.\\n\\n비명을 멈춘 양은 눈을 감은 듯한 모습이었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Cut the cables.\",\"result\":[\"The buildings blacked out in an instant.\\n\\nThe electric sheep dashed off into the distance, propelling a thunderous cry.\\n\\nIn the unlit town,\\nweeps of the lightless fill the air.\\n\\nA tiny object rests where the electric sheep once was.\"]},{\"message\":\"Plug another cable into the electric sheep.\",\"result\":[\"The electric sheep bleats and screams.\\n\\nAs its distressed screech shakes the air,\\nflashes of light hit the eyes.\\n\\nThe buildings are lit brighter than ever.\\n\\nSoon, the light from the creature’s cloud dimmed.\\n\\nCould it be dreaming?\\n\\nThe sheep appeared to have closed its eyes after it fell silent.\"]}]\nJP :\n[{\"message\":\"ケーブルを切る。\",\"result\":[\"家々の照明はあっという間に消えた。\\n\\n電気羊は嵐のような鳴き声を出しながら、遠くへ走っていった。\\n\\n闇だけが残った都市は\\n光を失った泣き声でいっぱいになった。\\n\\n電気羊がいた場所には小さな何かが置かれていた。\"]},{\"message\":\"床に置かれたケーブルを電気羊にもう一つ繋げる。\",\"result\":[\"電気羊が悲鳴を上げる。\\n\\n不快な悲鳴がうるさく響き、\\n空間をぴかぴかとさせる。\\n\\n建物の明かりは明るいを通り越し、燃えるように明るくなった。\\n\\nそしてすぐ、その雲が発する光が薄らいでいった。\\n\\n夢を見ているのだろうか。\\n\\n悲鳴を止めた羊は目を閉じたようだった。\"]}]"
+  },
+  {
+    "key": "901033-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901033-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901033-desc",
+    "original": "'이 지네는 초고압의 전기를 방출할 수 있습니다.'\n\n수조의 안내문에는 그렇게 적혀있다.\n\n이곳은 수족관일까, 연구실일까.\n\n지네의 마디마디는 매끄럽지 않은지\n움직일 때마다 불꽃을 일으킨다.\n\n수조 앞에는 두 가지 버튼이 놓여있다.\n\n전기 모양 버튼, 물방울 모양의 버튼.",
+    "context": "EN :\n“This centipede is capable of discharging a high voltage.”\n\nThat’s what the sign attached to the tank says.\n\nIs this an aquarium, or a laboratory?\n\nThe segments of the creature spark each time they move,\nsuggesting faulty connections.\n\nThere are two buttons at the tank.\n\nOne is shaped like a thunderbolt, while the other looks like a waterdrop.\nJP :\n「このムカデは超高圧の電気を放出することができます。」\n\n水槽の案内文にはそう書かれている。\n\nここは水族館なのだろうか、研究室なのだろうか。\n\nムカデの節はあまり滑らかに動かないのか\n動くたびに火花が飛び散っている。\n\n水槽の前には2つのボタンが置かれている。\n\n電気の形をしたボタン、雫の形をしたボタン。"
+  },
+  {
+    "key": "901033-options",
+    "original": "[{\"message\":\"전기모양 버튼을 누른다.\",\"result\":[\"'지네에게 자극과 고통을 주면\\n방출하는 전기의 강도가 더 강해집니다.'\\n\\n버튼 위의 안내문은 그렇게 적혀있다.\\n\\n전기 모양의 버튼을 누르면 그렇게 되는 걸까.\\n\\n버튼을 누르니, 기계적인 소리가 한동안 들리고는 멈췄다.\\n\\n달칵, 아래에서는 충전지 케이스처럼\\n생긴 것이 튀어나왔다.\\n\\n지네는 아까부터 움직임이 없다.\"]},{\"message\":\"물방울 모양 버튼을 누른다.\"}]",
+    "context": "EN :\n[{\"message\":\"Press the lightning-shaped button.\",\"result\":[\"“Apply stimulation and pain to the centipede\\nto increase the discharge intensity.”\\n\\nSo writes a message above the buttons.\\n\\nThat seems to be what this one does.\\n\\nWhen you pressed it, a mechanical sound played for a short while.\\n\\nAn item that resembles a battery casing\\ndropped through the chute below. \\n\\nThe centipede isn’t moving.\"]},{\"message\":\"Press the droplet-shaped button.\"}]\nJP :\n[{\"message\":\"電気の形をしたボタンを押す。\",\"result\":[\"「ムカデに刺激と苦痛を与えれば\\n放出する電気の強度がより強くなります。」 \\n\\nボタンの上の案内にはそう書かれている。\\n\\n電気の形をしたボタンを押すとそうなるのだろうか。\\n\\nボタンを押すと、機械的な音がしばらく鳴り響き、止まった。\\n\\nガタッ、下から充電池のケースと\\nおぼしき物体が飛び出てきた。\\n\\nムカデはさっきから動かない。\"]},{\"message\":\"雫の形をしたボタンを押す。\"}]"
+  },
+  {
+    "key": "901034-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901034-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901034-desc",
+    "original": "어두운 이곳은 공장일지 모른다.\n\n날카로운 기계음이 울려 퍼진다.\n형광빛의 눈과 같은 조명이 나를 바라본다.\n\n로봇은 천천히 다가온다.\n\n완성되지 않았는지, 움직일 때마다\n전선들이 여기저기 터져 나와 있다.\n\n끈덕지게 흐르고 있는 저건 부동액일까, 아니면 피일까.\n\n그때, 로봇의 가슴에 있는 단말기가 번쩍였다.\n\n무언가를 입력할 수 있을 것 같다.",
+    "context": "EN :\nThis dark place might be a factory.\n\nA sharp mechanical noise zips through the air.\nIlluminating eyes are fixed on you.\n\nA robot slowly approaches.\n\nIt appears to be incomplete, as suggested by the bare wires protruding with each movement.\n\nIs that leakage antifreeze, or blood?\n\nWhile you were wondering, the terminal on its chest flashed to life.\n\nLooks like you can write something.\nJP :\n暗いが、ここは工場かもしれない。\n\n鋭い機械音が鳴り響く。\n目のような蛍光色の照明が私を見つめる。\n\nロボットはゆっくりと近づいてくる。\n\n完成していないのか、動くたびに\n電線があちこちから突き出てくる。\n\nねちっこく流れているのはあれは不凍液だろうか、それとも血だろうか。\n\nそのとき、ロボットの胸にある端末が光った。\n\n何か入力できそうだ。"
+  },
+  {
+    "key": "901034-options",
+    "original": "[{\"message\":\"안녕이라고 적는다.\",\"result\":[\"로봇은 힘겹게 양팔을 들어 올린다.\\n\\n단말기에는 다음과 같은 말이 출력된다.\\n\\n<환영합니다, 손님. 마을 견학은 즐거우셨습니까?\\n기념품을 증정해 드립니다.>\\n\\n단말기는 웃고 있지만 로봇의 몸짓에서\\n살려달라는 아우성이 들리는 것만 같다.\"]},{\"message\":\"잘가라고 적는다.\",\"result\":[\"단말기가 붉게 변하고, 경고음이 울려 퍼진다.\\n\\n로봇은 괴로워하듯 격하게 진동한다.\\n\\n<잘 가요. 잘 가, 잘가잘가잘가잘가잘가잘가잘가잘가잘가>\\n\\n단말기에 한 가지 단어만 빽빽하게 차더니,\\n부품들과 살점을 뿜어내며 눈앞에서 로봇은 폭발했다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Write [Hello].\",\"result\":[\"The robot lifts both arms with some struggle.\\n\\nThe terminal prints out its words:\\n\\n<Welcome, Dear Guest. Have you enjoyed the town tour?\\nWe’d like you to have a souvenir. :-)>\\n\\nA smile is displayed on the terminal,\\nbut in the robot’s gestures, you feel a plea for help.\"]},{\"message\":\"Write [Goodbye].\",\"result\":[\"The terminal’s light goes red, and warnings start to blare.\\n\\nThe robot shakes intensely as if in pain.\\n\\n<Farewell. Farewell, FarewellFarewellFarewellFarewellFarewellFarewellFarewellFarewellFarewell>\\n\\nA single word filled the whole screen moments before the robot exploded into bits of metal and gore before your eyes.\"]}]\nJP :\n[{\"message\":\"こんにちはと打つ。\",\"result\":[\"ロボットはかろうじて両腕を持ち上げた。\\n\\n端末には次のような言葉が出力された。\\n\\n<ようこそ、お客様。町の見学は楽しめましたでしょうか？\\n記念品を贈呈いたします。>\\n\\n端末は笑っているが、ロボットの動きから\\n助けてという叫びが聞こえてならない。\"]},{\"message\":\"さよならと打つ。\",\"result\":[\"端末が赤くなり、警告音が鳴り響く。\\n\\nロボットは、苦しんでいるかのように激しく振動する。\\n\\n<さようなら。さよなら、さよならさよならさよならさよ>\\n\\n端末が一つの単語でびっちり埋まると、\\n部品と肉を吐き出し、目の前でロボットは爆発した。\"]}]"
+  },
+  {
+    "key": "90103401-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90103401-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90103401-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90103401-options",
+    "original": "[{\"message\":\"마을에 대해 설명해달라고 적는다.\",\"result\":[\"<질문을 이해하지 못했습니다.>\\n\\n로봇은 고개를 갸웃거리며 그런 말을 출력했다.\\n\\n반대쪽으로 까딱이지 않는 고개를 계속해서\\n들어 올리려 시도하며, 다음 말을 출력한다.\\n\\n<혹시 손님은 마을을 견학하지 않았습니까?>\\n\\n그것은 대답을 원하는 것 같다.\"]},{\"message\":\"기념품을 받아들고 떠난다.\"}]",
+    "context": "EN :\n[{\"message\":\"Ask for an explanation of the “town”.\",\"result\":[\"<Failed to parse question.>\\n\\nThe robot tilted its head.\\n\\nWhile unable to lift and tilt its head in the other direction,\\nit displays a question on the screen.\\n\\n<Did you not take a tour of the town, Dear Guest?>\\n\\nIt seems to want an answer.\"]},{\"message\":\"Take the souvenir and leave.\"}]\nJP :\n[{\"message\":\"町について説明してくれと打つ。\",\"result\":[\"<質問を理解できませんでした。>\\n\\nロボットは首を傾げながら、言葉を出力した。\\n\\n反対側に傾かない首を何度も\\n持ち上げようと試みながら、次の言葉を出力する。\\n\\n<もしかしてお客様は町を見学しなかったのですか？>\\n\\nそれは答えを求めているようだった。\"]},{\"message\":\"記念品を受け取って離れる。\"}]"
+  },
+  {
+    "key": "90103402-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90103402-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90103402-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "90103402-options",
+    "original": "[{\"message\":\"솔직하게 대답한다.\",\"result\":[\"<그렇다면 기념품을 증정할 수 없습니다!>\\n\\n갑자기 단말기가 위로 덜컹거리며 열리더니,\\n기계 팔이 튀어나와 내게서 무언가를 잡아채려 했다.\\n\\n<기념품 압수에 협조하십시오! 거짓말은 나쁩니다.>\\n\\n이리저리 몸을 비틀어 피하자,\\n기계 팔의 속도는 더욱 빨라져 갔다.\\n\\n<협조하지 않을 경우,\\n규칙A62GBFE1에 의해 처벌될 수 있습니다!>\\n\\n자리를 벗어나지 않고는 그것은 멈출 것 같지 않았기에,\\n나는 넘어지듯이 그곳에서 달려 빠져나왔다.\"]},{\"message\":\"마을을 견학했다고 말한다.\",\"result\":[\"<그렇다면 견학 프로그램에 문제가 있었던 것 같습니다.>\\n\\n로봇은 그 말을 출력한 뒤\\n한참을 가만히 서 있었다.\\n\\n망가진 걸까, 그런 생각을\\n하고 있을 때 단말기가 번쩍였다.\\n\\n<관리자 호출을 계속 시도했지만 응답하지 않습니다.>\\n\\n<시스템 이상, 시스템 이상.>\\n\\n<재부팅 중…>\\n\\n그러고는 파란 화면에 무언가 복잡한\\n말을 계속해서 뱉어낼 뿐이었다.\"]},{\"message\":\"대답하지 않고 떠난다.\"}]",
+    "context": "EN :\n[{\"message\":\"Confess the truth.\",\"result\":[\"<Then you may not have a souvenir!>\\n\\nThe terminal suddenly opened upward,\\nand a mechanical arm popped out, trying to snatch something from you.\\n\\n<Please cooperate with confiscation! Lying is bad behavior.>\\n\\nAs you duck and twist out of the arm’s way,\\nit gradually grew faster.\\n\\n<Please cooperate,\\nor you may be punished according to Rule #A62GBFE1!>\\n\\nYou hurriedly made your escape,\\nfleeing the robot’s unending rampage.\"]},{\"message\":\"Tell it that you took a tour.\",\"result\":[\"<There must have been an issue with the tour program.>\\n\\nAfter printing those words,\\nthe robot stood still for a while.\\n\\nJust when you started to wonder if it was broken,\\nthe terminal flashed.\\n\\n<No response after multiple requests to the Administrator.>\\n\\n<System Error. System Error.>\\n\\n<Rebooting…>\\n\\nAfter that, it kept throwing up complicated words\\non a blue screen.\"]},{\"message\":\"Leave without answering.\"}]\nJP :\n[{\"message\":\"正直に答える。\",\"result\":[\"<それなら記念品を贈呈することはできません！>\\n\\n急に端末が上へガタガタしながら開くと、\\n機械の腕が飛び出してきて、私から何かを掴もうとした。\\n\\n<記念品の押収にご協力ください！嘘は悪いです。>\\n\\nあちこち体をひねって避けると、\\n機械の腕の速度は、より速くなっていった。\\n\\n<協力しない場合、\\n規則A62GBFE1により処罰される怖れがあります！>\\n\\nその場から離れなければそれは止まりそうになかったので、\\n私は転ぶようにそこから走って抜け出した。\"]},{\"message\":\"町を見学したと言う。\",\"result\":[\"<それなら見学プログラムに問題があった模様です。>\\n\\nロボットはその言葉を出力し、\\n長らくじっと立っていた。\\n\\n壊れたんだろうか、そんな考えが\\n頭をよぎり始める頃に端末が点滅した。\\n\\n<管理者呼び出しを試行し続けましたが、応答しません。>\\n\\n<システム異常、システム異常。>\\n\\n<リブート中…。>\\n\\nそうして、青い画面に何か複雑な\\n文字列をただ吐き出し続けた。\"]},{\"message\":\"答えずに離れる。\"}]"
+  },
+  {
+    "key": "901035-name",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901035-subDesc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "901035-desc",
+    "original": "'여기는 나만의 공간이야.'\n\n'내가 정한 방식대로 놀아야 하는 곳이야!'\n\n그렇게 하지 않으면 큰일 나는 곳인 것만 같다.\n\n'가위바위보 하자!'\n\n'난 가위를 낼게, 너는?'",
+    "context": "EN :\n“This here’s ma turf.”\n\n“Here folks play by ma rules, or else!”\n\nSounds like there can be dire consequences.\n\n“Let’s play rock, paper, scissors!”\n\n“I’ll go fer scissors. How ‘bout you?”\nJP :\n「ここは私だけの空間だよ。」\n\n「私が決めた方法で遊ばなきゃダメなの！」\n\nそうしないと大変なことになる場所のようだ。\n\n「じゃんけんしよう！」\n\n「私はチョキを出すね、そっちは？」"
+  },
+  {
+    "key": "901035-options",
+    "original": "[{\"message\":\"바위를 낸다.\",\"result\":[\"무얼 하든 이기는 편이 나을 거라는 생각이 들었다.\\n\\n그것은 물끄러미 바위를 내민\\n손을 내려다보더니 빙긋 웃었다.\\n\\n'네가 졌어.'\\n\\n그러더니 한쪽 팔이 커다란 가위로\\n바꾸고선 그 팔을 잘라내 버렸다.\"]},{\"message\":\"보를 낸다.\",\"result\":[\"놀아주기 위해서는, 일부러 지는 것도\\n나쁜 방법은 아닐 것이다.\\n\\n그것은 물끄러미 손바닥을\\n내려다보더니 샐쭉한 표정을 지었다.\\n\\n'네가 이겼어. 가위는 천이 있어야 쓸모가 있거든.'\\n\\n그러더니 상품이라면서 손바닥에 작은 인형을 내려놓았다.\\n\\n'자, 가위와 천으로 만든 인형이야.'\"]},{\"message\":\"가위를 낸다.\",\"result\":[\"이기는 쪽도 지는 쪽도 좋은 결과가\\n아닐 것이란 생각이 들었다.\\n\\n그것은 자신과 같은 모양의 손을 내려다보더니\\n조금 언짢은 듯한 표정을 보였다.\\n\\n'비겼잖아. 내가 가위를 안 낼 거라고 생각 한 거야?'\\n\\n나를 믿지 않는 사람하고는 안 놀아,\\n그런 말을 한 것 같다는 생각이 들었을 때,\\n이미 공간은 전혀 다른 곳으로 변해 있었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Play rock.\",\"result\":[\"You felt like you ought to win here.\\n\\nIt stared at your balled-up fist and smiled.\\n\\n“You lose.”\\n\\nThen, it morphed one of its arms\\ninto a massive pair of scissors to chop your arm off.\"]},{\"message\":\"Play paper.\",\"result\":[\"It might be a good idea to lose and play along.\\n\\nIt stared into your open palm and went sulky.\\n\\n“You win. Scissors are only useful when cloth’s around.”\\n\\nThen, it placed a small puppet in your hand as a reward.\\n\\n“Here, a prize dolly made wiv scissors and cloth.”\"]},{\"message\":\"Play scissors.\",\"result\":[\"You figured that neither a win nor a loss would end well.\\n\\nLooking at both your and its matching shaped hands,\\nit grew rather upset.\\n\\n“A draw. Did you think I wouldn’t play scissors?”\\n\\n“I don’t play with folks who don’t trust me.”\\nA remark like that seemed to ring in your ears,\\nas before you realized it, your surroundings had shifted completely.\"]}]\nJP :\n[{\"message\":\"グーを出す。\",\"result\":[\"何が何でも勝ったほうが良いだろうと思った。\\n\\nそれはじっとグーを突き出した\\n手を見下ろすとにっこりと笑った。\\n\\n「お前の負け。」\\n\\nすると片腕が巨大なハサミに\\n変わり、その腕を切り取ってしまった。\"]},{\"message\":\"パーを出す。\",\"result\":[\"遊んであげてるんだし、わざと負けるのも\\n悪いことではないだろう。\\n\\nそれはじっと手のひらを\\n見下ろすと、ふくれっ面になった。\\n\\n「あなたの勝ち。ハサミは布があってこそ役に立つんだから。」\\n\\nすると、景品と言いながら手のひらに小さな人形を置いた。\\n\\n「はい、はさみと布で作った人形だよ。」\"]},{\"message\":\"チョキを出す。\",\"result\":[\"勝つのも負けるのも良い結果に\\nならないだろうと思った。\\n\\nそれは自分と同じ形をした手を見下ろすと\\n少し不機嫌そうな表情を見せた。\\n\\n「引き分けたじゃない。私がチョキを出さないとでも思ったの？」\\n\\n私のこと信じてくれない人とは遊ばない、\\nそんなことを言いそうだなと思った瞬間、\\n既に空間は全く違う場所に変わっていた。\"]}]"
+  }
+]

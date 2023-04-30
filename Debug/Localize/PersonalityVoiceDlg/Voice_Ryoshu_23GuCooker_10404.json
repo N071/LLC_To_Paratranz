@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10404_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10404_1-dlg",
+    "original": "왔나? 파이 하나 먹고 갈래?",
+    "context": "EN :\nYou here? Want a pie to snack on?\nJP :\n来たか？パイでも一つ食べてくか？"
+  },
+  {
+    "key": "lobby_morning_10404_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10404_1-dlg",
+    "original": "아.문.안.연. 영.준. 하고 있다고.",
+    "context": "EN :\nNOUN. I’m busy with the M.E.P.\nJP :\nあ・や・て・な。えい・じゅん中だ。"
+  },
+  {
+    "key": "lobby_noon_10404_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10404_1-dlg",
+    "original": "한참 손님 몰릴 때네. 재료 소진만 안 됐으면 좋겠는데…",
+    "context": "EN :\nThese are peak business hours. Hope we don’t run out of ingredients…\nJP :\nしばらく客が集まってくる頃だな。材料の在庫がなくならなきゃ良いが…。"
+  },
+  {
+    "key": "lobby_night_10404_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10404_1-dlg",
+    "original": "미안하군, 오늘치 파이는 다 팔렸다. …뭐, 그 팔뚝 하나만 주면 못 만들어 줄 것도 없지만.",
+    "context": "EN :\nSorry, pies are sold out for today. …Well, I could make you another if you lend a hand.\nJP :\nすまないな、今日の分のパイは売り切れだ。…まぁ、その片腕を差し出してくれるなら作ってやれないこともないけどな。"
+  },
+  {
+    "key": "smalltalk_10404_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10404_1-dlg",
+    "original": "멈춰. 더… 들어오지 마. 지금 제일 중요한 작업 중이니까.",
+    "context": "EN :\nStop. Don’t… enter further. I’m in the middle of the most important step.\nJP :\n止まれ。それ以上…入るな。今一番大事な作業中だ。"
+  },
+  {
+    "key": "smalltalk_10404_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10404_2-dlg",
+    "original": "최근에 거래하던 녀석들이 전부 끊겨서 옛날같은 맛은 나지 않지만… 노력 중이다.",
+    "context": "EN :\nThough I can’t replicate the original flavor thanks to supplies being cut off from all my usual providers… I sure can try.\nJP :\n最近取引してた奴らとは切れたから昔みたいな味は出ないが…努力中だ。"
+  },
+  {
+    "key": "smalltalk_10404_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10404_3-dlg",
+    "original": "그레고르… 자꾸 셰프의 자리를 노린단 말이지… 하, 가소로워.",
+    "context": "EN :\nGregor… He keeps eyeing the spot of head chef… Ha, what a laugh.\nJP :\nグレゴール…隙あらばシェフの座を狙ってるんだ…。はぁ、片腹痛い。"
+  },
+  {
+    "key": "smalltalk_10404_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10404_4-dlg",
+    "original": "어쭙잖은 식당하곤 다름을 추구한다. 그게… 미학(味學). 예술이지.",
+    "context": "EN :\nI strive to stand out from other farcical restaurants. That… is gastronomy. It’s an art.\nJP :\nくだらない食堂とは違うものを追求する。それが…味学。芸術だ。"
+  },
+  {
+    "key": "smalltalk_10404_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10404_5-dlg",
+    "original": "젠장, 자꾸 눈에 밟히지 말라고. 단골을 파이로 만들어버리고 싶지 않으니까…\n…쯧, 왜 이렇게 신선해 보여?",
+    "context": "EN :\nDamn it, stop milling about before me. Don’t wanna make a pie out of my regulars…\n…Tsk, why do you have to look this fresh?\nJP :\nクソッ、そんな俺の目を奪うなよ。常連をパイにしたくはないんだ…。\n…ちっ、どうしてこんなに新鮮に見えるんだ？"
+  },
+  {
+    "key": "neglect_10404_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10404_1-dlg",
+    "original": "…별 말 없으면 나는 간다. '8인의 셰프'가 되기 위해서는 이러고 있을 시간 없어.",
+    "context": "EN :\n…If you’ve got nothing to say, I’ll be off. No time to waste if I want to be one of the ‘Eight Chefs’.\nJP :\n…特に言うことないなら俺は行く。「8人のシェフ」になるためにはこうしてる時間はない。"
+  },
+  {
+    "key": "gacksung_10404_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10404_1-dlg",
+    "original": "드디어, 여덟 명 중 한 명이… 아니야? 쯧, 그럼 관심 없어.",
+    "context": "EN :\nFinally, I’m joining the Eight— This isn’t about that? Tsk, not that interested then.\nJP :\nついに、8人のうちの1人に…違うって？ちっ、じゃあ興味ないよ。"
+  },
+  {
+    "key": "formation_10404_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10404_1-dlg",
+    "original": "손맛이 뭔지 보여주지.",
+    "context": "EN :\nI’ll show you scratch cooking.\nJP :\n手作りの味とは何か見せてやろう。"
+  },
+  {
+    "key": "battleentry_10404_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10404_1-dlg",
+    "original": "맛있는 경험을 기대하지.",
+    "context": "EN :\nLooking forward to a treat.\nJP :\n旨い経験を期待しよう。"
+  },
+  {
+    "key": "battle_select_10404_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10404_1-dlg",
+    "original": "예약 주문인가?",
+    "context": "EN :\nOrdered for pick-up?\nJP :\n予約注文か？"
+  },
+  {
+    "key": "battle_endcommand_10404_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10404_1-dlg",
+    "original": "넌 무슨 맛일까?",
+    "context": "EN :\nHow will you taste?\nJP :\nお前はどんな味だ？"
+  },
+  {
+    "key": "battle_enemy_break_10404_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10404_1-dlg",
+    "original": "피는 확실히 빼는 편이 좋지.",
+    "context": "EN :\nGotta make sure to drain all the blood.\nJP :\n血は確実に抜くのがいい。"
+  },
+  {
+    "key": "battle_break_10404_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10404_1-dlg",
+    "original": "쯧…",
+    "context": "EN :\nTch…\nJP :\nチッ…。"
+  },
+  {
+    "key": "battle_kill_10404_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10404_1-dlg",
+    "original": "이제, 쓸만해졌군.",
+    "context": "EN :\nNow, you look useful.\nJP :\nやっと、使えそうになったな。"
+  },
+  {
+    "key": "battle_dead_10404_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10404_1-dlg",
+    "original": "내가… 재료가 될 생각은 못 했는데…",
+    "context": "EN :\nI never thought… I’d be an ingredient…\nJP :\n俺が…材料になるとは思わなかったな…。"
+  },
+  {
+    "key": "choice_success_p_10404_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10404_1-dlg",
+    "original": "음. 좋은 요리법이었군.",
+    "context": "EN :\nMhm. That was a good recipe.\nJP :\nうん、良い料理方法だったな。"
+  },
+  {
+    "key": "choice_fail_n_10404_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10404_1-dlg",
+    "original": "젠장, 태웠어.",
+    "context": "EN :\nDamn, it’s burnt.\nJP :\nクソッ、焦がした。"
+  },
+  {
+    "key": "battle_clear_10404_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10404_1-dlg",
+    "original": "재료가 한 가득이군.",
+    "context": "EN :\nA basketful of ingredients.\nJP :\n材料がいっぱいだな。"
+  },
+  {
+    "key": "battle_clear_ex_10404_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10404_1-dlg",
+    "original": "이 정도면… 조기소진 걱정은 안 해도 되겠는걸.",
+    "context": "EN :\nWith all these goods… I won’t have to worry about running out early.\nJP :\nこれくらいなら…早期完売の心配はしなくても良さそうだな。"
+  },
+  {
+    "key": "battle_defeat_10404_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10404_1-dlg",
+    "original": "쳇… 괜찮아. 재료는 또 찾으면 된다.",
+    "context": "EN :\nTch… It’s fine. Can always find ingredients elsewhere.\nJP :\nチェッ…大丈夫だ。材料はまた探せば良い。"
+  }
+]

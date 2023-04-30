@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11204_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11204_1-dlg",
+    "original": "쓸 만한 고기 있어…?",
+    "context": "EN :\nGot some good meat for me…?\nJP :\n使えそうな肉はあるか…？"
+  },
+  {
+    "key": "lobby_morning_11204_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11204_1-dlg",
+    "original": "아침엔 가게 안 여는데. …재료를 구해오는 시간이거든.",
+    "context": "EN :\nShop’s not open in the morn. …It’s when I bag ingredients.\nJP :\n朝はやってないんだが。…材料を仕入れる時間だからな。"
+  },
+  {
+    "key": "lobby_noon_11204_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11204_1-dlg",
+    "original": "료슈는 가게 안 쪽에 있어. …굳이 찾지 않는게 좋을 텐데. 너, 그러다가 고기 대신에 다져진다?",
+    "context": "EN :\nRyōshū’s in the back of the shop. …Y’don’t wanna poke your head in there. Might be you that’s minced on the board, you dig?\nJP :\n良秀は店の中の方だ。…わざわざ会いに行かない方がいいと思うんだけどな。お前、いつか肉の代わりに切り刻まれるぞ？"
+  },
+  {
+    "key": "lobby_night_11204_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11204_1-dlg",
+    "original": "…이 시간에 가게 앞에 서성거리지 마. …재료인 줄 착각할 뻔했잖아.",
+    "context": "EN :\n…Don’t loiter in the front at this hour. Almost thought you to be a potential ingredient…\nJP :\n…この時間に店前をうろうろするなよ。…材料だって勘違いするところだったじゃないか。"
+  },
+  {
+    "key": "smalltalk_11204_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11204_1-dlg",
+    "original": "싱싱한 녀석들을 찾기가 어렵단 말이지…",
+    "context": "EN :\nFresh ones are hard to find…\nJP :\n新鮮なやつらを見つけるのって難しいんだよな…。"
+  },
+  {
+    "key": "smalltalk_11204_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11204_2-dlg",
+    "original": "우리 가게 파이, 아직 안 먹어 본 거야…? 없어서 못 먹는다고… 하하.",
+    "context": "EN :\nReally now, you haven’t tried our pies…? Customers can’t get enough of ‘em… Haha.\nJP :\nうちの店のパイ、まだ食べてないのか…？手に入らないから食べられないって…はは。"
+  },
+  {
+    "key": "smalltalk_11204_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11204_3-dlg",
+    "original": "담배를 끄고 요리해야 하는 거 아니냐고…? 그게 최고의 향신료인데 무슨 소리야…?",
+    "context": "EN :\nI should keep the cigs outta my mouth when I’m cooking…? There’s no spice like it to add a zing, so what’re you on about…?\nJP :\n煙草を消して料理すべきじゃないかって…？それが最高の香辛料だってのに何言ってんだ…？"
+  },
+  {
+    "key": "smalltalk_11204_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11204_4-dlg",
+    "original": "찰떡손파이… 먹고싶네. 매번 거래하던 녀석들에게서 받는 재료가 아니면 그 맛이 안난다고…",
+    "context": "EN :\nPasty hand pies… I sure miss ‘em. Just doesn’t taste the same if it’s not made from our usual suppliers’ produce…\nJP :\n手つき餅のパイ…食べたいな。毎回取引してたやつらから手に入れた材料じゃなきゃあの味が出ないんだよ…。"
+  },
+  {
+    "key": "smalltalk_11204_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11204_5-dlg",
+    "original": "적당히 타협할 줄도 알아야하는데… 미식의 예술이니 뭐니 하면서 매번 재료탓이란 말이지.",
+    "context": "EN :\nGotta know when to compromise, too… Girl’s too stubborn about her “art of delicacy”, always blaming the ingredients.\nJP :\n適当なところで妥協することも必要なんだけどな…美食の芸術とかなんとか言いながら毎回材料のせいにしてるんだ。"
+  },
+  {
+    "key": "neglect_11204_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11204_1-dlg",
+    "original": "으음… 이놈의 기계 팔이 결리네… 어쩌다 팔이 이렇게 됐냐고? 글쎄? 내 싱싱한 팔이 없어져서 어디로 가버렸을까?",
+    "context": "EN :\nMmgh… Mechanical arm’s sore again… What happened to my old arm, you ask? Well, whaddya think? Just where could a fresh and juicy limb go around these parts?\nJP :\nうぅん…機械腕が凝ってるなぁ…。どうして腕がこうなったかって？さぁな？俺の新鮮な腕がなくなってどこに行ったんだろうな？"
+  },
+  {
+    "key": "gacksung_11204_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11204_1-dlg",
+    "original": "나를…? 하, 역시 진짜 셰프를 알아보는구만…?",
+    "context": "EN :\nMe…? Ha, guess you do know who the real chef is here, huh…?\nJP :\n俺を…？はっ、やっぱり本物のシェフが分かるんだな…？"
+  },
+  {
+    "key": "formation_11204_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11204_1-dlg",
+    "original": "새 거래처를 찾으러 가는 거야?",
+    "context": "EN :\nOff to search for a new provider, are we?\nJP :\n新しい取引先を探しに行くのか？"
+  },
+  {
+    "key": "battleentry_11204_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11204_1-dlg",
+    "original": "신선한게 있으면 좋겠네.",
+    "context": "EN :\nHope there’s fresh finds.\nJP :\n新鮮なのがあると良いな。"
+  },
+  {
+    "key": "battle_select_11204_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11204_1-dlg",
+    "original": "어유, 깜짝아! 휘둘러 버릴 뻔했네.",
+    "context": "EN :\nYeesh, ya startled me! I almost swung at you.\nJP :\nおぅ、びっくりしたじゃないか！振っちまうとこだったよ。"
+  },
+  {
+    "key": "battle_endcommand_11204_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11204_1-dlg",
+    "original": "썰어볼까!",
+    "context": "EN :\nTime to slice ‘n dice!\nJP :\n刻むとするか！"
+  },
+  {
+    "key": "battle_enemy_break_11204_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11204_1-dlg",
+    "original": "여기 썰고~ 저기 썰고~",
+    "context": "EN :\nA cut goes here~ A chop goes there~\nJP :\nここを切って～あそこを切って～。"
+  },
+  {
+    "key": "battle_break_11204_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11204_1-dlg",
+    "original": "엇…",
+    "context": "EN :\nUh…\nJP :\nおっ…。"
+  },
+  {
+    "key": "battle_kill_11204_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11204_1-dlg",
+    "original": "휴! 해체 끝~",
+    "context": "EN :\nWhew! All diced up~\nJP :\nふぅ！解体おわり～。"
+  },
+  {
+    "key": "battle_dead_11204_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_11204_1-dlg",
+    "original": "아… 젠장…",
+    "context": "EN :\nAh… Shoot…\nJP :\nあ…クソッ…。"
+  },
+  {
+    "key": "choice_success_p_11204_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11204_1-dlg",
+    "original": "이거 맞지?",
+    "context": "EN :\nThis one, right?\nJP :\nこれで合ってるよな？"
+  },
+  {
+    "key": "choice_fail_n_11204_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11204_1-dlg",
+    "original": "음… 상한 부위였나?",
+    "context": "EN :\nMmh… Was that part spoiled?\nJP :\nうむ…痛んだ部位だったか？"
+  },
+  {
+    "key": "battle_clear_11204_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11204_1-dlg",
+    "original": "썩 나쁘지 않은 수확이었어.",
+    "context": "EN :\nNot a bad haul by any means.\nJP :\n悪くはない収穫だったな。"
+  },
+  {
+    "key": "battle_clear_ex_11204_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11204_1-dlg",
+    "original": "휴… 너무 많이 했나? 언제 들고 가지…",
+    "context": "EN :\nPhew… Was that a bit too much? This’ll take a while to lug back…\nJP :\nふぅ…やり過ぎたか？どうやって持って帰るか…。"
+  },
+  {
+    "key": "battle_defeat_11204_1-desc",
+    "original": "전투 패배 대사",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11204_1-dlg",
+    "original": "으… 저건 맛 없는 고기 였을 거야.",
+    "context": "EN :\nUgh… Bet it was bad meat anyway.\nJP :\nうぅ…あれは不味い肉だっただろうな。"
+  }
+]

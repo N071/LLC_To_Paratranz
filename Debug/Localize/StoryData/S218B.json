@@ -1,0 +1,266 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 개인실",
+    "context": "EN :\nPrivate Room\nJP :\nカジノ プライベートルーム"
+  },
+  {
+    "key": "0-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "0-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "0-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "0-content",
+    "original": "어… 너네는 다 뭐니…?",
+    "context": "EN :\nUh… What are you supposed to be…?\nJP :\nな…何だお前ら…？"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<로쟈, 어떻게 됐어?!>",
+    "context": "EN :\n<Rodya, how did it go?!>\nJP :\n<ロージャ、どうなった！？>"
+  },
+  {
+    "key": "2-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "2-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "2-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "2-content",
+    "original": "로쟈, 그동안 새 친구들을 사귀었나 보네.",
+    "context": "EN :\nMade new friends in the meantime, have you, Rodya?\nJP :\nロージャ、見ない間に新しい友達を作ったみたいだね。"
+  },
+  {
+    "key": "3-content",
+    "original": "그는 손에 들고 있는 패를 전부 양손을 펼쳐 내려놓았다.",
+    "context": "EN :\nSonya laid his hand of cards open on the table.\nJP :\n彼は手に持っている札を両手に広げ、下ろした。"
+  },
+  {
+    "key": "4-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "4-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "4-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "4-content",
+    "original": "게임은 끝났어.",
+    "context": "EN :\nThe game is over.\nJP :\nゲームは終わりだ。"
+  },
+  {
+    "key": "5-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "5-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "5-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "5-content",
+    "original": "네가 이겼다, 로지온. 이의제기는 없어.",
+    "context": "EN :\nYou win, Rodion. I have no objections.\nJP :\n君の勝ちだ、ロジオン。異議申し立てはナシだ。"
+  },
+  {
+    "key": "6-content",
+    "original": "그러고선 문을 열고 나가더니, 다시 돌아오지 않았다.",
+    "context": "EN :\nHe then left through the door and didn’t return.\nJP :\nそう言って扉を開けて出て行くと、戻ってこなかった。"
+  },
+  {
+    "key": "7-content",
+    "original": "대신에, 방 안에는 공허한 박수 소리가 갑작스레 퍼져 나왔다.",
+    "context": "EN :\nInstead, a deafeningly hollow clap suddenly filled the room.\nJP :\nその代わり、部屋の中で空虚な拍手の音が急に響いた。"
+  },
+  {
+    "key": "8-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "8-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "8-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "8-content",
+    "original": "하하, 이야… 게임은 잘 봤어. 그런데…",
+    "context": "EN :\nHaha, caramba… I enjoyed the spectacle, but…\nJP :\nはは、いやぁ…ゲームは楽しんだよ。ところで…。"
+  },
+  {
+    "key": "9-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "9-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "9-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "9-content",
+    "original": "난 소냐처럼 쿨하진 못해.",
+    "context": "EN :\nI’m not as cool as Sonya.\nJP :\n私はソーニャみたいにクールになれない。"
+  },
+  {
+    "key": "10-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "10-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "10-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "10-content",
+    "original": "친구들을 데려온 기념으로 나도 내 친구들 좀 소개시켜 줄게.",
+    "context": "EN :\nSince you brought your friends, why don’t I introduce some of mine as well?\nJP :\n友達を連れてきた記念に、私も私の友達を紹介してあげる。"
+  },
+  {
+    "key": "11-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11-content",
+    "original": "…그 뭐냐, 갬블은 오로지 재미를 위해서 하는 거라고, 너네 조직이 그랬던 것 같은데.",
+    "context": "EN :\n…Y’know, uh, I’m pretty sure I heard a member of your Syndicate say that gambling was purely entertainment for you.\nJP :\n…そのなんだ、ギャンブルは楽しむためだけにやるものだって、\nおたくらの組織で言ってた気がするんだけど。"
+  },
+  {
+    "key": "12-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "12-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "12-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "12-content",
+    "original": "응, 결과에 바로 승복하는 것보다는 이게 더 재미있지 않아?",
+    "context": "EN :\nMhm. So isn’t this more entertaining than accepting defeat right away?\nJP :\nうん。結果をすぐ受け容れるよりかは、こっちの方がもっと面白いだろう？"
+  },
+  {
+    "key": "13-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "13-content",
+    "original": "누가 이기든 간에 힘으로 밀고 갈 생각이었네. 그렇지?",
+    "context": "EN :\nYou were gonna push on with force regardless of who won, weren’t you?\nJP :\n誰が勝っても力で押すつもりつもりだったの。なるほどね？"
+  },
+  {
+    "key": "14-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "14-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "14-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "14-content",
+    "original": "풉. 야, 생각해봐. 난 힘도 있고 부하들도 있는데 고작 게임 한판승에 황금가지를 내주겠어?",
+    "context": "EN :\nPfh. Think about it. I have strength and manpower, so why would I give up on the Golden Bough ‘cause a round or three of a game said so?\nJP :\nぷっ。おい、よく考えてみろ。私は力もあって部下もいるのに、\nたった一セットのゲームで黄金の枝を差し出すとでも？"
+  },
+  {
+    "key": "15-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "15-content",
+    "original": "그래. 차라리 잘됐네.",
+    "context": "EN :\nAight, then. I’m actually glad you’re a rebel.\nJP :\nそうね。むしろちょうど良かった。"
+  },
+  {
+    "key": "16-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "16-content",
+    "original": "나도 아까부터 좀이 쑤시던 참이라서.",
+    "context": "EN :\nI was starting to get bored of sitting around too.\nJP :\n私もさっきからうずうずしてたから。"
+  }
+]

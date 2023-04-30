@@ -1,0 +1,372 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 입구",
+    "context": "EN :\nCasino Entrance\nJP :\nカジノ 入口"
+  },
+  {
+    "key": "0-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "0-content",
+    "original": "오오…? 다들! 와서 이것 좀 보게나!",
+    "context": "EN :\nOhh…? Come hither, fellows, and lend me your gazes!\nJP :\nおぉ…？皆の者！これを見たまえ！"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "…이게 다 뭐죠?",
+    "context": "EN :\n…What is all this?\nJP :\n…なんですかこれ？"
+  },
+  {
+    "key": "2-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "2-content",
+    "original": "차들이 마치 탑처럼 쌓여있소.",
+    "context": "EN :\nCars are heaped upon each other as if to form a tower.\nJP :\n車たちがあたかも塔ごと積もりたり。"
+  },
+  {
+    "key": "3-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "3-content",
+    "original": "음울하군.",
+    "context": "EN :\nSombre.\nJP :\n陰鬱だな。"
+  },
+  {
+    "key": "4-content",
+    "original": "탑인 줄 알았던 조형물들은 가까이 다가가니 겹겹이 포개어져 있는 차들이었다.",
+    "context": "EN :\nThe structures that seemed towerlike at a distance were actually cars stacked upon each other.\nJP :\n塔に見えていた造形物は、近づいてみると何重にも重なっている車だった。"
+  },
+  {
+    "key": "5-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "5-content",
+    "original": "차들이 왜 이렇게 잔뜩 쌓여 있는 걸까요…?",
+    "context": "EN :\nWhy are so many piled up like this…?\nJP :\n車がどうしてこんなどっさり積まれてるんですかね…？"
+  },
+  {
+    "key": "6-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "6-content",
+    "original": "오, 어떤 것엔 편지가 쓰여있소! 가족들이 보낸 것인가 본데!",
+    "context": "EN :\nOho, some have scripts upon their wind-shields! It must have been their families’ writing!\nJP :\nおぉ、こっちには手紙が書かれているぞ！家族が送ったもののようだ！"
+  },
+  {
+    "key": "7-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "7-content",
+    "original": "보… 고 싶다고 쓰여있네요. 이분들은, 곧 돌아오는 거겠죠…?",
+    "context": "EN :\nThis one says… “I miss you.” The owners… are coming back soon for them, right…?\nJP :\n会い…たいって書かれてますね。この方達は、そのうち帰るんですよね…？"
+  },
+  {
+    "key": "8-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "8-content",
+    "original": "그럴 리가.",
+    "context": "EN :\nNot a chance.\nJP :\nさあね。"
+  },
+  {
+    "key": "9-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "9-content",
+    "original": "설사 카지노에서 돌아왔다 하더라도, 가족의 품으로 멀쩡히 돌아갈 수 있는 상태는 아닐 텐데~",
+    "context": "EN :\nEven if they did return from the casino, they wouldn’t be in the right state to happily reunite with their loving families~\nJP :\nもしカジノから帰ってきたとしても、家族の元へ何ごともなく戻れるような状態じゃ\nないと思うけどね～。"
+  },
+  {
+    "key": "10-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "10-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "11-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "11-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "11-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "11-content",
+    "original": "뭐… 가이드 역할까지 보너스로 해드리자면 이 골목의 숨겨진 랜드마크랍니다.",
+    "context": "EN :\nWell… To play the auxiliary role of your tour guide, this here is the hidden landmark of the street.\nJP :\nまぁ…ガイド役までボーナスとしてこなして差し上げますが、\nこの路地の隠れランドマークです。"
+  },
+  {
+    "key": "12-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "12-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "12-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "12-content",
+    "original": "도박꾼들의 말로지.",
+    "context": "EN :\nThe bitter end of gamblers.\nJP :\n賭博師たちの末路さ。"
+  },
+  {
+    "key": "13-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "13-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "13-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "13-content",
+    "original": "이곳은 콩콩이파 세력이 중고차 사업으로 세력을 불리는 발돋움판이 된 곳이고요.",
+    "context": "EN :\nAnd this served as a stepping stone for the Tingtang Gang to amass wealth and power by dealing used cars.\nJP :\nここはぽんぽん派が、中古車事業で勢力を伸ばす足がかりとなった場所です。"
+  },
+  {
+    "key": "14-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "14-content",
+    "original": "로쟈, 당신은 이런 데에 자주 와 봤다면서? 뭔가 부연 설명 해줄 건 없어? 왠지 흥미로운 이야기가 나올 것 같은데.",
+    "context": "EN :\nSo Rodya, you’ve been to places like this pretty often, right? Got anything to add? Bet you could tell us some pretty interesting trivia.\nJP :\nロージャ、君ってこんなところによく来たって言ってたろ？\nなんか補足説明とかないか？\n何だか面白い話が聞けそうな気がするんだけど。"
+  },
+  {
+    "key": "15-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "15-content",
+    "original": "아~ 몰라 몰라. 기억 안 나. 난 과거는 다 잊고 앞만 보며 살아가기로 결심했어.",
+    "context": "EN :\nGah~ Dunno, dunno. Don’t ‘member a thing. I decided to forget all about the past and focus on what’s in front.\nJP :\nあ～、し～らない。思い出せない。\n私は過去を全て忘れ、前だけを見て生きることにしたの。"
+  },
+  {
+    "key": "16-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "16-content",
+    "original": "…저런 방해꾼들만 없으면 결심대로 살아갈 수 있을 것 같은데 말이야. 훗.",
+    "context": "EN :\n…And I would be able to keep to that self-promise if not for irritants like them. Heh.\nJP :\n…あんな邪魔者さえいなければ決心した通りに生きていけると思うんだけどね。\nふっ。"
+  },
+  {
+    "key": "17-model",
+    "original": "콩을싫어하는콩콩파조직원",
+    "translation": "讨厌豆子的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong2"
+  },
+  {
+    "key": "17-teller",
+    "original": "콩을 싫어하는 콩콩이파 조직원",
+    "context": "EN :\nBean-hating Tingtanger\nJP :\nポン菓子が嫌いなぽんぽん派の組織員"
+  },
+  {
+    "key": "17-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "17-content",
+    "original": "아가들아! 이 근방이 우리 구역인 건 알고 걸음을 놀리는 거냐?",
+    "context": "EN :\nOi, bohnen! Who do ya think you are to goof around our turf?\nJP :\nひよっこども！このあたりがうちらの区域って分かってほっつき回ってんのか？"
+  },
+  {
+    "key": "18-model",
+    "original": "콩을싫어하는콩콩파조직원",
+    "translation": "讨厌豆子的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong2"
+  },
+  {
+    "key": "18-teller",
+    "original": "콩을 싫어하는 콩콩이파 조직원",
+    "context": "EN :\nBean-hating Tingtanger\nJP :\nポン菓子が嫌いなぽんぽん派の組織員"
+  },
+  {
+    "key": "18-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "18-content",
+    "original": "아니면, 너네 차 팔러 온 거냐?",
+    "context": "EN :\nOr what, ya here to sell ya car?\nJP :\nそれとも、おまえんとこの車でも売りに来たのか？"
+  },
+  {
+    "key": "19-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "19-content",
+    "original": "아니오! 우리는 버스 타고 다니오!",
+    "context": "EN :\nNay! We mount an omnibus!\nJP :\nいんや！我々はバスに乗っている！"
+  },
+  {
+    "key": "20-model",
+    "original": "콩을싫어하는콩콩파조직원",
+    "translation": "讨厌豆子的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong2"
+  },
+  {
+    "key": "20-teller",
+    "original": "콩을 싫어하는 콩콩이파 조직원",
+    "context": "EN :\nBean-hating Tingtanger\nJP :\nポン菓子が嫌いなぽんぽん派の組織員"
+  },
+  {
+    "key": "20-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "20-content",
+    "original": "장기는 우리 파 담당이 아닌데? 흐음, 네 눈동자 정도로 희귀한 색이면 꽤 돈을 쳐주겠다만…",
+    "context": "EN :\nWe don’t deal in organs, though? Hmm, well, I guess a pair of eyes with pupils as specially-colored as yours might sell…\nJP :\n臓器はうちらの派の担当じゃないけどな？ふぅむ、お前の瞳くらい珍しい色なら\n結構金になるだろうけど…。"
+  },
+  {
+    "key": "21-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "21-content",
+    "original": "역시 제대로 찾아왔나 보군! 자네의 대장을 찾으러 왔소!",
+    "context": "EN :\nSo we have come to the right place! We are here for your leader!\nJP :\nやはり正しいところに辿り着けたようだ！そなたの大将を探しているのだ！"
+  },
+  {
+    "key": "22-model",
+    "original": "콩을싫어하는콩콩파조직원",
+    "translation": "讨厌豆子的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong2"
+  },
+  {
+    "key": "22-teller",
+    "original": "콩을 싫어하는 콩콩이파 조직원",
+    "context": "EN :\nBean-hating Tingtanger\nJP :\nポン菓子が嫌いなぽんぽん派の組織員"
+  },
+  {
+    "key": "22-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "22-content",
+    "original": "대체 어디서 온 건데 그렇게 당당하냐?",
+    "context": "EN :\nYa pretty bold in facing a gang. Who do ya work for?\nJP :\n一体どこから来たからってそんな威張ってるんだ？"
+  },
+  {
+    "key": "23-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "23-content",
+    "original": "우린 림버…!",
+    "context": "EN :\nWe serve under Limb—!\nJP :\n我こそはリンバ…！"
+  },
+  {
+    "key": "24-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "24-content",
+    "original": "크흠…",
+    "context": "EN :\nKehm…\nJP :\nむぐっ…。"
+  },
+  {
+    "key": "25-content",
+    "original": "잠시동안 어색한 침묵이 흘렀다.",
+    "context": "EN :\nAn awkward silence passed.\nJP :\nしばらくの間、気まずい沈黙が流れた。"
+  },
+  {
+    "key": "26-model",
+    "original": "콩을싫어하는콩콩파조직원",
+    "translation": "讨厌豆子的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong2"
+  },
+  {
+    "key": "26-teller",
+    "original": "콩을 싫어하는 콩콩이파 조직원",
+    "context": "EN :\nBean-hating Tingtanger\nJP :\nポン菓子が嫌いなぽんぽん派の組織員"
+  },
+  {
+    "key": "26-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "26-content",
+    "original": "어디서 온 거냐니까! 왜 말을 하다 말아!",
+    "context": "EN :\nI asked you a question! Don’t stop midway!\nJP :\nどこから来たんだよ！どうして途中で止めるんだ！"
+  }
+]

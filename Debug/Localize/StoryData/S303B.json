@@ -1,0 +1,1024 @@
+[
+  {
+    "key": "0-place",
+    "original": "K사 검문소",
+    "context": "EN :\nK Corp. Checkpoint\nJP :\nK社 検問所"
+  },
+  {
+    "key": "0-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "0-content",
+    "original": "금방금방 빠지네요. 10분 정도만 기다리면 저희 차례가 오겠어요.",
+    "context": "EN :\nThe line’s moving quickly. It’ll be our turn in about 10 minutes at most.\nJP :\n流れが速いですね。十分くらい待てば私たちの番が来そうです。"
+  },
+  {
+    "key": "1-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "1-content",
+    "original": "통과 질문은 저희 13명이 다 해야 하나요? 단테 씨는 말을 못 알아들을 텐데, 어떻게 해야 하죠?",
+    "context": "EN :\nWill all thirteen of us need to answer immigration questions? They won’t be able to understand Manager Dante, so what should we do?\nJP :\n通過質問は私たち十三名全員がしないといけないんですか？\nダンテさんは口を利けないと思うんですけど、どうしましょう？"
+  },
+  {
+    "key": "2-content",
+    "original": "이스마엘은 긴장하면 말이 빨라지고 질문이 늘어나는 버릇이 있는 듯했다.",
+    "context": "EN :\nIshmael seemed to have a habit of speaking quickly and being more inquisitive when she got anxious.\nJP :\nイシュメールは緊張すると早口になって質問が増えるという癖があるようだった。"
+  },
+  {
+    "key": "3-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "3-content",
+    "original": "안 그래도 그 이야기를 하려던 참이었지.",
+    "context": "EN :\nI was just about to get to that.\nJP :\nちょうどその話をしようと思ってたんだ。"
+  },
+  {
+    "key": "4-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "4-content",
+    "original": "잘 들어. K사의 직원은 이쪽 줄에 서 있는 사람들에게는 매우 간단한 질문만 할 거다.",
+    "context": "EN :\nListen up. The K Corp. official will only ask very simple questions to the passengers in this line.\nJP :\nよく聞け。K社の職員はこっちのラインに立ってる人達には\nとても簡単な質問だけをするだろう。"
+  },
+  {
+    "key": "5-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "5-content",
+    "original": "그리고 너희들 또한 매우 간단한 대답만 하면 되는 거야.",
+    "context": "EN :\nAnd your answers will be similarly concise.\nJP :\nそしてお前たちもまた、とても簡単な答えを返せば良い。"
+  },
+  {
+    "key": "6-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "6-content",
+    "original": "심문소 직원이 어떤 목적으로 왔냐고 물어보면…",
+    "context": "EN :\nWhen the border official asks about the nature of your visit…\nJP :\n審問所の職員がどんな目的で来たかと聞いてきたら…。"
+  },
+  {
+    "key": "7-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "7-content",
+    "original": "‘림버스 컴퍼니 업무상으로 왔습니다, 업무 비자를 확인해주세요.’",
+    "context": "EN :\nSay: “I’m here for business on the behalf of Limbus Company, please refer to my work visa.”\nJP :\n「リンバス・カンパニーの業務で来ました、業務ビザを確認してください。」"
+  },
+  {
+    "key": "8-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "8-content",
+    "original": "라고 대답을 하면 된다. 토씨 하나 빼먹지 말고 그대로 외워.",
+    "context": "EN :\nRemember this exact phrase so that you can recite it word for word.\nJP :\nと答えれば良い。一言一句漏れなく覚えろ。"
+  },
+  {
+    "key": "9-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "9-content",
+    "original": "그 밖에는 내가 알아서 할 테니, 그저 문제를 일으키지 않을 사람이라는 것만 증명하면 돼.",
+    "context": "EN :\nI’ll take care of the rest, so you just have to prove that you aren’t here to cause trouble.\nJP :\nそれ以外は俺がなんとかするから、\nただ問題を起こさない人であるということだけ証明すれば良い。"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "혹시나 저 말을 외우지 못하겠다면, 차라리 입을 다물고 있으세요.",
+    "context": "EN :\nIf even memorizing that is too much of a burden for you, I suggest that you keep your mouth shut.\nJP :\nもし私の言葉を暗唱できなければ、いっそ口を閉じてください。"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "그저 갖고 계시는 사원증을 내밀기만 해도 되니까요.",
+    "context": "EN :\nYou can present your employee card instead.\nJP :\nただ、お手持ちの社員証を差し出しさえすれば良いですからね。"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "<입 다물고 문제만 일으키지 않으면 된다. 제일 쉬운 일이지.>",
+    "context": "EN :\n<Keep quiet and don’t cause trouble. Easiest tasks in the world.>\nJP :\n<口を閉じて問題さえ起こさなければ良い。一番簡単なことだ。>"
+  },
+  {
+    "key": "13-content",
+    "original": "눈치를 보며 슬쩍 비꼬았다.",
+    "context": "EN :\nI sneakily mumbled a sarcastic remark.\nJP :\n顔色をうかがいつつ、こっそりと当て擦った。"
+  },
+  {
+    "key": "14-content",
+    "original": "파우스트가 행여나 일러바치진 않을까 내심 걱정을 했지만…",
+    "context": "EN :\nI was worried that Faust might rat me out, but thankfully…\nJP :\nファウストがもしや告げ口するのではないかと、内心心配にはなったが…。"
+  },
+  {
+    "key": "15-content",
+    "original": "베르길리우스는 다행히 허공만 바라보고 있을 뿐 별말은 하지 않았다.",
+    "context": "EN :\nVergilius was idly staring off into space, sparing me from his scathing commentary.\nJP :\n幸いなことにヴェルギリウスは虚空を見つめるばかりで、特に何も言わなかった。"
+  },
+  {
+    "key": "16-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "16-content",
+    "original": "자, 그럼.",
+    "context": "EN :\nNow, next up.\nJP :\nさぁ、では。"
+  },
+  {
+    "key": "17-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "17-content",
+    "original": "질문이 있는 사람은, 내가 정말 가치 있는 질문을 생각했는가에 대한 고민을 해본 후에.",
+    "context": "EN :\nIf you have a question, make sure to first ask yourself if it’s actually meaningful.\nJP :\n質問のある人は、自分は本当に価値のある質問を\n思いついたのかに対する検討をしてから。"
+  },
+  {
+    "key": "18-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "18-content",
+    "original": "조용히 손을 들도록.",
+    "context": "EN :\nThen quietly raise your hand.\nJP :\n静かに手を挙げるように。"
+  },
+  {
+    "key": "19-content",
+    "original": "나를 포함해서 몇 명이 손을 들었다.",
+    "context": "EN :\nSeveral hands were lifted, including mine.\nJP :\n私を含めて何人かが手を挙げた。"
+  },
+  {
+    "key": "20-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "20-content",
+    "original": "로지온.",
+    "context": "EN :\nRodion.\nJP :\nロジオン。"
+  },
+  {
+    "key": "21-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "21-content",
+    "original": "업무 목적이니까 무기는 들고 들어가도 되지~?",
+    "context": "EN :\nSince this trip is for business, we can carry our weapons, yeah~?\nJP :\n業務目的だから武器は持ってってもいいんだよね～？"
+  },
+  {
+    "key": "22-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "22-content",
+    "original": "그렇다. 다음.",
+    "context": "EN :\nCorrect. Next.\nJP :\nそうだ。次。"
+  },
+  {
+    "key": "23-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "23-content",
+    "original": "그럼, 그렉의 기기괴괴한 팔이나 단테의 근사한 시계 머리도 상관없겠네?",
+    "context": "EN :\nThen, Greg’s creepy-crawly arm and Dante’s chichi clockhead’re getting a pass too?\nJP :\nじゃあ、グレッグの奇々怪々とした腕やダンテの凄い時計頭も大丈夫ってことね？"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "맞아요. 참고로 관리자님의 머리는 무기가 아니라 의체로 분류가 되기 때문에 관광 비자여도 허용은 돼요. 비록 불사의 능력을 지니고 있더라도요.",
+    "context": "EN :\nThat should be the case. For your reference, our manager’s head counts as a prosthetic rather than a weapon, which means it’d be approved even if what we had were a tourist visa, powers to revive notwithstanding.\nJP :\nそうです。ちなみに管理人さんの頭は武器ではなくて義体に分類されるので\n観光ビザでも許容はされます。たとえ不死の能力を持っていてでもです。"
+  },
+  {
+    "key": "25-content",
+    "original": "모범생 역할을 자처하기로 마음먹은 것 같은 이스마엘이 대신 대답했다.",
+    "context": "EN :\nIshmael took the role of the model student and answered in Vergilius’s stead.\nJP :\n模範生の役目を手に入れることを決心したらしいイシュメールが代わりに答えた。"
+  },
+  {
+    "key": "26-content",
+    "original": "요전번 카지노 때도 느꼈던 것이지만…",
+    "context": "EN :\nIt feels like something changed about Ishmael’s attitude since the casino job…\nJP :\nこの前のカジノのときも思ったんだけど…。"
+  },
+  {
+    "key": "27-content",
+    "original": "이스마엘은 믿었던 내가 어벙하게 굴었다는 것 때문에 스스로가 나서야 한다고 판단한 모양이다.",
+    "context": "EN :\nShe seems to have decided to take matters into her own hands after I betrayed her expectations of my capabilities as a leader.\nJP :\nイシュメールは頼みの私が間抜けな行動をしたせいで、\n自ら行動すべきだと判断したようだ。"
+  },
+  {
+    "key": "28-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "28-content",
+    "original": "정확해.",
+    "context": "EN :\nPrecisely.\nJP :\nまさしく。"
+  },
+  {
+    "key": "29-content",
+    "original": "나와 그레고르의 팔이 동시에 내려갔다.",
+    "context": "EN :\nGregor and I put our hands down at the same time.\nJP :\n私とグレゴールの腕が同時に下りていった。"
+  },
+  {
+    "key": "30-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "30-content",
+    "original": "그리고, 료슈. 담배는 끄고 얘기하도록.",
+    "context": "EN :\nAnd, Ryōshū. Put out your cigarette before you speak.\nJP :\nそして、良秀。火を消してから話すように。"
+  },
+  {
+    "key": "31-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "31-content",
+    "original": "…난 손 안 들었다만.",
+    "context": "EN :\n…I didn’t raise my hand.\nJP :\n…俺は手挙げてないんだけど。"
+  },
+  {
+    "key": "32-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "32-content",
+    "original": "……",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "33-content",
+    "original": "베르길리우스는 마지막까지 힘차게 뻗은 돈키호테의 팔은 무시하려 듯했지만…",
+    "context": "EN :\nVergilius was doing his best to ignore Don Quixote’s arm stretched skyward…\nJP :\nヴェルギリウスは、力一杯天を突くドンキホーテの腕を\n最後まで無視しようとしたようだが…。"
+  },
+  {
+    "key": "34-content",
+    "original": "결단코 내릴 생각을 하지 않는 꼿꼿한 팔에 어쩔 수 없이 대꾸를 해주는 듯했다.",
+    "context": "EN :\nBut he finally caved and gave the woman with an adamantly raised hand the chance to speak.\nJP :\n決して下ろそうとしない真っ直ぐな腕に、どうしようもなく答えることになった。"
+  },
+  {
+    "key": "35-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "35-content",
+    "original": "…그래, 돈키호테. 뭐지?",
+    "context": "EN :\n…Fine, Don Quixote. What is it?\nJP :\n…ああ、ドンキホーテ。なんだ？"
+  },
+  {
+    "key": "36-model",
+    "original": "더미",
+    "translation": "Empty",
+    "context": "EN :\nStoryLog_DonQuixote\nJP :\n#ffef23"
+  },
+  {
+    "key": "36-teller",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "36-title",
+    "original": "3번 수감자",
+    "context": "EN :\nSinner #3\nJP :\n囚人 3番"
+  },
+  {
+    "key": "36-content",
+    "original": "저 유리 벽은 어떤 용도로 있는 것이오?",
+    "context": "EN :\nFor what purpose doth that barrier of glass serve?\nJP :\nあのガラスの壁はいかなる用途で置かれているのだ？"
+  },
+  {
+    "key": "37-content",
+    "original": "모두의 시선이 돈키호테가 가리킨 입국 심사관 안에 있는 유리 벽으로 향했다.",
+    "context": "EN :\nFollowing Don Quixote’s finger, our attention was drawn to the glass wall stood in the middle of the building.\nJP :\n皆の視線が、ドンキホーテの指差した入国審査館の中にある\nガラスの壁へと向かった。"
+  },
+  {
+    "key": "38-content",
+    "original": "절반 정도를 나누어 놓은 투명한 유리 벽 너머에는…",
+    "context": "EN :\nOn the other side of that clear dividing wall…\nJP :\nスペースを半分くらいに分けた透明なガラスの壁の向こうには…。"
+  },
+  {
+    "key": "39-content",
+    "original": "헤아리기 힘들 정도로 많은 사람이 일렬로 기다리고 있었다.",
+    "context": "EN :\nWere countless people waiting in line.\nJP :\n数え切れないほどの人間が一列になって待っていた。"
+  },
+  {
+    "key": "40-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "40-content",
+    "original": "저쪽은 기다린다기보단 아예 사람들이 바닥에 앉아 있군.",
+    "context": "EN :\nThat line’s slowed to a crawl, people are sat on the floor waiting for it to move.\nJP :\nあっちは待つっていうより、もう人が床に座り込んでるな。"
+  },
+  {
+    "key": "41-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "41-content",
+    "original": "줄을 선 지 꽤 시간이 지난 모양이야.",
+    "context": "EN :\nLooks like they’ve been there for quite some time.\nJP :\n列に並んでかなり時間が経ったみたいだ。"
+  },
+  {
+    "key": "42-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "42-content",
+    "original": "무장 경호원도 많군. 이곳 인원의 3배.",
+    "context": "EN :\nThere are many armed guards as well. Three times as many compared to this side.\nJP :\n武装警備員も多いな。こちらの人員の三倍。"
+  },
+  {
+    "key": "43-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "43-content",
+    "original": "…대부분 건물에 세워져 있는 유리 벽은 안전을 위한 용도일 가능성이 크다.",
+    "context": "EN :\n…Most of the glass walls you find inside buildings are there for safety reasons.\nJP :\n…大多数の建物に建てられているガラスの壁は、\n安全のためである可能性が高い。"
+  },
+  {
+    "key": "44-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "44-content",
+    "original": "뭐~ 쉽게 말하자면 뒷골목 사람들 전용 구역이지. 둥지마다 방식은 다르지만, 어쨌든 제대로 된 비자가 없이 다른 둥지로 가는 건 진짜 진짜 까다롭거든.",
+    "context": "EN :\nWell~ Simply put, that line’s for Backstreets folks. Each Nest handles immigration differently, but wherever it may be, it’s super-duper hard to get into another Nest without a proper visa.\nJP :\nまぁ～簡単に言うと裏路地の人達の専用区域でしょ。\n巣ごとにやり方は違うけど、とにかくまともなビザ無しに\n他の巣へ行くのはマ～ジででややこしいから。"
+  },
+  {
+    "key": "45-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "45-content",
+    "original": "왜 검문소 근처에서 목숨까지 걸고 우리를 습격하려고 했겠어? 비자를 강제로 빼앗아서라도 둥지에 가려고 했던 거지.",
+    "context": "EN :\nWhy’d you think those bullies jumped us on the way to the checkpoint? They wanted our visa so they could enter the Nest.\nJP :\nなんで検問所の近くで命を懸けてまで私たちを襲撃したと思う？\nビザを無理矢理にでも奪って巣に行こうとしたの。"
+  },
+  {
+    "key": "46-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "46-content",
+    "original": "…그리고 우리가 해결해줄 수 없는 문제이기도 하지.",
+    "context": "EN :\n…A problem we are not in our power to resolve.\nJP :\n…そして俺たちが解決してやれない問題でもある。"
+  },
+  {
+    "key": "47-content",
+    "original": "하지만 그것이 돈키호테에게는 만족스러운 답변이 되지 못했다.",
+    "context": "EN :\nHowever, that answer didn’t satisfy Don Quixote.\nJP :\nしかし、それがドンキホーテには満足のいく答えにはならなかった。"
+  },
+  {
+    "key": "48-content",
+    "original": "그 이유가 유리 벽 너머만의 음울하면서도 위압적인 분위기 때문인지,",
+    "context": "EN :\nWhether it was the fault of the gloomy yet oppressive atmosphere of the area beyond the wall…\nJP :\nその理由がガラスの壁の向こうにだけ存在する、陰鬱で威圧的な雰囲気のせいか、"
+  },
+  {
+    "key": "49-content",
+    "original": "혹은 지금 유리 벽 너머에서 벌어지고 있는 소란 때문인지는 몰랐다.",
+    "context": "EN :\nOr the disturbances happening in there, I couldn’t say.\nJP :\nもしくは今ガラスの壁の向こうで起こっている騒ぎのせいかは分からなかった。"
+  },
+  {
+    "key": "50-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "50-content",
+    "original": "관리자님, 저희 차례입니다.",
+    "context": "EN :\nManager, it’s our turn now.\nJP :\n管理人様、我々の番でございます。"
+  },
+  {
+    "key": "51-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "51-content",
+    "original": "<아? 응…>",
+    "context": "EN :\n<Huh? Right…>\nJP :\n<あ？うん…。>"
+  },
+  {
+    "key": "52-content",
+    "original": "우리 쪽의 줄은 매우 빠른 속도로 줄어들었기에 몇 마디 더 나눌 새도 없이 차례가 다가왔다.",
+    "context": "EN :\nOur line moved at such a quick pace, we barely had time to chat before it was our turn to answer the official’s questions.\nJP :\n私たちの列は人の減る速度がとても速かったので、\nもう一言二言話す間もなく順番が近づいてきた。"
+  },
+  {
+    "key": "53-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "53-content",
+    "original": "기억하세요. 그쪽에서 어떤 목적으로 왔냐고 하면…",
+    "context": "EN :\nRemember: When you’re asked about the purpose of your visit…\nJP :\n忘れないでください。あちらから何の目的で来たかと言われたら…。"
+  },
+  {
+    "key": "54-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "54-content",
+    "original": "…한 번만 더 말하면 심사관인지 뭔지 하는 놈이랑 만.단.지.예 해주겠어.",
+    "context": "EN :\n…Remind me one more time and I’ll show SANGRIA to you and the official or whatever.\nJP :\n…もう一度言うなら審査官だかなんだか言う奴らと一緒に\n万・短・至・芸してやる。"
+  },
+  {
+    "key": "55-content",
+    "original": "이스마엘의 걱정과는 다르게 검문소를 통과하는 과정은 순항을 맞이하고 있었다.",
+    "context": "EN :\nDespite Ishmael’s worries, our inspection was smooth sailing.\nJP :\nイシュメールのと心配とは裏腹に、検問所の通過は順風満帆そのものだった。"
+  },
+  {
+    "key": "56-model",
+    "original": "검문소경비",
+    "translation": "安检所警卫",
+    "context": "EN :\nK公司安检所\nJP :\nK_Employee"
+  },
+  {
+    "key": "56-teller",
+    "original": "검문소 직원",
+    "context": "EN :\nCheckpoint Official\nJP :\n検問所の職員"
+  },
+  {
+    "key": "56-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "56-content",
+    "original": "소속 그룹, 이유를 말씀해주세요.",
+    "context": "EN :\nPlease state your affiliation and purpose of visit.\nJP :\n所属グループ、理由をお願いします。"
+  },
+  {
+    "key": "57-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "57-content",
+    "original": "아, 업무차 림버스 컴퍼니에서 왔습니다. 사원증 확인 부탁드립니다.",
+    "context": "EN :\nAh, I’ve come from Limbus Company on business. Here’s my employee card.\nJP :\nあ、業務でリンバス・カンパニーから来ました。社員証の確認をお願いします。"
+  },
+  {
+    "key": "58-model",
+    "original": "검문소경비",
+    "translation": "安检所警卫",
+    "context": "EN :\nK公司安检所\nJP :\nK_Employee"
+  },
+  {
+    "key": "58-teller",
+    "original": "검문소 직원",
+    "context": "EN :\nCheckpoint Official\nJP :\n検問所の職員"
+  },
+  {
+    "key": "58-title",
+    "original": "K사",
+    "context": "EN :\nK사\nJP :\nK社"
+  },
+  {
+    "key": "58-content",
+    "original": "…확인했습니다. 다음.",
+    "context": "EN :\n…All checked out. Next.\nJP :\n…確認しました。次。"
+  },
+  {
+    "key": "59-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "59-content",
+    "original": "림버스 컴퍼니에서 왔죠. 비즈니스 때문에. 사원증 보시면 된대요.",
+    "context": "EN :\nFrom Limbus Company. Business reasons. Take a look at my card and all that.\nJP :\nリンバス・カンパニーから来ました。ビジネスで。\n社員証見せれば良いって言われました。"
+  },
+  {
+    "key": "60-model",
+    "original": "검문소경비",
+    "translation": "安检所警卫",
+    "context": "EN :\nK公司安检所\nJP :\nK_Employee"
+  },
+  {
+    "key": "60-teller",
+    "original": "검문소 직원",
+    "context": "EN :\nCheckpoint Official\nJP :\n検問所の職員"
+  },
+  {
+    "key": "60-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "60-content",
+    "original": "…확인했습니다. 다음.",
+    "context": "EN :\n…All checked out. Next.\nJP :\n…確認しました。次。"
+  },
+  {
+    "key": "61-content",
+    "original": "이미 앞 선에서 림버스 컴퍼니 소속임을 증명했던 것 때문인지,",
+    "context": "EN :\nAfter our first Sinner proved who we work for, it was a breeze for the rest of us.\nJP :\n既に前の方でリンバス・カンパニーの所属であることを証明したせいか、"
+  },
+  {
+    "key": "62-content",
+    "original": "검문소 직원은 높낮이 없는 똑같은 질문과 무심한 눈빛으로 얼굴 한 번, 사원증을 한 번 보고 (하지만 속도를 보아하니 눈으로 확인하기보단 관습적인 몸짓에 가까워 보였다) 수감자들을 통과시켜주었다.",
+    "context": "EN :\nThe official asked the same question in the same dry tone, took a cursory glance at our faces and employee cards―though based on their speed, it seemed more like a customary gesture rather than an actual look over―then let each Sinner pass.\nJP :\n検問所職員は抑揚のない同じ質問と興味なさげな目つきで顔を一度、\n社員証を一度見て(しかし速度を見た感じ、目で確認するというより\n慣習的な動作に近そうに思えた)囚人たちを通してくれた。"
+  },
+  {
+    "key": "63-model",
+    "original": "더미2",
+    "translation": "Empty",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "63-teller",
+    "original": "기다리는 사람들",
+    "context": "EN :\nPeople in Line\nJP :\n待つ人々"
+  },
+  {
+    "key": "63-title",
+    "original": "11구",
+    "context": "EN :\nDistrict 11\nJP :\n11区"
+  },
+  {
+    "key": "63-content",
+    "original": "……. ……. ",
+    "context": "EN :\n…… ……\nJP :\n……。……。"
+  },
+  {
+    "key": "64-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "64-content",
+    "original": "…저쪽에서 무슨 문제가 생겼나 봐요.",
+    "context": "EN :\n…Something’s amiss over there.\nJP :\n…あっちで何か起こったみたいです。"
+  },
+  {
+    "key": "65-content",
+    "original": "하지만 이곳의 유리 벽은 소리까지 차단해 줄 정도로 두꺼운 모양이었는지,",
+    "context": "EN :\nThe glass wall standing between us and them was thick enough to block out sound.\nJP :\nしかし、ここのガラスの壁は音まで遮断してしまうほどに厚かったのか、"
+  },
+  {
+    "key": "66-content",
+    "original": "정확히 무슨 일이 벌어졌는지는 알기 힘들었다.",
+    "context": "EN :\nIt was hard for us to tell what was going on through the wall.\nJP :\n正確に何が起こっているかは分かりにくかった。"
+  },
+  {
+    "key": "67-content",
+    "original": "그러나 누군가가 경비원들에 의해 양손을 결박당한 채로 끌려가고 있었으며,",
+    "context": "EN :\nHowever, I could see what was happening unambiguously; someone with cuffed hands was being dragged away by security.\nJP :\nしかし、誰かが警備員たちによって両手を結束されたまま引きずられており、"
+  },
+  {
+    "key": "68-content",
+    "original": "그 앞에는 어린아이가 어찌해야 할 바를 모른 채 울기만 하는 장면만큼은 명확하게 보였다.",
+    "context": "EN :\nAnd a small child was crying next to them, clearly scared and confused.\nJP :\nその前の子供がどうすれば良いのか分からないまま泣いてばかりいる様子だけは\nはっきりと見えた。"
+  },
+  {
+    "key": "69-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "69-content",
+    "original": "…신경 쓰지 말죠. 잘은 모르지만 날개의 금기를 어긴 모양이에요.",
+    "context": "EN :\n…We shouldn’t bother. I don’t know what happened, but I guess someone broke a taboo.\nJP :\n…気にしないでください。よく分からないですけど翼の禁忌を犯した模様です。"
+  },
+  {
+    "key": "70-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "70-content",
+    "original": "그래. 가난뱅이들이 어긴 금기래 봤자 만족스러울 만큼 충분한 돈을 뒷구멍에 찔러주지 않았다는 것 외엔 더 있겠어?",
+    "context": "EN :\nYeah, sure. Those impoverished vandals and their audacity to break the taboo of not stuffing enough cash in the right people’s pockets, am I right?\nJP :\nそうだな。貧乏人が犯したタブーといっちゃぁ、満足できるくれぇの\nカネをポッケに突っ込めなかったこと以外にあるか？"
+  },
+  {
+    "key": "71-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "71-content",
+    "original": "…지금 저한테 이죽대는 건가요?",
+    "context": "EN :\n…Are you mocking me right now?\nJP :\n…それ、私に対する嫌味ですか？"
+  },
+  {
+    "key": "72-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "72-content",
+    "original": "허. 뭐야, 신경 쓸 일은 아니라며? 너무 신경 쓰는데.",
+    "context": "EN :\nHuh. What, I thought you didn’t care? Guess someone’s knickers are in a twist.\nJP :\nはぁ。何だよ、気にすることじゃないつっただろ？\nその割には気にしすぎじゃねぇか？"
+  },
+  {
+    "key": "73-content",
+    "original": "처음으로 이스마엘을 골리는 데 성공해서 목소리가 커진 히스클리프를 보고 있었는데…",
+    "context": "EN :\nWhile I was distracted by Heathcliff loudly celebrating his first successful tease on Ishmael…\nJP :\n初めてイシュメールを揶揄うことに成功して\n声が大きくなったヒースクリフを見ていたが…。"
+  },
+  {
+    "key": "74-content",
+    "original": "예상했던 인물이 예상하지 못한 타이밍에, 또다시 치고 들어와 버렸다.",
+    "context": "EN :\nOur usual suspect sprang forth at her least expected moment yet again.\nJP :\n予想していた人物が、予想できないタイミングに、また攻め込んでしまった。"
+  },
+  {
+    "key": "75-model",
+    "original": "검문소경비",
+    "translation": "安检所警卫",
+    "context": "EN :\nK公司安检所\nJP :\nK_Employee"
+  },
+  {
+    "key": "75-teller",
+    "original": "검문소 직원",
+    "context": "EN :\nCheckpoint Official\nJP :\n検問所の職員"
+  },
+  {
+    "key": "75-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "75-content",
+    "original": "소속 그룹, 이유를 말씀해주세요.",
+    "context": "EN :\nPlease state your affiliation and purpose of visit.\nJP :\n所属グループ、理由をお願いします。"
+  },
+  {
+    "key": "76-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "76-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "77-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "77-content",
+    "original": "약자에게 자유를 주기 위해 왔노라!",
+    "context": "EN :\nI am come to liberate the weak and powerless!\nJP :\n弱者へ自由を与えに参った！"
+  },
+  {
+    "key": "78-content",
+    "original": "처음으로 검문소 직원의 얼굴에 감정이라는 것이 드러난다.",
+    "context": "EN :\nAn emotion is expressed for the first time on the checkpoint official’s face.\nJP :\n初めて検問所の職員の顔に感情というものが表れた。"
+  },
+  {
+    "key": "79-content",
+    "original": "경악.",
+    "context": "EN :\nFlabbergastation.\nJP :\n驚愕。"
+  },
+  {
+    "key": "80-content",
+    "original": "말 그대로 경악이 그려진 표정이 돈키호테를 올려다본다.",
+    "context": "EN :\nThey looked up at Don Quixote with a face screaming that it was flabbergasted.\nJP :\n文字通り驚愕の描かれた表情が、ドンキホーテを見上げる。"
+  },
+  {
+    "key": "81-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "81-content",
+    "original": "저자들을 풀어주게! 고통스러워하고 있지 않은가?",
+    "context": "EN :\nRelease them at once! Can you not see that they are suffering?\nJP :\nあの者たちを放してやれ！苦しがっているではないか！"
+  },
+  {
+    "key": "82-model",
+    "original": "검문소경비",
+    "translation": "安检所警卫",
+    "context": "EN :\nK公司安检所\nJP :\nK_Employee"
+  },
+  {
+    "key": "82-teller",
+    "original": "검문소 직원",
+    "context": "EN :\nCheckpoint Official\nJP :\n検問所の職員"
+  },
+  {
+    "key": "82-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "82-content",
+    "original": "…소속 그룹, 이유를 말씀해주세요.",
+    "context": "EN :\n…Please state your affiliation and purpose of visit.\nJP :\n…所属グループ、理由をお願いします。"
+  },
+  {
+    "key": "83-content",
+    "original": "검문소 직원은 애써 그 말을 무시하며 계속해왔던 대사만을 반복해서 읊을 뿐이었고,",
+    "context": "EN :\nThe official ignored her demand and parroted the same question.\nJP :\n検問所の職員はなんとかその言葉を無視しながら\nずっと話していた台詞だけを繰り返し唱えるだけであり、"
+  },
+  {
+    "key": "84-content",
+    "original": "돈키호테의 심기는 시시각각 나빠져 가는 것이 눈에 훤했다.",
+    "context": "EN :\nAll the while, Don Quixote was getting more upset by the minute.\nJP :\nドンキホーテの気分が時々刻々と悪くなっていく様子が、\nありありと分かった。"
+  },
+  {
+    "key": "85-content",
+    "original": "그리고.",
+    "context": "EN :\nAnd then…\nJP :\nそして。"
+  },
+  {
+    "key": "86-content",
+    "original": "다시 쳐다본 유리창 너머의 광경엔…",
+    "context": "EN :\nIn looking through the transparent wall again…\nJP :\n再び見つめた窓ガラス越しの光景には…。"
+  },
+  {
+    "key": "87-content",
+    "original": "끌려 나가는 사람을 향한 아이의 처절한 입 모양이 보였다.",
+    "context": "EN :\nI saw the desperate child mouth a scream at the man dragged away in handcuffs:\nJP :\n引きずられていく人に向けられた、子供の切実な口の形が見えた。"
+  },
+  {
+    "key": "88-teller",
+    "original": "아이",
+    "context": "EN :\nChild\nJP :\n子供"
+  },
+  {
+    "key": "88-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "88-content",
+    "original": "아",
+    "context": "EN :\n“Daaa\nJP :\nぱ"
+  },
+  {
+    "key": "89-teller",
+    "original": "아이",
+    "context": "EN :\nChild\nJP :\n子供"
+  },
+  {
+    "key": "89-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "89-content",
+    "original": "빠",
+    "context": "EN :\naaddy!”\nJP :\nぱ"
+  },
+  {
+    "key": "90-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "90-content",
+    "original": "그대가 나설 마음이 없다면 내가 직접 해결하겠네!",
+    "context": "EN :\nIf you are unwilling to take action, then I shall myself!\nJP :\nそなたらが行くつもりがないのであれば、私が直接解決してしんぜよう！"
+  },
+  {
+    "key": "91-model",
+    "original": "검문소경비",
+    "translation": "安检所警卫",
+    "context": "EN :\nK公司安检所\nJP :\nK_Employee"
+  },
+  {
+    "key": "91-teller",
+    "original": "검문소 직원",
+    "context": "EN :\nCheckpoint Official\nJP :\n検問所の職員"
+  },
+  {
+    "key": "91-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "91-content",
+    "original": "…후.",
+    "context": "EN :\n…Hoo.\nJP :\n…ふぅ。"
+  },
+  {
+    "key": "92-model",
+    "original": "검문소경비",
+    "translation": "安检所警卫",
+    "context": "EN :\nK公司安检所\nJP :\nK_Employee"
+  },
+  {
+    "key": "92-teller",
+    "original": "검문소 직원",
+    "context": "EN :\nCheckpoint Official\nJP :\n検問所の職員"
+  },
+  {
+    "key": "92-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "92-content",
+    "original": "코드 퍼플, 코드 퍼플. 금기 K185 위반 발생.",
+    "context": "EN :\nCode purple. Code purple. Violation of Taboo K185 on site.\nJP :\nコードパープル、コードパープル。禁忌K185違反発生。"
+  },
+  {
+    "key": "93-model",
+    "original": "검문소경비",
+    "translation": "安检所警卫",
+    "context": "EN :\nK公司安检所\nJP :\nK_Employee"
+  },
+  {
+    "key": "93-teller",
+    "original": "검문소 직원",
+    "context": "EN :\nCheckpoint Official\nJP :\n検問所の職員"
+  },
+  {
+    "key": "93-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "93-content",
+    "original": "트롬보사이트 지원 요망. 재전파, 트롬보사이트…",
+    "context": "EN :\nRequesting Thrombocyte units. Repeat, requesting Thrombocyte…\nJP :\nトロンボサイト支援要請。繰り返す、トロンボサイト…。"
+  },
+  {
+    "key": "94-content",
+    "original": "똑같은 문장 외엔 말하는 방법을 모르는 것 같았던 검문소 직원은 이윽고 살벌해 보이는 단어를 무전에 불어넣기 시작했고,",
+    "context": "EN :\nVeering away from inquiry like a broken record, the official spoke an intimidating immune response to the radio.\nJP :\n定型文以外の話し方が分からないように見えた検問所の職員は、\nやがて殺伐とした言葉を無線に吹き込み始め、"
+  },
+  {
+    "key": "95-model",
+    "original": "더미2",
+    "translation": "Empty",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "95-teller",
+    "original": "안내 방송",
+    "context": "EN :\nAnnouncement\nJP :\n案内放送"
+  },
+  {
+    "key": "95-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "95-content",
+    "original": "안내합니다. 코드 퍼플, 코드 퍼플. 순환 2동 검문소 14번. 트롬보사이트, 루코사이트.",
+    "context": "EN :\nAttention all personnel: Code purple. Code purple. Circulation Hall 2, Inspection Booth 14. Thrombocyte, Leukocyte.\nJP :\nお知らせします。コードパープル、コードパープル。\n循環二棟、検問所14番。トロンボサイト、ルーコサイト。"
+  },
+  {
+    "key": "96-content",
+    "original": "두꺼운 철문들이 무서운 기세로 닫히며, 무어라 떠드는지 알 수 없는 말과 사이렌이 사정없이 울려 퍼지기 시작했다.",
+    "context": "EN :\nBlaring sirens accompanied the perplexing announcement, all the while thick metal gates shut around us.\nJP :\n厚い鉄門が恐ろしい勢いで閉じられ、何と喚いているのか聞き取れない言葉と\nサイレンが容赦なく鳴り響き始めた。"
+  },
+  {
+    "key": "97-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "97-content",
+    "original": "…그냥 대갈통을 부수고 시체 자루에 넣어서 지나갈 걸 그랬어.",
+    "context": "EN :\n…Should’ve smashed her skull in and carried her in a body sack.\nJP :\n…フツーに頭をぶっ潰して死体袋に入れていけば良かった。"
+  },
+  {
+    "key": "98-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "98-content",
+    "original": "그런다고 아주 달라질 건 없었을 것 같지만요.",
+    "context": "EN :\nI doubt that would’ve made much of a difference.\nJP :\nそうしたところで、そう変わらなかったと思いますけどね。"
+  },
+  {
+    "key": "99-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "99-content",
+    "original": "트롬보, 루코… 각각 혈소판, 백혈구를 의미하는 것 같소만.",
+    "context": "EN :\nThrombo, Leuko… I believe they refer to platelets and white blood cells respectively.\nJP :\nトロンボ、ルーコ…各々血小板、白血球を意味するようなり。"
+  },
+  {
+    "key": "100-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "100-content",
+    "original": "저들을 의미하나 보군요. K사와 어울리네요.",
+    "context": "EN :\nIt must be them. Fitting for K Corp, I’d say.\nJP :\n彼らのようですね。K社とお似合いです。"
+  },
+  {
+    "key": "101-content",
+    "original": "파우스트가 손가락을 들어 올린 방향으로 모두가 고개를 돌렸고…",
+    "context": "EN :\nLooking in the direction Faust indicated, we all saw what she meant.\nJP :\nファウストが指を向けた方向へ、皆が顔を向けると…。"
+  },
+  {
+    "key": "102-content",
+    "original": "사나운 복장을 한 사람들 역시 우리를 바라보고 있었다.  ",
+    "context": "EN :\nSecurity forces wearing menacing uniforms were staring at us.\nJP :\n荒々しい服装をした人達もまた、私たちのことを見つめていた。"
+  }
+]

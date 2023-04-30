@@ -1,0 +1,117 @@
+[
+  {
+    "key": "enter_exp_dungeon-content",
+    "original": "경험치 채광",
+    "context": "EN :\nEXP Luxcavation\nJP :\n経験値採光"
+  },
+  {
+    "key": "enter_mirror_dungeon-content",
+    "original": "거울 던전",
+    "context": "EN :\nMirror Dungeons\nJP :\n鏡ダンジョン"
+  },
+  {
+    "key": "enter_thread_dungeon-content",
+    "original": "끈 채광",
+    "context": "EN :\nThread Luxcavation\nJP :\n紐採光 "
+  },
+  {
+    "key": "enter_count-content",
+    "original": "입장 횟수",
+    "context": "EN :\nEntries\nJP :\n入場回数"
+  },
+  {
+    "key": "remain_time-content",
+    "original": "남은 시간",
+    "context": "EN :\nTime Left\nJP :\n残り時間"
+  },
+  {
+    "key": "open_at_day_of_the_week-content",
+    "original": "{0} 오픈",
+    "context": "EN :\nOpens {0}\nJP :\n{0} オープン"
+  },
+  {
+    "key": "recommended_level-content",
+    "original": "권장 레벨",
+    "context": "EN :\nDifficulty\nJP :\n推奨レベル"
+  },
+  {
+    "key": "equal_or_more-content",
+    "original": "이상",
+    "context": "EN :\nor above\nJP :\n以上"
+  },
+  {
+    "key": "valid_attack_type-content",
+    "original": "유효 속성",
+    "context": "EN :\nUseful Types\nJP :\n有効属性"
+  },
+  {
+    "key": "exp_dungeon_index-content",
+    "original": "경험치 채광-{0}",
+    "context": "EN :\nEXP Luxcavation #{0}\nJP :\n経験値採光-{0}"
+  },
+  {
+    "key": "Monday-content",
+    "original": "월요일",
+    "context": "EN :\nMON\nJP :\n月曜日"
+  },
+  {
+    "key": "Tuesday-content",
+    "original": "화요일",
+    "context": "EN :\nTUE\nJP :\n火曜日"
+  },
+  {
+    "key": "Wednesday-content",
+    "original": "수요일",
+    "context": "EN :\nWED\nJP :\n水曜日"
+  },
+  {
+    "key": "Thursday-content",
+    "original": "목요일",
+    "context": "EN :\nTHU\nJP :\n木曜日"
+  },
+  {
+    "key": "Friday-content",
+    "original": "금요일",
+    "context": "EN :\nFRI\nJP :\n金曜日"
+  },
+  {
+    "key": "Saturday-content",
+    "original": "토요일",
+    "context": "EN :\nSAT\nJP :\n土曜日"
+  },
+  {
+    "key": "Sunday-content",
+    "original": "일요일",
+    "context": "EN :\nSUN\nJP :\n日曜日"
+  },
+  {
+    "key": "select_level-content",
+    "original": "레벨 선택",
+    "context": "EN :\nLevel Select\nJP :\nレベル選択"
+  },
+  {
+    "key": "require_clear_story_stage-content",
+    "original": "주요 이야기 {0}-{1} 클리어",
+    "context": "EN :\nClear Main Story {0}-{1}\nJP :\nメインストーリー{0}-{1} クリア"
+  },
+  {
+    "key": "daily_bonus_count-content",
+    "original": "일일 추가 보상",
+    "context": "EN :\nDaily Bonuses\nJP :\nデイリー追加報酬"
+  },
+  {
+    "key": "reward_dungeon_exp-content",
+    "original": "경험치",
+    "context": "EN :\nEXP\nJP :\n経験値"
+  },
+  {
+    "key": "reward_dungeon_thread-content",
+    "original": "끈",
+    "context": "EN :\nThread\nJP :\n紐"
+  },
+  {
+    "key": "reward_dungeon_mining-content",
+    "original": "채광",
+    "context": "EN :\nLuxcavation\nJP :\n採光"
+  }
+]

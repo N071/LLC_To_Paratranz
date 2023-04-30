@@ -1,0 +1,249 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "0-content",
+    "original": "잠시만요.",
+    "context": "EN :\nGive me a second.\nJP :\nちょっと待ってください。"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "뭐죠?",
+    "context": "EN :\nWhat is it?\nJP :\n何ですか？"
+  },
+  {
+    "key": "2-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "2-content",
+    "original": "저는 정체되지 않고 나아갈 수 있다는 말에 여기에 합류한 거예요.",
+    "context": "EN :\nI joined this company because I was told that I’ll be able to advance my career without slowing down.\nJP :\n私は停滞せずに進むことができると言われてここに合流したんです。"
+  },
+  {
+    "key": "3-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "3-content",
+    "original": "그런데 지금은… 쥐새끼도 아니고, 계속 의미 없는 폭력만.",
+    "context": "EN :\nBut right now… it’s nothing but meaningless violence, like we’re Rats or something.\nJP :\nでも今は…ネズミどもでもあるまいし、ずっと意味の無い暴力ばっかり。"
+  },
+  {
+    "key": "4-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "4-content",
+    "original": "의미가 없진 않소! 저들은 우리를 공격하는 악이지 않소!",
+    "context": "EN :\nI object to its meaninglessness! Those were evildoers who attacked us!\nJP :\n意味が無いわけではないぞ！奴らは我らを攻撃する悪ではないか！"
+  },
+  {
+    "key": "5-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "5-content",
+    "original": "시끄러워요, 좀 조용히 좀 해봐요.",
+    "context": "EN :\nPlease, just—be quiet for a moment.\nJP :\nうるさいです、ちょっと静かにしてください。"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "…아무튼 이런 용역폭력단 같은 행동만 명령할 거라면, 다른 일을 하는 것도 고민해봐야 할 것 같아요.",
+    "context": "EN :\n…Anyway, if all we’re gonna do is beat up people under orders like hired thugs, I’ll have to consider changing jobs sooner or later.\nJP :\n…とにかく、こんな雇われ暴力団まがいの行動しか命令しないのなら、他の仕事をすることも考えてみます。"
+  },
+  {
+    "key": "7-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "7-content",
+    "original": "입사 계약서를 제대로 안 읽으셨나요?",
+    "context": "EN :\nHaven’t you read your contract?\nJP :\n入社契約書をきちんとお読みになりましたか？"
+  },
+  {
+    "key": "8-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-content",
+    "original": "…퇴사는 허용될 수 없답니다.",
+    "context": "EN :\n…Resignation is not permitted.\nJP :\n…退社は認められません。"
+  },
+  {
+    "key": "9-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "9-content",
+    "original": "…계약하면서 말한 이야기가 거짓말이라도 그 계약이 효력 있을 거라 생각하는 건가요?",
+    "context": "EN :\n…Do you think the contract has any sway if it’s based on lies?\nJP :\n…契約しながら話したことが嘘だとしでも、その契約に効力があるとでも思ってるんですか？"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "당연히 효력이 있죠.",
+    "context": "EN :\nOf course it does.\nJP :\nもちろん効力はありますよ。"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "애초에 거짓말은 없었으니까.",
+    "context": "EN :\nThere were no lies on it.\nJP :\nそもそも嘘はないからです。"
+  },
+  {
+    "key": "12-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "12-content",
+    "original": "…네?",
+    "context": "EN :\n…Huh?\nJP :\n…はい？"
+  },
+  {
+    "key": "13-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-content",
+    "original": "설마 제가 메피스토펠레스를 그저 운송만 하는 버스로 만들었을 것 같았나요?",
+    "context": "EN :\nYou didn’t think Mephistopheles was built to be a mere means of transportation, did you?\nJP :\nまさか私がメフィストフェレスを、ただの運送用バスとして作ったとでも思われましたか？"
+  },
+  {
+    "key": "14-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "14-content",
+    "original": "메피는 항상 배고프다. 그래서 울어.",
+    "context": "EN :\nMephi is always hungry. It keeps crying.\nJP :\nメフィはいつもおなかすいてる。だからなくの。"
+  },
+  {
+    "key": "15-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "15-content",
+    "original": "<버스가 배고프다고?>",
+    "context": "EN :\n<The bus gets hungry?>\nJP :\n<バスがおなか空いてるって？>"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "엔진이 연료를 ‘섭취’할 때 생기는 부산물…",
+    "context": "EN :\nWhen the engine “ingests” fuel, it yields a byproduct…\nJP :\nエンジンが燃料を「摂取」するときに発生する副産物…。"
+  },
+  {
+    "key": "17-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-content",
+    "original": "여러분은 그걸 통해 강해질 수 있어요.",
+    "context": "EN :\nUsing that, you can grow more powerful.\nJP :\n皆さんはそれを通じて強くなることができます。"
+  },
+  {
+    "key": "18-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "18-content",
+    "original": "이상 씨는 잘 알고 계시겠죠. 거울 속에서 모든 가능성을 끄집어낸다면.",
+    "context": "EN :\nI’m sure Yi Sang knows this well. When all possibilities are drawn from the mirror…\nJP :\nイサンさんはよくご存じでしょうね。\n鏡の中から全ての可能性を引き出すのであれば。"
+  },
+  {
+    "key": "19-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "19-content",
+    "original": "성장 또한 제약이 없소.",
+    "context": "EN :\nThere is no limit to one’s growth.\nJP :\n成長もまた制約は無し。"
+  },
+  {
+    "key": "20-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "20-content",
+    "original": "거울 속의 나는 나인가 아니면 또 다른 누구인가.",
+    "context": "EN :\nIs the self in the mirror my reflection, or another being entirely?\nJP :\n鏡の中の私は私なるか、あらぬ余所人か。"
+  },
+  {
+    "key": "21-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<가능성…? 뭘 끄집어낸다는 거야?>",
+    "context": "EN :\n<Possibilities…? You draw what, exactly?>\nJP :\n<可能性…？何を引き出すというんだ？>"
+  }
+]

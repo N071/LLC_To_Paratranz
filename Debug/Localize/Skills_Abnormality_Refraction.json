@@ -1,0 +1,207 @@
+[
+  {
+    "key": "851001-levelList",
+    "original": "[{\"level\":1,\"name\":\"울음 찰싹\",\"desc\":\"[WhenUse] 대상의 정신력 -15\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 침잠 5, 침잠 횟수 5 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Crying Slap\",\"desc\":\"[WhenUse] Target loses 15 SP\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 5 Sinking and +5 Sinking Count\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"泣きぺちっ\",\"desc\":\"[WhenUse] 対象の精神力-15\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 沈潜 5、沈潜 回数を5付与\"}]}]}]"
+  },
+  {
+    "key": "851002-levelList",
+    "original": "[{\"level\":1,\"name\":\"우울음 철썩\",\"desc\":\"[StartDuel] 대상의 정신력 +5\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[AlwaysUse] 피해의 절반만큼 정신력 피해를 입힘\"},{\"desc\":\"[AlwaysUse] 피해는 0이 됨\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Gloomy Slap\",\"desc\":\"[StartDuel] Target heals 5 SP\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[AlwaysUse] Deal SP damage by half of damage displayed\"},{\"desc\":\"[AlwaysUse] No HP damage is dealt\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ひた泣きぺちっ\",\"desc\":\"[StartDuel] 対象の精神力 +5\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[AlwaysUse] ダメージの半分を精神力ダメージとして与える\"},{\"desc\":\"[AlwaysUse] ダメージが0になる\"}]}]}]"
+  },
+  {
+    "key": "851003-levelList",
+    "original": "[{\"level\":1,\"name\":\"녹아내릴 눈알\",\"desc\":\"[WhenUse] 대상의 정신력 -5\\n정신력이 0 미만인 대상 공격 시 피해량 +10%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 침잠만큼 추가 체력 피해\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 침잠만큼 추가 정신력 피해\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Melty Eyeball\",\"desc\":\"[WhenUse] Target loses 5 SP\\nIf target’s SP is below 0, +10% Damage\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Deal bonus damage by target’s Sinking\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Deal bonus SP damage by target’s Sinking\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"溶け落ちる目玉\",\"desc\":\"[WhenUse] 対象の精神力 -5\\n精神力が0未満の対象を攻撃時、ダメージ量 +10%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 沈潜分の追加ダメージ\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 沈潜分の追加精神力ダメージ\"}]}]}]"
+  },
+  {
+    "key": "851004-levelList",
+    "original": "[{\"level\":1,\"name\":\"몰아치는 우울\",\"desc\":\"[WhenUse] 대상의 정신력 -5\\n침잠이 가장 많은 대상 우선 공격\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 침잠 횟수 3 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 침잠만큼 추가 체력 피해\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 침잠만큼 추가 정신력 피해\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Gushing Gloom\",\"desc\":\"[WhenUse] Target loses 5 SP\\nTarget the enemy with the most Sinking\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict +3 Sinking Count\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Deal bonus damage by target’s Sinking\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Deal bonus SP damage by target’s Sinking\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"押し寄せる憂鬱\",\"desc\":\"[WhenUse] 対象の精神力 -5\\n沈潜が多い対象を優先して攻撃\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 沈潜 回数3を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 沈潜分の追加ダメージ\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 沈潜分の追加精神力ダメージ\"}]}]}]"
+  },
+  {
+    "key": "851005-levelList",
+    "original": "[{\"level\":1,\"name\":\"눈알추\",\"desc\":\"[Wide]슬롯 3개 지정\\n[DefeatDuel] 모든 스킬 취소.\\n[DefeatDuel] 취약 3 얻음\\n정신력이 0 미만인 대상 공격 시 피해량 +10%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 대상이 가지고 있는 침잠, 침잠 횟수를 2배로 만듦\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Eyeball Weight\",\"desc\":\"[Wide] Targets 3 slots\\n[DefeatDuel] Cancel all skills\\n[DefeatDuel] Gain 3 Fragile\\nIf the target is below 0 SP, +10% damage\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Double target’s Sinking and its Count\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"目玉の重り\",\"desc\":\"[Wide] スロット3枠指定\\n[DefeatDuel] 全スキルキャンセル\\n[DefeatDuel] 脆弱 3を得る\\n精神力が0未満の対象を攻撃時、ダメージ量 +10%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 対象が持つ沈潜 、沈潜 回数を2倍にする\"}]}]}]"
+  },
+  {
+    "key": "851006-levelList",
+    "original": "[{\"level\":1,\"name\":\"녹아내린 눈알\",\"desc\":\"[WhenUse] 대상의 정신력 -5\\n정신력이 0 미만인 대상 공격 시 피해량 +10%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 침잠만큼 추가 정신력 피해\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Melted Eyeball\",\"desc\":\"[WhenUse] Target loses 5 SP\\nIf target’s SP is below 0, +10% Damage\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Deal bonus SP damage by target’s Sinking\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"溶け落ちた目玉\",\"desc\":\"[WhenUse] 対象の精神力 -5\\n精神力が0未満の対象を攻撃時、ダメージ量 +10%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 沈潜 分の追加精神力ダメージ\"}]}]}]"
+  },
+  {
+    "key": "851007-levelList",
+    "original": "[{\"level\":1,\"name\":\"녹아내린 눈알\",\"desc\":\"[WhenUse] 대상의 정신력 -5\\n정신력이 0 미만인 대상 공격 시 피해량 +10%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 침잠만큼 추가 체력 피해\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Melted Eyeball\",\"desc\":\"[WhenUse] Target loses 5 SP\\nIf target’s SP is below 0, +10% Damage\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Deal bonus damage by target’s Sinking\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"溶け落ちた目玉\",\"desc\":\"[WhenUse] 対象の精神力 -5\\n精神力が0未満の対象を攻撃時、ダメージ量 +10%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 沈潜 分の追加ダメージ\"}]}]}]"
+  },
+  {
+    "key": "851008-levelList",
+    "original": "[{\"level\":1,\"name\":\"꾸엉\",\"desc\":\"[StartBattle] 보호 2 얻음\",\"coinlist\":[]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Croohoo\",\"desc\":\"[StartBattle] Gain 2 Protection\",\"coinlist\":[]}]\nJP :\n[{\"level\":1,\"name\":\"ぐぇん\",\"desc\":\"[StartBattle] 保護 2を得る\",\"coinlist\":[]}]"
+  },
+  {
+    "key": "851901-levelList",
+    "original": "[{\"level\":1,\"name\":\"마을 견학 캠페인 준비\",\"desc\":\"[WhenUse] 충전 횟수 4 증가\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Booting Town Tour\",\"desc\":\"[WhenUse] Gain +4 Charge Count\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"町見学キャンペーン準備\",\"desc\":\"[WhenUse] 充電 回数が4増加\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "851902-levelList",
+    "original": "[{\"level\":1,\"name\":\"견학 환영 인사\",\"desc\":\"\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 더하기 코인 약화 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Welcome to the Tour\",\"desc\":\"\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"見学歓迎の挨拶\",\"desc\":\"\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに加算コイン弱化 1を付与\"}]}]}]"
+  },
+  {
+    "key": "851903-levelList",
+    "original": "[{\"level\":1,\"name\":\"협조하십시오!\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Please Cooperate!\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ご協力ください！\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 3を付与\"}]}]}]"
+  },
+  {
+    "key": "851904-levelList",
+    "original": "[{\"level\":1,\"name\":\"전입 신고 처리\",\"desc\":\"[WhenUse] 충전 전부 소모\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 대상에게 구속 부여.\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Processing Transfer Reg\",\"desc\":\"[WhenUse] Spend all Charge\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Put target in Captivity\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"転入届の処理\",\"desc\":\"[WhenUse] 充電 を全て消耗\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 対象に拘束 を付与.\"}]}]}]"
+  },
+  {
+    "key": "851905-levelList",
+    "original": "[{\"level\":1,\"name\":\"이제부터 잘 부탁드려요. 이웃씨\",\"desc\":\"잡고 있는 대상 공격, 합 불가능\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 화상 10 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Pleased to Meet You, Dear Neighbor\",\"desc\":\"Attacks target in Captivity; cannot be clashed with\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 10 Burn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"これからよろしくお願いします、お隣さん\",\"desc\":\"掴んでいる対象を攻撃、マッチ不可\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 火傷 10を付与\"}]}]}]"
+  },
+  {
+    "key": "851906-levelList",
+    "original": "[{\"level\":1,\"name\":\"시스템 이상 감지\",\"desc\":\"다음 턴에 흐트러짐 상태가 됨\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 충전 횟수 2소모하여, 화상 5 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 충전 횟수 2소모하여, 화상 5 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"System Error Detected\",\"desc\":\"Become Staggered next turn\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Spend 2 Charge to inflict 5 Burn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Spend 2 Charge to inflict 5 Burn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"システム異常感知\",\"desc\":\"次のターンに混乱状態になる\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 充電 回数を2消耗し、火傷 5を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 充電 回数を2消耗し、火傷 5を付与\"}]}]}]"
+  },
+  {
+    "key": "851907-levelList",
+    "original": "[{\"level\":1,\"name\":\"전산 처리 진행 중\",\"desc\":\"[WhenUse] 보호 5를 얻음\",\"coinlist\":[]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Processing Computation\",\"desc\":\"[WhenUse] Gain 5 Protection\",\"coinlist\":[]}]\nJP :\n[{\"level\":1,\"name\":\"電算処理進行中\",\"desc\":\"[WhenUse] 保護 5を得る\",\"coinlist\":[]}]"
+  },
+  {
+    "key": "851908-levelList",
+    "original": "[{\"level\":1,\"name\":\"재부팅 중...\",\"desc\":\"\",\"coinlist\":[]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Rebooting…\",\"desc\":\"\",\"coinlist\":[]}]\nJP :\n[{\"level\":1,\"name\":\"リブート中…\",\"desc\":\"\",\"coinlist\":[]}]"
+  },
+  {
+    "key": "851909-levelList",
+    "original": "[{\"level\":1,\"name\":\"신규 전입 신고 처리\",\"desc\":\"합 불가능, 대상 변경 불가능, 체력이 가장 많은 대상 공격\\n[WhenUse] 충전 전부 소모\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 대상에게 구속 부여.\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Processing Transfer Reg\",\"desc\":\"Unclashable; Cannot be redirected; Targets unit with most HP\\n[WhenUse] Spend all Charge\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Put target in Captivity\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"新規転入届の処理\",\"desc\":\"マッチ不可, 対象変更不可, 体力が最も多い対象を攻撃\\n[WhenUse] 充電を全て消耗\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 対象に拘束 を付与\"}]}]}]"
+  },
+  {
+    "key": "852101-levelList",
+    "original": "[{\"level\":1,\"name\":\"출입 금지\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 파열 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Do Not Enter\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Rupture\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"立ち入り禁止\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 破裂 1を付与\"}]}]}]"
+  },
+  {
+    "key": "852102-levelList",
+    "original": "[{\"level\":1,\"name\":\"진압\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 파열 3 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 파열 횟수 3 증가\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Subdue\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Rupture\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict +3 Rupture Count\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"鎮圧\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 破裂 3を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 破裂 回数が3増加\"}]}]}]"
+  },
+  {
+    "key": "852103-levelList",
+    "original": "[{\"level\":1,\"name\":\"출입 차단\",\"desc\":\"[DefeatDuel] 체력 10 회복\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 파열 횟수 2 증가\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 파열 * 파열 횟수만큼 체력 피해\\n상대 파열 전부 소모.\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Forbid Entry\",\"desc\":\"[DefeatDuel] Heal 10 HP\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict +2 Rupture Count\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Deal bonus damage by target’s Rupture times its Count\\nRemove all Rupture from target\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"出入り遮断\",\"desc\":\"[DefeatDuel] 体力を10回復\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 破裂 回数が2増加\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 破裂 ×破裂 回数分のダメージ\\n対象の破裂 を全て消耗\"}]}]}]"
+  },
+  {
+    "key": "852301-levelList",
+    "original": "[{\"level\":1,\"name\":\"거수자 발견\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 파열 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Suspicious Individuals\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Rupture\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"挙不者発見\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 破裂 3を付与\"}]}]}]"
+  },
+  {
+    "key": "852302-levelList",
+    "original": "[{\"level\":1,\"name\":\"제압\",\"desc\":\"\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 파열 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Restrain\",\"desc\":\"\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Rupture\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"制圧\",\"desc\":\"\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 破裂 3を付与\"}]}]}]"
+  },
+  {
+    "key": "852303-levelList",
+    "original": "[{\"level\":1,\"name\":\"거수자 차단\",\"desc\":\"체력이 가장 높은 대상 우선 공격\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"1코인이 앞면이라면 피해량 +10%\"}]},{\"coindescs\":[{\"desc\":\"2코인이 앞면이라면 피해량 +10%\"}]},{\"coindescs\":[{\"desc\":\"2, 3코인이 앞면이라면 피해량 +30%\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"No Trespassing\",\"desc\":\"Target the unit with the most health\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"If Coin 1 lands Heads, +10% Damage\"}]},{\"coindescs\":[{\"desc\":\"If Coin 2 lands Heads, +10% Damage\"}]},{\"coindescs\":[{\"desc\":\"If Coins 2 & 3 land Heads, +30% Damage\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"挙不者遮断\",\"desc\":\"体力が一番多い対象を優先して攻撃\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"1コインが表面ならダメージ量 +10%\"}]},{\"coindescs\":[{\"desc\":\"2コインが表面ならダメージ量 +10%\"}]},{\"coindescs\":[{\"desc\":\"2, 3コインが表面ならダメージ量 +30%\"}]}]}]"
+  },
+  {
+    "key": "852701-levelList",
+    "original": "[{\"level\":1,\"name\":\"보시\",\"desc\":\"[WhenUse] 자신을 제외한 아군 1명에게 보호 2 부여\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 피해량 감소 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Dāna\",\"desc\":\"[WhenUse] Apply 2 Protection to a random other ally\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Damage Down next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"布施\",\"desc\":\"[WhenUse] 自分を除いた味方1名へ保護 2を付与\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンにダメージ量減少 3を付与\"}]}]}]"
+  },
+  {
+    "key": "852702-levelList",
+    "original": "[{\"level\":1,\"name\":\"설법\",\"desc\":\"[WhenUse] 자신을 제외한 아군 1명에게 공격 위력 증가 2 부여\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 무작위 아군 1명에게 피해량 증가 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Expound Sutras\",\"desc\":\"[WhenUse] Apply 2 Attack Power Up to a random other ally\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Apply 2 Attack Power Up to a random other ally next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"説法\",\"desc\":\"[WhenUse] 自分を除いた味方1名へ攻撃威力増加 2を付与\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンにて、ランダムな味方1名にダメージ量増加 2を付与\"}]}]}]"
+  },
+  {
+    "key": "852703-levelList",
+    "original": "[{\"level\":1,\"name\":\"마하수리\",\"desc\":\"[WhenUse] 다음 턴에 보호 3 부여\",\"coinlist\":[]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Mahāsrī\",\"desc\":\"[WhenUse] Give 3 Protection next turn\",\"coinlist\":[]}]\nJP :\n[{\"level\":1,\"name\":\"摩訶修利\",\"desc\":\"[WhenUse] 次のターンに保護 3を付与\",\"coinlist\":[]}]"
+  },
+  {
+    "key": "852704-levelList",
+    "original": "[{\"level\":1,\"name\":\"사바하\",\"desc\":\"[WhenUse] 다음 턴에 피해량 증가 3 부여\",\"coinlist\":[]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Svāhā\",\"desc\":\"[WhenUse] Give 3 Damage Up next turn\",\"coinlist\":[]}]\nJP :\n[{\"level\":1,\"name\":\"娑婆訶\",\"desc\":\"[WhenUse] 次のターンにダメージ量増加 3を付与\",\"coinlist\":[]}]"
+  },
+  {
+    "key": "852705-levelList",
+    "original": "[{\"level\":1,\"name\":\"반야바라밀\",\"desc\":\"[CantIdentify] 업보가 가장 높은 대상에게 사용\\n대상의 업보에 비례하여 피해량 증가(업보당 +2%)\\n업보가 없는 대상에게는 피해량 -50%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 대상에게 업보가 있으면 업보 50 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Prajñāpāramitā\",\"desc\":\"[CantIdentify] Target the unit with the most Karma\\nDeal more damage based on target’s Karma (+2% per Count)\\nIf target has no Karma, -50% Damage\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] If target has Karma, inflict 50 Karma\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"般若波羅蜜\",\"desc\":\"[CantIdentify] 業報 が最も高い対象に使用\\n対象の業報 に比例してダメージ量が増加(業報1つにつき +2%)\\n業報が無い対象にはダメージ量 -50%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 対象に業報がある場合、業報50を付与\"}]}]}]"
+  },
+  {
+    "key": "852706-levelList",
+    "original": "[{\"level\":1,\"name\":\"참선\",\"desc\":\"[WinDuel] 자신에게 부여된 부정적 효과를 절반으로 감소시킴\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 공격 위력 감소 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Dhyāna\",\"desc\":\"[WinDuel] Halve negative status effects on this unit\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Attack Power Down next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"禅定\",\"desc\":\"[WinDuel] 自分に付与されたマイナス効果を半減する\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに攻撃威力減少 2を付与\"}]}]}]"
+  },
+  {
+    "key": "852707-levelList",
+    "original": "[{\"level\":1,\"name\":\"강제공양\",\"desc\":\"[DefeatDuel] 자신을 제외한 무작위 아군 1명에게 업보 20 부여\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 업보를 20 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Compulsory Offering\",\"desc\":\"[DefeatDuel] Apply 20 Karma to a random other ally next turn\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 20 Karma\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"強制供養\",\"desc\":\"[DefeatDuel] 自分を除いたランダムな味方1名へ業報 20を付与\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 業報 20を付与\"}]}]}]"
+  },
+  {
+    "key": "852708-levelList",
+    "original": "[{\"level\":1,\"name\":\"죽비타작\",\"desc\":\"[DefeatDuel] 자신을 제외한 무작위 아군 1명에게 업보 20 부여\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 업보를 10 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 업보를 10 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Sluggard Waker\",\"desc\":\"[DefeatDuel] Apply 20 Karma to a random other ally next turn\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 10 Karma\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 10 Karma\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"警覚策励\",\"desc\":\"[DefeatDuel] 自分を除いたランダムな味方1名へ業報 20を付与\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 業報 10を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 業報 10を付与\"}]}]}]"
+  },
+  {
+    "key": "852709-levelList",
+    "original": "[{\"level\":1,\"name\":\"만트라\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 무작위 속성의 E.G.O 자원을 3개 제거\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 무작위 속성의 E.G.O 자원을 3개 제거\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Mantra\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Remove 3 E.G.O resources of a random Affinity\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Remove 3 E.G.O resources of a random Affinity\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"曼荼羅\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] ランダムな属性のE.G.O資源3つを除去\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] ランダムな属性のE.G.O資源3つを除去\"}]}]}]"
+  },
+  {
+    "key": "852710-levelList",
+    "original": "[{\"level\":1,\"name\":\"죽비타작\",\"desc\":\"[CantDuel]\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 순환 1 부여\"},{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 마비 3 부여\"}]},{\"coindescs\":[{\"desc\":\"다음 턴에 취약 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Sluggard Waker\",\"desc\":\"[CantDuel]\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Samsara\"},{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Paralyze next turn\"}]},{\"coindescs\":[{\"desc\":\"Inflict 3 Fragile next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"警覚策励\",\"desc\":\"[CantDuel]\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 循環 1を付与\"},{\"desc\":\"[OnSucceedAttackHead] 次のターンに麻痺 3を付与\"}]},{\"coindescs\":[{\"desc\":\"次のターンに脆弱 3を付与\"}]}]}]"
+  },
+  {
+    "key": "852711-levelList",
+    "original": "[{\"level\":1,\"name\":\"모제 사바하\",\"desc\":\"[WhenUse] 피해량 증가 10을 얻음\\n흐트러짐 상태의 대상 우선 공격\",\"coinlist\":[]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Bodhi Svāhā\",\"desc\":\"[WhenUse] Gain 10 Damage Up\\nTarget Staggered enemies first\",\"coinlist\":[]}]\nJP :\n[{\"level\":1,\"name\":\"菩提薩婆詞\",\"desc\":\"[WhenUse] ダメージ量増加10を得る\\n混乱状態の対象を優先攻撃\",\"coinlist\":[]}]"
+  },
+  {
+    "key": "852801-levelList",
+    "original": "[{\"level\":1,\"name\":\"꿰뚫기\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 피해량 감소 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Drive\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Damage Down next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"貫く\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンにダメージ量減少 1を付与\"}]}]}]"
+  },
+  {
+    "key": "852802-levelList",
+    "original": "[{\"level\":1,\"name\":\"...씻어내노라\",\"desc\":\"\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 속박 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"…Be Cleansed\",\"desc\":\"\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Bind next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"…洗い流さん\",\"desc\":\"\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに束縛 1を付与\"}]}]}]"
+  },
+  {
+    "key": "852803-levelList",
+    "original": "[{\"level\":1,\"name\":\"이단 단죄\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Inquisitional Retribution\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"異端断罪\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 3を付与\"}]}]}]"
+  },
+  {
+    "key": "852901-levelList",
+    "original": "[{\"level\":1,\"name\":\"날렵하게~\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 더하기 코인 약화 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Rápidamente~\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Plus Coin Drop next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"素早く～\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに加算コイン弱化 1を付与\"}]}]}]"
+  },
+  {
+    "key": "852902-levelList",
+    "original": "[{\"level\":1,\"name\":\"파냐타 파티~!\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 더하기 코인 약화 2 부여\"}]},{},{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Pañata Party~!\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Plus Coin Drop next turn\"}]},{},{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Fragile next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"パニャータパーティ～！\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに加算コイン弱化 2を付与\"}]},{},{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 1を付与\"}]}]}]"
+  },
+  {
+    "key": "853001-levelList",
+    "original": "[{\"level\":1,\"name\":\"육체 파동\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 마비 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Flesh Surge\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 2 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"肉体の波動\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに麻痺 2を付与\"}]}]}]"
+  },
+  {
+    "key": "853002-levelList",
+    "original": "[{\"level\":1,\"name\":\"정신 장악\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 피해량 감소 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Dominate Mind\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Damage Down next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"精神掌握\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンにダメージ量減少 1を付与\"}]}]}]"
+  }
+]

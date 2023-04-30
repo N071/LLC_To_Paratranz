@@ -1,0 +1,107 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 지하 광산 1층",
+    "context": "EN :\nCasino Mine B1\nJP :\nカジノ地下鉱山 1階"
+  },
+  {
+    "key": "0-model",
+    "original": "각잡힌카지노경호원",
+    "translation": "一板一眼的警卫",
+    "context": "EN :\n警卫\nJP :\nBodyguard2"
+  },
+  {
+    "key": "0-teller",
+    "original": "각 잡힌 카지노 경호원",
+    "context": "EN :\nRigid Security\nJP :\n身なりの整ったカジノ警護員"
+  },
+  {
+    "key": "0-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "0-content",
+    "original": "자, 잠깐… 이것들 왜 이쪽으로 오는 거지? 멈춰! 멈추라니까!",
+    "context": "EN :\nW—Wait… Why are they coming this way?! Stop! I said stop!\nJP :\nま、待て…こいつらなんでこっちに来るんだ？止まれ！止まれって！"
+  },
+  {
+    "key": "1-model",
+    "original": "각잡힌카지노경호원",
+    "translation": "一板一眼的警卫",
+    "context": "EN :\n警卫\nJP :\nBodyguard2"
+  },
+  {
+    "key": "1-teller",
+    "original": "각 잡힌 카지노 경호원",
+    "context": "EN :\nRigid Security\nJP :\n身なりの整ったカジノ警護員"
+  },
+  {
+    "key": "1-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "1-content",
+    "original": "이, 이것들 좀 떼어줘! 빨리!",
+    "context": "EN :\nG-Get them away from me! Hurry!\nJP :\nこ、こいつらを引っ剥がしてくれ！早く！"
+  },
+  {
+    "key": "2-model",
+    "original": "노예",
+    "translation": "奴隶",
+    "context": "EN :\nleft\nJP :\nSlave"
+  },
+  {
+    "key": "2-teller",
+    "original": "볼모가 된 빚쟁이",
+    "context": "EN :\nCaptive Debtor\nJP :\n借金まみれの人質"
+  },
+  {
+    "key": "2-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "2-content",
+    "original": "…사천칠백구십…",
+    "context": "EN :\n…Forty-seven million, nine hundred…\nJP :\n…よんせんななひゃくきゅうじゅう。"
+  },
+  {
+    "key": "3-content",
+    "original": "빚쟁이들은 그저 묵묵히 사천칠백구십만번이 남은 곡괭이 질을 계속하고 있을 뿐이었다.",
+    "context": "EN :\nThe debtors kept on swinging their pickaxes; forty-seven million, nine hundred thousand picks left and counting down.\nJP :\n人質たちはただ、黙々と残り4790万回のツルハシを振るい続けているだけだった。"
+  },
+  {
+    "key": "4-content",
+    "original": "우리는 그 틈을 타 아래로 내려갈 수 있었다.",
+    "context": "EN :\nWe were able to find our way down using this opportunity.\nJP :\n私たちはその隙をうかがって下へ降りることができた。"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "빚쟁이들의 도움을 받은 셈이 됐군.",
+    "context": "EN :\nSo we did get help from the debtors after all.\nJP :\n人質に助けられたな、結果的には。"
+  },
+  {
+    "key": "6-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "6-content",
+    "original": "우연이지 뭐.",
+    "context": "EN :\nJust a coincidence.\nJP :\n偶然でしょ。"
+  },
+  {
+    "key": "7-content",
+    "original": "로쟈만이 심드렁한 얼굴로 응수했다.",
+    "context": "EN :\nRodya replied with an apathetic look.\nJP :\nロージャだけが、冷めた顔で答えた。"
+  }
+]

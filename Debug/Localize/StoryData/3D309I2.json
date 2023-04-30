@@ -1,0 +1,656 @@
+[
+  {
+    "key": "0-place",
+    "original": "끝없는 시체들의 언덕",
+    "context": "EN :\nUnending Hill of Corpses\nJP :\n果てしない死体の丘"
+  },
+  {
+    "key": "0-content",
+    "original": "살점의 언덕은 강한 산성을 뿜어냈고, 싱클레어의 다리는 힘없이 녹아내렸다. 이미, 다른 수감자들 모두가 그렇게 녹아내렸다.",
+    "context": "EN :\nThe fleshy hill exuded potent acid, melting Sinclair’s legs. All the other Sinners were being dissolved by the caustic secretion too.\nJP :\n肉の丘は強い酸を噴き出し、シンクレアの足は脆く融けていった。\n既に、他の囚人全員がそんな風に融け落ちていた。"
+  },
+  {
+    "key": "1-content",
+    "original": "그는 볼품없이 넘어진다. 아니, 어쩌면 떨어뜨려졌다고 말하는 게 맞을지도 모른다.",
+    "context": "EN :\nHe trips and hits the ground. No, perhaps I should say he was thrown off his feet.\nJP :\n彼はみっともなく倒れた。いや、もしかしたら落ちたというのが正しいかもしれない。"
+  },
+  {
+    "key": "2-content",
+    "original": "하지만, 그럼에도. 그는 크로머를 향해 계속 기어간다.",
+    "context": "EN :\nIn spite of that, he still crawls towards Kromer.\nJP :\nしかし、それにもかかわらず。\n彼はクローマーに向かって這い進み続ける。"
+  },
+  {
+    "key": "3-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "3-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "3-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "3-content",
+    "original": "그래! 그거야! 고통스럽지? 증오스럽지? 전부 받아들여! 남기지 말고 모조리!",
+    "context": "EN :\nYes! That’s it! It hurts, doesn’t it? You’re filled with rage, aren’t you? Accept it all! Welcome it with open arms!\nJP :\nそう！それよ！苦しいでしょう？\n憎いでしょう？全て受け容れて！残さずぜんぶ！"
+  },
+  {
+    "key": "4-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "4-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "4-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "4-content",
+    "original": "나를 봐! 가장 순수한 인간에 가까운 이 모습을! 이 육체와, 살들을! 너희들 누구 하나도 범접 못 할 순수함의 강력함을!",
+    "context": "EN :\nAnd watch me! Watch my glorious body, closer to the purest form of humanity than ever before! This flesh here! The sheer, unmatched strength of purity!\nJP :\n私を見て！最も純粋な人間に近いこの姿を！この肉体と、肉たちを！\n君たちじゃ近づけもしない純粋さの強さを！"
+  },
+  {
+    "key": "5-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "5-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "5-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "5-content",
+    "original": "아아, 싱클레어… 너 지금 너무 인간답다! 너도 나처럼 될 수 있는 거야!",
+    "context": "EN :\nAhh, Sinclair… Look at how human you are! You can become like me too!\nJP :\nああ、シンクレア…君今とっても人間らしいよ！\n君も私みたいになれるのよ！"
+  },
+  {
+    "key": "6-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "6-content",
+    "original": "내가… 너를…",
+    "context": "EN :\nI’ll… You’re…\nJP :\n僕が…お前を…。"
+  },
+  {
+    "key": "7-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "7-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "7-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "7-content",
+    "original": "싱클레어, 사실은 무서웠지? 가족도 잃고 모르는 사람들이랑 버스를 타고 돌아다니면서, 하고 싶지 않은 일을 억지로 하고.",
+    "context": "EN :\nSinclair, you were scared all along, weren’t you? You lost your family, and you had to ride a bus with these strangers, forced to do things you didn’t want.\nJP :\nシンクレア、本当は怖かったでしょう？家族も失って知らない人たちと\nバスに乗ってあちこち回りながら、やりたくもないことを無理矢理やらされて。"
+  },
+  {
+    "key": "8-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "8-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "8-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "8-content",
+    "original": "사실 네가 있을 곳은 여기가 아니라는 마음이 들었지?",
+    "context": "EN :\nYou knew in your heart that you didn’t belong there, right?\nJP :\n君がいるべき場所はここじゃないって、本当は思ってたでしょう？"
+  },
+  {
+    "key": "9-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "9-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "9-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "9-content",
+    "original": "도망치고 싶었지? 다 그만두고 싶었지? 그렇지?",
+    "context": "EN :\nDidn’t you want to run? Didn’t you want to quit it all? Am I wrong?\nJP :\n逃げたかったでしょう？全部やめたかったでしょう？そうでしょう？"
+  },
+  {
+    "key": "10-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "10-content",
+    "original": "반드시…",
+    "context": "EN :\nI swear, I…\nJP :\n絶対に…。"
+  },
+  {
+    "key": "11-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "11-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "11-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "11-content",
+    "original": "함께 하자, 싱클레어! 피하지 말고 받아들여! 나의 원망을 완성시켜 줘!",
+    "context": "EN :\nJoin me, Sinclair! Don’t avoid this, embrace it! Complete my grudge!\nJP :\n共に征こう、シンクレア！逃げないで受け容れろ！\n私の願望を成就させて！"
+  },
+  {
+    "key": "12-content",
+    "original": "무기를 쥐고 있는 싱클레어의 팔에 점점 힘이 빠지고 있었다.",
+    "context": "EN :\nThe arm Sinclair was using to hold his weapon was growing limp by the second.\nJP :\n武器を握っているシンクレアの腕からだんだん力が抜けていった。"
+  },
+  {
+    "key": "13-content",
+    "original": "그러나 기어이 그는 크로머 앞으로 기어가는 것을 멈추지 않는다.",
+    "context": "EN :\nHe nevertheless continues in Kromer’s direction.\nJP :\nそれでも、彼はクローマーの前まで這い進むことを止めない。"
+  },
+  {
+    "key": "14-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "14-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "14-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "14-content",
+    "original": "고통을 받아들여야 해! 우린 고통마저도 초월한 순간에야 다시 태어날 수 있어!",
+    "context": "EN :\nYou must accept the pain! Only when we have transcended suffering itself can we be reborn!\nJP :\n苦痛を受け入れろ！\n私たちは苦痛さえ超越した瞬間に生まれ変わることができる！"
+  },
+  {
+    "key": "15-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "15-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "15-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "15-content",
+    "original": "살점을 채우고, 피를 쏟고! 가장 인간다운 것을 매 순간 늘려가면서!",
+    "context": "EN :\nBloat the flesh, spill the blood! Adding on the most human things each second!\nJP :\n肉を削ぎ、血を流して！ 最も人間らしいものを刹那ごとに増やしていきながら！"
+  },
+  {
+    "key": "16-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "16-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "16-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "16-content",
+    "original": "만인의 도시에 존재하는 불순물이 걸러진 가장 순수한 세상으로!",
+    "context": "EN :\nTo the purest world where the impurities plaguing the city of all folks have been filtered out!\nJP :\n万人の都市に存在する不純物が濾された最も純粋な世界へ！"
+  },
+  {
+    "key": "17-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "17-content",
+    "original": "엄마… 아빠… 누나…",
+    "context": "EN :\nMama… Papa… Sis…\nJP :\nお母さん…お父さん…姉さん…。"
+  },
+  {
+    "key": "18-content",
+    "original": "싱클레어가 숨을 거둔 수감자들의 얼굴을 바라보며 정신이 나간 듯 중얼거린다.",
+    "context": "EN :\nSinclair vacantly mutters, looking at the faces of his now dead fellow Sinners.\nJP :\nシンクレアが息を引き取った囚人たちの顔を見ながら、\n心ここにあらずといった様子でつぶやく。"
+  },
+  {
+    "key": "19-content",
+    "original": "그렇게 둘 수는 없었다.",
+    "context": "EN :\nI couldn’t leave him like this.\nJP :\nこのまま放っておくことはできなかった。"
+  },
+  {
+    "key": "20-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "20-content",
+    "original": "<싱클레어! 내 말을 들어!>",
+    "context": "EN :\n<Sinclair! Listen to me!>\nJP :\n<シンクレア！よく聞け！>"
+  },
+  {
+    "key": "21-content",
+    "original": "이제 와서라는 것이 부끄러웠지만, 이제라도 행동하고 싶었다.",
+    "context": "EN :\nI’m embarrassed that it took me so long to take action, but it was better late than never.\nJP :\n今更というのが恥ずかしかったが、今更だとしても行動したかった。"
+  },
+  {
+    "key": "22-content",
+    "original": "관리자답게.",
+    "context": "EN :\nAct like the manager I am.\nJP :\n管理人らしく。"
+  },
+  {
+    "key": "23-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "23-content",
+    "original": "<나는 알고 있어! 네가, 네가 누구에게 말할 수 있는 것 보다 더 많이 생각하고 있다는걸!>",
+    "context": "EN :\n<I know you think a lot! I know there’s a lot going on in your head that you can’t share with others!>\nJP :\n<私は知っている！君が、人に言ってる以上に\n沢山のことを考えているってことを！>"
+  },
+  {
+    "key": "24-content",
+    "original": "싱클레어는 그랬다.",
+    "context": "EN :\nThat’s how he was.\nJP :\nシンクレアはそうだった。"
+  },
+  {
+    "key": "25-content",
+    "original": "스스로가 짐덩이가 될까봐 입으로 꺼내는 것보다 더 많은 생각을 하고, 대부분은 속으로 삼켰다.",
+    "context": "EN :\nWorried that he might be a burden, he constantly put his mind through doubts and ruminations, most of which he never let on about.\nJP :\n自分が荷物になるのではないかと口に出していることよりも沢山のことを考え、\n大半の言葉は飲み込んでいた。"
+  },
+  {
+    "key": "26-content",
+    "original": "죄책감이라는 형태로 생각을 씹어 넘겼다고.",
+    "context": "EN :\nHe’s chewed up many a thought in the form of guilt.\nJP :\n罪悪感という形態で考えを噛み砕いて飲み干したということだ。"
+  },
+  {
+    "key": "27-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "27-content",
+    "original": "가족들은 나 때문에 죽었어…",
+    "context": "EN :\nMy family died because of me…\nJP :\n家族たちは僕のせいで死んだ…。"
+  },
+  {
+    "key": "28-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "28-content",
+    "original": "말해서는 안 되는 것을 말해버렸어…",
+    "context": "EN :\nI said stuff I really shouldn’t have…\nJP :\n言ってはいけないことを言ってしまった…。"
+  },
+  {
+    "key": "29-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "29-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "29-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "29-content",
+    "original": "그래! 모두 네 잘못이야. 그러니까 받아들여! 그래야 완전하게 거듭날 수 있어!",
+    "context": "EN :\nExactly! It’s all your fault—so embrace it! That’s the way to become wholly reborn!\nJP :\nそう！全部君の過ちだ。だから受け容れろ！\nそうしてやっと完全に生まれ変わることができるんだ！"
+  },
+  {
+    "key": "30-model",
+    "original": "변신크로머",
+    "translation": "变身的克罗默",
+    "context": "EN :\n#edddb9\nJP :\nCromerMonster"
+  },
+  {
+    "key": "30-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "30-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "30-content",
+    "original": "나를 따라와… 내 손에 쥐어지는 거야!",
+    "context": "EN :\nFollow me… and rest in my grip!\nJP :\n私に付いてきて…私の手に握られるのよ！"
+  },
+  {
+    "key": "31-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "31-content",
+    "original": "<그 말을 들어서는 안 돼!>",
+    "context": "EN :\n<Don’t listen to her!>\nJP :\n<聞いちゃだめだ！>"
+  },
+  {
+    "key": "32-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "32-content",
+    "original": "<잘 봐! 그 녀석을 충분히, 자세하게 바라보란 말이야!>",
+    "context": "EN :\n<You have to see! Look at her! Observe her carefully!>\nJP :\n<よく見ろ！あいつを詳しく、じっくり見ろって！>"
+  },
+  {
+    "key": "33-content",
+    "original": "그러나, 들리지 않는 듯.",
+    "context": "EN :\nAlas, my voice didn’t seem to reach him.\nJP :\nしかし、聞こえないかのように。"
+  },
+  {
+    "key": "34-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "34-content",
+    "original": "아…",
+    "context": "EN :\nAh…\nJP :\nあ…。"
+  },
+  {
+    "key": "35-content",
+    "original": "싱클레어의 손에 들린 무기는 기어이 바닥을 나뒹군다.",
+    "context": "EN :\nSinclair’s weapon leaves his hand and lands on the ground.\nJP :\nシンクレアの手に握られていた武器は、遂に床を転がった。"
+  },
+  {
+    "key": "36-content",
+    "original": "그는 더 이상 크로머에게로 향하지 않는다.",
+    "context": "EN :\nHis advance for Kromer has stopped.\nJP :\n彼はもうクローマーの方へ進まない。"
+  },
+  {
+    "key": "37-content",
+    "original": "그래, 이제 다 끝나버렸군.",
+    "context": "EN :\nYep, looks like this is the end for us.\nJP :\nああ、これで全部終わりか。"
+  },
+  {
+    "key": "38-content",
+    "original": "내 몸도 언덕 속에서 녹아내리고 있는 게 느껴진다.",
+    "context": "EN :\nI can feel my body melting into the mound.\nJP :\n私の身体も丘の中で融け落ちていくのが感じられる。"
+  },
+  {
+    "key": "39-content",
+    "original": "이렇게 어영부영 같잖은 관리자 놀음을 하다가 죽을 줄 알았지.",
+    "context": "EN :\nI knew I’d die trying to play the proper manager sooner or later.\nJP :\nいつかこんな風にのらりくらり管理人ごっこをやってて死ぬと思ってたよ。"
+  },
+  {
+    "key": "40-content",
+    "original": "하지만…",
+    "context": "EN :\nBut…\nJP :\nでも…。"
+  },
+  {
+    "key": "41-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "41-content",
+    "original": "<싱클레어…>",
+    "context": "EN :\n<Sinclair…>\nJP :\n<シンクレア…。>"
+  },
+  {
+    "key": "42-content",
+    "original": "더 말해주어야 한다.",
+    "context": "EN :\nI have to tell him more.\nJP :\nもっと言わなければならない。"
+  },
+  {
+    "key": "43-content",
+    "original": "크로머의 말은 거짓이고, 겁박이며, 위선에, 과장된 것의 나열일 뿐이라고 전해야 한다.",
+    "context": "EN :\nI have to tell him that Kromer’s spewing a heap of lies, threats, hypocrisy, and exaggeration.\nJP :\nクローマーの話は嘘であり、脅迫であり、偽善に、\n誇張されたことの羅列でしかないと伝えなければならない。"
+  },
+  {
+    "key": "44-content",
+    "original": "이렇게 싱클레어를 포기해서는 안 된다고, 온 신경들이 나서서 외친다.",
+    "context": "EN :\nEvery nerve in my body is screaming that I shouldn’t give up on him.\nJP :\nこんな風にシンクレアを諦めてはいけないと、全神経が励起して叫ぶ。"
+  },
+  {
+    "key": "45-content",
+    "original": "나는, 녹아들어 가는 몸의 형태를 오롯하게 느끼며…",
+    "context": "EN :\nI can feel the burning pain of my melting body…\nJP :\n私は、融けゆく身体の形をただ感じながら…。"
+  },
+  {
+    "key": "46-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "46-content",
+    "original": "<자세히, 자세히 들여다봐! 싱클레어!>",
+    "context": "EN :\n<Look, look closely! Sinclair!>\nJP :\n<じっくり、じっくり見つめるんだ！シンクレア！>"
+  },
+  {
+    "key": "47-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "47-content",
+    "original": "<눈이 아니라, 마음으로 들여다봐야 해!>",
+    "context": "EN :\n<Not with your eyes, but with your heart!>\nJP :\n<目じゃなくて、心で見つめるんだ！>"
+  },
+  {
+    "key": "48-content",
+    "original": "싱클레어에게 쥐어짠 목소리를 건넨다.",
+    "context": "EN :\nI screech at Sinclair.\nJP :\nシンクレアへ、絞り出した声を伝える。"
+  },
+  {
+    "key": "49-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "49-content",
+    "original": "<그래야만… 가장 중요한 것이 보일 테니까.>",
+    "context": "EN :\n<Only then… will you see what matters most.>\nJP :\n<そうすることで…最も大事なものが見えるはずだから。>"
+  },
+  {
+    "key": "50-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "50-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "50-content",
+    "original": "그래야만… 가장 중요한 것이 보일 테니까.",
+    "context": "EN :\nOnly then… will you see what matters most.\nJP :\nそうすることで…最も大事なものが見えるはずだから。"
+  },
+  {
+    "key": "51-content",
+    "original": "그때.",
+    "context": "EN :\nIn that moment…\nJP :\nそのとき。"
+  },
+  {
+    "key": "52-content",
+    "original": "누군가가 조용히 다가왔다.",
+    "context": "EN :\nSomeone quietly appeared.\nJP :\n誰かがゆっくりと近付いてきた。"
+  },
+  {
+    "key": "53-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "EN :\nleft\nJP :\nDemian"
+  },
+  {
+    "key": "53-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "53-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "53-content",
+    "original": "가장 중요한 것을 볼 수 있다면…",
+    "context": "EN :\nAnd when you can see the things that matter most…\nJP :\n最も大事なものを見ることができたら…。"
+  },
+  {
+    "key": "54-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "EN :\nleft\nJP :\nDemian"
+  },
+  {
+    "key": "54-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "54-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "54-content",
+    "original": "얕은 겁박이나 속임수로 너 자신을 죽이지 않아도 될 거야.",
+    "context": "EN :\nYou won’t have to stifle yourself with shallow threats or cheap tricks.\nJP :\n薄っぺらな脅迫や、まやかしで君自身を殺さずに済むはずだ。"
+  },
+  {
+    "key": "55-model",
+    "original": "데미안",
+    "translation": "德米安",
+    "context": "EN :\nleft\nJP :\nDemian"
+  },
+  {
+    "key": "55-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "55-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "55-content",
+    "original": "…그렇지, 싱클레어?",
+    "context": "EN :\n…Isn’t that right, Sinclair?\nJP :\n…そうだろう、シンクレア？"
+  },
+  {
+    "key": "56-content",
+    "original": "//효과연출1",
+    "context": "EN :\n//효과연출1\nJP :\n//효과연출1"
+  },
+  {
+    "key": "57-content",
+    "original": "그는 아주 가볍게, 마치 하늘을 떠다니듯 움직이고 있었다.",
+    "context": "EN :\nHe moved with grace and airiness, as though he floated in the air.\nJP :\n彼はとても軽く、まるで空を漂うように動いていた。"
+  },
+  {
+    "key": "58-content",
+    "original": "그 어떤 것도 그를 옭아매지 않는 것처럼, 그는 누구보다 가벼워 보였다.",
+    "context": "EN :\nHe seemed lighter than anyone else, unbound by anything.\nJP :\nいかなるもの彼を縛っていないかのように、彼は誰よりも軽く見えた。"
+  },
+  {
+    "key": "59-content",
+    "original": "세상 후련해 보이는 사람 같기도 했지만 반대로 그가 걸어오는 공기마다 모두를 가라앉게 만드는 것 같기도 했다.",
+    "context": "EN :\nContrary to his impression of freedom from all worldly longings, an oppressive air seemed to accompany every step he took.\nJP :\n世界に対して悟りを得た人のようにも見えたが、それとは裏腹に\n彼が歩み寄ってくるにつれて万人を押さえつける空気が\n押し寄せてくるようにも思えた。"
+  },
+  {
+    "key": "60-content",
+    "original": "그리고, 그가 오른팔을 휘두르자.",
+    "context": "EN :\nAnd, with just a wave of his right arm…\nJP :\nそして、彼が左腕を振ると。"
+  },
+  {
+    "key": "61-content",
+    "original": "//효과연출2",
+    "context": "EN :\n//효과연출2\nJP :\n//효과연출2"
+  },
+  {
+    "key": "62-content",
+    "original": "크로머의 상반신이 완벽하게 사라졌다.",
+    "context": "EN :\nKromer’s upper body vanished in a clean cut.\nJP :\nクローマーの上半身が完璧に消えた。"
+  }
+]

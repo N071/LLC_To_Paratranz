@@ -1,0 +1,1816 @@
+[
+  {
+    "key": "0-place",
+    "original": "은봉이네 호프집 앞",
+    "context": "EN :\nFront of Eunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場前"
+  },
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<뒤틀림을 해결하려면 어떻게 해야 하는 건데?>",
+    "context": "EN :\n<What are we supposed to do to resolve a Distortion?>\nJP :\n<ねじれを解決するにはどうすればいいんだ？>"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "간단해요.",
+    "context": "EN :\nIt’s simple.\nJP :\n簡単です。"
+  },
+  {
+    "key": "2-content",
+    "original": "파우스트는 모든 설명을 간단해요로 시작하는 습관이 있는 것 같았다.",
+    "context": "EN :\nFaust seemed to have a habit of prefacing her expositions with a disclaimer about their simplicity.\nJP :\nファウストはすべての説明を「簡単です」から始める癖があるようだった。"
+  },
+  {
+    "key": "3-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-content",
+    "original": "뒤틀림이 생긴 이의 마음을 열게 하면 될 겁니다.",
+    "context": "EN :\nWhat we will do is open up the heart of the Distorted.\nJP :\nねじれが生じた人の心を開けば良いでしょう。"
+  },
+  {
+    "key": "4-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "4-content",
+    "original": "경계를 풀고 스스로 마음을 내보일 수 있도록 말이죠.",
+    "context": "EN :\nDisarm their mind’s guard and coax them into opening up.\nJP :\n警戒を緩めて自ら心を曝け出せるようにですね。"
+  },
+  {
+    "key": "5-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "5-content",
+    "original": "그렇군. 견갑골을 꺼내야 하나? 아니면 복장뼈?",
+    "context": "EN :\nI see. Do we remove the scapula first? Or perhaps the sternum?\nJP :\nそうか。肩甲骨を外すべきか？あるいは胸骨？"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "흠, 속을 직접 내보이는 방법이라… 그 방식도 흥미롭군요.",
+    "context": "EN :\nHmm, a physical revelation of the heart… An interesting proposal.\nJP :\nふむ、中身を直接曝け出す方法ですか…そのやり方も興味深いですね。"
+  },
+  {
+    "key": "7-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "7-content",
+    "original": "<이, 일단… 그 ‘은봉이네’ 근처로 가서 뭐 좀 알아내는 편이 좋을 것 같아.>",
+    "context": "EN :\n<Er, first off… We probably should visit that Eunbong’s place and figure some things out.>\nJP :\n<と、とりあえず…その「ウンボン」の店の近くに行って色々調べる方がいいと思うんだ。>"
+  },
+  {
+    "key": "8-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "8-content",
+    "original": "으으… 생닭들이 돌아다니고 있어요. 위생에 좋지 않을 텐데…",
+    "context": "EN :\nEuh… Raw poultry is walking around. That can’t be hygienic…\nJP :\nうぅ…生鶏が歩き回っています。衛生的に良くなさそうです…。"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<아까 사람들 머리에 달렸던 것과 똑같이 생긴 것 같아.>",
+    "context": "EN :\n<They look like the things that were on those people’s heads earlier.>\nJP :\n<さっき人の頭に付いてたのと同じ見た目をしてる気がするね。>"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<정체가 뭔지는 몰라도 가까이하진 않는 게…>",
+    "context": "EN :\n<I dunno what they are, but we shouldn’t get too close to…>\nJP :\n<正体が分からないのはさておき、近付かない方が…。>"
+  },
+  {
+    "key": "11-content",
+    "original": "하지만 수감자들의 8할은, 내 말을 길가에 비둘기 우는 소리보다도 하찮게 여기고 있다는 사실을 잊고 있었다.",
+    "context": "EN :\nUnfortunately, I had forgotten that around 80% of the Sinners valued my suggestions less than the cooing of a random pigeon on the roadside.\nJP :\nしかし囚人の8割は、私の言葉を道端の鳩が鳴く声よりも軽視していることを忘れていた。"
+  },
+  {
+    "key": "12-model",
+    "original": "뒤틀린닭1",
+    "translation": "扭曲的鸡1",
+    "context": "EN :\n扭曲的存在\nJP :\nChicken1"
+  },
+  {
+    "key": "12-teller",
+    "original": "생닭",
+    "context": "EN :\nRaw Chicken\nJP :\n生鶏"
+  },
+  {
+    "key": "12-title",
+    "original": "뒤틀린 것",
+    "context": "EN :\nDistorted Thing\nJP :\nねじれたもの"
+  },
+  {
+    "key": "12-content",
+    "original": "기에엑!",
+    "context": "EN :\nKieeeh!\nJP :\nキエェッ！"
+  },
+  {
+    "key": "13-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "13-content",
+    "original": "그래서, 이 닭들을 족치면 그 집에서 치킨을 평생 먹을 수 있다는 거지?",
+    "context": "EN :\nSo we can have free chicken for life after we’re done whacking these pullets, eh?\nJP :\nそれで、この鶏をボコせば、あの店でチキンを一生食べれるってことだよな？"
+  },
+  {
+    "key": "14-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "14-content",
+    "original": "귀엽군. 모.썰이다.",
+    "context": "EN :\nCute. Let’s STAB.\nJP :\n可愛いな。ぜん・きりだ。"
+  },
+  {
+    "key": "15-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "15-content",
+    "original": "<…….>",
+    "context": "EN :\n<……>\nJP :\n<……。>"
+  },
+  {
+    "key": "16-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "<정답! 모두 썰어버린다는 뜻이었어!>",
+    "context": "EN :\n<I get it! That one was “slice them all bare”!>\nJP :\n<せいかい！全部切り刻んでやるって意味だった！>"
+  },
+  {
+    "key": "17-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "17-content",
+    "original": "…허.",
+    "context": "EN :\n…Huh.\nJP :\n…はぁ。"
+  },
+  {
+    "key": "18-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "18-content",
+    "original": "끄덕.",
+    "context": "EN :\nNod.\nJP :\n(コクッ)"
+  },
+  {
+    "key": "19-content",
+    "original": "공격을 받은 생닭들은 그대로 펄쩍 날아오르더니…",
+    "context": "EN :\nProvoked, the raw chickens leapt into the air…\nJP :\n攻撃を受けた生鶏はそのままぴょんと跳び上がると…。"
+  },
+  {
+    "key": "20-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "20-content",
+    "original": "히스클리프씨?!?!",
+    "context": "EN :\nHuh, Heathcliff?!?!\nJP :\nヒースクリフさん！？！？"
+  },
+  {
+    "key": "21-content",
+    "original": "히스클리프의 얼굴을 그대로 집어삼켰다.",
+    "context": "EN :\nHeathcliff’s face was then devoured by one of them.\nJP :\nヒースクリフの顔を丸ごと呑み込んだ。"
+  },
+  {
+    "key": "22-model",
+    "original": "히스클리프요리사",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "22-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "22-title",
+    "original": "뒤틀린 것?",
+    "context": "EN :\nDistorted Thing?\nJP :\nねじれたもの?"
+  },
+  {
+    "key": "22-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "23-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "23-content",
+    "original": "<…히스클리프?!!>",
+    "context": "EN :\n<…Heathcliff?!!>\nJP :\n<ヒースクリフ！？！>"
+  },
+  {
+    "key": "24-model",
+    "original": "히스클리프요리사",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "24-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "24-title",
+    "original": "뒤틀린 것?",
+    "context": "EN :\nDistorted Thing?\nJP :\nねじれたもの?"
+  },
+  {
+    "key": "24-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "25-content",
+    "original": "생닭 머리를 뒤집어 쓴 히스클리프는 아무 말도 하지 않은 채 우뚝 서 있다…",
+    "context": "EN :\nHeathcliff stood in silence with the raw chicken adorning his head…\nJP :\n生鶏の頭をかぶったヒースクリフは、何も言わずに突っ立っている···。"
+  },
+  {
+    "key": "26-content",
+    "original": "여간 공포스러운 장면이 아닐 수 없다.",
+    "context": "EN :\nIt was quite the sight, much to my terror.\nJP :\n恐ろしい絵面でないわけがない。"
+  },
+  {
+    "key": "27-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "27-content",
+    "original": "전 지금 히스클리프 씨 쪽이 더 괜찮은 것 같은데요? 지성적으로 보이잖아요.",
+    "context": "EN :\nI think I like Heathcliff better this way, y’know? He actually seems intelligent now.\nJP :\n私は今ヒースクリフさんの方がもっと良いと思いますけど？ 知性的に見えるじゃないですか。"
+  },
+  {
+    "key": "28-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "28-content",
+    "original": "어, 어떡해 단테? 빨리 시계 돌려!",
+    "context": "EN :\nOh gosh, what do we do, Dante? Wait, quick! Your clock!\nJP :\nど、どうしようダンテ？早く時計回して！"
+  },
+  {
+    "key": "29-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "29-content",
+    "original": "<그, 그렇지만…>",
+    "context": "EN :\n<B—But then…>\nJP :\n<だ、だけど…。>"
+  },
+  {
+    "key": "30-content",
+    "original": "물론 시계는 돌릴 수 있었다. 하지만…",
+    "context": "EN :\nNothing would stop me from rewinding here. But the problem is…\nJP :\nもちろん時計を回すことは出来た。でも…。"
+  },
+  {
+    "key": "31-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "31-content",
+    "original": "<괜히 시계를 돌렸다가 나한테까지 닭 머리가 옮아버리면 어떡하지?>",
+    "context": "EN :\n<What if my head turns into a chicken while the clock’s working?>\nJP :\n<下手に時計を回して私にまで鶏頭が移ったらどうしよう？>"
+  },
+  {
+    "key": "32-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "32-content",
+    "original": "그. 그.",
+    "context": "EN :\nS.D.\nJP :\nど・ど。"
+  },
+  {
+    "key": "33-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "33-content",
+    "original": "그게 그거라니요?!",
+    "context": "EN :\nSame difference?!\nJP :\nどっちもどっちじゃないですか！？"
+  },
+  {
+    "key": "34-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "34-content",
+    "original": "시계 대가리나 닭 대가리나 무슨 차이가 있다고 유난인지 모르겠군.",
+    "context": "EN :\nClockhead, chickenhead—they’re no different, so I don’t get being huffy over it.\nJP :\n時計ヅラも鶏ヅラも、何がそんな違うって騒ぎ立ててるのか分からないな。"
+  },
+  {
+    "key": "35-content",
+    "original": "진심으로 히스클리프를 걱정하는 건 싱클레어밖에 없는 것 같았다.",
+    "context": "EN :\nIt looked like Sinclair was the only one actually worried about Heathcliff.\nJP :\n本気でヒースクリフを心配しているのはシンクレアしかいないようだった。"
+  },
+  {
+    "key": "36-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "36-content",
+    "original": "히스클리프 씨! 괜찮으세요?",
+    "context": "EN :\nMister Heathcliff! Are you alright in there?\nJP :\nヒースクリフさん！大丈夫ですか？"
+  },
+  {
+    "key": "37-model",
+    "original": "히스클리프요리사",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "37-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "37-title",
+    "original": "뒤틀린 것?",
+    "context": "EN :\nDistorted Thing?\nJP :\nねじれたもの?"
+  },
+  {
+    "key": "37-content",
+    "original": "기… 기…",
+    "context": "EN :\nGhii… Ghii…\nJP :\nギ…ギ…。"
+  },
+  {
+    "key": "38-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "38-content",
+    "original": "있지, 분리가 안 되면 이대로 우리 마스코트로 써먹어 보는 건 어때?",
+    "context": "EN :\nSay, why don’t we keep him as our mascot if the thing never comes off?\nJP :\nねぇ、分離できなかったらこのままうちのマスコットに使うのってどう？"
+  },
+  {
+    "key": "39-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "39-content",
+    "original": "<로쟈는 왜 자꾸 마스코트에 집착하는거야…?>",
+    "context": "EN :\n<What’s the deal with you and mascots anyway…?>\nJP :\n<ロージャはなんでマスコットにこだわるんだ…？>"
+  },
+  {
+    "key": "40-model",
+    "original": "히스클리프요리사",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "40-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "40-title",
+    "original": "뒤틀린 것?",
+    "context": "EN :\nDistorted Thing?\nJP :\nねじれたもの?"
+  },
+  {
+    "key": "40-content",
+    "original": "기… 오…",
+    "context": "EN :\nGhii… Cooh…\nJP :\nギ…オ…。"
+  },
+  {
+    "key": "41-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "41-content",
+    "original": "오오오오오! 저걸 보시오! 히스클리프 씨가 다른 닭들과 대화를 나누고 있소!",
+    "context": "EN :\nOhhhh! Lead your eyes thither! Heathcliff is communicating with the other hens!\nJP :\nおおおおぉぉ！あれをご覧ぜよ！ヒースクリフ氏が他の鶏たちと会話をしているぞ！"
+  },
+  {
+    "key": "42-model",
+    "original": "뒤틀린손님2",
+    "translation": "扭曲的客人2",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenBoy"
+  },
+  {
+    "key": "42-teller",
+    "original": "닭머리 사람",
+    "context": "EN :\nChickenhead\nJP :\n鶏頭人間"
+  },
+  {
+    "key": "42-title",
+    "original": "뒤틀린 것",
+    "context": "EN :\nDistorted Thing\nJP :\nねじれたもの"
+  },
+  {
+    "key": "42-content",
+    "original": "꼬끼기! 꼬끼기기오. 꼬기기기!",
+    "context": "EN :\nBubawkgi! Bubawkgicludoo. Buhbawkgigi!\nJP :\nコケケ！コケケケオ。コキキキ！"
+  },
+  {
+    "key": "43-model",
+    "original": "히스클리프요리사",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "43-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "43-title",
+    "original": "뒤틀린 것?",
+    "context": "EN :\nDistorted Thing?\nJP :\nねじれたもの?"
+  },
+  {
+    "key": "43-content",
+    "original": "꼬기기… 끼기기오… 꼬기…",
+    "context": "EN :\nBubawgi… Doodlegidoo… Buhbawk…\nJP :\nコケケ…キキキオ…コキ…。"
+  },
+  {
+    "key": "44-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "44-content",
+    "original": "후후, 수다쟁이가 되었네요, 히스클리프 씨.",
+    "context": "EN :\nFuhu, Heathcliff’s become quite the chatterbox.\nJP :\nふふ、お喋りになりましたね。ヒースクリフさん。"
+  },
+  {
+    "key": "45-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "45-content",
+    "original": "히스클리프 씨가 대화를 한다기 보단, 얼굴에 씌워져 있는 저 닭이 히스클리프 씨의 몸을 빌려서 말하는 것 같군요.",
+    "context": "EN :\nIt appears that the chicken sitting on his face is using his mouth to communicate, rather than Heathcliff himself.\nJP :\nヒースクリフさんが会話をするというより、顔に被さってるあの鶏がヒースクリフさんの身体を借りて話しているようですね。"
+  },
+  {
+    "key": "46-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "46-content",
+    "original": "훌쩍… 나는 싫소… 히스클리프 씨와 나중에 ‘타오르는 석양의 해결사들’ 코스프레를 같이 하고 싶었단 말이오… 생닭 머리를 해가지고선 그 코스튬을 해 봤자 저대로는 비웃음만 당할 것이오…",
+    "context": "EN :\nSniff… I cannot leave Sir Heathcliff in these straits… I had wished to dress with him as two “Fixers del Atardecer Ardiente” someday… We would only be subject to mockery if he were to engage in mummery with that chickened head…\nJP :\nぐすん…私は嫌でございまする…。ヒースクリフ氏とはあとで「燃える夕日のフィクサーたち」のコスプレを一緒にしたかったのでありまする…。生鶏の頭じゃ、あのコスチュームを着たところで嘲笑われるだけに違いありませぬ…。"
+  },
+  {
+    "key": "47-content",
+    "original": "점점 보는 눈이 많아지고 있었기에 우리는 히스클리프를 강제로 밀어대며 은봉이네 호프집 안으로 들어가기로 했다.",
+    "context": "EN :\nTo avoid the gathering crowd, we shoved Heathcliff into the interior of Eunbong’s Bar & Fryers and followed behind him.\nJP :\nますます周囲の視線が痛くなってきたので、私たちはヒースクリフを強制的に押しやりながら、ウンボンのチキン酒場の中に入ることにした。"
+  },
+  {
+    "key": "48-place",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "48-model",
+    "original": "히스클리프요리사",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "48-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "48-title",
+    "original": "뒤틀린 것?",
+    "context": "EN :\nDistorted Thing?\nJP :\nねじれたもの?"
+  },
+  {
+    "key": "48-content",
+    "original": "기이이… 기이이…",
+    "context": "EN :\nGhiii… Ghiii…\nJP :\nギイイ…ギイイ…。"
+  },
+  {
+    "key": "49-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "49-content",
+    "original": "이 닭대가리 도저히 못 봐주겠군. 정신이 바짝 돌아오도록 만들어주지.",
+    "context": "EN :\nI can’t stand his clucking anymore. I’ll bring him back to his senses sharply.\nJP :\nこの鶏頭、見てられないな。気を引き締めてやるか。"
+  },
+  {
+    "key": "50-content",
+    "original": "오티스는 히스클리프의 생닭 머리를 한 손으로 붙잡더니 다른 손으로는 사정없이 힘껏 때리기 시작했다.",
+    "context": "EN :\nOutis grabbed the raw chicken on Heathcliff’s head with one hand and began to slap it ruthlessly with her spare.\nJP :\nウーティスはヒースクリフの生鶏の頭を片手でつかみ，もう片方の手で容赦なく殴り始めた。"
+  },
+  {
+    "key": "51-content",
+    "original": "따귀를…",
+    "context": "EN :\nFuriously…\nJP :\n横っ面を…。"
+  },
+  {
+    "key": "52-model",
+    "original": "히스클리프요리사",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "52-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "52-title",
+    "original": "뒤틀린 것?",
+    "context": "EN :\nDistorted Thing?\nJP :\nねじれたもの?"
+  },
+  {
+    "key": "52-content",
+    "original": "끼… 끼오…",
+    "context": "EN :\nKwi… Giidoough…\nJP :\nキ…キォ…。"
+  },
+  {
+    "key": "53-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "53-content",
+    "original": "…타격 소리가 적군의 포로를 심문할 때의 세기와 유사했다.",
+    "context": "EN :\n…The sound of the impacts was comparable to when she was interrogating a captive enemy.\nJP :\n…打撃音は、敵の捕虜を尋問するときと同じくらい力強かった。"
+  },
+  {
+    "key": "54-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "54-content",
+    "original": "정신 차릴 기색이 보이지 않는다. 어쩔 수 없겠어. 닭 머리를 통째로 뽑아내겠다.",
+    "context": "EN :\nI don’t see him ever recovering on his own. This leaves us no choice. I will remove the chicken head as a whole.\nJP :\n目覚める気配が見えない。しょうがない。鶏頭を丸ごと抜き取るか。"
+  },
+  {
+    "key": "55-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "55-content",
+    "original": "그렇게 막 무 뽑듯이 뽑아도 되는 거야? 그러다가 얼굴 가죽이라도 벗겨지면 어떡해!",
+    "context": "EN :\nIs it really okay to yank it off like that? You might peel his face right off with it!\nJP :\nそんな大根抜くみたいに抜いてもいいの？それで顔の皮でも剥けたらどうするの！"
+  },
+  {
+    "key": "56-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "56-content",
+    "original": "답답하군. 설사 얼굴 가죽이 벗겨져도, 관리자님이 계시니까 괜찮은 거다.",
+    "context": "EN :\nGrow a backbone. Even if his skin were to be removed, it’s perfectly fine as our executive manager is here to handle it.\nJP :\n焦れったいな。たとえ顔の皮が剥がれても、管理人様がいらっしゃるから大丈夫だ。"
+  },
+  {
+    "key": "57-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "57-content",
+    "original": "<아니야… 그건 괜찮지 않아, 오티스 진짜 안 괜찮…>",
+    "context": "EN :\n<No, seriously… It’s really not fine for me, Outis, and I can’t just—>\nJP :\n<いや…それは大丈夫っていわないんだ、ウーティス本当にだいじょばな―>"
+  },
+  {
+    "key": "58-content",
+    "original": "하지만 오티스는 히스클리프의 닭머리를 있는 힘껏 잡아당기기 시작했다.",
+    "context": "EN :\nDespite her opposition, Outis began jostling the chicken with all her might.\nJP :\nしかしウーティスはヒースクリフの鶏頭を力一杯引っ張り始めた。"
+  },
+  {
+    "key": "59-model",
+    "original": "히스클리프요리사",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "59-teller",
+    "original": "히스클리프?",
+    "context": "EN :\nHeathcliff?\nJP :\nヒースクリフ?"
+  },
+  {
+    "key": "59-title",
+    "original": "뒤틀린 것?",
+    "context": "EN :\nDistorted Thing?\nJP :\nねじれたもの?"
+  },
+  {
+    "key": "59-content",
+    "original": "끼이이이 끼이이이!!!",
+    "context": "EN :\nKiiiiih khiiiiiih!!!\nJP :\nキイイィ、キィイイ！！！"
+  },
+  {
+    "key": "60-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "60-content",
+    "original": "<부우욱 하는 소리가 들렸는데… 설마 아니지? 응?>",
+    "context": "EN :\n<I heard something tear… It didn’t actually come off, did it? Huh?>\nJP :\n<ビリビリって音が聞こえたけど…まさか違うよね？うん？>"
+  },
+  {
+    "key": "61-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "61-content",
+    "original": "커억…커억… 켁….",
+    "context": "EN :\nKuff… Kaff… Gehg…\nJP :\nけほっ…けほっ…ぐぇっ…。"
+  },
+  {
+    "key": "62-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "62-content",
+    "original": "정신이 드나?",
+    "context": "EN :\nBack with us soldier?\nJP :\n気がついたか？"
+  },
+  {
+    "key": "63-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "63-content",
+    "original": "윽… 입안에 왜 이상한 국물이….",
+    "context": "EN :\nUrgh… What’s with this barmy soup in my mouth…\nJP :\nうっ…口の中になんで変な汁が…。"
+  },
+  {
+    "key": "64-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "64-content",
+    "original": "히스… 계속 이상한 말들을 중얼거리면서 닭들이랑 진지하게 대화를 나눴어. 기억나?",
+    "context": "EN :\nHeath… You were having some serious discussion with those chickens, clucking weird stuff. Remember?\nJP :\nヒース…ずっと変な言葉をブツブツ言いながら鶏たちと真剣に会話をしてたけど。覚えてる？"
+  },
+  {
+    "key": "65-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "65-content",
+    "original": "그, 그러고보니… 뭔가 대화가 머릿속에 들어왔던 것 같기도 한데…",
+    "context": "EN :\nHuh, now that you say it… I think I did hear some gabbing in my head…\nJP :\nそ、そういえば…なんだか会話が頭の中に入ってきた気もするけどな…。"
+  },
+  {
+    "key": "66-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "66-content",
+    "original": "뭐, 뭐라더라… 무슨 레시피를 잃어버렸다고 했는데…",
+    "context": "EN :\nW-What were they on about… Some sort of recipe got lost, I guess…\nJP :\nその、なんだっけ…なんかのレシピを失ったって言ってたけど…。"
+  },
+  {
+    "key": "67-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "67-content",
+    "original": "손님을 모이게 하는 비장의 요리법이었는데, 그게 없어진 이후론… 손님이 발길을 뚝 끊어서…",
+    "context": "EN :\nWas the cornerstone of this eatery, but once it was gone… He stopped getting customers…\nJP :\n客を集める秘蔵のレシピだったのに、それが無くなってからは…客足がぷっつり途絶えて…。"
+  },
+  {
+    "key": "68-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "68-content",
+    "original": "그 후로 주인님이 갑자기 이상해지더니… 우리들을 감염시키고…",
+    "context": "EN :\nThat’s when the master started acting off… and infected us all…\nJP :\nそれ以降ご主人様が急に変になって…私たちを感染させて…。"
+  },
+  {
+    "key": "69-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "69-content",
+    "original": "풉… 지금 닭들이랑 ‘우리’라고 한 거예요?",
+    "context": "EN :\nPft… Did you just say those chickens were “us”?\nJP :\nぷっ…今、鶏たちと一緒になって「私たち」って言いました？"
+  },
+  {
+    "key": "70-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "70-content",
+    "original": "…젠장, 아직까지도 닭도리들의 영향이… 혼란스럽군.",
+    "context": "EN :\n…Bugger, I’m still recovering from those headhens… This is confusing…\nJP :\n…クソッ、まだあのチキン野郎の影響が…頭がゴチャゴチャする。"
+  },
+  {
+    "key": "71-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "71-content",
+    "original": "쟤네 이름이 닭도리였나요…?",
+    "context": "EN :\nThat’s what you decided to call them…?\nJP :\nそいつらの名前ってチキン野郎なんですか…？"
+  },
+  {
+    "key": "72-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "72-content",
+    "original": "<뒤틀림의 원인이 레시피의 분실에 있는 거라면…>",
+    "context": "EN :\n<If the Distortion happened because he lost his recipe…>\nJP :\n<ねじれの原因がレシピの紛失にあるのなら···。>"
+  },
+  {
+    "key": "73-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "73-content",
+    "original": "<우리가 그 레시피를 재현시켜주면 되는 거 아니야?>",
+    "context": "EN :\n<Then maybe we can somehow recreate it for him?>\nJP :\n<私たちがそのレシピを再現すればいいんじゃないか？>"
+  },
+  {
+    "key": "74-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "74-content",
+    "original": "얼추 근접한 답안에 도달해낸 것 같군요.",
+    "context": "EN :\nYou’ve gotten close enough to an answer.\nJP :\nある程度近しい答えに到達したようですね。"
+  },
+  {
+    "key": "75-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "75-content",
+    "original": "뒤틀림에 대해 밝혀진 건 많이 없지만… 선악…아니, 마음이 산산이 허물어졌을 때 발생한다고 알려져 있죠.",
+    "context": "EN :\nThough much about the Distortion remains unknown, one of the noted particulars is that it occurs when the good and evil… No, when the mind crumbles to figurative pieces.\nJP :\nねじれについて明らかになったことはあまりありませんが…善悪…いいえ、心が粉々に砕けたときに発生すると知られています。"
+  },
+  {
+    "key": "76-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "76-content",
+    "original": "<뭔가 선악이라고 말하려 했다가 귀찮아져서 마음이라고 바꾼 것 같은데…>",
+    "context": "EN :\n<Sounds like you just pivoted away from “good and evil” because that version would get too long for you to bother…>\nJP :\n<なんか、善悪と言おうとしたけど面倒になって心に変えた気がするけど…。>"
+  },
+  {
+    "key": "77-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "77-content",
+    "original": "가령, 홍루 씨가 도시를 살아가면서, 절대 변하지 않을 거라고 확신했던 믿음이 있었을 거예요.",
+    "context": "EN :\nFor instance, let’s say that Hong Lu held a belief he was certain would be an unchanging constant as he lived in the City.\nJP :\nたとえば、ホンルさんが都市を生きていく中で、絶対変わらないと確信していたものがあったはずです。"
+  },
+  {
+    "key": "78-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "78-content",
+    "original": "혹은 삶을 지탱하고 있던 희망이라 불리는 무언가가 있었을 수도 있겠죠.",
+    "context": "EN :\nOr, it could be a hope for some other psychological sustainment that has supported his life.\nJP :\nあるいは人生を支えていた希望と呼ばれる何かがあったのかもしれません。"
+  },
+  {
+    "key": "79-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "79-content",
+    "original": "…흐음.",
+    "context": "EN :\n…Hmm.\nJP :\n…ふむ。"
+  },
+  {
+    "key": "80-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "80-content",
+    "original": "그게 한순간에 무너졌다면, ‘나’를 놓아버리게 될 정도로 커다란 충격을 받는다면, 마음이 허물어지겠죠.",
+    "context": "EN :\nIf that support suddenly collapses in a massively shocking event that causes one to let their “ego” go, his mind would crumble, so to speak.\nJP :\nそれが一瞬にして崩れれば、そして「私」を手放してしまうほど大きな衝撃を受ければ、心が崩れるでしょう。"
+  },
+  {
+    "key": "81-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "81-content",
+    "original": "…뭐, 그럴 수도 있겠네요.",
+    "context": "EN :\n…Well, I could see that happening.\nJP :\n…まぁ、そうかもしれませんね。"
+  },
+  {
+    "key": "82-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "82-content",
+    "original": "뭐, 잘난 도련님 인생에서 일어난 대단한 충격이라 봤자 용돈 뺏기는 거 아니겠어?",
+    "context": "EN :\nWhat could be so shocking for a well-off cuss like you? Getting your privy purse snatched away?\nJP :\nまぁ、いいとこのボンボンの人生で起きたすごい衝撃って、小遣い奪われるくらいじゃねぇか？"
+  },
+  {
+    "key": "83-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "83-content",
+    "original": "용돈은 받은 적도 없었던 걸요. 원할 때마다 쓸 수 있었는데 굳이 받을 필요는 없잖아요.",
+    "context": "EN :\nOh, no, I never received an allowance. There was no need for such a thing when I could spend any amount whenever I wanted.\nJP :\n小遣いは貰ったことないですね。好きな時に使えたのに、あえて貰う必要はないじゃないですか。"
+  },
+  {
+    "key": "84-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "84-content",
+    "original": "뭐야? 그럼 뭐였는데?",
+    "context": "EN :\nReally? What else is it, then?\nJP :\nえぇ？じゃあなんだったの？"
+  },
+  {
+    "key": "85-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "85-content",
+    "original": "으음… 알고 있다고 생각했는데, 지금은 떠오르지 않네요.",
+    "context": "EN :\nHm… I thought I knew, but I can’t seem to elaborate on it with words right now.\nJP :\nうぅん…知ってるはずなんですけど、今は思い浮かばないですね。"
+  },
+  {
+    "key": "86-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "86-content",
+    "original": "즉, 정리를 해드리자면…",
+    "context": "EN :\nTo return to the point and sum things up…\nJP :\nつまり、整理しますと…。"
+  },
+  {
+    "key": "87-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "87-content",
+    "original": "뒤틀림은… 발생자만 알 수 있는 원인 모를 심리적 충격으로 인해 벌어진 현상.",
+    "context": "EN :\nThe Distortion… is a phenomenon that arises from deeply personal psychological shock.\nJP :\nねじれは…発生者だけ知り得る、原因不明の心理的衝撃によって起きた現象。"
+  },
+  {
+    "key": "88-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "88-content",
+    "original": "단단히 마음의 벽을 쌓아 올린 상태라고 말할 수 있죠.",
+    "context": "EN :\nThe affected will have walled off their heart with a solid defense.\nJP :\n堅牢な心の壁を築いた状態だといえます。"
+  },
+  {
+    "key": "89-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "89-content",
+    "original": "이 벽을, 뒤틀림이 원하는 방식을 통해서 허물어야 합니다.",
+    "context": "EN :\nThis wall has to be brought down using methods that the Distorted would approve.\nJP :\nこの壁を、ねじれが望む方法で崩さなければなりません。"
+  },
+  {
+    "key": "90-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "90-content",
+    "original": "여기서 뒤틀림이 원하는 방식이라 한다면…",
+    "context": "EN :\nAnd in this case, the Distortion would want…\nJP :\nここでねじれが望む方法というと…。"
+  },
+  {
+    "key": "91-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "91-content",
+    "original": "…‘닭요리’ 겠군, 그래.",
+    "context": "EN :\n…Chicken-based cooking, right.\nJP :\n…「鶏料理」だろうな、うん。"
+  },
+  {
+    "key": "92-content",
+    "original": "그레고르가 자신만만한 기색으로 한 걸음 성큼 내디디며 말했다.",
+    "context": "EN :\nGregor took a confident step forward after saying that.\nJP :\nグレゴールは自信満々な様子で、一歩ずつ踏み出しながら言った。"
+  },
+  {
+    "key": "93-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "93-content",
+    "original": "전쟁통에서 남은 음식을 모아 전우들에게 통조림을 이용한 요리를 해준 적이 많았지.",
+    "context": "EN :\nI cooked up a good few meals using leftovers and cans for my comrades in arms during the war.\nJP :\n戦争中に残った食べ物をかき集めて、戦友たちに缶詰を使った料理を作ってあげたことは結構あったな。"
+  },
+  {
+    "key": "94-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "94-content",
+    "original": "트라우마에 시달리던 군인들도 전부 감동의 눈물을 흘리며 다 같이 퍼먹었어.",
+    "context": "EN :\nThose traumatized soldiers were moved to tears by my dishes as they gobbled up the stuff.\nJP :\nトラウマに苦しんでいた軍人たちも感動の涙を流しながら、みんなで掬って食べたよ。"
+  },
+  {
+    "key": "95-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "95-content",
+    "original": "흥.",
+    "context": "EN :\nHmph.\nJP :\nふん。"
+  },
+  {
+    "key": "96-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "96-content",
+    "original": "…방금 누가 콧김 소리를 냈던 것 같은데… 내가 잘못 들은 거겠지?",
+    "context": "EN :\n…Hey now, is it just me… or did I hear somebody scoff at that?\nJP :\n…さっき誰かが鼻で笑った音が聞こえた気がするけど…俺の聞き間違いだよな？"
+  },
+  {
+    "key": "97-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "97-content",
+    "original": "웃기는군. 벌.털 주제에 어디서 요리를 운운하는 거지? 네놈, 차라리 그 집게로 햄버거 패티나 굽는 편이 낫겠군.",
+    "context": "EN :\nHow droll. What does a C.F. know about cooking? You’d be better off flipping hamburger patties with your pincer.\nJP :\n笑えるな。け・むの癖にどうやって料理をするんだ？いっそ、お前はそのトングでハンバーガーのパテでも焼くのが良いだろう。"
+  },
+  {
+    "key": "98-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "98-content",
+    "original": "와~ 그레고르 씨가 가게를 차린다면 집게 사장이 되는 거네요!",
+    "context": "EN :\nOoh~ If Mr. Gregor opened a business, he’d be a boss with big meaty claws!\nJP :\nわぁ～グレゴールさんハンバーガ屋さんを開くんですか？海とかで開いたら楽しそうですね！"
+  },
+  {
+    "key": "99-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "99-content",
+    "original": "…료슈, 그거 벌레 털보라는 뜻이었지? 그래도 뭔가 집게 사장이란 호칭은 맘에 드는군… 음? 갑자기 머리가…",
+    "context": "EN :\n…Ryōshū, that’s short for “crawling furball”, isn’t it? But I’ll say, I do like the idea of being the guy with big meaty claws… Eh? My head just got a sting…\nJP :\n…良秀、それって毛むくじゃらの虫って意味だよな？でも海でハンバーガー屋さんってのは悪く無いな、腕でパテをひっくり…うん？何だか頭が…。"
+  },
+  {
+    "key": "100-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "100-content",
+    "original": "요리는 말이지… 혀, 그리고 검이 시키는 대로 하는 것이다.",
+    "context": "EN :\nA true chef… follows their tongue and blade.\nJP :\n料理はな…舌、そして刃に従うことだ。"
+  },
+  {
+    "key": "101-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "101-content",
+    "original": "전쟁통에서 마구잡이로 해 먹은 음식을, 진정 요리라고 부를 가치가 있는가?",
+    "context": "EN :\nCould you really say that food haphazardly mashed together in a warzone is real cuisine?\nJP :\n戦場で作ったぐちゃぐちゃの食べ物を、真の料理と呼ぶ価値はあるのか？"
+  },
+  {
+    "key": "102-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "102-content",
+    "original": "오~ 방금 명대사 나왔어!",
+    "context": "EN :\nOhhh~ That’s one for the cookbooks!\nJP :\nお～今の名ゼリフじゃない！？"
+  },
+  {
+    "key": "103-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "103-content",
+    "original": "심지어 료슈씨가 줄여 말하지도 않았어요!",
+    "context": "EN :\nMs. Ryōshū, she’s speaking with full words for once!\nJP :\nしかも良秀さんが略さずに話しました！"
+  },
+  {
+    "key": "104-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "104-content",
+    "original": "큭… 있어 보이는 말이긴 하지만 저자한테서 들으니까 기분이 거시기 하군…",
+    "context": "EN :\nGrr… It sounded cool, but I’m not sure you’re one to be giving out advice…\nJP :\nくぅ…一理はありそうだけど、あいつから聞くとアレな気持ちになるな…。"
+  },
+  {
+    "key": "105-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "105-content",
+    "original": "아니 그런데, 요리는 해본 적 있나, 료슈?",
+    "context": "EN :\nActually, hold on, have you even cooked before, Ryōshū?\nJP :\nいや、ところで料理したことはあるのか、良秀？"
+  },
+  {
+    "key": "106-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "106-content",
+    "original": "당연. 시답지 않은 네 놈이 상상조차 할 수 없는 경지의 요리를 해봤지.",
+    "context": "EN :\nObvs. I have crafted dishes on a level that you as a trifling cook can’t dare imagine.\nJP :\n当然。くだらないお前が想像すらできない境地の料理をやったこともある。"
+  },
+  {
+    "key": "107-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "107-content",
+    "original": "이거 점점 열 받네…",
+    "context": "EN :\nOkay, now I’m starting to get mad…\nJP :\n段々イライラしてくるな…。"
+  },
+  {
+    "key": "108-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "108-content",
+    "original": "그럼 그럼… 나는 료슈 편!",
+    "context": "EN :\nLet’s see, then… I’m on Shū’s side!\nJP :\nじゃあじゃあ…私は良秀サイドね！"
+  },
+  {
+    "key": "109-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "109-content",
+    "original": "갑자기 편을 나누는 이유는 뭐지?",
+    "context": "EN :\nWhy are we splitting up into teams now?\nJP :\n急になんでチームを分けるんだ？"
+  },
+  {
+    "key": "110-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "110-content",
+    "original": "아하하, 재밌잖아~",
+    "context": "EN :\nAhaha, I mean, it’s fun~\nJP :\nあはは、おもしろいでしょ～。"
+  },
+  {
+    "key": "111-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "111-content",
+    "original": "그리고 자연스럽게 료슈 편에 선 이유는?",
+    "context": "EN :\nAnd why did you end up siding with her?\nJP :\nそして自然と良秀の方に立った理由は？"
+  },
+  {
+    "key": "112-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "112-content",
+    "original": "그렉, 우린 그동안 너무 가까웠어. 오늘만큼은 벽을 좀 둬보자고.",
+    "context": "EN :\nGreg, darling, we’ve been stuck too close for too long. Why don’t we try a little distance just for today?\nJP :\nグレッグ、私たち今まで近すぎたの。今日だけは距離を置いてみましょ。"
+  },
+  {
+    "key": "113-content",
+    "original": "정신을 어느 정도 차린 히스클리프가 그레고르 가까이에 서더니 말했다.",
+    "context": "EN :\nHeathcliff, having shaken off the dizziness, walked to Gregor’s side.\nJP :\nある程度正気に戻ったヒースクリフはグレゴールの近くに立って言った。"
+  },
+  {
+    "key": "114-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "114-content",
+    "original": "그러니까 저 자식을 박살 내면 이긴다, 이거지?",
+    "context": "EN :\nSo we win by pulping ‘er up, aye?\nJP :\nだからあいつをズタズタにすれば勝つってことだよな？"
+  },
+  {
+    "key": "115-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "115-content",
+    "original": "아니 아니, 박살내는 게 아니라…",
+    "context": "EN :\nNo no, we aren’t crushing anyone with force…\nJP :\nいやいや、ズタズタにするんじゃなくて…。"
+  },
+  {
+    "key": "116-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "116-content",
+    "original": "설마 부하들에게 통조림을 먹였다는 말인가? 군인의 수치군. 참고로 난 즉석식품 파다.",
+    "context": "EN :\nYou admit to feeding your men canned food? You’re a disgrace of a soldier. For your reference, I much prefer instant foods.\nJP :\nまさか部下たちに缶詰を食べさせたというのか？ 軍人の羞恥だ。ちなみに私は即席食品派だ。"
+  },
+  {
+    "key": "117-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "117-content",
+    "original": "그냥 입맛이 다른 것뿐이잖아!",
+    "context": "EN :\nThat reference is just a preference!\nJP :\nただ好みが違うだけじゃないか！"
+  },
+  {
+    "key": "118-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "118-content",
+    "original": "유치하네요, 정말. 이런 걸로 편 가르기나 하고 싶어요?",
+    "context": "EN :\nThis is childish, really. Do you guys seriously want to take sides over this?\nJP :\n幼稚ですね、本当に。こんなのでチーム分けしたいんですか？"
+  },
+  {
+    "key": "119-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "119-content",
+    "original": "그래서 그래서? 이스는 어느 쪽이야? 만약에, 수감자 음식 담당자를 그렉이나 료슈 중에 꼭 한 명 선택해야 한다면 말이야…",
+    "context": "EN :\nTell us, why don’t you tell us? Which side are you, Ishy? If you had to choose between Greg and Ryōshū to serve food for us Sinners…\nJP :\nそれでそれで？イシュはどっち？もし、囚人の料理担当者をグレッグか良秀のどっちかから必ず一人選ぶ必要があるとしたらね…。"
+  },
+  {
+    "key": "120-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "120-content",
+    "original": "수작 부리지 마. 이스마엘 저 친구는 초반부터 나랑 생각이 좀 통했던 사이라고.",
+    "context": "EN :\nDon’t you try and coax her. I know Ishmael and I have been thick as thieves since early on.\nJP :\n馬鹿な真似はよせ。イシュメール、あいつは最初から俺と考えがある程度通じた仲なんだ。"
+  },
+  {
+    "key": "121-content",
+    "original": "그레고르의 확신과는 달리 이스마엘은 어딘가 어색한 듯한 표정과 주춤거리는 자세를 취하고 있었다.",
+    "context": "EN :\nIn spite of Gregor’s confidence, Ishmael’s face and posture betrayed a sense of awkwardness.\nJP :\nグレゴールの確信とは裏腹にイシュメールはどこかぎこちない表情と、ためらうような姿勢を取っていた。"
+  },
+  {
+    "key": "122-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "122-content",
+    "original": "이, 이스마엘…?",
+    "context": "EN :\nI—Ishmael…?\nJP :\nい、イシュメール…？"
+  },
+  {
+    "key": "123-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "123-content",
+    "original": "그레고르 씨의 통조림 음식은… 소싯적에 배 위에서 지긋지긋하게 많이 먹어서요…",
+    "context": "EN :\nSorry, Gregor, but if it’s canned goods we’re talking about… I ate more than I ever want on the ship…\nJP :\nグレゴールさんの缶詰料理は…幼い頃に船の上でうんざりするほど沢山食べたんですよね…。"
+  },
+  {
+    "key": "124-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "124-content",
+    "original": "왜 눈을 못 마주치는 거야, 이스마엘? 응?",
+    "context": "EN :\nC’mon, why won’t you look me in the eyes, Ishmael? Eh?\nJP :\nなんで目を合わせてくれないんだ、イシュメール？なっ？"
+  },
+  {
+    "key": "125-content",
+    "original": "이스마엘은 아주 천천히 뒤로 걸어가더니 료슈 옆에 섰다.",
+    "context": "EN :\nIshmael took a few sluggish steps backward to stand next to Ryōshū.\nJP :\nイシュメールはとてもゆっくりと後ろに進み、良秀の隣に立った。"
+  },
+  {
+    "key": "126-content",
+    "original": "눈은 여전히 마주치지 않았다.",
+    "context": "EN :\nHer eyes never looked up to meet Gregor.\nJP :\n目は相変わらず合っていない。"
+  },
+  {
+    "key": "127-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "127-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "128-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "128-content",
+    "original": "훗.",
+    "context": "EN :\nHeh.\nJP :\nふっ。"
+  },
+  {
+    "key": "129-content",
+    "original": "비록 두텁지는 않았어도… 미미하게 남아있던 둘 간의 유대, 그리고 신뢰가 바스러지는 순간이었다.",
+    "context": "EN :\nEven though there wasn’t much rapport to begin with… I could hear what little trusting bond existed between the two fall apart.\nJP :\nたとえ厚くはなかったとしても…わずかに残っていた二人の絆、そして信頼が壊れた瞬間だった。"
+  },
+  {
+    "key": "130-content",
+    "original": "돈키호테는 어느샌가 그레고르 뒤에 찰싹 붙어 있었다. 안색은 어두워 보였다.",
+    "context": "EN :\nDon Quixote had glued herself to Gregor’s back before I noticed. Her face was off-color.\nJP :\nドンキホーテはいつの間にかグレゴールの後ろにくっついていた。顔色は暗かった。"
+  },
+  {
+    "key": "131-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "131-content",
+    "original": "사, 사실 이전에 버스에서 닭꼬치를 먹을 때… 나… 보고 말았소… 저자가 무슨 짓을 했는지…",
+    "context": "EN :\nA—As a matter of truth, while we were banqueting upon skewered chicken on the bus… I… bore witness… to that woman’s most awful deed…\nJP :\nじ、実は以前バスで焼き鳥を食べるたとき…私…見てしまったのでありまする…あの者が何をしたのか…。"
+  },
+  {
+    "key": "132-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "132-content",
+    "original": "닭꼬치에 뭘 했는데?",
+    "context": "EN :\nWhat’d she do with the chicken kebab?\nJP :\n焼き鳥に何をしたんだ？"
+  },
+  {
+    "key": "133-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "133-content",
+    "original": "그, 그건… 차마… 입에 담을 수 조차 없소…",
+    "context": "EN :\nI— That is… Nay, I cannot… begin to put it to words…\nJP :\nそ、それは…とても…口にすることが出来ませぬ…。"
+  },
+  {
+    "key": "134-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "134-content",
+    "original": "아, 이런이런… 그걸 보고 만 건가? 후후, 닭꼬치의 궁극적인 맛을 내기 위한 나만의 비법이었지…",
+    "context": "EN :\nAhh, well, well… You saw it, did you? Huhu, that was a secret technique of mine to bring out the dak-kkochi’s ultimate flavor…\nJP :\nあぁ、やれやれ…それを見てしまったのか？ふふ、焼き鳥の究極の味を引き出すための、私だけの秘訣だ…。"
+  },
+  {
+    "key": "135-content",
+    "original": "돈키호테는 몸을 사정없이 떨었다.",
+    "context": "EN :\nDon Quixote shuddered violently.\nJP :\nドンキホーテは思いっきり震えた。"
+  },
+  {
+    "key": "136-content",
+    "original": "이윽고 홍루가 눈을 반짝이면서 그레고르 옆에 다가왔다.",
+    "context": "EN :\nSoon enough, Hong Lu went to Gregor’s side with a sparkle in his eyes.\nJP :\nやがてホンルが目を輝かせながらグレゴールのそばに近づいた。"
+  },
+  {
+    "key": "137-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "137-content",
+    "original": "후후, 살면서 애완동물 사료 같은 음식들도 한 번쯤은 먹어봐야 하지 않겠어요? 전 그레고르 씨를 응원할게요!",
+    "context": "EN :\nHoho, it would be a unique experience to try dishes comparable to pet food once in my life, right? I’ll be rooting for you, Gregor!\nJP :\nふふ、生きてるならペットフードのような食べ物も一度は食べてみるべきですよね？僕はグレゴールさんを応援します！"
+  },
+  {
+    "key": "138-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "138-content",
+    "original": "그, 그래. 그거 참 고마워, 홍루…",
+    "context": "EN :\nEr, right. Thanks a lot, Hong Lu…\nJP :\nそ、そうか。それはどうも、ホンル…。"
+  },
+  {
+    "key": "139-content",
+    "original": "홍루가 상냥한 낯빛으로 그레고르 뒤에 섰다.",
+    "context": "EN :\nHong Lu stood behind Gregor, wearing a kind smile on his face.\nJP :\nホンルは優しそうな顔をしながらグレゴールの後ろに立った。"
+  },
+  {
+    "key": "140-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "140-content",
+    "original": "파우스트! 당신이야말로 누구보다 합리적인 선택을 할 수 있겠지?",
+    "context": "EN :\nFaust! I can count on you of all people to make the rational choice, yeah?\nJP :\nファウスト！君こそ誰よりも合理的な選択ができるよな？"
+  },
+  {
+    "key": "141-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "141-content",
+    "original": "글쎄요, 파우스트는… 종종 모험을 즐기기도 하죠.",
+    "context": "EN :\nI don’t know, as Faust… can enjoy a risky venture from time to time.\nJP :\nさぁですね、ファウストは…時々冒険を楽しむこともあります。"
+  },
+  {
+    "key": "142-content",
+    "original": "의미심장한 말을 내뱉으며 파우스트가 료슈의 뒤에 섰다.",
+    "context": "EN :\nWith that profound remark, Faust took her place behind Ryōshū.\nJP :\n意味深長な言葉を吐きながら、ファウストが良秀の後ろに立った。"
+  },
+  {
+    "key": "143-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "143-content",
+    "original": "이해가 안 돼요… 왜 이렇게 저희끼리 편을 나누는 거예요?",
+    "context": "EN :\nI really don’t get it… Why are we splitting our group into opposing teams?\nJP :\n理解できません…どうして仲間なのにチーム分けをするんですか？"
+  },
+  {
+    "key": "144-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "144-content",
+    "original": "어이, 그.태.말.늦 이다. 살아남을 길을 고르든가 아니면 꺼져.",
+    "context": "EN :\nHey, CHICK. Pick a way to survive or buzz off.\nJP :\nおい、そ・の・い・お、だ。生き残る道を選ぶかあるいは失せろ。"
+  },
+  {
+    "key": "145-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "145-content",
+    "original": "그… 그딴 태평한 말을 하기에는 늦었다는 건가요…! 그, 그럼…",
+    "context": "EN :\nCh… Chirping hesitation isn’t cool, kiddo…?! T—Then…\nJP :\nそ…そんなのんきなことを言うには遅すぎるってことですか…！そ、それじゃあ…。"
+  },
+  {
+    "key": "146-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "146-content",
+    "original": "<싱클레어… 이쯤 되면 료슈와 영혼의 동반자인 게 아닐까?>",
+    "context": "EN :\n<Sinclair… You might be linked to Ryōshū on a spiritual level at this point.>\nJP :\n<シンクレア…ここまで来たら良秀と魂を分かち合ってたりするんじゃないか？>"
+  },
+  {
+    "key": "147-content",
+    "original": "료슈의 가차 없는 한 소리에 싱클레어는 주춤주춤 료슈의 뒤로 섰다.",
+    "context": "EN :\nRyōshū’s ruthless remark made Sinclair trudge to her side.\nJP :\n良秀の容赦ない声に、シンクレアはぐずぐすしながら良秀の後ろに立った。"
+  },
+  {
+    "key": "148-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "148-content",
+    "original": "협박으로 데려가는 게 어디 있어? 반칙이잖아!",
+    "context": "EN :\nIsn’t it unfair to threaten him to join you? That’s cheating!\nJP :\n脅迫で連れてくやつがどこにいる？反則だろ！"
+  },
+  {
+    "key": "149-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "149-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "150-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "150-content",
+    "original": "나는 선택하지 않겠소, 그대들에게 겸허히 골라지겠소.",
+    "context": "EN :\nI shan’t choose, and instead, I humbly await your selection.\nJP :\n私は選択せじ、そなたらに謙虚に選ばれん。"
+  },
+  {
+    "key": "151-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "151-content",
+    "original": "저건 필요 없어. 가져.",
+    "context": "EN :\nDon’t need that. You take it.\nJP :\nあれは要らない。持ってけ。"
+  },
+  {
+    "key": "152-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "152-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "153-content",
+    "original": "이상은 그 자리에서 그대로 움직이지 않은 채 자동으로 그레고르 팀이 되었다.",
+    "context": "EN :\nYi Sang was placed on Gregor’s team without him moving a muscle.\nJP :\nイサンはその場でそのまま動かず、自動的にグレゴールチームとなった。"
+  },
+  {
+    "key": "154-content",
+    "original": "마지막으로 뫼르소가 조용히 그레고르의 뒤로 섰다.",
+    "context": "EN :\nLastly, Meursault quietly stood behind Gregor.\nJP :\n最後に、ムルソーが静かにグレゴールの後ろに立った。"
+  },
+  {
+    "key": "155-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "155-content",
+    "original": "뫼, 뫼르소…",
+    "context": "EN :\nM-Meursault…\nJP :\nム、ムルソー…。"
+  },
+  {
+    "key": "156-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "156-content",
+    "original": "사실 좀 감동 받았어. 비록 우리가 평소에 많은 대화를 나누진 못했지만 이렇게 먼저 다가와 줘서 나는…",
+    "context": "EN :\nI’m a little touched. I know we never got to talk much, but you still decided to come and stand by me in my time of need, I’m so—\nJP :\n実はちょっと感動したよ。たとえ俺たちが普段はあまり話すことなくても、こうやって自らこっちに付いてくれて俺は…。"
+  },
+  {
+    "key": "157-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "157-content",
+    "original": "그저 적은 인원수가 있는 곳으로 가는 편이 올바른 균형이라고 생각했다.",
+    "context": "EN :\nI have only done so because joining the team with fewer members would set the balance right.\nJP :\nただ、少ない人数のところに行った方がバランスが正しくなると思った。"
+  },
+  {
+    "key": "158-content",
+    "original": "누군가는 그 순간에, 그레고르 눈에 고여 있던 눈물을 목격했노라고 할 것이다.",
+    "context": "EN :\nSome will proclaim that they saw tears well up in Gregor’s eyes at that moment.\nJP :\nその瞬間、誰かしらがグレゴールの目に溜まり涙を目撃せりと言うだろう。"
+  },
+  {
+    "key": "159-content",
+    "original": "요리를 하기 위한 마땅한 장소를 구할 수가 없었기에 우리는 은봉이네 호프집의 주방으로 들어왔다.",
+    "context": "EN :\nWith the teams decided, we entered the kitchen of Eunbong’s, looking for a suitable place to cook.\nJP :\n料理をするのに良い場所が見つからなかったので、私たちはウンボンのチキン酒場の厨房に入った。"
+  },
+  {
+    "key": "160-content",
+    "original": "닭들의 행패와 오랜 시간의 방치로 주방은 난장판이 되어 있었지만,",
+    "context": "EN :\nIt had become a long neglected mess with traces of fowl rampage.\nJP :\n鶏たちの狼藉と長期放置で厨房は滅茶苦茶になってはいたが、"
+  },
+  {
+    "key": "161-content",
+    "original": "료슈와 그레고르는 발에 채는 그릇들을 아랑곳하지 않고 걷어차 가며 주방에 자리를 잡았다.",
+    "context": "EN :\nHowever, Ryōshū and Gregor kicked stray plates and utensils out of their way like it was none of their business, and then took their spots.\nJP :\n良秀とグレゴールは、足に当たる器を気にせず蹴りよけながらキッチンに立った。"
+  },
+  {
+    "key": "162-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "162-content",
+    "original": "<잠깐, 남의 식당에서 이래도 되는 거야?>",
+    "context": "EN :\n<Hang on, are we allowed to do all this in someone else’s restaurant?>\nJP :\n<まった、人のレストランでこうやっても良いのか？>"
+  },
+  {
+    "key": "163-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "163-content",
+    "original": "어.망.직.식 따위, 알 게 뭐야.",
+    "context": "EN :\nIt’s a RAFTS, so why care.\nJP :\nど・は・す・れ、知ったこっちゃない。"
+  },
+  {
+    "key": "164-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "164-content",
+    "original": "어차피 망하기 직전의 식당이라구요?!",
+    "context": "EN :\nYou can’t call it a restaurant already fated to shut—we’re trying to help!\nJP :\nどうせ廃業寸前のレストランってことですか！？"
+  },
+  {
+    "key": "165-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "165-content",
+    "original": "그래. 우리는 뒤틀림을 해결하는 게 목표라며?",
+    "context": "EN :\nYeah. Our goal is to deal with the Distortion, isn’t it?\nJP :\nあぁ。俺たちはねじれを解決するのが目標だろ？"
+  },
+  {
+    "key": "166-model",
+    "original": "뒤틀린닭1",
+    "translation": "扭曲的鸡1",
+    "context": "EN :\n扭曲的存在\nJP :\nChicken1"
+  },
+  {
+    "key": "166-teller",
+    "original": "생닭",
+    "context": "EN :\nRaw Chicken\nJP :\n生鶏"
+  },
+  {
+    "key": "166-title",
+    "original": "뒤틀린 것",
+    "context": "EN :\nDistorted Thing\nJP :\nねじれたもの"
+  },
+  {
+    "key": "166-content",
+    "original": "꼬고곡곡!!!",
+    "context": "EN :\nBwabawkbawkbawk!!!\nJP :\nココゴッゴッ！！！"
+  },
+  {
+    "key": "167-content",
+    "original": "난데없는 침입자들로 인해 분노한 닭의 무리들이 위협적으로 날갯짓을 가했지만…",
+    "context": "EN :\nAn angered flock of chickens fluttered to intimidate the sudden intruders, but much to their dismay…\nJP :\n思いがけない侵入者たちに怒った鶏の群れが威嚇しながらに羽ばたいてきたが…。"
+  },
+  {
+    "key": "168-model",
+    "original": "그렉료슈",
+    "translation": "格里高尔与良秀",
+    "context": "EN :\n\nJP :\nRyoshu_Gregor"
+  },
+  {
+    "key": "168-teller",
+    "original": "그레고르 & 료슈",
+    "context": "EN :\nGregor & Ryōshū\nJP :\nグレゴール&良秀"
+  },
+  {
+    "key": "168-title",
+    "original": "수감자들",
+    "context": "EN :\nSinners\nJP :\n囚人たち"
+  },
+  {
+    "key": "168-content",
+    "original": "방해하면 다 베어(뚫어)버린다!",
+    "context": "EN :\nGet in my way and you’re all getting chopped!\nGet in my way and you’re all getting sliced!\nJP :\n邪魔するなら全部斬って(貫いて)やる！"
+  },
+  {
+    "key": "169-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "169-content",
+    "original": "<오히려 지금이 더 마음이 맞아 보이네…>",
+    "context": "EN :\n<You guys look more in sync now…>\nJP :\n<むしろ今の方が息ぴったりに見えるね…。>"
+  }
+]

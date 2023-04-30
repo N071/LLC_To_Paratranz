@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11004_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11004_1-dlg",
+    "original": "안녕하세요… 제 흥을 돋구게 될 곳이 여기라고… 들었어요.",
+    "context": "EN :\nSalutations… I’ve been told that this is… where I’ll stir with entertainment.\nJP :\nこんにちは…僕の興をさかせる場所がここだと…聞きました。"
+  },
+  {
+    "key": "lobby_morning_11004_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11004_1-dlg",
+    "original": "상쾌한 아침이네요. 오늘 하루도 흥이 넘치게 시작해보자고요.",
+    "context": "EN :\nA fresh morning. Let’s kick off today with an energetic start.\nJP :\n爽やかな朝ですね。今日も興いっぱい始めましょうか。"
+  },
+  {
+    "key": "lobby_noon_11004_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11004_1-dlg",
+    "original": "나른하네요… 이럴 땐 양손으로 악기를 흔들어주면서 리듬을 타곤 해요. 이렇게, 이렇게.",
+    "context": "EN :\nWhat a lazy afternoon… When I feel drowsy, I tend to shake the instruments in my hands to whatever rhythm. Like this, and like that.\nJP :\nダルいですね…。こういうときは両手で楽器を振りながらリズムに乗るんですよ。こう、こうやって。"
+  },
+  {
+    "key": "lobby_night_11004_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11004_1-dlg",
+    "original": "망자들이 좋아하는 시간이죠… 단테 씨는 언제 주무시나요?",
+    "context": "EN :\nThe favorite hours of the dead… When do you go to sleep, Dante?\nJP :\n亡者たちが好む時間ですね…ダンテさんはいつ眠るんですか？"
+  },
+  {
+    "key": "smalltalk_11004_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11004_1-dlg",
+    "original": "아… 제 음악을 듣고 싶으신가요? 음… 정말 원하신다면 한 곡 연주해드릴게요.",
+    "context": "EN :\nOh… You wanna hear my music? Hmm… I’ll shake something out, if you insist.\nJP :\nあ…僕の音楽を聴きたいんですか？う～ん…本当に聴きたいなら1曲演奏しますね。"
+  },
+  {
+    "key": "smalltalk_11004_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11004_2-dlg",
+    "original": "싸울 때는 언제나 생각을 비워놔야 해요. 중요한 건 리듬이죠. 유쾌하지만, 실수 없이.",
+    "context": "EN :\nYou should keep your head empty in a fight. It’s all about the rhythm. Stay lively, but without missing a beat.\nJP :\n戦うときはいつだって頭を空っぽにする必要があるんです。大切なのはリズムなんですよ。愉快に、しかし失敗せず。"
+  },
+  {
+    "key": "smalltalk_11004_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11004_3-dlg",
+    "original": "관리자님은 마음이 복잡할 땐 무엇을 하시나요? 저와 함께 악기를 배워 보는 건 어때요? 많은 도움이 되었거든요.",
+    "context": "EN :\nWhat do you do when your mind is disturbed, Manager? How about learning to play music with me? It’s something that helped me a lot.\nJP :\n管理人さんは心中が複雑になったときは何をしますか？僕と一緒に楽器を始めるのはどうですか？色々と役に立ったんですよ。"
+  },
+  {
+    "key": "smalltalk_11004_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11004_4-dlg",
+    "original": "처음부터 이랬던 건 아니었어요. 우연한 계기로 악기와 춤을 접하고… 그때 비로소 제 안을 들여다볼 수 있게 되었거든요.",
+    "context": "EN :\nI wasn’t always like this. One day, I chanced upon music and dance… They opened a window into my own psyche.\nJP :\n最初からこうだったわけではないんです。偶然のきっかけで楽器とダンスに触れて…そうしてやっと僕の内面を覗き込むことが出来るようになったんです。"
+  },
+  {
+    "key": "smalltalk_11004_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11004_5-dlg",
+    "original": "고통도 두려움도 불안함도 전부 털어낼 수 있는 방법에 대해 알고 있어요. 그저 몸을 맡기면, 리듬이 저를 이끌어 줄 거에요.",
+    "context": "EN :\nI know of a way to shake off the agony, fear, anxiety, and all else that weighs you down. Just surrender yourself to the rhythm, and it will lead you.\nJP :\n苦痛も恐れも、不安も全て捨て去る方法について知ってます。ただ身体を任せれば、リズムを僕が導いてくれます。"
+  },
+  {
+    "key": "neglect_11004_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11004_1-dlg",
+    "original": "…제 연주가 별로였나요?",
+    "context": "EN :\n…Did you not like my performance?\nJP :\n…僕の演奏、微妙でしたか？"
+  },
+  {
+    "key": "gacksung_11004_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11004_1-dlg",
+    "original": "더 유쾌한 연주로 보답드릴게요.",
+    "context": "EN :\nI’ll repay you with merrier music.\nJP :\nより愉快な演奏でお返ししましょう。"
+  },
+  {
+    "key": "formation_11004_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11004_1-dlg",
+    "original": "흔들어 보죠.",
+    "context": "EN :\nLet’s shake it.\nJP :\n振ってみましょう。"
+  },
+  {
+    "key": "battleentry_11004_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11004_1-dlg",
+    "original": "이게 옳은 선택일까…?",
+    "context": "EN :\nIs this the right choice…?\nJP :\nこれが正しい選択なんだろうか…？"
+  },
+  {
+    "key": "battle_select_11004_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11004_1-dlg",
+    "original": "단테 씨, 무슨 일이야…?",
+    "context": "EN :\nWhat’s up, Dante…?\nJP :\nダンテさん、一体何が…？"
+  },
+  {
+    "key": "battle_endcommand_11004_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11004_1-dlg",
+    "original": "머리통을 박살 내주마.",
+    "context": "EN :\nI’ll bust your head.\nJP :\n頭をぶっ潰してやる。"
+  },
+  {
+    "key": "battle_enemy_break_11004_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11004_1-dlg",
+    "original": "다음에는 머리다.",
+    "context": "EN :\nI’ll take your head next.\nJP :\n次は頭だ。"
+  },
+  {
+    "key": "battle_break_11004_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11004_1-dlg",
+    "original": "윽!",
+    "context": "EN :\nUnk!\nJP :\nうっ！"
+  },
+  {
+    "key": "battle_kill_11004_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11004_1-dlg",
+    "original": "너무 쉽잖아.",
+    "context": "EN :\nToo easy.\nJP :\n簡単すぎるな。"
+  },
+  {
+    "key": "battle_allydead_11004_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_11004_1-dlg",
+    "original": "다음은 누구일까…?",
+    "context": "EN :\nWho’s up next…?\nJP :\n次は誰だ…？"
+  },
+  {
+    "key": "choice_success_p_11004_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11004_1-dlg",
+    "original": "생각보다 쉬웠어.",
+    "context": "EN :\nThat was easier than I thought.\nJP :\n思ってたより簡単だったよ。"
+  },
+  {
+    "key": "choice_fail_n_11004_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11004_1-dlg",
+    "original": "이런걸 바란 게 아니야…",
+    "context": "EN :\nNot what I wished for…\nJP :\nこんなのを望んだわけじゃない…。"
+  },
+  {
+    "key": "battle_clear_11004_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11004_1-dlg",
+    "original": "이제 막 흥이 돋궈지려고 했는데… 벌써 끝났군요. ",
+    "context": "EN :\nJust as I was about to feel some enthusiasm… it’s over already.\nJP :\nやっと興が乗り始めたのに…もう終わったんですね。"
+  },
+  {
+    "key": "battle_clear_ex_11004_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11004_1-dlg",
+    "original": "오늘 연주는 만족스러웠어요. 한없이 유쾌했죠.",
+    "context": "EN :\nToday’s performance was satisfying. It entertained me to no end.\nJP :\n今日の演奏は満足でした。この上ないほど愉快でしたね。"
+  },
+  {
+    "key": "battle_defeat_11004_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11004_1-dlg",
+    "original": "기회는 또 있어요. 다시 흔들면 되는 거예요.",
+    "context": "EN :\nWe can always try again. Nothing says we can’t give it another shake.\nJP :\nチャンスはまだあります。また振れば良いんです。"
+  }
+]

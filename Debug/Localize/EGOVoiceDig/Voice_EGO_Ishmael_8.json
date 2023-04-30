@@ -1,0 +1,52 @@
+[
+  {
+    "key": "battle_awaken_20801_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20801_1-dlg",
+    "original": "그 자식은… 아직 살아있을 거야.",
+    "context": "EN :\nThat bastard… has to be alive still.\nJP :\nあの野郎は…まだ生きてるはず。"
+  },
+  {
+    "key": "battle_awaken_20802_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20802_1-dlg",
+    "original": "환락에 삼켜지기 전에…",
+    "context": "EN :\nBefore pleasure swallows me whole…\nJP :\n歓楽へと呑まれる前に…。"
+  },
+  {
+    "key": "battle_erosion_20802_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20802_1-dlg",
+    "original": "흐히! 저것을 싸매어… 취한다.",
+    "context": "EN :\nWheehee! I’ll enwrap it… enrapture it.\nJP :\nふひっ！あれを包んで…酔いしれる。"
+  },
+  {
+    "key": "battle_awaken_20803_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20803_1-dlg",
+    "original": "당신을 인도해주진 못해도… 따뜻하게 안아줄 수는 있어요. ",
+    "context": "EN :\nThough I can’t guide you… I can offer a warm embrace.\nJP :\nあなたを導くことは出来なくとも…暖かく抱きしめてあげることは出来ます。"
+  },
+  {
+    "key": "battle_erosion_20803_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20803_1-dlg",
+    "original": "보이나요? 세상과 함께 타들어 가고 싶었던 내 몸부림이…",
+    "context": "EN :\nDo you see? My writhing struggle, hoping the world is cocooned in flames with me…\nJP :\n見えますか？世界と共に燃え尽きようとした私の足掻きが…。"
+  }
+]

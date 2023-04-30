@@ -1,0 +1,618 @@
+[
+  {
+    "key": "0-place",
+    "original": "칼프 마을 광장",
+    "context": "EN :\nCalw - Town Square\nJP :\nカルフ町 広場"
+  },
+  {
+    "key": "0-content",
+    "original": "마을 한 구석에는 의체들이 쓰레기장처럼 쌓여 있다.",
+    "context": "EN :\nProsthetic bodies pile up like a landfill in a corner of the town.\nJP :\n町の片隅には、義体がゴミ捨て場のように積まれている。"
+  },
+  {
+    "key": "1-content",
+    "original": "그중에는 아직 의식이 꺼지지 않았는지 괴로운 신음을 흘려 대는 이들도 간간이 보였다.",
+    "context": "EN :\nI could see that some of them were still conscious, letting out pained moans.\nJP :\n中にはまだ意識が消えていないのか、苦しい呻き声を流す人もちらほらいた。"
+  },
+  {
+    "key": "2-content",
+    "original": "하지만 아랑곳하지 않고 가슴팍을 못으로 관통시키는 심문관들이 멀리서 보였다.",
+    "context": "EN :\nThe Inquisitors paid no heed; they strenuously jammed nails through each of their victims’ chests, over and over, executing their “pure” intent.\nJP :\nしかし、気にも留めずに胸を釘で貫く審問官たちが遠くから見えた。"
+  },
+  {
+    "key": "3-model",
+    "original": "N사심문관1",
+    "translation": "N公司审问官1",
+    "context": "EN :\n钉与锤\nJP :\nN_Employee1"
+  },
+  {
+    "key": "3-teller",
+    "original": "이단심문관 1",
+    "context": "EN :\nAn Inquisitor\nJP :\n異端審問官1"
+  },
+  {
+    "key": "3-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "3-content",
+    "original": "심장을 꿰뚫었을 텐데, 신체는 아직도 박동합니다.",
+    "context": "EN :\nI’ve surely pierced their heart, yet still a pulse remains in their body.\nJP :\n心臓を貫いたはずなのに、体はまだ拍動しています。"
+  },
+  {
+    "key": "4-model",
+    "original": "N사심문관2",
+    "translation": "N公司审问官2",
+    "context": "EN :\n钉与锤\nJP :\nN_Employee2"
+  },
+  {
+    "key": "4-teller",
+    "original": "이단심문관 2",
+    "context": "EN :\nFellow Inquisitor\nJP :\n異端審問官2"
+  },
+  {
+    "key": "4-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "4-content",
+    "original": "필시 철로 덧댄 심장일 것이다. 인간의 본연 되는 부분조차 이단으로 물들었군.",
+    "context": "EN :\nIt must be patched with steel. Even the core of their humanity has been tainted by heresy.\nJP :\n恐らく鉄で重ねた心臓であろう。\n人間として生まれつき持った部分でさえ異端に染まったか。"
+  },
+  {
+    "key": "5-model",
+    "original": "N사심문관2",
+    "translation": "N公司审问官2",
+    "context": "EN :\n钉与锤\nJP :\nN_Employee2"
+  },
+  {
+    "key": "5-teller",
+    "original": "이단심문관 2",
+    "context": "EN :\nFellow Inquisitor\nJP :\n異端審問官2"
+  },
+  {
+    "key": "5-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "5-content",
+    "original": "불결하도다. 살과 뼈를 모독하고 있는 모습이라니.",
+    "context": "EN :\nHow filthy. A disgrace to flesh and bone.\nJP :\n不吉なり。肉と骨を冒涜している姿なぞ。"
+  },
+  {
+    "key": "6-content",
+    "original": "심문관은 신성한 의식이라도 진행하듯 품속에 있는 병을 꺼내 내용물을 정성스럽게 뿌리기 시작했다.",
+    "context": "EN :\nThe Inquisitor began carefully pouring a bottle of liquid over the prosthetic person in what looked like a solemn ritual.\nJP :\n審問官は神聖な儀式でも行うかのように懐の中から\n瓶を取り出し、中身を丁寧に撒き始めた。"
+  },
+  {
+    "key": "7-content",
+    "original": "멀리서 풍겨오는 지독한 냄새로 미루어 보건대, 그건 기름이었다.",
+    "context": "EN :\nJudging from the pungent smell, it was most certainly oil.\nJP :\n遠くから漂ってくる酷い臭いから考えるに、それは油だった。"
+  },
+  {
+    "key": "8-model",
+    "original": "N사심문관2",
+    "translation": "N公司审问官2",
+    "context": "EN :\n钉与锤\nJP :\nN_Employee2"
+  },
+  {
+    "key": "8-teller",
+    "original": "이단심문관 2",
+    "context": "EN :\nFellow Inquisitor\nJP :\n異端審問官2"
+  },
+  {
+    "key": "8-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "8-content",
+    "original": "사람의 기름을 머금거라, 이단의 신체여.",
+    "context": "EN :\nImbibe the oil of humanity, ye heretical soma.\nJP :\n人間の脂を吸うがよい、異端の体よ。"
+  },
+  {
+    "key": "9-model",
+    "original": "N사심문관2",
+    "translation": "N公司审问官2",
+    "context": "EN :\n钉与锤\nJP :\nN_Employee2"
+  },
+  {
+    "key": "9-teller",
+    "original": "이단심문관 2",
+    "context": "EN :\nFellow Inquisitor\nJP :\n異端審問官2"
+  },
+  {
+    "key": "9-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "9-content",
+    "original": "흙으로도 돌아가지 못하는 자, 연기로나마 흩어져라.",
+    "context": "EN :\nThose who cannot return to the earth, find solace in scattering to smoke.\nJP :\n土へも還れぬ者、せめてでも煙として散れ。"
+  },
+  {
+    "key": "10-content",
+    "original": "불이 붙은 성냥이 쌓여 있는 의체들을 마주하자, 불꽃이 거세게 일었다.",
+    "context": "EN :\nA lit match was then thrown on the pile, letting rise a huge flame.\nJP :\n火の付いたマッチが積まれた義体に触れると、火花が激しく立ち上がった。"
+  },
+  {
+    "key": "11-content",
+    "original": "곧 불꽃이 튀는 소리와 함께 매캐한 냄새가 온 사방을 덮는다.",
+    "context": "EN :\nWith the sounds of sparks flying about, the air is soon filled with an acrid smell.\nJP :\n火花が散る音とともに、煙たい匂いが四方へ広がる。"
+  },
+  {
+    "key": "12-content",
+    "original": "그건 살이 타들어 가는 냄새와는 조금 다르다.",
+    "context": "EN :\nIt’s not quite like the smell of burning flesh.\nJP :\nそれは肉が焦げる匂いとは少し違う。"
+  },
+  {
+    "key": "13-content",
+    "original": "타닥거리는 소리와 함께 희미하게 깜빡이던 의체들의 불빛에, 마침내 암전이 찾아온다.",
+    "context": "EN :\nThe spreading fire finally brings the crackling glimmer in those prosthetic bodies to permanent darkness.\nJP :\nカチカチという音と共に、微かに点滅していた義体の明かりに\nいよいよ暗闇が訪れる。"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-content",
+    "original": "입으로는 정화를 말하면서, 지옥을 창조해 놓았군요.",
+    "context": "EN :\nIf this hellscape is their idea of purification, I’d rather stay unclean.\nJP :\n口では浄化と言いながら、地獄を創ってますね。"
+  },
+  {
+    "key": "15-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "15-content",
+    "original": "못과 망치는 언제나 인간성을 해석하는 데에 몰두하고 있었다.",
+    "context": "EN :\nNagel und Hammer has always been devoted to scrutinizing the idea of humanity.\nJP :\n釘と金鎚はいつも人間性を解析することに没頭していた。"
+  },
+  {
+    "key": "16-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "16-content",
+    "original": "고통도 응당 겪어야 하는 경험이라며 의체를 달고 있는 인간을 비난하던 자들도 있었지. 이렇게 행동으로 드러냈던 적은 없었지만.",
+    "context": "EN :\nSome criticized prosthetic use, as they believed that pain is a necessary component of the human experience. However, it never escalated to the extent of direct action that we are witnessing now.\nJP :\n痛みも当然受けるべき経験だと言って、義体を付けている人間を非難する者もいた。\nこのように行動で表したことは無かったが。"
+  },
+  {
+    "key": "17-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "17-content",
+    "original": "아까부터 들었던 생각인데… 왜 그렇게 N사에 대해 빠삭한 거야, 당신?",
+    "context": "EN :\nI’ve been meaning to ask… How do you know so much about N Corp?\nJP :\nさっきから思ってたんだけど…。どうしてそんなN社に対してピリピリしてるんだ、あんた？"
+  },
+  {
+    "key": "18-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "18-content",
+    "original": "…내가 N사 직원이었으니까.",
+    "context": "EN :\n…I was once employed by N Corp.\nJP :\n…私がN社の職員だったから。"
+  },
+  {
+    "key": "19-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "19-content",
+    "original": "엥…? 저것들하고 같이 일했다고?",
+    "context": "EN :\nWha…? You used to work with those people?\nJP :\nえぇ…？あんなのと働いてたのか？"
+  },
+  {
+    "key": "20-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "20-content",
+    "original": "저들과 같이 일한 적은 없지만, 소속의 관점에서 본다면, 그렇다.",
+    "context": "EN :\nI have never worked with those specific individuals, but in terms of affiliation, you can say that I did.\nJP :\n彼らと共に働いたことはないが、所属の観点からいえば、そうだ。"
+  },
+  {
+    "key": "21-content",
+    "original": "그러고 보니 뫼르소에게서 이야기를 듣는 건 처음이었다.",
+    "context": "EN :\nCome to think of it, this might be the first time I’ve heard Meursault actively talk about himself.\nJP :\nそういえば、ムルソーから話を聞くのは初めてだった。"
+  },
+  {
+    "key": "22-content",
+    "original": "그는 언제나 자신의 이야기를 삼켰다.말할 필요성조차 느끼지 못하는 걸지도 몰랐다.",
+    "context": "EN :\nHe would rarely recount anything related to him. Perhaps he felt it wasn’t necessary to speak at all.\nJP :\n彼はいつも自分の話を飲み込んでいた。言う必要性すら感じてないのかもしれない。"
+  },
+  {
+    "key": "23-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "23-content",
+    "original": "왜 진작 말하지 않은 거야? 그럼 당신도 저런 괴상한 무기를 지니고 다녔어?",
+    "context": "EN :\nWhy didn’t you tell us that earlier? You carry one of those freaky weapons then?\nJP :\nなんでもっと早く言ってくれなかったんだ？\nじゃあ、あんたもあんな変な武器を持ち歩いてたのか？"
+  },
+  {
+    "key": "24-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "24-content",
+    "original": "굳이 이야기할 필요가 있나?",
+    "context": "EN :\nAm I obligated to elaborate?\nJP :\nあえて話す必要があるのか？"
+  },
+  {
+    "key": "25-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "25-content",
+    "original": "뭔… 야, 그럼 내가 너랑 저 새끼들이 같은 편인지 아닌지 어떻게 구분해야 하냐?",
+    "context": "EN :\nThe hell… Why don’t you explain what makes you different from those nutters, then?\nJP :\nなん…おい、じゃあオレが、お前とあの野郎どもが\n味方かそうじゃないかはどうやって区別すればいいんだ？"
+  },
+  {
+    "key": "26-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "26-content",
+    "original": "난 말이야… 관리자 저놈을 ‘시계 대가리’라고 부르고는 있어도, 머리를 자르고 불태워도 싼 놈이라곤 생각하진 않아.",
+    "context": "EN :\nListen, mate… As much as I like to call our daft manager clockface, I don’t think they deserve by any means to be on the stake or chopping block.\nJP :\nオレはな…管理人の野郎を「時計ヅラ」って呼んじゃあいるけど、\n頭を切って燃やして良いくらい安いやつだっては思ってねぇよ。"
+  },
+  {
+    "key": "27-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "27-content",
+    "original": "말만 번지르르하게 정화니, 뭐니 하고 있어도 내 눈엔 그냥 사람 죽일 명분이 필요했던 미친놈들이 보일 뿐이거든?",
+    "context": "EN :\nThose buggers talk big about purifying and all that, but all I see are a bunch of loonies who just needed an excuse to kill, eh?\nJP :\n綺麗事で浄化だとかなんだとかほざいたところで、オレの目には\nただ人を殺す名分が必要な狂ったやつらにしか見えないからな？"
+  },
+  {
+    "key": "28-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "28-content",
+    "original": "말해봐. 너도 저 새끼들이랑 똑같냐?",
+    "context": "EN :\nSpeak up, then. Are you like those screwloose bucketheads?\nJP :\n言えよ。お前もあいつらと同じか？"
+  },
+  {
+    "key": "29-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "29-content",
+    "original": "그런 것에 대해 생각하던 시기도 있었지.",
+    "context": "EN :\nThere was a time when I thought about such things.\nJP :\nそんなことについて考えていた時期もあった。"
+  },
+  {
+    "key": "30-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "30-content",
+    "original": "같은지 다른지 답을 내놓지는 않았지만.",
+    "context": "EN :\nThough I did not come to a conclusion.\nJP :\n同じか違うかの答えは出していないが。"
+  },
+  {
+    "key": "31-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "31-content",
+    "original": "그럼 지금이라도 답을 내놓아 보란 말이야! 넌 관리자 놈이 명령이랍시고 마을 사람들을 모조리 쳐잡아 죽이라고 하면 그대로 따를 셈이야?",
+    "context": "EN :\nI want that damn conclusion now! Are you gonna up and butcher all the townsfolk if your manager just says so?\nJP :\nじゃあ、今すぐにでも答えを出せよ！お前は管理人の野郎が命令だっつって町人たちを皆殺しにしろっつったらそのまま従うつもりか？"
+  },
+  {
+    "key": "32-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "32-content",
+    "original": "꼭 답을 내놓아야만 하나? 그 일이 업무를 처리함에 있어서 도움을 주진 않는다.",
+    "context": "EN :\nMust I give an answer? That does not aid us in handling our work.\nJP :\n必ず答えを出さなければならないのか？\nこれは仕事を遂行するのには役立たない。"
+  },
+  {
+    "key": "33-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "33-content",
+    "original": "사원은 명령에 따라 움직이는 것이 규칙이다. 베르길리우스, 그자가 내놓은 취업규칙에도 적혀있을 텐데.",
+    "context": "EN :\nAn employee must follow their employer’s orders. The terms Vergilius presented state as much.\nJP :\n社員は命令に従って動くのが規則だ。\nヴェルギリウス、彼が出した就業規則にも書かれているはずだが。"
+  },
+  {
+    "key": "34-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "34-content",
+    "original": "관리자가 행하라고 하면, 행할 뿐이다. 내 생각이 필요하다고 말하면 제공하겠지만, 그럴 필요도 없는 상황에서 나불대는 버릇은 없다.",
+    "context": "EN :\nIf the manager orders me to do such a thing, I will do it. I may provide my input if I am told that it is necessary, but I do not have a habit of rambling my thoughts unprompted.\nJP :\n管理人が行えと言えば、行うだけだ。私の考えが必要だと言えば\n提供するが、そうする必要もない状況でべらべら喋る癖はない。"
+  },
+  {
+    "key": "35-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "35-content",
+    "original": "…뭐? 너 돌았냐? 너야말로 머리를 깡통으로 교체한 놈들이랑 별반 차이가 없어 보이는데?",
+    "context": "EN :\n…Pardon? Are you ‘round the twist? Do you got a chunk of metal for your brains like the folks here?\nJP :\n…はぁ？お前、くるくるパーか？\nてめぇこそ頭を缶に換えたやつらとあんま差が無さそうだなぁ？"
+  },
+  {
+    "key": "36-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "36-content",
+    "original": "단백질이 16%, 수분이 60%, 무기질 7%로 구성되어 있다는 점에선 명확한 차이를 띄지.",
+    "context": "EN :\nI am 16% proteins, 60% water, 7% minerals, and so forth; I am clearly different in terms of composition.\nJP :\nタンパク質が16%、水分が60%、無機質7%で構成されているという点では明確な違いがある。"
+  },
+  {
+    "key": "37-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "37-content",
+    "original": "또한, 불필요한 중금속은 나의 구성요소에 해당하지 않는다.",
+    "context": "EN :\nMoreover, unnecessary heavy metals do not comprise any portion of my body.\nJP :\nまた、不要な重金属は私の構成要素に該当しない。"
+  },
+  {
+    "key": "38-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "38-content",
+    "original": "그 또한 차이다.",
+    "context": "EN :\nThat is another difference.\nJP :\nそれもまた違いだ。"
+  },
+  {
+    "key": "39-content",
+    "original": "히스클리프의 표정이 보기 좋게 일그러졌다.",
+    "context": "EN :\nHeathcliff’s face contorted with frustration.\nJP :\nヒースクリフの顔がものの見事に歪んだ。"
+  },
+  {
+    "key": "40-content",
+    "original": "가뜩이나 무슨 생각을 하는지 알 수 없었던 뫼르소라는 수감자와 더욱 거리가 멀어진 것 같다는 느낌이 들었다.",
+    "context": "EN :\nMeursault was already an enigma, and he only felt ever more distant after this conversation.\nJP :\nただでさえ何を考えているのか分からなかった\nムルソーという囚人とは、さらに距離が離れたような気がした。"
+  },
+  {
+    "key": "41-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "41-content",
+    "original": "하지만 전, 예전부터 쭉 궁금하긴 했어요.",
+    "context": "EN :\nNow that you mention it, there’s something I’ve been wondering.\nJP :\nでも僕は、昔からずっと気になってはいました。"
+  },
+  {
+    "key": "42-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "42-content",
+    "original": "단테 님을 정말 ‘인간’으로 봐야 할지 말이에요.",
+    "context": "EN :\nI’ve been thinking on whether Manager Dante should be seen as a “human”.\nJP :\nダンテさんを本当に「人間」として見るべきなのかをです。"
+  },
+  {
+    "key": "43-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "43-content",
+    "original": "그게 무슨 소리지?",
+    "context": "EN :\nWhat do you mean?\nJP :\nそれはどういう意味だ？"
+  },
+  {
+    "key": "44-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "44-content",
+    "original": "그러니까… 단테 씨가 말하는 건… 단테 씨가 아니라 저 시계일 수도 있는 것 아닌가요?",
+    "context": "EN :\nWhat if… when dear Dante is speaking… it’s actually the clock and not the person we know as “Dante” behind those words?\nJP :\nだから…ダンテさんの言ってることは…\nダンテさんじゃなくて、あの時計かもしれないじゃないですか？"
+  },
+  {
+    "key": "45-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "45-content",
+    "original": "뭐? 우리가 진짜 시계 따위한테 명령받고 있었다고?",
+    "context": "EN :\nEh? You trying to tell me we were being led by an actual clock?\nJP :\nは？オレたちが本物の時計なんかに命令されてたってか？"
+  },
+  {
+    "key": "46-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "46-content",
+    "original": "어휴… 정말 멍청한 발언들이네요. 반박할 의욕도 안 생겨요.",
+    "context": "EN :\nGood grief… You’re reaching uncharted depths of idiocy with your theories. I can’t even be bothered to refute them.\nJP :\nはぁ…本当にバカな発言ばかりですね。反論する意欲すら出ません。"
+  },
+  {
+    "key": "47-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "47-content",
+    "original": "그래도 전 지금의 시계 머리를 한 단테 씨가 좋아요.",
+    "context": "EN :\nDon’t misunderstand, I do like our Dante with their clock-headedness.\nJP :\nそれでも僕は今の時計の頭をしたダンテさんが好きです。"
+  },
+  {
+    "key": "48-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "48-content",
+    "original": "나도 그래. 그냥 머리를 되찾지 말고 평생 이 머리대로 있으면 안 돼?",
+    "context": "EN :\nHonestly, same. Why don’t you just give up finding your old head and stick with that one?\nJP :\n私も。このまま頭を取り戻さずに、一生この頭のままじゃダメ？"
+  },
+  {
+    "key": "49-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "49-content",
+    "original": "그럴 리는 없겠지만, 진짜 머리를 되찾은 단테가 갑자기 엄청 못된 놈이었다거나 하면 어떡해.",
+    "context": "EN :\nI know it’s prob not gonna be the case, but what if Dante’s real head turned out to be super evil or something?\nJP :\nそんなことはないと思うけど、本物の頭を取り戻したダンテが\n実はとっても悪いヤツだったりしたらどうしよう。"
+  },
+  {
+    "key": "50-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "50-content",
+    "original": "뭐, 우리 중에 관리자 양반의 과거에 대해 알 법한 자는 한 명밖에 없지.",
+    "context": "EN :\nWell, there’s only one of us who’d know about our manager bud’s past…\nJP :\nまあ、俺たちの中で管理人の旦那の過去について\n分かりそうな人は一人しかいないな。"
+  },
+  {
+    "key": "51-content",
+    "original": "그레고르의 눈이 자연스럽게 파우스트를 향해갔다.",
+    "context": "EN :\nGregor’s eyes naturally fell on Faust.\nJP :\nグレゴールの目は自然とファウストへ向かっていった。"
+  },
+  {
+    "key": "52-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "52-content",
+    "original": "…그 부분에 관해선 기밀 사항이에요. 심지어 보안등급 최상이죠.",
+    "context": "EN :\n…That’s confidential information. Its access is restricted to the highest security level.\nJP :\n…その部分に関しては機密事項です。その上セキュリティレベルが最高です。"
+  },
+  {
+    "key": "53-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "53-content",
+    "original": "<…그리고 아마 나조차도 접근할 수 없는 사항일 거 같네.>",
+    "context": "EN :\n<…And I get the feeling I won’t be able to read it for myself.>\nJP :\n<…そして多分、私でさえも閲覧できない事項だろうな。>"
+  },
+  {
+    "key": "54-content",
+    "original": "당연하다.",
+    "context": "EN :\nIt’s only natural.\nJP :\n当然だ。"
+  },
+  {
+    "key": "55-content",
+    "original": "원래의 내가 어땠는지에 대해 알 길이 없으니, 홍루의 가벼워 보이는 그 한마디에도 명확히 반박할 말이 떠오르지 않았다.",
+    "context": "EN :\nI have no idea who or what I originally was, so I had nothing at my disposal to refute Hong Lu’s lighthearted accusation.\nJP :\n本来の私がどうだったかについて知る術はないので、ホンルの軽そうな\nその一言にも明確に反論できる言葉が思い浮かばなかった。"
+  },
+  {
+    "key": "56-content",
+    "original": "어쩌면 그의 말마따나 내 본체는 시계 그 자체일 수도 있다.",
+    "context": "EN :\nMaybe he’s right, and I really am just a clock.\nJP :\nもしかしたら彼の言う通り、私の本体は時計そのものかもしれない。"
+  },
+  {
+    "key": "57-content",
+    "original": "그렇다고 파우스트에게 물어본다고 해서 답이 나올지, 그게 정말 진실일지 구별할 능력도 나는 없다.",
+    "context": "EN :\nEven if I ask Faust, there’s no telling if she’ll give me a real answer, and I wouldn’t be able to discern the truth in such a thing either.\nJP :\nだからといってファウストに聞いてみて答えが出るか、\nそしてそれが本当に真実なのかを区別する能力も、私には無い。"
+  },
+  {
+    "key": "58-content",
+    "original": "진짜 ‘단테’는 어딘가에 숨겨져 있고, 스스로 생각을 할 수 있다고 믿을 정도로 고도화된 무언가를 데려와서 역할을 대체시켰을 가능성도 있지 않은가.",
+    "context": "EN :\nThere’s even a slim chance that the real ‘Dante’ is hidden away somewhere, and that I’m some advanced imitation trained to believe I have free will.\nJP :\n本物の「ダンテ」はどこかに隠されており、自分で考えられると信じ込める程に\n高度な何かを連れてきて、役割を交代させた可能性もあるのではないか。"
+  },
+  {
+    "key": "59-content",
+    "original": "고민해봤자 답이 나올 이야기는 아니었기에.",
+    "context": "EN :\nIn any case, sitting here and ruminating won’t get me anywhere.\nJP :\n悩んでも答えが出るような話ではなかった。"
+  },
+  {
+    "key": "60-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "60-content",
+    "original": "<몰라, 진짜 내 머리를 찾게 되면 이 시계는 벽에 걸어 두던가.>",
+    "context": "EN :\n<Who knows, maybe I’ll mount this thing on the wall when I find my real head.>\nJP :\n<しーらない。本物の私の頭を見つけたら、この時計は壁にでも掛けておくか。>"
+  },
+  {
+    "key": "61-content",
+    "original": "이스마엘은 정말 그런 식으로 넘겨버릴 거냐는 질책 섞인 눈빛을 보냈지만, 곧 어깨를 으쓱했다.",
+    "context": "EN :\nIshmael sent me a chastising glare for even suggesting something like that, but she had no choice other than to shrug.\nJP :\nイシュメールは本当にそうやってスルーしてしまうのかという\n叱責の混じった目で見つめてきたが、すぐに肩をすくめた。"
+  },
+  {
+    "key": "62-content",
+    "original": "뭐, 사실이잖아.",
+    "context": "EN :\nWell, it is true.\nJP :\nまぁ、事実だし。"
+  }
+]

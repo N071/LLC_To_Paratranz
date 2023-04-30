@@ -1,0 +1,249 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "0-content",
+    "original": "그렇군요… 이런 걸 의미했던 건가요.",
+    "context": "EN :\nI see… This is what that was about.\nJP :\nなるほど…こういう意味だったんですね。"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "너무 마음이 급할 필요는 없어요, 이스마엘. 버스가 향하면 자연히…",
+    "context": "EN :\nThere’s no need to get impatient, Ishmael. As the bus goes onward, you’ll naturally…\nJP :\nそう焦る必要はありません、イシュメール。バスが進めば自然と…。"
+  },
+  {
+    "key": "2-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "2-content",
+    "original": "자연히 시정잡배 같은 일보다 중요한 걸 맡게 될 거야.",
+    "context": "EN :\nYou’ll naturally take on more important tasks than beating the life out of random crooks.\nJP :\n自然とチンピラみたいなことより、重要なことを任されるようになるだろう。"
+  },
+  {
+    "key": "3-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "3-content",
+    "original": "목표에 도달하는 게 마음을 재촉하고 있겠지만… 참아보라고.",
+    "context": "EN :\nI know you’re eager to achieve your goals… but do try to have patience.\nJP :\n目標に到達することが心を掻き立てているだろうけど…我慢しろ。"
+  },
+  {
+    "key": "4-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "4-content",
+    "original": "…쯧.",
+    "context": "EN :\n…Tch.\nJP :\n…ちぇっ。"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-content",
+    "original": "거울 세계에 있는 우리들의 모든 가능성 중 하나를 끄집어내는 거니까, 기억이 조금 덧씌워졌을 거예요.",
+    "context": "EN :\nSince this works by whisking out one of our limitless possibilities from the mirrored world, it’ll have overwritten a part of our memories.\nJP :\n鏡の世界にいる私たちの全ての可能性のうち一つを引っ張り出すので、記憶が少し上書きされてるはずです。"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "곧 익숙해질 거예요.",
+    "context": "EN :\nYou’ll get used to it in no time.\nJP :\n直に慣れるでしょう。"
+  },
+  {
+    "key": "7-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "7-content",
+    "original": "뭐야… 그거 좀 위험해 보이는데?",
+    "context": "EN :\nWhoa, hang on… That sounds a bit dangerous, don’t it?\nJP :\nなにそれ…それちょっと危なくない？"
+  },
+  {
+    "key": "8-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "8-content",
+    "original": "이러다가 내가 내가 아니게 되는 거 아냐? 하핫.",
+    "context": "EN :\nWhat if I’m no longer my old self by the end? Heheh.\nJP :\nいつか私が私じゃなくなるんじゃないの？ははっ。"
+  },
+  {
+    "key": "9-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "9-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "여러분은 테세우스의 배가 아니에요.",
+    "context": "EN :\nDon’t mistake yourselves for the Ship of Theseus.\nJP :\n皆さんはテセウスの船ではありません。"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "인격과 기억을 빌리기는 하겠지만, 주도권을 잃도록 설계되어 있지는 않아요.",
+    "context": "EN :\nWhile it’s true that you borrow the identities and memories, the system is designed to ensure that you don’t lose control over your own existence.\nJP :\n人格と記憶を借りてはいますが、主導権を失うように設計されてはいません。"
+  },
+  {
+    "key": "12-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "12-content",
+    "original": "거울에 비치우는 나는 사뭇 다를 수 있으나, 거울 밖을 벗어나면 거울 속의 형체 또한 잃기에.",
+    "context": "EN :\nDifferent though your reflection may be, it is bound to vanish once you walk away from the mirror.\nJP :\n鏡に映りし私はまたく違えやもしれぬが、鏡の外へ出づらば鏡の中のかたちもまた失われん。"
+  },
+  {
+    "key": "13-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-content",
+    "original": "…저희가 어떻게 성장할지는 단테 씨에게 달렸어요.",
+    "context": "EN :\n…How our capability grows ultimately depends on you, Manager Dante.\nJP :\n…私たちがどのように成長するかはダンテさん次第です。"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-content",
+    "original": "거울 세계의 다양한 가능성을, 가장 효과적인 타이밍에 덧씌우는 일을 하실 테니.",
+    "context": "EN :\nIt is up to you to place the most effective figment of possibility on us at the right times.\nJP :\n鏡の世界の多様な可能性を、最も効果的なタイミングで上書きする仕事をなさるでしょうから。"
+  },
+  {
+    "key": "15-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "15-content",
+    "original": "메타몰포시스를 말하는 건가.",
+    "context": "EN :\nI believe that’s what you call a metamorphosis.\nJP :\nメタモルフォーシスのことを言っているのか？"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "네 일종의 탈태이자 변신이라 할 수 있죠.",
+    "context": "EN :\nYes, I suppose you could say that it’s a form of transformation.\nJP :\nはい。一種の脱胎であり、変身ともいえるでしょう。"
+  },
+  {
+    "key": "17-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "17-content",
+    "original": "어머, 그런 어려운 단어는 어디서 알았대?",
+    "context": "EN :\nGolly, where’d you learn big words like that?\nJP :\nあら、そんな難しい単語はどこで習ったの？"
+  },
+  {
+    "key": "18-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "18-content",
+    "original": "주워들었다. 이 사람 저 사람 많이 만나봐야 하는 일을 했었거든.",
+    "context": "EN :\nI picked it up. My prior profession required meeting people with various occupations.\nJP :\n拾い聞きした。いろんな人に沢山会う仕事をしてたから。"
+  },
+  {
+    "key": "19-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "19-content",
+    "original": "변신이라…",
+    "context": "EN :\nVerwandlung, huh…\nJP :\n変身かぁ…。"
+  },
+  {
+    "key": "20-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "20-content",
+    "original": "담소는 끝났나?",
+    "context": "EN :\nDone chatting?\nJP :\nお喋りは終わったか？"
+  },
+  {
+    "key": "21-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "21-content",
+    "original": "일단 길부터 뚫자고. 어차피 지겨울 정도로 붙어있을 테니, 못다 한 말은 나중에.",
+    "context": "EN :\nLet’s make the way first. You’ll spend more time together than you’d ever ask for, so keep that convo for later.\nJP :\n一旦突破して道を開くか。どうせうんざりするほどくっ付いているだろうし、話せなかったことはまた後にしろ。"
+  }
+]

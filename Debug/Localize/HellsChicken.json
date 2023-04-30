@@ -1,0 +1,132 @@
+[
+  {
+    "key": "hells_chicken_bonus_description-content",
+    "original": "이벤트 기간 동안 해당 인격, E.G.O 편성 시 <color=#f8c200>[봉이 인형]의 획득량이 상승</color>합니다.",
+    "context": "EN :\nDuring the event, having the listed Identities and E.G.O on your team <color=#f8c200>increases the amount of [Bongy Plushies] earned</color>.\nJP :\nイベント期間中に該当する人格、E.G.Oを編成時に<color=#f8c200>[ボンちゃん人形]の獲得量が上昇</color>します。"
+  },
+  {
+    "key": "hells_chicken_bonus_popup_title-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特攻対象"
+  },
+  {
+    "key": "hells_chicken_event_panel_stage-content",
+    "original": "스테이지 가보자고!",
+    "context": "EN :\nHit up the Stages!\nJP :\nステージ行ってみるか！"
+  },
+  {
+    "key": "hells_chicken_event_panel_story_title-content",
+    "original": "스.다.",
+    "context": "EN :\nR.S.\nJP :\nス・よ"
+  },
+  {
+    "key": "hells_chicken_event_panel_story_desc-content",
+    "original": "(스토리 다시보기)",
+    "context": "EN :\n(Rewatch Story)\nJP :\n(ストーリーの再読)"
+  },
+  {
+    "key": "hells_chicken_doll_name-content",
+    "original": "봉이 인형",
+    "context": "EN :\nBongy Plush\nJP :\nボンちゃん人形"
+  },
+  {
+    "key": "hells_chicken_reward_exchange_counter-content",
+    "original": "쿠폰 교환",
+    "context": "EN :\nCoupon Trade-in\nJP :\nクーポン交換"
+  },
+  {
+    "key": "hells_chicken_additional_effect_desc-content",
+    "original": "이벤트 인격 및 E.G.O 편성 시,\n[봉이 인형] 획득량 상승",
+    "context": "EN :\nEvent Identities and E.G.O on the team\nboost the amnt. of [Bongy Plushies] earned.\nJP :\nイベント人格およびE.G.Oを編成時、\n[ボンちゃん人形]の獲得量が上昇"
+  },
+  {
+    "key": "hells_chicken_reward_event_main_phrase-content",
+    "original": "은봉이네 <color=#205925>호프치킨<color=#ebcaa2>이 쏩니다!",
+    "context": "EN :\nEunbong’s <color=#205925>Bar & Fryers</color> <color=#ebcaa2>Chickapalooza!</color>\nJP :\nウンボンの<color=#205925>チキン酒場<color=#ebcaa2>の出血大サービス！"
+  },
+  {
+    "key": "hells_chicken_reward_event_phrase_0-content",
+    "original": "※은봉이네에서 사용하는 모든 원료육은 K사 특이점이 사용되지 않았으므로 안심하고 드셔도 됩니다.",
+    "context": "EN :\n※ Please rest assured that all meat used at Eunbong’s is not derived from K Corp’s Singularity.\nJP :\n※ウンボンで使用される全ての原料肉にはK社の特異点が使用されておりませんので、安心してお召し上がりください。"
+  },
+  {
+    "key": "hells_chicken_reward_event_phrase_1-content",
+    "original": "선물이 이만큼씩이나?! 싸장님이 미쳤어요!!!",
+    "context": "EN :\nAll this stuff up for grabs?! The owner’s gone cuckoo!!!\nJP :\nプレゼントがこんなに！？シャチョさんがおかしくなっちゃった！！！"
+  },
+  {
+    "key": "hells_chicken_reward_event_phrase_2-content",
+    "original": "스페-샬\n치킨 쿠폰",
+    "context": "EN :\nSPECIAL\nCHICKEN COUPON\nJP :\nスペシャル\nチキンクーポン"
+  },
+  {
+    "key": "hells_chicken_reward_event_description-content",
+    "original": "헬스 치킨 혹은 주요 이야기의 스테이지, 던전을 클리어하여 <color=#990000>[봉이 인형]</color>을 획득할 수 있습니다.\n\n관리자 님은 획득한 <color=#990000>[봉이 인형]</color>의 수에 비례하여 <color=#990000>[쿠폰 교환]</color>에서 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nClear Hell’s Chicken Event Stages, Main Story Stages, or Dungeons to earn <color=#990000>[Bongy Plushies]</color>.\n\nYou can redeem various rewards from the <color=#990000>[Coupon Trade-in]</color> based on the number of <color=#990000>[Bongy Plushies]</color> you have.\nJP :\nヘルズチキンまたはメインストーリーのステージ、ダンジョンをクリアして<color=#990000>[ボンちゃん人形]</color>を獲得することができます。\n\n管理人様は獲得した<color=#990000>[ボンちゃん人形]</color>の数に比例して<color=#990000>[クーポン交換]</color>から様々な報酬を獲得することができます。"
+  },
+  {
+    "key": "hells_chicken_main_event_banner_unlock_condition-content",
+    "original": "3-22 클리어 후 개방",
+    "context": "EN :\nClear 3-22 to Unlock\nJP :\n3-22クリア後に解放"
+  },
+  {
+    "key": "check_rewards-content",
+    "original": "보상 확인",
+    "context": "EN :\nCheck Rewards\nJP :\n報酬確認"
+  },
+  {
+    "key": "earned_doll_count-content",
+    "original": "획득한 봉이 수",
+    "context": "EN :\nBongy Plushies\nJP :\n獲得したボンちゃんの数"
+  },
+  {
+    "key": "hells_chicken_event_end_stage_text-content",
+    "original": "이벤트는\n끝이라고.",
+    "context": "EN :\nI’m off\nfor R&R.\nJP :\nイベントは\n終わりだ。"
+  },
+  {
+    "key": "hells_chicken_dungeon_select_recent-content",
+    "original": "프리셋",
+    "context": "EN :\nPreset\nJP :\nプリセット"
+  },
+  {
+    "key": "hells_chicken_dungeon_ask_recent_personality-content",
+    "original": "프리셋에 저장된 인격과 E.G.O 목록을 불러오시겠습니까?",
+    "context": "EN :\nLoad the saved Identities and E.G.O from the preset?\nJP :\nプリセットに保存された人格とE.G.Oを読み込みますか？"
+  },
+  {
+    "key": "hells_chicken_dungeon_no_recent_personality-content",
+    "original": "저장된 프리셋이 없습니다.",
+    "context": "EN :\nNo saved presets available.\nJP :\n保存されたプリセットがありません。"
+  },
+  {
+    "key": "hells_chicken_dungeon_desc_recent_personality-content",
+    "original": "※ 이전에 선택한 인격과 E.G.O의 목록이 프리셋에 자동으로 저장되며, 다시 입장할 경우 이를 불러올 수 있습니다.",
+    "context": "EN :\n※ The list of Identities and E.G.O you used is automatically saved in the preset, which can be loaded upon reentry.\nJP :\n※以前に選択した人格とE.G.Oがプリセットに自動で保存され、再入場にこれを読み込むことが出来ます。"
+  },
+  {
+    "key": "giving_up_hells_chicken_dungeon_title-content",
+    "original": "이벤트 거울 던전 포기",
+    "context": "EN :\nForfeit Event Dungeon\nJP :\nイベント鏡ダンジョンをギブアップ"
+  },
+  {
+    "key": "giving_up_hells_chicken_dungeon_content-content",
+    "original": "{0}을 진행 중입니다.\n진행을 포기하고 새로운 던전에 도전하시겠습니까?",
+    "context": "EN :\nYou’re currently exploring {0}.\nForfeit your progress and enter a new dungeon?\nJP :\n{0}を進行中です。\nギブアップして新しいダンジョンに挑戦しますか？"
+  },
+  {
+    "key": "hells_chicken_dungeon_error_desc-content",
+    "original": "서버 오류로 인하여 데이터가 손실되었습니다.\n포기 선택 시, 입장할 때 사용한 엔케팔린 모듈은 반환됩니다.",
+    "context": "EN :\nData was lost due to a server error.\nIf you forfeit, the Enkephalin Modules spent for entry will be refunded.\nJP :\nサーバーエラーによってデータが損失しました。\nギブアップ選択時、入場時に使用したエンケファリンモジュールは返還されます。"
+  },
+  {
+    "key": "only_giving_up_hells_chicken_dungeon_content-content",
+    "original": "{0}을 진행 중입니다.\n진행을 포기하시겠습니까?",
+    "context": "EN :\n{0} is in progress.\nAre you sure you want to forfeit?\nJP :\n{0}を進行中です。\n進行を諦めますか？"
+  },
+  {
+    "key": "hells_chicken_dungeon_stage_button_locked-content",
+    "original": "3장 클리어 하고 와.",
+    "context": "EN :\nGo clear Canto III first.\nJP :\n3章クリアしてこい。"
+  }
+]

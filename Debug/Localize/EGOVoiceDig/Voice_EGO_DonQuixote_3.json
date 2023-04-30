@@ -1,0 +1,72 @@
+[
+  {
+    "key": "battle_awaken_20301_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20301_1-dlg",
+    "original": "달려라 로시난테! 정의는 승리한다!",
+    "context": "EN :\nGallop on, Rocinante! Justice shall prevail!\nJP :\n走れロシナンテ！正義は勝つ！"
+  },
+  {
+    "key": "battle_awaken_20302_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20302_1-dlg",
+    "original": "이것도 받아보시게나!",
+    "context": "EN :\nHave at thee to boot!\nJP :\nこれも受けてみよ！"
+  },
+  {
+    "key": "battle_erosion_20302_1-desc",
+    "original": "E.G.O 침식 발동",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕発動"
+  },
+  {
+    "key": "battle_erosion_20302_1-dlg",
+    "original": "…으스러뜨려.",
+    "context": "EN :\n…Crush them.\nJP :\n…ぶっ潰せ。"
+  },
+  {
+    "key": "battle_awaken_20303_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20303_1-dlg",
+    "original": "하! 전부 지져버리겠네!!!",
+    "context": "EN :\nHo! I shall electrocute them all!!!\nJP :\nはっ！全部灼いてしまおうではないか！！！"
+  },
+  {
+    "key": "battle_erosion_20303_1-desc",
+    "original": "E.G.O 침식 발동",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕発動"
+  },
+  {
+    "key": "battle_erosion_20303_1-dlg",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "battle_awaken_20304_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20304_1-dlg",
+    "original": "이보게!!!!!! 수프 한 입 하고 가시게!!!!",
+    "context": "EN :\nSalutations!!!!!! I implore thee to try this soup!!!!\nJP :\nやい、そこの！！！！！スープひと口食べていきなされ！！！！！"
+  },
+  {
+    "key": "battle_erosion_20304_1-desc",
+    "original": "E.G.O 침식 발동",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕発動"
+  },
+  {
+    "key": "battle_erosion_20304_1-dlg",
+    "original": "에웨엑… 머, 먹고가…",
+    "context": "EN :\nEwerrgh… H—Have a soupçon…\nJP :\nえぅえうぇっ…た、食べていけ…。"
+  }
+]

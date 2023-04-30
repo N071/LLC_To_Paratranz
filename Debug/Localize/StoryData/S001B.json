@@ -1,0 +1,1565 @@
+[
+  {
+    "key": "0-place",
+    "original": "검은 숲",
+    "context": "EN :\nA Dark Forest\nJP :\n黒い森"
+  },
+  {
+    "key": "0-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "0-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "0-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "0-content",
+    "original": "이제 알았어? 뛰어 봤자 벼룩이라는 걸?",
+    "context": "EN :\nDo you see now? You can’t run from us.\nJP :\nようやく分かったか？逃げても無駄だってことを。"
+  },
+  {
+    "key": "1-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "1-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "1-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "1-content",
+    "original": "<감히… ■■를 새기는 순간에… 제정신이 아닌…>",
+    "context": "EN :\n<You dare… interrupt me just as I was engraving the ■■■■■■… You must be out of your…>\nJP :\n<よくも…■■を刻む瞬間に…正気か…。>"
+  },
+  {
+    "key": "2-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "2-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "2-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "2-content",
+    "original": "아~ 엄밀히 따져보면, 스승님이 하려는 게 도시의 금기는 아니더라.",
+    "context": "EN :\nAh~ If we’re being technical, what our master has planned apparently isn’t one of the City’s taboos.\nJP :\nあ～厳密に言うと、お師匠さまがやろうとしてることは都市の禁忌じゃなかったんだよね。"
+  },
+  {
+    "key": "3-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "3-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "3-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-content",
+    "original": "아무도 시도할 생각조차 못 했던… 그런 일이라고 해야 하나?",
+    "context": "EN :\nIt’s just the kind of thing that… no one has ever dared to consider, you catch my drift?\nJP :\n試そうという発想すら誰もしなかった…って言うべきかな？"
+  },
+  {
+    "key": "4-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "4-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "4-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "4-content",
+    "original": "어라, 근데 이 녀석…",
+    "context": "EN :\nHuh, would you look at that…\nJP :\nあれ、でもこいつ……。"
+  },
+  {
+    "key": "5-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "5-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "5-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "5-content",
+    "original": "그 사이에 머리를 갈아 끼웠군. 원래 당신 같은 자들은 준비성조차 철저한가?",
+    "context": "EN :\nYou managed to get a different head in so fast. Do people like you always come prepared?\nJP :\nいつの間にか頭をすげ替えたな。あなたのような人たちは準備から徹底するタイプなのか？"
+  },
+  {
+    "key": "6-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "6-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "6-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "6-content",
+    "original": "<크… ■■을 새기기만 하면… 너희 같은 것들은…>",
+    "context": "EN :\n<Kngh… Just wait ‘til I get the ■■■■■■… You’ll be no match for my…>\nJP :\n<くっ…■■を刻みさえすれば…お前らなんかは…。>"
+  },
+  {
+    "key": "7-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "7-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "7-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "7-content",
+    "original": "하하, 아무래도 저 대가리엔 입까진 없는 모양인데?",
+    "context": "EN :\nHaha, I guess that new noggin doesn’t come with a mouth, huh?\nJP :\nハハ、どうやらあのアタマに口は付属してなかったみたいだな？"
+  },
+  {
+    "key": "8-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "8-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "8-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "8-content",
+    "original": "응, 째깍거리는 소리만 들리네. 속에서는 비명이라도 지르는 걸까?",
+    "context": "EN :\nYep, ticking is all I can hear. You think they’re screaming on the inside?\nJP :\nうん、カチカチいう音しか聞こえないね。悲鳴でも上げてるのかな？"
+  },
+  {
+    "key": "9-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "9-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "9-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "9-content",
+    "original": "<끄악…!>",
+    "context": "EN :\n<Ghaagh…!>\nJP :\n<うぅぅっ…！>"
+  },
+  {
+    "key": "10-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "10-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "10-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "10-content",
+    "original": "흐음. 째깍대는 소리가 빨라지는 걸 보니 아파하기는 하나 봐.",
+    "context": "EN :\nHmm. It’s ticking faster, so I guess they can still feel pain.\nJP :\nふぅん。カチカチいう音が早くなってるってことは、痛がってはいるみたい。"
+  },
+  {
+    "key": "11-content",
+    "original": "젠장… 내가… 왜!",
+    "context": "EN :\nDammit… Why… am I…!\nJP :\nくそっ…私が…どうして！"
+  },
+  {
+    "key": "12-content",
+    "original": "…내가 왜 공격받고 있는 거지?",
+    "context": "EN :\n…Why am I being attacked?\nJP :\n…私はどうして攻撃されているんだろう？"
+  },
+  {
+    "key": "13-content",
+    "original": "큭… 벌써 기억소멸이 일어나는 건가… 너무 급하게 ■■■해서…",
+    "context": "EN :\nNot good… Memories are dissolving already… The ■■■ was done too quick…\nJP :\nくっ…もう記憶消滅が起こっているのか…急に■■■しすぎたせいで…。"
+  },
+  {
+    "key": "14-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "14-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "14-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-content",
+    "original": "뭐야, 이젠 잠잠하네. 그럼 슬슬 끝내자.",
+    "context": "EN :\nWhat, they’ve gone quiet already. Let’s get this over with.\nJP :\nなんだよ、急に静かになって。じゃあそろそろ終わらせようか。"
+  },
+  {
+    "key": "15-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "15-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "15-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "15-content",
+    "original": "늑대, 여긴 누구도 오지 않고 누구도 볼 수 없는 곳이야. 뭐가 그리 급해?",
+    "context": "EN :\nWolf, this is a place no one visits and somewhere none can see. What’s the hurry?\nJP :\n狼。ここは誰も来れず、誰も見れない場所だ。何をそんな急いでるんだ？"
+  },
+  {
+    "key": "16-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "16-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "16-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-content",
+    "original": "우린 가르침을 따라야 해. 시간을 끌어서는 안 되니까.",
+    "context": "EN :\nWe must follow her teachings. We can’t drag on any longer.\nJP :\n私たちは教えに従わないと。時間を引き延ばしちゃ駄目だし。"
+  },
+  {
+    "key": "17-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "17-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "17-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "17-content",
+    "original": "그렇지만… 하, 우리가 살면서 언제 이런 녀석을 죽여보겠어?",
+    "context": "EN :\nYeah, but… Haa, this is the moment of a lifetime. We’re not gonna get a second chance to kill someone of this caliber…\nJP :\nそうだけど…はぁ、私たちが一生の内でこんなやつを殺せる機会があると思う？"
+  },
+  {
+    "key": "18-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "18-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "18-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "18-content",
+    "original": "사자, 너는 일을 할 때 너무 감정적이야. 공과 사는 구분하면 좋겠군.",
+    "context": "EN :\nLion, you have a tendency to grow too emotional during your jobs. I hope you show some discretion.\nJP :\n獅子。お前は仕事をこなすとき、感情的になりすぎている。公私は区別してくれたらいいんだが。"
+  },
+  {
+    "key": "19-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "19-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "19-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "19-content",
+    "original": "체엣…",
+    "context": "EN :\nPshaw…\nJP :\nちぇっ…。"
+  },
+  {
+    "key": "20-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "20-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "20-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "20-content",
+    "original": "얼굴을 보고 싶었는데 아쉽게 됐어. 당신의 별이 어디 있는지는 알려주지 않겠지?",
+    "context": "EN :\nIt’s a shame—I wanted to have a look at your face. I reckon you won’t tell us where your star is, right?\nJP :\n顔を見たかったんだが惜しいことになったな。あなたの星がどこにあるか教えてはくれないか？"
+  },
+  {
+    "key": "21-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "21-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "21-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "21-content",
+    "original": "<당연한 소리를. ■■■가 어디에 있는지는 절대…>",
+    "context": "EN :\n<Like hell I am. I’m taking ■■■’s location to the grave with…>\nJP :\n<当たり前だ。■■■がどこにあるかは絶対…。>"
+  },
+  {
+    "key": "22-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "22-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "22-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "22-content",
+    "original": "<…….>",
+    "context": "EN :\n<……>\nJP :\n<……。>"
+  },
+  {
+    "key": "23-content",
+    "original": "젠장, 원래 ■■■가 어디에 있었지? 기억이 너무 빨리 소멸하고 있어…",
+    "context": "EN :\nDammit, where was ■■■ supposed to be again? My memories are escaping me too quickly…\nJP :\nクソッ、■■■ってどこにあったっけ？記憶消滅が速すぎる…。"
+  },
+  {
+    "key": "24-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "24-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "24-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "24-content",
+    "original": "…그렇군. 입이 없었지.",
+    "context": "EN :\n…Right. No mouth.\nJP :\n…そうか。口が無いんだったな。"
+  },
+  {
+    "key": "25-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "25-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "25-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "25-content",
+    "original": "자연히… 그것을 찾을 방법도 이자에게서는 얻을 수 없겠군.",
+    "context": "EN :\nWhich in turn means… we won’t learn how to acquire it from this person.\nJP :\nとなると…アレを見つける方法もこの者からは得られなさそうだな。"
+  },
+  {
+    "key": "26-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "26-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "26-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "26-content",
+    "original": "그럼 이제 끝내도 돼?",
+    "context": "EN :\nCan I end them now?\nJP :\nじゃあこれで終わらせてもいい？"
+  },
+  {
+    "key": "27-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "27-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "27-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "27-content",
+    "original": "그래… 음?",
+    "context": "EN :\nSure… Huh?\nJP :\nああ…ん？"
+  },
+  {
+    "key": "28-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "28-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "28-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-content",
+    "original": "이거, 무슨 소리야? 표범… 설마 뒤에다가 추적자들을 달고 온 거야?",
+    "context": "EN :\nHey, what’s that noise? Don’t tell me, Panther… did you allow yourself to be tracked?\nJP :\nこれ、何の音？豹…まさか後ろに追跡者を付けてきたのか？"
+  },
+  {
+    "key": "29-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "29-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "29-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "29-content",
+    "original": "아니, 쫓아올 자는 아무도 없었어. 짐승일 확률은?",
+    "context": "EN :\nNo, there was no one that could’ve pursued me. Perhaps a wild animal?\nJP :\nいや、追っ手は誰もいなかった。獣である確率は？"
+  },
+  {
+    "key": "30-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "30-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "30-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-content",
+    "original": "짐승 소리가 아니야. 이건…",
+    "context": "EN :\nThis is not the sound a beast would make. It’s…\nJP :\n獣の音じゃない。これは…。"
+  },
+  {
+    "key": "31-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "31-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "31-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "31-content",
+    "original": "버스…?",
+    "context": "EN :\nA bus…?\nJP :\nバス…？"
+  },
+  {
+    "key": "32-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "32-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "32-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-content",
+    "original": "저런 게 어떻게 여기까지 굴러들어왔지?",
+    "context": "EN :\nHow did it even end up here?\nJP :\nあんなのがどうやってここまで転がり込んできたんだ？"
+  },
+  {
+    "key": "33-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "33-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "33-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "33-content",
+    "original": "조난당한 버스인가 본데?",
+    "context": "EN :\nMust’ve taken a wrong turn?\nJP :\n遭難したバスみたいだな？"
+  },
+  {
+    "key": "34-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "34-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "34-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "34-content",
+    "original": "후, 길을 잘못 든 죗값은 생각보다 무거울 텐데…",
+    "context": "EN :\nHoo, the price they’ll pay for taking the wrong road will be heavier than they expect…\nJP :\nふぅ、道を間違えた罪の対価は想像以上に重いだろうけど…。"
+  },
+  {
+    "key": "35-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "35-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "35-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "35-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "36-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "36-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "36-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "36-content",
+    "original": "…사자가 밀린 거야?",
+    "context": "EN :\n…It bested Lion’s strength?\nJP :\n…獅子が押された？"
+  },
+  {
+    "key": "37-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "37-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "37-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "37-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "38-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "38-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "38-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "38-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "39-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "39-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "39-content",
+    "original": "여전히 내 눈이 틀림없다면 당신은 영광의 항구에 이르겠지.",
+    "context": "EN :\nIf my eyes are still right, then you will reach the harbor of glory.\nJP :\n未だ私の目に狂いがないのであれば、あなたは栄光の港に辿り着くでしょう。"
+  },
+  {
+    "key": "40-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "40-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "40-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "40-content",
+    "original": "<당신은… 누구야? 명찰… 파… 우스트?>",
+    "context": "EN :\n<Who… are you? That nameplate… says… Faust?>\nJP :\n<あなたは…誰だ？名札…ファ…ウスト？>"
+  },
+  {
+    "key": "41-model",
+    "original": "프롤로그파우스트",
+    "translation": "序章浮士德",
+    "context": "EN :\n序章浮士德\nJP :\nFaust"
+  },
+  {
+    "key": "41-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "41-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "41-content",
+    "original": "어두운 숲에서 길을 잃었군요.",
+    "context": "EN :\nYou’ve lost your way in a dark forest.\nJP :\n暗い森で道に迷ったのですね。"
+  },
+  {
+    "key": "42-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "42-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "42-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "42-content",
+    "original": "<뭐… 뭐라고?>",
+    "context": "EN :\n<I’m… sorry, what?>\nJP :\n<な…なんて？>"
+  },
+  {
+    "key": "43-model",
+    "original": "프롤로그파우스트",
+    "translation": "序章浮士德",
+    "context": "EN :\n序章浮士德\nJP :\nFaust"
+  },
+  {
+    "key": "43-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "43-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "43-content",
+    "original": "하지만 당신은 두렵지 않았어요. 왜일까요?",
+    "context": "EN :\nYet you were not overcome with fear. Why was that?\nJP :\nしかしあなたは怖くありませんでした。何故でしょうか？"
+  },
+  {
+    "key": "44-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "44-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "44-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "44-content",
+    "original": "<그건…>",
+    "context": "EN :\n<That’s…>\nJP :\n<それは…。>"
+  },
+  {
+    "key": "45-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "45-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "45-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "45-content",
+    "original": "<고개를 들어… 별을 찾으면 되니까.>",
+    "context": "EN :\n<I could simply… lift my head to find the star.>\nJP :\n<顔を上げ…星を探せば良いから。>"
+  },
+  {
+    "key": "46-model",
+    "original": "프롤로그파우스트",
+    "translation": "序章浮士德",
+    "context": "EN :\n序章浮士德\nJP :\nFaust"
+  },
+  {
+    "key": "46-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "46-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "46-content",
+    "original": "그래요.",
+    "context": "EN :\nThat’s right.\nJP :\nそうです。"
+  },
+  {
+    "key": "47-model",
+    "original": "프롤로그파우스트",
+    "translation": "序章浮士德",
+    "context": "EN :\n序章浮士德\nJP :\nFaust"
+  },
+  {
+    "key": "47-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "47-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "47-content",
+    "original": "이제 그 형상을 되뇌면서 제가 하는 말을 마음으로 외치세요.",
+    "context": "EN :\nNow, repeat with the heart what I tell you aloud as you remind yourself of that image.\nJP :\n今からその形相を繰り返しながら、私が言うことを心の中で叫んでください。"
+  },
+  {
+    "key": "48-model",
+    "original": "프롤로그파우스트",
+    "translation": "序章浮士德",
+    "context": "EN :\n序章浮士德\nJP :\nFaust"
+  },
+  {
+    "key": "48-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\n제복에피"
+  },
+  {
+    "key": "48-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "48-content",
+    "original": "너의 별을 따라가거라.",
+    "context": "EN :\nFollow your star.\nJP :\nお前の星に従え。"
+  },
+  {
+    "key": "49-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "49-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "49-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "49-content",
+    "original": "<너의… 별을 따라가거라.>",
+    "context": "EN :\n<Follow… your star.>\nJP :\n<お前の…星に従え。>"
+  },
+  {
+    "key": "50-content",
+    "original": "그 순간…",
+    "context": "EN :\nAt that moment…\nJP :\nその瞬間…。"
+  },
+  {
+    "key": "51-content",
+    "original": "머릿속에서 무언가 덜컥거리며 내려앉는 느낌이 들었다.",
+    "context": "EN :\nI felt a sudden thump in my head.\nJP :\n頭の中で何かガチャガチャと音を立てながら、落ちていくような感じがした。"
+  },
+  {
+    "key": "52-content",
+    "original": "또한 여러 개의 사슬에 꿰뚫리는, 혹은 꿰뚫려지는 것 같은 감각. ",
+    "context": "EN :\nFollowed by the sting of several chains penetrating my chest.\nJP :\nまた、幾つもの鎖が突き刺さる、あるいは突き刺されるような感覚。"
+  },
+  {
+    "key": "53-model",
+    "original": "프롤로그단테",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "53-teller",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "53-title",
+    "original": "■■■",
+    "context": "EN :\n■■■\nJP :\n■■■"
+  },
+  {
+    "key": "53-content",
+    "original": "<헉… 으, 으아앗!!!>",
+    "context": "EN :\n<Hyag… Ah— Aaagh!!!>\nJP :\n<はっ…う、うわぁああっ！！！>"
+  },
+  {
+    "key": "54-model",
+    "original": "프롤로그파우스트",
+    "translation": "序章浮士德",
+    "context": "EN :\n序章浮士德\nJP :\nFaust"
+  },
+  {
+    "key": "54-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "54-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "54-content",
+    "original": "걱정하지 마세요. 정말로 심장을 못 쓰게 된 게 아니니까.",
+    "context": "EN :\nRelax. Though it may feel otherwise, your heart is still functional.\nJP :\n心配しないでください。本当に心臓を使えなくなったわけではないですから。"
+  },
+  {
+    "key": "55-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "55-content",
+    "original": "이것으로 계약은 완료되었습니다.",
+    "context": "EN :\nWith this, the pact has been sealed.\nJP :\nこれで契約は完了しました。"
+  },
+  {
+    "key": "56-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "56-content",
+    "original": "단테, 이제 저희는 당신의 시간에 귀속되었습니다.",
+    "context": "EN :\nDante, from this day forth, we are bound to your time.\nJP :\nダンテ、これで私たちはあなたの時間に帰属するようになりました。"
+  },
+  {
+    "key": "57-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "57-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "57-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "57-content",
+    "original": "<그게 무슨…>",
+    "context": "EN :\n<What do you…?>\nJP :\n<それってどういう…。>"
+  },
+  {
+    "key": "58-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "58-content",
+    "original": "이제 저희의 심장이 멎고 뜀은 당신의 시각이 어디 위치하는지에 따라 달렸습니다.",
+    "context": "EN :\nThe beating of our hearts now depends on where your hands fall.\nJP :\nこれから、私たちの心臓の動止はあなたの時刻がどこに位置するかに懸かっています。"
+  },
+  {
+    "key": "59-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "59-content",
+    "original": "잘 부탁드려요.",
+    "context": "EN :\nI hope you’ll make a fine leader.\nJP :\nよろしくお願いします。"
+  },
+  {
+    "key": "60-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "60-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "60-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "60-content",
+    "original": "<저희…?>",
+    "context": "EN :\n<“Our”…?>\nJP :\n<私たち…？>"
+  },
+  {
+    "key": "61-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "61-content",
+    "original": "정말 이걸로 된 건가요?",
+    "context": "EN :\nIs that really everything?\nJP :\n本当にこれでいいんですか？"
+  },
+  {
+    "key": "62-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "62-content",
+    "original": "사과 한 알이 떨어졌소.",
+    "context": "EN :\nA single apple has fallen.\nJP :\n林檎一玉が墜ちたり。"
+  },
+  {
+    "key": "63-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "63-content",
+    "original": "…이 사람은 아직도 이상한 소리만 하네.",
+    "context": "EN :\n…This guy’s still not making any sense.\nJP :\n…この人さっきからずっと変なことばっかり言ってる。"
+  },
+  {
+    "key": "64-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "64-content",
+    "original": "으으~ 찌뿌둥해! 이제 움직여도 되는 거지?",
+    "context": "EN :\nGeeeez~ The wait was killing me! Finally some action now?\nJP :\nうぅ～ダルい！もう動いて良いんだよね？"
+  },
+  {
+    "key": "65-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "65-content",
+    "original": "뭐, 몸을 풀어보는 것도 나쁘진 않겠지.",
+    "context": "EN :\nWell, I guess we could use a little warm-up.\nJP :\nまぁ、身体をほぐすのも悪くはないだろうな。"
+  },
+  {
+    "key": "66-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "66-content",
+    "original": "불쌍하게 나뒹굴고 있는 저것은 뭐지? 우리의 마지막 대원이 될 자인가?",
+    "context": "EN :\nWhat is that wretch miserably writhing on the ground? Are they to be the newest addition to the team?\nJP :\n哀れに転がっているあれは何だ？私たちの最後の隊員になる者か？"
+  },
+  {
+    "key": "67-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "67-content",
+    "original": "어… 말조심하는 게 좋을 걸… 우리 상사가 될 분이래…",
+    "context": "EN :\nUh… You might wanna watch your words… I heard that’s our soon-to-be boss…\nJP :\nあぁ…言葉には気を付けた方が良いと思うな…俺たちの上司になる方だってよ…。"
+  },
+  {
+    "key": "68-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "68-content",
+    "original": "습격은 순식간이었을 텐데, 용케 머리를 숨겼군요.",
+    "context": "EN :\nThe attack must’ve happened in an instant—I’m impressed you managed to hide your head.\nJP :\n襲撃は一瞬だったでしょうに、上手いこと頭を隠せましたね。"
+  },
+  {
+    "key": "69-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "69-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "69-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "69-content",
+    "original": "<너희들은 누구지? 이 버스는 대체 뭐고?>",
+    "context": "EN :\n<Who are you people? And what’s up with this bus?>\nJP :\n<お前たちは誰だ？このバスは一体何だ？>"
+  },
+  {
+    "key": "70-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "70-content",
+    "original": "우리는 당신을 돕기 위해 찾아온 정의의 사자들이고, 이건 원하는 곳은 어디든 갈 수 있는 마술 버스죠.",
+    "context": "EN :\nWe are bearers of justice who have come to aid you, and this is the magical bus that takes us wherever we wish to go.\nJP :\n私たちはあなたを助けるためにやってきた正義の使者で、これは行きたい場所ならどこにでも行ける手品のようなバスです。"
+  },
+  {
+    "key": "71-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "71-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "71-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "71-content",
+    "original": "<정의? 버스? 무슨…>",
+    "context": "EN :\n<Justice? Bus? I don’t…>\nJP :\n<正義？バス？なにが…。>"
+  },
+  {
+    "key": "72-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "72-content",
+    "original": "그런 대답을 바라는 거 아니었어요? 그렇게 생각하는 쪽이 마음 편할 테니.",
+    "context": "EN :\nWasn’t that what you expected to hear? Either way, you’re better off believing us to be your saviors.\nJP :\nそういった答えを望んだのではなかったのですか？\nそうだと思う方が気楽でしょうに。"
+  },
+  {
+    "key": "73-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "73-content",
+    "original": "시간도 없고 유리한 상황도 아니니까 천천히, 하지만 한 번만 설명하죠.",
+    "context": "EN :\nWe’re racing against time and the situation isn’t in our favor, so let me explain this once.\nJP :\n時間も無く有利な状況でもないのでゆっくり、しかし一度だけ説明しましょう。"
+  },
+  {
+    "key": "74-content",
+    "original": "시간이 지난 후…",
+    "context": "EN :\nAfter some time passed…\nJP :\nしばらくして…。"
+  },
+  {
+    "key": "75-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "75-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "75-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "75-content",
+    "original": "<그러니까… 당신이 알려준 대로만 하면 처음 보는 저 사람들이 나를 대신해서 전투를 치른다는 거지?>",
+    "context": "EN :\n<So… If I’m not mistaken here and I do as you’ve said, those total strangers will fight for me?>\nJP :\n<だから…あなたが教えてくれた通りにすれば、初対面のあの人たちが私の代わりに戦ってくれるということ？>"
+  },
+  {
+    "key": "76-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "76-content",
+    "original": "맞아요. 당신이 올바르게 명령을 내린다면요.",
+    "context": "EN :\nCorrect. So long as you give them the right orders.\nJP :\nそうです。あなたが正しい命令を下すのなら、ですが。"
+  },
+  {
+    "key": "77-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "77-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "77-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "77-content",
+    "original": "<그래, 그럼 이 빌어먹을 새끼들을 다 죽이고…>",
+    "context": "EN :\n<Alright, so we’ll kill these arrogant vandals dead…>\nJP :\n<ああ、じゃあこのクソ野郎どもを皆殺しにして…。>"
+  },
+  {
+    "key": "78-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "78-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "78-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "78-content",
+    "original": "<다시 원래 있던 곳으로 돌아가서…>",
+    "context": "EN :\n<Then I’ll go back to where I was…>\nJP :\n<元の場所に戻って…。>"
+  },
+  {
+    "key": "79-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "79-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "79-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "79-content",
+    "original": "<돌아가서…>",
+    "context": "EN :\n<Where I was, and…>\nJP :\n<戻って…。>"
+  },
+  {
+    "key": "80-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "80-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "80-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "80-content",
+    "original": "<…….>",
+    "context": "EN :\n<……>\nJP :\n<……。>"
+  },
+  {
+    "key": "81-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "81-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "81-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "81-content",
+    "original": "<내가 뭘 하고 있었지? 원래 있던 곳은 어디였지?>",
+    "context": "EN :\n<What was I doing? Where was I when I did that?>\nJP :\n<私は何をしてたんだ？元いた場所はどこだったっけ？>"
+  },
+  {
+    "key": "82-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "82-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "82-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "82-content",
+    "original": "<나는 굉장히 중요한 순간을 목전에 앞두고 있었어. 결코, 잊어버려서는 안 되는…>",
+    "context": "EN :\n<Something extremely important was upon me. Something I shouldn’t forget…>\nJP :\n<私はすごく大事な瞬間を目前に控えていた。決して、忘れてはならない…。>"
+  },
+  {
+    "key": "83-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "83-content",
+    "original": "진정해요. 그 머리로 기억이 온전할 리가.",
+    "context": "EN :\nCalm down. It’s only natural to happen with your current head.\nJP :\n落ち着いてください。その頭で記憶が完全なわけないでしょう。"
+  },
+  {
+    "key": "84-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "84-content",
+    "original": "지금은 눈앞에 놓인 전투에 집중하죠, 단테.",
+    "context": "EN :\nYou should focus on the struggle at hand, Dante.\nJP :\n今は目の前の戦闘に集中しましょう、ダンテ。"
+  },
+  {
+    "key": "85-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "85-content",
+    "original": "시… 크흠, 뭐라고 불러야 할지.",
+    "context": "EN :\nClo… Pardon, I’m not sure how I should address you.\nJP :\nと…コホン、何と呼ぶべきか。"
+  },
+  {
+    "key": "86-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "86-content",
+    "original": "시계 지휘관님…? 아무튼, 전투 명령을 내려주십시오!",
+    "context": "EN :\nWould Commander Clock suffice…? In any case, we await your orders!\nJP :\n時計指揮官様…？何はともあれ、戦闘命令を下してください！"
+  },
+  {
+    "key": "87-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "87-content",
+    "original": "뭘 명령까지야. 각개전투밖에 답이 없지 않나?",
+    "context": "EN :\nEh, do we really need orders? Seems like going one-on-one is the only way.\nJP :\n命令なんて要るか？個別戦くらいしかなくないか？"
+  },
+  {
+    "key": "88-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "88-content",
+    "original": "아앗?! 저, 저기요!",
+    "context": "EN :\nHuh?! H-Hey!\nJP :\nあぁっ！？あ、あの！"
+  },
+  {
+    "key": "89-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "89-content",
+    "original": "뭘 쑥덕대고 있는 거야! 다 으스러뜨리면 그만이잖아!",
+    "context": "EN :\nQuit running off your mouths! We just need to crush them all!\nJP :\nなにゴチャゴチャ言ってんだ！全部ぶっ壊せばいいんだろ！"
+  },
+  {
+    "key": "90-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "90-content",
+    "original": "…최선을 다해 주세요. 단테.",
+    "context": "EN :\n…Please do your best, Dante.\nJP :\n…最善を尽くしてください、ダンテ。"
+  },
+  {
+    "key": "91-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "91-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "91-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "91-content",
+    "original": "<…달리 방도가 있는 것도 아니겠지.>",
+    "context": "EN :\n<…There’s no two ways about it, I suppose.>\nJP :\n<…他に方法があるわけでもないし。>"
+  }
+]

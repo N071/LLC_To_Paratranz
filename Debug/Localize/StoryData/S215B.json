@@ -1,0 +1,210 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 3F",
+    "context": "EN :\nCasino 3F\nJP :\nカジノ 3F"
+  },
+  {
+    "key": "0-model",
+    "original": "몸푸는철공회조직원",
+    "translation": "正在热身的铁工会成员",
+    "context": "EN :\n铁工会\nJP :\nIron2"
+  },
+  {
+    "key": "0-teller",
+    "original": "몸 푸는 철공회 조직원",
+    "context": "EN :\nFlexing Crewman\nJP :\n身体を解す鉄工会の組織員"
+  },
+  {
+    "key": "0-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "0-content",
+    "original": "느이들, 대그빡들 간수 잘해라잉. 뽑아다가 축구공으로 써먹을랑게.",
+    "context": "EN :\nYou’d better keep your noggin safe and sound, ‘cause for kick the can we might need somethin’ around.\nJP :\nおめたち、こうべはちゃんと取っとけやぁ。抜い取ってサッカーボールにしよか。"
+  },
+  {
+    "key": "1-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "1-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "1-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "1-content",
+    "original": "잊고 있었어… 이놈들은 입이 험하기로 유명한…",
+    "context": "EN :\nI almost forgot… These are the ones known for their coarse language…\nJP :\n忘れてた…こいつらが口が悪いことで有名な…。"
+  },
+  {
+    "key": "2-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "2-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "2-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "2-content",
+    "original": "주둥이로만 장장 수십 명의 라이벌 조직원들을 정신 피해로만 전멸시켰다는 소문이 있지…",
+    "context": "EN :\nRumor has it they took down dozens of rival Syndicate members with just the psychological damage inflicted via their tongues…\nJP :\n口だけで数十人のライバル組織員を、\n精神被害のみで全滅させたって噂があるんだ…。"
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "야! 너네, 말로 할 수 있을 때 조용히…",
+    "context": "EN :\nOi! You watch your mouths while I’m—\nJP :\nおい！お前ら、口が利けるうちに大人しく…。"
+  },
+  {
+    "key": "4-model",
+    "original": "몸푸는철공회조직원",
+    "translation": "正在热身的铁工会成员",
+    "context": "EN :\n铁工会\nJP :\nIron2"
+  },
+  {
+    "key": "4-teller",
+    "original": "몸 푸는 철공회 조직원",
+    "context": "EN :\nFlexing Crewman\nJP :\n身体を解す鉄工会の組織員"
+  },
+  {
+    "key": "4-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "4-content",
+    "original": "느이는 뭔데 그리 꼬라보냐? 눈깔 안 치워? 무슨 개눈깔을 하고서는…",
+    "context": "EN :\nWho’re you gazing nitwits? Keep us out of sight, won’tcha? Them big bulgin’ doggy eyeballs are unnerving…\nJP :\nおめはなんやてガン飛ばすんや？目ン玉どけろや？\nくたばっちまった魚の目しちょる癖して…。"
+  },
+  {
+    "key": "5-model",
+    "original": "위협적인철공회조직원",
+    "translation": "盛气凌人的铁工会成员",
+    "context": "EN :\n铁工会\nJP :\nIron1"
+  },
+  {
+    "key": "5-teller",
+    "original": "위협적인 철공회 조직원",
+    "context": "EN :\nThreatening Crewman\nJP :\n威圧的な鉄工会の組織員"
+  },
+  {
+    "key": "5-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "5-content",
+    "original": "아야, 아서라. 내가 아까 대그빡을 쪼개다가 속에 고함 한 번 쳐봤는데 메아리만 울리던 것들이여.",
+    "context": "EN :\nEasy, bud. I took a shoutin’ crack at one o’ them’s eggs earlier, and my voice echoed like the whole noggin was cave-empty.\nJP :\nあいやぁ、やめやぁ。わてがさっき、あんどたまを割って\n中にちとたんかばったら、山びこが返ってきおった。"
+  },
+  {
+    "key": "6-model",
+    "original": "몸푸는철공회조직원",
+    "translation": "正在热身的铁工会成员",
+    "context": "EN :\n铁工会\nJP :\nIron2"
+  },
+  {
+    "key": "6-teller",
+    "original": "몸 푸는 철공회 조직원",
+    "context": "EN :\nFlexing Crewman\nJP :\n身体を解す鉄工会の組織員"
+  },
+  {
+    "key": "6-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "6-content",
+    "original": "에헤이~ 어째, 해골통 안에 우동사리도 안 들었냐? 어찌 대가리에 공갈빵을 매달고 다니냐?",
+    "context": "EN :\nWell brush me sideways, they don’t even got a string o’ egg noodle for brains? What’s the round thing on their shoulders, then? A bag o’ gas?\nJP :\nえへ～ぃ。どげんして、されこうべん中におが屑すら入ってねのか？\nなしてどたまにひょうたんぶら下げとんのかぇ？"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "8-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "8-content",
+    "original": "흠, 다들 단체 교습이라도 받는 건가?",
+    "context": "EN :\nHm, think they all take lessons in assholery from the same class?\nJP :\nふむ、みんなでこういう団体教習でも受けてるのか？"
+  },
+  {
+    "key": "9-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "9-content",
+    "original": "…풉.",
+    "context": "EN :\n…Pft.\nJP :\n…ぷっ。"
+  },
+  {
+    "key": "10-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10-content",
+    "original": "아, 아니 웃기긴 하잖아. 나, 나를 왜 보고 그러나~",
+    "context": "EN :\nI—I mean, it was kinda funny. N-not sure what you’re looking at me for~\nJP :\nだ、だって笑えるでしょ。な、なんで私に向かって言うの～。"
+  },
+  {
+    "key": "11-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "11-content",
+    "original": "…다.",
+    "context": "EN :\n…Dead.\nJP :\n…み。"
+  },
+  {
+    "key": "12-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "12-content",
+    "original": "…다 죽여버린다!!",
+    "context": "EN :\n…You’re all bloody dead!!\nJP :\n…皆殺しにしてやる！！"
+  }
+]

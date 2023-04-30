@@ -1,0 +1,497 @@
+[
+  {
+    "key": "800101_whitesnow_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}] 효과</color> <color=#e30000>소멸</color>",
+    "context": "EN :\n<color=#ebcaa2>The effects of [{0}]</color> <color=#e30000>expired.</color>\nJP :\n<color=#ebcaa2>[{0}]効果</color> <color=#e30000>消滅</color>"
+  },
+  {
+    "key": "800101_whitesnow_failure_1_1-content",
+    "original": "<color=#ebcaa2>아무 일도 일어나지 않았다.</color>",
+    "context": "EN :\n<color=#ebcaa2>Nothing happened.</color>\nJP :\n<color=#ebcaa2>何も起こらなかった。</color>"
+  },
+  {
+    "key": "800105_whitesnow_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color> <color=#f8c200>부위 파괴!</color>",
+    "context": "EN :\nThe <color=#ebcaa2>[{0}]</color> <color=#f8c200>got broken!</color>\nJP :\n<color=#ebcaa2>[{0}]</color> <color=#f8c200>部位破壊！</color>"
+  },
+  {
+    "key": "800105_whitesnow_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]가 흐트러짐</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] got Staggered!</color>\nJP :\n<color=#ebcaa2>[{0}]が混乱</color>"
+  },
+  {
+    "key": "800105_whitesnow_failure_1_1-content",
+    "original": "<color=#ebcaa2>아무 일도 일어나지 않았다.</color>",
+    "context": "EN :\n<color=#ebcaa2>Nothing happened.</color>\nJP :\n<color=#ebcaa2>何も起こらなかった。</color>"
+  },
+  {
+    "key": "800801_muckwormedapple_success_1_1-content",
+    "original": "<color=#ebcaa2>황금빛의 사과가 새로운 몸통을 만들었다!</color>",
+    "context": "EN :\n<color=#ebcaa2>The Golden Apple formed a new body!</color>\nJP :\n<color=#ebcaa2>腐った林檎が新たに胴体を作り出した！</color>"
+  },
+  {
+    "key": "800801_muckwormedapple_failure_1_1-content",
+    "original": "{0}의</color> <color=#e30000>체력 - {1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses [{1}] HP.</color>\nJP :\n{0}の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "800801_muckwormedapple_failure_1_2-content",
+    "original": "{0}의 모든 부위가</color> %{1}턴 동안 {2} {3}/%를 얻음.</color>",
+    "context": "EN :\nAll of [{0}]’s parts gain %{3} {2} for {1} turn(s)/%.\nJP :\n{0}の全部位が</color>%{1}ターンの間、{2}{3}/%を得る。</color>"
+  },
+  {
+    "key": "800801_muckwormedapple_failure_1_3-content",
+    "original": "<color=#ebcaa2>황금빛의 사과가 새로운 몸통을 만들었다!</color>",
+    "context": "EN :\n<color=#ebcaa2>The Golden Apple formed a new body!</color>\nJP :\n<color=#ebcaa2>腐った林檎が新たに胴体を作り出した！</color>"
+  },
+  {
+    "key": "800201_aztec_circle_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의 모든 부위가</color> %[{1}] {2}/%<color=#ebcaa2>을 얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}]/%.\nJP :\n<color=#ebcaa2>[{0}]の全部位が</color>%[{1}]{2}/%<color=#ebcaa2>を得る。</color>"
+  },
+  {
+    "key": "800202_aztec_circle_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 - {1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "800202_aztec_circle_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]의 모든 부위가</color> %[{1}] {2}/%<color=#ebcaa2>을 얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}]/%.\nJP :\n<color=#ebcaa2>[{0}]の全部位が</color>%[{1}]{2}/%<color=#ebcaa2>を得る。</color>"
+  },
+  {
+    "key": "800202_aztec_circle_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "800202_aztec_circle_failure_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#fe4b48>정신력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#fe4b48>精神力-{1}</color>"
+  },
+  {
+    "key": "800202_aztec_circle_failure_1_3-content",
+    "original": "<color=#ebcaa2>[{0}]의 모든 부위가</color> %[{1}] {2}, [{3}] {4}/%<color=#ebcaa2>을 얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}] and {4} [{3}]/%.\nJP :\n<color=#ebcaa2>[{0}]の全部位が</color>%[{1}]{2},[{3}]{4}/%<color=#ebcaa2>を得る。</color>"
+  },
+  {
+    "key": "800203_aztec_circle_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "800203_aztec_circle_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]의 [{1}]</color> <color=#e30000>효과 소멸</color>",
+    "context": "EN :\n<color=#ebcaa2>[{1}] of [{0}]</color> <color=#e30000>expired.</color>\nJP :\n<color=#ebcaa2>[{0}]の[{1}]</color><color=#e30000>効果消失</color>"
+  },
+  {
+    "key": "800204_aztec_circle_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "800204_aztec_circle_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "800204_aztec_circle_success_1_3-content",
+    "original": "<color=#ebcaa2>[{0}]의 [{1}]</color> <color=#e30000>효과 소멸</color>",
+    "context": "EN :\n<color=#ebcaa2>[{1}] of [{0}]</color> <color=#e30000>expired.</color>\nJP :\n<color=#ebcaa2>[{0}]の[{1}]</color><color=#e30000>効果消失</color>"
+  },
+  {
+    "key": "800204_aztec_circle_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "800204_aztec_circle_failure_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#fe4b48>정신력 - {1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#fe4b48>精神力-{1}</color>"
+  },
+  {
+    "key": "800204_aztec_circle_failure_1_3-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "800204_aztec_circle_failure_1_4-content",
+    "original": "<color=#ebcaa2>모든 수감자들에게</color> %[{0}] {1}/% <color=#ebcaa2>부여</color>",
+    "context": "EN :\n%{1} [{0}]/% <color=#ebcaa2>applied</color> to <color=#ebcaa2>all Sinners.</color>\nJP :\n<color=#ebcaa2>全囚人に</color>%[{0}] {1}/%<color=#ebcaa2>を付与</color>"
+  },
+  {
+    "key": "800206_aztec_circle_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "800206_aztec_circle_success_1_2-content",
+    "original": "<color=#ebcaa2>모든 수감자의</color> <color=#fe4b48>정신력 -{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All Sinners</color> <color=#fe4b48>lose {0} SP.</color>\nJP :\n<color=#ebcaa2>全囚人の</color><color=#fe4b48>精神力-{0}</color>"
+  },
+  {
+    "key": "800206_aztec_circle_success_1_3-content",
+    "original": "<color=#ebcaa2>환상체 제압 완료</color>",
+    "context": "EN :\n<color=#ebcaa2>Abnormality Suppressed!</color>\nJP :\n<color=#ebcaa2>幻想体 制圧完了</color>"
+  },
+  {
+    "key": "800206_aztec_circle_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "800206_aztec_circle_failure_1_2-content",
+    "original": "<color=#ebcaa2>모든 수감자의</color> <color=#fe4b48>정신력 -{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All Sinners</color> <color=#fe4b48>lose {0} SP.</color>\nJP :\n<color=#ebcaa2>全囚人の</color><color=#fe4b48>精神力-{0}</color>"
+  },
+  {
+    "key": "800206_aztec_circle_failure_1_3-content",
+    "original": "<color=#ebcaa2>[{0}]의 모든 부위가</color> %[{1}] {2}, [{3}] {4}/%<color=#ebcaa2>을 얻음.</color>",
+    "context": "EN :\n<color=#ebcaa2>All of [{0}]’s parts</color> <color=#ebcaa2>gain</color> %{2} [{1}] and {4} [{3}]/%.\nJP :\n<color=#ebcaa2>[{0}]の全部位が</color>%[{1}]{2},[{3}]{4}/%<color=#ebcaa2>を得る。</color>"
+  },
+  {
+    "key": "801201_reinforcedHuman_1_1-content",
+    "original": "<color=#ebcaa2>공장을 조사하기로 했다.</color>",
+    "context": "EN :\n<color=#ebcaa2>Investigating the factory…</color>\nJP :\n<color=#ebcaa2>工場を調査することにした。</color>"
+  },
+  {
+    "key": "801201_reinforcedHuman_1_2-content",
+    "original": "<color=#ebcaa2>공장을 조사하지 않기로 했다.</color>",
+    "context": "EN :\n<color=#ebcaa2>We decided against investigating the factory.</color>\nJP :\n<color=#ebcaa2>工場を調査しないことにした。</color>"
+  },
+  {
+    "key": "801202_reinforcedHuman_1_1-content",
+    "original": "<color=#ebcaa2>'그렇다'버튼을 눌렀다.</color>",
+    "context": "EN :\n<color=#ebcaa2>Pressed “Yes”.</color>\nJP :\n<color=#ebcaa2>「そうである」ボタンを押した。</color>"
+  },
+  {
+    "key": "801202_reinforcedHuman_2_1-content",
+    "original": "<color=#ebcaa2>'아니다'버튼을 눌렀다.</color>",
+    "context": "EN :\n<color=#ebcaa2>Pressed “No”.</color>\nJP :\n<color=#ebcaa2>「そうでない」ボタンを押した。</color>"
+  },
+  {
+    "key": "801202_reinforcedHuman_1_2_1-content",
+    "original": "<color=#ebcaa2>모든 인격의</color> <color=#e30000>체력 -{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All Identities</color> <color=#e30000>lose {0} HP.</color>\nJP :\n<color=#ebcaa2>全人格の</color><color=#e30000>体力-{0}</color>"
+  },
+  {
+    "key": "801202_reinforcedHuman_1_2_2-content",
+    "original": "<color=#ebcaa2>모든 적의 강화공장가동 패시브</color> <color=#e30000>소멸</color>",
+    "context": "EN :\n<color=#ebcaa2>All the Cyborgs</color> <color=#e30000>have lost</color> <color=#ebcaa2>their [Upgrade Factory at Work] Passives!</color>\nJP :\n<color=#ebcaa2>全ての敵の強化工場稼働パッシブが</color><color=#e30000>消滅</color>"
+  },
+  {
+    "key": "801202_reinforcedHuman_2_2-content",
+    "original": "<color=#ebcaa2>모든 적의 강화공장가동 패시브</color> <color=#e30000>소멸</color>",
+    "context": "EN :\n<color=#ebcaa2>All enemies</color> <color=#e30000>have lost</color> <color=#ebcaa2>their [Upgrade Factory at Work] Passives!</color>\nJP :\n<color=#ebcaa2>全ての敵の強化工場稼働パッシブが</color><color=#e30000>消滅</color>"
+  },
+  {
+    "key": "801502_pinkshoe_success_1_1-content",
+    "original": "<color=#ebcaa2>남은 턴동안 모든 적에게</color> %[{0}] {1} , [{2}] {3}/% <color=#ebcaa2>부여</color>",
+    "context": "EN :\n<color=#ebcaa2>For the remaining turns, all enemies</color> <color=#ebcaa2>gain</color> %{1} [{0}] and {3} [{2}]/%.\nJP :\n<color=#ebcaa2>残ったターンの間、全ての敵に</color>%[{0}]{1}、[{2}]{3}/%<color=#ebcaa2>を付与</color>"
+  },
+  {
+    "key": "801502_pinkshoe_success_1_2-content",
+    "original": "<color=#ebcaa2>모든 적이 더이상 [{0}]가 되지 않음</color>",
+    "context": "EN :\n<color=#ebcaa2>All enemies will no longer become [{0}].</color>\nJP :\n<color=#ebcaa2>全ての敵がこれ以上[{0}]にならない</color>"
+  },
+  {
+    "key": "801502_pinkshoe_failure_1_1-content",
+    "original": "<color=#ebcaa2>모든 아군의</color> <color=#e30000>체력 -{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#e30000>lose {0} HP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#e30000>体力-{0}</color>"
+  },
+  {
+    "key": "801502_pinkshoe_failure_1_2-content",
+    "original": "<color=#ebcaa2>모든 아군이</color> %[{0}] {1}/%<color=#ebcaa2>를 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#ebcaa2>gain</color> %{1} [{0}]/%.\nJP :\n<color=#ebcaa2>全味方が</color>%[{0}]{1}/%<color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "801502_pinkshoe_failure_1_3-content",
+    "original": "<color=#ebcaa2>모든 적이 %[{0}]/%가 됨</color>",
+    "context": "EN :\n<color=#ebcaa2>All enemies become %[{0}]/%.</color>\nJP :\n<color=#ebcaa2>全ての敵が%[{0}]/%になる</color>"
+  },
+  {
+    "key": "102001_action_4_1-content",
+    "original": "<color=#ebcaa2>모든 아군의</color> <color=#e30000>체력 -{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#e30000>lose {0} HP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#e30000>体力-{0}</color>"
+  },
+  {
+    "key": "102001_action_4_2-content",
+    "original": "<color=#ebcaa2>모든 아군의</color> <color=#fe4b48>정신력 -{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#fe4b48>lose {0} SP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#fe4b48>精神力-{0}</color>"
+  },
+  {
+    "key": "102002_action_1_1-content",
+    "original": "<color=#ebcaa2>[로쟈]의</color> <color=#80c9ff>정신력 +{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>[Rodion]</color> <color=#80c9ff>heals {0} SP.</color>\nJP :\n<color=#ebcaa2>[ロージャ]の</color><color=#80c9ff>精神力+{0}</color>"
+  },
+  {
+    "key": "102002_action_1_2-content",
+    "original": "<color=#ebcaa2>[로쟈]의</color> <color=#fe4b48>정신력 -{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>[Rodion]</color> <color=#fe4b48>loses {0} SP.</color>\nJP :\n<color=#ebcaa2>[ロージャ]の</color><color=#fe4b48>精神力-{0}</color>"
+  },
+  {
+    "key": "102002_action_2_2-content",
+    "original": "<color=#ff8000>전투 발생!</color>",
+    "context": "EN :\n<color=#ff8000>Combat Encounter!</color>\nJP :\n<color=#ff8000>戦闘発生！</color>"
+  },
+  {
+    "key": "1020201_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#80c9ff>정신력 +{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#80c9ff>heals {1} SP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#80c9ff>精神力+{1}</color>"
+  },
+  {
+    "key": "1020201_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "1020203_success_1_1-content",
+    "original": "<color=#ebcaa2>모든 아군의</color> <color=#80c9ff>정신력 +{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#80c9ff>heal {0} SP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#80c9ff>精神力+{0}</color>"
+  },
+  {
+    "key": "1020203_success_1_2-content",
+    "original": "<color=#ebcaa2>[로쟈]의</color> <color=#80c9ff>정신력 +{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>[Rodion]</color> <color=#80c9ff>heals {0} SP.</color>\nJP :\n<color=#ebcaa2>[ロージャ]の</color><color=#80c9ff>精神力+{0}</color>"
+  },
+  {
+    "key": "1020203_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "acquire_ego_gift-content",
+    "original": "<color=#ebcaa2>E.G.O GIFT 획득!</color>",
+    "context": "EN :\n<color=#ebcaa2>Got an E.G.O Gift!</color>\nJP :\n<color=#ebcaa2>E.G.O GIFTを獲得！</color>"
+  },
+  {
+    "key": "disappear_ego_gift-content",
+    "original": "<color=#ebcaa2>E.G.O GIFT {0}</color> <color=#e30000>소멸</color>",
+    "context": "EN :\n<color=#ebcaa2>The E.G.O Gift ‘{0}’</color> <color=#e30000>expired.</color>\nJP :\n<color=#ebcaa2>E.G.O GIFT{0}</color> <color=#e30000>消滅</color>"
+  },
+  {
+    "key": "acquire_ego_gift_if_win-content",
+    "original": "<color=#ebcaa2>전투 승리 시 E.G.O GIFT 획득!</color>",
+    "context": "EN :\n<color=#ebcaa2>Win the battle to earn an E.G.O Gift!</color>\nJP :\n<color=#ebcaa2>戦闘勝利時、E.G.O GIFTを獲得！</color>"
+  },
+  {
+    "key": "chracter_mp_decrease-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#fe4b48>정신력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#fe4b48>精神力-{1}</color>"
+  },
+  {
+    "key": "chracter_mp_increase-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#80c9ff>정신력 +{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#80c9ff>heals {1} SP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#80c9ff>精神力+{1}</color>"
+  },
+  {
+    "key": "chracter_hp_increase-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#00ff9c>체력 +{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#00ff9c>heals {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#00ff9c>体力+{1}</color>"
+  },
+  {
+    "key": "chracter_hp_decrease-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力-{1}</color>"
+  },
+  {
+    "key": "chracter_hp_mp_decrease-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#e30000>체력</color><color=#ebcaa2>,</color> <color=#fe4b48>정신력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#e30000>loses {1} HP<color=#ebcaa2> and <color=#fe4b48>SP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#e30000>体力</color><color=#ebcaa2>、</color><color=#fe4b48>精神力-{1}</color>"
+  },
+  {
+    "key": "all_ally_hp_decrease-content",
+    "original": "<color=#ebcaa2>모든 아군의</color> <color=#e30000>체력 -{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#e30000>lose {0} HP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#e30000>体力-{0}</color>"
+  },
+  {
+    "key": "all_ally_hp_increase-content",
+    "original": "<color=#ebcaa2>모든 아군의</color> <color=#e30000>체력 +{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#e30000>heal {0} HP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#e30000>体力+{0}</color>"
+  },
+  {
+    "key": "all_ally_mp_decrease-content",
+    "original": "<color=#ebcaa2>모든 아군의</color> <color=#fe4b48>정신력 -{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#fe4b48>lose {0} SP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#fe4b48>精神力-{0}</color>"
+  },
+  {
+    "key": "all_ally_hp_mp_decrease-content",
+    "original": "<color=#ebcaa2>모든 아군의</color> <color=#e30000>체력</color><color=#ebcaa2>,</color> <color=#fe4b48>정신력 -{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#e30000>lose {0} HP<color=#ebcaa2> and <color=#fe4b48>SP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#e30000>体力</color><color=#ebcaa2>、</color><color=#fe4b48>精神力-{0}</color>"
+  },
+  {
+    "key": "all_ally_add_buff-content",
+    "original": "<color=#ebcaa2>모든 아군이</color> %{0} {1}/%<color=#ebcaa2>을 얻음!</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#ebcaa2>gain</color> %{1} {0}/%!\nJP :\n<color=#ebcaa2>全味方が</color>%{0}{1}/%<color=#ebcaa2>を獲得！</color>"
+  },
+  {
+    "key": "all_ally_add_buff_during_next_n_battle-content",
+    "original": "<color=#ebcaa2>모든 아군이 다음 전투</color> %{0}회 동안 {1} {2}/%<color=#ebcaa2>을 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#ebcaa2>gain</color> %{2} {1}/% for the next {0} battle(s).\nJP :\n<color=#ebcaa2>全味方が次の</color>%{0}回の戦闘の間、{1}{2}/%<color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "all_enemy_apply_buff-content",
+    "original": "<color=#ebcaa2>모든 적에게</color> %{0} {1}/%<color=#ebcaa2>부여!</color>",
+    "context": "EN :\n%{1} {0}/% <color=#ebcaa2>applied</color> <color=#ebcaa2>to all enemies!</color>\nJP :\n<color=#ebcaa2>全ての敵に</color>%{0}{1}/%<color=#ebcaa2>を付与！</color>"
+  },
+  {
+    "key": "character_apply_buff_during_next_n_battle-content",
+    "original": "<color=#ebcaa2>[{0}]이 다음 전투</color> %{1}회 동안 {2} {3}/%<color=#ebcaa2>을 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] gains</color> %{3} {2}/% <color=#ebcaa2>for the next {1} battle(s).</color>\nJP :\n<color=#ebcaa2>[{0}]が次の</color>%{1}買い乗せ咽頭の間、{2}{3}/%<color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "battle_occurrence-content",
+    "original": "<color=#ebcaa2>전투 발생!</color>",
+    "context": "EN :\n<color=#ebcaa2>Combat Encounter!</color>\nJP :\n<color=#ebcaa2>戦闘発生！</color>"
+  },
+  {
+    "key": "nothing_happend-content",
+    "original": "<color=#ebcaa2>아무 일도 일어나지 않았다.</color>",
+    "context": "EN :\n<color=#ebcaa2>Nothing happened.</color>\nJP :\n<color=#ebcaa2>何も起こらなかった。</color>"
+  },
+  {
+    "key": "unlock_hidden_node-content",
+    "original": "<color=#ebcaa2>새로운 길이 지도에 추가됨!</color>",
+    "context": "EN :\n<color=#ebcaa2>There’s a new path on the map!</color>\nJP :\n<color=#ebcaa2>新しい道が地図に追加！</color>"
+  },
+  {
+    "key": "enemy_wave_decrease-content",
+    "original": "<color=#ebcaa2>적의 웨이브가 {0} 감소!</color>",
+    "context": "EN :\n<color=#ebcaa2>Enemy waves reduced by {0}!</color>\nJP :\n<color=#ebcaa2>敵のウェーブ数が{0}減少！</color>"
+  },
+  {
+    "key": "803001_cromer_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]가 흐트러짐</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] got Staggered!</color>\nJP :\n<color=#ebcaa2>[{0}]が混乱</color>"
+  },
+  {
+    "key": "803001_cromer_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#fe4b48>정신력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#fe4b48>精神力-{1}</color>"
+  },
+  {
+    "key": "all_ally_mp_increase-content",
+    "original": "<color=#ebcaa2>모든 아군의</color> <color=#80c9ff>정신력 +{0}</color>",
+    "context": "EN :\n<color=#ebcaa2>All allies</color> <color=#80c9ff>heal {0} SP.</color>\nJP :\n<color=#ebcaa2>全味方の</color><color=#80c9ff>精神力+{0}</color>"
+  },
+  {
+    "key": "ally_own_skill_attribute_hp_increase-content",
+    "original": "%{0} 속성 죄/%<color=#ebcaa2>를 보유한 인격이</color> <color=#00ff9c>{1} 만큼 체력</color> <color=#ebcaa2>회복</color>",
+    "context": "EN :\n<color=#ebcaa2>Identities with</color> %{0} Affinity/% <color=#ebcaa2>heal</color> <color=#00ff9c>{1} HP.</color>\nJP :\n%{0}属性の罪/%<color=#ebcaa2>を保有する人格が</color><color=#00ff9c>体力を{1}</color><color=#ebcaa2>回復</color>"
+  },
+  {
+    "key": "ally_not_own_skill_attribute_hp_increase-content",
+    "original": "%{0} 속성 죄/%<color=#ebcaa2>를 보유하지 않은 인격이</color> <color=#00ff9c>{1} 만큼 체력</color> <color=#ebcaa2>회복</color>",
+    "context": "EN :\n<color=#ebcaa2>Identities without</color> %{0} Affinity/% <color=#ebcaa2>heal</color> <color=#00ff9c>{1} HP.</color>\nJP :\n%{0}属性の罪/%<color=#ebcaa2>を保有しない人格が</color><color=#00ff9c>体力を{1}</color><color=#ebcaa2>回復</color>"
+  },
+  {
+    "key": "ally_own_skill_attribute_hp_decrease-content",
+    "original": "%{0} 속성 죄/%<color=#ebcaa2>를 보유한 인격이</color> <color=#e30000>{1} 만큼 체력</color> <color=#ebcaa2>피해</color>",
+    "context": "EN :\n<color=#ebcaa2>Identities with</color> %{0} Affinity/% <color=#ebcaa2>lose</color> <color=#e30000>{1} HP.</color>\nJP :\n%{0}属性の罪/%<color=#ebcaa2>を保有する人格に</color><color=#e30000>{1}</color><color=#ebcaa2>ダメージ</color>"
+  },
+  {
+    "key": "ally_not_own_skill_attribute_hp_decrease-content",
+    "original": "%{0} 속성 죄/%<color=#ebcaa2>를 보유하지 않은 인격이</color> <color=#e30000>{1} 만큼 체력</color> <color=#ebcaa2>피해</color>",
+    "context": "EN :\n<color=#ebcaa2>Identities without</color> %{0} Affinity/% <color=#ebcaa2>lose</color> <color=#e30000>{1} HP.</color>\nJP :\n%{0}属性の罪/%<color=#ebcaa2>を保有しない人格に</color><color=#e30000>{1}</color><color=#ebcaa2>ダメージ</color>"
+  },
+  {
+    "key": "ally_own_skill_attribute_mp_increase-content",
+    "original": "%{0} 속성 죄/%<color=#ebcaa2>를 보유한 인격이</color> <color=#80c9ff>{1} 만큼 정신력</color> <color=#ebcaa2>회복</color>",
+    "context": "EN :\n<color=#ebcaa2>Identities with</color> %{0} Affinity/% <color=#ebcaa2>heal</color> <color=#80c9ff>{1} SP.</color>\nJP :\n%{0}属性の罪/%<color=#ebcaa2>を保有する人格が</color><color=#80c9ff>精神力を{1}</color><color=#ebcaa2>回復</color>"
+  },
+  {
+    "key": "ally_not_own_skill_attribute_mp_increase-content",
+    "original": "%{0} 속성 죄/%<color=#ebcaa2>를 보유하지 않은 인격이</color> <color=#80c9ff>{1} 만큼 정신력</color> <color=#ebcaa2>회복</color>",
+    "context": "EN :\n<color=#ebcaa2>Identities without</color> %{0} Affinity/% <color=#ebcaa2>heal</color> <color=#80c9ff>{1} SP.</color>\nJP :\n%{0}属性の罪/%<color=#ebcaa2>を保有しない人格が</color><color=#80c9ff>精神力を{1}</color><color=#ebcaa2>回復</color>"
+  },
+  {
+    "key": "ally_own_skill_attribute_mp_decrease-content",
+    "original": "%{0} 속성 죄/%<color=#ebcaa2>를 보유한 인격이</color> <color=#fe4b48>{1} 만큼 정신력</color> <color=#ebcaa2>피해</color>",
+    "context": "EN :\n<color=#ebcaa2>Identities with</color> %{0} Affinity/% <color=#ebcaa2>lose</color> <color=#fe4b48>{1} SP.</color>\nJP :\n%{0}属性の罪/%<color=#ebcaa2>を保有する人格に</color><color=#fe4b48>{1}精神力</color><color=#ebcaa2>ダメージ</color>"
+  },
+  {
+    "key": "ally_not_own_skill_attribute_mp_decrease-content",
+    "original": "%{0} 속성 죄/%<color=#ebcaa2>를 보유하지 않은 인격이</color> <color=#fe4b48>{1} 만큼 정신력</color> <color=#ebcaa2>피해</color>",
+    "context": "EN :\n<color=#ebcaa2>Identities without</color> %{0} Affinity/% <color=#ebcaa2>lose</color> <color=#fe4b48>{1} SP.</color>\nJP :\n%{0}属性の罪/%<color=#ebcaa2>を保有しない人格に</color><color=#fe4b48>{1}精神力</color><color=#ebcaa2>ダメージ</color>"
+  },
+  {
+    "key": "852701_statue_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}] 흐트러짐</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] got Staggered!</color>\nJP :\n<color=#ebcaa2>[{0}] 混乱</color>"
+  },
+  {
+    "key": "852701_statue_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}] 업보 제거</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]’s Karma was resolved.</color>\nJP :\n<color=#ebcaa2>[{0}] 業報 除去</color>"
+  },
+  {
+    "key": "852701_statue_failure_1_2-content",
+    "original": "모든 인격에게 무작위로 업보가 내림",
+    "context": "EN :\nKarma strikes every Sinner randomly!\nJP :\n全ての人格へランダムに業報が下される"
+  },
+  {
+    "key": "852701_statue_failure_1_3-content",
+    "original": "<color=#ebcaa2>[{0}] 흐트러짐</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] got Staggered!</color>\nJP :\n<color=#ebcaa2>[{0}] 混乱</color>"
+  },
+  {
+    "key": "851901_kqe_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color> %[{0}]/%<color=#ebcaa2>전부 소모</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>expends all</color> %[{0}]/%.\nJP :\n<color=#ebcaa2>[{0}]</color> %[{0}]/%<color=#ebcaa2>全て消耗</color>"
+  },
+  {
+    "key": "851901_kqe_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}] 흐트러짐</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] got Staggered!</color>\nJP :\n<color=#ebcaa2>[{0}] 混乱</color>"
+  },
+  {
+    "key": "851901_kqe_success_1_3-content",
+    "original": "<color=#ebcaa2>[{0}]</color> %[{1}] {2}/%<color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}]/%.\nJP :\n<color=#ebcaa2>[{0}]</color> %[{1}] {2}/%<color=#ebcaa2> 獲得</color>"
+  },
+  {
+    "key": "851901_kqe_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]</color> %[{1}] {2}, [{3}] {4}/%<color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}] and {4} [{3}]/%.\nJP :\n<color=#ebcaa2>[{0}]</color> %[{1}] {2}, [{3}] {4}/%<color=#ebcaa2> 獲得</color>"
+  },
+  {
+    "key": "851901_kqe_failure_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]</color> %[{1}] {2}/%<color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#ebcaa2>gains</color> %{2} [{1}]/%.\nJP :\n<color=#ebcaa2>[{0}]</color> %[{1}] {2}/%<color=#ebcaa2> 獲得</color>"
+  },
+  {
+    "key": "851001_cryingtoad_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}] 흐트러짐</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] got Staggered!</color>\nJP :\n<color=#ebcaa2>[{0}] 混乱</color>"
+  },
+  {
+    "key": "851001_cryingtoad_success_1_2-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#80c9ff>정신력 +{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#80c9ff>heals {1} SP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#80c9ff>精神力+{1}</color>"
+  },
+  {
+    "key": "851001_cryingtoad_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의</color> <color=#fe4b48>정신력 -{1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]</color> <color=#fe4b48>loses {1} SP.</color>\nJP :\n<color=#ebcaa2>[{0}]の</color><color=#fe4b48>精神力-{1}</color>"
+  },
+  {
+    "key": "803101_waterFish_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]의 몸통</color> <color=#e30000>체력 - {1}</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}]’s body</color> <color=#e30000>loses {1} HP.</color>\nJP :\n<color=#ebcaa2>[{0}]の胴体</color><color=#e30000>の体力 -{1}</color>"
+  },
+  {
+    "key": "803101_waterFish_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]가 스킬</color> <color=#e30000>[{1}]</color><color=#ebcaa2>을 사용</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] uses the skill</color> <color=#e30000>[{1}]</color>!\nJP :\n<color=#ebcaa2>[{0}]がスキル</color> <color=#e30000>[{1}]</color><color=#ebcaa2>を使用</color>"
+  },
+  {
+    "key": "803201_lightningBeast_success_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]이</color> <color=#e30000>[{1}]</color> {2}<color=#ebcaa2> 얻음</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] gains</color> {2} <color=#e30000>[{1}]</color>.\nJP :\n<color=#ebcaa2>[{0}]が</color><color=#e30000>[{1}]</color>{2}<color=#ebcaa2>を得る</color>"
+  },
+  {
+    "key": "803201_lightningBeast_failure_1_1-content",
+    "original": "<color=#ebcaa2>[{0}]이</color> 스킬 <color=#e30000>[{1}]</color><color=#ebcaa2>를 사용</color>",
+    "context": "EN :\n<color=#ebcaa2>[{0}] uses</color> the skill <color=#e30000>[{1}]</color>!\nJP :\n<color=#ebcaa2>[{0}]が</color>スキル<color=#e30000>[{1}]</color><color=#ebcaa2>を使用</color>"
+  }
+]

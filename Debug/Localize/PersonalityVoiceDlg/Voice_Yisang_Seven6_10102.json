@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10102_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10102_1-dlg",
+    "original": "내게는 어떤 것도 감출 필요가 없소.",
+    "context": "EN :\nYou need not hide any secrets from me.\nJP :\n私にはいかなることも隠す必要あらず。"
+  },
+  {
+    "key": "lobby_morning_10102_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10102_1-dlg",
+    "original": "어제를 반추하시오. 그걸로 오늘을 구할 수 있을 테니.",
+    "context": "EN :\nRuminate on your yesterday. It shall prove useful for extricating the present from woe.\nJP :\n昨日を反芻せよ。さて今日を助けられむ。"
+  },
+  {
+    "key": "lobby_noon_10102_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10102_1-dlg",
+    "original": "태양광선 속에는 무수한 스펙트럼이 있소. 이 세상도 마찬가지로 무수한 비밀들에 둘러싸여 있지.",
+    "context": "EN :\nAn infinite spectrum comprises the rays of light cast by the sun. Likewise, this world hides countless secrets.\nJP :\n太陽光線の中には無数のスペクトラムが存在せり。この世も同じく、無数の秘密が籠る。"
+  },
+  {
+    "key": "lobby_night_10102_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10102_1-dlg",
+    "original": "어둠 속에 선 밀어들이 속삭이지, 항상 귀를 기울이고 있어야 하오.",
+    "context": "EN :\nFurtive words are whispered in the dark. You must always have your ear to the ground.\nJP :\n暗闇の中で密語が囁かれん、常に耳を傾けるべし。"
+  },
+  {
+    "key": "smalltalk_10102_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10102_1-dlg",
+    "original": "언젠가 기회가 된다면 내 그대의 머리를 탐구해보고 싶소.",
+    "context": "EN :\nI would like to study your head if I get the chance one day.\nJP :\nいつか機会あらば、そなたの頭を探求せまほし。"
+  },
+  {
+    "key": "smalltalk_10102_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10102_2-dlg",
+    "original": "약점이 없는 인간은 없지. 제아무리 화려하고 위험한 기술이더라도 내 앞에선 의미가 없는 까닭이오.",
+    "context": "EN :\nNo man is without weakness. It is why no amount of extravagance and intimidation a move poses can threaten me.\nJP :\n弱点無き人間あらず。どれほど華麗で危険なる技術であれ、私の前では要無しである理由なり。"
+  },
+  {
+    "key": "smalltalk_10102_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10102_3-dlg",
+    "original": "조금만 주의를 기울인다면 많은 정보를 알아낼 수 있소. 가령, 지금 히스클리프 군에게 말을 걸면 좋지 않을 거라는 것 따위 말이오.",
+    "context": "EN :\nA little bit of attention can bring in much information. For instance, you will know that now is not a good time to speak with Heathcliff.\nJP :\n少しばかり注意を傾けらば、数多の情報を知らる。仮に、今ヒースクリフ君に言ひ掛かるはわろきことなどのよう。"
+  },
+  {
+    "key": "smalltalk_10102_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10102_4-dlg",
+    "original": "혹여나, 그대의 과거가 궁금하다면 내게 의뢰하시오. …사양한다라… 단테, 그대는 볼수록 참 기이하고 흥미롭군.",
+    "context": "EN :\nIf you ever yearn to know your past, merely give me a request. …You’d rather not, I see… Dante, you are such a bizarre and curious specimen.\nJP :\nもし、そなたの過去が心に懸かりしは、私に依頼したまえ。…遠慮するとな。ダンテ、そなたは見らば見るほどに奇異で興味深し。"
+  },
+  {
+    "key": "smalltalk_10102_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10102_5-dlg",
+    "original": "아직까지는 이곳에 흥미로운 게 많소. 발견의 기쁨은 내 공복을 진정시켜 주지. 그대도 마찬가지요.",
+    "context": "EN :\nSo far, I have yet to run out of curiosities to find here. The joy of discovery sates my hunger, and so do you.\nJP :\nまだここには、おもしろきもの多し。発見の歓びは、私の空腹を鎮めけり。そなたもまた、さなり。"
+  },
+  {
+    "key": "neglect_10102_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10102_1-dlg",
+    "original": "흠… 침묵도 좋은 정보 중 하나지. ",
+    "context": "EN :\nHmm… Silence can speak much, in a way.\nJP :\nふむ…沈黙も良き情報の一つである。"
+  },
+  {
+    "key": "gacksung_10102_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10102_1-dlg",
+    "original": "예측하고 있던 사항이오. ",
+    "context": "EN :\nIt was as I expected.\nJP :\n予測せし事項なり。"
+  },
+  {
+    "key": "formation_10102_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10102_1-dlg",
+    "original": "지식이 축적될 시간이군.",
+    "context": "EN :\nIt is time to enrich my knowledge.\nJP :\n知識が蓄積されし時間よ。"
+  },
+  {
+    "key": "battleentry_10102_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10102_1-dlg",
+    "original": "탐구할 것은 무엇이오?",
+    "context": "EN :\nWhat am I to study this time?\nJP :\n探求せしものは何ぞや？"
+  },
+  {
+    "key": "battle_select_10102_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10102_1-dlg",
+    "original": "저치를 탐구하는 것은 어떻소?",
+    "context": "EN :\nHow about you examine that one?\nJP :\n彼の者を探求せしは、いかにぞ？"
+  },
+  {
+    "key": "battle_endcommand_10102_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10102_1-dlg",
+    "original": "탐구는 끝났소.",
+    "context": "EN :\nI have finished my studies.\nJP :\n探求は了んぬ。"
+  },
+  {
+    "key": "battle_enemy_break_10102_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10102_1-dlg",
+    "original": "저치의 약점이오.",
+    "context": "EN :\nThat one has become vulnerable.\nJP :\n彼の者の弱点なり。"
+  },
+  {
+    "key": "battle_break_10102_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10102_1-dlg",
+    "original": "앗…",
+    "context": "EN :\nOh…\nJP :\nあっ…。"
+  },
+  {
+    "key": "battle_kill_10102_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10102_1-dlg",
+    "original": "침묵했소.",
+    "context": "EN :\nFallen into silence.\nJP :\n沈黙せり。"
+  },
+  {
+    "key": "battle_allydead_10102_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10102_1-dlg",
+    "original": "용태가 썩 보기 좋지 않소.",
+    "context": "EN :\nNot the most flattering situation.\nJP :\n容態がわろし。"
+  },
+  {
+    "key": "choice_success_p_10102_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10102_1-dlg",
+    "original": "예측과도 같소.",
+    "context": "EN :\nIt is as predicted.\nJP :\n予測とも一様なり。"
+  },
+  {
+    "key": "choice_fail_n_10102_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10102_1-dlg",
+    "original": "예측 외의 일이오…",
+    "context": "EN :\nThis was unexpected…\nJP :\n予測外の事なり…。"
+  },
+  {
+    "key": "battle_clear_10102_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10102_1-dlg",
+    "original": "적들의 공격 방식을 분석하는 데 성공했소.",
+    "context": "EN :\nI’ve successfully analyzed the enemy’s behavior.\nJP :\n敵達の攻撃方式を分析するに功あり。"
+  },
+  {
+    "key": "battle_clear_ex_10102_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10102_1-dlg",
+    "original": "모두의 약점을 효율적으로 간파했소.",
+    "context": "EN :\nThat was an effective exploitation of their weaknesses.\nJP :\n皆の弱点を効率的に看破せり。"
+  },
+  {
+    "key": "battle_defeat_10102_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10102_1-dlg",
+    "original": "다른 방법을 탐색해봐야겠소…",
+    "context": "EN :\nWe ought to explore other modes…\nJP :\n他の方法を探査すべし…。"
+  }
+]

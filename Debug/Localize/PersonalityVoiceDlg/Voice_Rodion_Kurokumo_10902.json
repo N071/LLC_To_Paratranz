@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10902_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10902_1-dlg",
+    "original": "베러 왔어. 사람이던, 흐르는 물이던, 떠다니는 구름이던, 누군가의 마음이던.",
+    "context": "EN :\nI’m here to split things apart. Be it people, flowing water, drifting clouds, or a beating heart.\nJP :\n斬りに来た。人間であれ、流水であれ、浮雲であれ、誰かの心であれ。"
+  },
+  {
+    "key": "lobby_morning_10902_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10902_1-dlg",
+    "original": "내 시간은 밤부터 시작돼~ 그 말인즉슨… 이 시간엔 날 깨우지 말라는 소리지.",
+    "context": "EN :\nMy day starts at night~ In other words… Don’t wake me up at this hour.\nJP :\n私の時間は夜から始まるの～。つまりはね…この時間に私を起こすなってこと。"
+  },
+  {
+    "key": "lobby_noon_10902_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10902_1-dlg",
+    "original": "단테! 점심은 어떤 거 먹었어? 나보다 더 맛있는 거 먹기만 했어봐.",
+    "context": "EN :\n‘Sup, Dante! What’d you have for lunch? Better not’ve had a better meal than mine.\nJP :\nダンテ！昼は何食べたの？私より美味しいもの食べてたらタダじゃおかないからね。"
+  },
+  {
+    "key": "lobby_night_10902_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10902_1-dlg",
+    "original": "오늘은 보호비 두둑하게 벌었어~ 이걸 어디에 쓰지? 히히.",
+    "context": "EN :\nEarned a hefty sum of protection fees today~ Now where will I spend this? Heehee.\nJP :\n今日は保護費たんまり稼げた～。これどこに使おっかな？ひひっ。"
+  },
+  {
+    "key": "smalltalk_10902_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10902_1-dlg",
+    "original": "내 검은 매우 날카로워. 그리고 성급하지. 당신 명령을 아주 가~끔은 못 들을 수도 있다는 소리야. 내가 아니라, 내 검이. 후후.",
+    "context": "EN :\nMy sword is terribly sharp. Pretty darn rash, too. I’m saying it miiiight just fail to hear your orders once in a blue moon. Not me, my sword. Fuhu.\nJP :\n私の刀はとても鋭い。そして気が早いの。あなたの命令をときたま～に聞けないことがあるってこと。私じゃなくて、私の刀が。ふふっ。"
+  },
+  {
+    "key": "smalltalk_10902_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10902_2-dlg",
+    "original": "있지~ 자꾸 꼬맹이가 잔소리를 해대는 거 있지? 너무 잔인하게 싸운다나 뭐라나… 내 검은 매우 날카롭고, 상대는 너무 무른 걸 어떡해. 후, 귀찮게 하질 말던가.",
+    "context": "EN :\nHeyo~ That kid just won’t stop pestering me, y’know? Says I’m being too vicious with the way I fight or whatevs… It’s not my fault my foes are too soft for my sharp sword. Whew, what a nuisance.\nJP :\nでさ～、さっきからずっとチビが説教してくるんだよね？戦うとき残酷すぎるとかなんとか…。私の刀はとても鋭くて、相手は脆すぎるのにどうしろって。ふぅ、正直迷惑なんだけど。"
+  },
+  {
+    "key": "smalltalk_10902_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10902_3-dlg",
+    "original": "미리 말하는 거지만~ 난 지루해지면 언제든 여길 벗어날 거야. 잡을 생각은 하지 마~",
+    "context": "EN :\nJust letting you know~ I’ll be leaving this place whenever I get bored. Don’t you even think about stopping me~\nJP :\n先に言っとくけどね～私、つまんないなって思ったらいつでもここから出てくつもりだから。引き留めようとはしないでね～。"
+  },
+  {
+    "key": "smalltalk_10902_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10902_4-dlg",
+    "original": "난 뒷골목이 좋아~ 적당히 더럽거든. 나같이 화려한 검술이 빛나려면 어느 정도 누추함은 필요하니까.",
+    "context": "EN :\nI like the Backstreets~ It’s the right level of grimy—a perfectly humble backdrop for letting my swank swordry shine.\nJP :\n私は裏路地が好きかな～。適度に汚いからね。私の華麗な剣術が輝くには、ある程度のムサさは必要だし。"
+  },
+  {
+    "key": "smalltalk_10902_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10902_5-dlg",
+    "original": "세상에는 너무 인색한 놈들이 많아. 돈을 꽁꽁 감춰두기만 하는 건 돈의 의미를 잃게 만드는 거잖아. …그러니까 의미를 되찾아 주자고.",
+    "context": "EN :\nWay too many stingy folks in the world. Keeping all that money in a vault is going against the whole point of currency. …So let’s help that stockpiled cash find its true purpose.\nJP :\nこの世にはケチすぎるヤツらが多いの。お金をしっかりしまい込んでおいちゃ、お金の意味がなくなるでしょ。…だから意味を取り戻してあげようね。"
+  },
+  {
+    "key": "neglect_10902_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10902_1-dlg",
+    "original": "으음~ 나 기다리게 하는 시간은 좀 비싼데. 감당돼?",
+    "context": "EN :\nMmm~ Keepin’ me waiting is gonna be a tad bit pricey. Think you can pay out?\nJP :\nうぅ～ん、私を待たせる時間は安くないんだけど。支払えそう？"
+  },
+  {
+    "key": "gacksung_10902_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10902_1-dlg",
+    "original": "길바닥 인생한테 뭐 하나 더 해준다고 달라질 거는 없어. 어차피 계속 여기에 붙어있을 것도 아니고… 그래도, 뭐… 기분은 좋네.",
+    "context": "EN :\nAin’t gonna make a wick of difference doing a street dweller like me extra favors. It’s not like I’m here to stay… But still, I guess it’s nice to get something.\nJP :\nド底辺の人生に何か一つ加えたところで変わるものはないでしょ。どうせずっとここに居座るつもりもないし…でも、まぁ…。悪い気はしないね。"
+  },
+  {
+    "key": "formation_10902_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10902_1-dlg",
+    "original": "수금할 시간이야~",
+    "context": "EN :\nTime to pay up~\nJP :\n集金の時間だよ～。"
+  },
+  {
+    "key": "battleentry_10902_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10902_1-dlg",
+    "original": "단테, 이번에는 누굴 베어버리면 되는 거야?",
+    "context": "EN :\nSo, Dante, who do I cut down this time?\nJP :\nダンテ、今度は誰を切り裂けば良いの？"
+  },
+  {
+    "key": "battle_select_10902_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10902_1-dlg",
+    "original": "어머, 일할 때 건드는 건 싫은데~",
+    "context": "EN :\nMy, I don’t like to be bothered when I’m working~\nJP :\nあらぁ、仕事の邪魔をされるのは嫌いなんだけど～。"
+  },
+  {
+    "key": "battle_endcommand_10902_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10902_1-dlg",
+    "original": "베는 맛은 있는 편이 좋은데~",
+    "context": "EN :\nI like some substance in my victims~\nJP :\n斬り応えがあると良いんだけどなぁ～。"
+  },
+  {
+    "key": "battle_enemy_break_10902_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10902_1-dlg",
+    "original": "그렇게 무르진 않네?",
+    "context": "EN :\nYou’re not too soft, huh?\nJP :\nそこまで脆くはなかったね？"
+  },
+  {
+    "key": "battle_break_10902_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10902_1-dlg",
+    "original": "흐…",
+    "context": "EN :\nHngh…\nJP :\nふっ…。"
+  },
+  {
+    "key": "battle_kill_10902_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10902_1-dlg",
+    "original": "역시, 무르네.",
+    "context": "EN :\nTurned out mushy.\nJP :\nやっぱり、脆かったか。"
+  },
+  {
+    "key": "battle_allydead_10902_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10902_1-dlg",
+    "original": "어후. 어디 가서 힘쓴다는 말은 하지 마라~",
+    "context": "EN :\nYeesh. Don’t try to convince anyone that you’re a tough one~\nJP :\nはぁ。その程度で頑張ってるとか豪語して回らないでよ～。"
+  },
+  {
+    "key": "choice_success_p_10902_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10902_1-dlg",
+    "original": "이런 일은 실패 해본 적이 없지!",
+    "context": "EN :\nNever failed this kind of job!\nJP :\nこういうことは失敗したこと無いんだよね！"
+  },
+  {
+    "key": "choice_fail_n_10902_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10902_1-dlg",
+    "original": "에잉~ 텄네, 텄어.",
+    "context": "EN :\nNyeh~ This one’s a flub.\nJP :\nもぅ～ダメダメじゃん。"
+  },
+  {
+    "key": "battle_clear_10902_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10902_1-dlg",
+    "original": "조잡한 일이었어. 좀 더 재미난 건 없어?",
+    "context": "EN :\nThat was a pretty crude job. Don’t you have something more fun?\nJP :\n雑な仕事だったね。もうちょっと面白いもん無いの？"
+  },
+  {
+    "key": "battle_clear_ex_10902_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10902_1-dlg",
+    "original": "역시, 내가 못 베는 건 없어.",
+    "context": "EN :\nSee, there’s nothing I can’t cut.\nJP :\nね、やっぱり私に斬れないものはない。"
+  },
+  {
+    "key": "battle_defeat_10902_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10902_1-dlg",
+    "original": "망할 때도 있는 거지~ 내 검은 잘못 없어.",
+    "context": "EN :\nThings just don’t work out sometimes~ It’s not my sword’s fault.\nJP :\nしくじるときもあるって～。私の刀に間違いは無いけど。"
+  }
+]

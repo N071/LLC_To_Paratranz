@@ -1,0 +1,222 @@
+[
+  {
+    "key": "get_11201_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11201_1-dlg",
+    "original": "음… 그레고르다. 뭐, 자고 있을 때 빼고는 편하게 부르라고.",
+    "context": "EN :\nMm… It’s Gregor. Well, feel free to talk to me unless I’m asleep.\nJP :\nん…グレゴールだ。まぁ、寝てるとき以外は気軽に呼べよ。"
+  },
+  {
+    "key": "lobby_morning_11201_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11201_1-dlg",
+    "original": "적당히 나쁘지 않은 아침이지?",
+    "context": "EN :\nNot a bad morning, is it?\nJP :\n良い感じに悪く無い朝だろ？"
+  },
+  {
+    "key": "lobby_noon_11201_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11201_1-dlg",
+    "original": "자자, 아무리 바빠도 점심은 먹고 일해야지.",
+    "context": "EN :\nC’mon, I know you’re busy, but you gotta eat sometime.\nJP :\nささ、いくら忙しくてもお昼は食べて働かないと。"
+  },
+  {
+    "key": "lobby_night_11201_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11201_1-dlg",
+    "original": "오늘 하루도 고생 많았어.",
+    "context": "EN :\nAnother busy day, wasn’t it. Good work out there.\nJP :\n今日も一日お疲れさん。"
+  },
+  {
+    "key": "smalltalk_11201_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11201_1-dlg",
+    "original": "우리 관리자 양반은 평소에는 뭐하면서 지내나? 담배… 라도 권해주고 싶은데, 그러지도 못하겠군.",
+    "context": "EN :\nSo, what do you usually do in your free time, Manager Bud? I’d lend you a cig… but I guess it won’t be useful for you.\nJP :\nうちの管理人の旦那は普段何して過ごしてるんだ？煙草…でも勧めたいんだが、そうもできそうにないな。"
+  },
+  {
+    "key": "smalltalk_11201_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11201_2-dlg",
+    "original": "내가 제일 싫어하는 거? 저 더듬이가 유별나게 기다랗고 까만 등 껍질을 단 그것들. 특히나 물에 빠져도 둥둥 떠다니고 있는 게 보일 정도로 악착같이 살아남는 그 끈질긴 게 싫어.",
+    "context": "EN :\nMy least favorite things? Those dark-shelled critters with a long pair of antennae. I especially hate the tenacity of those bugs, refusing to die even in water.\nJP :\n俺が一番嫌いなもん？あの触覚がいやに長くて黒い殻をしたアレら。特に水に嵌まってもぷかぷか浮かんでしぶとく生き残ってる、あのしつこさが嫌いだ。"
+  },
+  {
+    "key": "smalltalk_11201_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11201_3-dlg",
+    "original": "관리자 양반, 혹시 안경 닦이 있… 아니다, 괜한 소리를 물었네. 안경 낄 일 없는 걸 다행으로 알라고.",
+    "context": "EN :\nHey, Manager Bud, you got some lens cleaner…? Nevermind, forget I asked. Just be glad if you don’t have to wear glasses.\nJP :\n管理人の旦那、もしかして眼鏡拭きも…いや、余計なこと聞いたな。眼鏡掛けずに済んだことを幸いに思っとけよ。"
+  },
+  {
+    "key": "smalltalk_11201_4-desc",
+    "original": "대화 4",
+    "context": "EN :\nChatter #4\nJP :\n対話4"
+  },
+  {
+    "key": "smalltalk_11201_4-dlg",
+    "original": "기억을 잃었다는 양반한테 이런 이야기 하는 것도 거슥하지만… \n어떤 기억은 통째로 도려내도 아깝지 않을 것 같다는 생각이 가끔 들어. 무슨 말인지 알겠어? 마치 오지 않는 종전의 날을 기다리는 기분이지.",
+    "context": "EN :\nI know it’s not the most flattering thing to say to a pal suffering from amnesia…\nBut, I sometimes think there are a few memories I could do without. You get what I’m saying? It’s like waiting for the end of a war that’ll never come.\nJP :\n記憶を失ったって旦那にこんな話するのもなんだが…。\nたまに、ある記憶は丸ごとくり抜いても惜しくないって思うときがあるんだ。どういう意味か分かるか？まるで来ない終戦の日を待ってる気分だってことだ。"
+  },
+  {
+    "key": "smalltalk_11201_5-desc",
+    "original": "대화 5",
+    "context": "EN :\nChatter #5\nJP :\n対話5"
+  },
+  {
+    "key": "smalltalk_11201_5-dlg",
+    "original": "자르고 잘라내도 계속 생겨나더라고. 이 팔 말이야. 아, 다리라고 해야 되나… \n지금은 가족 같은 사이가 되었지. 싫으나 좋으나 함께하기를 받아들여야 했다는 뜻이야.",
+    "context": "EN :\nThis thing would keep on regrowing every time I tried to cut it off. My arm, I mean. Or should I call it a leg…\nIt’s basically like family now. Well, that’s to say I had to accept that I’m stuck with it, like it or hate it.\nJP :\n切っても切ってもずっと生えてくるんだよな、この腕。あ、脚っていうべきかな…。\n今は家族みたいな仲になったよ。好きでも嫌いでも一緒にいることを受け入れなきゃいけないって意味だ。"
+  },
+  {
+    "key": "neglect_11201_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11201_1-dlg",
+    "original": "음? 관리자 양반? 그새 어디 갔어?",
+    "context": "EN :\nHm? Manager Bud? Where’d you scuttle off to?\nJP :\nん？管理人の旦那？どこ行ったんだ？"
+  },
+  {
+    "key": "formation_11201_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11201_1-dlg",
+    "original": "어, 최선은 다해볼게.",
+    "context": "EN :\nAight, I’ll do what I can.\nJP :\nあぁ、ベストは尽くしてみる。"
+  },
+  {
+    "key": "battleentry_11201_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11201_1-dlg",
+    "original": "가라고? 나…? 하… 뭐, 최선은 다해보겠다만.",
+    "context": "EN :\nGo? You want me to…? Gah… Well, I guess I’ll give it my all.\nJP :\n行けって？俺に…？はぁ…。まぁ、ベストは尽くしてみるけど。"
+  },
+  {
+    "key": "battle_select_11201_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11201_1-dlg",
+    "original": "뭐야, 나한테 볼일이야?",
+    "context": "EN :\nWhat’s up? You got something to say?\nJP :\nなんだよ、俺に用か？"
+  },
+  {
+    "key": "battle_endcommand_11201_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11201_1-dlg",
+    "original": "좋아, 간다!",
+    "context": "EN :\nAlright, here I go!\nJP :\nよし、行くぞ！"
+  },
+  {
+    "key": "battle_enemy_break_11201_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11201_1-dlg",
+    "original": "어이쿠, 생각보다 잘 들어갔네.",
+    "context": "EN :\nWhoa, that was a pretty clean hit.\nJP :\nありゃぁ、思ってたより良い感じに入ったな。"
+  },
+  {
+    "key": "battle_break_11201_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11201_1-dlg",
+    "original": "이런…",
+    "context": "EN :\nAh, shoot…\nJP :\nありゃぁ…。"
+  },
+  {
+    "key": "battle_allydead_11201_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_11201_1-dlg",
+    "original": "그… 관리자 양반. 시계 좀 돌려야겠는데?",
+    "context": "EN :\nOh boy… Guess you’ve got work to do, eh, Manager Bud?\nJP :\nその…管理人の旦那。ちょっと時計回さないとダメそうだな？"
+  },
+  {
+    "key": "choice_success_p_11201_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11201_1-dlg",
+    "original": "관리자 양반! 이번 건 꽤 잘한 것 같지?",
+    "context": "EN :\nCheck this out, Manager Bud! Did a pretty neat job, right?\nJP :\n管理人の旦那！こんどは結構上手くいったよな？"
+  },
+  {
+    "key": "choice_fail_n_11201_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11201_1-dlg",
+    "original": "나는 말한 거 같은데… 이게 최선이였어.",
+    "context": "EN :\nI’m pretty sure I did tell you… This was the best I could do.\nJP :\n言ったと思うけど…これがベストだったよ。"
+  },
+  {
+    "key": "battle_clear_11201_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11201_1-dlg",
+    "original": "하~ 어찌어찌 이겼네. 수고 많았어, 관리자 양반.",
+    "context": "EN :\nPhew~ We beat ‘em somehow. Nice work, Manager Bud.\nJP :\nはぁ～なんとか勝ったか。お疲れさん、管理人の旦那。"
+  },
+  {
+    "key": "battle_clear_ex_11201_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11201_1-dlg",
+    "original": "훈장은 사양이야. 뭐, 담배라면 사양치 않겠지만.",
+    "context": "EN :\nWon’t take any medals. Cigarettes, on the other hand, are completely welcome.\nJP :\n勲章はお断りだ。まぁ、煙草なら断らないけどな。"
+  },
+  {
+    "key": "battle_defeat_11201_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11201_1-dlg",
+    "original": "미안하군. 오늘따라 집중이 잘 안되었던 것 같아. 그런 날도 있는 거 아니겠어?",
+    "context": "EN :\nSorry ‘bout that. Couldn’t really keep my head in the game. Just one of those days, I guess.\nJP :\nすまないな。今日に限って上手く集中できなかったみたいだ。そういう日もあるんじゃないか？"
+  }
+]

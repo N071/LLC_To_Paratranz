@@ -1,0 +1,62 @@
+[
+  {
+    "key": "filter_title_ego_type-content",
+    "original": "희귀도",
+    "context": "EN :\nRarity\nJP :\nレアリティ"
+  },
+  {
+    "key": "filter_title_ego_level-content",
+    "original": "강화 단계",
+    "context": "EN :\nLevel\nJP :\n強化段階"
+  },
+  {
+    "key": "number_of_targets-content",
+    "original": "대상 수",
+    "context": "EN :\nTargets\nJP :\nターゲット数"
+  },
+  {
+    "key": "SINGLE_TARGET-content",
+    "original": "단일",
+    "context": "EN :\nSingle\nJP :\n単体"
+  },
+  {
+    "key": "MULTIPLE_TARGET-content",
+    "original": "광역",
+    "context": "EN :\nArea\nJP :\n広域"
+  },
+  {
+    "key": "filter_title_attribute-content",
+    "original": "속성",
+    "context": "EN :\nAffinity\nJP :\n属性"
+  },
+  {
+    "key": "filter_awaken_state-content",
+    "original": "동기화 단계",
+    "context": "EN :\nUptie Tier\nJP :\n同期化段階"
+  },
+  {
+    "key": "filter_normal-content",
+    "original": "1,2단계",
+    "context": "EN :\nTier 1/2\nJP :\nレベル1,2"
+  },
+  {
+    "key": "filter_awaken-content",
+    "original": "3단계",
+    "context": "EN :\nTier 3\nJP :\nレベル3"
+  },
+  {
+    "key": "filter_skill_keyword-content",
+    "original": "스킬 키워드",
+    "context": "EN :\nKeyword\nJP :\nスキルキーワード"
+  },
+  {
+    "key": "sorting_acqisition-content",
+    "original": "획득 순",
+    "context": "EN :\nRecent\nJP :\n獲得順"
+  },
+  {
+    "key": "filter_title_ego_gacksung-content",
+    "original": "환상 해석 단계",
+    "context": "EN :\nThreadspun Tier\nJP :\n幻想解析段階"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "key": "total_consumed_enkephalin-content",
+    "original": "전체 소모한 엔케팔린",
+    "context": "EN :\nTotal Enkephalin Used\nJP :\nエンケファリン総消耗量"
+  },
+  {
+    "key": "enkephalin_consumption_encourage-content",
+    "original": "와! 일하세요 관리자님! 먹여 살려야 할 수감자가 이렇게나 많이!",
+    "context": "EN :\nYay! Get to work, Manager! You’ve got a whole lot of Sinners to feed!\nJP :\nわぁ！働いてください管理人さん！養わなきゃいけない囚人達がこんなに！"
+  },
+  {
+    "key": "attendance_rewards_description_0-content",
+    "original": "이벤트 기간 동안 실제 소모한 엔케팔린 수치가 반영됩니다",
+    "context": "EN :\nEnkephalin spent during the event period will be tallied.\nJP :\nイベント期間中に消費したエンケファリン数値が反映されます。"
+  },
+  {
+    "key": "attendance_rewards_description_1-content",
+    "original": "엔케팔린 모듈을 소모할 경우, 개당 20만큼의 엔케팔린 수치가 반영됩니다.",
+    "context": "EN :\nUsing an Enkephalin Module counts as spending 20 Enkephalin.\nJP :\nエンケファリンモジュールを消耗する場合、1つにつき20のエンケファリン数値が反映されます。"
+  },
+  {
+    "key": "attendance_rewards_description_2-content",
+    "original": "거울 던전 일일 무료 입장은 반영되지 않습니다",
+    "context": "EN :\nDaily free entry for Mirror Dungeons does not count toward the tally.\nJP :\n鏡ダンジョンのデイリー無料入場分は反映されません。"
+  },
+  {
+    "key": "april_event_story_popup_title-content",
+    "original": "이야기 다시보기",
+    "context": "EN :\nRewatch Story\nJP :\nよみなおす"
+  },
+  {
+    "key": "april_event_story_popup_content-content",
+    "original": "'한봄 밤의 꿈' 을 다시 보시겠습니까?",
+    "context": "EN :\nRewatch “A Midspring Night’s Dream”?\nJP :\n「とある春の夜の夢」を読みなおしますか？"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "key": "get_11001_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11001_1-dlg",
+    "original": "싱클레어예요… 에밀, 싱클레어. 아, 번호는 음… 11번",
+    "context": "EN :\nI’m Sinclair… Emil Sinclair. Oh, my number is, uhm… eleven.\nJP :\nシンクレアです…エミール、シンクレア。あ、番号は、えっと…11番。"
+  },
+  {
+    "key": "lobby_morning_11001_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11001_1-dlg",
+    "original": "좋은 아침이에요! 잘 주무셨… 아 관리자님도 잠들 수 있는 거… 맞죠?",
+    "context": "EN :\nGood morning! Did you have a good… Oh, you can sleep, right, Manager…?\nJP :\nおはようございます！良い夢み…あ、管理人さんも眠れるん…ですよね？"
+  },
+  {
+    "key": "lobby_noon_11001_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11001_1-dlg",
+    "original": "전 이 시간대가 제일 마음이 편해지더라구요. 오후도 힘내세요, 관리자님.",
+    "context": "EN :\nI feel the most comfortable at this time of the day. Have a nice afternoon, Manager.\nJP :\n僕はこの時間帯は一番落ち着くんですよ。午後も頑張ってください、管理人さん。"
+  },
+  {
+    "key": "lobby_night_11001_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11001_1-dlg",
+    "original": "오늘 하루는 어떠셨나요? 전… 오늘 제대로 집중하지 못한 것 같아요.",
+    "context": "EN :\nHow was your day? As for me… I couldn’t really focus on my tasks, I think.\nJP :\n今日一日どうでしたか？僕は…今日はまともに集中できなかった気がします。"
+  },
+  {
+    "key": "smalltalk_11001_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11001_1-dlg",
+    "original": "아마 예전 같았으면 상상도 못 했을 거예요… 아, 그러니까 지금 제가 하는 일이 마음에 안 든다는 건 아니고요… 그냥 신기해서요.",
+    "context": "EN :\nI don’t think I could ever have imagined doing this… Oh, it’s not that I dislike my job or anything, it’s just… something that randomly occurred to me.\nJP :\nきっと昔は想像すら出来なかったと思うんです…。あぁ、だから今僕がやってることが気に入らないってわけじゃなくてですね…ただ不思議なんです。"
+  },
+  {
+    "key": "smalltalk_11001_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11001_2-dlg",
+    "original": "관리자님은 대단한 것 같아요… 전 아직도 적응 못해서 쩔쩔매고 있는데 관리자님은 기억을 잃어도 능숙하게 저희를 이끌고 계시잖아요.",
+    "context": "EN :\nYou really are amazing, Manager… I’m still struggling to adjust, and you’re leading us like a pro despite your memory loss.\nJP :\n管理人さんは凄いと思うんです…。僕はまだ適応出来なくて戸惑ってるのに、管理人さんは記憶を失っても上手に僕たちを導いてるじゃないですか。"
+  },
+  {
+    "key": "smalltalk_11001_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11001_3-dlg",
+    "original": "이것 봐요. 로쟈 씨가 군것질거리를 주셨어요. 아껴 먹으려고요. 헤헤.",
+    "context": "EN :\nLook, Rodya gave me some snacks. I’m gonna save some for later. Hehe.\nJP :\nこれ見てください。ロージャさんがおやつをくれたんですよ。大事に食べてくださいよ。へへっ。"
+  },
+  {
+    "key": "smalltalk_11001_4-desc",
+    "original": "대화 4",
+    "context": "EN :\nChatter #4\nJP :\n対話4"
+  },
+  {
+    "key": "smalltalk_11001_4-dlg",
+    "original": "단테 씨… 정말 그 머리를 하고 있으면… 아무렇지 않아요? 세상은… 여전히 똑바로 보이는 건가요?",
+    "context": "EN :\nSay, Dante… Do you… really feel nothing having that for your head? Is the world… still normal to you?\nJP :\nダンテさん…本当にその頭でも…どうともないんですか？世界は…今まで通り真っ直ぐ見えているんですか？"
+  },
+  {
+    "key": "smalltalk_11001_5-desc",
+    "original": "대화 5",
+    "context": "EN :\nChatter #5\nJP :\n対話5"
+  },
+  {
+    "key": "smalltalk_11001_5-dlg",
+    "original": "단테 씨, 기억이 없다면 후회도 없으시겠네요? 어쩌면 무례한 말일지도 모르지만… 부러워요. 오롯이 지금만 볼 수 있는 거잖아요.",
+    "context": "EN :\nSo, if you don’t remember your past, I guess that means you don’t have regrets either, right, Dante? It might be rude of me to say this, but… I envy that. You get to completely focus on the present.\nJP :\nダンテさん、記憶が無いなら後悔もないんですよね？無礼に聞こえたら申しわけないんですが…羨ましいです。ただ今だけを見られるってことじゃないですか。"
+  },
+  {
+    "key": "neglect_11001_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11001_1-dlg",
+    "original": "관리자님…? 어디 가셨어요? 바쁘신가요?",
+    "context": "EN :\nUm, Manager…? Where are you? Are you busy?\nJP :\n管理人さん…？どこに行ったんですか？忙しいんですか？"
+  },
+  {
+    "key": "formation_11001_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11001_1-dlg",
+    "original": "어… 저를요? 으음… 최선은 다해볼게요…",
+    "context": "EN :\nUmm… You want me? Mmh… I will do my best…\nJP :\nあ…僕をですか？うぅ…ベストは尽くしてみます…。"
+  },
+  {
+    "key": "battleentry_11001_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11001_1-dlg",
+    "original": "이게 최선이겠죠…?",
+    "context": "EN :\nI guess this is for the best, right…?\nJP :\nこれがベストなんですよね…？"
+  },
+  {
+    "key": "battle_select_11001_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11001_1-dlg",
+    "original": "제가 무슨 실수라도 했나요…?",
+    "context": "EN :\nDid I do something wrong…?\nJP :\n僕、何か間違えました…？"
+  },
+  {
+    "key": "battle_endcommand_11001_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11001_1-dlg",
+    "original": "해보겠습니다…!",
+    "context": "EN :\nI’ll try…!\nJP :\nやってみます…！"
+  },
+  {
+    "key": "battle_enemy_break_11001_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11001_1-dlg",
+    "original": "제가 해낸 것 맞죠…?",
+    "context": "EN :\nI did it, right…?\nJP :\n僕、上手くやれたんですよね…？"
+  },
+  {
+    "key": "battle_break_11001_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11001_1-dlg",
+    "original": "읏…!",
+    "context": "EN :\nNgh…!\nJP :\nうっ…！"
+  },
+  {
+    "key": "battle_kill_11001_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11001_1-dlg",
+    "original": "해냈어요!",
+    "context": "EN :\nI did it!\nJP :\nやりました！"
+  },
+  {
+    "key": "battle_allydead_11001_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_11001_1-dlg",
+    "original": "나도 저렇게 되는 걸까…?",
+    "context": "EN :\nWill that happen to me too…?\nJP :\n僕もああなっちゃうのかな…？"
+  },
+  {
+    "key": "choice_success_p_11001_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11001_1-dlg",
+    "original": "다행이에요. 성공해서…",
+    "context": "EN :\nThank goodness I made it…\nJP :\n良かったです。成功して…。"
+  },
+  {
+    "key": "choice_fail_n_11001_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11001_1-dlg",
+    "original": "다 제 잘못이에요…",
+    "context": "EN :\nIt’s all my fault…\nJP :\n全部僕のせいです…。"
+  },
+  {
+    "key": "battle_clear_11001_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11001_1-dlg",
+    "original": "어… 저희가 해낸 거예요? 다행이에요.",
+    "context": "EN :\nUmm… Did we make it? I’m so relieved.\nJP :\nあ…僕たち、やり遂げられたんですか？良かったです。"
+  },
+  {
+    "key": "battle_clear_ex_11001_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11001_1-dlg",
+    "original": "제 덕은 아닐 거예요. 그래도 칭찬해주셔서 감사해요, 관리자님. 순간, 제 어머니가 생각났어요.",
+    "context": "EN :\nI don’t really think it’s thanks to me. I appreciate the compliment, though. I was reminded of my mother for a moment.\nJP :\n僕のおかげじゃないと思います。でも褒めてくれてありがとうございます、管理人さん。ふと、僕のお母さんのことを思い出しました。"
+  },
+  {
+    "key": "battle_defeat_11001_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11001_1-dlg",
+    "original": "죄송해요. 제가 조금 더 잘했어야 했는데… 아직 미숙한 게 많나 봐요.",
+    "context": "EN :\nSorry. I should have done better… I still have a lot of room for improvement.\nJP :\nごめんなさい。僕がもうちょっと上手くやれたら…まだ僕は未熟者みたいですね。"
+  }
+]

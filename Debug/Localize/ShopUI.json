@@ -1,0 +1,287 @@
+[
+  {
+    "key": "mainui_shop_charge_enkephalin_tab-content",
+    "original": "엔케팔린 충전",
+    "context": "EN :\nCharge Enkephalin\nJP :\nエンケファリン充填"
+  },
+  {
+    "key": "mainui_shop_buy_enkephalin_box_tab-content",
+    "original": "엔케팔린 박스 구매",
+    "context": "EN :\nPurchase Enkephalin Box\nJP :\nエンケファリンボックス購入"
+  },
+  {
+    "key": "mainui_shop_buy_enkephalin_box-content",
+    "original": "엔케팔린 박스를 구매하였습니다.",
+    "context": "EN :\nEnkephalin Box purchased.\nJP :\nエンケファリンボックスを購入しました。"
+  },
+  {
+    "key": "mainui_shop_scarce_madness-content",
+    "original": "보유 광기가 부족합니다.",
+    "context": "EN :\nYou don’t have enough Lunacy.\nJP :\n狂気が不足しています。"
+  },
+  {
+    "key": "mainui_shop_ask_buy_enkephalin_box-content",
+    "original": "엔케팔린 박스를 구매하시겠습니까?",
+    "context": "EN :\nWould you like to purchase Enkephalin Boxes?\nJP :\nエンケファリンボックスを購入しますか？"
+  },
+  {
+    "key": "mainui_shop_own-content",
+    "original": "소지",
+    "context": "EN :\nOwned\nJP :\n所持"
+  },
+  {
+    "key": "mainui_shop_enkephalin_fulled-content",
+    "original": "엔케팔린 최대치를 초과하여 충전할 수 없습니다.",
+    "context": "EN :\nEnkephalin is already at max capacity.\nJP :\nエンケファリン最大値を超えて充填することはできません。"
+  },
+  {
+    "key": "mainui_shop_ask_charge_enkephalin-content",
+    "original": "엔케팔린을 충전하시겠습니까?",
+    "context": "EN :\nWould you like to charge Enkephalin?\nJP :\nエンケファリンを充填しますか？"
+  },
+  {
+    "key": "mainui_shop_charge_enkephalin-content",
+    "original": "엔케팔린을 충전했습니다.",
+    "context": "EN :\nEnkephalin charged.\nJP :\nエンケファリンを充填しました。"
+  },
+  {
+    "key": "mainui_shop_enkephalin_number-content",
+    "original": "엔케팔린 수치",
+    "context": "EN :\nEnkephalin\nJP :\nエンケファリン数値"
+  },
+  {
+    "key": "mainui_shop_madness_tab-content",
+    "original": "광기 상점",
+    "context": "EN :\nLunacy Shop\nJP :\n狂気ショップ"
+  },
+  {
+    "key": "mainui_shop_package_tab-content",
+    "original": "패키지 상점",
+    "context": "EN :\nPacks\nJP :\nパッケージショップ"
+  },
+  {
+    "key": "mainui_shop_only_once-content",
+    "original": "초회 한정",
+    "context": "EN :\nFirst-time Offers\nJP :\n初回限定"
+  },
+  {
+    "key": "mainui_shop_additional_give-content",
+    "original": "추가 증정",
+    "context": "EN :\nBonus Supplies\nJP :\n追加ボーナス"
+  },
+  {
+    "key": "mainui_shop_not_free-content",
+    "original": "유료",
+    "context": "EN :\nPaid\nJP :\n有償"
+  },
+  {
+    "key": "mainui_shop_purchase_per_today_fulled-content",
+    "original": "하루에 구매 가능한 엔케팔린 박스의 수를 초과했습니다.",
+    "context": "EN :\nYou’ve reached the maximum of Enkephalin Box purchases for today.\nJP :\n一日に購入可能なエンケファリンボックスの数を超過しました。"
+  },
+  {
+    "key": "mainui_shop_purchase_success-content",
+    "original": "구매를 성공했습니다.",
+    "context": "EN :\nPurchase successful.\nJP :\n購入に成功しました。"
+  },
+  {
+    "key": "mainui_shop_enkephalin_box_scarce-content",
+    "original": "보유한 엔케팔린 박스가 부족합니다.",
+    "context": "EN :\nYou don’t have enough Enkephalin Boxes.\nJP :\n手持ちのエンケファリンボックスが不足しています。"
+  },
+  {
+    "key": "mainui_shop_lunacy_scarce-content",
+    "original": "보유한 광기가 부족합니다.",
+    "context": "EN :\nYou don’t have enough Lunacy.\nJP :\n狂気が不足しています。"
+  },
+  {
+    "key": "mainui_shop_limit_purchase_permanent-content",
+    "original": "{0}회 한정",
+    "context": "EN :\n{0} Left\nJP :\n{0}回限定"
+  },
+  {
+    "key": "mainui_shop_limit_purchase_periodic-content",
+    "original": "{0}회 가능",
+    "context": "EN :\n{0} in Stock\nJP :\n{0}回可能"
+  },
+  {
+    "key": "mainui_shop_acquire_at_mailbox-content",
+    "original": "※우편함에서 수령할 수 있습니다.",
+    "context": "EN :\n※ Redeemable at the mailbox.\nJP :\n※メールボックスから受け取れます。"
+  },
+  {
+    "key": "mainui_shop_purchase_product_success-content",
+    "original": "{0}(을)를\n구입했습니다.",
+    "context": "EN :\nSuccessfully purchased\n{0}.\nJP :\n{0}を\n購入しました。"
+  },
+  {
+    "key": "mainui_shop_remain_days_minutes-content",
+    "original": "{0}일 {1}시간",
+    "context": "EN :\n{0}D {1}H remain\nJP :\n{0}日 {1}時間"
+  },
+  {
+    "key": "shopui_use_enkephalin_box-content",
+    "original": "엔케팔린 박스 사용",
+    "context": "EN :\nUse Enkephalin Box\nJP :\nエンケファリンボックス使用"
+  },
+  {
+    "key": "shopui_use_lunacy-content",
+    "original": "광기 사용",
+    "context": "EN :\nUse Lunacy\nJP :\n狂気使用"
+  },
+  {
+    "key": "shopui_no_more_purchase_chance_today-content",
+    "original": "금일 구매 횟수를 모두 소진하였습니다.",
+    "context": "EN :\nReached the daily purchase limit.\nJP :\n購入制限に到達しました。"
+  },
+  {
+    "key": "shopui_scarce_lunacy-content",
+    "original": "광기가 부족합니다.",
+    "context": "EN :\nYou don’t have enough Lunacy.\nJP :\n狂気が不足しています。"
+  },
+  {
+    "key": "shopui_scarce_enkephalin_box-content",
+    "original": "엔케팔린 박스가 부족합니다.",
+    "context": "EN :\nYou don’t have enough Enkephalin Boxes.\nJP :\nエンケファリンボックスが不足しています。"
+  },
+  {
+    "key": "shopui_scarce_enkephalin-content",
+    "original": "엔케팔린이 부족합니다.",
+    "context": "EN :\nInsufficient Enkephalin.\nJP :\nエンケファリンが不足しています。"
+  },
+  {
+    "key": "shopui_make_enkephalin_module-content",
+    "original": "엔케팔린 모듈 제작",
+    "context": "EN :\nAssemble Enkephalin Modules\nJP :\nエンケファリンモジュールの製作"
+  },
+  {
+    "key": "shopui_charge_enkephalin_about-content",
+    "original": "엔케팔린을 {0} 만큼 충전하시겠습니까?",
+    "context": "EN :\nRecharge {0} Enkephalin?\nJP :\nエンケファリンを{0}チャージしますか？"
+  },
+  {
+    "key": "shopui_recover_enkephalin_after_time-content",
+    "original": "{0} 이후 엔케팔린 {1} 회복",
+    "context": "EN :\n{1} Enkephalin recovered in {0}.\nJP :\n{0}後にエンケファリンが{1}回復"
+  },
+  {
+    "key": "shopui_ask_create_enkephalin_module-content",
+    "original": "엔케팔린 모듈을 제작하시겠습니까?",
+    "context": "EN :\nWould you like to assemble Enkephalin Modules?\nJP :\nエンケファリンモジュールを製作しますか？"
+  },
+  {
+    "key": "shopui_charge_as_lunacy-content",
+    "original": "광기로 충전",
+    "context": "EN :\nUse Lunacy\nJP :\n狂気でチャージ"
+  },
+  {
+    "key": "shopui_charge_as_box-content",
+    "original": "박스로 충전",
+    "context": "EN :\nUse Boxes\nJP :\nボックスでチャージ"
+  },
+  {
+    "key": "shopui_create_module-content",
+    "original": "모듈 제작",
+    "context": "EN :\nModules\nJP :\nモジュール製作"
+  },
+  {
+    "key": "remain_days-content",
+    "original": "{0}일",
+    "context": "EN :\n{0}d\nJP :\n{0}日"
+  },
+  {
+    "key": "remain_hours-content",
+    "original": "{0}시간",
+    "context": "EN :\n{0}h\nJP :\n{0}時間"
+  },
+  {
+    "key": "remain_minutes-content",
+    "original": "{0}분",
+    "context": "EN :\n{0}m\nJP :\n{0}分"
+  },
+  {
+    "key": "enkephalin_charge_finished-content",
+    "original": "엔케팔린 충전 완료",
+    "context": "EN :\nEnkephalin Charged\nJP :\nエンケファリン充填完了"
+  },
+  {
+    "key": "unable_to_charge-content",
+    "original": "충전 불가",
+    "context": "EN :\nCannot Charge\nJP :\n充填不能"
+  },
+  {
+    "key": "lack_of_enkephalin_box-content",
+    "original": "엔케팔린 박스 부족",
+    "context": "EN :\nNot Enough Boxes\nJP :\nエンケファリンボックス不足"
+  },
+  {
+    "key": "enkephalin_full-content",
+    "original": "엔케팔린 수치 최대",
+    "context": "EN :\nMax Enkephalin\nJP :\nエンケファリン数値最大"
+  },
+  {
+    "key": "purchase_limitation_full-content",
+    "original": "구매 상한 도달",
+    "context": "EN :\nPurchase Limit Reached\nJP :\n購入上限到達"
+  },
+  {
+    "key": "lack_of_lunacy-content",
+    "original": "광기 부족",
+    "context": "EN :\nNot Enough Lunacy\nJP :\n狂気不足"
+  },
+  {
+    "key": "create_enkephalin_module_success-content",
+    "original": "엔케팔린 모듈 제작 완료",
+    "context": "EN :\nModule Assembled\nJP :\nエンケファリンモジュール製作完了"
+  },
+  {
+    "key": "unable_to_create_enkephalin_module-content",
+    "original": "엔케팔린 모듈 제작 불가",
+    "context": "EN :\nCannot Assemble Modules\nJP :\nエンケファリンモジュール製作不能"
+  },
+  {
+    "key": "lack_of_enkephalin-content",
+    "original": "엔케팔린 부족",
+    "context": "EN :\nNot Enough Enkephalin\nJP :\nエンケファリン不足"
+  },
+  {
+    "key": "remain_days_with_number-content",
+    "original": "남은 기간 {0}일",
+    "context": "EN :\n{0}d left\nJP :\n残り期間 {0}日"
+  },
+  {
+    "key": "enkephalin_module-content",
+    "original": "엔케팔린 모듈",
+    "context": "EN :\nEnkephalin Module\nJP :\nエンケファリンモジュール"
+  },
+  {
+    "key": "enkephalin_box-content",
+    "original": "엔케팔린 박스",
+    "context": "EN :\nEnkephalin Box\nJP :\nエンケファリンボックス"
+  },
+  {
+    "key": "today_purchase_count-content",
+    "original": "금일 구매 횟수",
+    "context": "EN :\nDaily Count\nJP :\n本日の購入回数"
+  },
+  {
+    "key": "lack_of_lunacy_ask_to_move_shop-content",
+    "original": "보유 광기가 부족합니다. 상점으로 이동하시겠습니까?",
+    "context": "EN :\nYou don’t have enough Lunacy. Would you like to head to the shop?\nJP :\n狂気が不足しています。ショップへ移動しますか？"
+  },
+  {
+    "key": "remain_hours_with_number-content",
+    "original": "남은 기간 {0}시간",
+    "context": "EN :\n{0}h left\nJP :\n残り時間 {0}時間"
+  },
+  {
+    "key": "enkephalin_module_count_max-content",
+    "original": "엔케팔린 모듈 수치 최대",
+    "context": "EN :\nMax Enkephalin Modules\nJP :\nエンケファリンモジュール数最大"
+  },
+  {
+    "key": "enkephalin_module_count_max_desc-content",
+    "original": "엔케팔린 모듈 최대치를 초과하여 제작할 수 없습니다.",
+    "context": "EN :\nCannot assemble Modules; you have too many in storage.\nJP :\nエンケファリンモジュール上限数を超えて製作することはできません。"
+  }
+]

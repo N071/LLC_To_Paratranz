@@ -1,0 +1,727 @@
+[
+  {
+    "key": "101001-name",
+    "original": "사람이라는 제물",
+    "context": "EN :\nHuman Offering\nJP :\n人間という贄"
+  },
+  {
+    "key": "101001-subDesc",
+    "original": "저 멀리 토우들이 보인다.",
+    "context": "EN :\nYou see clay dolls in the distance.\nJP :\n遠くに土偶が見える。"
+  },
+  {
+    "key": "101001-desc",
+    "original": "토우들이 무언가를 찾고 있는 듯 시체를 뒤지고 있다.\n제물을 바치라는 외침이 끊이지 않는다.\n그들의 모습은 당장이라도 우리를 덮칠 것 만 같다.\n\n마침, 근처에 숨을 헐떡이며 죽어가는 사람이 보인다.\n이 사람을 제물로 바칠까?\n아니면…",
+    "context": "EN :\nThey’re rummaging through corpses, looking for something.\nRelentless demands for an offering ring in the ears.\nThey look like they might jump us at any second.\n\nYou see a dying person nearby, gasping for air.\nShould you offer this person up?\nOr…\nJP :\n土偶たちが何か探しているかのように、死体を漁っている。\n贄を捧げよという叫びが絶えず聞こえる。\n彼らは今にも私たちに襲いかかりそうな様子だ。\n\nちょうど、近くで息を荒らげながら死にゆく人が見える。\nこの人を贄に捧げようか？\nあるいは…。"
+  },
+  {
+    "key": "101001-options",
+    "original": "[{\"message\":\"바친다.\",\"messageDesc\":\"모든 아군 정신력 감소. E.G.O GIFT 획득\",\"result\":[\"만족한 토우들은 시체가 되어가는 사람을 들쳐 메고 어디론 가로 사라졌다.\"]},{\"message\":\"바치지 않는다.\",\"messageDesc\":\"전투 발생. 승리 시 더욱 강한 E.G.O GIFT 획득\",\"result\":[\"아무런 행동을 하지 않자, 분노한 토우들이 덮쳐 들었다.\"]},{\"message\":\"수감자를 바친다.\",\"messageDesc\":\"......\",\"result\":[\"'관리자, 미쳤어?'\\n\\n수감자들이 분노하며 따진다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Offer the person.\",\"messageDesc\":\"All allies lose SP. Gain an E.G.O Gift.\",\"result\":[\"Satisfied, the clay dolls carried the corpse-to-be off into the distance.\"]},{\"message\":\"Don’t offer the person.\",\"messageDesc\":\"Begin a combat encounter. Win to gain a stronger E.G.O Gift.\",\"result\":[\"Angered by your inaction, the clay dolls attacked you.\"]},{\"message\":\"Offer a Sinner.\",\"messageDesc\":\"……\",\"result\":[\"“Are your screws loose, Manager?”\\n\\nThe Sinners seem upset by your decision.\"]}]\nJP :\n[{\"message\":\"捧げる。\",\"messageDesc\":\"全味方の精神力減少。E.G.O GIFT獲得\",\"result\":[\"満足した土偶は死体になりゆく人を担いでどこかへ消えていった。\"]},{\"message\":\"捧げない。\",\"messageDesc\":\"戦闘発生。勝利時により強力なE.G.O GIFT獲得\",\"result\":[\"何も行動を取らずにいると、怒った土偶たちが襲いかかってきた。\"]},{\"message\":\"囚人を捧げる。\",\"messageDesc\":\"……。\",\"result\":[\"「管理人、気でも狂ったか？」\\n\\n囚人が怒りながら問い詰めてきた。\"]}]"
+  },
+  {
+    "key": "10100101-name",
+    "original": "사람이라는 제물",
+    "context": "EN :\nHuman Offering\nJP :\n人間という贄"
+  },
+  {
+    "key": "10100101-subDesc",
+    "original": "저 멀리 토우들이 보인다.",
+    "context": "EN :\nYou see clay dolls in the distance.\nJP :\n遠くに土偶が見える。"
+  },
+  {
+    "key": "10100101-desc",
+    "original": "수감자는 바칠 수 없을 것 같다.\n\n역시 죽어가는 사람을 제물로 바칠까?\n아니면…",
+    "context": "EN :\nLooks like the Sinners are out of the question.\n\nShould you offer up this dying person?\nOr…\nJP :\n囚人は捧げられないようだ。\n\nやはり死にゆく人を贄に捧げようか？\nあるいは…。"
+  },
+  {
+    "key": "10100101-options",
+    "original": "[{\"message\":\"바친다.\",\"messageDesc\":\"모든 아군 정신력 감소. E.G.O GIFT 획득\",\"result\":[\"만족한 토우들은 시체가 되어가는 사람을 들쳐 메고 어디론 가로 사라졌다.\"]},{\"message\":\"바치지 않는다.\",\"messageDesc\":\"전투 발생. 승리 시 더욱 강한 E.G.O GIFT 획득\",\"result\":[\"아무런 행동을 하지 않자, 분노한 토우들이 덮쳐 들었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Offer the person.\",\"messageDesc\":\"All allies lose SP. Gain an E.G.O Gift.\",\"result\":[\"Satisfied, the clay dolls carried the corpse-to-be off into the distance.\"]},{\"message\":\"Don’t offer the person.\",\"messageDesc\":\"Begin a combat encounter. Win to gain a stronger E.G.O Gift.\",\"result\":[\"Angered by your inaction, the clay dolls attacked you.\"]}]\nJP :\n[{\"message\":\"捧げる。\",\"messageDesc\":\"全味方の精神力減少。E.G.O GIFT獲得\",\"result\":[\"満足した土偶は死体になりゆく人を担いでどこかへ消えていった。\"]},{\"message\":\"捧げない。\",\"messageDesc\":\"戦闘発生。勝利時により強力なE.G.O GIFT獲得\",\"result\":[\"何も行動を取らずにいると、怒った土偶たちが襲いかかってきた。\"]}]"
+  },
+  {
+    "key": "101002-name",
+    "original": "영원한 해방",
+    "context": "EN :\nEternal Rest\nJP :\n永遠の解放"
+  },
+  {
+    "key": "101002-desc",
+    "original": "어디선가 기어 들어가는 소리가 들려온다.\n\n도와주세요...\n\n소리를 따라가 볼까? 아니면…",
+    "context": "EN :\nYou hear a faint voice.\n\n“Please, help…”\n\nDo you follow the sound? Or…\nJP :\nどこからか微かな声が聞こえてくる。\n\n「助けてください…。」\n\n声のする方へ行きますか？あるいは…。"
+  },
+  {
+    "key": "101002-options",
+    "original": "[{\"message\":\"소리가 들리는 곳으로 가본다.\",\"messageDesc\":\"오만 판정 진행. 판정 진행 후 E.G.O GIFT 획득\",\"result\":[\"군인 한 명이 폭발한 잔해에 깔려서 신음 하고 있다.\\n\\n\\\"제발 죽여주세요… 너무 아파요.\\\"\\n\\n이자를 그냥 두고 갈 수는 없을 것 같다.\\n어떤 수감자가 그에게 안식을 전해줄 수 있을까?\"]},{\"message\":\"소리를 무시한다.\",\"messageDesc\":\"\",\"result\":[\"어쩌면 잘못 들었을 수도 있다.\\n바람 소리가 사람의 목소리와 비슷하게 들리는 건 꽤 흔한 일이다.\\n\\n우리는 발걸음을 재촉하기로 했다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Check out the source of the voice.\",\"messageDesc\":\"Run a Pride check. Gain an E.G.O Gift.\",\"result\":[\"A soldier was crushed under rubble, gasping in agony.\\n\\n“Please just kill me… It hurts too much.”\\n\\nYou can’t ignore this person.\\nWho will be ordered to bring this soldier to peace?\"]},{\"message\":\"Ignore the voice.\",\"messageDesc\":\"\",\"result\":[\"It could just have been your senses playing tricks on you.\\nIt’s not uncommon for howling wind to be mistaken for a human voice.\\n\\nYou decided to hurry along.\"]}]\nJP :\n[{\"message\":\"声のする方へ行く。\",\"messageDesc\":\"傲慢判定進行。判定進行後、E.G.O GIFT獲得\",\"result\":[\"兵士一名が爆発した残骸の下敷きになって、呻き声をあげている。\\n\\n「どうか殺してください…とても痛いんです。」\\n\\nこの人を置いて行くことはできなさそうだ。\\nどんな囚人が彼に安息をもたらすだろうか？\"]},{\"message\":\"声を無視する。\",\"messageDesc\":\"\",\"result\":[\"もしかしたら聞き違いかもしれない。\\n風の音が人間の声に聞こえるのは良くあることだ。\\n\\n私たちは足を速めることにした。\"]}]"
+  },
+  {
+    "key": "101003-name",
+    "original": "참을 수 없는 존재와의 만남",
+    "context": "EN :\nAn Encounter with the Unbearable\nJP :\n耐え難い存在との出逢い"
+  },
+  {
+    "key": "101003-subDesc",
+    "original": "바스락 소리가 귀를 긁는다.",
+    "context": "EN :\nCrunching sounds jar on your nerves.\nJP :\nカサッという音が耳を掠める。"
+  },
+  {
+    "key": "101003-desc",
+    "original": "좁은 골목을 지나가던 중 바퀴벌레들이 우르르 튀어나왔다.\n바삭바삭 거리는 소리와 모습이 헛구역질을 불러일으킨다.\n\n이것을 피해서 지나가야 할까? 아니면…",
+    "context": "EN :\nWhile traversing a narrow passage, a swarm of cockroaches crawled into the way.\nThe rustling visage is almost revolting.\n\nDo you walk past them? Or…\nJP :\n狭い路地を進んでいると、ゴキブリがうじゃうじゃと飛び出してきた。\nカサカサという音と姿が吐き気を催してくる。\n\nこれを避けて通るべきだろうか？あるいは…。"
+  },
+  {
+    "key": "101003-options",
+    "original": "[{\"message\":\"너무나 징그럽지만 무슨 일이 일어날지 모르니 조심스럽게 지나간다.\",\"messageDesc\":\"모든 아군 정신력 감소.\",\"result\":[\"'으으윽… 다리에 타고 올라왔어!'\\n\\n모두가 무사히 골목을 지나왔지만, 불쾌한 표정을 숨기지 못하고 있다.\\n정신적으로 지친 듯 하다.\"]},{\"message\":\"참을 수 없다. 수감자와 함께 바퀴벌레를 마구 밟는다.\",\"messageDesc\":\"그레고르 정신력 크게 감소. 전투 발생. 승리 시 E.G.O GIFT 획득\",\"result\":[\"'쯧...'\\n\\n그레고르가 불편한 듯 고개를 돌렸다.\\n그러자 분노한 벌레 군인들이 덤벼들었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Carefully move past the gross swarm.\",\"messageDesc\":\"All allies lose SP\",\"result\":[\"“Ewwww… One got on my leg!”\\n\\nEveryone managed to get through the passage, but their disgust is clearly visible.\\nThey seem fatigued by the experience.\"]},{\"message\":\"Enough is enough. Crush the cockroaches with the Sinners.\",\"messageDesc\":\"Gregor loses a lot of SP. Begin a combat encounter. Win to gain an E.G.O Gift.\",\"result\":[\"“Tsk…”\\n\\nGregor turned away from the carnage, discontent.\\nSoon after, a crowd of angry bug-soldiers came charging for us.\"]}]\nJP :\n[{\"message\":\"物凄く気持ち悪いが、何が起こるか分からないから注意深く通り抜ける。\",\"messageDesc\":\"全味方の精神力減少\",\"result\":[\"「うぅぅ…足から登ってきた！」\\n\\n皆が無事に路地を通り過ぎたが、不快な表情は隠せずにいた。\\n精神的に疲れたようだ。\"]},{\"message\":\"耐えられない。囚人と共に手…足当たり次第ゴキブリを踏み潰した。\",\"messageDesc\":\"グレゴールの精神力が大幅減少。戦闘発生。勝利時E.G.O GIFT獲得\",\"result\":[\"「チッ…。」\\n\\nグレゴールが居心地悪そうに顔を背けた。\\nすると、怒った虫軍人たちが襲いかかってきた。\"]}]"
+  },
+  {
+    "key": "102001-name",
+    "original": "수상하게 반짝거리는 자판기",
+    "context": "EN :\nSuspiciously Sparkly Vending Machine\nJP :\n怪しく輝く自販機"
+  },
+  {
+    "key": "102001-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "102001-desc",
+    "original": "공장의 한 가운데, 큼지막한 버튼이 붙어 있는 자판기가 있다.\n\n알록달록하고 귀여운 모양의 버튼…\n마치 누르지 않으면 안될 것만 같은 기분이 든다.\n\n어떤 버튼을 눌러볼까?",
+    "context": "EN :\nIn the middle of the factory, you find a vending machine with large buttons.\n\nThey’re colorful and fancy…\nYou feel a strong compulsion to press them.\n\nWhich one will you press?\nJP :\n工場のど真ん中に、大きなボタンが付いている自販機がある。\n\nカラフルでかわいらしい形のボタン…。\nなんだか、押さなければならないような気がする。\n\nどんなボタンを押してみようか？"
+  },
+  {
+    "key": "102001-options",
+    "original": "[{\"message\":\"주먹이 그려진 빨간 버튼을 누른다.\",\"messageDesc\":\"E.G.O GIFT 획득\",\"result\":[\"'축하! 축하!'\\n\\n달카당 거리며 배출구에 무언가가 떨어졌다.\\n\\n장난감 주먹인 것 같다.\"]},{\"message\":\"발이 그려진 노랑 버튼을 누른다.\",\"messageDesc\":\"E.G.O GIFT 획득\",\"result\":[\"'축하! 축하!'\\n\\n달카당 거리며 배출구에 무언가가 떨어졌다.\\n\\n장난감 발인 것 같다.\"]},{\"message\":\"하트가 그려진 초록 버튼을 누른다.\",\"messageDesc\":\"E.G.O GIFT 획득\",\"result\":[\"'축하! 축하!'\\n\\n달카당 거리며 배출구에 무언가가 떨어졌다.\\n\\n장난감 나사인 것 같다.\"]},{\"message\":\"모든 버튼을 1번씩 다 누른다.\",\"messageDesc\":\"E.G.O GIFT 3종 획득. 다만...\",\"result\":[\"'오류 발생! 오류 발생!'\\n\\n자판기가 갑자기 요란스레 떨어댔다.\\n\\n'이, 이거 왜 이러는건데?'\\n\\n'하아, 그러니까 욕심 부리지 말…'\\n\\n수감자의 말이 채 끝나기도 전에, 기계는 무수한 장난감 부품들을 뱉어내며 폭발해버렸다.\"]},{\"message\":\"버튼을 누르지 않는다.\",\"result\":[\"이런 기이한 기운을 뿌리치는 것이 중요하다.\\n정체 모를 것을 건드려 봤자, 좋을 일은 없을 것이다.\\n\\n아무런 행동도 취하지 않고 자판기 앞을 떠나갔다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Press the red button with a fist icon.\",\"messageDesc\":\"Gain an E.G.O Gift\",\"result\":[\"“Congrats! Congrats!”\\n\\nSomething rumbled down the chute.\\n\\nIt appears to be a toy fist.\"]},{\"message\":\"Press the yellow button with a foot icon.\",\"messageDesc\":\"Gain an E.G.O Gift\",\"result\":[\"“Congrats! Congrats!”\\n\\nSomething rumbled down the chute.\\n\\nIt appears to be a toy foot.\"]},{\"message\":\"Press the green button with a heart icon.\",\"messageDesc\":\"Gain an E.G.O Gift\",\"result\":[\"“Congrats! Congrats!”\\n\\nSomething rumbled down the chute.\\n\\nIt appears to be a toy screw.\"]},{\"message\":\"Press all the buttons at once.\",\"messageDesc\":\"Gain 3 E.G.O Gifts. But…\",\"result\":[\"“Error! Error!”\\n\\nThe vending machine began to rattle.\\n\\n“H-Hey, what’s wrong with this thing?”\\n\\n“Sigh, you should’ve known better than to get gre—”\\n\\nBefore the Sinner could finish, the machine exploded, spewing a slew of toy parts into the air.\"]},{\"message\":\"Don’t press anything.\",\"result\":[\"You should resist odd impulses like this.\\nMeddling with the unknown is surely a bad idea.\\n\\nYou left the vending machine without touching a thing.\"]}]\nJP :\n[{\"message\":\"拳が描かれた赤いボタンを押す。\",\"messageDesc\":\"E.G.O GIFT獲得\",\"result\":[\"「おめでと！おめでと！」\\n\\nガタンと音がして排出口に何かが落ちた。\\n\\nおもちゃの拳のようだ。\"]},{\"message\":\"足が描かれた黄色いボタンを押す。\",\"messageDesc\":\"E.G.O GIFT獲得\",\"result\":[\"「おめでと！おめでと！」\\n\\nガタンと音がして排出口に何かが落ちた。\\n\\nおもちゃの足のようだ。\"]},{\"message\":\"ハートが描かれた緑のボタンを押す。\",\"messageDesc\":\"E.G.O GIFT獲得\",\"result\":[\"「おめでと！おめでと！」\\n\\nガタンと音がして排出口に何かが落ちた。\\n\\nおもちゃのネジのようだ。\"]},{\"message\":\"全部のボタンを1回ずつ全部押す。\",\"messageDesc\":\"E.G.O GIFT 3種獲得。ただし…。\",\"result\":[\"「エラー発生！エラー発生！」\\n\\n自販機が急に騒がしく揺れ始めた。\\n\\n「な、なんだよこれ？」\\n\\n「はぁ、だから欲張るなって言…。」\\n\\n囚人の言葉が終わるのを待たずに、機械は無数のおもちゃの部品を吐き出しながら爆発してしまった。\"]},{\"message\":\"ボタンを押さない。\",\"result\":[\"このような奇妙な気配に逆らうことが重要だ。\\n正体不明のものに触れたところで、良いことはないだろう。\\n\\n何の行動も取らず、自動販売機の前を去っていった。\"]}]"
+  },
+  {
+    "key": "102002-name",
+    "original": "맞으면서 배우는 재미난 게임!",
+    "context": "EN :\nExhilarating Edutainment Featuring Excess Violence!\nJP :\nぶたれながら学ぶ楽しいゲーム！"
+  },
+  {
+    "key": "102002-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "102002-desc",
+    "original": "통로를 벗어나자, 그 앞에는 거대한 룰렛과 강화 인간의 무리가 있었다.\n\n'아. 신이. 난다. 재미. 난다.\n더 게임 오브 데. 쓰!'\n\n이해하기 어려운 운율을 가진 말을 연신 읊어대며 이리로 다가온다.\n룰렛으로 게임을 하자는 것 같다. 어떻게 해야 할까?",
+    "context": "EN :\nExiting the passage, you see a group of cyborgs gathered around a huge roulette.\n\n“Oh. Highly. Excited. Thoroughly. Amusing.”\n“Da GAME of DE—ATH!”\n\nThey approach you, chanting in strange beats.\nIt looks like they want you to play a game of roulette. What should you do?\nJP :\n通路を抜けると、その前には巨大なルーレットと強化人間の群れがいた。\n\n「あぁ。うれ。しい。たの。しい。\nザ・ゲーム・オブ・デ。ス！」\n\n分かりづらいリズムで言葉を発し続け、こちらに近づいてくる。\nルーレットでゲームをしようということらしい。どうするべきだろうか？"
+  },
+  {
+    "key": "102002-options",
+    "original": "[{\"message\":\"도전한다.\",\"messageDesc\":\"로쟈의 정신력 회복. 분노, 나태, 우울 판정 진행. 판정 성공 시 모든 아군의 정신력 회복, E.G.O GIFT 획득\",\"result\":[\"'게임은 내 전문이지!'\\n\\n로쟈가 의기양양하게 소리치며 앞으로 나섰다.\\n묘한 기대와 흥분이 표정에 자리한 모습이다.\"]},{\"message\":\"게임은 무슨! 당장 해치운다.\",\"messageDesc\":\"로쟈의 정신력 감소. 전투 발생. 승리 시 E.G.O GIFT 획득\",\"result\":[\"게임 같은 것을 하고 있을 때가 아니다.\\n저 정신 나간 강화 인간 무리를 해치우고 지나가자.\\n\\n'…쩝.'\\n\\n로쟈가 입맛을 다시는 소리가 들렸지만, 일일이 돌봐줄 상황은 아니다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Take on the challenge.\",\"messageDesc\":\"Rodion gains SP. Run Wrath, Sloth, and Gloom checks. Pass to heal all allies’ SP and gain an E.G.O Gift.\",\"result\":[\"“You know this is where I shine!”\\n\\nRodya proudly proclaimed as she stepped forward.\\nYou can see a mixture of anticipation and excitement on her face.\"]},{\"message\":\"Forget games! Crush them in battle.\",\"messageDesc\":\"Rodion loses SP. Begin a combat encounter. Win to gain an E.G.O Gift.\",\"result\":[\"This is not the time for gaming of all things.\\nLet’s just deal with those crazed cyborgs and move on.\\n\\n“…Psh.”\\n\\nRodya smacked her lips in dissatisfaction, but you know you can’t always afford to give every Sinner what they want.\"]}]\nJP :\n[{\"message\":\"挑戦する。\",\"messageDesc\":\"ロージャの精神力回復。憤怒、怠惰、憂鬱判定を進行。判定成功時、全味方の精神力回復、E.G.O GIFT獲得\",\"result\":[\"「ゲームは私の専門分野でしょ！」\\n\\nロージャが意気揚々と声を出して前へ出た。\\n妙な期待と興奮が顔に出ている。\"]},{\"message\":\"何がゲームだ！今すぐ片付ける。\",\"messageDesc\":\"ロージャの精神力が減少。戦闘発生。勝利時E.G.O GIFT獲得\",\"result\":[\"ゲームなんかしている場合ではない。\\nあのイカれた強化人間の群れを倒して進もう。\\n\\n「…はぁ。」\\n\\nロージャが軽く溜め息を吐く音が聞こえたが、いちいち気にしてやれるような状況ではない。\"]}]"
+  },
+  {
+    "key": "102003-name",
+    "original": "당신은 행복하십니까?",
+    "context": "EN :\nAre You Happy?\nJP :\nあなたは幸せですか？"
+  },
+  {
+    "key": "102003-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "102003-desc",
+    "original": "분홍색으로 칠해진 문틀 앞에는, 두껍고 굳게 닫힌 유리문이 있었다.\n그 위에 달린 전광판이 갑작스레 번쩍거리며 질문을 던졌다.\n'당신은 행복하십니까?'\n무어라 답해야 할까.",
+    "context": "EN :\nA thick glass door stood strongly in the pink frame.\nThe electronic display above suddenly flashed to life, offering a question.\n\n“Are you happy?”\n\nWhat will be your answer?\nJP :\n桃色に塗られたドア枠の前には、固く閉ざされた分厚いガラス扉があった。\nその上の電光掲示板が突然光り、質問を投げかけてきた。\n「あなたは幸せですか？」\n何と答えるべきだろう。"
+  },
+  {
+    "key": "102003-options",
+    "original": "[{\"message\":\"행복하다.\",\"result\":[\"'훌륭하네요!'\\n\\n전광판이 초록색으로 번쩍거리더니, 문이 덜컥하고 열렸다.\\n그대로 지나가면 될 것 같다.\"]},{\"message\":\"아니다.\",\"result\":[\"\"]}]",
+    "context": "EN :\n[{\"message\":\"I sure am.\",\"result\":[\"“How wonderful!”\\n\\nThe display emitted a green flash, and the door opened for us.\\nLooks like we can proceed.\"]},{\"message\":\"I’m not.\",\"result\":[\"\"]}]\nJP :\n[{\"message\":\"幸せだ。\",\"result\":[\"「素晴らしいですね！」\\n\\n電光掲示板が緑色に光ると、扉がガチャンと開いた。\\nそのまま通れば良さそうだ。\"]},{\"message\":\"幸せではない。\",\"result\":[\"\"]}]"
+  },
+  {
+    "key": "10200301-name",
+    "original": "당신은 행복하십니까?2",
+    "context": "EN :\nAre You Happy? 2\nJP :\nあなたは幸せですか？2"
+  },
+  {
+    "key": "10200301-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10200301-desc",
+    "original": "'당신을 행복한 곳으로 데려다 줄 분홍신이 있습니다.'\n\n전광판이 붉게 번쩍이며 말했다.\n\n'신어보시겠습니까?'",
+    "context": "EN :\n“There’s a pair of pink shoes that can bring you to happiness.”\n\nThe display glowed red.\n\n“Would you like to try them on?”\nJP :\n「あなたを幸せな場所に連れて行ってくれる桃色の靴があります。」\n\n電光掲示板が赤く光りながら言った。\n\n「履いてみますか？」"
+  },
+  {
+    "key": "10200301-options",
+    "original": "[{\"message\":\"신는다.\",\"messageDesc\":\"E.G.O GIFT 획득\",\"result\":[\"유리문이 열리자, 그 안에 분홍빛 구두가 놓여 있었다.\\n\\n구두를 신자, 다리부터 리본이 휘감아 올라오는 것을 느낄 수 있었다.\\n온몸이 조여오지만, 그 감각이 나쁘지는 않다.\\n\\n어디로든 갈 수 있을 것만 같은… 그런 기분.\"]},{\"message\":\"신지 않는다.\",\"messageDesc\":\"전투 발생.\",\"result\":[\"'분홍신의 멋짐을 피하지 마세요!'\\n\\n불길한 기분이 들어 뒷걸음질을 치자, 문 안쪽의 불빛이 덜컹, 하고 꺼졌다.\\n\\n'그것은 당신을 원하는 곳으로 데려다 줄 겁니다!'\\n\\n전광판이 미친 듯이 반짝거리고,\\n분홍 리본에 휘감긴 사람들이 문 뒤에서 흐느적거리며 걸어 나왔다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Try the shoes on.\",\"messageDesc\":\"Gain an E.G.O Gift\",\"result\":[\"The glass door opened, revealing said pair of pink shoes.\\n\\nWhen you put them on, you could feel strands of ribbons wrap around your legs.\\nThey’re tightening around your body, but it’s not an unpleasant feeling.\\n\\nYou feel as though you can now go… anywhere.\"]},{\"message\":\"Don’t wear the shoes.\",\"messageDesc\":\"Begin a combat encounter.\",\"result\":[\"“Don’t shy away from the majesty of the pink shoes!”\\n\\nThe light over the shoes shut off as you backed away.\\n\\n“They will take you wherever you want to go!”\\n\\nThe display began to flicker frantically,\\nand a group of people wrapped in pink ribbons shambled through the door.\"]}]\nJP :\n[{\"message\":\"履く。\",\"messageDesc\":\"E.G.O GIFT獲得\",\"result\":[\"ガラス扉が開くと、その中に桃色の靴が置かれていた。\\n\\n靴を履くと、足から上へリボンが巻きついてくるのが感じられた。\\n全身が締め付けられるが、悪い気はしない。\\n\\nどこへでも行けちゃいそうな…そんな気持ち。\"]},{\"message\":\"履かない。\",\"messageDesc\":\"戦闘発生。\",\"result\":[\"「桃色の靴の素晴らしさから逃げないでください！」\\n\\n嫌な予感がして後ずさると、ドアの内側の明かりがガタっと音と共に消えた。\\n\\n「それはあなたをお望みの場所に連れて行ってくれます！」\\n\\n電光掲示板が狂ったように光り、\\n桃色のリボンに巻かれた人々が、ドアの後ろからよろよろと歩いてきた。\"]}]"
+  },
+  {
+    "key": "10301-name",
+    "original": "기계 태엽 장치가 놓인 허름한 방",
+    "context": "EN :\nAn Old Room with a Clockwork Mechanism\nJP :\nゼンマイ仕掛けの装置が置かれたみすぼらしい部屋"
+  },
+  {
+    "key": "10301-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10301-desc",
+    "original": "허름한 방 안에는 기계장치가 놓여 있었다.\n이리저리 크고 작은 태엽이 달려있는 장치의 정중앙에는, 크고 길다란 레버가 달려있었다.\n굉장히, 당겨보고 싶은, 생각이, 든다.\n\n어떻게 할까.",
+    "context": "EN :\nThere’s a machine in this dilapidated room.\nA long, bulky lever is at the center of the machine adorned with springs.\n\nThe urge… to pull it… is growing… stronger… and stronger.\n\nWhat will you do?\nJP :\nみすぼらしい部屋の中には機械が置かれている。\n大小様々なぜんまいがついている装置の真ん中には、大きくて長いレバーがついていた。\nすごく、引っ張って、みたい。\n\nどうするべきか。"
+  },
+  {
+    "key": "10301-options",
+    "original": "[{\"message\":\"기계 장치를 조작한다.\",\"messageDesc\":\"50% 확률로 이로운 효과 또는 부정적 효과를 얻음\"},{\"message\":\"방을 떠난다.\",\"result\":[\"나는 아이도 아닐 뿐더러, 충동을 참을 정도의 인내심도 갖고 있다.\\n눈 앞의 유혹을 있는 그대로만 받아들이는 건 좋지 않다.\\n\\n'그래, 잘 생각했어.'\\n\\n수감자들과 함께 방을 떠났다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Use the machine.\",\"messageDesc\":\"50% chance for a positive effect; 50% chance for a negative effect\"},{\"message\":\"Leave the room.\",\"result\":[\"You’re not a child anymore. You can resist simple impulses like this.\\nIt’s never a good idea to fall for temptation without a second thought.\\n\\n“Yeah, good thinking.”\\n\\nYou and the Sinners left the room.\"]}]\nJP :\n[{\"message\":\"機械を動かす。\",\"messageDesc\":\"50%の確率でプラス効果、あるいはマイナス効果を得る。\"},{\"message\":\"部屋を離れる。\",\"result\":[\"私は子供でもないし、衝動を押さえられる位の忍耐力も持っている。\\n目の前の誘惑を、あるがままに受け入れるのは良くない。\\n\\n「うん、それで良し。」\\n\\n囚人たちと一緒に部屋を出た。\"]}]"
+  },
+  {
+    "key": "1030101-name",
+    "original": "기계 태엽 장치가 놓인 허름한 방",
+    "context": "EN :\nAn Old Room with a Clockwork Mechanism\nJP :\nゼンマイ仕掛けの装置が置かれたみすぼらしい部屋"
+  },
+  {
+    "key": "1030101-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "1030101-desc",
+    "original": "생각을 행동으로 옮기는 것은 마시멜로 앞의 어린 아이처럼 충동적이고 달콤한 일이다.\n\n레버를 힘차게 아래로 당기자, 짜그락거리는 소리가 함께 딸려 들려온다.\n느릿하게, 또는 빠르게 태엽들이 움직이기 시작한다.\n어떤 것은 시계 방향, 또 어떤 것은 시계 반대 방향.\n\n점점 움직임이 사나워지는 것만 같은 장치를 쳐다보며, 가슴이 졸아 드는 듯한 감각을 느꼈다.",
+    "context": "EN :\nPutting a spontaneous thought into action is as impulsive and uninhibited as a child reaching for off-limits marshmallows.\n\nWhen you pull down the lever, a clack follows soon after.\nThe springs begin to turn, some slow, some quick.\nSome clockwise, others counter-clockwise.\n\nWatching the machine’s rumble grow wilder, you feel anxious.\nJP :\n考えを行動に移すのはマシュマロの前の小さな子供のように、衝動的で甘いことだ。\n\nレバーを勢いよく下に引くと、ガチャガチャという音が聞こえてくる。\nゆっくり、時には速くぜんまいが動き出す。\nあるものは時計回りに、また別のものは反時計回りに。\n\nだんだん動きが荒くなっていく機械を見つめながら、胸が締め付けられるような感覚を味わった。"
+  },
+  {
+    "key": "1030101-options",
+    "original": "[{\"message\":\"레버를 당긴다.\",\"messageDesc\":\"50% 확률로 E.G.O GIFT 획득. 판정 실패 시 체력, 정신력 피해를 받음\",\"result\":[\"마침내 장치는 멈췄다.\\n\\n'어… 이거!'\\n\\n바닥 한 가운데에서 끼리릭 거리는 소리와 함께 조그마한 나무 상자가 밑에서부터 올라왔다.\\n조심스레 그 상자를 열어보니, 횃불 더미가 그 안에 들어있었다.\\n\\n많은 양은 아니지만, 어두운 곳에서 잠시 나마 위안을 줄 정도는 될 것 같다.\\n챙겨서 방을 나서기로 했다.\",\"마침내 장치는 멈췄다.\\n\\n'바, 방이?!'\\n\\n마치 움직임을 대신한다는 듯, 방 전체가 덜걱거리며 떨리기 시작했다.\\n이윽고, 천장이 쪼개지듯 열리며 수만 개의 못이 바닥을 향해 떨어졌다.\\n\\n'밖으로 뛰어!'\\n\\n'아이씨, 내가 건들지 말랬지!'\\n\\n수감자들과 함께 다급히 뛰쳐나왔지만, 피해를 피하지는 못한 것 같다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Pull the lever.\",\"messageDesc\":\"50% chance to gain an E.G.O Gift. Failure results in HP and SP damage.\",\"result\":[\"The machine stopped at last.\\n\\n“Huh… Would you look at that!”\\n\\nA small wooden chest rose from the floor.\\nYou carefully open it to find a bundle of torches.\\n\\nIt’s not much, but they should give you momentary relief in the dark.\\nYou take the torches out of the room.\",\"The machine stopped at last.\\n\\n“W-What’s happening?!”\\n\\nIn the machine’s stead, the room now began to tremble and crack.\\nA moment later, the ceiling split open, giving way for thousands of nails diving downward.\\n\\n“Outside, now!”\\n\\n“Dammit, I told you it was a bad idea to mess with it!”\\n\\nYou and the Sinners quickly evacuated the room, but not without harm.\"]}]\nJP :\n[{\"message\":\"レバーを引く。\",\"messageDesc\":\"50%の確率でE.G.O GIFT獲得。判定失敗時は体力、精神力ダメージを受ける\",\"result\":[\"ついに機械は止まった。\\n\\n「あ…これ！」\\n\\n床の真ん中からキリキリという音と共に、小さな木箱が上がってきた。\\n注意深く箱を開けると、松明の山が入っていた。\\n\\n沢山あるわけではないが、暗い場所で少しの間安らぎを与えてくれそうではある。\\n松明を持って、部屋を出ることにした。\",\"ついに機械は止まった。\\n\\n「へ、部屋が！？」\\n\\n止まった機械に代わるように、部屋全体がガタガタと震え始めた。\\nやがて天井が裂けるように開き、数万本の釘が床に向かって落ちた。\\n\\n「外へ走れ！」\\n\\n「おい、触るなって言っただろ！」\\n\\n囚人たちと共に急いで飛び出したが、無事というわけにはいかなかった。\"]}]"
+  },
+  {
+    "key": "10302-name",
+    "original": "굳게 닫힌 문의 앞에서",
+    "context": "EN :\nBefore a Sealed Door\nJP :\n固く閉ざされた扉の前で"
+  },
+  {
+    "key": "10302-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10302-desc",
+    "original": "방 안에는 철문이 있었다.\n한 눈에 보아도 부수거나 뚫기는 어려울, 엄청난 두께의 강철이다.\n\n'이렇게 까지 꽁꽁 싸맬 정도면, 뒤에는 어마어마한게 있겠는걸~'\n\n그 말대로, 문 뒤에는 커다란 보상이 숨어 있을지도 모른다.\n어떻게 해야할까?",
+    "context": "EN :\nA steel door rests on one side of the room.\nIt looks too thick to be easily broken or breached with force.\n\n“There’s gotta be something totally valuable through here if it’s guarded this tight~!”\n\nThe Sinner might be right, treasure might be waiting behind the door.\nWhat should you do?\nJP :\n部屋の中には鉄の扉があった。\n一目見ても分かるように、壊したり破ったりするには難しい、ものすごい厚さの鉄だ。\n\n「ここまでしっかり戸締まりしてるってことは、この中に凄いものがありそうだね～。」\n\nその言葉の通り、扉の後ろには大きな報酬が隠れているかもしれない。\nどうすればいいだろうか？"
+  },
+  {
+    "key": "10302-options",
+    "original": "[{\"message\":\"힘으로 문을 열어본다.\",\"messageDesc\":\"분노 판정 진행. 판정 성공 시 새로운 길이 맵에 추가됨.\"},{\"message\":\"주위를 살펴 다른 방법을 찾아본다.\",\"messageDesc\":\"나태 판정 진행. 판정 성공 시 새로운 길이 맵에 추가됨.\"},{\"message\":\"방을 떠난다.\",\"result\":[\"굳이 무리하는 것 보다는 원래 알고 있던 길로 가는 게 안전할 것이다.\\n\\n'아~ 저기에 분명히 뭐 있을텐데!!'\\n\\n수감자 몇몇이 툴툴대긴 했지만, 잘 독려해서 방을 빠져나왔다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Open it with force.\",\"messageDesc\":\"Run a Wrath check. Pass to open a new path on the map.\"},{\"message\":\"Look around for a solution.\",\"messageDesc\":\"Run a Sloth check. Pass to open a new path on the map.\"},{\"message\":\"Leave the room.\",\"result\":[\"It should be safer to stick to the known path rather than take unnecessary risks.\\n\\n“Aww~ I swear that something’s gotta be in there!”\\n\\nThough some Sinners complained, you persuaded them into letting it go.\"]}]\nJP :\n[{\"message\":\"力で扉を開けてみる。\",\"messageDesc\":\"憤怒判定を進行。判定成功時、新しい道がマップに追加。\"},{\"message\":\"周囲を調べ、他に方法を探す。\",\"messageDesc\":\"怠惰判定を進行。判定成功時、新しい道がマップに追加。\"},{\"message\":\"部屋を離れる。\",\"result\":[\"わざわざ無理するより、元々行こうとしてた道へ進むのが安全だろう。\\n\\n「あ～あそこに絶っ対何かあるはずなのに！！」\\n\\n囚人数名がぶつくさ言い始めたが、なんとか激励しつつ部屋を出た。\"]}]"
+  },
+  {
+    "key": "10303-name",
+    "original": "제 1의 관문",
+    "context": "EN :\nThe First Gate\nJP :\n第1の関門"
+  },
+  {
+    "key": "10303-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10303-desc",
+    "original": "저 멀리, 거대한 관문이 보인다.\n날카로운 창살과 돌로 쌓아 올려진 벽은 기묘한 분위기를 자아낸다.\n\n저곳이 이 구역을 통과할 수 있는 유일한 길인 것 같지만,바로 지나가기에는 심문관의 수가 너무 많은 것 같다.\n방법이 없을까?",
+    "context": "EN :\nYou see a large gate in the distance.\nThere’s something eerie about the pointed fences and stone walls.\n\nIt looks to be the only way through this area, but it’s guarded by a large number of Inquisitors.\nIs there anything we can do about them?\nJP :\nはるか遠くに、巨大な関門が見える。\n鋭い格子と石で積み上げられた壁は、奇妙な雰囲気を醸し出している。\n\nあそこがこの区域を抜けられる唯一の道のようだが、素通りするには審問官の数が多すぎる。\n良い方法はないだろうか？"
+  },
+  {
+    "key": "10303-options",
+    "original": "[{\"message\":\"뒤로 돌아가 기습한다.\",\"messageDesc\":\"오만 판정 진행 후 전투 발생. 판정 성공 시 모든 아군이 강화를 얻고, 적의 웨이브가 1 감소.\"},{\"message\":\"소란을 피워 주의를 돌린다.\",\"messageDesc\":\"색욕 판정 진행 후 전투 발생. 판정 성공 시 적의 웨이브가 2 감소.\"},{\"message\":\"정면 돌파한다.\",\"messageDesc\":\"아무 효과 없이 3웨이브 전투 발생.\",\"result\":[\"꼭 우회하는 것만이 묘수는 아니다.\\n전략이랍시고 괜히 수감자를 보냈다가 더 불리한 상황을 맞이하게 될지도 모르는 일이니까.\\n\\n정면으로 돌파하자.\"]}]",
+    "context": "EN :\n[{\"message\":\"Strike them from behind.\",\"messageDesc\":\"Run a Pride check, then begin a combat encounter. Pass to buff all allies and reduce the number of waves by 1.\"},{\"message\":\"Distract them.\",\"messageDesc\":\"Run a Lust check, then begin a combat encounter. Pass to reduce the number of waves by 2.\"},{\"message\":\"Confront them directly.\",\"messageDesc\":\"Begin a combat encounter with all 3 waves.\",\"result\":[\"Sometimes, the simplest solution is best.\\nSeparating a Sinner from our group to attempt some silly trick might end up putting us at a disadvantage.\\n\\nLet’s face them head-on.\"]}]\nJP :\n[{\"message\":\"後ろから奇襲する。\",\"messageDesc\":\"傲慢判定進行後に戦闘が発生。判定成功時、全味方が強化を得て、敵のウェーブ数が1減少。\"},{\"message\":\"騒ぎを起こして気を逸らす。\",\"messageDesc\":\"色欲判定進行後に戦闘が発生。判定成功時、敵のウェーブ数が2減少。\"},{\"message\":\"正面突破する。\",\"messageDesc\":\"特に何もないまま、3ウェーブの戦闘が発生。\",\"result\":[\"必ずしも迂回することだけが良い戦略ではない。\\n戦略だの何だの言って囚人を送ったばかりに、より不利な状況に陥るかもしれないから。\\n\\n正面から突破しよう。\"]}]"
+  },
+  {
+    "key": "10304-name",
+    "original": "상자가 가득한 방",
+    "context": "EN :\nA Room Full of Crates\nJP :\n箱でいっぱいの部屋"
+  },
+  {
+    "key": "10304-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10304-desc",
+    "original": "방 안에는 낡고 부서진 상자들이 수십 개가 굴러다니고 있었다.\n\n'으윽, 거미줄…'\n\n그것들을 대강 치워내고 보니, 그 밑에는 커다란 상자가 세 개나 놓여있었다.\n\n'이것들, 다 잠겨 있는데.'\n\n'열쇠 구멍은 다 똑같은 것 같아요!'\n\n'…하지만 열쇠의 재질이 무르구료. 하나를 열면 다시 빼서 사용할 수는 없겠소.'\n\n결국 한 번의 기회만 있는 것 같다.\n어떤 걸 열어봐야 하지?",
+    "context": "EN :\nDozens of old, broken crates littered the floor.\n\n“Eyuck, cobwebs…”\n\nClearing things away, you found three particularly large crates buried underneath.\n\n“These are all locked.”\n\n“Looks like the keyholes have the same shape!”\n\n“…Alas, the key is of a soft constitution. It won’t be feasible to use it again once it has been inserted into a lock.”\n\nSounds like you get only one try.\nWhich one should you open?\nJP :\n部屋の中には、古びて壊れた箱が数十個は転がっていた。\n\n「ううっ、蜘蛛の巣…。」\n\nそれらをざっくり片付けると、その下には大きな箱が3つも置かれていた。\n\n「これ、全部閉まってるんだけど。」\n\n「鍵の穴は全部同じ気がします！」\n\n「……しかし鍵の材質が脆し。一つ開けらば再び抜きて使うことあたわず。」\n\n結局のところ、チャンスは一回だけみたいだ。\nどれを開けるべきだろうか？"
+  },
+  {
+    "key": "10304-options",
+    "original": "[{\"message\":\"첫번째 상자를 연다.\",\"messageDesc\":\"수비를 강화하는 E.G.O GIFT 획득.\",\"result\":[\"'이건…'\\n\\n상자 안에서는 낡은 투구가 나왔다.\\n\\n'오옷?! 이것은 기사를 상징하는 투구 아니오?!'\\n\\n수감자 하나가 격렬하게 반응을 하며 투구를 매만진다.\\n나쁘지 않은 수확이었을지도 모르겠다.\\n그 투구를 챙기고(정확히는 투구를 챙기고 정신이 나가있는 수감자를 챙기고)\\n우리는 방을 떠났다.\"]},{\"message\":\"두번째 상자를 연다.\",\"messageDesc\":\"50% 확률로 진동을 강화하는 E.G.O GIFT 획득.\",\"result\":[\"'이건…'\\n\\n상자 안에는 낡은 망치가 있었다.\\n손잡이 부분에 갈라짐도 심한 것이, 본래의 용도로 사용할 수 있을지도 확실치가 않다.\\n\\n'이런걸 어디에 써먹으라는 거야!'\\n\\n수감자들은 저마다 다른 걸 골랐어야 했다며 탄식을 뱉어냈다.\\n하지만, 뭐라고 표현하기는 어렵지만.\\n망치에서 느껴지는 기운은 자신을 가지고 가라고 말하는 듯 하다.\\n\\n'뭐야, 그거 가져가려고?'\\n\\n수감자들은 쓰레기를 굳이 왜 챙기냐는 듯 말했지만,\\n나는 망치를 챙기고 방을 떠났다.\",\"'…없잖아?'\\n\\n상자 안에는 아무것도 없었다.\\n그저 먼지 몇 톨이 오래간만에 만난 바깥 공기에 신나 굴러다니고 있을 뿐.\\n\\n'그러니까 내가 저거 고르라고 했잖아~'\\n\\n'아니, 저것도 비었을 것이다.'\\n\\n수감자들이 볼멘소리를 내는 것을 애써 무시하며, 방을 떠났다.\"]},{\"message\":\"세번째 상자를 연다.\",\"messageDesc\":\"50% 확률로 출혈을 강화하는 E.G.O GIFT 획득.\",\"result\":[\"'이건…'\\n상자 안에는 낡은 못이 있었다.\\n못 한 뭉치가 있는 것도 아니고, 조금 크기가 큰 못이 하나 놓여있을 뿐이었다. 녹도 잔뜩 슬어있다.\\n'무슨 이딴…'\\n수감자들은 질색하며 하나 밖에 없는 열쇠를 이렇게 소모했다는 데에 불만을 토로했다.\\n'그렇다고 얻은 것을 버리기도 좀 아까우니까, 안 쓸 거면 나를 줘.'\\n하지만 그 중에 관심을 보이는 수감자도 있었기에, 그에게 못을 넘겨주고 방을 떠났다.\",\"'…없잖아?'\\n상자 안에는 아무것도 없었다. 그저 먼지 몇 톨이 오래간만에 만난 바깥 공기에 신나 굴러다니고 있을 뿐.\\n'그러니까 내가 저거 고르라고 했잖아~'\\n'아니, 저것도 비었을 것이다.'\\n수감자들이 볼멘소리를 내는 것을 애써 무시하며, 방을 떠났다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Open the first crate.\",\"messageDesc\":\"Gain an E.G.O Gift that boosts defense.\",\"result\":[\"“This is…”\\n\\nThe crate contained a worn helm.\\n\\n“Oho?! ‘Tis the proper equipment of a knight, is it not?!”\\n\\nOne Sinner excitedly rubs the helm clean.\\nNot a bad haul, all things considered.\\nWe carried the helm (and our Sinner infatuated by it) and left the room.\"]},{\"message\":\"Open the second crate.\",\"messageDesc\":\"50% chance to gain an E.G.O Gift that boosts Tremor attacks.\",\"result\":[\"“This is…”\\n\\nThe crate contained an old mallet.\\nThe cracks on its handle raised further questions about its usability.\\n\\n“This thing looks positively useless!”\\n\\nThe Sinners expressed disappointment over this seemingly regrettable choice.\\nBut, you feel as if the mallet is talking to you,\\ncompelling you to take it.\\n\\n“What, you’re gonna take that with you?”\\n\\nThough the Sinners saw it as junk,\\nit seemed good to bring the mallet along.\",\"“…Empty?”\\n\\nThere was nothing inside the crate.\\nAll that greeted us were tiny specks of dust and dirt stirred up by exposure to the outside air.\\n\\n“I told you we shoulda gone with that one~”\\n\\n“No, in all likelihood it would have been empty too.”\\n\\nYou walked out of the room, trying to ignore the Sinners’ complaints.\"]},{\"message\":\"Open the third crate.\",\"messageDesc\":\"50% chance to gain an E.G.O Gift that boosts Bleed attacks.\",\"result\":[\"“This is…”\\n\\nThe crate contained a browned nail.\\nNot a bundle of nails; just a slightly large one, covered in rust and dust.\\n\\n“The heck…”\\n\\nThe Sinners looked devastated by the fact that the key was wasted on this.\\n\\n“Can’t just throw away loot. If you aren’t gonna use it, then hand it over.”\\n\\nOne Sinner was showing interest in the item, so you gave it to them and went on your way.\",\"“…Empty?”\\n\\nThere was nothing inside the crate.\\nAll that greeted us were tiny specks of dust and dirt stirred up by exposure to the outside air.\\n\\n“I told you we shoulda gone with that one~”\\n\\n“No, in all likelihood it would have been empty too.”\\n\\nYou walked out of the room, trying to ignore the Sinners’ complaints.\"]}]\nJP :\n[{\"message\":\"一つ目の箱を開ける。\",\"messageDesc\":\"守備を強化するE.G.O GIFT獲得。\",\"result\":[\"「これは…。」\\n\\n箱の中からは、古い兜が出てきた。\\n\\n「おぉっ！？これは騎士を象徴する兜ではないか！？」\\n\\n囚人の一人が激しく反応し、兜を撫でつけている。\\n悪くない収穫だったかもしれない。\\nその兜を持って(正確に言うと、兜を手に入れたことによって半狂乱になっている囚人を持って)\\n私たちは部屋を出た。\"]},{\"message\":\"二つ目の箱を開ける。\",\"messageDesc\":\"50%の確率で振動を強化するE.G.O GIFTを獲得。\",\"result\":[\"「これは…。」\\n\\n箱の中には古びた金鎚があった。\\n持ち手のひび割れも激しく、本来の用途に使えるかも微妙だ。\\n\\n「こんなもん、どこに使えってんだよ！」\\n\\n囚人はたちは口々に別のを選ぶべきだったと言い、溜め息を吐いた。\\nでも、なんと言うべきかは難しいけど。\\n金鎚から感じられるオーラが、自分を持って行けと語りかけてるような気がする。\\n\\n「何だよ、それ持ってくのか？」\\n\\n囚人たちはどうしてゴミをわざわざ持って行くのかという口調だったが、\\n私は金鎚を持って部屋を出た。\",\"「…無い。」\\n\\n箱の中には何も無かった。\\nただ、ほこり数片が久しぶりに外の空気に触れられたことを喜びながら転がっているだけだ。\\n\\n「だから私があれ選べって言ったでしょ～。」\\n\\n「否、あれもきっと空であろう。」\\n\\n囚人たちが不満を漏らすのをなんとか無視し、部屋を出た.\"]},{\"message\":\"三つ目の箱を開ける。\",\"messageDesc\":\"50%の確率で出血を強化するE.G.O GIFTを獲得。\",\"result\":[\"「これは…。」\\n\\n箱の中には古びた釘があった。\\n釘が一束あるわけでもなく、ちょっと大きめの釘が一本置かれているだけだ。完全に錆び付いてもいる。\\n\\n「なんでこんな…。」\\n\\n囚人はたちは嫌そうな顔をしながら、一つしか無い鍵をこんな風に浪費したことに対する不満を吐露した。\\n\\n「だけど手に入れたものを捨てるのもなんか勿体ないから、使わないならちょうだい。」\\n\\nしかし、その中にも興味を示す囚人がいたので釘を渡し、部屋を出た。\",\"「…無い。」\\n\\n箱の中には何も無かった。\\nただ、ほこり数片が久しぶりに外の空気に触れられたことを喜びながら転がっているだけだ。\\n\\n「だから私があれ選べって言ったでしょ～。」\\n\\n「否、あれもきっと空であろう。」\\n\\n囚人たちが不満を漏らすのをなんとか無視し、部屋を出た.\"]}]"
+  },
+  {
+    "key": "10305-name",
+    "original": "심판하는 자를 심판하는 자",
+    "context": "EN :\nWho Judges the Judge\nJP :\n審判する者を審判する者"
+  },
+  {
+    "key": "10305-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10305-desc",
+    "original": "N사 심문관들은 고문이 한창이었다.\n\n'끄아아악!'\n\n변조된 목소리가 좁은 방을 메운다. 의체를 몸에 달은 인간들을 고문하고 있다.\n\n'…….'\n\n싱클레어는 입을 열진 않았지만, 공포와 분노가 서려있는 듯한 눈동자로 그들을 노려보고 있었다.\n가끔씩 쌕쌕거리며 불규칙하게 올라오는 숨소리와 떨리는 몸이, 당장이라도 그들을 향해 뛰쳐나갈 것만 같다.\n\n싱클레어를 막아야 할까?\n아니면…",
+    "context": "EN :\nThe N Corp. Inquisitors were busy torturing someone.\n\n“GIAAAAH!”\n\nA filtered scream fills the cramped room.\nTheir victims are people with prosthetic bodies.\n\n“……”\n\nSinclair didn’t utter a word, but his eyes full of wrath and fear were fixed on the torturers.\nHe breathed heavily at irregular intervals, his body shaking; he looks like he might charge forth at any second.\n\nDo you stop him?\nOr…\nJP :\nN社の審問官たちは、拷問の真っ盛りであった。\n\n「ぐぁあぁっ！」\n\n変調した声が狭い部屋を満たす。義体を体に付けた人間たちを拷問している。\n\n「……。」\n\nシンクレアは口を開かなかったが、恐怖と怒りをはらんでいるかのような目で彼らを睨んでいた。\n時折ゼーゼーと不規則に上がる息の音と震える身体が、今すぐにでも彼らへと飛びかかっていきそうだった。\n\nシンクレアを止めるべきだろうか？\nそれとも…。"
+  },
+  {
+    "key": "10305-options",
+    "original": "[{\"message\":\"고문이 끝나길 기다린다.\",\"messageDesc\":\"특정 인격의 정신력 감소\",\"result\":[\"저 장면은 끔찍하지만, 우리가 정의의 기사는 아니다.\\n한 번의 치기로 모든 수감자를 잃는건 현명한 관리자의 행동은 아닐 것이다.\\n그렇다면…\\n\\n'…알겠습니다.'\\n\\n싱클레어는 어깨에 손을 얹는 나를 억울하다는 듯 바라보다가, 이내 고개를 푹 숙이며 대답했다.\\n…잘한게 맞는걸까.\\n우선은 고문이 끝나기를 기다려봐야겠다.\"]},{\"message\":\"고문을 막는다.\",\"messageDesc\":\"분노 판정 진행 후 전투 발생. 싱클레어를 판정에 사용 시 어느 표지 획득. 판정 성공 시 모든 적이 약화됨.\",\"result\":[\"우리는 정의의 기사가 아니다.\\n하지만 그걸 떼어놓고 보더라도, 어차피 저들과 싸워야 다음으로 나아갈 수 있을 것이다.\\n\\n'…정말인가요?'\\n\\n싱클레어에게 차분히 작전을 설명하자, 그는 놀란 눈으로 나를 쳐다보았다.\\n\\n'당연히 막으실 줄 알았는데요…'\\n\\n불안한듯한 목소리로 말하지만, 싱클레어는 내심 기뻐보이는 모습이었다.\\n\\n'알겠습니다. 제가 해낼게요.'\\n\\n수감자들과 함께, 싱클레어는 심문관들이 있는 곳으로 빠르게 달려나갔다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Wait for the torture to end.\",\"messageDesc\":\"Certain Identities lose SP\",\"result\":[\"While the scene is horrible to behold, we are no valiant knights.\\nA wise manager wouldn’t risk losing all their Sinners over some juvenile impulse.\\nIn that case…\\n\\n“…Understood.”\\n\\nSinclair gave you a vexing glare as you placed a hand on his shoulder, but he soon hung his head low and assented.\\n\\n…Hopefully, this was the right call.\\nYou decided to watch and wait until the torture was over.\"]},{\"message\":\"Stop the torture.\",\"messageDesc\":\"Run a Wrath check, then begin a combat encounter. Use Sinclair for the check to gain ‘A Sign’. Pass to weaken all enemies.\",\"result\":[\"We may not be valiant knights.\\nYet, even casting morals aside, we will have to fight them to move on.\\n\\n“…Do you really mean it?”\\n\\nWhen you explain your plan to Sinclair, he looks back at you with surprise.\\n\\n“I thought you would stop me…”\\n\\nHe spoke anxiously, but he seemed nevertheless happy with the decision.\\n\\n“Got it. I’ll do it.”\\n\\nSinclair sprinted to where the Inquisitors were alongside the other Sinners.\"]}]\nJP :\n[{\"message\":\"拷問が終わるまで待つ。\",\"messageDesc\":\"特定人格の精神力が減少。\",\"result\":[\"あの光景は酷いが、私たちは正義の騎士ではない。\\n一度の衝動で囚人全員を失うのは賢明な管理人の行動ではないだろう。\\nそれなら…。\\n\\n「…分かりました。」\\n\\nシンクレアは肩に手をのせた私を悔しそうに見つめると、すぐに頭を下げて答えた。\\n…これで良いのだろうか。\\nまずは拷問が終わるまで待たなければ。\"]},{\"message\":\"拷問を止める。\",\"messageDesc\":\"憤怒判定進行後に戦闘発生。シンクレアを判定に使用時、とある印を獲得。判定成功時に全ての敵が弱体化。\",\"result\":[\"私たちは正義の騎士ではない。\\nしかしそれをさておいても、どの道あの者たちと戦わなければ次へ進めないだろう。\\n\\n「…本当ですか？」\\n\\nシンクレアにじっくり作戦を説明すると、彼は驚いた目で私を見てきた。\\n\\n「絶対に止められると思ったんですけど…。」\\n\\n不安そうな声だったが、シンクレアは内心嬉しそうに見えた。\\n\\n「分かりました。僕がやってみせます。」\\n\\n囚人たちと共に、シンクレアは審問官のいる場所へ素早く駆け寄った。\"]}]"
+  },
+  {
+    "key": "10306-name",
+    "original": "썩은 시체가 남긴 것은",
+    "context": "EN :\nA Rotting Corpse’s Memento\nJP :\n腐った死体が遺したものは"
+  },
+  {
+    "key": "10306-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10306-desc",
+    "original": "'큭, 무슨 냄새가…'\n\n수감자들이 저마다 코를 쥐고 얼굴을 찡그렸다.\n그들의 고개가 돌아가는 쪽을 바라보니, 구석에 쓰러져있는 심문관이 보인다.\n\n'죽었군…'\n\n시체가 썩는 냄새가 나는 모양이다.\n다들 그것에 다가가는 걸 꺼리는 그 때, 내게 무언가 반짝이는 것이 보였다.\n\n꿈틀거리는 갈기 틈새에 무언가 있는 것 같은데…\n어떻게 할까?",
+    "context": "EN :\n“Gehk, what’s this odor…”\n\nThe Sinners frowned at the olfactory assault.\nFollowing their eyes, you find an Inquisitor collapsed on the floor.\n\n“Definitely dead…”\n\nThe smell must be coming from the rotting corpse.\nWhile everyone was hesitant to approach, you see something sparkle.\n\nThere seems to be something amidst the writhing manes…\nWhat will you do?\nJP :\n「くっ、なんだこの臭い…。」\n\n囚人たちはそれぞれの鼻を摘まんで顔をしかめた。\n彼らの顔が向く方を見ると、隅で倒れている審問官が見えた。\n\n「死んでるな…。」\n\n死体から腐敗臭が漂っているようだ。\n皆それに近づくのを嫌がっていたそのとき、私は何かきらめくものを見た。\n\nうねるたてがみの隙間に何かがあるようだが…。\nどうするべきだろう？"
+  },
+  {
+    "key": "10306-options",
+    "original": "[{\"message\":\"쓰러진 심문관을 조사한다.\",\"messageDesc\":\"탐식 판정 진행. 판정 성공 시 에고 기프트 획득. 판정 실패 시 체력, 정신력 감소.\"},{\"message\":\"건드리지 않고 방을 떠난다.\",\"result\":[\"별건 아닐 것이다.\\n필요한 것이었다면, 도중에 돌아와서 얻어가도 될 것이다.\\n\\n불확실한 상태에서, 굳이 수감자들의 정신을 흔들어 놓고 싶지는 않다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Examine the dead Inquisitor.\",\"messageDesc\":\"Run a Gluttony check. Pass to gain an E.G.O Gift. Fail to lose HP and SP.\"},{\"message\":\"Leave without touching it.\",\"result\":[\"Surely it’s nothing.\\nIf we really need it, we can always recover it later.\\n\\nYou’d rather not damage the psyches of your Sinners for something so uncertain.\"]}]\nJP :\n[{\"message\":\"倒れた審問官を調査する。\",\"messageDesc\":\"暴食判定を進行。判定成功時、E.G.Oギフトを獲得。判定失敗時、体力と精神力が減少。\"},{\"message\":\"触らずに部屋を出る。\",\"result\":[\"大したものではないだろう。\\n必要なものであれば、後で戻って手に入れれば良いだろう。\\n\\n不確定要素が多い状態で、あえて囚人の精神を揺さぶるようなことはしたくない。\"]}]"
+  },
+  {
+    "key": "10307-name",
+    "original": "[살려. 주. 세요. 살. 려.]",
+    "context": "EN :\n[Hel. P. Me. He. Lp.]\nJP :\n[たす。ケ。てく。ダさ。た。す。]"
+  },
+  {
+    "key": "10307-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10307-desc",
+    "original": "닫힌 방 안에서 뚝뚝 끊어지는 기계 소리가 들려오고 있다.\n\n'살려달라는 것 같은데…'\n\n그 소리를 자세히 듣고 있자니, 뒤에서 누군가가 걸어오는 소리가 들린다.\n\n'철… 철이 부딪히는 소리예요…'\n\n싱클레어의 표정이 굳었다.\n아무래도 심문관이 오는 모양이다.\n어떻게 해야 할까?",
+    "context": "EN :\nYou hear snappy mechanical noises through the closed door.\n\n“Sounds like a cry for help…”\n\nAs you focus your attention, you begin to hear footsteps.\n\n“Steel… Those are clangs of steel…”\n\nSinclair froze.\nIt looks like an Inquisitor is coming for them.\nWhat will you do?\nJP :\n閉ざされた部屋の中からプツプツ途切れる機械の音が聞こえてくる。\n\n「助けてほしいみたいだけど…。」\n\nその音をよく聞いていると、後ろから誰かが歩いてくる音が聞こえる。\n\n「鉄…鉄のぶつかる音です…。」\n\nシンクレアの表情が固まった。\nどうやら審問官が来るようだ。\nどうすればいいだろうか？"
+  },
+  {
+    "key": "10307-options",
+    "original": "[{\"message\":\"의체 인간을 풀어준다.\",\"messageDesc\":\"싱클레어의 정신력 회복. 전투 발생. 승리 시 E.G.O GIFT 획득.\",\"result\":[\"'…역시, 믿고 있었어요.'\\n\\n싱클레어는 나의 대답을 들은 즉시 뛰어 들어갔다.\\n예상대로 의체 인간들이 밧줄 따위로 묶여있었다.\\n\\n'빨리 도망가세요!'\\n\\n싱클레어가 밧줄을 끊자마자, 그들은 뒤도 돌아보지 않고 황급하게 방을 빠져나갔다.\\n\\n'큭… 이단이다!'\\n\\n조금 늦은 모양인지, 심문관들이 방 안으로 들어오며 외쳤다.\\n전투를 피할 수는 없을 것 같다.\",\"'…역시, 믿고 있었어요.'\\n\\n싱클레어는 나의 대답을 들은 즉시 뛰어 들어갔다.\\n예상대로 의체 인간들이 밧줄 따위로 묶여있었다.\\n\\n'빨리 도망가세요!'\\n\\n싱클레어가 밧줄을 끊자마자, 그들은 뒤도 돌아보지 않고 황급하게 방을 빠져나갔다.\\n\\n'고맙다는 말도 없네, 개 같은 것들.'\\n\\n몇 수감자들은 괜히 욕지거리를 뱉었지만,\\n싱클레어는 아무렇지 않다는 듯 만족스러운 얼굴이었다.\\n\\n어수선해진 분위기를 추스리고, 우리는 방을 떠났다.\"]},{\"message\":\"의체 인간을 내버려두고 지나간다.\",\"messageDesc\":\"싱클레어의 정신력 감소.\",\"result\":[\"'아, 아니… 어떻게…'\\n\\n대답을 들은 싱클레어는 충격에 빠진 모양이었다.\\n하지만, 저들을 구하다가 수감자들을 잃으면 이후 전투에 치명적일 것이 자명하다.\\n\\n[사, 살. 살려. 살. 살…]\\n\\n이어지는 기계 비명 소리를 뒤로 하며, 우리는 황급히 떠났다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Free the prosthetic.\",\"messageDesc\":\"Sinclair heals SP. Begin a combat encounter. Win to gain an E.G.O Gift.\",\"result\":[\"“…I knew I could count on you.”\\n\\nSinclair jumped in as soon as you told him what to do.\\nAs you expected, a number of prosthetic people were bound by ropes.\\n\\n“Get out of here, quickly!”\\n\\nAs soon as he untied them, they hurriedly ran out of the room.\\n\\n“Tch… The heretics!”\\n\\nWe were a little late to leave; the Inquisitors shouted as they entered the room.\\nIt seems conflict is unavoidable.\",\"“…I knew I could count on you.”\\n\\nSinclair jumped in as soon as you told him what to do.\\nAs you expected, a number of prosthetic people were bound by ropes.\\n\\n“Get out of here, quickly!”\\n\\nAs soon as he untied them, they hurriedly ran out of the room.\\n\\n“Bastards, not even a simple thank you.”\\n\\nSome of the Sinners complained,\\nbut Sinclair looked satisfied with the deed.\\n\\nCalming them down, we left the room.\"]},{\"message\":\"Leave the prosthetic.\",\"messageDesc\":\"Sinclair loses SP.\",\"result\":[\"“N—No… How could…”\\n\\nSinclair seems to be shocked by your answer.\\nAs unfortunate as this is, losing manpower while trying to save those people would be a fatal detriment for the coming engagements.\\n\\n[H. He. Help. H. Hel…]\\n\\nWe left in a hurry, leaving behind their plaintive cries.\"]}]\nJP :\n[{\"message\":\"義体人間を解放する。\",\"messageDesc\":\"シンクレアの精神力が回復。戦闘発生。勝利時E.G.O GIFT獲得。\",\"result\":[\"「…はい、信じてました。」\\n\\nシンクレアは私の答えを聞くとすぐに飛んでいった。\\n予想通り、義体人間が縄などで縛られていた。\\n\\n「早く逃げてください！」\\n\\nシンクレアがロープを切るやいなや、彼らは振り向きもせずに急いで部屋を出た。\\n\\n「くっ…異端なり！」\\n\\n少し遅れたのか、審問官たちが部屋に入ってきて叫んだ。\\n戦闘は避けられそうにない。\",\"「…はい、信じてました。」\\n\\nシンクレアは私の答えを聞くとすぐに飛んでいった。\\n予想通り、義体人間が縄などで縛られていた。\\n\\n「早く逃げてください！」\\n\\nシンクレアがロープを切るやいなや、彼らは振り向きもせずに急いで部屋を出た。\\n\\n「ありがとうも言えないのか、クソが。」\\n\\n何人かの囚人はわけもなく悪口を吐いたが、\\nシンクレアはどうってこと無いような満足げな顔をしていた。\\n\\n騒がしくなった彼らを落ち着かせ、私たちは部屋を出た。\"]},{\"message\":\"義体人間を見捨てて過ぎ去る。\",\"messageDesc\":\"シンクレアの精神力が減少。\",\"result\":[\"「え、いや…なんで…。」\\n\\n返事を聞いたシンクレアはショックを受けたようだった。\\nしかし、彼らを救おうとして囚人を失うと、その後の戦闘に大きな支障をきたすことは明らかだった。\\n\\n[た、タす。たすけ。たす。たす…。]\\n\\n鳴り止まない機械の悲鳴を背に、私たちは急いで立ち去った。\"]}]"
+  },
+  {
+    "key": "10308-name",
+    "original": "짓무름의 의식",
+    "context": "EN :\nRite of Suppuration\nJP :\n爛れの儀式"
+  },
+  {
+    "key": "10308-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10308-desc",
+    "original": "길은 빨갛게 달궈져 있었다.\n\n'윽, 신발이 녹겠는데!'\n\n수감자들이 근처까지 조심스레 가보았지만, 너무나 뜨거웠는지 금방 다시 돌아왔다.\n길 앞 쪽에 박혀있는 팻말에는 문구가 적혀 있었다.\n\n'나약함과 짓무름으로 인간성을 증명하라.\n그을린 발자국으로 길을 만들어라.'\n\n그 말이 무얼 뜻하는지는, 그다지 오래 고민하지 않아도 알 수 있었다.\n…어떻게 해야하지?",
+    "context": "EN :\nThe passage was red-hot.\n\n“Yeesh, that’d melt my shoes.”\n\nThe Sinners carefully approached the road, only to retreat from the overwhelming heat.\nSomething was written on the sign in front of the passage:\n\nProve your humanity \nAnd through weakness and suppuration\nSear a path with mobilization\n\nIt took no time at all to figure out what that meant.\n…What will you do?\nJP :\n道は赤く熱されていた。\n\n「うっ、靴が溶けちゃいそう！」\n\n囚人たちは注意深く近寄ったが、熱すぎたのかすぐに戻ってきた。\n道の前方に刺さっている立て札にはこう書かれていた。\n\n「惰弱さと爛れで人間性を証明せよ。\n灼かれた足跡で道を作れ。」\n\nその言葉が何を意味しているかは、あまり考えずとも分かった。\n…どうするべきだろうか？"
+  },
+  {
+    "key": "10308-options",
+    "original": "[{\"message\":\"N사의 인장을 보인다.\",\"messageDesc\":\"E.G.O GIFT N사의 인장이 있는 경우에만 선택 가능.\",\"result\":[\"'이미 증명한 경우에는 문제가 없지 않을까요?'\\n\\n수감자 하나가 그런 이야기를 꺼냈다.\\n그러고 보니, 우리는 증명한 자의 물건을 갖고 있었다.\\n\\n'아… N사의 인장!'\\n\\n팻말에 인장을 대어보았더니, 순식간에 빨갛게 달궈졌던 길이 식어버렸다.\\n무사히 건널 수 있었다.\"]},{\"message\":\"달궈진 길을 건넌다.\",\"messageDesc\":\"분노 판정 진행. 판정 성공 시 E.G.O GIFT 획득. 판정 실패 시 3웨이브 전투 발생.\"},{\"message\":\"다른 길을 찾아본다.\",\"messageDesc\":\"50% 확률로 3웨이브 전투 발생.\",\"result\":[\"뜨겁게 달궈진 길을 고통스러워해가며 건너게 하는 건 위험한 일인 것 같다.\\n물론, 지나갔다고 해서 이 길이 건너기 쉬워진다는 보장도 없고.\\n심문관들을 잘 피해서 넘어가면, 다른 길로도 무리없이 지나갈 수 있을지도 모른다.\\n\\n아쉽게도, 지나다니는 심문관들의 눈에 띄어버렸다.\",\"뜨겁게 달궈진 길을 고통스러워해가며 건너게 하는 건 위험한 일인 것 같다.\\n물론, 지나갔다고 해서 이 길이 건너기 쉬워진다는 보장도 없고.\\n심문관들을 잘 피해서 넘어가면, 다른 길로도 무리없이 지나갈 수 있을지도 모른다.\\n\\n다행히, 지나다니는 심문관들을 피해 무사히 통과할 수 있었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Present the N Corp. Seal.\",\"messageDesc\":\"Only available if the E.G.O Gift [N Corp. Seal] is in possession.\",\"result\":[\"“We’ve proved ourselves already, haven’t we?”\\n\\nA Sinner suggested.\\nIt reminded you that you bore proof.\\n\\n“Right… The seal!”\\n\\nTagging the seal on the sign caused the passage to cool in an instant.\\nWe were able to tread without a problem.\"]},{\"message\":\"Tread the heated path.\",\"messageDesc\":\"Run a Wrath check. Pass to gain an E.G.O Gift. Failing begins a 3-wave combat encounter.\"},{\"message\":\"Look for another way.\",\"messageDesc\":\"50% chance for a 3-wave combat encounter.\",\"result\":[\"It seems too dangerous to make any Sinner cross this searing passage.\\n\\nNot to mention that you don’t know if there’s anything to make the trip easier for the rest, even if someone managed to cross it.\\nYou figure you might be able to take another route as long as you’re careful not to get spotted.\\n\\nUnfortunately, a group of patrolling Inquisitors noticed you.\",\"It seems too dangerous to make any Sinner cross this searing passage.\\n\\nNot to mention that you don’t know if there’s anything to make the trip easier for the rest, even if someone managed to cross it.\\nYou figure you might be able to take another route as long as you’re careful not to get spotted.\\n\\nFortunately, you managed to get through without being noticed.\"]}]\nJP :\n[{\"message\":\"N社の印章を見せる。\",\"messageDesc\":\"E.G.O GIFTのN社の印章がある場合にのみ選択可能。\",\"result\":[\"「既に証明してるなら問題無いんじゃないですか？」\\n\\n囚人の一人がそう言った。\\nそういえば、私たちは証明した者の物品を持っていた。\\n\\n「あっ…N社の印章！」\\n\\n立て札に印章を当ててみると、あっという間に赤く熱されていた道が冷めていった。\\n無事に渡ることができた。\"]},{\"message\":\"熱された道を渡る。\",\"messageDesc\":\"憤怒判定を進行。判定成功時、E.G.O GIFTを獲得。判定失敗時、3ウェーブの戦闘が発生。\"},{\"message\":\"他の道を探す。\",\"messageDesc\":\"50%の確率で3ウェーブの戦闘が発生。\",\"result\":[\"熱された道を苦しみながら渡るのは危ないだろう。\\nもちろん、通ったからといってこの道が渡りやすくなるという保証も無いし。\\n審問官を上手いこと避けて通れば、他の道でも無理なく通れるかもしれない。\\n\\n残念ながら、巡回中の尋問官たちの目に留まってしまった。\",\"熱された道を苦しみながら渡るのは危ないだろう。\\nもちろん、通ったからといってこの道が渡りやすくなるという保証も無いし。\\n審問官を上手いこと避けて通れば、他の道でも無理なく通れるかもしれない。\\n\\n幸いなことに、巡回中の尋問官たちを避けて無事通過することが出来た。\"]}]"
+  },
+  {
+    "key": "10309-name",
+    "original": "광적인 믿음을 담은 것",
+    "context": "EN :\nA Vessel of Zeal\nJP :\n狂的な信心の込められたもの"
+  },
+  {
+    "key": "10309-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10309-desc",
+    "original": "못과 망치가 장식된 단상이 보인다.\n\n'N사와 관련이 있겠군.'\n\n수감자가 그렇게 읊조렸다. 나 또한 그렇게 생각한다.\nN사와 관련한 정보를 더 얻는 것이 좋을까? 아니면…",
+    "context": "EN :\nYou see a pedestal adorned with the engravings of a nail and hammer.\n\n“Must have something to do with N Corp.”\n\nA Sinner mutters, and you agree.\nShould you try to get some info on N Corp? Or…\nJP :\n釘と金鎚で飾られた講壇が見える。\n\n「N社と関係がありそうだ。」\n\n囚人がそう呟いた。私もそう思う。\nN社に関する情報をもっと得た方が良いだろうか？それとも…。"
+  },
+  {
+    "key": "10309-options",
+    "original": "[{\"message\":\"가까이 가서 책을 확인해본다.\",\"messageDesc\":\"E.G.O GIFT 획득\",\"result\":[\"교단 위에는 N사 심문관들이 들고 다니는 책이 있었다.\\n직접 읽어볼 기회가 없었기에, 몇 장을 들춰보았지만…\\n\\n'으윽…'\\n\\n알 수 없는 내용에 머리만 더 아파질 뿐이었다.\\n우선 챙겨놓고, 다음에 읽는 것을 기약해야겠다.\"]},{\"message\":\"소리를 피해 방을 떠난다.\",\"result\":[\"이미 정보는 충분하다.\\n굳이 수상쩍은 곳을 방문하지는 않는게 좋을 것 같다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Examine the book on the pedestal.\",\"messageDesc\":\"Gain an E.G.O Gift\",\"result\":[\"Upon the pedestal was a tome N Corp. Inquisitors were often seen carrying.\\nYou take this chance to peek at a few pages of it…\\n\\n“Ugh…”\\n\\nThe indecipherable content only gave you a headache.\\nYou decide to hold onto it for now and read it later.\"]},{\"message\":\"Stay away from the noise and leave.\",\"result\":[\"We know enough already.\\nIt’s not worth snooping around suspicious areas.\"]}]\nJP :\n[{\"message\":\"近寄って本を調べる。\",\"messageDesc\":\"E.G.O GIFT獲得\",\"result\":[\"講壇の上にはN社の審問官たちが持ち歩いている本があった。\\n読む機会がなかったので、何枚かページをめくってみたが…。\\n\\n「うぅっ…。」\\n\\nわけの分からない内容に頭が痛くなるばかりだった。\\nとりあえず持っていくことにして、後で読むことにしよう。\"]},{\"message\":\"音を避けて部屋から出る。\",\"result\":[\"既に情報は十分だ。\\nあえて怪しい場所に入る必要は無いと思う。\"]}]"
+  },
+  {
+    "key": "10310-name",
+    "original": "직면의 의식",
+    "context": "EN :\nRite of Confrontation\nJP :\n直面の儀式"
+  },
+  {
+    "key": "10310-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10310-desc",
+    "original": "굳게 닫힌 문 위에 이런 문구가 적혀있다.\n\n'두려움과 공포에 직면하여, 감정을 증명하라.'\n\n'눈물로 그릇을 모두 채워라.'\n\n주변을 둘러보니 불쾌한 모양의 의자와, 눈물을 채워야 하는 듯한 그릇이 함께 놓여져 있었다.\n어떻게 해야 할까?",
+    "context": "EN :\nAn inscription above the closed gate reads:\n\nProve your terror and fears\nFill this vessel with tears\n\nLooking around, you find the supposed vessel next to an unpleasant-looking chair.\nWhat will you do?\nJP :\n固く閉ざされた扉の上にはこう書かれている。\n\n「畏れと恐怖に直面し、感情を証明せよ。」\n\n「涙で器を満たせ。」\n\n周囲を見回すと不気味な形をした椅子と、涙で満たすべきであろう器が一緒に置かれていた。\n\nどうするべきだろうか？"
+  },
+  {
+    "key": "10310-options",
+    "original": "[{\"message\":\"의식을 치룬다.\",\"messageDesc\":\"우울 판정 진행. 선택한 인격 정신력 감소. 판정 성공 시 E.G.O GIFT 획득\"},{\"message\":\"방을 떠난다.\",\"result\":[\"의식이 도대체 어떤 형태로 이루어지는지 갈피도 안잡히는 상태에서, 무리한 시도를 하는 건 위험하다.\\n우리는 방을 떠났다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Perform the rite.\",\"messageDesc\":\"Run a Gloom check. Selected Identity loses SP. Pass to gain an E.G.O Gift.\"},{\"message\":\"Leave the room.\",\"result\":[\"It’s too dangerous to attempt a rite when you aren’t even sure of how it works.\\nWe left the room.\"]}]\nJP :\n[{\"message\":\"儀式を行う。\",\"messageDesc\":\"憂鬱判定が進行。選択した人格の精神力が減少。判定成功時、E.G.O GIFT獲得\"},{\"message\":\"部屋を離れる。\",\"result\":[\"儀式が一体どのように行われるのか見当もつかない状態で、無理な試みをするのは危険だ。\\n私たちは部屋を出た。\"]}]"
+  },
+  {
+    "key": "10311-name",
+    "original": "사람의 파편이 들어있는 관",
+    "context": "EN :\nExhibit of Human Parts\nJP :\n人間の破片の入った棺"
+  },
+  {
+    "key": "10311-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10311-desc",
+    "original": "중앙 구역 한 켠에서 유리관을 발견했다.\n그 유리관의 안에는, 분명히 말라 붙었지만 아직도 생동감 있게 움직이고 있는 생명체의 일부분 들이 둥둥 떠다니고 있었다.\n\n'비극적인 전시로군…'\n\n관은 쉽게 열 수 있게 되어있었다. 원한다면, 하나 쯤 가져갈 수도 있을 것 같다.\n이번엔 어떻게 할까?",
+    "context": "EN :\nYou find a row of glass containers in a corner of the main area.\nInside them are dried organs and pieces of life showing active movement.\n\n“A tragic display…”\n\nThe containers can be opened easily. You could take one of the pieces if you want to.\nWhat will you do?\nJP :\n中央区域の片隅でガラスの棺を発見した。\nそのガラス棺の中には、明らかに干からびてはいるが、未だに生き生きと動いている生命体の一部が沢山浮かんでいた。\n\n「悲劇的な展示なり…。」\n\n棺は開けやすい構造になっていた。欲しいなら、一つくらい持っていけそうだ。\n今度はどうしようか？"
+  },
+  {
+    "key": "10311-options",
+    "original": "[{\"message\":\"빛나는 두개골을 챙긴다.\",\"messageDesc\":\"체력이 낮을 때 회복 효과를 주는 E.G.O GIFT 획득\",\"result\":[\"빛나는 두개골을 챙겼다.\\n은은하게 빛이 나는 데다가, 왠지 모를 따스함까지 느껴져서 기분이 묘하다.\\n\\n다른 관은 열리지 않는다. 하나만 가져갈 수 있는 모양이다.\\n우리는 두개골을 챙기고, 관 앞을 떠나갔다.\"]},{\"message\":\"피를 흘리는 손을 챙긴다.\",\"messageDesc\":\"체력이 낮을 때 강화 효과를 주는 E.G.O GIFT 획득\",\"result\":[\"피를 흘리는 손가락이 눈에 띄었다.\\n관을 열어 그걸 쥐니, 절단면에서 계속해서 피가 뚝뚝 떨어지고 있었다.\\n고통스러운지 계속해서 움찔거리는 손가락을 챙겼다.\\n\\n다른 관은 열리지 않는다. 하나만 가져갈 수 있는 모양이다.\\n우리는 손가락을 챙기고, 관 앞을 떠나갔다.\"]},{\"message\":\"꿈틀거리는 혓바닥을 챙긴다.\",\"messageDesc\":\"합 승리 시 효과를 주는 E.G.O GIFT 획득\",\"result\":[\"꿈틀거리는 혓바닥이 시선을 계속 자극한다.\\n관을 열어 그걸 잡아보니, 손바닥 안에서 자꾸 찰딱거리며 움직인다.\\n\\n자꾸 이 혓바닥이 조롱하는 듯한 기분이 들어, 다른 걸 고르려고 했지만…\\n다른 관은 열리지 않는다. 하나만 가져갈 수 있는 모양이다.\\n우리는 혓바닥을 챙기고, 관 앞을 떠나갔다.\"]},{\"message\":\"아무 것도 가져가지 않는다.\",\"result\":[\"아무것도 챙기지 않기로 했다.\\n기분 나쁜 신체기관을 굳이 건드리지 않는게 좋을 것 같다.\\n우리는 관 앞을 떠나갔다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Take the glowing skull.\",\"messageDesc\":\"Gain an E.G.O Gift that provides healing at low health.\",\"result\":[\"You took the glowing skull.\\nIt radiates gently, and you feel a strange warmth from it.\\n\\nThe other containers won’t open. It seems that you can take only one.\\nYou took your leave with the item you chose.\"]},{\"message\":\"Take the bleeding hand.\",\"messageDesc\":\"Gain an E.G.O Gift that provides power-ups at low health.\",\"result\":[\"The bloody fingers caught your attention.\\nWhen you open the container to hold it, you notice that blood continues to drip from the section.\\nYou pick it up by a perpetually flinching digit.\\n\\nThe other containers won’t open. It seems that you can take only one.\\nYou took your leave with the item you chose.\"]},{\"message\":\"Take the wriggling tongue.\",\"messageDesc\":\"Gain an E.G.O Gift that provides benefits after winning a Clash.\",\"result\":[\"The slithering tongue attracts your eyes.\\nWhen you open the container and grab it, it flaps in your palm.\\n\\nYou feel as though the tongue is mocking you, so you try to pick another one, but…\\n\\nThe other containers won’t open. It seems that you can take only one.\\nYou have to take your leave with the item you chose.\"]},{\"message\":\"Don’t take anything.\",\"result\":[\"You decide not to take anything.\\n\\nYou’d rather not bother with touching creepy organs.\\nLike that, we left the place.\"]}]\nJP :\n[{\"message\":\"光る頭蓋骨を持って行く。\",\"messageDesc\":\"体力が低いときに回復効果を与えるE.G.O GIFTを獲得\",\"result\":[\"光る頭蓋骨を取り出した。\\n仄かに光る上、なんだか温かい気がしたので妙な気分になった。\\n\\n他の棺は開かない。持っていけるのは一つだけのようだ。\\n私たちは頭蓋骨を持って、棺の前を過ぎ去っていった。\"]},{\"message\":\"血を流す手を持って行く。\",\"messageDesc\":\"体力が低いときに強化効果を与えるE.G.O GIFTを獲得\",\"result\":[\"血を流す指が目に留まった。\\n棺を開けてそれを握ると、切断面から血がポタポタと流れ落ち続けた。\\n痛みを感じているのか、ビクビクと動き続ける指を持ち出した。\\n\\n他の棺は開かない。持っていけるのは一つだけのようだ。\\n私たちは指を持って、棺の前を過ぎ去っていった。\"]},{\"message\":\"蠢く舌を持っていく。\",\"messageDesc\":\"マッチ勝利時に効果を与えるE.G.O GIFTを獲得\",\"result\":[\"蠢く舌が、視線を刺激し続ける。\\n棺を開けてそれを掴むと、手のひらの中でぺちゃぺちゃしながら動き続ける。\\n\\nなんだかこの舌がしきりにあざ笑ってくるような気がして、他のを選ぼうとしたけど…。\\n他の棺は開かない。持っていけるのは一つだけのようだ。\\n私たちは指を持って、棺の前を過ぎ去っていった。\"]},{\"message\":\"何も持って行かない。\",\"result\":[\"何も持って行かないコトン強いた。\\n気持ち悪い臓器にあえて触る理由はない。\\n私たちは棺の前を過ぎ去っていった。\"]}]"
+  },
+  {
+    "key": "10312-name",
+    "original": "참회의 의식",
+    "context": "EN :\nRite of Penance\nJP :\n懺悔の儀式"
+  },
+  {
+    "key": "10312-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10312-desc",
+    "original": "거대한 문 위에 이런 문구가 적혀 있었다.\n\n'가시로 몸을 찔러 고통으로 스스로를 참회하라.'\n\n이번에는 몸을 찌르라는 걸까.\n어떻게 해야 할까.",
+    "context": "EN :\nA passage is written above the large gate:\n\nOnly those who repent may find motion\nThorn yourself, atone through flagellation\n\nIt looks like it wants us to impale ourselves on spikes.\nWhat will you do?\nJP :\n巨大な扉の上にはこう書かれている。\n\n「棘で身体を刺し、苦痛で自らを懺悔せよ。」\n\n今度は身体を刺せということか。\nどうするべきだろうか。"
+  },
+  {
+    "key": "10312-options",
+    "original": "[{\"message\":\"의식을 치룬다.\",\"messageDesc\":\"분노 판정 진행. 선택한 인격 체력 감소. 판정 성공 시 E.G.O GIFT 획득\"},{\"message\":\"방을 떠난다\",\"result\":[\"역시, 무리한 시도를 하는 건 위험하다.\\n굳이 가시 속으로 뛰어들라는 무의미한 명령을 내리고 싶지도 않다.\\n\\n우리는 방을 떠났다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Perform the rite.\",\"messageDesc\":\"Run a Wrath check. Selected Identity loses HP. Pass to gain an E.G.O Gift.\"},{\"message\":\"Leave the room.\",\"result\":[\"There’s simply too much risk involved.\\nYou don’t see a point in giving the order to fling someone onto the spikes.\\n\\nWe left the room.\"]}]\nJP :\n[{\"message\":\"儀式を行う。\",\"messageDesc\":\"憤怒判定が進行。選択した人格の体力が減少。判定成功時、E.G.O GIFT獲得\"},{\"message\":\"部屋を離れる。\",\"result\":[\"やっぱり、無理な試みをするのは危険だ。\\nわざわざ棘の中へ飛び込めという無意味な命令を出したくもない。\\n\\n私たちは部屋を出た。\"]}]"
+  },
+  {
+    "key": "10314-name",
+    "original": "최종 의식",
+    "context": "EN :\nRite of Conclusion\nJP :\n最終儀式"
+  },
+  {
+    "key": "10314-subDesc",
+    "original": "subDesc가 뭘까?",
+    "context": "EN :\nsubDesc가 뭘까?\nJP :\nsubDesc가 뭘까?"
+  },
+  {
+    "key": "10314-desc",
+    "original": "기이한 외형을 한 N사의 심문관들이 문 앞을 지키고 있었다.\n공격하려 했지만, 그들에게는 일체의 전의가 없는 것 같았다.\n\n'이. 곳은. 특별… 한. 이들만 들어, 갈, 수 있는 곳이다.'\n\n'지나… 가려면. 자격, 을. 보여라.'\n\n자격을 보이라는 것이 무슨 뜻인지 좀 처럼 떠오르지 않는다.\n어떻게 하는 것이 좋을까?",
+    "context": "EN :\nHideously transformed N Corp. Inquisitors stood guard at the gate.\nYou moved to attack, but they don’t appear to be hostile in any capacity.\n\n“Only. Exceptional… ones. Are allowed. In, this place.”\n\n“To… pass. You, will. Prove yourself. Worthy.”\n\nYou aren’t exactly sure what they mean by “proving yourself”.\nWhat should you do?\nJP :\n奇妙な外見のN社の審問官たちが扉を守っていた。\n攻撃しようとしたが、彼らには一切の戦意がないように見えた。\n\n「こ。こは。特別…。な。者達のみ入れ、る、場所だ。」\n\n「通って…行くには。 資格、を。見せよ。」\n\n資格を見せろというのが、どういう意味なのか全く思い浮かばない。\nどうすれば良いだろうか？"
+  },
+  {
+    "key": "10314-options",
+    "original": "[{\"message\":\"의식에 통과한 증표를 보여준다.\",\"messageDesc\":\"E.G.O GIFT 순수함의 증표, 눈물의 증표, 속죄의 증표가 전부 있는 경우에만 선택 가능.\",\"result\":[\"그동안 얻었던 인장들이 떠올랐다.\\n인장을 얻기 위해 했던 것들이 ‘시험’이라면, 인장은 그 ‘자격’을 의미할 것이 틀림 없다.\\n\\n'…지나가도, 좋다.'\\n\\n심문관은 기이한 울부짖음으로 말하며, 문을 열어주었다.\\n\\n'이것을, 가져. 가… 라.'\\n\\n무언가 쥐여주는 것을 받아들고, 우리는 문 안으로 건너갔다.\"]},{\"message\":\"화술로 승부한다.\",\"messageDesc\":\"색욕 판정 진행. 판정 성공 시 통과. 판정 실패 시 어려운 전투 발생\"},{\"message\":\"무력으로 해결한다.\",\"messageDesc\":\"어느 표지 획득. 어려운 전투 발생.\",\"result\":[\"가장 원만한 해결책은 역시 무력인가.\\n\\n'…이, 단.'\\n\\n부들거리는 아래턱 에서 흘러나오는 저 소리는 분명 적개심일테다.\\n\\n'저도 돕겠습니다… 관리자 님.'\\n\\n싱클레어는 무기를 쥐고 조용한 의지를 눈동자에 담았다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Present proof of passing the rites.\",\"messageDesc\":\"Only available if the E.G.O Gift [N Corp. Seal] or all three Tokens of Innocence, Tears, and Atonement are in possession.\",\"result\":[\"You remembered what you’ve been collecting.\\nIf the things your group went through were tests, then what you received must be the proof of your “worth”.\\n\\n“…You may, pass.”\\n\\nThe Inquisitors opened the gate, wailing in bizarre voices.\\n\\n“Take, this. With… you.”\\n\\nReceiving the item, we walked through the door.\"]},{\"message\":\"Use words.\",\"messageDesc\":\"Run a Lust check. Pass to proceed. Fail to begin a difficult combat encounter.\"},{\"message\":\"Use violence.\",\"messageDesc\":\"Gain ‘A Sign’. Begin a difficult combat encounter.\",\"result\":[\"It seems violence will be our most straightforward solution.\\n\\n“…Here-tic.”\\n\\nThe voice spilling out of that shaking jaw must be one of pure hostility.\\n\\n“Allow me to help… Manager.”\\n\\nSinclair tightened the grip on his weapon, determination burning quietly in his eyes.\"]}]\nJP :\n[{\"message\":\"儀式に通過した証を見せる。\",\"messageDesc\":\"E.G.O GIFT N社の印章、または純粋さの証、涙の証、贖罪の証がある場合にのみ選択可能。\",\"result\":[\"今まで手に入れた印章が頭に思い浮かんだ。\\n印象を得るために行ってきたことが「試験」であるなら、印章はその「資格」を意味するに違いない。\\n\\n「…通っても、良い。」\\n\\n審問官が泣き叫ぶような奇妙な声で喋り、扉を開けてくれた。\\n\\n「これを、持って。行…け。」\\n\\n渡してくれたものを受け取り、私たちは扉の中へ進んだ。\"]},{\"message\":\"話術で勝負する。\",\"messageDesc\":\"色欲判定を進行。判定成功時に通過。判定失敗時、高難易度の戦闘が発生。\"},{\"message\":\"暴力で解決する。\",\"messageDesc\":\"とある印を獲得。高難易度の戦闘が発生。\",\"result\":[\"最も円満な解決方法は、やはり暴力だろうか。\\n\\n「…異、端。」\\n\\n震える下顎から流れ出るあの声色は、きっと敵意が剥き出しになっているだろう。\\n\\n「僕も手伝います…管理人さん。」\\n\\nシンクレアは武器を握り、静かな意志を瞳に宿らせた。\"]}]"
+  },
+  {
+    "key": "103001-name",
+    "original": "이단 심문",
+    "context": "EN :\nInquisition\nJP :\n異端審問"
+  },
+  {
+    "key": "103001-subDesc",
+    "original": "사용 안하는 선택지",
+    "context": "EN :\n사용 안하는 선택지\nJP :\n사용 안하는 선택지"
+  },
+  {
+    "key": "103001-desc",
+    "original": "N사 심문관과 마주쳤다.\n심문관이 공격을 하지 않고 돌연 의체를 혐오하냐고 묻는다.\n어떻게 해야할까?",
+    "context": "EN :\nYou met an N Corp. Inquisitor.\n\nInstead of attacking, they ask us if we loathe prosthetics.\nWhat should you say?\nJP :\nN사 심문관과 마주쳤다.\n심문관이 공격을 하지 않고 돌연 의체를 혐오하냐고 묻는다.\n어떻게 해야할까?"
+  },
+  {
+    "key": "103001-options",
+    "original": "[{\"message\":\"심문관의 말에 동조한다.\",\"result\":[\"심문관의 말에 동조했다.\\n심문관이 웃으며 떠나갔다.\"]},{\"message\":\"심문관의 말에 부정한다.\",\"result\":[\"심문관의 말을 부정했다.\\n싱클레어가 조용히 고개를 끄덕였다.\\n심문관이 분노하며 부하들을 불러 모았다.\"]},{\"message\":\"침묵한다.\",\"result\":[\"심문관을 바라보며 침묵했다.\\n심문관이 이내 흥미를 잃은 듯 자리를 떠났다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Agree with the Inquisitor.\",\"result\":[\"You agreed with the Inquisitor.\\nThey laughed and walked away.\"]},{\"message\":\"Refuse the Inquisitor’s claim.\",\"result\":[\"You disagreed with the Inquisitor.\\nSinclair quietly nodded to you.\\nThe angered Inquisitor called their subordinates.\"]},{\"message\":\"Keep quiet.\",\"result\":[\"You gave the Inquisitor a silent glare.\\nThey lost interest in you and walked away.\"]}]\nJP :\n[{\"message\":\"심문관의 말에 동조한다.\",\"result\":[\"심문관의 말에 동조했다.\\n심문관이 웃으며 떠나갔다.\"]},{\"message\":\"심문관의 말에 부정한다.\",\"result\":[\"심문관의 말을 부정했다.\\n싱클레어가 조용히 고개를 끄덕였다.\\n심문관이 분노하며 부하들을 불러 모았다.\"]},{\"message\":\"침묵한다.\",\"result\":[\"심문관을 바라보며 침묵했다.\\n심문관이 이내 흥미를 잃은 듯 자리를 떠났다.\"]}]"
+  },
+  {
+    "key": "103002-name",
+    "original": "광신",
+    "context": "EN :\nFanaticism\nJP :\n狂信"
+  },
+  {
+    "key": "103002-subDesc",
+    "original": "사용 안하는 선택지",
+    "context": "EN :\n사용 안하는 선택지\nJP :\n사용 안하는 선택지"
+  },
+  {
+    "key": "103002-desc",
+    "original": "N사 심문관이 의체 인간들을 고문하고 있다.\n싱클레어가 분노와 공포로 떠는 것이 느껴진다.\n어떻게 해야 할까?",
+    "context": "EN :\nN Corp. Inquisitors are torturing prosthetic people.\nYou see Sinclair tremble with fear and anger.\nWhat will you do?\nJP :\nN사 심문관이 의체 인간들을 고문하고 있다.\n싱클레어가 분노와 공포로 떠는 것이 느껴진다.\n어떻게 해야 할까?"
+  },
+  {
+    "key": "103002-options",
+    "original": "[{\"message\":\"고문이 끝나길 기다린다.\",\"result\":[\"괴롭겠지만 저들을 막으면 불필요한 싸움이 생길 것 같다.\\n고문이 끝나길 기다리자.\"]},{\"message\":\"고문을 막는다.\",\"result\":[\"불필요한 싸움이 생기더라도 지켜볼 수 만은 없겠지.\\n싱클레어가 결의를 다지며 무기를 쥐었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Wait for the torture to end.\",\"result\":[\"As painful as it is to watch, it might cause unnecessary conflict.\\nWe should wait for them to finish.\"]},{\"message\":\"Stop the torture.\",\"result\":[\"We can’t just sit back and watch, even if it means getting into a fight we could avoid.\\nDetermined, Sinclair gripped his weapon.\"]}]\nJP :\n[{\"message\":\"拷問が終わるまで待つ。\",\"result\":[\"괴롭겠지만 저들을 막으면 불필요한 싸움이 생길 것 같다.\\n고문이 끝나길 기다리자.\"]},{\"message\":\"拷問を止める。\",\"result\":[\"불필요한 싸움이 생기더라도 지켜볼 수 만은 없겠지.\\n싱클레어가 결의를 다지며 무기를 쥐었다.\"]}]"
+  },
+  {
+    "key": "103006-name",
+    "original": "자격 시험",
+    "context": "EN :\nTest of Worthiness\nJP :\n자격 시험"
+  },
+  {
+    "key": "103006-subDesc",
+    "original": "사용 안하는 선택지",
+    "context": "EN :\n사용 안하는 선택지\nJP :\n사용 안하는 선택지"
+  },
+  {
+    "key": "103006-desc",
+    "original": "기이한 외형의 N사의 심문관들이 문 앞을 지키고 있다.\n\n'이 곳은….특별한 이들만…. 들어갈 수 있는 곳이다.'\n\n'지나가려면….. 자격…..을 보여라.'\n\n어떻게 해야 할까?",
+    "context": "EN :\nStrangely shaped N Corp. Inquisitors guard the gate.\n\n“Only… those with worth… may enter.”\n\n“To pass… you will show… your worth.”\n\nWhat will you do?\nJP :\n기이한 외형의 N사의 심문관들이 문 앞을 지키고 있다.\n\n'이 곳은….특별한 이들만…. 들어갈 수 있는 곳이다.'\n\n'지나가려면….. 자격…..을 보여라.'\n\n어떻게 해야 할까?"
+  },
+  {
+    "key": "103006-options",
+    "original": "[{\"message\":\"의식에 통과한 증표를 보여준다.\",\"result\":[\"심문관에게 의식에 통과한 증표들을 보여주었다.\\n심문관들이 조용히 문을 열었다.\\n문을 건너는 우리에게 무언가를 건네주었다.\"]},{\"message\":\"화술로 승부한다.\"},{\"message\":\"무력으로 해결한다.\",\"result\":[\"해볼 수 있는 건 싸우는 것 뿐이다.\\n무력으로 해결하자.\"]}]",
+    "context": "EN :\n[{\"message\":\"Present proof of passing the rites.\",\"result\":[\"You showed the Inquisitors the tokens you got from those rituals.\\n\\nThey silently opened the door.\\nAs you passed through, they gave you something.\"]},{\"message\":\"Use words.\"},{\"message\":\"Use violence.\",\"result\":[\"All we can do is fight.\\nLet’s handle this with violence.\"]}]\nJP :\n[{\"message\":\"儀式に通過した証を見せる。\",\"result\":[\"심문관에게 의식에 통과한 증표들을 보여주었다.\\n심문관들이 조용히 문을 열었다.\\n문을 건너는 우리에게 무언가를 건네주었다.\"]},{\"message\":\"話術で勝負する。\"},{\"message\":\"暴力で解決する。\",\"result\":[\"해볼 수 있는 건 싸우는 것 뿐이다.\\n무력으로 해결하자.\"]}]"
+  },
+  {
+    "key": "800201-name",
+    "original": "아즈텍원판 선택지1",
+    "context": "EN :\n아즈텍원판 선택지1\nJP :\n아즈텍원판 선택지1"
+  },
+  {
+    "key": "800201-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "800201-desc",
+    "original": "화를 가라 앉히는 방법은 많지만,\n이 환상체는 선물을 가장 좋아하는 것 같아.\n갓짜낸 혈액을 주면 화가 풀릴지도 몰라.",
+    "context": "EN :\nThere are many ways to calm one down,\nbut this Abnormality seems to like gifts the most.\nA fresh batch of blood might be able to appease it.\nJP :\n怒りを静める方法は沢山あるけど、\nこの幻想体は贈り物が一番好きみたい。\n搾りたての血液をあげれば怒りが収まるかもしれない。"
+  },
+  {
+    "key": "800201-options",
+    "original": "[{\"message\":\"토우를 바친다.\",\"result\":[\"살아있는 토우를 환상체에게 선물로 줬어.\\n만족한 환상체가 잠시 나마 온순해졌어.\"]},{\"message\":\"수감자를 바친다.\",\"result\":[\"\"]}]",
+    "context": "EN :\n[{\"message\":\"Offer a clay doll.\",\"result\":[\"You gave a living clay doll as tribute.\\nSatiated, the Abnormality calmed down for a moment.\"]},{\"message\":\"Offer a Sinner.\",\"result\":[\"\"]}]\nJP :\n[{\"message\":\"土偶を捧げる。\",\"result\":[\"生きてる土偶を幻想体に贈った。\\nつかの間ではあるけど大人しくなった。\"]},{\"message\":\"囚人を捧げる。\",\"result\":[\"\"]}]"
+  },
+  {
+    "key": "800203-name",
+    "original": "아즈텍원판 선택지3",
+    "context": "EN :\n아즈텍원판 선택지3\nJP :\n아즈텍원판 선택지3"
+  },
+  {
+    "key": "800203-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "800203-desc",
+    "original": "불꽃의 힘을 꺾으려면 차가운 물이 필요할 거야.\n우리는 물이 없으니까, 차가운 사람을 선물로 주자.",
+    "context": "EN :\nTo weaken the flame, you’ll need cool water.\nSince we aren’t carrying any buckets of water, we should offer up someone cool instead.\nJP :\n火花の力を削ぐには冷たい水が要るだろう。\n私たちには水がないから、冷たい人を贈ってあげよう。"
+  },
+  {
+    "key": "800203-options",
+    "original": "[{\"message\":\"토우를 바친다.\",\"result\":[\"살아있는 토우를 환상체에게 선물로 줬어.\\n불꽃이 자그맣게 사그라들었어.\"]},{\"message\":\"수감자를 바친다.\",\"result\":[\"\"]}]",
+    "context": "EN :\n[{\"message\":\"Offer a clay doll.\",\"result\":[\"You gave a living clay doll as tribute.\\nThe flame shrunk to a flicker.\"]},{\"message\":\"Offer a Sinner.\",\"result\":[\"\"]}]\nJP :\n[{\"message\":\"土偶を捧げる。\",\"result\":[\"生きてる土偶を幻想体に贈った。\\n火花が小さくしぼんでいった。\"]},{\"message\":\"囚人を捧げる。\",\"result\":[\"\"]}]"
+  },
+  {
+    "key": "800205-name",
+    "original": "아즈텍원판 선택지5",
+    "context": "EN :\n아즈텍원판 선택지5\nJP :\n아즈텍원판 선택지5"
+  },
+  {
+    "key": "800205-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "800205-desc",
+    "original": "별들이 반짝이고 있어.\n별빛이 반짝이면 모두의 눈을 앗아가 버릴 거야.\n별들은 어떤 선물을 좋아할까?",
+    "context": "EN :\nThe stars are twinkling.\nWhen they shine, they’ll rob us all of our sight.\nWhat gift would the stars like?\nJP :\n星たちがきらめいている。\n星たちがきらめくと皆の目を灼いてしまうだろう。\n星たちはどんな贈り物が好きなんだろう？"
+  },
+  {
+    "key": "800205-options",
+    "original": "[{\"message\":\"수감자를 바친다.\",\"result\":[\"\"]}]",
+    "context": "EN :\n[{\"message\":\"Offer a Sinner.\",\"result\":[\"\"]}]\nJP :\n[{\"message\":\"囚人を捧げる。\",\"result\":[\"\"]}]"
+  },
+  {
+    "key": "801201-name",
+    "original": "강화인간 선택지1",
+    "context": "EN :\n강화인간 선택지1\nJP :\n강화인간 선택지1"
+  },
+  {
+    "key": "801201-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "801201-desc",
+    "original": "강화 인간이 다시 살아나는 이유가 뭘까?\n수감자들은 수군거렸어.\n\n'어쩌면 살아있지 않은 것은 아니겠소.\n그러니 죽지도 않는 것이겠지.'\n\n'아니, 그런 철학적인 이야기가 아니잖아요.'\n\n'으음~ 무너진 벽돌이 다시 쌓아지는 느낌인 것 같은데.'\n\n'…뒷 쪽에 있는 공장에서 무슨 소리가 들리는 것 같아요.'\n\n마지막 수감자의 말에 모두가 강화 인간의 너머를 바라 보았어.\n방금 까지 아무런 소리도 들리지 않았던 공장에서, 철이 부딪히는 소리가 나고 있었지.\n\n저 수상한 공장을 조사해볼까?",
+    "context": "EN :\nHow do those cyborgs keep coming back?\nThe Sinners were discussing.\n\n“Perhaps those beings are not alive.\nThat way, they would not be able to die.”\n\n“No, we’re not getting philosophical here.”\n\n“Hmm~ To me, it looked like rebuilding a brick wall.”\n\n“…I think I’m hearing something from that factory in the back.”\n\nThe group turned their gaze to the factory behind the cyborgs.\nMetallic clanking could be heard from the place that was quiet until moments ago.\n\nMaybe you should take a look at that shady facility?\nJP :\n強化人間が復活する理由はなんだろう？\n囚人はひそひそと喋り始めた。\n\n「よもや命無きにあらじ。\nされば、むなしくなることも無し。」\n\n「いや、そんな哲学的な話じゃないですよ。」\n\n「うぅ～ん、崩れたレンガが再び積み上がるみたいな感じがするね。」\n\n「…後ろの方にある工場から、何か聞こえてくるような気がします。」\n\n最後の囚人の言葉に、全員が強化人間の向こうを眺めた。\nさっきまでは何も聞こえなかった工場から、鉄のぶつかる音がしていた。\n\nあの怪しい工場を調査してみる？"
+  },
+  {
+    "key": "801201-options",
+    "original": "[{\"message\":\"공장을 조사한다.\",\"result\":[\"공장을 조사하기로 했어.\\n하지만 강화 인간을 그냥 무시하고 지나가기에는 너무 위험한 것 같아.\\n\\n저 중에 가장 큰 강화 인간을 무력화 시키면 지나갈 틈을 만들 수 있지 않을까?\"]},{\"message\":\"위험한 곳을 갈 수 없다. 이대로 싸운다.\",\"result\":[\"'굳이 그런 데를 기어들어 가야겠어?'\\n\\n수감자 중 하나가 퉁명스럽게 말했어.\\n그 말 대로야. 굳이 위험을 감수할 필요는 없지.\\n\\n계속 부활한다면, 부활할 수 없을 때까지 해치우면 그만일테니까.\"]}]",
+    "context": "EN :\n[{\"message\":\"Investigate the factory.\",\"result\":[\"You decided to check out the factory.\\nBut, you might want to do something about the cyborgs first, just to be safe.\\n\\nPerhaps you could earn enough time to get through by incapacitating the biggest one?\"]},{\"message\":\"We can’t walk into unknown danger like that. Keep fighting them.\",\"result\":[\"“Do we really have to crawl into a place like that?”\\n\\nOne Sinner spoke bluntly.\\nThey make a good point. No need to take risks.\\n\\nIf they keep coming back, we’ll just keep on beating them until they don’t.\"]}]\nJP :\n[{\"message\":\"工場を調査する。\",\"result\":[\"工場を調査することにした。\\nでも強化人間を放置して通り過ぎるには、危険すぎる気がする。\\n\\nあの中にいる一番大きな強化人間を無力化することができれば、通り抜ける隙ができないだろうか？\"]},{\"message\":\"危険な場所には行けない。このまま戦う。\",\"result\":[\"「わざわざあんな場所に這い進む必要ってあるの？」\\n\\n囚人の内一人がぶっきらぼうに言った。\\nその通りだ。あえて危険を冒す必要はないな。\\n\\n何度も復活するのなら、復活できなくなるまで倒せば良い話だろうし。\"]}]"
+  },
+  {
+    "key": "801202-name",
+    "original": "강화인간 선택지2",
+    "context": "EN :\n강화인간 선택지2\nJP :\n강화인간 선택지2"
+  },
+  {
+    "key": "801202-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "801202-desc",
+    "original": "계획한 대로, 가장 거대한 강화 인간을 무력화 하자 틈이 생겼어.\n\n'여, 여기는…'\n\n'장난감 공장 같이 생겼군.'\n\n눈 앞에 있는 거대한 기계를 보며 수감자들은 다들 한 마디씩 꺼내고 있어.\n\n'아! 이것 좀 보게나!'\n\n수감자가 가리킨 곳에는 여러 버튼이 있는 조작 장치가 있었어.\n\n<당신은 당신이 서 있는 도시를 사랑합니까?>\n\n무얼 누르는 게 좋을까?",
+    "context": "EN :\nPinning down the largest cyborg as planned, you got to the factory in time.\n\n“Huh, this is…”\n\n“Looks like some kind of toy plant.”\n\nThe Sinners comment on the huge mechanism.\n\n“Ah! Come behold this curiosity!”\n\nThe Sinner pointed to a control panel with several buttons attached to it.\n\n<DO YOU LOVE THE CITY YOU LIVE IN?>\n\nWhat should you press?\nJP :\n計画通り、一番大きな強化人間を無力化すると隙ができた。\n\n「あ、ここは…。」\n\n「おもちゃ工場みたいだな。」\n\n目の前にある巨大な機械を見ながら、囚人達は一言ずつ喋っている。\n\n「あっ！これを見よ！」\n\n囚人が指差した場所には、いくつかのボタンが付いている操作装置があった。\n\n<あなたはあなたが立ち、そして住まう都市を愛していますか？>"
+  },
+  {
+    "key": "801202-options",
+    "original": "[{\"message\":\"그렇다.\",\"messageDesc\":\"강화를 진행하는 버튼을 누른다.\",\"result\":[\"\",\"비정상적인 입력입니다.\\n\\n''뭐야? 버튼이 하나도 안 눌리는데…'\\n\\n시설 매몰을 시작합니다. 3, 2…\\n\\n'뒤로 뛰어!!'\\n\\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.\\n생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\\n\\n우선은 여기를 벗어나는게 급선무인 것 같지?\"]},{\"message\":\"아니다.\",\"messageDesc\":\"강화를 멈추는 버튼을 누른다.\",\"result\":[\"\",\"비정상적인 입력입니다.\\n\\n''뭐야? 버튼이 하나도 안 눌리는데…'\\n\\n시설 매몰을 시작합니다. 3, 2…\\n\\n'뒤로 뛰어!!'\\n\\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.\\n생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\\n\\n우선은 여기를 벗어나는게 급선무인 것 같지?\",\"3회 입력을 확인하였습니다.\\n비상 규칙 3호, 시설 가동이 중지됩니다.\\n\\n''멈춘 모양이군.'\\n\\n기계들은 기이잉 거리는 소리를 내더니, 이내 움직임을 멈췄어.\\n앞으로는 더 이상, 강화 인간들이 되살아 나진 않겠지.\\n다시 공장 밖으로 나가볼까?\"]}]",
+    "context": "EN :\n[{\"message\":\"Yes.\",\"messageDesc\":\"Press the button to proceed.\",\"result\":[\"\",\"Abnormal input.\\n\\n“Huh? Now I can’t press any of these…”\\n\\nCommencing site burial in 3, 2…\\n\\n“Outta here!!”\\n\\nAfter a short notice, the factory exploded with a massive bang.\\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\\n\\nLooks like you should get out of here first, don’t you think?\"]},{\"message\":\"No.\",\"messageDesc\":\"Press the button to stop.\",\"result\":[\"\",\"Abnormal input.\\n\\n“Huh? Now I can’t press any of these…”\\n\\nCommencing site burial in 3, 2…\\n\\n“Outta here!!”\\n\\nAfter a short notice, the factory exploded with a massive bang.\\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\\n\\nLooks like you should get out of here first, don’t you think?\",\"Detected three inputs.\\nOperating Emergency Protocol #3: Facility Shutdown.\\n\\n“Looks like it’s stopped.”\\n\\nThe machines whirred for a short while before stopping.\\nWith that, the cyborgs should no longer revive.\\n\\nLet’s step outside the factory, shall we?\"]}]\nJP :\n[{\"message\":\"そうである。\",\"messageDesc\":\"強化を進行するボタンを押す。\",\"result\":[\"\",\"異常な入力です。\\n\\n「なんだ？ボタンが一つも押せな…。」\\n\\n施設埋没を開始します。3、2…。\\n\\n「後ろに走れ！！」\\n\\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\\n\\nとりあえずは、ここを抜け出すのが急務だろうね？\"]},{\"message\":\"そうでない。\",\"messageDesc\":\"強化を止めるボタンを押す。\",\"result\":[\"\",\"異常な入力です。\\n\\n「なんだ？ボタンが一つも押せな…。」\\n\\n施設埋没を開始します。3、2…。\\n\\n「後ろに走れ！！」\\n\\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\\n\\nとりあえずは、ここを抜け出すのが急務だろうね？\",\"三回の入力を確認しました。\\n非常規則3号、施設稼働が中止されます。\\n\\n「止まったみたいだ。」\\n\\n機械はギュインと音を立てると、間もなく動作を止めた。\\nこれ以降、強化人間たちは生き返らないだろう。\\nそれじゃあ、工場の外に出てみようか？\"]}]"
+  },
+  {
+    "key": "801203-name",
+    "original": "강화인간 선택지2-그렇다",
+    "context": "EN :\n강화인간 선택지2-그렇다\nJP :\n강화인간 선택지2-그렇다"
+  },
+  {
+    "key": "801203-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "801203-desc",
+    "original": "강화를 진행합니다.\n\n당신은\n강해져야\n합니다.\n\n추가 입력을 진행해주십시오.\n\n<당신은 당신이 서 있는 도시를 사랑합니까?>\n\n무얼 누르는 게 좋을까?",
+    "context": "EN :\nContinuing augmentation.\n\nYou\nmust\nbecome\nstrong.\n\nPlease proceed with the input.\n\n<DO YOU LOVE THE CITY YOU LIVE IN?>\n\nWhat should you press?\nJP :\n誤った入力です。\n\nあなたは\n強くならねば\nなりません。\n\n入力を追加で実行してください。\n\n<あなたはあなたが立ち、そして住まう都市を愛していますか？>\n\n何を押せば良いだろうか？"
+  },
+  {
+    "key": "801203-options",
+    "original": "[{\"message\":\"그렇다.\",\"messageDesc\":\"강화를 진행하는 버튼을 누른다.\",\"result\":[\"\",\"비정상적인 입력입니다.\\n\\n''뭐야? 버튼이 하나도 안 눌리는데…'\\n\\n시설 매몰을 시작합니다. 3, 2…\\n\\n'뒤로 뛰어!!'\\n\\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.\\n생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\\n\\n우선은 여기를 벗어나는게 급선무인 것 같지?\"]},{\"message\":\"아니다.\",\"messageDesc\":\"강화를 멈추는 버튼을 누른다.\",\"result\":[\"\",\"비정상적인 입력입니다.\\n\\n''뭐야? 버튼이 하나도 안 눌리는데…'\\n\\n시설 매몰을 시작합니다. 3, 2…\\n\\n'뒤로 뛰어!!'\\n\\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.\\n생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\\n\\n우선은 여기를 벗어나는게 급선무인 것 같지?\",\"3회 입력을 확인하였습니다.\\n비상 규칙 3호, 시설 가동이 중지됩니다.\\n\\n''멈춘 모양이군.'\\n\\n기계들은 기이잉 거리는 소리를 내더니, 이내 움직임을 멈췄어.\\n앞으로는 더 이상, 강화 인간들이 되살아 나진 않겠지.\\n다시 공장 밖으로 나가볼까?\"]}]",
+    "context": "EN :\n[{\"message\":\"Yes.\",\"messageDesc\":\"Press the button to proceed.\",\"result\":[\"\",\"Abnormal input.\\n\\n“Huh? Now I can’t press any of these…”\\n\\nCommencing site burial in 3, 2…\\n\\n“Outta here!!”\\n\\nAfter a short notice, the factory exploded with a massive bang.\\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\\n\\nLooks like you should get out of here first, don’t you think?\"]},{\"message\":\"No.\",\"messageDesc\":\"Press the button to stop.\",\"result\":[\"\",\"Abnormal input.\\n\\n“Huh? Now I can’t press any of these…”\\n\\nCommencing site burial in 3, 2…\\n\\n“Outta here!!”\\n\\nAfter a short notice, the factory exploded with a massive bang.\\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\\n\\nLooks like you should get out of here first, don’t you think?\",\"Detected three inputs.\\nOperating Emergency Protocol #3: Facility Shutdown.\\n\\n“Looks like it’s stopped.”\\n\\nThe machines whirred for a short while before stopping.\\nWith that, the cyborgs should no longer revive.\\n\\nLet’s step outside the factory, shall we?\"]}]\nJP :\n[{\"message\":\"そうである。\",\"messageDesc\":\"強化を進行するボタンを押す。\",\"result\":[\"\",\"異常な入力です。\\n\\n「なんだ？ボタンが一つも押せな…。」\\n\\n施設埋没を開始します。3、2…。\\n\\n「後ろに走れ！！」\\n\\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\\n\\nとりあえずは、ここを抜け出すのが急務だろうね？\"]},{\"message\":\"そうでない。\",\"messageDesc\":\"強化を止めるボタンを押す。\",\"result\":[\"\",\"異常な入力です。\\n\\n「なんだ？ボタンが一つも押せな…。」\\n\\n施設埋没を開始します。3、2…。\\n\\n「後ろに走れ！！」\\n\\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\\n\\nとりあえずは、ここを抜け出すのが急務だろうね？\",\"三回の入力を確認しました。\\n非常規則3号、施設稼働が中止されます。\\n\\n「止まったみたいだ。」\\n\\n機械はギュインと音を立てると、間もなく動作を止めた。\\nこれ以降、強化人間たちは生き返らないだろう。\\nそれじゃあ、工場の外に出てみようか？\"]}]"
+  },
+  {
+    "key": "801204-name",
+    "original": "강화인간 선택지2-아니다",
+    "context": "EN :\n강화인간 선택지2-아니다\nJP :\n강화인간 선택지2-아니다"
+  },
+  {
+    "key": "801204-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "801204-desc",
+    "original": "잘못된 입력입니다.\n\n당신은\n강해져야\n합니다.\n\n다시 입력을 진행해주십시오.\n\n주의! 해당 버튼이 3회 입력될 경우, 시설 가동이 중지됨을 고지합니다.\n\n<당신은 당신이 서 있는 도시를 사랑합니까?>\n\n무얼 누르는 게 좋을까?",
+    "context": "EN :\nIncorrect input.\n\nYou\nmust\nbecome\nstrong.\n\nPlease input your answer again.\n\nWARNING: Pressing the button three times will cause the facility to shut down.\n\n<DO YOU LOVE THE CITY YOU LIVE IN?>\n\nWhat should you press?\nJP :\n誤った入力です。\n\nあなたは\n強くならねば\nなりません。\n\nもう一度入力を実行してください。\n\n注意！該当するボタンが3回入力された場合、施設の稼働が中止されることをお知らせします。\n\n<あなたはあなたが立ち、そして住まう都市を愛していますか？>\n\n何を押せば良いだろうか？"
+  },
+  {
+    "key": "801204-options",
+    "original": "[{\"message\":\"그렇다.\",\"messageDesc\":\"강화를 진행하는 버튼을 누른다.\",\"result\":[\"\",\"비정상적인 입력입니다.\\n\\n''뭐야? 버튼이 하나도 안 눌리는데…'\\n\\n시설 매몰을 시작합니다. 3, 2…\\n\\n'뒤로 뛰어!!'\\n\\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.\\n생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\\n\\n우선은 여기를 벗어나는게 급선무인 것 같지?\"]},{\"message\":\"아니다.\",\"messageDesc\":\"강화를 멈추는 버튼을 누른다.\",\"result\":[\"\",\"비정상적인 입력입니다.\\n\\n''뭐야? 버튼이 하나도 안 눌리는데…'\\n\\n시설 매몰을 시작합니다. 3, 2…\\n\\n'뒤로 뛰어!!'\\n\\n기계들이 경고음을 낸 것도 잠시, 시설은 커다란 폭음과 함께 터져버렸어.생각한 대로 장치를 멈추게는 했지만, 폭발에 수감자들의 꼴도 엉망이 되어 버렸어.\\n\\n우선은 여기를 벗어나는게 급선무인 것 같지?\",\"3회 입력을 확인하였습니다.\\n비상 규칙 3호, 시설 가동이 중지됩니다.\\n\\n'멈춘 모양이군.'\\n\\n기계들은 기이잉 거리는 소리를 내더니, 이내 움직임을 멈췄어.\\n앞으로는 더 이상, 강화 인간들이 되살아 나진 않겠지.\\n다시 공장 밖으로 나가볼까?\"]}]",
+    "context": "EN :\n[{\"message\":\"Yes.\",\"messageDesc\":\"Press the button to proceed.\",\"result\":[\"\",\"Abnormal input.\\n\\n“Huh? Now I can’t press any of these…”\\n\\nCommencing site burial in 3, 2…\\n\\n“Outta here!!”\\n\\nAfter a short notice, the factory exploded with a massive bang.\\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\\n\\nLooks like you should get out of here first, don’t you think?\"]},{\"message\":\"No.\",\"messageDesc\":\"Press the button to stop.\",\"result\":[\"\",\"Abnormal input.\\n\\n“Huh? Now I can’t press any of these…”\\n\\nCommencing site burial in 3, 2…\\n\\n“Outta here!!”\\n\\nAfter a short notice, the factory exploded with a massive bang.\\nYou managed to stop it from working, but the Sinners were caught up in the explosion as well.\\n\\nLooks like you should get out of here first, don’t you think?\",\"Detected three inputs.\\nOperating Emergency Protocol #3: Facility Shutdown.\\n\\n“Looks like it’s stopped.”\\n\\nThe machines whirred for a short while before stopping.\\nWith that, the cyborgs should no longer revive.\\n\\nLet’s step outside the factory, shall we?\"]}]\nJP :\n[{\"message\":\"そうである。\",\"messageDesc\":\"強化を進行するボタンを押す。\",\"result\":[\"\",\"異常な入力です。\\n\\n「なんだ？ボタンが一つも押せな…。」\\n\\n施設埋没を開始します。3、2…。\\n\\n「後ろに走れ！！」\\n\\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\\n\\nとりあえずは、ここを抜け出すのが急務だろうね？\"]},{\"message\":\"そうでない。\",\"messageDesc\":\"強化を止めるボタンを押す。\",\"result\":[\"\",\"異常な入力です。\\n\\n「なんだ？ボタンが一つも押せな…。」\\n\\n施設埋没を開始します。3、2…。\\n\\n「後ろに走れ！！」\\n\\n機械が警告音を出したのもつかの間、施設は巨大な爆音と共に爆発してしまった。\\nなんとか機械を止めることはできたが、爆発によって囚人も大変なことになってしまった。\\n\\nとりあえずは、ここを抜け出すのが急務だろうね？\",\"三回の入力を確認しました。\\n非常規則3号、施設稼働が中止されます。\\n\\n「止まったみたいだ。」\\n\\n機械はギュインと音を立てると、間もなく動作を止めた。\\nこれ以降、強化人間たちは生き返らないだろう。\\nそれじゃあ、工場の外に出てみようか？\"]}]"
+  },
+  {
+    "key": "801501-name",
+    "original": "분홍신 선택지1",
+    "context": "EN :\n분홍신 선택지1\nJP :\n분홍신 선택지1"
+  },
+  {
+    "key": "801501-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "801501-desc",
+    "original": "흔들리는 리본 사이 사이에는 목소리가 지나다니고 있어.\n\n'네가 바라는 욕망은 뭐니?'\n\n'나를 신어.'\n\n'네가 원하는 곳으로 데려다 줄게.'\n\n어떻게 들어도 수상쩍은 이야기지만, 수감자들은 어째서 인지 쉽게 결정을 내리지 못하는 분위기야.\n\n그럼, 어떻게 해야할까?",
+    "context": "EN :\nA voice travels between the fluttering ribbons.\n\n“What is your desire?”\n\n“Put me on.”\n\n“I’ll carry you wherever you wish to go.”\n\nThe suggestions are incredibly suspicious, but for some reason, the Sinners are struggling to decide what to do.\n\nWhat do you say?\nJP :\n揺らめくリボンの間から、声が行き交っている。\n\n「君が望む欲望はなんだい？」\n\n「私を履いて。」\n\n「君の望む場所に連れて行ってあげる。」\n\nどこからどう考えても怪しい話だが、囚人はどうしてだか簡単に決定を下せない雰囲気だ。\n\nじゃあ、どうするべきだろう？"
+  },
+  {
+    "key": "801501-options",
+    "original": "[{\"message\":\"분홍신을 신는다,\",\"result\":[\"'아… 좋은데.'\\n\\n'감촉이 매끈매끈해.'\\n\\n수감자들은 저마다 황홀하다는 투로 말을 내뱉었어.\\n그 리본들은 어느새 반짝이는 분홍색 구두로 변해버렸지.\\n\\n이제 모두가 바라는 곳으로 갈 수 있을 거야.\\n\\n아마도.\"]},{\"message\":\"거절한다.\",\"result\":[\"\"]}]",
+    "context": "EN :\n[{\"message\":\"Put on the shoes.\",\"result\":[\"“Yeah… This is good.”\\n\\n“It’s all smooth.”\\n\\nThe Sinners expressed their fascination.\\nThose ribbons had turned into shiny pairs of pink shoes.\\n\\nNow, everyone will be able to go wherever they want.\\n\\nProbably.\"]},{\"message\":\"Refuse.\",\"result\":[\"\"]}]\nJP :\n[{\"message\":\"桃色の靴を履く。\",\"result\":[\"「あぁ…良いねこれ。」\\n\\n「足触りがつやつやだ。」\\n\\n囚人達はそれぞれ恍惚した様子で言葉をはきだした。\\nそのリボンはいつしか輝く桃色の靴に変わってしまった。\\n\\nこれで皆が望む場所に行けるだろう。\\n\\nきっと。\"]},{\"message\":\"拒否する。\",\"result\":[\"\"]}]"
+  },
+  {
+    "key": "201001-name",
+    "original": "파도소리가 들려오는 자판기",
+    "context": "EN :\nVending Machine and Oceanic Waves\nJP :\n波音が聞こえてくる自販機"
+  },
+  {
+    "key": "201001-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "201001-desc",
+    "original": "마침, 앞은 깔끔한 공터라 이곳에서 수감자들을 쉬어가게 해도 좋을 것 같다.\n\n자판기 앞에 서 보니 여러가지 버튼들이 늘어서 있다.\n음료의 모습도 보이기는 하지만, 하나 같이 정체를 알 수가 없는 그림들 뿐이다.\n어떻게 할까?",
+    "context": "EN :\nYou see an empty lot ahead where the Sinners can take a rest.\n\nThere, you find a vending machine with a number of buttons on it.\nYou see drinks as well, but you can’t recognize what they’re supposed to depict.\nWhat will you do?\nJP :\nちょうど、前はきれいな空き地なので、ここで 囚人たちを休ませても良さそうだ。 \n\n自動販売機の前に立ってみると、 色んなボタンが並んでいた。\n飲み物のラベルも見えるが、どれもこれも正体不明の絵柄しか無かった。\nどうしようか？"
+  },
+  {
+    "key": "201001-options",
+    "original": "[{\"message\":\"위험 감수를 할 필요는 없다. 그냥 수감자들을 쉬게 해야겠다.\",\"result\":[\"적당한 시간이 흘렀다.\\n\\n푹 쉰 덕분일까,\\n다들 개운한 표정이다.\"]},{\"message\":\"다들 고생했으니, 성심껏 좋아할만한 걸 골라 뽑아가자.\",\"result\":[\"운이 좋게도,\\n골라갔던 음료가 모두의 입에 맞은 모양이다.\\n\\n쉬고 일어난 수감자들의 모습에 활력이 넘치는 것 같다.\\n아무래도 괴상한 음료를 뽑은 것 같다.\\n표정을 잔뜩 구기면서 저마다 음료를 내뱉거나 하고 있다. \\n쉬고 일어난 수감자들의 모습도 무언가 찌뿌둥해보인다. \\n탈이라도 안나서 다행이야...\"]}]",
+    "context": "EN :\n[{\"message\":\"No need to take risks. Just rest here with the Sinners.\",\"result\":[\"Some time passed.\\n\\nThanks to the respite, the group seems to have some energy back.\"]},{\"message\":\"Get some drinks they might like, as a treat.\",\"result\":[\"With just a single press,\\nthe machine ejected one can after another.\\n\\nAll the cans are purple.\\n\\nYou can’t fathom the meaning of the ships and grapes doodled on them,\\nbut they somehow feel familiar, and well… cheery.\\n\\nThey should be okay to drink.\\n\\nYou passed the cans out to the Sinners.\"]}]\nJP :\n[{\"message\":\"危険を冒す必要はない。普通に囚人を休ませないと。\",\"result\":[\"ある程度時間が流れた。\\n\\nしっかり休めたおかげだろうか、\\n皆すっきりとした顔をしている。\"]},{\"message\":\"みんな苦労したんだし、心を込めて好きそうなものを選んでいこう。\",\"result\":[\"運良く、選んだ飲み物が全員の口に合ったようだ。\\n\\n休んで立上がった囚人達の姿は活気に満ちていた。\\nどうやら変な飲み物を選んでしまったようだ。\\n思いっきり顔をしかめながら、みんな飲み物を吐き出している。\\n休んで起きた囚人達もぐったりしていた。\\n腹まで壊さなくてよかった…。\"]}]"
+  },
+  {
+    "key": "201002-name",
+    "original": "거울의 방",
+    "context": "EN :\nMirror Room\nJP :\n鏡の部屋"
+  },
+  {
+    "key": "201002-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "201003-name",
+    "original": "강화앰플교환삽입소",
+    "context": "EN :\n강화앰플교환삽입소\nJP :\n強化アンプル交換挿入所"
+  },
+  {
+    "key": "201003-subDesc",
+    "original": "사용 안하는 텍스트",
+    "context": "EN :\n사용 안하는 텍스트\nJP :\n사용 안하는 텍스트"
+  },
+  {
+    "key": "910301-name",
+    "original": "치킨파",
+    "context": "EN :\nThe Chicken Strife\nJP :\nチキン派"
+  },
+  {
+    "key": "910301-desc",
+    "original": "길을 막고 있는 자들이 눈에 띈다.\n책상에 마주 앉아 서로에게 고함을 치고 있다.\n\"이 풍부한 육즙을 봐! 줄줄 흘러내리면서 강조되는 살코기 결... 이게 참 치킨이지!\"\n\"틀렸다. 기름기 한톨 찾아볼 수 없는 담백한 이 맛. 이게 진짜 치킨이지.\"\n둘은 동시에 이쪽을 바라보며 말한다.\n\"거기 너! 둘 중 뭐가 더 맛있나!\"",
+    "context": "EN :\nSome folks are blocking the way.\nThey’re sitting on a deck, yelling at each other.\n“Look at this succulent piece! The rich juice running down the fibers of luscious meat… This is what chicken is about!”\n“Wrong. This piece has a clean taste, with not an ounce of grease tainting the tongue. This is the real deal.”\nThe two turn around at the same time to face you.\n“You there! Tell us which is better!”\nJP :\n道を塞いでる者たちが目に入ってきた。\n机に向かい合って座り、互いに怒鳴り合ってる。\n「この豊富な肉汁を見ろ！ジューシーな肉からジュワッと滴り落ちる…これが本物のチキンだ！」\n「違う。脂が一滴も見当たらない淡泊なこの味。これが本当のチキンだ。」\n二人は同時にこちらを見つめて話す。\n「そこのお前！どっちがもっと美味しいのか言え！」"
+  },
+  {
+    "key": "910301-options",
+    "original": "[{\"message\":\"모두 같은 치킨이다.\",\"messageDesc\":\"E.G.O GIFT 획득\",\"result\":[\"\\\"그건... 그렇지.\\\"\\n\\\"반박할 수 없는 정론이로군.\\\"\\n그들은 삿대질 하던 손을 내리고 흥분을 가라앉혔다.\\n\\\"이상한걸로 싸우고 있었군, 그래.\\\"\\n\\\"그래... 진리는 치킨이 언제나 옳다는 것인데.\\\"\\n그들은 뜨거운 악수를 나누더니, 가운데 놓인 치킨을 버켓 째로 우리에게 주었다.\\n\\\"현명한 자는 둘 다 먹을 자격이 있지. 받아주길 바란다.\\\"\"]},{\"message\":\"육즙의 향연, 다리살이다.\",\"messageDesc\":\"E.G.O GIFT 획득\",\"result\":[\"\\\"거봐! 다리살이 맛있다잖아!\\\"\\n\\\"맛을 알지 못하는 자로군.\\\"\\n가슴살을 쥔 자는 어이가 없다는 듯 한숨을 푹 쉬었다.\\n\\\"어이! 상이다. 네게도 다리를 하나 가질 자격이 있어.\\\"\\n다리살을 쥔 자는 흡족하다는 듯 치킨이 담긴 버켓에서 다리살을 하나 꺼내 주었다.\\n\\\"앞으로도 다리살을 잘 부탁한다고!\\\"\\n뭘 부탁한다는 지는 모르겠지만, 꺼내 준 다리살을 받아들고 나왔다.\"]},{\"message\":\"담백한 그 맛, 가슴살이다.\",\"messageDesc\":\"E.G.O GIFT 획득\",\"result\":[\"\\\"말도 안돼! 이 육즙의 향연을 포기한다고...?\\\"\\n\\\"육즙이 아니라 지방이다. 건강하고 담백하며, 양도 많은데다 먹기도 편한 가슴살을 선택하는 것이 합리적인 선택이지.\\\"\\n가슴살을 쥔 자는 흡족하다는 듯 그렇게 읊조렸다.\\n\\\"자, 자네에게 상일세. 이 가슴살을 받게나.\\\"\\n치킨이 담긴 버켓에서 커다란 가슴살이 하나 꺼내어졌다.\\n\\\"득근하시게. 건강하시고.\\\"\\n득근이 무슨 말인 지는 모르겠지만, 꺼내 준 가슴살을 받아들고 나왔다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Chicken’s chicken, duh.\",\"messageDesc\":\"Gain an E.G.O Gift.\",\"result\":[\"“That’s… true.”\\n“An irrefutable point.”\\nThey lowered their hands and settled down.\\n“What a strange thing we were fighting over.”\\n“They’re right… The one truth is that the chicken is always right.”\\nAfter a passionate handshake, the two gave you their bucket of chicken.\\n“A wise gourmet such as yourself deserves both pieces. Please, take this, we insist.”\"]},{\"message\":\"Gotta be the drumsticks, all rich and juicy.\",\"messageDesc\":\"Gain an E.G.O Gift.\",\"result\":[\"“You see! The drumsticks are better!”\\n“You don’t know what good taste is.”\\nThe person holding a chicken breast let out a baffled sigh.\\n“Ey! Here’s your reward. You deserve a drumstick of your own.”\\nSatisfied, the one with a drumstick handed you another from the bucket.\\n“I’m counting on you to keep that leg up!”\\nUnsure of what you’re being trusted with, you left the table with the drumstick.\"]},{\"message\":\"The breast, of course, unsullied and spotless.\",\"messageDesc\":\"Gain an E.G.O Gift.\",\"result\":[\"“There ain’t no way! You’d give up this banquet of juiciness…?”\\n“It’s fat, not just juice. The breast is healthy, light, comes in hefty servings, and is easy to eat—it’s obviously the reasonable choice.”\\nThe person holding a piece of chicken breast pleasantly remarked.\\n“Here, a reward for you. Take this breast.”\\nA sizable piece was brought out of the bucket.\\n“Best of luck with your gains. I hope you stay healthy.”\\nUnsure of what you’re supposed to gain, you left the table with the chicken breast.\"]}]\nJP :\n[{\"message\":\"全部同じチキンだ。\",\"messageDesc\":\"E.G.O GIFT獲得\",\"result\":[\"「それは…そうだな。」\\n「反論できない正論である。」\\n彼らはお互いを指していた人差し指を下ろし、気分を落ち着かせた。\\n「変なことで戦っていたな、うん。」\\n「そうだな…チキンがいつも正しいというのが真理なのに。」\\n彼らは熱い握手を交わし、真ん中のチキンをバケツごとに私たちにくれた。\\n「賢明な者は両方を食べる資格がある。 受け取ってほしい。」\"]},{\"message\":\"肉汁の饗宴、もも肉だ。\",\"messageDesc\":\"E.G.O GIFT獲得\",\"result\":[\"「ほれみろ！もも肉が美味しいって言ってるだろ！」\\n「味が分からない者だな。」\\n胸肉を握った者は呆れたように溜め息をついた。\\n「おい！お礼だ。お前にも足を一本持つ資格がある。」\\nもも肉を握った者は、満足そうにチキンが入ったバケツからドラムスティックを一つ取り出して渡した。\\n「これからも、もも肉をよろしく！」\\n何がよろしくかは分からないが、差し出してくれたドラムスティックを受け取って出た。\"]},{\"message\":\"淡泊なその味、胸肉だ。\",\"messageDesc\":\"E.G.O GIFT獲得\",\"result\":[\"「んなバカな！この肉汁の饗宴を手放すのか…？」\\n「肉汁ではなく脂肪だ。健康で淡泊、量も多い上に食べやすい胸肉を選ぶのは合理的な選択だ。」\\n胸肉を握った者は満足そうに呟いた。\\n「さあ、君へのご褒美だ。この胸肉を受け取るがいい。」\\nチキンの入ったバケツから大きな胸肉が一つ取り出された。\\n「増筋なされ、お元気で。」\\n『ぞーきん』というのがどういう意味かは分からなかったが、取り出してくれた胸肉を受けとって出た。\"]}]"
+  },
+  {
+    "key": "910302-name",
+    "original": "닭의 열정적인 탱고",
+    "context": "EN :\nTango of Poultry Passion\nJP :\n鶏の情熱的なタンゴ"
+  },
+  {
+    "key": "910302-desc",
+    "original": "시끌벅적한 공간에 조명 하나가 그 곳을 강렬하게 비추고 있다.\n마치 닭들의 무도회... 가 열리고 있는 것 같다.\n\"저건 탱고로군요.\"\n춤인지 씨름인지 모를 무언가를 쳐다보고 있자니, 하나의 닭에게서 양념이 새어나오는 것이 보였다.\n정작 본계는 모르는 듯 한데...",
+    "context": "EN :\nA bright spotlight shines on a portion of the noisy area.\nIt seems as though the chickens are attending a… ball.\n“That’s the tango.”\nLooking at their movements which might be a dance or a tussle, you notice sauce leaking from one of them.\nIt doesn’t seem to be aware of this…\nJP :\nにぎやかな空間を、強烈な照明一つが照りつけている。\nまるで鶏たちの舞踏会…が開かれているようだ。\n「あれはタンゴですね。」\n踊りなのか相撲なのか分からない何かを眺めていると、一つの鶏からタレが漏れているのが見えた。\nどうやら本人は気付いていいないようだが…。"
+  },
+  {
+    "key": "910302-options",
+    "original": "[{\"message\":\"사실대로 이야기해준다.\",\"messageDesc\":\"E.G.O GIFT 획득\",\"result\":[\"\\\"그대!!!!! 양념이 새어나오고 있소!!!!!!\\\"\\n\\\"크게 말하지 마, 바보야,,,\\\"\\n지적받은 닭은 황급히 자신의 등(이라고 생각되는 곳)을 만지작 거렸다.\\n서글프게도, 그것에게 촘촘하게 매어져야 할 실매듭이 헐거워진 상태였다.\\n\\\"끼에, 끼이에엡...\\\"\\n자신은 도저히 할 수 없다는 것일까. 양념을 뚝뚝 흘리며 다가온 그것은 손(혹은 날개)에 실과 바늘을 쥐고 있었다.\\n꿰메어 달라는 뜻일까?\"]},{\"message\":\"모른척 한다.\",\"messageDesc\":\"E.G.O GIFT 획득\",\"result\":[\"\\\"말해줘야 하지 않겠는가?\\\"\\n\\\"하지만 말이야~ 지금 꽤 행복해보이지 않아? 좀 더 지켜보는건 어때?\\\"\\n\\\"양념이 다 빠지면 어떻게 하지.\\\"\\n\\\"그냥 양념이 덜 배어든 닭이 되는 거 아닐까요.\\\"\\n이윽고, 양념이 더 이상 흘러나오지 않게 되었다.\\n\\\"끼엣!\\\"\\n몸이 가벼워진 걸 눈치챈 것일까? 그것은 갑작스레 고난이도 동작을 선보였다.\\n\\\"놀랍군.\\\"\\n주변에서 춤을 추던 닭들 마저 넋을 놓고 그것을 바라보더니, 이내 기묘한 함성소리 같은 것을 내며 그것에게 다가갔다.\\n그것들은 헹가래를 치면서 조명 밖으로 사라져갔다.\\n남은 것은... 흐른 양념뿐.\"]},{\"message\":\"은근슬쩍 힌트를 준다.\",\"messageDesc\":\"50% 확률로 E.G.O GIFT 획득.\",\"result\":[\"\\\"으음~ 맛있는 향기가 나는데, 어~디~서 나는 것인지 모르겠네?!\\\"\\n\\\"...좀 더 그럴 듯한 연기는 안되나 보네요.\\\"\\n수감자의 외침 덕인지, 격렬하게 춤을 추던 닭들이 동시에 멈춰섰다.\\n서로의 등을 살펴보던 닭들은, 곧이어 양념이 새어나오는 진원지를 찾았다.\\n\\\"끼에, 끼엡.\\\"\\n\\\"기에.\\\"\\n그들은 당황하지 않고 실과 바늘로 그것의 등(이라고 생각되는 곳)을 봉합했다.\\n그 모습은 능숙하며 빈틈이 없었다.\\n봉합이 끝나자, 그들은 조명 밖으로 총총총 사라져 갔다.\\n남은 것은 그들이 쓰던 실과 바늘 뿐이었다.\"]}]",
+    "context": "EN :\n[{\"message\":\"Alert it truthfully.\",\"messageDesc\":\"Gain an E.G.O Gift.\",\"result\":[\"“Heed me!!!!! Sauce is leaking from thy body!!!!!!”\\n“Don’t shout it that loud, you dummy…”\\nNotified of its leakage, the chicken quickly ran its wings over its back—or what appeared to be its back, rather.\\nSadly, the knot had loosened on its stitching.\\n“Kieegh, kiiierg…”\\nDoes it mean it can’t do it on its own? Approaching with a trail of sauce dripping behind, it held some thread and a needle in its hands, er, wings.\\nDoes it want you to stitch its back?\"]},{\"message\":\"You saw nothing.\",\"messageDesc\":\"Gain an E.G.O Gift.\",\"result\":[\"“Should we not inform them?”\\n“Yeah, but~ They look pretty happy right now, don’t they? Couldn’t hurt to sit and watch just a bit longer, right?”\\n“What will become of it when it loses all its sauce?”\\n“Maybe it’ll just become an underseasoned chicken.”\\nIn time, the leakage ceased.\\n“Kiehg!”\\nPerhaps it noticed that it’s become lighter? It suddenly performed a highly technical move.\\n“Astonishing.”\\nThe chickens around it stopped their dances and watched its performance, mesmerized. Soon enough, they approached the performer, letting out screams that sounded like cheers.\\nThey walked out of the light, tossing the special one up and down as a celebration.\\nAll that remained… was the spilled sauce.\"]},{\"message\":\"Give a few subtle hints.\",\"messageDesc\":\"50% chance to gain an E.G.O Gift.\",\"result\":[\"“Mm-mmm~ Boy, I smell something tasty! I sure wonder where this smell’s coooming frooom~?!”\\n“…I suppose it would be foolish of me to expect more believable acting.”\\nThe Sinner’s voice caused the chickens to stop their passionate dance at once.\\nExamining each other’s backs, they soon found the source of the leakage.\\n“Kieh, kierg.”\\n“Giiegh.”\\nWithout panicking, they brought some thread and a needle to sew up its back—or what appears to be its back.\\nThey were unsullied in their expertise.\\nOnce the stitching was done, they scuttled into the dark.\\nAll that remained was the thread and needle they used.\"]}]\nJP :\n[{\"message\":\"そのまま話す。\",\"messageDesc\":\"E.G.O GIFT獲得\",\"result\":[\"「そなた！！！！タレが漏れておりまするぞ！！！！！！！」\\n「大声出すなよ、アホ…。」\\n指摘された鶏は急いで自分の背(と思わしき場所)をまさぐった。\\n悲しいことに、本来それにきっちりと縫われているべき糸が緩んでいた。\\n「キエ、キエエエッ…。」\\n自分には到底できないということだろうか。タレをぽたぽた零しながら近づいてたそれは、手(あるいは羽)に糸と針を握っていた。\\n縫ってほしいという意味だろうか？\"]},{\"message\":\"知らんぷりをする。\",\"messageDesc\":\"E.G.O GIFT獲得\",\"result\":[\"「言うべきなりや？」\\n「でもね～今結構幸せそうに見えない？もうちょっと見守るのは如何？」\\n「タレが全部抜けたらどうしよう。」\\n「ただ味付けが薄い鶏になるんじゃないですかね。」\\nやがて、タレが流れ出なくなった。\\n「キエッ！」\\n身体が軽くなったことに気づいたのだろうか？それは突然難易度の高い振り付けを披露した。\\n「驚きだ。」\\n周りで踊っていた鶏たちもその様子をうっとりとして眺めていると、すぐに奇妙な歓声のようなものを出してそれに近づいた。\\nそれらは胴上げをしながら照明の外に消えた。\\n残ったのは…こぼれたタレだけ。\"]},{\"message\":\"こっそりヒントを与える。\",\"messageDesc\":\"50%の確率でE.G.O GIFTを獲得。\",\"result\":[\"「うぅ～ん。美味しい匂いがするなぁ～、ど～こ～か～ら～来てるのか分からないなぁ～！？」\\n「…もうちょっとそれっぽい演技はできないんですね。」\\n囚人の声のおかげか、激しく踊っていた鶏たちが同時に止まった。\\nお互いの背中を調べていた鶏たちは、ついにタレの発生源を突き止めた。\\n「キエ、キエッ。」\\n「ギエ。」\\nそれらは慌てずに糸と針でそれの背中(と思わしき場所)を縫合した。\\nその様子は手慣れており、隙が無かった。\\n縫合が終わると，それらは照明の外へと姿を消していった。\\n残ったのはそれらが使っていた糸と針だけだった。\"]}]"
+  }
+]

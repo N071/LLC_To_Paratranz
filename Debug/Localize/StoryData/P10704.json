@@ -1,0 +1,230 @@
+[
+  {
+    "key": "0-content",
+    "original": "내가 바란 건 이게 아니야.",
+    "context": "EN :\nThis is not what I’d hoped for.\nJP :\nオレが望んだのはこんなもんじゃない。"
+  },
+  {
+    "key": "1-content",
+    "original": "나는 이런 일을 하게 될 줄 몰랐어.",
+    "context": "EN :\nI didn’t know what I was getting into.\nJP :\nオレがこんなことをすることになるって思わなかった。"
+  },
+  {
+    "key": "2-content",
+    "original": "난 그저… 잘해보고 싶었던 것 뿐인데.",
+    "context": "EN :\nI just… I wanted to do better.\nJP :\nオレはただ…うまいことやっていきたかっただけなのに。"
+  },
+  {
+    "key": "3-content",
+    "original": "하필 그날, 캐시가 던진 말이 내 마음을 너무 찔러 대서…",
+    "context": "EN :\nWhat Cathy said that day jabbed my heart through and through…\nJP :\nよりによってあの日、キャシーが投げかけた言葉がオレの心に何度も突き刺さってきて…。"
+  },
+  {
+    "key": "4-content",
+    "original": "다신 돌아가지 않겠다며 뛰쳐나왔던 것 뿐인데.",
+    "context": "EN :\nSo I ran out, swearing down that I’d never go back.\nJP :\n二度と帰らないって言って飛び出しただけだってのに。"
+  },
+  {
+    "key": "5-teller",
+    "original": "이끄는 이단심문관",
+    "context": "EN :\nLeading Inquisitor\nJP :\n導く異端審問官"
+  },
+  {
+    "key": "5-title",
+    "original": "N사 큰 망치",
+    "context": "EN :\nN Corp. Großhammer\nJP :\nN社 大鎚"
+  },
+  {
+    "key": "5-content",
+    "original": "이쯤으로 하지. 복귀한다.",
+    "context": "EN :\nThis should be enough. We’ll head back.\nJP :\nこれくらいにしておこう。復帰する。"
+  },
+  {
+    "key": "6-content",
+    "original": "어쩌다가 이런 곳에 휘말려든 걸까.",
+    "context": "EN :\nHow did I get myself caught up in all this?\nJP :\nどうしてこんなとこに巻き込まれたんだろうか。"
+  },
+  {
+    "key": "7-teller",
+    "original": "이끄는 이단심문관",
+    "context": "EN :\nLeading Inquisitor\nJP :\n導く異端審問官"
+  },
+  {
+    "key": "7-title",
+    "original": "N사 큰 망치",
+    "context": "EN :\nN Corp. Großhammer\nJP :\nN社 大鎚"
+  },
+  {
+    "key": "7-content",
+    "original": "거기, 작은 망치.",
+    "context": "EN :\nYou there, Kleinhammer.\nJP :\nそこ、小鎚。"
+  },
+  {
+    "key": "8-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "8-teller",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "8-title",
+    "original": "N사 작은 망치",
+    "context": "EN :\nN Corp. Kleinhammer\nJP :\nN社 小鎚"
+  },
+  {
+    "key": "8-content",
+    "original": "…아! 네!",
+    "context": "EN :\n…Ah! Sir!\nJP :\n…あっ！はい！"
+  },
+  {
+    "key": "9-teller",
+    "original": "이끄는 이단심문관",
+    "context": "EN :\nLeading Inquisitor\nJP :\n導く異端審問官"
+  },
+  {
+    "key": "9-title",
+    "original": "N사 큰 망치",
+    "context": "EN :\nN Corp. Großhammer\nJP :\nN社 大鎚"
+  },
+  {
+    "key": "9-content",
+    "original": "복귀한다는 말을 듣지 못했는가? 뒤따르도록.",
+    "context": "EN :\nDidn’t you hear what I just said? We’re heading back. Follow me.\nJP :\n復帰するという言葉が聞きとれなかったのか？お供するように。"
+  },
+  {
+    "key": "10-content",
+    "original": "저 이상하게 생긴 못은 대체 뭘까.",
+    "context": "EN :\nWhat’s the deal with that odd-looking nail?\nJP :\nあの変な形の釘は一体何なんだろうか。"
+  },
+  {
+    "key": "11-content",
+    "original": "중간에 투명한 창이 있는 것 같은데, 사람한테 박으면 무언가가 계속 차오른단 말이지.",
+    "context": "EN :\nThere’s some kinda transparent needle at the center, and it starts filling with something when it’s jabbed into a person.\nJP :\n真ん中に透明な窓があるけど、人間にブッ刺すと何かで満たされていくんだよな。"
+  },
+  {
+    "key": "12-content",
+    "original": "꼭 사람의…",
+    "context": "EN :\nIt’s like human—\nJP :\nまるで人間の…。"
+  },
+  {
+    "key": "13-teller",
+    "original": "이끄는 이단심문관",
+    "context": "EN :\nLeading Inquisitor\nJP :\n導く異端審問官"
+  },
+  {
+    "key": "13-title",
+    "original": "N사 큰 망치",
+    "context": "EN :\nN Corp. Großhammer\nJP :\nN社 大鎚"
+  },
+  {
+    "key": "13-content",
+    "original": "무슨 생각을 하고 있는 건가?",
+    "context": "EN :\nWhat thought are you occupied with?\nJP :\n何を考えているのだ？"
+  },
+  {
+    "key": "14-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-teller",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "14-title",
+    "original": "N사 작은 망치",
+    "context": "EN :\nN Corp. Kleinhammer\nJP :\nN社 小鎚"
+  },
+  {
+    "key": "14-content",
+    "original": "아, 아닙니다.",
+    "context": "EN :\nI—It’s nothing, sir.\nJP :\nい、いいえ。"
+  },
+  {
+    "key": "15-teller",
+    "original": "이끄는 이단심문관",
+    "context": "EN :\nLeading Inquisitor\nJP :\n導く異端審問官"
+  },
+  {
+    "key": "15-title",
+    "original": "N사 큰 망치",
+    "context": "EN :\nN Corp. Großhammer\nJP :\nN社 大鎚"
+  },
+  {
+    "key": "15-content",
+    "original": "오늘은 의식을 행하는 날이다. 쓸데없는 잡념이 있다면 지금 비워두도록.",
+    "context": "EN :\nToday is a day of ritual. You should rid yourself of any distracting thoughts in advance.\nJP :\n今日は儀式を行う日だ。無駄な雑念があるなら今、空にしておくように。"
+  },
+  {
+    "key": "16-content",
+    "original": "큭… 저놈의 의식!",
+    "context": "EN :\nTch… Them and their bloody ritual!\nJP :\nくっ…あのクソ儀式！"
+  },
+  {
+    "key": "17-content",
+    "original": "또 머리가 지끈거리는 책을 펼쳐 놓고 달달 외우게 만들 셈이야.",
+    "context": "EN :\nThey’re going to make me memorize phrases from that headache-inducing book.\nJP :\nまーた頭がズキズキいう本を開かせて、ブツブツ唱えさせるつもりか。"
+  },
+  {
+    "key": "18-content",
+    "original": "그리고는, 무슨 통조림을 까서 희멀건 죽 같은 걸 계속 먹인단 말이야…",
+    "context": "EN :\nThen, they’ll feed me some sort of white porridge out of a crummy can…\nJP :\nそんでもって、なんか缶詰を開けて白くてちょっと濁った粥みてぇなのをずっと食わせてくんだよ…。"
+  },
+  {
+    "key": "19-content",
+    "original": "그럴 때 마다 점점 기억이 녹는 것 같이 변해서는…",
+    "context": "EN :\nFeels like my memories slowly blur and melt together whenever this happens…\nJP :\nそうする度に段々と記憶が融けるように変わって…。"
+  },
+  {
+    "key": "20-teller",
+    "original": "이끄는 이단심문관",
+    "context": "EN :\nLeading Inquisitor\nJP :\n導く異端審問官"
+  },
+  {
+    "key": "20-title",
+    "original": "N사 큰 망치",
+    "context": "EN :\nN Corp. Großhammer\nJP :\nN社 大鎚"
+  },
+  {
+    "key": "20-content",
+    "original": "구호. 이단은.",
+    "context": "EN :\nNow the chant: “Heretics—”\nJP :\n号令。異端は。"
+  },
+  {
+    "key": "21-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "21-teller",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "21-title",
+    "original": "N사 작은 망치",
+    "context": "EN :\nN Corp. Kleinhammer\nJP :\nN社 小鎚"
+  },
+  {
+    "key": "21-content",
+    "original": "정화되리라.",
+    "context": "EN :\n“—shall be purged.”\nJP :\n浄化せん。"
+  },
+  {
+    "key": "22-content",
+    "original": "어?",
+    "context": "EN :\nHuh?\nJP :\nあ？"
+  },
+  {
+    "key": "23-content",
+    "original": "내가 방금… 뭐라고 했지?",
+    "context": "EN :\nWhat did… I just say?\nJP :\nオレ今…なんつった？"
+  }
+]

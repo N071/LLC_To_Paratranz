@@ -1,0 +1,680 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 1F",
+    "context": "EN :\nCasino 1F\nJP :\nカジノ 1F"
+  },
+  {
+    "key": "0-content",
+    "original": "카지노 안은 산만했다.",
+    "context": "EN :\nThe casino could be best described as “busy”.\nJP :\nカジノの中は散漫としていた。"
+  },
+  {
+    "key": "1-content",
+    "original": "슬롯머신은 지나칠 정도로 경쾌한 효과음을 내뿜고 있었으며,",
+    "context": "EN :\nExcessively cheery sounds blared from slot machines.\nJP :\nスロットマシンは過剰なくらい軽快な効果音を吐き出しており、"
+  },
+  {
+    "key": "2-content",
+    "original": "과도하게 밝은 조명은 수감자 일부가 손바닥으로 눈을 가릴 정도였다.",
+    "context": "EN :\nThe lights were so bright that some of our Sinners had to cover their eyes.\nJP :\n過度に明るい照明は、一部の囚人が手のひらで目を覆う程度だった。"
+  },
+  {
+    "key": "3-content",
+    "original": "멀리서도 눈에 띄는 우리의 복장을 보고 경호원들은 익숙한 듯 고개를 숙였고,",
+    "context": "EN :\nAnd the security guards took note of our garish outfits to give us a customary nod.\nJP :\n遠くでも目に付く私たちの服装を見て\n警護員たちはいつものことだという風に頭を下げ、"
+  },
+  {
+    "key": "4-content",
+    "original": "소드와 에피도 카지노 딜러인 척 로쟈와 함께 칩을 교환하러 가며 은밀히 우리에게 고개를 까딱였다.",
+    "context": "EN :\nSaude and Effie, dressed as croupiers, discreetly nodded at us as they accompanied Rodya to the casino’s cage.\nJP :\nソードとエピはカジノディーラーのフリをして、ロージャと一緒に\nチップを交換しに行きつつ、私たちにこっそり首を振った。"
+  },
+  {
+    "key": "5-content",
+    "original": "순식간에 걸음걸이부터 표정까지, 이곳에서 오랫동안 몸 담은 직원처럼 보이게 만드는 그들의 노련함에 감탄이 나왔다.",
+    "context": "EN :\nI was amazed by their ability to feign expertise; from the way they carried themselves to the facial expressions they made, few would doubt that they’re long-time employees.\nJP :\n一瞬にして歩き方や表情まで、\nここで長年働いた人に見せられる彼らの技量に感嘆した。"
+  },
+  {
+    "key": "6-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "6-content",
+    "original": "이… 이 번쩍번쩍 거리는 기계는 대체 무엇이오?",
+    "context": "EN :\nWha… What manner of sorcery are these dazzling contraptions?\nJP :\nこ…このキラキラしている機械は一体なんなのだ？"
+  },
+  {
+    "key": "7-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "7-content",
+    "original": "그렇게 눈 휘둥그레져서 돌아다니지 마, 돈키호테. 수상해 보이잖냐…",
+    "context": "EN :\nTry not to go saucer-eyed at everything like a fascinated kid, Don Quixote. You’ll seem fishy…\nJP :\nそんな目をまん丸にして歩き回るなよ、ドンキホーテ。怪しまれるだろ…。"
+  },
+  {
+    "key": "8-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "8-content",
+    "original": "손님들 눈빛이 다들 죽어 있네요. 그리고 콩콩이파 놈들보다 역겨운 냄새도 나는 거 같아요. 씻지를 않는 건가…",
+    "context": "EN :\nThe guests here look dead inside with their dim eyes, and they smell worse than the Tingtang schmucks we faced. Do they even wash…\nJP :\n客の目がみんな死んでますね。そしてぽんぽん派より\n臭い匂いも漂ってる気がします。洗ってないのかな…。"
+  },
+  {
+    "key": "9-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "9-content",
+    "original": "너무 노골적으로 코 틀어막지도 마, 이스마엘…",
+    "context": "EN :\nI don’t think they’d be too happy about you holding your nose right before their faces, Ishmael…\nJP :\nそんな露骨に鼻を塞ぐのもやめろ、イシュメール…。"
+  },
+  {
+    "key": "10-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-content",
+    "original": "하지만, 갑판원들한테서나 맡던 흉악한 냄새인 걸요…",
+    "context": "EN :\nBut, this is the kind of bilgy stench I’d only ever caught from deckhands…\nJP :\nでも、甲板員みたいな人達から漂うような凶悪な匂いなんですよ…。"
+  },
+  {
+    "key": "11-content",
+    "original": "다행히도 대부분은 머신에만 집중하고 있었으므로 우리에게 신경을 쓸 이들은 없었다.",
+    "context": "EN :\nFortunately, most of them were too focused on the machines to care about what we were doing.\nJP :\n幸いなことに大多数はマシンに集中していたので、\n私たちに目を向ける人はいなかった。"
+  },
+  {
+    "key": "12-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "12-content",
+    "original": "관리자 나리! 이런 거 본 적 있소?",
+    "context": "EN :\nManager Esquire! Hath you seen such a thing?\nJP :\n管理人殿！こんなの見たことありまするか？"
+  },
+  {
+    "key": "13-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "13-content",
+    "original": "나도 저들처럼 신나는 소리를 듣고 싶은데 어떻게 해야 하는 것이오?",
+    "context": "EN :\nWhat must I do to hear the jolly bells as the other patrons are?\nJP :\n私も彼の者らみたいに楽しい音を聞きたいのだが、\nいかがすれば良いのでござりましょう？"
+  },
+  {
+    "key": "14-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "14-content",
+    "original": "<나도 이런 데는 아마 처음 일 거라, 잘 모르겠는데…>",
+    "context": "EN :\n<I don’t think I’ve been to one of these places before, so I wouldn’t know…>\nJP :\n<私もこんなところは多分初めてだと思うから、良く分かんないけど…。>"
+  },
+  {
+    "key": "15-content",
+    "original": "쉴 새 없이 돌아가고 있는 그림과 숫자들을 보고 있자니, 엄격한 관리자 역할을 해야 한다는 다짐도 조금씩 녹아갔다.",
+    "context": "EN :\nLooking at all the flashy symbols and numbers spinning had slowly eroded my resolve to act the part of a stern manager.\nJP :\n休む暇もなく回っている絵と数字を見ていると、 \n厳格な管理人の役割を果たすという決心も少しずつ溶けていった。"
+  },
+  {
+    "key": "16-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "<조, 조금만 구경해볼까?>",
+    "context": "EN :\n<I, I guess a little peek is fine?>\nJP :\n<ちょ、ちょっとだけ見ていくか？>"
+  },
+  {
+    "key": "17-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "17-content",
+    "original": "여기 버튼을 누르라고 써 있소! 버튼을 누르면 되는 것이오?",
+    "context": "EN :\nIt says here to press the button! Is pressing it what one ought to do?\nJP :\nここにボタンを押せって書いてありまする！\nボタンを押せば良いのでございましょうか？"
+  },
+  {
+    "key": "18-content",
+    "original": "내 시침과 분침에게 맹세 하건데, 애당초 나는 버튼을 누를 의지 같은 건 결코 없었다.",
+    "context": "EN :\nI swear upon my minute and hour hands that I had no intention to press that button, absolutely none.\nJP :\n私の時針と分針に誓うが、そもそも私はボタンを押すつもりは決して無かった。"
+  },
+  {
+    "key": "19-content",
+    "original": "돈키호테를 막기 위해 조금 더 날쌔게 손을 뻗었을 뿐이었지만 미끄러지면서 버튼을 누르게 되었을 뿐이고.",
+    "context": "EN :\nThe hand I’d swiftly outstretched to stop Don Quixote from touching the machine unexpectedly fumbled and landed smack on the button—\nJP :\nドンキホーテを止めるためにちょっと素早く手を伸ばしただけだが、\n滑ってボタンを押すことになっただけで。"
+  },
+  {
+    "key": "20-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "20-content",
+    "original": "<어이쿠!>",
+    "context": "EN :\n<Yikes!>\nJP :\n<あちゃぁ！>"
+  },
+  {
+    "key": "21-content",
+    "original": "우연의 연속으로 그 슬롯머신은 누군가가 넣어 놓고 간 동전으로 인해 한 번의 기회가 남아있던 상태였다.",
+    "context": "EN :\n—and in an unpredictable series of coincidences, someone had left a token in it, enough for one game.\nJP :\n偶然の連続で、そのスロットマシンには誰かが置いていったコインによって\n1回のチャンスが残っていた状態だった。"
+  },
+  {
+    "key": "22-content",
+    "original": "요란스러운 음악과 함께 그림들이 돌아가기 시작했고…",
+    "context": "EN :\nReels started spinning under fanfare…\nJP :\n甲高い音楽と共に絵が回り始め…。"
+  },
+  {
+    "key": "23-content",
+    "original": "우리는 그 순간을 넋 놓고 보고 있을 뿐이었다.",
+    "context": "EN :\nWe could only watch as the chain of events unfolded.\nJP :\n私たちはその瞬間をぼーっと眺めていた。"
+  },
+  {
+    "key": "24-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "24-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "24-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "24-content",
+    "original": "그나저나, 단테 씨는 콩콩이파한테서 회수했던 소망티켓은 잘 부착하고 있겠죠?",
+    "context": "EN :\nBy the way, I hope Dante handles the wish stickers we took from the Tingtang Gang with care.\nJP :\nそういえば、ダンテさんはぴょんぴょん派から回収した\n願望シールはちゃんと付けてますよね？"
+  },
+  {
+    "key": "25-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "25-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "25-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "25-content",
+    "original": "그 관리자라는 자? 우리가 유일하게 말한 부탁인데 그 정도는 해내야지.",
+    "context": "EN :\nThat manager? It was the only favor we asked of them, they’d better be doing a good job.\nJP :\nあの管理人という人？俺たちが唯一任せたお願いなんだし、\nそれくらいはやってくれないと。"
+  },
+  {
+    "key": "26-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "26-content",
+    "original": "단테는 믿어도 돼~ 나랑 말이 통하는 몇 안 되는 상식인 중 하나라구.",
+    "context": "EN :\nYou can count on Dante, dear duo~ They’re one of the few sensible pals who gets what’s up.\nJP :\nダンテは信じていいよ～。私と話が通じる数少ない常識人の一人だよ。"
+  },
+  {
+    "key": "27-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "27-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "27-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "27-content",
+    "original": "다행이네요. 그렇게 많은 양의 소망을 한 번에 부착하게 된다면 어떤 판이던 무리 없이 이길 수 있을 거랍니다.",
+    "context": "EN :\nThat’s good to hear. With so many sheets attached, they should be able to win any game with ease.\nJP :\n良かったです。あれほど沢山の願望を一度に付ければ、\nどんなゲームでも無理なく勝てると思います。"
+  },
+  {
+    "key": "28-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "28-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "28-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "28-content",
+    "original": "가장 중요한 건 이곳에서 시선만 끌지 않으면 된다는 거예요.",
+    "context": "EN :\nWe just need to be careful not to draw attention here.\nJP :\n一番大事なのは、ここで視線を集めさえしなければ良いということです。"
+  },
+  {
+    "key": "29-content",
+    "original": "잭~팟! ",
+    "context": "EN :\nJAAACKPOT!\nJP :\nジャ～～～ックポット！"
+  },
+  {
+    "key": "30-content",
+    "original": "옆에 있던 손님은 그 광경을 턱이 거의 바닥까지 닿을 기세로 입을 벌리며 쳐다보고…",
+    "context": "EN :\nThe players next to us stared with jaws dropped so far that their chins could touch the floor…\nJP :\n隣にいた客はその光景を、顎が床に着く勢いで口をあんぐり開けて見つめ…。"
+  },
+  {
+    "key": "31-content",
+    "original": "수많은 카지노 칩이 주워 담을 엄두조차 나지 않을 기세로 쏟아지고 있었다.",
+    "context": "EN :\nWaves of casino chips plunged from the machine, so many that I wouldn’t dare try to gather them up.\nJP :\n沢山のカジノチップが、\n拾い上げるという発想も出ないくらいの勢いで溢れ出ていた。"
+  },
+  {
+    "key": "32-content",
+    "original": "미안합니다. 에피, 소드.",
+    "context": "EN :\nI’m so sorry, Effie, Saude.\nJP :\nごめんなさい。エピ、ソード。"
+  },
+  {
+    "key": "33-content",
+    "original": "나름대로 결연한 마음으로 들어섰는데, 벌써 망했어요.",
+    "context": "EN :\nI came here determined to do something right, and it fell apart all so soon.\nJP :\n私なりに厳然とした気持ちで入ったんですが、もう終わりました。"
+  },
+  {
+    "key": "34-teller",
+    "original": "카지노 손님1",
+    "context": "EN :\nOne Casinogoer\nJP :\nカジノ客1"
+  },
+  {
+    "key": "34-title",
+    "original": "호구",
+    "context": "EN :\nChump\nJP :\nカモ"
+  },
+  {
+    "key": "34-content",
+    "original": "잭 팟이 떴다고? 몇 번 머신?",
+    "context": "EN :\nA jackpot? What machine is it?\nJP :\nジャックポットが当たったって？何番マシン？"
+  },
+  {
+    "key": "35-teller",
+    "original": "카지노 손님2",
+    "context": "EN :\nAnother Casinogoer\nJP :\nカジノ客2"
+  },
+  {
+    "key": "35-title",
+    "original": "호구",
+    "context": "EN :\nChump\nJP :\nカモ"
+  },
+  {
+    "key": "35-content",
+    "original": "갑자기 터졌어? 지금?",
+    "context": "EN :\nJust like that, no warning? Right now?\nJP :\n急に当たった？今？"
+  },
+  {
+    "key": "36-model",
+    "original": "각잡힌카지노경호원",
+    "translation": "一板一眼的警卫",
+    "context": "EN :\n警卫\nJP :\nBodyguard2"
+  },
+  {
+    "key": "36-teller",
+    "original": "각 잡힌 카지노 경호원",
+    "context": "EN :\nRigid Security\nJP :\n身なりの整ったカジノ警護員"
+  },
+  {
+    "key": "36-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "36-content",
+    "original": "잠깐 거기…",
+    "context": "EN :\nA moment, please…\nJP :\nちょっと失礼…。"
+  },
+  {
+    "key": "37-model",
+    "original": "각잡힌카지노경호원",
+    "translation": "一板一眼的警卫",
+    "context": "EN :\n警卫\nJP :\nBodyguard2"
+  },
+  {
+    "key": "37-teller",
+    "original": "각 잡힌 카지노 경호원",
+    "context": "EN :\nRigid Security\nJP :\n身なりの整ったカジノ警護員"
+  },
+  {
+    "key": "37-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "37-content",
+    "original": "신원 확인 좀 하겠습니다.",
+    "context": "EN :\nLet me just check your ID.\nJP :\n身分確認を行いますね。"
+  },
+  {
+    "key": "38-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "38-content",
+    "original": "분위기가 왜 이렇게 험악해? 카지노에서 대박 터뜨린 게 죄냐?",
+    "context": "EN :\nWhat’s with the aggro? Is it a crime to win big at a casino?\nJP :\nなんで雰囲気がこんなに険悪なんだ？カジノで大当たりすることは罪なのか？"
+  },
+  {
+    "key": "39-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "39-content",
+    "original": "이곳에서 운이라는 건 보통 우리가 알고 있는 개념의 운처럼 돌아가지 않아요. 운을 모아서 터뜨리거나 운을 찔끔찔끔 넣어서 본전이나 노릴 정도면 몰라도, 입장하자마자 잭팟을 터뜨린다는 건 여기선 있을 수 없는 일인 거죠.",
+    "context": "EN :\nChance in this place doesn’t work the way we think it usually does. You could accumulate your luck for a big payout or trickle in small amounts to break even, but winning the jackpot on your first try should be a literal impossibility here.\nJP :\nここで運というのは、普通私たちが知っている概念の運のようにはいきません。運\nを集めて爆発させたり、運を少しずつ入れて本命を狙うくらいならともかく、入場\nしてすぐにジャックポットを当てるというのはここではあり得ないことなんです。"
+  },
+  {
+    "key": "40-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "40-content",
+    "original": "칩들이 별처럼 쏟아져 내려오고 있소!",
+    "context": "EN :\nChips are raining down like shooting stars!\nJP :\nチップが星のように流れ出ておりまする！"
+  },
+  {
+    "key": "41-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "41-content",
+    "original": "적어도 관리자님만큼은 책임감이 있을 줄 알았는데… 겨우 돈키호테 꼬임에 넘어간 건가요.",
+    "context": "EN :\nI’d hoped you of all people would have a sense of responsibility… Yet all it took was Don Quixote’s siren plea for you to give in.\nJP :\n少なくとも管理人さんだけは責任感があると思ったのに…。\nたかがドンキホーテの誘惑に負けたんですか。"
+  },
+  {
+    "key": "42-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "42-content",
+    "original": "실망이에요. 아무리 그래도, 다른 누구도 아닌 관리자님인데. 이번에야말로 전에 겪은 실패라는 치욕을 닦아내려 주실 수 있을 줄만 알았는데.",
+    "context": "EN :\nI’m disappointed. You’re none other than our manager, and I expected you to show your capability and clear the disgrace of failure from us.\nJP :\n失望しました。いくら何でも、他でもない管理人さんなのに。\n今度こそ、前に経験した失敗という恥辱を拭い去ってくれると思っていたのに。"
+  },
+  {
+    "key": "43-content",
+    "original": "이스마엘이 내뱉는 쉴 새 없는 속삭임 속사포는, 그레고르가 자신도 모르게 감탄을 내뱉을 정도였다.",
+    "context": "EN :\nIshmael’s barrage of scathing whispers was something to marvel at, as Gregor muttered in awe.\nJP :\nイシュメールが絶えず吐き出す囁きのマシンガンは、グレゴールが思わず感嘆するほどだった。"
+  },
+  {
+    "key": "44-content",
+    "original": "거기에 더해서, 한 번도 느껴본 적 없었던 이스마엘의 뚫릴 것만 같은 시선은…",
+    "context": "EN :\nOn top of that, her piercing gaze I had never felt before…\nJP :\nそれに加えて、今まで経験したことのなかった\nイシュメールの貫かんばかりの視線は…。"
+  },
+  {
+    "key": "45-content",
+    "original": "있을 리도 없는 쥐구멍을 찾아서 들어가고만 싶게 만들었다.",
+    "context": "EN :\n…It made me want to weasel away under a rock, if there were one.\nJP :\nあるはずもない穴を探して入りたくなるようなものだった。"
+  },
+  {
+    "key": "46-content",
+    "original": "마주칠 눈이 없는 시계 대가리라 이번만큼은 너무 다행이라는 생각만 들 뿐이었다.",
+    "context": "EN :\nFor once, I thanked my clock for lacking eyes to meet her glare.\nJP :\n合わせる目がない時計頭なので、とても幸いだということしか考えられなかった。"
+  },
+  {
+    "key": "47-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "47-content",
+    "original": "…잠깐, 그거 하나만 문제는 아닌 것 같은데…",
+    "context": "EN :\n…Now hold on, that might not be our only problem…\nJP :\n…待て、それだけが問題じゃないと思うんだけど。"
+  },
+  {
+    "key": "48-content",
+    "original": "갑작스러운 상황에 주변을 휙휙 살피던 그레고르가 충격적인 것을 봤다는 듯한 표정을 지으며 손가락으로 어딘가를 가리켰다.",
+    "context": "EN :\nGregor was fretfully looking in every direction, until he stopped to point at the shocking discovery he’d just made.\nJP :\n急な状況の変化に周りを見回していたグレゴールが、\n衝撃的なのを見たかのような表情をしながら指でどこかを指差した。"
+  },
+  {
+    "key": "49-content",
+    "original": "그 손가락의 끝에는…",
+    "context": "EN :\nAnd where he pointed—\nJP :\nその指の先には…。"
+  },
+  {
+    "key": "50-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "50-content",
+    "original": "언제부터 니 옷을 그대로 걸치고 있었어, 료슈?",
+    "context": "EN :\nHow long have you been off your disguise, Ryōshū?\nJP :\nいつから普段のお前の服をそのまんま着てたんだ、良秀？"
+  },
+  {
+    "key": "51-content",
+    "original": "평소와 똑같은 복장의 료슈가 뚱한 표정으로 서 있는 모습이 있었다.",
+    "context": "EN :\n—was a sullen Ryōshū, wearing the same clothes she’s always worn.\nJP :\n普段と同じ服装の良秀が、機嫌悪そうな顔で立っていた。"
+  },
+  {
+    "key": "52-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "52-content",
+    "original": "난 남이 버린 옷 따윈 걸치지 않는다.",
+    "context": "EN :\nI don’t put on others’ discarded clothing.\nJP :\n俺は人が捨てた服なんか着ない。"
+  },
+  {
+    "key": "53-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "53-content",
+    "original": "하… 관리자 양반. 아무래도 우리…",
+    "context": "EN :\nGah… Manager Bud, today isn’t our day, huh…\nJP :\nはぁ…管理人の旦那。どうにも俺たち…。"
+  },
+  {
+    "key": "54-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "54-content",
+    "original": "<응… 망한 것 같아. 제대로…>",
+    "context": "EN :\n<Yup… Looks like we’re screwed. Royally…>\nJP :\n<うん…終わったみたい。本気で…。>"
+  },
+  {
+    "key": "55-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "55-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "55-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "55-content",
+    "original": "말도 안 돼… 이 계획을 위해 우리가 얼마나…",
+    "context": "EN :\nThis can’t be… All the work we did to put this plan in motion…\nJP :\n馬鹿な…この計画のために俺たちがどれだけ…。"
+  },
+  {
+    "key": "56-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "56-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "56-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "56-content",
+    "original": "파우스트, 이런 작자들을 데리고 어떻게 임무를 수행하겠다고 자처한 거야? 도시 제일 가는 천재 중에 하나라며, 어떻게 든 해 봐!",
+    "context": "EN :\nFaust, what were you thinking volunteering to bring these fools along for your missions? You’re supposed to have near-unparalleled brilliance, right? Then use it!\nJP :\nファウスト、こんな奴らを連れてどうやって任務を果たす役割を買って出たんだ？都市でピカイチの天才なんだろ、なんとかしてみろ！"
+  },
+  {
+    "key": "57-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "57-content",
+    "original": "비록 제가 이분들과 함께한 시간이 길진 않지만, 깨달은 게 하나 있었죠.",
+    "context": "EN :\nEven though I haven’t worked with them for long, I was able to realize something:\nJP :\n私がこの方々と一緒に過ごした時間は長くはありませんが、\n悟ったことが一つありました。"
+  },
+  {
+    "key": "58-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "58-content",
+    "original": "불확실성을 믿는 파우스트가 되는 겁니다.",
+    "context": "EN :\nI ought to become a Faust that believes in uncertainty.\nJP :\n不確実性を信じるファウストになるのです。"
+  },
+  {
+    "key": "59-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "59-content",
+    "original": "계획이 없는 것이 계획이 되는 순간 어떤 변수조차도 더 이상 변수가 아니게 되어버리니까.",
+    "context": "EN :\nWhen the lack of a plan becomes the plan, all variables become constants.\nJP :\n計画がないことが計画になった瞬間、いかなる変数であれ\nもはや変数ではなくなってしまうから。"
+  },
+  {
+    "key": "60-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "60-content",
+    "original": "이것이 저의 계획입니다.",
+    "context": "EN :\nThat is what my ‘plan’ entails.\nJP :\nこれが私の計画です。"
+  },
+  {
+    "key": "61-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "61-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "61-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "61-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "62-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "62-content",
+    "original": "…하아.",
+    "context": "EN :\n…Sigh.\nJP :\n…はぁ。"
+  },
+  {
+    "key": "63-content",
+    "original": "파우스트가 평온한 얼굴로 나를 쳐다보았다.",
+    "context": "EN :\nFaust turned to me with a tranquil face.\nJP :\nファウストは穏やかな顔で私を見つめた。"
+  },
+  {
+    "key": "64-content",
+    "original": "덕분에, 비로소 내가 무엇을 해야 할지 명확해진 것 같은 기분이었다.",
+    "context": "EN :\nThanks to her, my role right now became clear.\nJP :\nおかげで、やっと私が何をすべきなのか明確になった気がした。"
+  },
+  {
+    "key": "65-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "65-content",
+    "original": "<자… 언제나 그랬듯이…>",
+    "context": "EN :\n<Alright… It’s time for our usual gig…>\nJP :\n<さぁ…いつも通り…。>"
+  },
+  {
+    "key": "66-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "66-content",
+    "original": "<죽고 죽이러 가자.>",
+    "context": "EN :\n<Let’s kill and be killed.>\nJP :\n<死んで殺しに行こう。>"
+  }
+]

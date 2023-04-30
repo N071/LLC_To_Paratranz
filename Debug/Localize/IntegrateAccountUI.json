@@ -1,0 +1,107 @@
+[
+  {
+    "key": "receive_integrate_account_code-content",
+    "original": "연동 코드 발급",
+    "context": "EN :\nSend Merge Code\nJP :\n連携コード生成"
+  },
+  {
+    "key": "receive_integrate_account_code_description-content",
+    "original": "발급된 계정 연동 코드를 시간 내에 연동해주시기 바랍니다.",
+    "context": "EN :\nAfter receiving your code, please make sure to complete the process before it expires.\nJP :\n生成されたアカウント連携コードを、時間内に連携してください。"
+  },
+  {
+    "key": "request_integrate_account_code-content",
+    "original": "발급 신청",
+    "context": "EN :\nRequest Code\nJP :\n生成リクエスト"
+  },
+  {
+    "key": "input_integrate_account_code-content",
+    "original": "연동 코드 입력",
+    "context": "EN :\nMerge Code Input\nJP :\n連携コード入力"
+  },
+  {
+    "key": "input_code-content",
+    "original": "코드 입력",
+    "context": "EN :\nEnter Code\nJP :\nコード入力"
+  },
+  {
+    "key": "integrate_account_code-content",
+    "original": "계정 연동 코드",
+    "context": "EN :\nAccount Merger Code\nJP :\nアカウント連携コード"
+  },
+  {
+    "key": "input_integrate_account_code_description-content",
+    "original": "UID와 발급된 코드를 입력하세요",
+    "context": "EN :\nPlease enter your UID and the provided code.\nJP :\nUIDと発給コードを入力してください。"
+  },
+  {
+    "key": "unable_to_integrate_account-content",
+    "original": "연동을 진행할 수 없습니다.",
+    "context": "EN :\nCould not merge account.\nJP :\n連携を進行することが出来ません。"
+  },
+  {
+    "key": "not_exist_integrate_code-content",
+    "original": "연동 코드가 존재하지 않습니다.",
+    "context": "EN :\nThe merge code does not exist.\nJP :\n連携コードが存在しません。"
+  },
+  {
+    "key": "select_account_for_integrate-content",
+    "original": "연동할 계정을 선택하세요.",
+    "context": "EN :\nPlease select an account to merge.\nJP :\n連携するアカウントを選択してください。"
+  },
+  {
+    "key": "current_account-content",
+    "original": "현재 계정",
+    "context": "EN :\nCurrent Account\nJP :\n現在のアカウント"
+  },
+  {
+    "key": "new_account-content",
+    "original": "새로운 계정",
+    "context": "EN :\nNew Account\nJP :\n新しいアカウント"
+  },
+  {
+    "key": "warning_none_integrate_account_removed-content",
+    "original": "※ 선택되지 않은 계정은 삭제됩니다.",
+    "context": "EN :\n※ The unselected account will be deleted.\nJP :\n※選択されないアカウントは削除されます。"
+  },
+  {
+    "key": "ask_to_integrate_account-content",
+    "original": "선택한 계정으로 연동을 진행하시겠습니까?",
+    "context": "EN :\nMerge data to the selected account?\nJP :\n選んだアカウントにて連携を進行しますか？"
+  },
+  {
+    "key": "ask_to_integrate_account_warning-content",
+    "original": "선택한 계정으로 연동을 진행하시겠습니까?",
+    "context": "EN :\nMerge data to the selected account?\nJP :\n選んだアカウントにて連携を進行しますか？"
+  },
+  {
+    "key": "receiving_integrate_account_code-content",
+    "original": "발급 중",
+    "context": "EN :\nSending code…\nJP :\nコード発給中"
+  },
+  {
+    "key": "success_integrate_account_message-content",
+    "original": "계정 연동이 정상적으로 처리되었습니다.",
+    "context": "EN :\nAccount data merged successfully.\nJP :\nアカウントの連携が正常に処理されました。"
+  },
+  {
+    "key": "warning_before_integrate-content",
+    "original": "<color=red>선택되지 않은 계정은 삭제됩니다.</color>",
+    "context": "EN :\n<color=red>The unselected account will be deleted.</color>\nJP :\n<color=red>選択されないアカウントは削除されます。</color>"
+  },
+  {
+    "key": "link_error_link_failed-content",
+    "original": "연동 불가",
+    "context": "EN :\nCannot Merge\nJP :\n連携不能"
+  },
+  {
+    "key": "link_error_expired-content",
+    "original": "연동 코드가 만료되었습니다.",
+    "context": "EN :\nThe merge code has expired.\nJP :\n連携コードの期限が切れました"
+  },
+  {
+    "key": "link_error-content",
+    "original": "연동에 실패하였습니다.\n게스트 계정이거나 동일한 플랫폼의 계정에 연동을 시도할 경우, 연동이 불가능합니다.",
+    "context": "EN :\nFailed to integrate account data.\nYou cannot merge data with an account of the same platform or a guest account.\nJP :\n連携に失敗しました。\nゲストアカウントや、同一プラットフォームでの連携は不可能です。"
+  }
+]

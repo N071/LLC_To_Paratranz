@@ -1,0 +1,72 @@
+[
+  {
+    "key": "battle_awaken_20201_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20201_1-dlg",
+    "original": "모든 결과들은 파우스트가 알아요.",
+    "context": "EN :\nFaust knows all outcomes.\nJP :\n全ての結果はファウストが知っています。"
+  },
+  {
+    "key": "battle_awaken_20202_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20202_1-dlg",
+    "original": "이 전투는 승리할거예요.",
+    "context": "EN :\nThis battle will conclude with victory.\nJP :\nこの戦闘には勝利するでしょう。"
+  },
+  {
+    "key": "battle_awaken_20203_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20203_1-dlg",
+    "original": "가슴 가장 깊은 곳까지… 박히도록…",
+    "context": "EN :\nPierce… to the profundities of the heart…\nJP :\n胸の一番深い場所まで…突き刺さるように…。"
+  },
+  {
+    "key": "battle_erosion_20202_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20202_1-dlg",
+    "original": "모든 것을 토해내더라도…",
+    "context": "EN :\nEven if I must disgorge everything…\nJP :\n全てを吐き出してでも…。"
+  },
+  {
+    "key": "battle_erosion_20203_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20203_1-dlg",
+    "original": "이리와… 꽉 안아줄게…",
+    "context": "EN :\nCome here… I’ll hug you tight…\nJP :\nおいで…ぎゅっと抱きしめてあげる…。"
+  },
+  {
+    "key": "battle_awaken_20204_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20204_1-dlg",
+    "original": "낙뢰 충전, 최대치예요.",
+    "context": "EN :\nLightning: Fully charged.\nJP :\n落雷充電、最大値です。"
+  },
+  {
+    "key": "battle_erosion_20204_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20204_1-dlg",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  }
+]

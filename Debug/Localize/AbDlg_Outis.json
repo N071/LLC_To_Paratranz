@@ -1,0 +1,142 @@
+[
+  {
+    "key": "1-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\n로쟈"
+  },
+  {
+    "key": "1-dialog",
+    "original": "필승이군요. 이런 작전을 세우시다니, 훌륭합니다.",
+    "context": "EN :\nVictory is all but guaranteed. Your strategy is truly commendable.\nJP :\n必勝ですね。こんな作戦をお立てになるとは、素晴らしいです。"
+  },
+  {
+    "key": "2-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\n로쟈"
+  },
+  {
+    "key": "2-dialog",
+    "original": "승률이 높습니다. 저를 내보내시죠.",
+    "context": "EN :\nThe tide is in our favor. Please leave this to me.\nJP :\n勝率が高いです。私を送ってください。"
+  },
+  {
+    "key": "3-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\n로쟈"
+  },
+  {
+    "key": "3-dialog",
+    "original": "내보내주신다면 실망시키지 않겠습니다.",
+    "context": "EN :\nI won’t disappoint you if you so choose to send me.\nJP :\n送って頂けるのあれば、失望はさせません。"
+  },
+  {
+    "key": "4-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\n로쟈"
+  },
+  {
+    "key": "4-dialog",
+    "original": "작전은 훌륭하지만, 제 역량이 부족하진 않을까 걱정됩니다.",
+    "context": "EN :\nWhile the plan is sound, I fear that my capabilities might be insufficient for it.\nJP :\n作戦は素晴らしいですが、私の力量が足りないか心配です。"
+  },
+  {
+    "key": "5-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\n로쟈"
+  },
+  {
+    "key": "5-dialog",
+    "original": "이런 구린 계획을... 아, 농담이신거군요?",
+    "context": "EN :\nWho comes up with such a crap— Ah, it was a joke, was it not?\nJP :\nこんなクソな計画を…あぁ、ご冗談ですね？"
+  },
+  {
+    "key": "6-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\n로쟈"
+  },
+  {
+    "key": "6-dialog",
+    "original": "훌륭한 작전 덕분에 승리했을 뿐입니다.",
+    "context": "EN :\nThis victory can only be attributed to your excellent planning.\nJP :\n素晴らしい作戦のおかげで勝利したまでです。"
+  },
+  {
+    "key": "7-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\n로쟈"
+  },
+  {
+    "key": "7-dialog",
+    "original": "저의 실책입니다...",
+    "context": "EN :\nThe fault is mine…\nJP :\n私の失策でございます…。"
+  },
+  {
+    "key": "8-teller",
+    "original": "검계 오티스",
+    "context": "EN :\nBlade Lineage Outis\nJP :\n剣契 ウーティス"
+  },
+  {
+    "key": "8-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "9-teller",
+    "original": "검계 오티스",
+    "context": "EN :\nBlade Lineage Outis\nJP :\n剣契 ウーティス"
+  },
+  {
+    "key": "9-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "10-teller",
+    "original": "검계 오티스",
+    "context": "EN :\nBlade Lineage Outis\nJP :\n剣契 ウーティス"
+  },
+  {
+    "key": "10-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "11-teller",
+    "original": "검계 오티스",
+    "context": "EN :\nBlade Lineage Outis\nJP :\n剣契 ウーティス"
+  },
+  {
+    "key": "11-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "12-teller",
+    "original": "검계 오티스",
+    "context": "EN :\nBlade Lineage Outis\nJP :\n剣契 ウーティス"
+  },
+  {
+    "key": "12-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "13-teller",
+    "original": "검계 오티스",
+    "context": "EN :\nBlade Lineage Outis\nJP :\n剣契 ウーティス"
+  },
+  {
+    "key": "13-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "14-teller",
+    "original": "검계 오티스",
+    "context": "EN :\nBlade Lineage Outis\nJP :\n剣契 ウーティス"
+  },
+  {
+    "key": "14-dialog",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  }
+]

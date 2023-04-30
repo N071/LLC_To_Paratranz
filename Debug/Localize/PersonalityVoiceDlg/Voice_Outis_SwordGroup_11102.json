@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11102_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11102_1-dlg",
+    "original": "흐름을 따라 이곳에 왔으니, 이를 막는 건 무엇이든 베어내겠습니다.",
+    "context": "EN :\nI’ve followed the flow to this place, and I’ll cut down all that impedes it.\nJP :\n流れに沿ってここに来ました。それゆえ、これを塞ぐものは何であれ切り裂きます。"
+  },
+  {
+    "key": "lobby_morning_11102_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11102_1-dlg",
+    "original": "전 주로 새벽에 일어나는 편입니다. 해가 솟아나는 순간을 직면해야, 하루의 시작을 하는 기분이거든요.",
+    "context": "EN :\nI normally rise early in the morning. Watching the sun on the horizon gives me the feeling that the day has begun.\nJP :\nわたくしは主に夜明けに起きるタイプです。日が昇る瞬間に直面してこそ、一日が始まる気がするので。"
+  },
+  {
+    "key": "lobby_noon_11102_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11102_1-dlg",
+    "original": "로지온이… 자꾸만 식당을 소개시켜주겠다 하더군요. 생소하지만, 먹는 것에도 즐거움을 느끼는 자들도 있는 것 같습니다.",
+    "context": "EN :\nRodion… She kept on insisting that she take me to a restaurant. Though the concept is foreign to me, it would seem that some people derive joy from eating.\nJP :\nロジオンが…しきりに食堂を案内すると言ってます。わたくしにはピンと来ないのですが、食べることにも楽しさを見出す者もいるようです。"
+  },
+  {
+    "key": "lobby_night_11102_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11102_1-dlg",
+    "original": "마음을 정리하고 싶을 땐 달빛을 올려다보는 것도 도움이 됩니다.",
+    "context": "EN :\nWhen you wish to clear your mind, admiring the moonlight can help.\nJP :\n頭の中を整理したいときは、月を見上げると良いですよ。"
+  },
+  {
+    "key": "smalltalk_11102_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11102_1-dlg",
+    "original": "눈 앞에 장애물이 있다면 베는 것을 망설이지 마시길 바랍니다. 설령 그것이 관리자님의 마음을 베게 되더라도.",
+    "context": "EN :\nYou shouldn’t restrain yourself from cutting down whatever obstructs your way, even if it is to wound your heart as well.\nJP :\n目の前に障害物があれば、躊躇わずに斬るのです。たとえそれが管理人様の心を斬ることになっても。"
+  },
+  {
+    "key": "smalltalk_11102_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11102_2-dlg",
+    "original": "긴 대화는 좋아하지 않습니다. 칼을 부딪히는 것보다 마음 솔직한 대화는 없었으니까요.",
+    "context": "EN :\nI dislike long conversation. No words hold more weight than those of clashing blades.\nJP :\n長い会話は好みません。刃を交わすこと以上に、心が率直に伝わる会話はありませんので。"
+  },
+  {
+    "key": "smalltalk_11102_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11102_3-dlg",
+    "original": "칼을  지니다 보면 자연스럽게 침착하고 신속해지기 마련입니다.",
+    "context": "EN :\nBearing a sword naturally makes your mind calm and your actions swift.\nJP :\n刀を持っていると、自然と冷静かつ迅速になれるものです。"
+  },
+  {
+    "key": "smalltalk_11102_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11102_4-dlg",
+    "original": "이끄는 자가 된다는 건 망망대해에 선다는 것과 닮았군요. 막막하면서도 까마득하지만… 물러설 곳이 없습니다.",
+    "context": "EN :\nTo become a leader is to sail a vast sea. It is a wide-spanning ordeal, with no destination in clear sight… yet there is nowhere to fall back to.\nJP :\n導く者になることは、大海原に立つことと似ていますね。果てしなくて、途方に暮れますが…引き下がれる場所がありません。"
+  },
+  {
+    "key": "smalltalk_11102_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11102_5-dlg",
+    "original": "관리자님은 목표를 위해서 어디까지 할 수 있으십니까. 그리고 어디까지… 내어질 수 있으십니까.",
+    "context": "EN :\nTo what extents are you willing to go for the sake of your goal, Executive Manager? Alongside that… how much of yourself can you withstand to forfeit?\nJP :\n管理人様は目標のためならどこまでやれますか。そしてどこまで…差し出すことができますか。"
+  },
+  {
+    "key": "neglect_11102_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11102_1-dlg",
+    "original": "요새는 기술이 좋아져서 핏자국 같은 건 순식간에 지워지더군요. 죽음 따윈 가볍게 잊어버리는 것이 도리인 것 마냥. ",
+    "context": "EN :\nThese days, advanced technology makes erasing bloodstains a trivial task, as though it were only right that we forget about death that easily.\nJP :\n最近は技術が発達して、血痕等はあっという間に消せるようになりましたね。死なぞ、軽く忘れてしまうことが道理であるかのように。"
+  },
+  {
+    "key": "gacksung_11102_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11102_1-dlg",
+    "original": "그러기를 바라신다면… 받들도록 하겠습니다.",
+    "context": "EN :\nIf you so wish… I shall serve you.\nJP :\nそうすることをお望みであれば…お仕えいたします。"
+  },
+  {
+    "key": "formation_11102_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11102_1-dlg",
+    "original": "베어내겠습니다.",
+    "context": "EN :\nI will dispatch them.\nJP :\n切り裂きます。"
+  },
+  {
+    "key": "battleentry_11102_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11102_1-dlg",
+    "original": "칼을 부딪칠 시간입니다.",
+    "context": "EN :\nIt’s time to have blades meet.\nJP :\n刃を交わす時間です。"
+  },
+  {
+    "key": "battle_select_11102_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11102_1-dlg",
+    "original": "간단하게라면 좋습니다.",
+    "context": "EN :\nI’d appreciate it if you could keep it simple.\nJP :\n簡単に済むのであれば。"
+  },
+  {
+    "key": "battle_endcommand_11102_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11102_1-dlg",
+    "original": "물러서지 않겠습니다.",
+    "context": "EN :\nI won’t stand back.\nJP :\n引き下がりはしません。"
+  },
+  {
+    "key": "battle_enemy_break_11102_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11102_1-dlg",
+    "original": "베어내기 충분합니다.",
+    "context": "EN :\nI should be able to slay them with ease.\nJP :\n切り裂くのには十分です。"
+  },
+  {
+    "key": "battle_break_11102_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11102_1-dlg",
+    "original": "읍!",
+    "context": "EN :\nMmpf!\nJP :\nうっ！"
+  },
+  {
+    "key": "battle_kill_11102_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11102_1-dlg",
+    "original": "침착한 결과입니다.",
+    "context": "EN :\nA result earned through calmness.\nJP :\n沈着であった結果です。"
+  },
+  {
+    "key": "battle_allydead_11102_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_11102_1-dlg",
+    "original": "힘드시겠습니다. 관리자님.",
+    "context": "EN :\nThat must be tough to recover, Executive Manager.\nJP :\nお疲れ様です。管理人様。"
+  },
+  {
+    "key": "choice_success_p_11102_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11102_1-dlg",
+    "original": "칼의 사용법을 잘 아시는군요.",
+    "context": "EN :\nI see you know your way around a sword.\nJP :\n刀の使い方を心得ていらっしゃるのですね。"
+  },
+  {
+    "key": "choice_fail_n_11102_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11102_1-dlg",
+    "original": "단련하지 않은 제 잘못입니다.",
+    "context": "EN :\nIt was my fault for neglecting to train.\nJP :\n鍛錬しなかったわたくしの過ちです。"
+  },
+  {
+    "key": "battle_clear_11102_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11102_1-dlg",
+    "original": "길이 보여 따라갔을 뿐.",
+    "context": "EN :\nI only followed the path I saw.\nJP :\n道が見えて従ったのみ。"
+  },
+  {
+    "key": "battle_clear_ex_11102_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11102_1-dlg",
+    "original": "흐름을 따라 전부 베어냈습니다.",
+    "context": "EN :\nI slew them all, dancing along with the flow.\nJP :\n流れに沿って全て切り裂きました。"
+  },
+  {
+    "key": "battle_defeat_11102_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11102_1-dlg",
+    "original": "후회는 없습니다.",
+    "context": "EN :\nI hold no regrets.\nJP :\n後悔はありません。"
+  }
+]

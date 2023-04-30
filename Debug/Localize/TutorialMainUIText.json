@@ -1,0 +1,1527 @@
+[
+  {
+    "key": "tutorial_mainui_01_selection-content",
+    "original": "편성",
+    "context": "EN :\nCreating your Team\nJP :\n編成"
+  },
+  {
+    "key": "tutorial_mainui_01_selection_page_01_desc_01-content",
+    "original": "림버스 수감자 12명의 인격으로 하나의 편성을 만들 수 있습니다.",
+    "context": "EN :\nYou can build a team with the Identities of your twelve Sinners.\nJP :\nリンバスの囚人12名の人格で、一つのチームを作ることが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_01_selection_page_02_title_01-content",
+    "original": "인격 교체",
+    "context": "EN :\nIdentity Swap\nJP :\n人格交代"
+  },
+  {
+    "key": "tutorial_mainui_01_selection_page_02_desc_01-content",
+    "original": "선택 시, 수감자의 인격 목록이 등장하며 다른 인격으로 교체할 수 있습니다.",
+    "context": "EN :\nSelecting a Sinner will show a list of their Identities; you can choose one to swap with the current Identity.\nJP :\n選択すると囚人の人格リストが表示され、他の人格に交換することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_01_selection_page_03_title_01-content",
+    "original": "아나운서 선택",
+    "context": "EN :\nAnnouncer Select\nJP :\nアナウンサー選択"
+  },
+  {
+    "key": "tutorial_mainui_01_selection_page_03_desc_01-content",
+    "original": "선택 시, 아나운서 목록이 등장합니다.",
+    "context": "EN :\nSelecting here will show a list of various voices.\nJP :\n選択すると、アナウンサーの一覧が表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_01_selection_page_03_desc_02-content",
+    "original": "전투 중에 사용할 아나운서를 변경할 수 있습니다.",
+    "context": "EN :\nYou can change who narrates your battles here.\nJP :\n戦闘中に使用するアナウンサーを変更出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_01_selection_page_04_title_01-content",
+    "original": "편성 목록",
+    "context": "EN :\nTeams\nJP :\n編成リスト"
+  },
+  {
+    "key": "tutorial_mainui_01_selection_page_04_desc_01-content",
+    "original": "총 20개의 편성을 만들 수 있습니다.",
+    "context": "EN :\nPreconfigure up to 20 teams here.\nJP :\n計20の編成を作成することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_01_selection_page_05_title_01-content",
+    "original": "E.G.O 자원",
+    "context": "EN :\nE.G.O Resources\nJP :\nE.G.O資源"
+  },
+  {
+    "key": "tutorial_mainui_01_selection_page_05_desc_01-content",
+    "original": "팀이 전투에서 획득할 수 있는 E.G.O 자원의 종류와 수량을 확인할 수 있습니다.",
+    "context": "EN :\nYou can view the types and amounts of E.G.O Resources your team can gain in battle.\nJP :\nチームが戦闘で獲得できるE.G.O資源の種類と数量を確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_02_identityandegolist-content",
+    "original": "인격 및 E.G.O 목록",
+    "context": "EN :\nIdentity and E.G.O Lists\nJP :\n人格およびE.G.Oリスト"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist-content",
+    "original": "인격 목록",
+    "context": "EN :\nThe Identity List\nJP :\n人格リスト"
+  },
+  {
+    "key": "tutorial_mainui_02_egolist-content",
+    "original": "E.G.O 목록",
+    "context": "EN :\nThe E.G.O List\nJP :\nE.G.Oリスト"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_01_desc_01-content",
+    "original": "편성에서 선택한 수감자의 인격 목록이 나열됩니다. 인격의 등급과 동기화 단계, 레벨, 소속을 확인할 수 있습니다.",
+    "context": "EN :\nYour Sinner’s Identities are shown here. You can check their Grades, Uptie Tiers, Levels, and Factions.\nJP :\n編成で選択した囚人の人格が一覧で表示されます。人格のランクと同期化段階、レベル、所属を確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_02_title_01-content",
+    "original": "편성 현황",
+    "context": "EN :\nTeam Configuration\nJP :\n編成状況"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_02_desc_01-content",
+    "original": "편성 중인 인격과 E.G.O를 동시에 확인할 수 있습니다. E.G.O는 각 등급마다 하나씩 등록할 수 있습니다.",
+    "context": "EN :\nYou can see both the Identities and E.G.O set for the team here. One E.G.O can be registered for each grade.\nJP :\n編成中の人格とE.G.Oを同時に確認することが出来ます。E.G.Oは各ランクごとに一つずつ登録可能です。"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_03_title_01-content",
+    "original": "편성 현황",
+    "context": "EN :\nTeam Configuration\nJP :\n編成状況"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_03_desc_01-content",
+    "original": "편성 현황의 버튼 터치 시, 해당 칸에 등록할 수 있는 E.G.O 목록으로 전환됩니다.",
+    "context": "EN :\nTapping this button brings you to the list of E.G.O that can be equipped on the slot.\nJP :\n編成状況のボタンをタッチすると、該当する欄に登録することの出来るE.G.Oリストへと切り替わります。"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_04_desc_01-content",
+    "original": "E.G.O의 등급과 해석 단계, 주 속성, 이름을 확인할 수 있습니다.",
+    "context": "EN :\nYou can view the E.G.O’s grade, Threadspin Tier, main attribute, and name.\nJP :\nE.G.Oのランクと解析段階、主な属性、名前を確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_05_title_01-content",
+    "original": "지원 목록",
+    "context": "EN :\nSupport List\nJP :\nサポートリスト"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_05_title_02-content",
+    "original": "지원 목록 버튼",
+    "context": "EN :\nSupport Button\nJP :\nサポートリストボタン"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_05_desc_01-content",
+    "original": "선택 시, 친구의 지원 인격 목록을 표시합니다.",
+    "context": "EN :\nUpon selection, a list of your friends’ support Identities is shown.\nJP :\n選択すると、フレンドのサポート人格リストが表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_05_desc_02-content",
+    "original": "친구가 등록한 지원 인격의 목록과 E.G.O 등록 현황이 나열됩니다.",
+    "context": "EN :\nSupport Identities and E.G.O registered by friends are shown here.\nJP :\nフレンドが登録したサポート人格のリストと登録E.G.Oが一覧で表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_02_identitylist_page_06_desc_01-content",
+    "original": "친구의 인격과 E.G.O를 빌릴 수 있습니다. 단, 하나의 편성에 둘 이상의 친구 인격을 빌릴 수 없습니다.",
+    "context": "EN :\nYou can borrow a friend’s Identity and E.G.O to assist you. Note that you may only have one support Identity on your team at a time.\nJP :\nフレンドの人格とE.G.Oを借りることが出来ます。ただし、1つの編成で2つ以上フレンドの人格を借りることはできません。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo-content",
+    "original": "인격 정보",
+    "context": "EN :\nIdentity Info\nJP :\n人格情報"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_01_title_01-content",
+    "original": "스테이터스",
+    "context": "EN :\nStatus\nJP :\nステータス"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_01_desc_01-content",
+    "original": "인격의 체력, 속도 범위값, 방어 레벨을 표시합니다.",
+    "context": "EN :\nThe Identity’s Max HP, Speed Range, and Defense Level are displayed here.\nJP :\n人格の体力、速度範囲値、防御レベルを表示します。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_01_title_02-content",
+    "original": "물리 내성",
+    "context": "EN :\nPhys. Resistances\nJP :\n物理耐性"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_01_desc_02-content",
+    "original": "인격의 참격, 관통, 타격에 대한 내성 수치를 표시합니다.",
+    "context": "EN :\nThe Identity’s resistances to Slash, Pierce, and Blunt attacks are displayed here.\nJP :\n人格の斬撃、貫通、打撃に対する耐性数値を表示します。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_02_title_01-content",
+    "original": "인격 이야기",
+    "context": "EN :\nIdentity Story\nJP :\n人格ストーリー"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_02_desc_01-content",
+    "original": "인격의 이야기를 감상할 수 있습니다.",
+    "context": "EN :\nYou can read the Identity’s story here.\nJP :\n人格のストーリーを鑑賞することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_02_title_02-content",
+    "original": "일러스트 전환",
+    "context": "EN :\nSwitch Artwork\nJP :\nイラスト切替"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_02_desc_02-content",
+    "original": "인격의 일러스트를 전환합니다.",
+    "context": "EN :\nYou can switch between versions of the Identity’s artwork.\nJP :\n人格のイラストを切り替えます。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_02_title_03-content",
+    "original": "일러스트 확대",
+    "context": "EN :\nFull View\nJP :\nイラスト拡大"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_02_desc_03-content",
+    "original": "현재 일러스트를 전체 화면으로 확대합니다.",
+    "context": "EN :\nGet a full view of the current artwork.\nJP :\n現在のイラストを全画面表示します。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_03_title_01-content",
+    "original": "동기화 단계",
+    "context": "EN :\nUptie Tier\nJP :\n同期化段階"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_03_desc_01-content",
+    "original": "동기화 단계가 높아질수록 강력한 스킬을 획득합니다.",
+    "context": "EN :\nUptying an Identity grants powerful skills and abilities.\nJP :\n同期化段階が高くなるほど、強力なスキルを獲得します。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_03_title_02-content",
+    "original": "레벨",
+    "context": "EN :\nLevel\nJP :\nレベル"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_03_desc_02-content",
+    "original": "레벨이 높아질수록 인격이 강화됩니다.",
+    "context": "EN :\nLevel up an Identity to make it more powerful.\nJP :\nレベルが高くなるほど人格が強化されます。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_04_title_01-content",
+    "original": "스킬",
+    "context": "EN :\nSkills\nJP :\nスキル"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_04_desc_01-content",
+    "original": "인격은 저마다 다양한 스킬을 가지고 있습니다. 스킬에 대한 자세한 정보를 확인할 수 있습니다.",
+    "context": "EN :\nEach Identity has its own set of skills. You can check their details here.\nJP :\n人格はそれぞれ様々なスキルを有しています。スキルの詳細を確認できます。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_05_title_01-content",
+    "original": "공격 유형",
+    "context": "EN :\nAttack Type\nJP :\n攻撃タイプ"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_05_desc_01-content",
+    "original": "참격, 관통, 타격으로 나뉩니다.",
+    "context": "EN :\nThe three attack types are Slash, Pierce, and Blunt.\nJP :\n斬撃・貫通・打撃に分かれます。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_05_title_02-content",
+    "original": "코인 개수",
+    "context": "EN :\nCoin Number\nJP :\nコイン個数"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_05_desc_02-content",
+    "original": "코인의 개수를 표시합니다.",
+    "context": "EN :\nThe number of coins is shown here.\nJP :\nコインの個数を表示します。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_05_title_03-content",
+    "original": "수량",
+    "context": "EN :\nAmount\nJP :\n数量"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_05_desc_03-content",
+    "original": "인격이 해당 스킬을 얼마나 보유하고 있는 지를 나타냅니다.",
+    "context": "EN :\nThis indicates how many copies of the skill are in the Identity’s Skillset.\nJP :\n人格が該当スキルをどれだけ保有しているのかを表します。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_05_title_04-content",
+    "original": "죄악 속성",
+    "context": "EN :\nSin Affinity\nJP :\n罪悪属性"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_05_desc_04-content",
+    "original": "분노, 색욕, 나태, 탐식, 우울, 오만, 질투로 나뉘며 각각 고유한 색으로 구분할 수 있습니다.",
+    "context": "EN :\nThe Sin Affinities are Wrath, Lust, Sloth, Gluttony, Gloom, Pride, and Envy, and each is assigned a unique color.\nJP :\n憤怒・色欲・怠惰・暴食・憂鬱・傲慢・嫉妬に分かれ、ぞれぞれ固有の色で区別されます。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_06_title_01-content",
+    "original": "공격 레벨",
+    "context": "EN :\nOffense Level\nJP :\n攻撃レベル"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_06_desc_01-content",
+    "original": "스킬의 공격 레벨과 피격자의 방어 레벨 간의 격차가 클수록 피해량이 크게 증가하거나 혹은 감소합니다.",
+    "context": "EN :\nThe difference in the attack skill’s offense level and the target’s defense level can greatly affect the amount of damage dealt.\nJP :\nスキルの攻撃レベルと被ダメージ側の防御レベル差が大きいほど、ダメージ量が大きく増加または減少します。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_06_title_02-content",
+    "original": "스킬 위력",
+    "context": "EN :\nSkill Power\nJP :\nスキル威力"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_06_desc_02-content",
+    "original": "스킬의 기본 위력을 표시합니다.",
+    "context": "EN :\nThis indicates the base Power value of the skill.\nJP :\nスキルの基本威力を表示します。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_06_title_03-content",
+    "original": "코인 위력",
+    "context": "EN :\nCoin Power\nJP :\nコイン威力"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_06_desc_03-content",
+    "original": "코인의 값과 연산되는 방식을 나타내며, 연산 방식에는 더하기, 빼기, 곱하기가 있습니다.",
+    "context": "EN :\nThe coin’s Power value and how it affects the calculation are shown here. There are Plus, Minus, and Multiply coins.\nJP :\nコインの値と演算方法を表し、演算方法には加算・減算・乗算があります。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_06_title_04-content",
+    "original": "성장 계수",
+    "context": "EN :\nGrowth Rate\nJP :\n成長係数"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_06_desc_04-content",
+    "original": "인격이 다음 레벨이 될 때 증가하는 스킬 레벨의 값입니다.",
+    "context": "EN :\nThis indicates the amount of the skill’s level value that will rise when the Identity levels up.\nJP :\n人格が次のレベルになるときに増加するスキルレベルの値です。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_07_title_01-content",
+    "original": "스킬 효과",
+    "context": "EN :\nSkill Effects\nJP :\nスキル効果"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_07_desc_01-content",
+    "original": "조건을 만족할 경우 발동하는 스킬의 효과입니다.",
+    "context": "EN :\nSkills may have effects that activate when the stated conditions are met.\nJP :\n条件を満たす場合に発動するスキル効果です。"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_07_title_02-content",
+    "original": "코인별 효과",
+    "context": "EN :\nCoin Effect\nJP :\nコイン別効果"
+  },
+  {
+    "key": "tutorial_mainui_03_identityinfo_page_07_desc_02-content",
+    "original": "코인에 따른 조건을 만족할 경우 발동하는 스킬의 효과입니다. 판정에 실패한 코인의 효과는 발동되지 않습니다.",
+    "context": "EN :\nCoins may also have effects that activate when their stated conditions are met. Coin effects won’t activate if the coin fails the check.\nJP :\nコインの条件を満たした場合に発動するスキル効果です。判定に失敗したコインの効果は発動しません。"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo-content",
+    "original": "E.G.O 정보",
+    "context": "EN :\nE.G.O Info\nJP :\nE.G.O情報"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo_page_01_title_01-content",
+    "original": "속성 내성",
+    "context": "EN :\nSin Resistances\nJP :\n属性耐性"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo_page_01_desc_01-content",
+    "original": "E.G.O의 분노, 색욕, 나태, 탐식, 우울, 오만, 질투에 대한 내성 수치를 표시합니다.",
+    "context": "EN :\nThe E.G.O’s resistances to Sin Affinities (Wrath, Lust, Sloth, Gluttony, Gloom, Pride, and Envy) are shown here.\nJP :\nE.G.Oの憤怒・色欲・怠惰・暴食・憂鬱・傲慢・嫉妬に対する耐性数値を表示します。"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo_page_01_title_02-content",
+    "original": "일러스트 확대",
+    "context": "EN :\nFull View\nJP :\nイラスト拡大"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo_page_01_desc_02-content",
+    "original": "현재 일러스트를 전체 화면으로 확대합니다.",
+    "context": "EN :\nGet a full view of the current artwork.\nJP :\n現在のイラストを全画面表示します。"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo_page_02_title_01-content",
+    "original": "소모 자원",
+    "context": "EN :\nCost\nJP :\n消耗資源"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo_page_02_desc_01-content",
+    "original": "E.G.O 스킬을 사용할 때 소모되는 정신력 수치와 속성 자원의 종류, 수량이 표시됩니다.",
+    "context": "EN :\nThe amount of Sanity and resources needed for the E.G.O skill are shown here.\nJP :\nE.G.Oスキルを使用する際に消耗する精神力の数値と属性資源の種類、数量が表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo_page_03_title_01-content",
+    "original": "환상 해석 단계",
+    "context": "EN :\nThreadspin Tier\nJP :\n幻想解析段階"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo_page_03_desc_01-content",
+    "original": "환상 해석 단계가 높아질수록 강력한 스킬을 획득합니다.",
+    "context": "EN :\nThreadspinning an E.G.O grants powerful skills and abilities.\nJP :\n幻想解析段階が高くなるほど、強力なスキルを獲得します。"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo_page_03_title_02-content",
+    "original": "스킬",
+    "context": "EN :\nSkills\nJP :\nスキル"
+  },
+  {
+    "key": "tutorial_mainui_04_egoinfo_page_03_desc_02-content",
+    "original": "E.G.O는 저마다 다양한 스킬을 가지고 있습니다. 스킬에 대한 자세한 정보를 확인할 수 있습니다.",
+    "context": "EN :\nEach E.G.O has its own set of skills. You can check their details here.\nJP :\nE.G.Oはそれぞれ様々なスキルを有しています。スキルの詳細を確認できます。"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_04_title_01-content",
+    "original": "공격 유형",
+    "context": "EN :\nAttack Type\nJP :\n攻撃タイプ"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_04_desc_01-content",
+    "original": "참격, 관통, 타격으로 나뉩니다.",
+    "context": "EN :\nThe three attack types are Slash, Pierce, and Blunt.\nJP :\n斬撃・貫通・打撃に分かれます。"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_04_title_02-content",
+    "original": "코인 개수",
+    "context": "EN :\nCoin Number\nJP :\nコイン個数"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_04_desc_02-content",
+    "original": "코인의 개수를 표시합니다.",
+    "context": "EN :\nThe number of coins is shown here.\nJP :\nコインの個数を表示します。"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_04_title_03-content",
+    "original": "코스트",
+    "context": "EN :\nCost\nJP :\nコスト"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_04_desc_03-content",
+    "original": "E.G.O 스킬을 사용하기 위한 비용을 나타냅니다.",
+    "context": "EN :\nThis indicates the resources required to use the E.G.O skill.\nJP :\nE.G.Oスキルを使用するためのコストを表します。"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_04_title_04-content",
+    "original": "죄악 속성",
+    "context": "EN :\nSin Affinity\nJP :\n罪悪属性"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_04_desc_04-content",
+    "original": "분노, 색욕, 나태, 탐식, 우울, 오만, 질투로 나뉘며 각각 고유한 색으로 구분할 수 있습니다.",
+    "context": "EN :\nThe Sin Affinities are Wrath, Lust, Sloth, Gluttony, Gloom, Pride, and Envy, and each is assigned a unique color.\nJP :\n憤怒・色欲・怠惰・暴食・憂鬱・傲慢・嫉妬に分かれ、ぞれぞれ固有の色で区別されます。"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_05_title_01-content",
+    "original": "공격 레벨",
+    "context": "EN :\nOffense Level\nJP :\n攻撃レベル"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_05_desc_01-content",
+    "original": "스킬의 공격 레벨과 피격자의 방어 레벨 간의 격차가 클수록 피해량이 크게 증가하거나 혹은 감소합니다. E.G.O의 공격 레벨은 인격의 레벨에 따라 결정됩니다.",
+    "context": "EN :\nThe difference in the attack skill’s offense level and the target’s defense level can greatly affect the amount of damage dealt. The offense level of E.G.O depends on the Identity’s level.\nJP :\nスキルの攻撃レベルと被ダメージ側の防御レベル差が大きいほど、ダメージ量が大きく増加または減少します。E.G.Oの攻撃レベルは人格のレベルによって決まります。"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_05_title_02-content",
+    "original": "스킬 위력",
+    "context": "EN :\nSkill Power\nJP :\nスキル威力"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_05_desc_02-content",
+    "original": "스킬의 기본 위력을 표시합니다.",
+    "context": "EN :\nThis indicates the base Power value of the skill.\nJP :\nスキルの基本威力を表示します。"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_05_title_03-content",
+    "original": "코인 위력",
+    "context": "EN :\nCoin Power\nJP :\nコイン威力"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_05_desc_03-content",
+    "original": "코인의 값과 연산되는 방식을 나타내며, 연산 방식에는 더하기, 빼기, 곱하기가 있습니다.",
+    "context": "EN :\nThe coin’s Power value and how it affects the calculation are shown here. There are Plus, Minus, and Multiply coins.\nJP :\nコインの値と演算方法を表し、演算方法には加算・減算・乗算があります。"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_06_title_01-content",
+    "original": "스킬 효과",
+    "context": "EN :\nSkill Effects\nJP :\nスキル効果"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_06_desc_01-content",
+    "original": "조건을 만족할 경우 발동하는 스킬의 효과입니다.",
+    "context": "EN :\nSkills may have effects that activate when the stated conditions are met.\nJP :\n条件を満たす場合に発動するスキル効果です。"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_06_title_02-content",
+    "original": "코인별 효과",
+    "context": "EN :\nCoin Effect\nJP :\nコイン別効果"
+  },
+  {
+    "key": "tutorial_mainui_04_identityinfo_page_06_desc_02-content",
+    "original": "코인에 따른 조건을 만족할 경우 발동하는 스킬의 효과입니다. 판정에 실패한 코인의 효과는 발동되지 않습니다.",
+    "context": "EN :\nCoins may also have effects that activate when their stated conditions are met. Coin effects won’t activate if the coin fails the check.\nJP :\nコインの条件を満たした場合に発動するスキル効果です。判定に失敗したコインの効果は発動しません。"
+  },
+  {
+    "key": "tutorial_mainui_05_storymain-content",
+    "original": "주요 이야기",
+    "context": "EN :\nThe Main Story\nJP :\nメインストーリー"
+  },
+  {
+    "key": "tutorial_mainui_05_storymain_page_01_title_01-content",
+    "original": "장 선택",
+    "context": "EN :\nCanto Select\nJP :\n章の選択"
+  },
+  {
+    "key": "tutorial_mainui_05_storymain_page_01_desc_01-content",
+    "original": "전투를 진행하며 감상한 주요 이야기를 다시 볼 수 있습니다. 이야기의 장을 선택합니다.",
+    "context": "EN :\nYou can view past parts of the story here, just choose an episode.\nJP :\n戦闘を進行しながら鑑賞したメインストーリーをもう一度見ることが出来ます。ストーリーの章を選択します。"
+  },
+  {
+    "key": "tutorial_mainui_05_storymain_page_02_title_01-content",
+    "original": "주요 이야기 목록",
+    "context": "EN :\nStory Timeline\nJP :\nメインストーリーリスト"
+  },
+  {
+    "key": "tutorial_mainui_05_storymain_page_02_desc_01-content",
+    "original": "이야기를 선택하여 입장합니다.",
+    "context": "EN :\nChoose the scene you’d like to view.\nJP :\nストーリーを選択して入場します。"
+  },
+  {
+    "key": "tutorial_mainui_05_storymain_page_03_title_01-content",
+    "original": "주요 이야기",
+    "context": "EN :\nPlace in the Story\nJP :\nメインストーリー"
+  },
+  {
+    "key": "tutorial_mainui_05_storymain_page_03_desc_01-content",
+    "original": "선택한 스토리가 등장한 스테이지를 알 수 있습니다.",
+    "context": "EN :\nYou can also check what stage the scene originally played in.\nJP :\n選択したストーリーが登場したステージを確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_06_storyidentity-content",
+    "original": "인격 이야기",
+    "context": "EN :\nIdentity Stories\nJP :\n人格ストーリー"
+  },
+  {
+    "key": "tutorial_mainui_06_storyidentity_page_01_title_01-content",
+    "original": "수감자 선택",
+    "context": "EN :\nSelecting a Sinner\nJP :\n囚人選択"
+  },
+  {
+    "key": "tutorial_mainui_06_storyidentity_page_01_desc_01-content",
+    "original": "림버스 수감자의 이야기나 정보를 볼 수 있습니다. 수감자를 선택합니다.",
+    "context": "EN :\nYou can read up on the profiles and stories of your Sinners. Choose a Sinner.\nJP :\nリンバスの囚人のストーリーや情報を見ることが出来ます。囚人を選択します。"
+  },
+  {
+    "key": "tutorial_mainui_06_storyidentity_page_02_title_01-content",
+    "original": "인격 선택",
+    "context": "EN :\nSelecting Identities\nJP :\n人格選択"
+  },
+  {
+    "key": "tutorial_mainui_06_storyidentity_page_02_desc_01-content",
+    "original": "선택한 수감자의 인격이 나열됩니다.",
+    "context": "EN :\nYou can select from the Sinner’s listed Identities.\nJP :\n選択した囚人の人格が一覧で表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_06_storyidentity_page_03_title_01-content",
+    "original": "인격 이야기",
+    "context": "EN :\nIdentity Story\nJP :\n人格ストーリー"
+  },
+  {
+    "key": "tutorial_mainui_06_storyidentity_page_03_desc_01-content",
+    "original": "인격의 이야기를 감상합니다.",
+    "context": "EN :\nYou can read the Identity’s story here.\nJP :\n人格のストーリーを鑑賞します。"
+  },
+  {
+    "key": "tutorial_mainui_06_storyidentity_page_04_title_01-content",
+    "original": "대사",
+    "context": "EN :\nVoice Lines\nJP :\n台詞"
+  },
+  {
+    "key": "tutorial_mainui_06_storyidentity_page_04_desc_01-content",
+    "original": "인격의 대사를 보거나 이야기를 들을 수 있습니다.",
+    "context": "EN :\nYou can view the Identity’s lines or their story.\nJP :\n人格の台詞を閲覧・試聴することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_07_storymirror-content",
+    "original": "거울 세계들",
+    "context": "EN :\nMirror Worlds\nJP :\n鏡の世界"
+  },
+  {
+    "key": "tutorial_mainui_07_storymirror_page_01_title_01-content",
+    "original": "거울 세계들",
+    "context": "EN :\nMirror Worlds\nJP :\n鏡の世界"
+  },
+  {
+    "key": "tutorial_mainui_07_storymirror_page_01_desc_01-content",
+    "original": "선택 시, 거울 세계들이 나열된 목록으로 전환됩니다.",
+    "context": "EN :\nUpon selection, you’ll be taken to the list of Mirror Worlds.\nJP :\n選択すると、鏡の世界が一覧で表示されたリストに切り替わります。"
+  },
+  {
+    "key": "tutorial_mainui_07_storymirror_page_01_title_02-content",
+    "original": "거울 세계들 목록",
+    "context": "EN :\nOrganization\nJP :\n鏡の世界リスト"
+  },
+  {
+    "key": "tutorial_mainui_07_storymirror_page_01_desc_02-content",
+    "original": "거울 세계들에서는 다양한 인격 이야기를 각각의 거울 세계에 따라 분류합니다. 다양한 거울 세계와 각 거울 세계에서 등장하는 소속 단체를 확인할 수 있습니다.",
+    "context": "EN :\nIn the Mirror Worlds, the various Identity stories are categorized in accordance with the reflection they come from. You can check each Mirror World and the factions that appear in it.\nJP :\n鏡の世界では、様々な人格のストーリーを各々の鏡の世界によって分類します。様々な鏡の世界と各々の鏡の世界で登場する所属団体を確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_07_storymirror_page_02_title_01-content",
+    "original": "인격 이야기",
+    "context": "EN :\nTales from the Mirror\nJP :\n人格ストーリー"
+  },
+  {
+    "key": "tutorial_mainui_07_storymirror_page_02_desc_01-content",
+    "original": "거울 세계를 기준으로 한 인격 이야기를 감상합니다.",
+    "context": "EN :\nRead each Identity’s story based on the Mirror World.\nJP :\n鏡の世界を基準にした人格のストーリーを鑑賞します。"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain-content",
+    "original": "메인 스테이지",
+    "context": "EN :\nMain Stages\nJP :\nメインステージ"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_01_title_01-content",
+    "original": "스테이지",
+    "context": "EN :\nStage\nJP :\nステージ"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_01_desc_01-content",
+    "original": "스테이지를 선택하여 입장합니다.",
+    "context": "EN :\nYou choose a stage to enter.\nJP :\nステージを選択して入場します。"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_02_desc_01-content",
+    "original": "전투에서 승리하면 클리어 표시가 됩니다.",
+    "context": "EN :\nAfter you’ve won the battle, the stage will be marked as cleared.\nJP :\n戦闘で勝利するとクリア済みの表示が出ます。"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_02_desc_02-content",
+    "original": "EX 클리어 조건을 달성하여 승리하면 EX 클리어 표시가 되고 추가 보상을 획득합니다.",
+    "context": "EN :\nIf you clear the EX Objectives, you’ll earn bonus rewards, and the stage will be marked accordingly.\nJP :\nEXクリア条件を達成しつつ勝利するとEXクリア表示となり、追加報酬を獲得します。"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_03_title_01-content",
+    "original": "스테이지 스토리",
+    "context": "EN :\nStage Story\nJP :\nステージストーリー"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_03_desc_01-content",
+    "original": "선택한 스테이지에 등장하는 이야기를 감상할 수 있습니다.",
+    "context": "EN :\nYou can rewatch the story scenes featured in the stage as well.\nJP :\n選択したステージにて登場するストーリーを鑑賞することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_03_title_02-content",
+    "original": "스테이지 설명",
+    "context": "EN :\nStage Description\nJP :\nステージ説明"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_03_desc_02-content",
+    "original": "등장하는 이야기와 스테이지에 대한 설명을 확인할 수 있습니다.",
+    "context": "EN :\nYou can view the blurb and description for the stage here.\nJP :\n登場するストーリーとステージについての説明を確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_03_title_03-content",
+    "original": "적 정보",
+    "context": "EN :\nEnemy Info\nJP :\n敵情報"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_03_desc_03-content",
+    "original": "적에 대한 다양한 정보를 파악할 수 있습니다. 일부 강력한 적들은 직접 조우한 이후부터 그 정보를 확인할 수 있게 됩니다.",
+    "context": "EN :\nYou can read up on the enemies that appear. Information on certain powerful enemies will only be available after encountering them.\nJP :\n敵に関する様々な情報を確認することが出来ます。一部の強力な敵は、直接遭遇してから情報が確認できるようになります。"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_04_title_01-content",
+    "original": "EX 클리어 조건",
+    "context": "EN :\nEX Objectives\nJP :\nEXクリア条件"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_04_desc_01-content",
+    "original": "EX 클리어를 달성하기 위한 조건이 표시됩니다.",
+    "context": "EN :\nEX Objectives are displayed here.\nJP :\nEXクリアを達成するための条件が表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_04_title_02-content",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_04_desc_02-content",
+    "original": "전투 스테이지에 입장할 때 엔케팔린을 소모합니다.",
+    "context": "EN :\nEntering battle stages costs Enkephalin.\nJP :\n戦闘ステージに入場する際にエンケファリンを消耗します。"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_05_title_01-content",
+    "original": "참여 인원 선택",
+    "context": "EN :\nBattle Prep\nJP :\n参加人員選択"
+  },
+  {
+    "key": "tutorial_mainui_08_stagemain_page_05_desc_01-content",
+    "original": "각 스테이지는 최대로 참여할 수 있는 인원 수 제한이 있습니다.",
+    "context": "EN :\nEach stage has a limit to the number of participants.\nJP :\n各ステージには突入時の人数制限あります。"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon-content",
+    "original": "스토리 던전",
+    "context": "EN :\nStory Dungeons\nJP :\nストーリーダンジョン"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_01_title_01-content",
+    "original": "스토리 던전 정보 창",
+    "context": "EN :\nDungeon Info Tab\nJP :\nストーリーダンジョン情報ウィンドウ"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_01_desc_01-content",
+    "original": "각 장의 마지막에는 던전이 등장합니다. 입장할 때 엔케팔린 모듈을 소모합니다.",
+    "context": "EN :\nA dungeon awaits at the tail end of each episode. Entering dungeons costs Enkephalin Modules.\nJP :\n各章の最後にはダンジョンが出現します。入場時にエンケファリンモジュールを消耗します。"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_02_title_01-content",
+    "original": "던전 탐사",
+    "context": "EN :\nDungeon Exploration\nJP :\nダンジョン探査"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_02_desc_01-content",
+    "original": "현재 방에서 연결된 방을 선택하며 진행할 수 있습니다. 각 방에서는 다양한 종류의 전투와 이벤트가 등장합니다.",
+    "context": "EN :\nYou proceed by moving to spaces adjacent to your location. You may find encounters with various foes and also events with consequences.\nJP :\n現在の部屋から繋がっている部屋を選択しながら進めることが出来ます。各部屋では、様々な種類の戦闘やイベントが発生します。"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_03_title_01-content",
+    "original": "수감자 체력 현황",
+    "context": "EN :\nSinner Health\nJP :\n囚人の体力状況"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_03_desc_01-content",
+    "original": "던전을 진행하는 동안 수감자들의 체력과 정신력, 사망 상태는 유지됩니다.",
+    "context": "EN :\nThe HP, SP, and lost lives of your Sinners will carry over between encounters.\nJP :\nダンジョンを進める間、囚人の体力と精神力、死亡状態は維持されます。"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_03_title_02-content",
+    "original": "세이브 포인트",
+    "context": "EN :\nCheckpoints\nJP :\nセーブポイント"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_03_desc_02-content",
+    "original": "세이브 포인트에 도달하면 모든 수감자들의 체력과 정신력이 회복됩니다.",
+    "context": "EN :\nWhen you reach a checkpoint, your Sinners will be fully healed.\nJP :\nセーブポイントに到達すると、全囚人の体力と精神力が回復します。"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_04_title_01-content",
+    "original": "E.G.O 기프트",
+    "context": "EN :\nE.G.O Gifts\nJP :\nE.G.Oギフト"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_04_desc_01-content",
+    "original": "던전을 진행하며 E.G.O 기프트를 획득합니다. E.G.O 기프트는 획득한 던전 안에서만 적용되는 강력한 효과를 주는 아이템입니다.",
+    "context": "EN :\nAs you explore the dungeon, you may acquire E.G.O Gifts; these items offer powerful effects that last until the end of the exploration.\nJP :\nダンジョンを進み、E.G.Oギフトを獲得します。E.G.Oギフトは獲得したダンジョンの中でのみ適用される、強力な効果を与えるアイテムです。"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_04_title_02-content",
+    "original": "다음 층",
+    "context": "EN :\nDescending Floors\nJP :\n次の階"
+  },
+  {
+    "key": "tutorial_mainui_09_stagedungeon_page_04_desc_02-content",
+    "original": "던전은 여러 층으로 구성되어 있으며, 현재 층의 마지막 방을 클리어하면 다음 층으로 넘어갈 수 있습니다.",
+    "context": "EN :\nA dungeon consists of multiple floors. You may proceed down after securing the space containing stairs.\nJP :\nダンジョンは複数の階で構成されており、現在の階の最後の部屋をクリアすると次の階へ移行することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon-content",
+    "original": "거울 던전",
+    "context": "EN :\nMirror Dungeons\nJP :\n鏡ダンジョン"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_01_title_01-content",
+    "original": "거울 던전 목록",
+    "context": "EN :\nMirror Dungeons List\nJP :\n鏡ダンジョンリスト"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_01_desc_01-content",
+    "original": "다양한 거울 던전 중 하나를 선택하여 입장합니다. 입장할 때 엔케팔린 모듈을 소모합니다.",
+    "context": "EN :\nYou can choose one of the various Mirror Dungeons to enter. Entering Mirror Dungeons costs Enkephalin Modules.\nJP :\n様々な鏡ダンジョンの中から一つを選択して入場します。入場時にエンケファリンモジュールを消耗します。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_02_title_01-content",
+    "original": "E.G.O 기프트 목록",
+    "context": "EN :\nE.G.O Gift Compendium\nJP :\nE.G.Oギフトリスト"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_02_desc_01-content",
+    "original": "거울 던전에 등장하는 E.G.O 기프트를 확인할 수 있습니다. 일부 E.G.O 기프트는 특별한 해금 조건이 필요합니다.",
+    "context": "EN :\nYou can check the list of E.G.O Gifts that appear in the Mirror Dungeon. Certain E.G.O Gifts need to be unlocked by fulfilling specific conditions.\nJP :\n鏡ダンジョンに出現するE.G.Oギフトを確認することが出来ます。一部のE.G.Oギフトは特別な解禁条件が必要です。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_03_title_01-content",
+    "original": "최초 E.G.O 기프트 선택",
+    "context": "EN :\nStarting E.G.O Gift\nJP :\n初期E.G.Oギフト選択"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_03_desc_01-content",
+    "original": "거울 던전 입장 시, E.G.O 기프트가 무작위로 제시됩니다. 이 중 하나를 선택하여 거울 던전을 진행하는 동안 특별한 효과를 누릴 수 있습니다.",
+    "context": "EN :\nWhen you enter a Mirror Dungeon, you’ll be offered a random selection of E.G.O Gifts to help the exploration. Choose one to take with you.\nJP :\n鏡ダンジョン入場時、E.G.Oギフトがランダムに選出されます。この中から一つを選び、鏡ダンジョンを進む間、特殊効果を得ることが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_04_title_01-content",
+    "original": "수감자 선택",
+    "context": "EN :\nForming the Team\nJP :\n囚人選択"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_04_desc_01-content",
+    "original": "모든 수감자 중에서 셋을 선택하여 팀을 편성합니다.",
+    "context": "EN :\nMake a team of three Sinners to carry out the exploration.\nJP :\n全囚人の中から3名を選択し、チームを編成します。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_05_title_01-content",
+    "original": "인격 선택",
+    "context": "EN :\nSelecting Identities\nJP :\n人格選択"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_05_desc_01-content",
+    "original": "선택한 수감자의 인격을 편성합니다. 거울 던전에서는 별도의 강화 단계가 적용되며, 모든 인격은 첫 편성 단계에서 레벨이 10으로 적용됩니다.",
+    "context": "EN :\nSelect Identities for the Sinners. In Mirror Dungeons, all Identities start at Level 10, and can be powered up as you progress.\nJP :\n選択した囚人の人格を編成します。鏡ダンジョンでは通常とは異なる強化段階が適用され、全ての人格は編成段階でレベル10になります。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_06_title_01-content",
+    "original": "E.G.O 선택",
+    "context": "EN :\nSelecting E.G.O\nJP :\nE.G.O選択"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_06_desc_01-content",
+    "original": "선택한 수감자의 E.G.O를 편성합니다. 첫 편성 단계에선 ZAYIN급 E.G.O만 선택할 수 있습니다.",
+    "context": "EN :\nChoose E.G.O for your Sinners to equip. You can only select ZAYIN-grade E.G.O during deployment.\nJP :\n選択した囚人へE.G.Oを装着させます。最初の編成段階ではZAYINレベルのE.G.Oのみ選択出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_07_title_01-content",
+    "original": "거울 던전 탐사",
+    "context": "EN :\nExploring Mirror Dungeons\nJP :\n鏡ダンジョン探査"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_07_desc_01-content",
+    "original": "거울 던전에 입장할 때마다 방과 경로가 무작위로 생성됩니다. 현재 방에서 연결된 방을 선택해 진행하며, 각 방에선 다양한 종류의 전투와 이벤트가 무작위로 등장합니다.",
+    "context": "EN :\nThe layouts and paths in Mirror Dungeons are randomly generated each time you enter. Proceed by moving to one of the adjacent spaces in the next sector, and deal with the encounters and events waiting for you.\nJP :\n鏡ダンジョンでは、入場するたび部屋と経路がランダムに生成されます。現在の部屋から繋がっている部屋を選んで進むと、各部屋で様々な種類の戦闘やイベントがランダムに発生します。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_08_title_01-content",
+    "original": "E.G.O 기프트",
+    "context": "EN :\nE.G.O Gifts\nJP :\nE.G.Oギフト"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_08_desc_01-content",
+    "original": "던전을 진행하며 E.G.O 기프트를 획득합니다. E.G.O 기프트는 획득한 던전 안에서만 적용되는 강력한 효과를 주는 아이템입니다.",
+    "context": "EN :\nAs you explore the dungeon, you may acquire E.G.O Gifts; these items offer powerful effects that last until the end of the exploration.\nJP :\nダンジョンを進み、E.G.Oギフトを獲得します。E.G.Oギフトは獲得したダンジョンの中でのみ適用される、強力な効果を与えるアイテムです。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_08_title_02-content",
+    "original": "수감자 체력 현황",
+    "context": "EN :\nSinner Health\nJP :\n囚人の体力状況"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_08_desc_02-content",
+    "original": "던전을 진행하는 동안 수감자들의 체력과 정신력, 사망 상태는 유지됩니다.",
+    "context": "EN :\nThe HP, SP, and lost lives of your Sinners will carry over between encounters.\nJP :\nダンジョンを進める間、囚人の体力と精神力、死亡状態は維持されます。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_09_title_01-content",
+    "original": "수감자 선택",
+    "context": "EN :\nRecruiting Sinners\nJP :\n囚人選択"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_09_desc_01-content",
+    "original": "일부 이벤트를 통해 수감자를 팀에 추가로 편성하여 늘려나갈 수 있습니다.",
+    "context": "EN :\nCertain events allow you to add more Sinners to your team.\nJP :\n一部のイベントを通じて、囚人がチームに追加で編成できるようになります。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_09_title_02-content",
+    "original": "성장",
+    "context": "EN :\nPowering Up\nJP :\n成長"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_09_desc_02-content",
+    "original": "거울 던전에서는 별도의 강화 단계가 적용됩니다. 전투나 이벤트를 통해 레벨을 올리고 E.G.O를 추가로 장착할 수 있습니다.",
+    "context": "EN :\nIn Mirror Dungeons, Identities power up in steps as you progress. Level up and equip more E.G.O through combat encounters and events.\nJP :\n鏡ダンジョンでは通常とは異なる強化段階が適用されます。戦闘やイベントを通じてレベルを上げ、E.G.Oを追加で装着することも出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_10_title_01-content",
+    "original": "거울 던전 보상",
+    "context": "EN :\nMirror Dungeon Rewards\nJP :\n鏡ダンジョン報酬"
+  },
+  {
+    "key": "tutorial_mainui_10_mirrordungeon_page_10_desc_01-content",
+    "original": "던전 클리어 시 보상을 획득할 수 있으며, 매주 일정 횟수만큼 추가 보상을 얻을 수 있습니다. 보상 수량은 클리어한 방의 수에 비례하여 지급됩니다.",
+    "context": "EN :\nYou’ll be rewarded upon clearing the dungeon, and a bonus will be given for a set number of times each week. The amount of rewards is proportional to the number of spaces cleared.\nJP :\nダンジョンクリア時に報酬を獲得出来ます。毎週、追加報酬を規定回数分受け取ることが出来ます。報酬の量はクリアした部屋の数に比例して支給されます。"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction-content",
+    "original": "추출",
+    "context": "EN :\nExtraction\nJP :\n抽出"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_01_title_01-content",
+    "original": "추출 종류",
+    "context": "EN :\nCategory\nJP :\n抽出種類"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_01_desc_01-content",
+    "original": "상시 또는 픽업 중 원하는 추출을 선택하여 진행할 수 있습니다.",
+    "context": "EN :\nYou may choose between Standard and Target Extractions.\nJP :\n常設またはピックアップの中からお望みの抽出を選択して進めることが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_01_title_02-content",
+    "original": "추출",
+    "context": "EN :\nExtraction\nJP :\n抽出"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_01_desc_02-content",
+    "original": "광기를 통해 인격 또는 E.G.O를 추출할 수 있습니다.",
+    "context": "EN :\nYou can spend Lunacy to extract Identities or E.G.O.\nJP :\n狂気を通じて人格またはE.G.Oを抽出することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_02_title_01-content",
+    "original": "픽업 기간",
+    "context": "EN :\nTarget Period\nJP :\nピックアップ期間"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_02_desc_01-content",
+    "original": "픽업 기간을 확인할 수 있습니다.",
+    "context": "EN :\nYou can see how long the limited Extraction banner will last.\nJP :\nピックアップ期間を確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_02_title_02-content",
+    "original": "픽업 대상",
+    "context": "EN :\nFeatured Target\nJP :\nピックアップ対象"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_02_desc_02-content",
+    "original": "픽업 인격 또는 E.G.O의 상세 정보를 확인합니다.",
+    "context": "EN :\nView details on the featured Identity or E.G.O here.\nJP :\nピックアップ人格またはE.G.Oの詳細情報を確認します。"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_03_title_01-content",
+    "original": "추출 이력",
+    "context": "EN :\nExtraction History\nJP :\n抽出履歴"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_03_desc_01-content",
+    "original": "추출을 진행한 이력을 확인할 수 있습니다.",
+    "context": "EN :\nYou can view records of your previous Extractions here.\nJP :\n抽出履歴を確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_03_title_02-content",
+    "original": "확률 상세 보기",
+    "context": "EN :\nRate Info\nJP :\n確率詳細"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_03_desc_02-content",
+    "original": "픽업 인격 또는 E.G.O의 획득 확률을 알 수 있습니다.",
+    "context": "EN :\nYou can view the likelihood of the featured Identity or E.G.O being extracted.\nJP :\nピックアップ人格またはE.G.Oの獲得確率を確認出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_04_title_01-content",
+    "original": "자아 파편",
+    "context": "EN :\nEgoshards\nJP :\n自我の破片"
+  },
+  {
+    "key": "tutorial_mainui_11_extraction_page_04_desc_01-content",
+    "original": "이미 보유한 인격을 획득하게 되면 등급에 비례하여 자아 파편을 얻게 됩니다.",
+    "context": "EN :\nWhen you get an Identity you already own, you’ll receive Egoshards based on its rarity.\nJP :\n既に保有している人格を獲得すると、ランクに比例して自我の破片を獲得します。"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine-content",
+    "original": "자판기",
+    "context": "EN :\nDispenser\nJP :\n自販機"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine_page_01_title_01-content",
+    "original": "자판기 상품 목록",
+    "context": "EN :\nDispenser Catalogue\nJP :\n自販機商品リスト"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine_page_01_desc_01-content",
+    "original": "자아 파편을 사용하여 보유하지 않은 인격이나 E.G.O를 구입합니다.",
+    "context": "EN :\nYou can exchange Egoshards for Identities or E.G.O you don’t yet own.\nJP :\n自我の破片を使い、保有していない人格やE.G.Oを購入します。"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine_page_02_title_01-content",
+    "original": "자판기 종류",
+    "context": "EN :\nDispenser Types\nJP :\n自販機の種類"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine_page_02_desc_01-content",
+    "original": "상시 또는 원하는 시즌의 인격이나 E.G.O를 구입할 수 있습니다.",
+    "context": "EN :\nYou can purchase permanently available Identities and E.G.O, as well as those from past seasons.\nJP :\n常設、またはお好みのシーズンの人格やE.G.Oを購入することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine_page_03_title_01-content",
+    "original": "자판기 상품 선택",
+    "context": "EN :\nChoosing Items to Buy\nJP :\n自販機商品選択"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine_page_03_desc_01-content",
+    "original": "인격 또는 E.G.O를 구입하기 위해서는 해당 수감자의 자아 파편이 필요합니다.",
+    "context": "EN :\nTo buy Identities or E.G.O from here, you will need Egoshards of the Sinner.\nJP :\n人格またはE.G.Oを購入するには、その囚人の自我の破片が必要です。"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine_page_04_title_01-content",
+    "original": "끈 구매",
+    "context": "EN :\nThread Exchange\nJP :\n紐の購入"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine_page_04_desc_01-content",
+    "original": "수감자의 자아 파편으로 끈을 구매할 수 있습니다.",
+    "context": "EN :\nEgoshards can also be exchanged for Thread.\nJP :\n囚人の自我の破片で紐を購入することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine_page_04_title_02-content",
+    "original": "끈",
+    "context": "EN :\nThread\nJP :\n紐"
+  },
+  {
+    "key": "tutorial_mainui_12_vendingmachine_page_04_desc_02-content",
+    "original": "끈은 인격의 동기화나 E.G.O의 환상 해석에 사용됩니다.",
+    "context": "EN :\nThread is used for the Uptying of Identities and Threadspinning of E.G.O.\nJP :\n紐は人格の同期化や、E.G.Oの幻想解析に使用されます。"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_manager-content",
+    "original": "관리자",
+    "context": "EN :\nManager Info\nJP :\n管理人"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_01_title_01-content",
+    "original": "유저 정보 목록",
+    "context": "EN :\nUser Info\nJP :\nユーザー情報リスト"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_01_desc_01-content",
+    "original": "유저 정보와 지원 캐릭터, 친구 목록을 확인할 수 있습니다.",
+    "context": "EN :\nYou can check your user info, list of support characters, and the friend list here.\nJP :\nユーザー情報とサポートキャラクター、フレンドリストを確認出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_02_title_01-content",
+    "original": "유저 정보",
+    "context": "EN :\nUser Info\nJP :\nユーザー情報"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_02_desc_01-content",
+    "original": "유저 ID와 계정 레벨을 확인할 수 있습니다.",
+    "context": "EN :\nThe User ID (UID) and account level are shown here.\nJP :\nユーザーIDとアカウントレベルを確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_02_title_02-content",
+    "original": "장식 배너",
+    "context": "EN :\nBanner\nJP :\nバナー"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_02_desc_02-content",
+    "original": "장식 배너를 설정할 수 있습니다.",
+    "context": "EN :\nYou can configure your decorative banners.\nJP :\n装飾するバナーを設定することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_03_title_01-content",
+    "original": "대표 수감자 설정",
+    "context": "EN :\nFace of the Company\nJP :\n代表囚人設定"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_03_desc_01-content",
+    "original": "보유하고 있는 수감자 중에서 대표 수감자 일러스트를 설정할 수 있습니다.",
+    "context": "EN :\nYou can choose artwork to display from the Sinners in your possession.\nJP :\n保有している囚人の中から、代表囚人のイラストを設定することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_04_title_01-content",
+    "original": "일러스트 목록",
+    "context": "EN :\nArt List\nJP :\nイラストリスト"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_04_desc_01-content",
+    "original": "보유한 인격, EGO 일러스트를 확인할 수 있습니다.",
+    "context": "EN :\nYou can check the artwork of the Identities and E.G.O you own.\nJP :\n保有している人格、E.G.Oイラストを確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_05_title_01-content",
+    "original": "인사말",
+    "context": "EN :\nIntroduction\nJP :\n挨拶文"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_05_desc_01-content",
+    "original": "정해져 있는 단어를 조합해 자신만의 인사말을 설정할 수 있습니다.",
+    "context": "EN :\nUse a combination of given words and phrases to make your introduction.\nJP :\n定型文を組み合わせ、自分だけの挨拶を設定することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_06_title_01-content",
+    "original": "인사말 설정",
+    "context": "EN :\nMaking an Intro\nJP :\n挨拶文の設定"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_06_desc_01-content",
+    "original": "문장과 단어를 정해 인사말을 설정할 수 있습니다.",
+    "context": "EN :\nChoose from a given list of phrases and words to make your introduction.\nJP :\n文章と単語を組み合わせて挨拶を設定することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_company-content",
+    "original": "회사",
+    "context": "EN :\nCompany\nJP :\n会社"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_07_title_01-content",
+    "original": "지원 인격 목록",
+    "context": "EN :\nSupport Identities\nJP :\nサポート人格リスト"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_07_desc_01-content",
+    "original": "지원 보내는 인격과 에고를 설정할 수 있습니다.",
+    "context": "EN :\nYou can assign support Identities and E.G.O to assist others.\nJP :\nサポートに出す人格とE.G.Oを設定出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_friend-content",
+    "original": "친구",
+    "context": "EN :\nFriends\nJP :\nフレンド"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_08_title_01-content",
+    "original": "친구 목록",
+    "context": "EN :\nFriends List\nJP :\nフレンドリスト"
+  },
+  {
+    "key": "tutorial_mainui_13_userinfo_page_08_desc_01-content",
+    "original": "친구의 ID, 배너, 인사말, 접속일 확인 및 친구 추가를 할 수 있습니다.",
+    "context": "EN :\nYou can check your friends’ IDs, banners, introductions, and log-in times; plus, add users as friends!\nJP :\nフレンドのID、バナー、挨拶文、ログイン日の確認およびフレンド追加が出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_title-content",
+    "original": "배틀 패스",
+    "context": "EN :\nBattle Pass\nJP :\nバトルパス"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_page_01_title_01-content",
+    "original": "배틀 패스 보상",
+    "context": "EN :\nBattle Pass Rewards\nJP :\nバトルパス報酬"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_page_01_desc_01-content",
+    "original": "배틀 패스 레벨별 무료 혹은 림버스 패스에 해당하는 보상을 확인하고 받을 수 있습니다.",
+    "context": "EN :\nYou can check and redeem level rewards for the free battle pass and the Limbus Pass.\nJP :\n無料またはリンバスパスの補償をレベル毎に確認し、受けることが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_page_02_title_01-content",
+    "original": "배틀 패스 기간 및 이름",
+    "context": "EN :\nPass Period and Name\nJP :\nバトルパス期間・名称"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_page_02_desc_01-content",
+    "original": "배틀 패스 기간과 시즌 이름을 확인할 수 있습니다.",
+    "context": "EN :\nYou can check the title of the battle pass and its period.\nJP :\nバトルパス期間とシーズン名を確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_page_02_title_02-content",
+    "original": "배틀 패스 레벨 및 진행도",
+    "context": "EN :\nPass Level and Progress\nJP :\nバトルパスレベル・進行度"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_page_02_desc_02-content",
+    "original": "배틀 패스 레벨과 진행도를 확인할 수 있습니다.",
+    "context": "EN :\nYou can check your battle pass level and progress here.\nJP :\nバトルパスレベルと進行度を確認することが出来ます。"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_page_03_title_01-content",
+    "original": "패스 미션 목록",
+    "context": "EN :\nBattle Pass Missions\nJP :\nパスミッションリスト"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_page_03_desc_01-content",
+    "original": "달성 시 배틀 패스 진행도를 얻을 수 있는 미션 목록입니다. 일일, 주간, 시즌 미션으로 분류됩니다.",
+    "context": "EN :\nThis shows the list of missions that reward you with battle pass progression upon completion. There are daily, weekly, and seasonal missions.\nJP :\n達成時にバトルパスの進行度を得ることができるミッションリストです。デイリー、ウィークリー、シーズンミッションに分かれます。"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_page_04_title_01-content",
+    "original": "배틀 패스 초과 보상",
+    "context": "EN :\nMax Level Rewards\nJP :\nバトルパス超過報酬"
+  },
+  {
+    "key": "tutorial_mainui_14_battlepass_page_04_desc_01-content",
+    "original": "배틀 패스에서 보상 수령이 가능한 레벨을 초과한 뒤 레벨이 오를 시 초과 보상이 주어집니다. 림버스 패스를 사용한다면 더 많은 초과 보상이 주어집니다.",
+    "context": "EN :\nOnce you’ve reached the maximum level for determined rewards on the battle pass, you will be given bonus rewards with each level up. Limbus Pass owners gain additional rewards.\nJP :\nバトルパスで報酬を受け取れるレベルを超えてから、再びレベルが上がると超過報酬が与えられます。リンバスパスを使用すると、より多くの超過報酬が与えられます。"
+  },
+  {
+    "key": "tutorial_mainui_15_exp_dungeon_title-content",
+    "original": "경험치 채광",
+    "context": "EN :\nEXP Luxcavation\nJP :\n経験値採光"
+  },
+  {
+    "key": "tutorial_mainui_15_exp_dungeon_page_01_title_01-content",
+    "original": "경험치 채광 목록",
+    "context": "EN :\nList of Luxcavation Sites\nJP :\n経験値採光 リスト"
+  },
+  {
+    "key": "tutorial_mainui_15_exp_dungeon_page_01_desc_01-content",
+    "original": "추천 레벨에 맞는 경험치 채광 중 하나를 선택하여 입장합니다. 입장할 때 엔케팔린을 소모합니다.",
+    "context": "EN :\nChoose a stage to enter based on the strength of your Sinners. Entering Luxcavation stages costs Enkephalin.\nJP :\n推奨レベルに合った経験値採光のうち1つを選択肢て入場します。入場時にエンケファリンを消耗します。"
+  },
+  {
+    "key": "tutorial_mainui_15_exp_dungeon_page_02_title_01-content",
+    "original": "유효 속성",
+    "context": "EN :\nUseful Types\nJP :\n有効属性"
+  },
+  {
+    "key": "tutorial_mainui_15_exp_dungeon_page_02_desc_01-content",
+    "original": "경험치 채광에 등장하는 적들은 독특한 물리 내성과 속성 내성을 가지고 있습니다. 해당 스테이지에서 큰 효과를 볼 수 있는 공격 유형이 표기됩니다. ",
+    "context": "EN :\nEnemies in EXP Luxcavation have specific resistances. You can check the type and Affinity that will be the most effective for each stage before entering.\nJP :\n経験値採光に出現する敵は、ユニークな物理耐性と属性耐性を持っています。該当ステージにて有効な攻撃タイプが表記されます。"
+  },
+  {
+    "key": "tutorial_mainui_15_exp_dungeon_page_03_title_01-content",
+    "original": "경험치 채광 보상",
+    "context": "EN :\nEXP Luxcavation Rewards\nJP :\n経験値採光 報酬"
+  },
+  {
+    "key": "tutorial_mainui_15_exp_dungeon_page_03_desc_01-content",
+    "original": "경험치 채광 클리어 시 전투 경험치와 인격 학습 티켓을 획득할 수 있으며, 매일 일정 횟수만큼 추가 보상을 얻을 수 있습니다.",
+    "context": "EN :\nIn EXP Luxcavation, you can acquire experience from combat and Identity Training Tickets, and you can earn bonus rewards for a set number of clears each day.\nJP :\n経験値採光クリア時には戦闘経験値と人格学習チケットを獲得することができ、毎日一定回数だけ追加報酬が得られます。"
+  },
+  {
+    "key": "tutorial_mainui_16_thread_dungeon_title-content",
+    "original": "끈 채광",
+    "context": "EN :\nThread Luxcavation\nJP :\n紐採光 "
+  },
+  {
+    "key": "tutorial_mainui_16_thread_dungeon_01_title_01-content",
+    "original": "끈 채광 목록",
+    "context": "EN :\nList of Luxcavation Sites\nJP :\n紐採光 リスト"
+  },
+  {
+    "key": "tutorial_mainui_16_thread_dungeon_page_01_desc_01-content",
+    "original": "요일에 따라 등장하는 환상체가 변경됩니다. 입장할 때 엔케팔린을 소모합니다.",
+    "context": "EN :\nFeatures different Abnormality battle stages depending on the day of the week. Entering Luxcavation stages costs Enkephalin.\nJP :\n曜日別に出現する幻想体が変わります。入場時にエンケファリンを消耗します。"
+  },
+  {
+    "key": "tutorial_mainui_16_thread_dungeon_page_02_title_01-content",
+    "original": "유효 속성",
+    "context": "EN :\nUseful Types\nJP :\n有効属性"
+  },
+  {
+    "key": "tutorial_mainui_16_thread_dungeon_page_02_desc_01-content",
+    "original": "끈 채광에 등장하는 적들은 독특한 물리 내성과 속성 내성을 가지고 있습니다. 해당 스테이지에서 큰 효과를 볼 수 있는 죄악 속성이 표기됩니다.",
+    "context": "EN :\nEnemies in Thread Luxcavation have specific resistances. You can check the type and Affinity that will be the most effective for each stage before entering.\nJP :\n紐採光に出現する敵は、ユニークな物理耐性と属性耐性を持っています。該当ステージにて有効な罪悪属性が表記されます。"
+  },
+  {
+    "key": "tutorial_mainui_16_thread_dungeon_page_03_title_01-content",
+    "original": "레벨 선택",
+    "context": "EN :\nLevel Select\nJP :\nレベル選択"
+  },
+  {
+    "key": "tutorial_mainui_16_thread_dungeon_page_03_desc_01-content",
+    "original": "추천 레벨에 맞는 끈 채광 중 하나를 선택하여 입장합니다.",
+    "context": "EN :\nChoose a stage to enter based on the strength of your Sinners.\nJP :\n推奨レベルに合う紐採光のうち1つを選択して入場します。"
+  },
+  {
+    "key": "tutorial_mainui_16_thread_dungeon_page_04_title_01-content",
+    "original": "끈 채광 보상",
+    "context": "EN :\nThread Luxcavation Rewards\nJP :\n紐採光 報酬"
+  },
+  {
+    "key": "tutorial_mainui_16_thread_dungeon_page_04_desc_01-content",
+    "original": "끈 채광 클리어 시 끈을 획득할 수 있으며, 매일 일정 횟수만큼 추가 보상을 얻을 수 있습니다.",
+    "context": "EN :\nIn Thread Luxcavation, you can acquire Thread, and you can earn bonus rewards for a set number of clears each day.\nJP :\n紐採光クリア時には紐を獲得することができ、毎日一定回数だけ追加報酬を得られます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_title-content",
+    "original": "거울굴절철도",
+    "context": "EN :\nThe Refraction Railway\nJP :\n鏡屈折鉄道"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_01_title_01-content",
+    "original": "거울굴절철도 개방",
+    "context": "EN :\nRefraction Railway Opening\nJP :\n鏡屈折鉄道 解放"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_01_desc_01-content",
+    "original": "거울굴절철도 운행 기간 동안 입장할 수 있는 호선이 등장합니다.\n활성화된 노선을 선택하여 재화 소모 없이 자유롭게 입장할 수 있습니다.",
+    "context": "EN :\nThe Lines of the Refraction Railway run for a certain period of time.\nYou can enter the available Lines at no cost.\nJP :\n鏡屈折鉄道の運行期間中に入場できる号線が出現します。\n活性化した路線を選択し、資源を消耗せず自由に入場することができます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_02_title_01-content",
+    "original": "운행 기간",
+    "context": "EN :\nRunning Period\nJP :\n運行期間"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_02_desc_01-content",
+    "original": "거울굴절철도 운행 기간이 노선 측면에 표시됩니다.",
+    "context": "EN :\nThe Railway’s running time is displayed on the side of the Line.\nJP :\n鏡屈折鉄道の運行期間が、路線の側面に表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_03_desc_01-content",
+    "original": "입장 시, 보유한 인격과 E.G.O를 선택하여 편성합니다. ",
+    "context": "EN :\nYou will choose a number of Identities and E.G.O to begin the expedition with.\nJP :\n入場時、保有している人格とE.G.Oを選択して編成します。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_04_desc_01-content",
+    "original": "다른 전투 콘텐츠와 달리 편성을 완료하여 입장하게 되면, 이후에 진행된 레벨업이나 동기화, 환상 해석은 해당 편성에 반영되지 않습니다.",
+    "context": "EN :\nUnlike other combat-based content, the level-ups and tier-ups done to your Identities and E.G.O while an expedition is in progress will not be immediately reflected on your team’s status.\nJP :\n他の戦闘コンテンツとは違い、編成を完了して入場するとそれ以降に行われたレベルアップや同期化、幻想解析は該当する編成に反映されません。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_05_desc_01-content",
+    "original": "편성은 스테이지 진행 도중에 교체할 수 없습니다.\n편성된 인격과 E.G.O의 레벨업, 동기화, 환상 해석을 반영하거나 다른 인격, E.G.O로 교체하기 위해서는 다시 입장하여 첫 스테이지부터 진행해야 합니다.",
+    "context": "EN :\nYou may not change your team in the middle of an expedition. \nIf you wish to modify your setup or reflect upgrades on your Identities and E.G.O, you must start a new expedition.\nJP :\n編成はステージ進行中に変更することができません。\n編成された人格とE.G.Oのレベルアップ、同期化、幻想解析を反映したり、他の人格・E.G.Oに変更したりするには再入場し、最初のステージからやり直す必要があります。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_06_title_01-content",
+    "original": "거울굴절철도 메인 화면",
+    "context": "EN :\nRefraction Railway Main Screen\nJP :\n鏡屈折鉄道 メイン画面"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_06_desc_01-content",
+    "original": "거울굴절철도에 등장하는 전투는 총 13개의 스테이지로 구성됩니다.",
+    "context": "EN :\nEach Line of the Refraction Railway consists of 13 stages.\nJP :\n鏡屈折鉄道は、計13つのステージで構成されています。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_07_title_01-content",
+    "original": "전투",
+    "context": "EN :\nCombat\nJP :\n戦闘"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_07_desc_01-content",
+    "original": "거울굴절철도에 등장하는 모든 전투는 아군의 스킬을 직접 적 스킬과 대응하는, 환상체 전투와 동일한 방식으로 진행됩니다.",
+    "context": "EN :\nEvery battle in the Refraction Railway will allow you to directly match ally skills against enemy skills, similar to Abnormality battles.\nJP :\n鏡屈折鉄道にて発生する全ての戦闘は、味方のスキルと敵のスキルを直接対応させる幻想体戦闘と同じ方式で進行します。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_08_title_01-content",
+    "original": "E.G.O 자원 현황",
+    "context": "EN :\nCurrent E.G.O Resources\nJP :\n現在のE.G.O資源"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_08_desc_01-content",
+    "original": "스테이지 클리어 후 남은 E.G.O 자원은 다음 스테이지에서 사용할 수 있습니다.",
+    "context": "EN :\nThe E.G.O resources held after clearing a stage can be carried over to the next stage.\nJP :\nステージクリア後に残ったE.G.O資源は、次のステージにて使用することができます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_09_title_01-content",
+    "original": "클리어 턴 및 누적 턴",
+    "context": "EN :\nClear Turns & Total Turns\nJP :\nクリアターンおよび累計ターン"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_09_desc_01-content",
+    "original": "스테이지 클리어 시, 해당 스테이지를 클리어하는 데 걸린 클리어 턴, 시작부터 해당 스테이지를 클리어하기까지 걸린 누적 턴이 기록됩니다.",
+    "context": "EN :\nWhen you clear a stage, the Station will record the number of turns taken to beat it: Clear Turns.\nAs well as the cumulative number of turns taken throughout the current expedition: Total Turns.\nJP :\nステージクリア時、該当するステージをクリアするのに掛かったクリアターン、開始から該当ステージをクリアするのに掛かった累計ターンが記録されます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_10_title_01-content",
+    "original": "인격 상태",
+    "context": "EN :\nSinner Status\nJP :\n人格状態"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_10_desc_01-content",
+    "original": "편성한 인격의 체력, 정신력, 사망 상태가 표시됩니다.",
+    "context": "EN :\nThe Health, Sanity, and availability of your Identities are shown here.\nJP :\n編成した人格の体力・精神力、死亡状態が表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_11_title_01-content",
+    "original": "배너 획득 조건",
+    "context": "EN :\nBanner Requisites\nJP :\nバナー獲得条件"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_11_desc_01-content",
+    "original": "이벤트 배너 획득 조건을 확인할 수 있습니다.",
+    "context": "EN :\nYou can check the requirements for acquiring banners here.\nJP :\nイベントバナーの獲得条件を確認することができます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_11_desc_02-content",
+    "original": "획득 조건이 어려울수록 더욱 특별한 배너를 얻게 됩니다.",
+    "context": "EN :\nYou can acquire more lavishly ornamented banners as you meet more difficult conditions.\nJP :\n獲得条件が難しいほど、より特別なバナーを獲得できます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_12_title_01-content",
+    "original": "분실물 보관소",
+    "context": "EN :\nLost things will be Found\nJP :\n遺失物取扱所"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_12_desc_01-content",
+    "original": "스테이지를 처음으로 클리어할 경우, 해당 스테이지의 보상이 분실물 보관소에 등록됩니다.",
+    "context": "EN :\nAfter clearing a stage in the Line for the first time during the event period, the rewards will be sent to the Lost & Found.\nJP :\nステージを初めてクリアする場合、該当ステージの報酬が遺失物取扱所に登録されます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_12_desc_02-content",
+    "original": "이벤트 기간 중 스테이지를 최초로 클리어하면 그 보상이 분실물 보관소에 쌓입니다.\n분실물 보관소에서 보상을 수령하기 위해서는 최초 1회에 한하여 일정량의 엔케팔린 모듈을 지불해야 합니다.\n이후에 얻게 되는 보상은 별도의 추가 엔케팔린 모듈 소모 없이 언제든지 획득할 수 있습니다.",
+    "context": "EN :\nAfter clearing a stage in the Line for the first time during the event period, the rewards will be sent to the Lost & Found.\nTo gain access to the Lost & Found, a number of Enkephalin Modules will be required.\nAfterward, you may freely access it and claim the rewards you’ve earned at no additional cost.\nJP :\nイベント期間中、ステージを初めてクリアするとその報酬が遺失物取扱所に蓄積されます。\n遺失物取扱所にて報酬を受け取るためには最初の一回に限り、一定量のエンケファリンモジュールを消費する必要があります。\nそれ以降は、追加のエンケファリンモジュールの消費なしに、いつでも報酬を獲得することができます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_13_title_01-content",
+    "original": "누적 기록",
+    "context": "EN :\nTotal Record\nJP :\n累計記録"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_13_desc_01-content",
+    "original": "최종 스테이지를 클리어할 경우 거울굴절철도 플레이 기록이 저장되며, 그 기록들을 최대 20개까지 확인할 수 있습니다.\n기록이 20개를 넘어갈 경우에는 누적 턴 수가 많은 기록이 먼저 사라지게 되며, 턴 수도 동일할 경우에는 인격 사망 수가 많은 기록이 삭제됩니다.\n이 역시 동일하다면 더 오래된 기록이 삭제됩니다. ",
+    "context": "EN :\nUpon clearing the final stage, the records for the expedition will be saved.\nRecords of up to 20 expeditions are kept in the logs.\nIf more than 20 records are in the log, the ones with the highest Total Turns will be removed first; if the Total Turns are the same, then the death count acts as the next criterion.\nIf the death counts are identical as well, the older record will be removed.\nJP :\n最終ステージをクリアすると鏡屈折鉄道のプレイ記録が保存され、その記録を最大20まで確認することができます。\n記録が20を超える場合は累計ターン数が多い記録が先に消滅し、ターン数が同じ場合は人格の死亡数が多い記録の方が削除されます。\n死亡数も同じ場合は、古い方の記録が削除されます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_14_title_01-content",
+    "original": "휴식",
+    "context": "EN :\nResting\nJP :\n休憩"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_14_desc_01-content",
+    "original": "전투에 참여한 인격의 체력과 정신력은 다음 스테이지 전투에 참가할 경우 그대로 유지됩니다.\n대신 해당 인격이 다음 스테이지 전투에 참가하지 않고 쉴 경우 그 다음 스테이지 진입 시, 체력이 완전히 회복되고 정신력이 0으로 초기화됩니다.\n단, 정신력이 0 이상일 경우에는 0으로 초기화되지 않습니다.",
+    "context": "EN :\nThe Health and Sanity of your Sinners will carry over between stages.\nHowever, after clearing a stage, those who did not participate in the battle will fully recover their HP and SP when entering the next stage.\nAny Sanities above 0 will be maintained in either case.\nJP :\n戦闘に参加した人格が次のステージの戦闘に参加する場合、体力と精神力がそのまま引き継がれます。\nまた、該当する人格が次のステージの戦闘に参加せず休む場合はその次のステージに進入時、体力が全快して精神力が0に初期化されます。\nただし、精神力が0以上の場合は初期化されません。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_15_title_01-content",
+    "original": "기록 경신",
+    "context": "EN :\nBreaking Records\nJP :\n記録更新"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_15_desc_01-content",
+    "original": "스테이지 진행 중 이전에 클리어한 특정 스테이지부터 다시 시작할 수 있습니다.\n특정 스테이지부터 다시 시작할 경우 해당 스테이지 입장 시점의 인격 상태와 E.G.O 자원 보유량이 반영된 상태로 전투를 시작하며, 그 이후 스테이지의 클리어 기록이 초기화되어 사라집니다.",
+    "context": "EN :\nDuring an expedition, you can choose to start over from any previous stage.\nWhen you do so, the battle will start with the Sinners’ statuses and E.G.O resources reverted to that point, and any progress made for the stages after it will be reset.\nJP :\nステージ進行中、以前にクリアした特定のステージから再挑戦することができます。\n特定のステージから再挑戦する場合、該当するステージに入場時点での人格状態とE.G.O資源保有量が反映された状態で戦闘が開始されます。\nそれ以降のステージクリア記録は初期化されます。"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_16_title_01-content",
+    "original": "거울굴절철도 특별 장식 배너",
+    "context": "EN :\nThe Railway’s Special Decorative Banners\nJP :\n鏡屈折鉄道 特別装飾バナー"
+  },
+  {
+    "key": "tutorial_mainui_17_railway_page_16_desc_01-content",
+    "original": "거울굴절철도 운행 기간이 종료되면 자신이 획득한 배너에 가장 높은 기록의 누적 턴 수가 표기됩니다.",
+    "context": "EN :\nWhen a Line of the Refraction Railway closes, the best total turn record will be etched on the lower side of that Line’s banner.\nJP :\n鏡屈折鉄道の運行期間が終了すると、自分が獲得したバナーに最高記録の累計ターンが表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_title-content",
+    "original": "헬스 치킨",
+    "context": "EN :\nHell’s Chicken\nJP :\nヘルズチキン"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_01_title_01-content",
+    "original": "헬스 치킨 개방",
+    "context": "EN :\nUnlocking Hell’s Chicken\nJP :\nヘルズチキン解放"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_01_desc_01-content",
+    "original": "[헬스 치킨 이벤트 페이지]는 주요 이야기의 3-22를 클리어할 경우 개방됩니다.\n유리창이나 운전석에 있는 이벤트 배너를 통해 입장할 수 있습니다.",
+    "context": "EN :\nThe [Hell’s Chicken Event Page] opens after clearing Stage 3-22 of the Main Story.\nYou may enter the event page via the banner on the Window or the Driverside.\nJP :\n[ヘルズチキンイベントページ]はメインストーリーの3-22をクリアした場合に解放されます。\n硝子窓や運転席のイベントバナーより入場できます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_02_title_01-content",
+    "original": "이벤트 기간",
+    "context": "EN :\nEvent Period\nJP :\nイベント期間"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_02_desc_01-content",
+    "original": "헬스 치킨 이벤트 기간이 표시됩니다. 이벤트 기간 동안 헬스 치킨 혹은 주요 이야기의 스테이지와 던전을 클리어하여 [봉이 인형]을 획득할 수 있습니다.",
+    "context": "EN :\nThe duration of the Hell’s Chicken event is shown here. During the event, you can earn [Bongy Plushies] by clearing Stages and Dungeons in the event and Main Story.\nJP :\nヘルスチキンのイベント期間が表示されます。イベント期間中にヘルスチキン、またはメインストーリーのステージとダンジョンをクリアすることで[ボンちゃん人形]を獲得できます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_02_desc_02-content",
+    "original": "※ 단, 거울 던전, 채광, 거울 굴절 철도에서는 [봉이 인형]을 획득할 수 없습니다.",
+    "context": "EN :\n※ Mirror Dungeons, Luxcavation, and the Refraction Railway do not give [Bongy Plushies].\nJP :\n※ただし、鏡ダンジョン、採光、鏡屈折鉄道では「ボンちゃん人形」を獲得することはできません。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_03_title_01-content",
+    "original": "이벤트 전투",
+    "context": "EN :\nEvent Stages\nJP :\nイベント戦闘"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_03_desc_01-content",
+    "original": "헬스 치킨 전투는 총 8개의 스테이지와 2개의 던전으로 구성됩니다.\n헬스 치킨 전투에서는 클리어 보상과 별개로 EX 클리어 보상으로 [봉이 인형]을 획득할 수 있습니다. (1회 한정)",
+    "context": "EN :\nHell’s Chicken consists of 8 stages and 2 dungeons.\nSaid stages and dungeons also offer batches of [Bongy Plushies] as a first-time EX Clear bonus.\nJP :\nヘルズチキンの戦闘は計8つのステージと2つのダンジョンで構成されます。\nヘルズチキンの戦闘にはクリア報酬と別途でEXクリア報酬の[ボンちゃん人形]を獲得することができます。(1回限定)"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_03_desc_02-content",
+    "original": "헬스 치킨 던전에서는 일반 스테이지보다 훨씬 많은 [봉이 인형]을 획득할 수 있습니다.",
+    "context": "EN :\nYou can earn considerably more [Bongy Plushies] from Hell’s Chicken Dungeons compared to regular stages.\nJP :\nヘルズチキンダンジョンでは一般ステージより大量の[ボンちゃん人形]を獲得することができます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_04_title_01-content",
+    "original": "이벤트 특화 대상",
+    "context": "EN :\nEvent Bonus Units\nJP :\nイベント特攻対象"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_04_desc_01-content",
+    "original": "헬스 치킨 이벤트 인격 또는 E.G.O를 편성하여 스테이지, 던전을 클리어하면 [봉이 인형]의 획득량이 상승합니다.",
+    "context": "EN :\nHaving Identities and E.G.O from the Hell’s Chicken event on your team increases the amount of [Bongy Plushies] earned from stages and dungeons.\nJP :\nヘルスチキンのイベント人格またはE.G.Oを編成してステージ、ダンジョンをクリアすると[ボンちゃん人形]の獲得量が上昇します。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_05_title_01-content",
+    "original": "쿠폰 교환",
+    "context": "EN :\nCoupon Trade-in\nJP :\nクーポン交換"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_05_desc_01-content",
+    "original": "획득한 [봉이 인형]의 수에 비례하여 [쿠폰 교환]에서 다양한 보상을 얻을 수 있습니다.",
+    "context": "EN :\nYou can redeem various rewards from the [Coupon Trade-in] based on the number of [Bongy Plushies] you have.\nJP :\n獲得した[ボンちゃん人形]の数に比例して[クーポン交換]から様々な報酬を得ることができます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_06_title_01-content",
+    "original": "쿠폰 교환",
+    "context": "EN :\nCoupon Trade-in\nJP :\nクーポン交換"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_06_desc_01-content",
+    "original": "[쿠폰 교환] 페이지에서 각종 재화와 이벤트 배포 인격, E.G.O를 획득할 수 있습니다.",
+    "context": "EN :\nYou can acquire event reward Identities and E.G.O, as well as various currencies from the [Coupon Trade-in].\nJP :\n[クーポン交換]ページより、各種資源やイベント配布人格、E.G.Oを獲得することができます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_06_desc_02-content",
+    "original": "[쿠폰 교환] 에서 보상을 수령할 수 있는 기간이 표시됩니다.",
+    "context": "EN :\nThe [Coupon Trade-in]’s open duration is shown here.\nJP :\n[クーポン交換]より報酬を受け取れる期間が表示されます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_07_title_01-content",
+    "original": "이벤트 던전",
+    "context": "EN :\nEvent Dungeons\nJP :\nイベントダンジョン"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_07_desc_01-content",
+    "original": "헬스 치킨 던전은 거울 던전 플레이 방식으로 진행됩니다.\n헬스 치킨 던전의 난이도는 두 가지로, 큰 특징으로는 다음과 같이 구분할 수 있습니다.",
+    "context": "EN :\nHell’s Chicken Dungeons play similarly to Mirror Dungeons.\nThe dungeons come in two difficulties; their major traits are as follows.\nJP :\nヘルズチキンダンジョンは鏡ダンジョンと同じ方式で進行されます。\nヘルズチキンダンジョンの難易度は2つで、大きな特徴は以下のように区分されます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_08_title_01-content",
+    "original": "E.G.O 기프트 선택",
+    "context": "EN :\nSelecting E.G.O Gifts\nJP :\nE.G.Oギフト選択"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_08_desc_01-content",
+    "original": "거울 던전 E.G.O 기프트 중 일부가 헬스 치킨 던전에서 등장합니다.\n이 E.G.O 기프트들은 이벤트 인격과 E.G.O를 효과적으로 활용할 수 있도록 돕습니다.",
+    "context": "EN :\nSeveral E.G.O Gifts from the Mirror Dungeon will appear in the Hell’s Chicken Dungeon.\nThese E.G.O Gifts will assist event Identities and E.G.O to shine in their respective specialties.\nJP :\n鏡ダンジョンE.G.Oギフトの内一部がヘルズチキンダンジョンに出現します。\nこのE.G.Oギフトはイベント人格とE.G.Oを効果的に活用できるように補助します。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_09_title_01-content",
+    "original": "이벤트 던전 편성",
+    "context": "EN :\nEvent Team Setup\nJP :\nイベントダンジョン編成"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_09_desc_01-content",
+    "original": "헬스 치킨 던전에서는 총 5명의 인격을 선택하여 데려갑니다.",
+    "context": "EN :\nIn the Hell’s Chicken dungeons, you begin expeditions with 5 Identities.\nJP :\nヘルズチキンダンジョンでは計5名の人格を選んで連れて行きます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_09_title_02-content",
+    "original": "프리셋",
+    "context": "EN :\nPreset\nJP :\nプリセット"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_09_desc_02-content",
+    "original": "헬스 치킨 던전에서 편의성을 위한 프리셋 기능이 추가됩니다.\n프리셋 버튼을 통해 직전에 선택한 인격과 E.G.O의 목록을 불러와 빠르게 입장할 수 있습니다.",
+    "context": "EN :\nFor player convenience, a preset function is being added for the Hell’s Chicken dungeons.\nUsing the preset button, you can quickly load the team setup you last used and make a swift entry.\nJP :\nヘルズチキンダンジョンにて、利便性向上のためにプリセット機能が追加されます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_10_title_01-content",
+    "original": "이벤트 던전 구성",
+    "context": "EN :\nDungeon Structure\nJP :\nイベントダンジョン構成"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_10_desc_01-content",
+    "original": "헬스 치킨 던전에 입장할 때마다 거울 던전과 같이 방과 경로가 무작위로 생성됩니다.\n헬스 치킨 던전은 하나의 층으로 구성되어 있으며, 마지막 방에서는 헬스 치킨 최종 보스가 고정으로 등장합니다.",
+    "context": "EN :\nThe layouts and paths in the Hell’s Chicken dungeons are randomly generated each time you enter.\nThese dungeons consist of a single floor, and the final node always features the Hell’s Chicken boss.\nJP :\nヘルズチキンダンジョンに入場するたび、鏡ダンジョンのように部屋と経路がランダム生成されます。\nヘルズチキンダンジョンは1つの階層で構成されており、最後の部屋にはヘルズチキン最終ボスが固定で出現します。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_11_title_01-content",
+    "original": "헬스 치킨 전용 이벤트",
+    "context": "EN :\nExclusive Encounters\nJP :\nヘルズチキン専用イベント"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_11_desc_01-content",
+    "original": "헬스 치킨 던전에서만 만날 수 있는 특별한 이벤트와 E.G.O 기프트가 있습니다.\n헬스 치킨 던전 전용 이벤트는 방 아래에 별도의 아이콘이 표시되므로 쉽게 구분할 수 있습니다.",
+    "context": "EN :\nThere are special encounters and E.G.O Gifts unique to the Hell’s Chicken dungeons.\nThese specialties are marked with a unique icon below the node in the dungeon for easier identification.\nJP :\nヘルズチキンダンジョンでのみ遭遇できるイベントやE.G.Oギフトがあります。\nヘルズチキンダンジョン専用イベントは、部屋の下にアイコンが表示されるので簡単に識別できます。"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_12_title_01-content",
+    "original": "이벤트 이후",
+    "context": "EN :\nEvent Closure\nJP :\nイベント以降"
+  },
+  {
+    "key": "tutorial_mainui_18_hells_chicken_12_desc_01-content",
+    "original": "이벤트가 종료된 이후에도 운전석 - [외전]과 상영관 - [그 밖의 이야기]를 통해 언제든지 헬스 치킨 전투를 다시 즐기거나 스토리를 다시 감상할 수 있습니다.",
+    "context": "EN :\nEven after the event fully ends, you will be able to experience the Hell’s Chicken combat encounters and view its story anytime at the Driverside - [Deviazione] and Theater - [Detour Tales].\nJP :\nイベントが終了しても、運転席 - [外伝]と上映館 - [その他のストーリー]からいつでもヘルズチキンの戦闘を再度楽しんだり、ストーリーを再度鑑賞することができます。"
+  }
+]

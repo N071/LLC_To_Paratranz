@@ -1,0 +1,692 @@
+[
+  {
+    "key": "battle_battleunit_guard-content",
+    "original": "방어",
+    "context": "EN :\nGuard\nJP :\n防御"
+  },
+  {
+    "key": "popup_message_ego_seat_lack-content",
+    "original": "에고를 사용할 수 없는 상태입니다. 자리를 확인해주세요.",
+    "context": "EN :\nCannot use this E.G.O. Please check available space.\nJP :\nE.G.Oを使用することが出来ません。空きを確認してください。"
+  },
+  {
+    "key": "popup_message_ego_resources_lack-content",
+    "original": "에고를 사용할 수 없는 상태입니다. 문양을 확인해주세요.",
+    "context": "EN :\nCannot use this E.G.O. Please check your resources.\nJP :\nE.G.Oを使用することが出来ません。文様を確認してください。"
+  },
+  {
+    "key": "option_title-content",
+    "original": "설정",
+    "context": "EN :\nSettings\nJP :\n設定"
+  },
+  {
+    "key": "option_btn_exit-content",
+    "original": "스테이지 나가기",
+    "context": "EN :\nExit Stage\nJP :\nステージから退出"
+  },
+  {
+    "key": "option_btn_statistical-content",
+    "original": "전투 통계",
+    "context": "EN :\nBattle Data\nJP :\n戦闘リザルト"
+  },
+  {
+    "key": "creature_destroy_notice-content",
+    "original": "부위파괴",
+    "context": "EN :\nPart Broken\nJP :\n部位破壊"
+  },
+  {
+    "key": "oneside_attack-content",
+    "original": "일방공격",
+    "context": "EN :\nUnopposed\nJP :\n一方攻撃"
+  },
+  {
+    "key": "guard-content",
+    "original": "방어",
+    "context": "EN :\nGuard\nJP :\n防御"
+  },
+  {
+    "key": "power-content",
+    "original": "위력",
+    "context": "EN :\nPotency\nJP :\n威力"
+  },
+  {
+    "key": "require-content",
+    "original": "필요",
+    "context": "EN :\nReq.\nJP :\n必要"
+  },
+  {
+    "key": "battle_log_atk_hp-content",
+    "original": "{0}가(이) {1}에게 {2}의 피해!",
+    "context": "EN :\n{0} deals {2} damage to {1}!\nJP :\n{0}が{1}へ{2}のダメージ！"
+  },
+  {
+    "key": "battle_log_atk_mp-content",
+    "original": "{0}가(이) {1}에게 {2}의 정신력 피해!",
+    "context": "EN :\n{0} deals {2} damage to {1}’s sanity!\nJP :\n{0}が{1}へ{2}の精神力ダメージ！"
+  },
+  {
+    "key": "battle_log_recover_hp-content",
+    "original": "{0}가(이) {1}을 사용하여 체력{2} 회복",
+    "context": "EN :\n{0} healed {2} HP using {1}.\nJP :\n{0}が{1}を使用し、体力を{2}回復"
+  },
+  {
+    "key": "battle_log_guard-content",
+    "original": "{0} 방어 사용",
+    "context": "EN :\n{0} raised their guard.\nJP :\n{0}が防御"
+  },
+  {
+    "key": "battle_log_buf_to_other-content",
+    "original": "{0}가(이) {1}에게 {2}를(을) {3} 부여",
+    "context": "EN :\n{0} applied {3} {2} to {1}.\nJP :\n{0}が{1}へ{2}を{3}付与"
+  },
+  {
+    "key": "battle_log_buf_to_self-content",
+    "original": "{0}가(이) 자신에게 {1}를(을) {2} 부여",
+    "context": "EN :\n{0} applied {2} {1} to themself.\nJP :\n{0}が自分に{1}を{2}付与"
+  },
+  {
+    "key": "battle_log_use_ego-content",
+    "original": "{0}의 E.G.O:{1} 각성!!",
+    "context": "EN :\n{0} awakens {1}!!\nJP :\n{0}のE.G.O：{1}覚醒！！"
+  },
+  {
+    "key": "battle_log_use_ego_corrosion-content",
+    "original": "{0}의 E.G.O:{1} 침식!!",
+    "context": "EN :\n{1} corrodes {0}!!\nJP :\n{0}のE.G.O：{1}侵蝕！！"
+  },
+  {
+    "key": "battle_log_personality_corrosion-content",
+    "original": "{0}의 정신붕괴!!",
+    "context": "EN :\n{0} has a breakdown!!\nJP :\n{0}の精神崩壊！！"
+  },
+  {
+    "key": "battle_log_low_morale-content",
+    "original": "{0}의 사기 저하!",
+    "context": "EN :\n{0}’s morale is low!\nJP :\n{0}の士気低下！"
+  },
+  {
+    "key": "battle_log_panic-content",
+    "original": "{0}의 패닉!!",
+    "context": "EN :\n{0} is panicking!!\nJP :\n{0}のパニック！！"
+  },
+  {
+    "key": "choice_result_success-content",
+    "original": "판정 성공",
+    "context": "EN :\nCheck Passed\nJP :\n判定成功"
+  },
+  {
+    "key": "choice_result_fail-content",
+    "original": "판정 실패",
+    "context": "EN :\nCheck Failed\nJP :\n判定失敗"
+  },
+  {
+    "key": "choice_result_skip-content",
+    "original": "판정 넘김",
+    "context": "EN :\nCheck Skipped\nJP :\n判定スキップ"
+  },
+  {
+    "key": "info_button_detailinfo-content",
+    "original": "상세 정보",
+    "context": "EN :\nDetails\nJP :\n詳細情報"
+  },
+  {
+    "key": "info_button_skill-content",
+    "original": "스킬",
+    "context": "EN :\nSkill\nJP :\nスキル"
+  },
+  {
+    "key": "info_button_awakenskill-content",
+    "original": "각성 스킬",
+    "context": "EN :\nAwakening\nJP :\n覚醒スキル"
+  },
+  {
+    "key": "info_button_erosionskill-content",
+    "original": "침식 스킬",
+    "context": "EN :\nCorrosion\nJP :\n侵蝕スキル"
+  },
+  {
+    "key": "resonance-content",
+    "original": "공명",
+    "context": "EN :\nRes\nJP :\n共鳴"
+  },
+  {
+    "key": "perfect_resonance-content",
+    "original": "완전공명",
+    "context": "EN :\nA-Res\nJP :\n完全共鳴"
+  },
+  {
+    "key": "break-content",
+    "original": "흐트러짐",
+    "context": "EN :\nSTAGGER\nJP :\n混乱"
+  },
+  {
+    "key": "mental_break-content",
+    "original": "정신붕괴",
+    "context": "EN :\nBREAKDOWN\nJP :\n精神崩壊"
+  },
+  {
+    "key": "low_morale-content",
+    "original": "사기저하",
+    "context": "EN :\nLow Morale\nJP :\n士気低下"
+  },
+  {
+    "key": "panic-content",
+    "original": "패닉",
+    "context": "EN :\nPanic\nJP :\nパニック"
+  },
+  {
+    "key": "status-content",
+    "original": "스테이터스",
+    "context": "EN :\nStatus\nJP :\nステータス"
+  },
+  {
+    "key": "status_abnormal-content",
+    "original": "상태이상",
+    "context": "EN :\nEffects\nJP :\n状態異常"
+  },
+  {
+    "key": "immunity_information-content",
+    "original": "내성 정보",
+    "context": "EN :\nResistances\nJP :\n耐性情報"
+  },
+  {
+    "key": "awaken_ego_skill-content",
+    "original": "각성 스킬",
+    "context": "EN :\nAwakening\nJP :\n覚醒スキル"
+  },
+  {
+    "key": "erosion_ego_skill-content",
+    "original": "침식 스킬",
+    "context": "EN :\nCorrosion\nJP :\n侵蝕スキル"
+  },
+  {
+    "key": "turnplace_test_name-content",
+    "original": "남겨진 로보토미 지부 어딘가",
+    "context": "EN :\nAn Abandoned LC Branch\nJP :\n残されたロボトミー支部のどこか"
+  },
+  {
+    "key": "death-content",
+    "original": "사망",
+    "context": "EN :\nDEAD\nJP :\n死亡"
+  },
+  {
+    "key": "slash-content",
+    "original": "참격",
+    "context": "EN :\nSlash\nJP :\n斬撃"
+  },
+  {
+    "key": "penetrate-content",
+    "original": "관통",
+    "context": "EN :\nPierce\nJP :\n貫通"
+  },
+  {
+    "key": "hit-content",
+    "original": "타격",
+    "context": "EN :\nBlunt\nJP :\n打撃"
+  },
+  {
+    "key": "action_disable-content",
+    "original": "행동불가",
+    "context": "EN :\nImmobile\nJP :\n行動不能"
+  },
+  {
+    "key": "ab_event_select_character-content",
+    "original": "수감자 선택",
+    "context": "EN :\nSelect Sinner\nJP :\n囚人選択"
+  },
+  {
+    "key": "ab_event_select_desc-content",
+    "original": "선택 내용",
+    "context": "EN :\nInfo\nJP :\n選択内容"
+  },
+  {
+    "key": "ab_event_rate-content",
+    "original": "성공 확률",
+    "context": "EN :\nSuccess Rate\nJP :\n成功確率"
+  },
+  {
+    "key": "formet_event_rate-content",
+    "original": "성공 확률 : {0}",
+    "context": "EN :\nSuccess Rate: {0}\nJP :\n成功確率 : {0}"
+  },
+  {
+    "key": "ab_event_decision-content",
+    "original": "판정 시작",
+    "context": "EN :\nCommence\nJP :\n判定開始"
+  },
+  {
+    "key": "ab_event_need-content",
+    "original": "필요",
+    "context": "EN :\nReq.\nJP :\n必要"
+  },
+  {
+    "key": "ab_battle_resume-content",
+    "original": "전투 재개",
+    "context": "EN :\nResume Battle\nJP :\n戦闘再開"
+  },
+  {
+    "key": "info_button_choice_log-content",
+    "original": "선택지 로그",
+    "context": "EN :\nDecision Log\nJP :\n選択肢ログ"
+  },
+  {
+    "key": "info_button_story-content",
+    "original": "스토리",
+    "context": "EN :\nStory\nJP :\nストーリー"
+  },
+  {
+    "key": "info_button_ego-content",
+    "original": "E.G.O",
+    "context": "EN :\nE.G.O\nJP :\nE.G.O"
+  },
+  {
+    "key": "dungeon_encounter_start-content",
+    "original": "시작점",
+    "context": "EN :\nStart\nJP :\n開始点"
+  },
+  {
+    "key": "dungeon_encounter_battle-content",
+    "original": "일반 전투",
+    "context": "EN :\nRegular Encounter\nJP :\n一般戦闘"
+  },
+  {
+    "key": "dungeon_encounter_ab_battle-content",
+    "original": "환상체 전투",
+    "context": "EN :\nAbnormality Encounter\nJP :\n幻想体戦闘"
+  },
+  {
+    "key": "dungeon_encounter_hard_battle-content",
+    "original": "위험 전투",
+    "context": "EN :\nRisky Encounter\nJP :\n危険戦闘"
+  },
+  {
+    "key": "dungeon_encounter_event-content",
+    "original": "이벤트",
+    "context": "EN :\nEvent\nJP :\nイベント"
+  },
+  {
+    "key": "dungeon_encounter_save-content",
+    "original": "세이브 포인트",
+    "context": "EN :\nCheckpoint\nJP :\nセーブポイント"
+  },
+  {
+    "key": "dungeon_encounter_boss-content",
+    "original": "층 보스",
+    "context": "EN :\nFloor Boss\nJP :\nフロアボス"
+  },
+  {
+    "key": "bottom_winrate-content",
+    "original": "승률",
+    "context": "EN :\nWin Rate\nJP :\n勝率"
+  },
+  {
+    "key": "bottom_dmg-content",
+    "original": "피해량",
+    "context": "EN :\nDamage\nJP :\nダメージ量"
+  },
+  {
+    "key": "ab_event_next-content",
+    "original": "다음으로",
+    "context": "EN :\nProceed\nJP :\n次へ"
+  },
+  {
+    "key": "explanatory-content",
+    "original": "범례",
+    "context": "EN :\nLegend\nJP :\nカテゴリ"
+  },
+  {
+    "key": "get_ego_gift-content",
+    "original": "E.G.O 기프트 획득",
+    "context": "EN :\nE.G.O Gift GET\nJP :\nE.G.Oギフト獲得"
+  },
+  {
+    "key": "get_ego_gift_desc-content",
+    "original": "E.G.O 기프트를 획득했습니다.",
+    "context": "EN :\nE.G.O Gift GET!\nJP :\nE.G.Oギフトを獲得しました。"
+  },
+  {
+    "key": "selection-content",
+    "original": "선택지",
+    "context": "EN :\nChoices\nJP :\n選択肢"
+  },
+  {
+    "key": "result-content",
+    "original": "결과",
+    "context": "EN :\nResult\nJP :\n結果"
+  },
+  {
+    "key": "choice_total_rate-content",
+    "original": "총 성공 확률",
+    "context": "EN :\nTotal Success Rate\nJP :\n成功確率(トータル)"
+  },
+  {
+    "key": "enter-content",
+    "original": "입장",
+    "context": "EN :\nEnter\nJP :\n入場"
+  },
+  {
+    "key": "recommend_level-content",
+    "original": "추천 레벨",
+    "context": "EN :\nIdeal LVL\nJP :\n推奨レベル"
+  },
+  {
+    "key": "enemy_info-content",
+    "original": "적 정보",
+    "context": "EN :\nEnemy Info\nJP :\n敵情報"
+  },
+  {
+    "key": "enter_clear_requirement-content",
+    "original": "EX 클리어 조건",
+    "context": "EN :\nExtra Objective\nJP :\nEXクリア条件"
+  },
+  {
+    "key": "choice_event_resume-content",
+    "original": "돌아가기",
+    "context": "EN :\nContinue\nJP :\n戻る"
+  },
+  {
+    "key": "crime_state_judgment-content",
+    "original": "{0} 판정",
+    "context": "EN :\n{0} Check\nJP :\n{0}判定"
+  },
+  {
+    "key": "choice_personality-content",
+    "original": "판정을 진행할 인격을 선택하세요",
+    "context": "EN :\nChoose a character to perform the check with:\nJP :\n判定を進行する人格を選択してください。"
+  },
+  {
+    "key": "success_result-content",
+    "original": "성공 값",
+    "context": "EN :\nThreshold\nJP :\n成功値"
+  },
+  {
+    "key": "expectation_result-content",
+    "original": "예상 값",
+    "context": "EN :\nPredicted\nJP :\n予想値"
+  },
+  {
+    "key": "outcome_result-content",
+    "original": "결과 값",
+    "context": "EN :\nOutcome\nJP :\n結果"
+  },
+  {
+    "key": "choice_event_percent-content",
+    "original": "예상 확률",
+    "context": "EN :\nOdds\nJP :\n予想確率"
+  },
+  {
+    "key": "skill_expectition_value-content",
+    "original": "스킬 예상 값 {0}-{1}",
+    "context": "EN :\nPredicted Range: {0}-{1}\nJP :\nスキル予想値： {0}-{1}"
+  },
+  {
+    "key": "skill_expectition_or_value-content",
+    "original": "스킬 예상 값 {0}or{1}",
+    "context": "EN :\nPredicted Value: {0} / {1}\nJP :\nスキル予想値： {0} or {1}"
+  },
+  {
+    "key": "skill_correction_value-content",
+    "original": "{0} 보정 값 {1}",
+    "context": "EN :\n{0} Modifier: {1}\nJP :\n{0} 補正値： {1}"
+  },
+  {
+    "key": "action_choice_event_result_example_battle-content",
+    "original": "전투 발생",
+    "context": "EN :\nCombat Encounter\nJP :\n戦闘発生"
+  },
+  {
+    "key": "action_choice_event_result_example_event-content",
+    "original": "이벤트",
+    "context": "EN :\nEvent\nJP :\nイベント"
+  },
+  {
+    "key": "action_choice_event_result_example_resume-content",
+    "original": "돌아가기",
+    "context": "EN :\nContinue\nJP :\n戻る"
+  },
+  {
+    "key": "areaatk_attack-content",
+    "original": "광역 스킬",
+    "context": "EN :\nAoE Skills\nJP :\n広域スキル"
+  },
+  {
+    "key": "enter_battle-content",
+    "original": "전투 시작",
+    "context": "EN :\nTo Battle!\nJP :\n戦闘開始"
+  },
+  {
+    "key": "choice_event_five_percent-content",
+    "original": "5% 확률로 성공",
+    "context": "EN :\n5% Chance\nJP :\n5％の確率で成功"
+  },
+  {
+    "key": "choice_event_five_percent_success-content",
+    "original": "5% 확률로 판정 성공",
+    "context": "EN :\n5% Chance of Success\nJP :\n5％の確率で判定成功"
+  },
+  {
+    "key": "skillinfo_passivetitle-content",
+    "original": "지속 효과",
+    "context": "EN :\nPassive\nJP :\nパッシブ効果"
+  },
+  {
+    "key": "skillinfo_coinabilitytitle-content",
+    "original": "스킬 효과",
+    "context": "EN :\nSkill Effects\nJP :\nスキル効果"
+  },
+  {
+    "key": "dungeon_save_desc-content",
+    "original": "세이브 포인트 도달.\n던전 진행 상황이 저장되었습니다.\n모든 수감자가 회복됩니다.",
+    "context": "EN :\nCheckpoint reached.\nDungeon progress has been saved.\nAll Sinners have been healed.\nJP :\nセーブポイント到達。\nダンジョン進行状況が保存されました。\n全囚人が回復します。"
+  },
+  {
+    "key": "battle_battleunit_evade-content",
+    "original": "회피",
+    "context": "EN :\nEvade\nJP :\n回避"
+  },
+  {
+    "key": "battle_battleunit_counter-content",
+    "original": "반격",
+    "context": "EN :\nCounter\nJP :\n反撃"
+  },
+  {
+    "key": "battle_operation_defence-content",
+    "original": "수비",
+    "context": "EN :\nDefense\nJP :\n守備"
+  },
+  {
+    "key": "battle_increase_mp-content",
+    "original": "정신력 증가",
+    "context": "EN :\nSanity Up\nJP :\n精神力増加"
+  },
+  {
+    "key": "battle_decrease_mp-content",
+    "original": "정신력 감소",
+    "context": "EN :\nSanity Down\nJP :\n精神力減少"
+  },
+  {
+    "key": "dungeon_encounter_type_start-content",
+    "original": "시작",
+    "context": "EN :\nStart\nJP :\n開始"
+  },
+  {
+    "key": "dungeon_encounter_type_battle-content",
+    "original": "일반 전투",
+    "context": "EN :\nRegular Encounter\nJP :\n一般戦闘"
+  },
+  {
+    "key": "dungeon_encounter_type_ab_battle-content",
+    "original": "환상체 전투",
+    "context": "EN :\nAbnormality Encounter\nJP :\n幻想体戦闘"
+  },
+  {
+    "key": "dungeon_encounter_type_hard_battle-content",
+    "original": "위험 전투",
+    "context": "EN :\nRisky Encounter\nJP :\n危険戦闘"
+  },
+  {
+    "key": "dungeon_encounter_type_event-content",
+    "original": "이벤트",
+    "context": "EN :\nEvent\nJP :\nイベント"
+  },
+  {
+    "key": "dungeon_encounter_type_save-content",
+    "original": "세이브룸",
+    "context": "EN :\nSaferoom\nJP :\nセーブルーム"
+  },
+  {
+    "key": "dungeon_encounter_type_boss-content",
+    "original": "보스 전투",
+    "context": "EN :\nBoss Encounter\nJP :\nボス戦闘"
+  },
+  {
+    "key": "battle_mp-content",
+    "original": "정신력",
+    "context": "EN :\nSanity\nJP :\n精神力"
+  },
+  {
+    "key": "abnormality_part_hp-content",
+    "original": "부위 체력",
+    "context": "EN :\nPart HP\nJP :\n部位体力"
+  },
+  {
+    "key": "abnormality_research_level-content",
+    "original": "관찰 단계",
+    "context": "EN :\nObs. Level\nJP :\n観察レベル"
+  },
+  {
+    "key": "abnormality_no_research_level-content",
+    "original": "관찰 단계 없음",
+    "context": "EN :\nLacking Data\nJP :\n観察レベルなし"
+  },
+  {
+    "key": "Insufficient_conditions-content",
+    "original": "조건 불충족",
+    "context": "EN :\nConditions Unmet\nJP :\n条件未達成"
+  },
+  {
+    "key": "skillinfo_keyword-content",
+    "original": "키워드",
+    "context": "EN :\nKeywords\nJP :\nキーワード"
+  },
+  {
+    "key": "ability_turn-content",
+    "original": "횟수",
+    "context": "EN :\nCount\nJP :\n回数"
+  },
+  {
+    "key": "ego_erosion-content",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "continuous_turn-content",
+    "original": "지속 턴",
+    "context": "EN :\nTurns\nJP :\n持続ターン"
+  },
+  {
+    "key": "status_buff_list-content",
+    "original": "효과 목록",
+    "context": "EN :\nEffects\nJP :\n効果リスト"
+  },
+  {
+    "key": "stack-content",
+    "original": "스택",
+    "context": "EN :\nCount\nJP :\nスタック"
+  },
+  {
+    "key": "slash_resistance-content",
+    "original": "참격 내성",
+    "context": "EN :\nSlash Res.\nJP :\n斬撃耐性"
+  },
+  {
+    "key": "penetrate_resistance-content",
+    "original": "관통 내성",
+    "context": "EN :\nPierce Res.\nJP :\n貫通耐性"
+  },
+  {
+    "key": "hit_resistance-content",
+    "original": "타격 내성",
+    "context": "EN :\nBlunt Res.\nJP :\n打撃耐性"
+  },
+  {
+    "key": "Lack_Buff-content",
+    "original": "!{0} 부족!",
+    "context": "EN :\nNo {0}!\nJP :\n!{0} 不足!"
+  },
+  {
+    "key": "received_the_golden_bough-content",
+    "original": "황금가지 수복",
+    "context": "EN :\nGolden Bough Recovered\nJP :\n黄金の枝 修復"
+  },
+  {
+    "key": "destroyable-content",
+    "original": "파괴 가능",
+    "context": "EN :\nDestructible\nJP :\n破壊可能"
+  },
+  {
+    "key": "resumption-content",
+    "original": "게임 재개",
+    "context": "EN :\nResume\nJP :\n再開"
+  },
+  {
+    "key": "stage_GiveUp-content",
+    "original": "스테이지 포기",
+    "context": "EN :\nGive Up\nJP :\nステージをギブアップ"
+  },
+  {
+    "key": "show_skillTool-content",
+    "original": "스킬 툴 표시",
+    "context": "EN :\nShow Skill Tools\nJP :\nスキルツールを表示"
+  },
+  {
+    "key": "auto_coinToss-content",
+    "original": "코인 토스 자동",
+    "context": "EN :\nAuto Cointoss\nJP :\nオートコイントス"
+  },
+  {
+    "key": "babayaga_alert-content",
+    "original": "{0}번의 기회가 남았어.",
+    "context": "EN :\nYou have {0} chances left.\nJP :\n{0}回のチャンスが残っている。"
+  },
+  {
+    "key": "battle_operation_offset-content",
+    "original": "상쇄",
+    "context": "EN :\nOffset\nJP :\n相殺"
+  },
+  {
+    "key": "oneside_defense-content",
+    "original": "일방방어",
+    "context": "EN :\nOne-sided Guard\nJP :\n一方防御"
+  },
+  {
+    "key": "cantIdentify-content",
+    "original": "<color=#ff0000>[피아식별불가]</color>",
+    "context": "EN :\n<color=#ff0000>[Indiscriminate]</color>\nJP :\n<color=#ff0000>[敵味方識別不可]</color>"
+  },
+  {
+    "key": "popup_message_ego_irrevocable-content",
+    "original": "이전 턴에 생성한 E.G.O 스킬은 취소할 수 없습니다.",
+    "context": "EN :\nE.G.O Skills generated on previous turns cannot be canceled.\nJP :\n前のターンにて生成したE.G.Oスキルはキャンセルすることができません。"
+  },
+  {
+    "key": "stock-content",
+    "original": "보유",
+    "context": "EN :\nOwned\nJP :\n保有"
+  },
+  {
+    "key": "stable-content",
+    "original": "안정",
+    "context": "EN :\nStable\nJP :\n安定"
+  },
+  {
+    "key": "un_stable-content",
+    "original": "불안정",
+    "context": "EN :\nUnstable\nJP :\n不安定"
+  },
+  {
+    "key": "vibration_explosion-content",
+    "original": "진동 폭발!",
+    "context": "EN :\nTremor Burst!\nJP :\n振動爆発!"
+  }
+]

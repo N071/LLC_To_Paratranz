@@ -1,0 +1,212 @@
+[
+  {
+    "key": "get_10501_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10501_1-dlg",
+    "original": "뫼르소. 그렇게 불러주시겠습니까, 관리자님.",
+    "context": "EN :\nMeursault. Please refer to me as such, Manager.\nJP :\nムルソー。そう呼んでくださいますか、管理人様。"
+  },
+  {
+    "key": "lobby_morning_10501_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10501_1-dlg",
+    "original": "정해진 시간에 기상하는 것은 사칙에 명시된 내용입니다. 관리자님을 포함한 대다수의 수감자들은 이 사실을 모르는 것 같군요.",
+    "context": "EN :\nThe company rules say that its employees are to get up at designated hours. It appears most Sinners are unaware of this fact, and so are you.\nJP :\n決められた時間に起床することは社則に明示された内容です。管理人様を含めた大多数の囚人たちはこの事実を知らないようですね。"
+  },
+  {
+    "key": "lobby_noon_10501_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10501_1-dlg",
+    "original": "점심시간에는 무얼 하냐고 물으신다면… 무엇을 해야 하는지 규정된 바는 없습니다.",
+    "context": "EN :\nIf you ask me how I intend to spend my afternoon… No rules state what to do.\nJP :\n昼の時間には何をしているかと聞かれましても…何をすべきかの規定はありません。"
+  },
+  {
+    "key": "lobby_night_10501_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10501_1-dlg",
+    "original": "구태여 좋냐 안 좋냐를 따지자면 밤보다는 낮을 선호하는 편입니다. 보이지 않을수록 이해가 어렵기 때문입니다.",
+    "context": "EN :\nIf I had to compare the times of day against each other, I prefer day to night. Darkness obscures vision, and what is hard to see is hard to understand.\nJP :\nあえて好みを言うならば、どちらかというと夜よりは昼を好みます。見えないものほど理解が難しいからです。"
+  },
+  {
+    "key": "smalltalk_10501_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10501_1-dlg",
+    "original": "저한테 무슨 볼일이라도 있으신 겁니까, 관리자님? 귀책되어야 할 사유가 있다면, 분명하게 말씀해주시는 게 좋습니다.",
+    "context": "EN :\nDo you have any business with me, Manager? If there is a particular reason, do make it clear.\nJP :\n私に何か用事でもありますか、管理人様？帰責されるべき事由があるなら、はっきり言っていただいた方がよろしいかと。"
+  },
+  {
+    "key": "smalltalk_10501_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10501_2-dlg",
+    "original": "다들 제게 평소에 웃고 다니라고 하더군요. 관리자님께서도 그걸 원하시는 겁니까?",
+    "context": "EN :\nPeople suggest that I smile more often. Do you want that as well, Manager?\nJP :\n皆、私に普段から笑えと言うのですが、管理人様もそれをお望みでしょうか？"
+  },
+  {
+    "key": "smalltalk_10501_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10501_3-dlg",
+    "original": "…자꾸만 말을 거시는군요. 관리자님의 규정에서는 그렇게 명시되어 있는 겁니까?",
+    "context": "EN :\n…You continue to speak with me. Are you encouraged by the rules to do so?\nJP :\n…しきりに話しかけてくるのですね。管理人様の規定にはそのように明示されているのですか？"
+  },
+  {
+    "key": "neglect_10501_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10501_1-dlg",
+    "original": "복귀하실 때까지 기다리겠습니다.",
+    "context": "EN :\nI shall wait here until you return.\nJP :\n復帰されるまでお待ちします。"
+  },
+  {
+    "key": "formation_10501_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10501_1-dlg",
+    "original": "네, 원하신다면.",
+    "context": "EN :\nYes, if that is what you want.\nJP :\nはい、お望みであれば。"
+  },
+  {
+    "key": "battleentry_10501_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10501_1-dlg",
+    "original": "규정이라면. 따르겠습니다.",
+    "context": "EN :\nIf the rules say so.\nJP :\n規定であるなら。従います。"
+  },
+  {
+    "key": "battle_select_10501_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10501_1-dlg",
+    "original": "무슨 문제라도 있으십니까, 관리자님.",
+    "context": "EN :\nIs there a problem, Manager?\nJP :\n何か問題でもあるのでしょうか、管理人様。"
+  },
+  {
+    "key": "battle_endcommand_10501_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10501_1-dlg",
+    "original": "규정에 따라, 실행합니다.",
+    "context": "EN :\nI shall execute the order according to the rules.\nJP :\n規定に従い、実行します。"
+  },
+  {
+    "key": "battle_enemy_break_10501_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10501_1-dlg",
+    "original": "다음 판단을 부탁합니다.",
+    "context": "EN :\nI am awaiting your next order.\nJP :\n次の判断をお願いします。"
+  },
+  {
+    "key": "battle_break_10501_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10501_1-dlg",
+    "original": "윽!",
+    "context": "EN :\nUgh!\nJP :\nうっ！"
+  },
+  {
+    "key": "battle_kill_10501_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10501_1-dlg",
+    "original": "규정대로.",
+    "context": "EN :\nDone accordingly.\nJP :\n規定通りに。"
+  },
+  {
+    "key": "battle_allydead_10501_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10501_1-dlg",
+    "original": "규정대로 부탁드리겠습니다.",
+    "context": "EN :\nPlease take care of this by the rules.\nJP :\n規定通りにお願いします。"
+  },
+  {
+    "key": "choice_success_p_10501_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10501_2-dlg",
+    "original": "해냈다.",
+    "context": "EN :\nI made it.\nJP :\nやり遂げた。"
+  },
+  {
+    "key": "choice_fail_n_10501_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10501_1-dlg",
+    "original": "실패했군.",
+    "context": "EN :\nI failed.\nJP :\n失敗したか。"
+  },
+  {
+    "key": "battle_clear_10501_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10501_1-dlg",
+    "original": "그저 명령대로 행한 것일 뿐.",
+    "context": "EN :\nI simply followed orders.\nJP :\nただ命令通りに行ったのみ。"
+  },
+  {
+    "key": "battle_clear_ex_10501_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10501_1-dlg",
+    "original": "마땅히 했어야 할 일에 칭찬은 불필요한 과정입니다.",
+    "context": "EN :\nIt’s what should have been done; compliments are redundant.\nJP :\n当然やるべきことに対しての称賛は、不必要な過程です。"
+  },
+  {
+    "key": "battle_defeat_10501_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10501_1-dlg",
+    "original": "전략을 다시 재고해보시길.",
+    "context": "EN :\nI implore you to revise the strategy.\nJP :\n戦略を再考することを願います。"
+  }
+]

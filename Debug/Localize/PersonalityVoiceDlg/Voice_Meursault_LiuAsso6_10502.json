@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10502_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10502_1-dlg",
+    "original": "불꽃이 필요하신 거라면 피워드립니다.",
+    "context": "EN :\nIf it is fire you need, then I will provide it.\nJP :\n火花が必要であれば焚いて差し上げましょう。"
+  },
+  {
+    "key": "lobby_morning_10502_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10502_1-dlg",
+    "original": "때가 되어서 자연스럽게 눈이 떠진 것뿐입니다. 그러니 제 기상 시간에 대해 감탄하실 필요는 없습니다.",
+    "context": "EN :\nMy eyes opened because it was time to wake up. There is no need to be amazed by how early I rise.\nJP :\n時が来て自然に目が開いただけです。ですから、私の起床時間に感嘆する必要はございません。"
+  },
+  {
+    "key": "lobby_noon_10502_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10502_1-dlg",
+    "original": "남는 시간에는 다른 이들의 훈련을 도와주고 있습니다. 처음엔 한 명이었는데 어느새 일과가 되어버렸더군요.",
+    "context": "EN :\nIn my spare time, I help others with their training. I only did it for one person at first, but as time went on, it became a regular routine.\nJP :\n余った時間には、他の者たちの訓練を手伝っています。最初は一人だったのに、いつの間にか日課になってしまいましたね。"
+  },
+  {
+    "key": "lobby_night_10502_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10502_1-dlg",
+    "original": "어두운 게 싫으시다면 주위를 밝혀드릴 수 있습니다. 제 불꽃은 6과에서 제일 밝은 불꽃입니다.",
+    "context": "EN :\nI can brighten your surroundings if you dislike the dark. My fire is the brightest in Section 6.\nJP :\n暗いのが嫌でしたら周囲を照らすことができます。私の火花は、6課で最も明るい火花です。"
+  },
+  {
+    "key": "smalltalk_10502_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10502_1-dlg",
+    "original": "만약 일이 잘 풀리지 않는다면… 엉킨 부분을 찬찬히 살펴보면 됩니다.",
+    "context": "EN :\nIf things are not going well… you start by carefully examining the problem.\nJP :\nもし問題が上手く解けないのであれば…絡まった部分をじっくり調べれば良いのです。"
+  },
+  {
+    "key": "smalltalk_10502_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10502_2-dlg",
+    "original": "말이 없어서 답답하다는 평가를 자주 듣습니다. 부정적인 요인은 아니므로, 구태여 고칠 노력은 하지 않고 있습니다.",
+    "context": "EN :\nOthers often assess my infrequency of speech as stifling. As it is not a negative factor, I do not make an active effort to rectify it.\nJP :\n口数が少なくてもどかしいという評価をよく受けます。否定的な要因ではありませんので、あえて直す努力はしていません。"
+  },
+  {
+    "key": "smalltalk_10502_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10502_3-dlg",
+    "original": "때가 되어서 이곳으로 왔고, 관리자님을 만난 것처럼… 때가 된다면 황금가지 역시 찾을 수 있을 겁니다.",
+    "context": "EN :\nI arrived here and met you because it was time… Similarly, we will find the Golden Bough when the right time comes.\nJP :\n時が来て、ここへと辿り着き管理人様に出会えたように…。時が来れば黄金の枝もまた、見つけられるでしょう。"
+  },
+  {
+    "key": "smalltalk_10502_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10502_4-dlg",
+    "original": "지금까지의 관리 경험으로 미루어 보건대, 관리자님 정도라면 막힘없이 불꽃을 피워낼 수 있을 것입니다. 원하신다면…",
+    "context": "EN :\nJudging from the managerial experience so far, someone of your caliber should be able to create a flame with ease. If you want…\nJP :\nこれまでの管理経験から推し量るに、管理人様ほどの技量なら、滞りなく火花を引き起こすことが出来るでしょう。お望みであれば…。"
+  },
+  {
+    "key": "smalltalk_10502_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10502_5-dlg",
+    "original": "기억을 잃은 것에 연연해하지 마시길. 관리자님이라면 자연스러운 순간에 찾아낼 수 있을 겁니다.",
+    "context": "EN :\nDon’t let your loss of memory distract you too much. I am certain the moment of recovery will come naturally.\nJP :\n記憶を失ったことに執着しないでください。管理人様になら、取り戻せる瞬間が自然と訪れるでしょう。"
+  },
+  {
+    "key": "neglect_10502_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10502_1-dlg",
+    "original": "급한 일이 생긴 거라면, 떠나셔도 됩니다. ",
+    "context": "EN :\nYou may leave me if you’re urgently needed.\nJP :\n急用が発生したのであれば、離れても構いません。"
+  },
+  {
+    "key": "gacksung_10502_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10502_1-dlg",
+    "original": "더욱 진한 불꽃이 되도록 정진하겠습니다.",
+    "context": "EN :\nI will strive to become a keener flame.\nJP :\nより激しい火花になれるよう、精進いたします。"
+  },
+  {
+    "key": "formation_10502_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10502_1-dlg",
+    "original": "불꽃을 바라신다면.",
+    "context": "EN :\nIf it’s a fire you wish for.\nJP :\n火花をお望みであれば。"
+  },
+  {
+    "key": "battleentry_10502_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10502_1-dlg",
+    "original": "이 불꽃이 필요하시다면.",
+    "context": "EN :\nIf you need this fire of mine.\nJP :\nこの火花が必要であれば。"
+  },
+  {
+    "key": "battle_select_10502_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10502_1-dlg",
+    "original": "잘 풀리지 않고 있습니까?",
+    "context": "EN :\nIs it not progressing well?\nJP :\n上手く解けていないのですか？"
+  },
+  {
+    "key": "battle_endcommand_10502_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10502_1-dlg",
+    "original": "제 불을 따라오십시오.",
+    "context": "EN :\nFollow my fire.\nJP :\n私の火に付いてきてください。"
+  },
+  {
+    "key": "battle_enemy_break_10502_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10502_1-dlg",
+    "original": "잘 풀린 것 같습니다.",
+    "context": "EN :\nIt seems to have gone well.\nJP :\n上手く解けたようです。"
+  },
+  {
+    "key": "battle_break_10502_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10502_1-dlg",
+    "original": "읏!",
+    "context": "EN :\nNkh!\nJP :\nうっ！"
+  },
+  {
+    "key": "battle_kill_10502_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10502_1-dlg",
+    "original": "자연스러운 것입니다.",
+    "context": "EN :\nA natural outcome.\nJP :\n自然なことです。"
+  },
+  {
+    "key": "battle_allydead_10502_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10502_1-dlg",
+    "original": "더 진한 불꽃이었다면…",
+    "context": "EN :\nIf only the fire were more intense…\nJP :\nより激しい火花であれば…。"
+  },
+  {
+    "key": "choice_success_p_10502_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10502_2-dlg",
+    "original": "길을 밝힐 뿐입니다.",
+    "context": "EN :\nI lit the path as required.\nJP :\n道を照らしたに過ぎません。"
+  },
+  {
+    "key": "choice_fail_n_10502_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10502_1-dlg",
+    "original": "불꽃도 흔들릴 때가 있습니다.",
+    "context": "EN :\nFires are susceptible to sudden gusts.\nJP :\n火花も煽られるときがあります。"
+  },
+  {
+    "key": "battle_clear_10502_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10502_1-dlg",
+    "original": "타격점이 분명하게 보이더군요.",
+    "context": "EN :\nI was able to see where to strike.\nJP :\n打撃点が明確に見えたのですよ。"
+  },
+  {
+    "key": "battle_clear_ex_10502_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10502_1-dlg",
+    "original": "네, 이번 불꽃은 저도 마음에 들었습니다.",
+    "context": "EN :\nYes, I was fond of the fire I managed to ignite now.\nJP :\nはい、今回の火花は私も気に入りました。"
+  },
+  {
+    "key": "battle_defeat_10502_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10502_1-dlg",
+    "original": "괜찮습니다. 문제점을 파악했습니다.",
+    "context": "EN :\nIt’s alright. I’ve grasped the problem.\nJP :\n大丈夫です。問題点を把握しました。"
+  }
+]

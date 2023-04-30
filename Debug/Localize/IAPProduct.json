@@ -1,0 +1,232 @@
+[
+  {
+    "key": "1-name",
+    "original": "광기",
+    "context": "EN :\nLunacy\nJP :\n狂気"
+  },
+  {
+    "key": "1-desc",
+    "original": "광기를 140만큼 획득할 수 있습니다.",
+    "context": "EN :\nContains 140 Lunacy.\nJP :\n狂気を140獲得することが出来ます。"
+  },
+  {
+    "key": "2-name",
+    "original": "광기 묶음",
+    "context": "EN :\nLunacy Bundle\nJP :\n狂気の房"
+  },
+  {
+    "key": "2-desc",
+    "original": "광기를 588만큼 획득할 수 있습니다.",
+    "context": "EN :\nContains 588 Lunacy.\nJP :\n狂気を588獲得することが出来ます。"
+  },
+  {
+    "key": "3-name",
+    "original": "광기 다발",
+    "context": "EN :\nLunacy Bouquet\nJP :\n狂気の束"
+  },
+  {
+    "key": "3-desc",
+    "original": "광기를 2028만큼 획득할 수 있습니다.",
+    "context": "EN :\nContains 2028 Lunacy.\nJP :\n狂気を2028獲得することが出来ます。"
+  },
+  {
+    "key": "4-name",
+    "original": "광기 상자",
+    "context": "EN :\nLunacy Crate\nJP :\n狂気の箱"
+  },
+  {
+    "key": "4-desc",
+    "original": "광기를 4294만큼 획득할 수 있습니다.",
+    "context": "EN :\nContains 4294 Lunacy.\nJP :\n狂気を4294獲得することが出来ます。"
+  },
+  {
+    "key": "5-name",
+    "original": "광기 더미",
+    "context": "EN :\nLunacy Mound\nJP :\n狂気の山"
+  },
+  {
+    "key": "5-desc",
+    "original": "광기를 8206만큼 획득할 수 있습니다.",
+    "context": "EN :\nContains 8206 Lunacy.\nJP :\n狂気を8206獲得することが出来ます。"
+  },
+  {
+    "key": "6-name",
+    "original": "광기 모음",
+    "context": "EN :\nLunacy Hoard\nJP :\n狂気の寄せ集め"
+  },
+  {
+    "key": "6-desc",
+    "original": "광기를 16672만큼 획득할 수 있습니다.",
+    "context": "EN :\nContains 16672 Lunacy.\nJP :\n狂気を16672獲得することが出来ます。"
+  },
+  {
+    "key": "11-name",
+    "original": "광기",
+    "context": "EN :\nLunacy\nJP :\n狂気"
+  },
+  {
+    "key": "11-desc",
+    "original": "광기를 70만큼 획득할 수 있습니다.",
+    "context": "EN :\nContains 70 Lunacy.\nJP :\n狂気を70獲得することが出来ます。"
+  },
+  {
+    "key": "12-name",
+    "original": "광기 묶음",
+    "context": "EN :\nLunacy Bundle\nJP :\n狂気の房"
+  },
+  {
+    "key": "12-desc",
+    "original": "광기를 294만큼 획득할 수 있습니다.\n보너스로 무료 광기가 31만큼 추가로 제공됩니다.",
+    "context": "EN :\nContains 294 Lunacy.\nYou will also receive 31 Free Lunacy as a bonus.\nJP :\n狂気を294獲得することが出来ます。\nボーナスで無償狂気が31追加されます。"
+  },
+  {
+    "key": "13-name",
+    "original": "광기 다발",
+    "context": "EN :\nLunacy Bouquet\nJP :\n狂気の束"
+  },
+  {
+    "key": "13-desc",
+    "original": "광기를 1014만큼 획득할 수 있습니다.\n보너스로 무료 광기가 156만큼 추가로 제공됩니다.",
+    "context": "EN :\nContains 1014 Lunacy.\nYou will also receive 156 Free Lunacy as a bonus.\nJP :\n狂気を1014獲得することが出来ます。\nボーナスで無償狂気が156追加されます。"
+  },
+  {
+    "key": "14-name",
+    "original": "광기 상자",
+    "context": "EN :\nLunacy Crate\nJP :\n狂気の箱"
+  },
+  {
+    "key": "14-desc",
+    "original": "광기를 2147만큼 획득할 수 있습니다.\n보너스로 무료 광기가 323만큼 추가로 제공됩니다.",
+    "context": "EN :\nContains 2147 Lunacy.\nYou will also receive 323 Free Lunacy as a bonus.\nJP :\n狂気を2147獲得することが出来ます。\nボーナスで無償狂気が323追加されます。"
+  },
+  {
+    "key": "15-name",
+    "original": "광기 더미",
+    "context": "EN :\nLunacy Mound\nJP :\n狂気の山"
+  },
+  {
+    "key": "15-desc",
+    "original": "광기를 4103만큼 획득할 수 있습니다.\n보너스로 무료 광기가 642만큼 추가로 제공됩니다.",
+    "context": "EN :\nContains 4103 Lunacy.\nYou will also receive 642 Free Lunacy as a bonus.\nJP :\n狂気を4103獲得することが出来ます。\nボーナスで無償狂気が642追加されます。"
+  },
+  {
+    "key": "16-name",
+    "original": "광기 모음",
+    "context": "EN :\nLunacy Hoard\nJP :\n狂気の寄せ集め"
+  },
+  {
+    "key": "16-desc",
+    "original": "광기를 8336만큼 획득할 수 있습니다.\n보너스로 무료 광기가 1349만큼 추가로 제공됩니다.",
+    "context": "EN :\nContains 8336 Lunacy.\nYou will also receive 1349 Free Lunacy as a bonus.\nJP :\n狂気を8336獲得することが出来ます。\nボーナスで無償狂気が1349追加されます。"
+  },
+  {
+    "key": "21-name",
+    "original": "월간 광기",
+    "context": "EN :\nMonthly Lunacy Supply\nJP :\n狂気(毎月)"
+  },
+  {
+    "key": "21-desc",
+    "original": "광기를 650만큼 획득할 수 있습니다.\n매일 접속 시, 무료 광기를 65만큼 30일 동안 획득할 수 있습니다.",
+    "context": "EN :\nGet 650 Lunacy instantly upon purchase.\nReceive an additional 65 Free Lunacy each day you log in for 30 days.\nJP :\n狂気を650獲得することが出来ます。\n毎日ログイン時、無償狂気を65ずつ30日間獲得することが出来ます。"
+  },
+  {
+    "key": "22-name",
+    "original": "월간 광기 소형",
+    "context": "EN :\nMonthly Lunacy Batch\nJP :\n小型狂気(毎月)"
+  },
+  {
+    "key": "22-desc",
+    "original": "광기를 130만큼 획득할 수 있습니다.\n매일 접속 시, 무료 광기를 39만큼 30일 동안 획득할 수 있습니다.",
+    "context": "EN :\nGet 130 Lunacy instantly upon purchase.\nReceive an additional 39 Free Lunacy each day you log in for 30 days.\nJP :\n狂気を130獲得することが出来ます。\n毎日ログイン時、無償狂気を39ずつ30日間獲得することが出来ます。"
+  },
+  {
+    "key": "101-name",
+    "original": "월간 추출 패키지",
+    "context": "EN :\nMonthly Extraction Pack\nJP :\n抽出パッケージ(毎月)"
+  },
+  {
+    "key": "101-desc",
+    "original": "매월 초기화되는 상품으로 다음 구성품을 획득할 수 있습니다.\n\n· 광기 x 650\n· 추출 10회 티켓 x 1",
+    "context": "EN :\nA monthly offer that contains the following:\n\n· Lunacy x650\n· Decaextraction Ticket x1\nJP :\n以下のアイテムを獲得することが出来ます。(毎月初期化されます)\n\n・狂気 x 650\n・抽出10回チケット x 1"
+  },
+  {
+    "key": "102-name",
+    "original": "월간 성장 지원 패키지 I",
+    "context": "EN :\nMonthly Training Pack I\nJP :\n成長支援パッケージI(毎月)"
+  },
+  {
+    "key": "102-desc",
+    "original": "매월 초기화되는 상품으로 다음 구성품을 획득할 수 있습니다.\n\n· 광기 x 1690\n· 추출 10회 티켓 x 2\n· 인격 특수 강화 티켓 II x 1\n· 인격 특수 강화 티켓 I x 2\n· 인격 학습 티켓 III x 10\n· 인격 학습 티켓 II x 30",
+    "context": "EN :\nA monthly offer that contains the following:\n\n· Lunacy x1690\n· Decaextraction Ticket x2\n· Level Boost Ticket II x1\n· Level Boost Ticket I x2\n· Identity Training Ticket III x10\n· Identity Training Ticket II x30\nJP :\n以下のアイテムを獲得することが出来ます。(毎月初期化されます)\n\n・狂気 x 1690\n・抽出10回チケット x 2\n・人格特殊強化チケットII x 1\n・人格特殊強化チケットI x 2\n・人格学習チケットIII x 10\n・人格学習チケットII x 30"
+  },
+  {
+    "key": "103-name",
+    "original": "월간 성장 지원 패키지 II",
+    "context": "EN :\nMonthly Training Pack II\nJP :\n成長支援パッケージII(毎月)"
+  },
+  {
+    "key": "103-desc",
+    "original": "매월 초기화되는 상품으로 다음 구성품을 획득할 수 있습니다.\n\n· 광기 x 1690\n· 추출 10회 티켓 x 2\n· 끈 x 120",
+    "context": "EN :\nA monthly offer that contains the following:\n\n· Lunacy x1690\n· Decaextraction Ticket x2\n· Thread x120\nJP :\n以下のアイテムを獲得することが出来ます。(毎月初期化されます)\n\n・狂気 x 1690\n・抽出10回チケット x 2\n・紐 x 120"
+  },
+  {
+    "key": "111-name",
+    "original": "관리자 입사 지원 패키지",
+    "context": "EN :\nNew Manager’s Onboarding Pack\nJP :\n管理人入社支援パッケージ"
+  },
+  {
+    "key": "111-desc",
+    "original": "신입 관리자를 위한 상품으로 단 한 번만 구입할 수 있으며, 다음 구성품을 획득할 수 있습니다.\n\n· 3성 인격 출현 추출 티켓 x 1\n· 추출 10회 티켓 x 1",
+    "context": "EN :\nA one-time offer for newly recruited managers. The pack contains the following:\n\n· 3★ Guarantee Decaextraction Ticket x1\n· Decaextraction Ticket x1\nJP :\n新入管理人向けの商品。一度だけ購入することができ、以下のアイテムを獲得することが出来ます。\n\n・星3人格抽出チケット x 1\n・抽出10回チケット x 1"
+  },
+  {
+    "key": "121-name",
+    "original": "시즌 1 정착 지원품",
+    "context": "EN :\nSeason 1 Orienteer Supplies\nJP :\nシーズン1 定着支援品"
+  },
+  {
+    "key": "121-desc",
+    "original": "시즌 1 오리엔테이션 기간 동안 구입할 수 있으며, 다음 구성품을 획득할 수 있습니다.\n\n· 광기 x 5040\n· 추출 10회 티켓 x 3\n· 인격 특수 강화 티켓 III x 1\n· 인격 학습 티켓 II x 40\n· 끈 x 80\n· 시즌 1 자아 파편 선택 상자 x 40",
+    "context": "EN :\nOnly available for purchase during the orientation period of Season 1. The pack contains the following:\n\n· Lunacy x5040\n· Decaextraction Ticket x3\n· Level Boost Ticket III x1\n· Identity Training Ticket II x40\n· Thread x80\n· Season 1 Nominable Egoshard Crate x40\nJP :\nシーズン 1 オリエンテーション期間中に購入することができ、以下のアイテムを獲得することが出来ます。\n\n・狂気 x 5040\n・抽出10回チケット x 3\n・人格特殊強化チケットIII x 1\n・人格学習チケットII x 40\n・紐 x 80\n・シーズン1 自我の破片選択ボックス x 40"
+  },
+  {
+    "key": "131-name",
+    "original": "주간 추출 패키지",
+    "context": "EN :\nWeekly Extraction Pack\nJP :\n抽出パッケージ(毎週)"
+  },
+  {
+    "key": "131-desc",
+    "original": "매주 초기화되는 상품으로 다음 구성품을 획득할 수 있습니다.\n\n· 광기 x 273\n· 추출 티켓 x 5",
+    "context": "EN :\nA weekly offer that contains the following:\n\n· Lunacy x273\n· Extraction Ticket x5\nJP :\n以下のアイテムを獲得することが出来ます。(毎週初期化されます)\n\n・狂気 x 273\n・抽出チケット x 5"
+  },
+  {
+    "key": "133-name",
+    "original": "주간 끈 패키지",
+    "context": "EN :\nWeekly Thread Pack\nJP :\n紐パッケージ(毎週)"
+  },
+  {
+    "key": "133-desc",
+    "original": "매주 초기화되는 상품으로 다음 구성품을 획득할 수 있습니다.\n\n· 끈 x 75",
+    "context": "EN :\nA weekly offer that contains the following:\n\n· Thread x75\nJP :\n以下のアイテムを獲得することが出来ます。(毎週初期化されます)\n\n・紐 x 75"
+  },
+  {
+    "key": "134-name",
+    "original": "주간 엔케팔린 패키지",
+    "context": "EN :\nWeekly Enkephalin Pack\nJP :\nエンケファリンパッケージ(毎週)"
+  },
+  {
+    "key": "134-desc",
+    "original": "매주 초기화되는 상품으로 다음 구성품을 획득할 수 있습니다.\n\n· 엔케팔린 박스 x 20",
+    "context": "EN :\nA weekly offer that contains the following:\n\n· Enkephalin Box x20\nJP :\n以下のアイテムを獲得することが出来ます。(毎週初期化されます)\n\n・エンケファリンボックス x 20"
+  },
+  {
+    "key": "999-name",
+    "original": "림버스 패스",
+    "context": "EN :\nLimbus Pass\nJP :\nリンバスパス"
+  },
+  {
+    "key": "999-desc",
+    "original": "배틀 패스를 림버스 패스로 업그레이드할 수 있습니다.\n\n※ 새로운 시즌이 시작되면 기존 효과가 만료됩니다.",
+    "context": "EN :\nUpgrades the Battle Pass into the Limbus Pass.\n\n※ Only applies for the current season’s pass.\nJP :\nバトルパスをリンバスパスへとアップグレードすることが出来ます。\n\n※新シーズンが開始すると効果が終了します。"
+  }
+]

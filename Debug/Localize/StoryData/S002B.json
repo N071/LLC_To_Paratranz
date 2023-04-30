@@ -1,0 +1,1971 @@
+[
+  {
+    "key": "0-content",
+    "original": "어디선가 짐승의 울부짖는 소리가 들린다.",
+    "context": "EN :\nI hear the howl of a beast somewhere.\nJP :\nどこからか獣の吠える音が聞こえる。"
+  },
+  {
+    "key": "1-content",
+    "original": "끊임없이 울고 있다. 굶주림을 읊는 소리인가? 아니면…",
+    "context": "EN :\nIt cries ceaselessly. Is it wailing out of hunger? Or…\nJP :\n絶えず鳴いている。餓えを叫んでいるのだろうか？あるいは…。"
+  },
+  {
+    "key": "2-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "2-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "2-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "2-content",
+    "original": "움찔 움찔거려. 일어난 걸까?",
+    "context": "EN :\nThey’re being itchy-twitchy. Did they get up?\nJP :\nモゾモゾしてる。起きたのかな？"
+  },
+  {
+    "key": "3-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "3-content",
+    "original": "드디어 정신을 차렸군. 버티지 못하고 골로 갔으면 조금 실망할 뻔했어.",
+    "context": "EN :\nAwake at last. I would’ve been a tad bit disappointed if you croaked on us.\nJP :\n遂に気を取り戻したか。耐え切れずにそのまま逝ったら少し失望するところだったよ。"
+  },
+  {
+    "key": "4-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "4-content",
+    "original": "상쾌한 아침. 나는야 버스 기사. 카론.",
+    "context": "EN :\nFresh morning. This is Charon the Bus Driver.\nJP :\n爽やかな朝。わたしゃバスの運転手。カロン。"
+  },
+  {
+    "key": "5-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "5-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "5-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "5-content",
+    "original": "아침은 아니지만 상쾌하긴 하겠어. 기분이 어떻습니까? 단테.",
+    "context": "EN :\nIt’s not morning, but I could guess it’s refreshing. How do you feel, Dante?\nJP :\n朝じゃないけど爽やかだろうな。気分はいかがでしょうか？ダンテ。"
+  },
+  {
+    "key": "6-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "6-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "6-content",
+    "original": "<나는…>",
+    "context": "EN :\n<Well I…>\nJP :\n<私は…。>"
+  },
+  {
+    "key": "7-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "7-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "7-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "7-content",
+    "original": "째깍거리는군… 하아, 의사소통이 안 되는 건 제법 곤란한데.",
+    "context": "EN :\nTick-tocking like a clock… Sigh, some language barrier this is.\nJP :\nカチカチ言ってるな…はぁ、意思疎通ができないのはかなり困るんだが。"
+  },
+  {
+    "key": "8-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "8-content",
+    "original": "저는 베르길리우스라고 합니다… 이 말이 제대로 들린다면 무언가 이해했다는 행동이라도 취하시죠, 단테.",
+    "context": "EN :\nYou may call me Vergilius… If you can understand what I’m saying, give me some kind of reaction, Dante.\nJP :\n私はヴェルギリウスと申します…。\nこの言葉がちゃんと聞こえるのであれば、理解したという行動を何かしら取ってください、ダンテ。"
+  },
+  {
+    "key": "9-content",
+    "original": "고개를 끄덕였다. 적대적으론 보이지 않았기에.",
+    "context": "EN :\nI gave him a quick nod since he didn’t seem hostile.\nJP :\n頷いた。敵対的には見えなかったから。"
+  },
+  {
+    "key": "10-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "10-content",
+    "original": "좋아. 듣는 것엔 문제가 없군. 일단 출발하지, 카론.",
+    "context": "EN :\nGood. At least your hearing is functional. Let’s ride, Charon.\nJP :\nよし。聞くことにあたっては問題が無いな。一旦出発するか、カロン。"
+  },
+  {
+    "key": "11-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "11-content",
+    "original": "출발할게. 부릉부릉.",
+    "context": "EN :\nNow departing. Vroom-vroom.\nJP :\n出発するね、ぶるんぶるん。"
+  },
+  {
+    "key": "12-content",
+    "original": "깊은 수렁 속에서 끌어올린 듯한 둔중한 구동음과 진동.",
+    "context": "EN :\nThere was a heavy roar and vibrations, as though they echoed from the bottom of a deep mire.\nJP :\n深い泥沼の中から引き上げたような、鈍い駆動音と振動。"
+  },
+  {
+    "key": "13-content",
+    "original": "그제야 이곳이 버스 안이라는 걸 알았다.",
+    "context": "EN :\nIt was then that I realized I was aboard a bus.\nJP :\nそのとき初めてここがバスの中だということに気付いた。"
+  },
+  {
+    "key": "14-content",
+    "original": "버스… 라는 것을 내가 과거에 이용했던 적이 있었는지는 가물 하지만.",
+    "context": "EN :\nA bus… I can’t be sure if I’ve ever ridden such a vehicle in the past.\nJP :\nバス…というものを私が過去に利用したことがあったかはあやふやだが。"
+  },
+  {
+    "key": "15-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "15-content",
+    "original": "당신이 누구였는지는 기억합니까?",
+    "context": "EN :\nDo you remember who you were?\nJP :\nあなたが誰だったのかは思い出せますか？"
+  },
+  {
+    "key": "16-content",
+    "original": "나는 고개를 저었다. 내 머리통이 철컥거리는 무언가가 되어있다는 걸 다시금 알아차린 참이었으니.",
+    "context": "EN :\nI shook my head to say no. I had been reminded that my head was now a clinking mechanism.\nJP :\n私は首を横に振った。\n私の頭がカチカチと言う何かへと変わっていることに、たった今気付いた。"
+  },
+  {
+    "key": "17-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "17-content",
+    "original": "원래 기억을 되찾고 싶겠군. 그렇지 않나?",
+    "context": "EN :\nI suppose you want your memory back. Am I right?\nJP :\n元の記憶を取り戻したい。そうだろう？"
+  },
+  {
+    "key": "18-content",
+    "original": "끄덕였다. 바보가 된 기분이다.",
+    "context": "EN :\nI nodded. I sure feel like an idiot.\nJP :\n頷いた。馬鹿になった気分だ。"
+  },
+  {
+    "key": "19-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "19-content",
+    "original": "매끄럽군. 다들 이렇게 몸짓으로만 말하면 안 되는 건가?",
+    "context": "EN :\nSmooth as it gets. What’s to stop the rest of you from adopting this gesture-based communication?\nJP :\nスムーズだな。これから全員こんな風にジェスチャーだけで話すのはどうだ？"
+  },
+  {
+    "key": "20-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "20-content",
+    "original": "어떻게 생각하지? 파우스트 씨.",
+    "context": "EN :\nAny words of yours, Ms. Faust?\nJP :\nどう思う？ファウストさん。"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-content",
+    "original": "파우스트는 사양하고 싶어요.",
+    "context": "EN :\nFaust will kindly turn down the offer.\nJP :\nファウストは遠慮したいです。"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "저희가 매끄럽게 몸을 움직일 수 있는 상황이 그렇게 많지는 않을 것 같으니까요.",
+    "context": "EN :\nI doubt we’ll have that much freedom over our own bodies most of the time.\nJP :\n私たちがスムーズに身体を動かすことのできる状況が、それほど多くはなさそうですから。"
+  },
+  {
+    "key": "23-content",
+    "original": "아까 내게 말을 걸었던 자다.",
+    "context": "EN :\nShe’s the one who spoke to me back in the forest.\nJP :\nさっき私に話し掛けてきた人だ。"
+  },
+  {
+    "key": "24-content",
+    "original": "햇빛을 받지 않았음에도 머리칼이 은빛으로 반짝이는 것이, 사뭇 신비로운 느낌을 준다.",
+    "context": "EN :\nHer silver hair that glistens even without sunlight gives off a rather mysterious air.\nJP :\n日の光を浴びずとも髪の毛が銀色に光っているのが、\n中々神秘的な印象を与えてくる。"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-content",
+    "original": "단테.",
+    "context": "EN :\nDante.\nJP :\nダンテ。"
+  },
+  {
+    "key": "26-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "26-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "26-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "26-content",
+    "original": "<단테?>",
+    "context": "EN :\n<Dante?>\nJP :\n<ダンテ？>"
+  },
+  {
+    "key": "27-content",
+    "original": "그러고 보니, 저 빨간 눈을 한 자도 계속 나를 단테라고 불렀지.",
+    "context": "EN :\nCome to think of it, the red-eyed man has been calling me that, too.\nJP :\nそういえば、あの目が赤い人もずっと私をダンテと呼んでたな。"
+  },
+  {
+    "key": "28-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "28-content",
+    "original": "단테는 당신의 이름이에요. 이름까지 잊으셨군요.",
+    "context": "EN :\nDante is your name. The amnesia must be affecting you rather severely.\nJP :\nダンテはあなたの名前です。名前までお忘れになったのですね。"
+  },
+  {
+    "key": "29-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "29-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "29-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "29-content",
+    "original": "<아무래도 그런 것 같아… 그다지 익숙한 단어도 아니야.>",
+    "context": "EN :\n<Sure looks like it… That doesn’t sound like a familiar word.>\nJP :\n<どうやらそうみたいだ…。そこまで聞き慣れた単語でもないかな。>"
+  },
+  {
+    "key": "30-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "30-content",
+    "original": "점차 익숙해질 거랍니다.",
+    "context": "EN :\nYou’ll get used to it in time.\nJP :\n段々と慣れていくはずです。"
+  },
+  {
+    "key": "31-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "31-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "31-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "31-content",
+    "original": "<잠깐… 당신은 내 말을 들을 수 있나?>",
+    "context": "EN :\n<Wait… You can understand me?>\nJP :\n<待てよ…君は私の言ってることが分かるのか？>"
+  },
+  {
+    "key": "32-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "32-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "32-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "32-content",
+    "original": "<아까 나를 공격했던 놈이나, 저 베르길… 이라는 작자나 전부 시계 소리밖에 못 듣는다는 어투였는데.>",
+    "context": "EN :\n<The group that attacked me earlier—and that Vergie or whatever he was called—seemed to hear nothing but ticking from me.>\nJP :\n<さっき私を攻撃してたやつも、あのヴェルギ…って野郎もみんな時計の音しか聞こえないって口ぶりだったけど。>"
+  },
+  {
+    "key": "33-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "33-content",
+    "original": "파우스트에게는 제대로 된 단어로 들린답니다.",
+    "context": "EN :\nFaust can hear what you intend to speak.\nJP :\nファウストにはまともな単語に聞こえるのですよ。"
+  },
+  {
+    "key": "34-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "34-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "34-content",
+    "original": "<정말이잖아…? 어떻게 된 일이지? 내겐 제대로 된 입도 없는데.>",
+    "context": "EN :\n<You really can…? But how? I don’t even have a real mouth.>\nJP :\n<本当だ…どうしてだ？私にはまともな口もないのに。>"
+  },
+  {
+    "key": "35-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "35-content",
+    "original": "그런 구시대적인 발상은 머리를 바꾸어서 생긴 건가요.",
+    "context": "EN :\nOutdated ideas must be one of the side effects that came with your head replacement.\nJP :\nそういう旧時代的な発想は、頭を変えたから生まれたのですか。"
+  },
+  {
+    "key": "36-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "36-content",
+    "original": "성대나 혀 따위의 발성기관이 있어야만 대화를 할 수 있다는 건,\n시대착오적인 이야기죠.",
+    "context": "EN :\nIt’s anachronistic to think that vocal organs such as the cords or tongue are necessary to participate in conversation.\nJP :\n声帯や舌などの発声器官があってこそ会話ができるというのは、\n時代錯誤的な話です。"
+  },
+  {
+    "key": "37-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "37-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "37-content",
+    "original": "<시대… 그렇군. 전혀 생각하지 못했는데.>",
+    "context": "EN :\n<Anachronistic… Right. Never considered that.>\nJP :\n<時代…そうか、全く思いつかなかったよ。>"
+  },
+  {
+    "key": "38-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "38-content",
+    "original": "…당신의 말은 한 사람에게만 보낼 수도 있고, 모두에게 전달할 수도 있답니다.",
+    "context": "EN :\n…You can limit the recipient of your words to one person, or choose to speak to everyone at once.\nJP :\n…あなたは、発した言葉を一人にだけ伝えることも、\n全員へと伝えることもできます。"
+  },
+  {
+    "key": "39-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "39-content",
+    "original": "아, 모두라는 말은 수정해야겠군요. 수감자들에게만 해당하는 이야기예요.",
+    "context": "EN :\nAh, a little clarification: When I say “everyone”, I’m only referring to the Sinners.\nJP :\nあぁ、全員という言葉は修正するべきですね。囚人たちだけに該当する話です。"
+  },
+  {
+    "key": "40-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "40-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "40-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "40-content",
+    "original": "<수감자?>",
+    "context": "EN :\n<Sinners?>\nJP :\n<囚人？>"
+  },
+  {
+    "key": "41-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "41-content",
+    "original": "당신의 뒤에 앉아 있는…",
+    "context": "EN :\nThe people who have taken seats behind you…\nJP :\nあなたの後ろで座っている…。"
+  },
+  {
+    "key": "42-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "42-content",
+    "original": "방금까지 당신을 대신해서 싸운 사람들을 말하는 겁니다.",
+    "context": "EN :\nAnd the ones who fought in your stead until moments ago.\nJP :\n先程まであなたの代わりに戦った人たちのことです。"
+  },
+  {
+    "key": "43-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "43-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "43-content",
+    "original": "오오오!!! 그대가 이 여정을 함께할 마지막 조각인가! 얼마나 기다렸는지 모르네!",
+    "context": "EN :\nWhat hooo!!! So thou art the final piece that completes our journey’s cast! How I have yearned for this moment!\nJP :\nおおぉ！！！そなたがこの旅路を共にする最後のピースであるか！\nどれだけ待ちわびたことか！"
+  },
+  {
+    "key": "44-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "44-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "44-content",
+    "original": "형씨, 머리통은 어디다가 팔아넘겼어?",
+    "context": "EN :\nSay, pal, where’d you sell your old cranium off?\nJP :\nあんさん、アタマはどっかで売っ払ったのか？"
+  },
+  {
+    "key": "45-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "45-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "45-content",
+    "original": "당신이었군요, 당신 덕에 박살 나 있던 척추가 말끔하게 돌아왔어요. 혹시 둥지에서 의사 일이라도 했나요?",
+    "context": "EN :\nSo it was you. Thanks for putting my spine back into one piece. Were you a surgeon or something in the Nest?\nJP :\nあなただったんですね、あなたのおかげで粉砕していた脊髄が綺麗に戻りました。\nもしかして巣で医者でもやってたんですか？"
+  },
+  {
+    "key": "46-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "46-content",
+    "original": "다들 닥쳐라. 잡음이 겹치는 것만큼 불쾌한 것도 없으니.",
+    "context": "EN :\nEveryone, quiet. Nothing is more displeasing than to hear a choir of noises.\nJP :\n全員黙れ。雑音が重なることほど不快なものはない。"
+  },
+  {
+    "key": "47-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "47-content",
+    "original": "자기소개가 필요한 시점인가 보군.",
+    "context": "EN :\nI suppose you all owe them a brief introduction.\nJP :\n自己紹介が必要な段階のようだな。"
+  },
+  {
+    "key": "48-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "48-content",
+    "original": "그럼 가벼운 인사를 나눌 시간을 주겠다. 앞에 앉은 것부터. 시작.",
+    "context": "EN :\nI’ll give you time to make yourselves known, starting with the closest one. Go on.\nJP :\nそれじゃあ軽い挨拶を交わす時間を与える。前に座ってるのから。始め。"
+  },
+  {
+    "key": "49-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "49-content",
+    "original": "왜 이런 건 항상 앞자리부터인지… 앞에 나서는 건 이제 진절머리가 나는데.",
+    "context": "EN :\nWhy is it always the ones in front that go first… I’m sick of taking any sort of lead now.\nJP :\nどうしてこういうのはいつも前の席からなんだ…前に立つのはもううんざりなんだけど。"
+  },
+  {
+    "key": "50-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "50-content",
+    "original": "당신이 우리를 이끌… 뭐더라, 관리자라고 하던데.",
+    "context": "EN :\nI heard you were gonna be our boss, or… yeah, our manager.\nJP :\nあんたが俺たちを引っ張っていく…何だっけ、管理人って言ってたけど。"
+  },
+  {
+    "key": "51-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "51-content",
+    "original": "<관리자?>",
+    "context": "EN :\n<Manager?>\nJP :\n<管理人？>"
+  },
+  {
+    "key": "52-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "52-content",
+    "original": "그래, 그래서 어떤 인물인지 굉장히 궁금했는데 말이야…",
+    "context": "EN :\nYep, which is why I was real curious to meet you, and…\nJP :\nああ、それでどんな人か凄く気になってたんだけどな…。"
+  },
+  {
+    "key": "53-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "53-content",
+    "original": "어… 음, 쯧. 역시 뭔가 말을 만드는 건 어려워.",
+    "context": "EN :\nUhrm… Hmm, tsk. Forming the right sentences is tough work.\nJP :\nあ…うん、えっと。やっぱりなんか言葉にするのは難しいな。"
+  },
+  {
+    "key": "54-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "54-content",
+    "original": "머리통은 어디 팔아먹었는지 모르겠지만, 저마다 사정은 있는 법이니까.",
+    "context": "EN :\nDunno what you did with your old head, but I guess everyone has their story.\nJP :\nアタマをどこに売っ払ったのかは知らないけど、それぞれ事情があるもんだしな。"
+  },
+  {
+    "key": "55-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "55-content",
+    "original": "나는 그레고르라고 한다. 잘 부탁한다고, 관리자 양반.",
+    "context": "EN :\nI’m Gregor. We’re in this together, Manager Bud.\nJP :\n俺はグレゴールっていうんだ。よろしくな、管理人の旦那。"
+  },
+  {
+    "key": "57-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "57-content",
+    "original": "그렉! 양반이 뭐야, 양반이~ 이제부터 우리한테 엄청난 돈을 가져다줄 사람한테!",
+    "context": "EN :\nGreg! They aren’t just your “bud” or “pal”~ You’re talking to the person who’ll make us filthy rich!\nJP :\nグレッグ！旦那って何なの、旦那ってぇ～。この先、私たちに物凄いお金をもたらす人に！"
+  },
+  {
+    "key": "58-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "58-content",
+    "original": "그렉…?",
+    "context": "EN :\nGreg…?\nJP :\nグレッグ…？"
+  },
+  {
+    "key": "59-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "59-content",
+    "original": "<돈? 이건 또 무슨 소리지?>",
+    "context": "EN :\n<Rich? What’s that about?>\nJP :\n<お金？急に何の話？>"
+  },
+  {
+    "key": "60-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "60-content",
+    "original": "양반보다는… 단테! 이름으로 부를게. 당신도 나를 로쟈라고 불러~",
+    "context": "EN :\nLet’s see, what’s better… Dante! Don’t mind me if I call you by name. You can call me Rodya~\nJP :\n旦那じゃなくて…ダンテ！名前で呼ぶね。あなたも私をロージャって呼んで～。"
+  },
+  {
+    "key": "62-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "62-content",
+    "original": "난 당신이 우리의… 음, 관리자가 된 데에 이유가 있다고 믿어.",
+    "context": "EN :\nI think there’s a… well, good reason you became our manager.\nJP :\n私はあなたが私たちの…うーん、\n管理人になったことには理由があるって信じてる。"
+  },
+  {
+    "key": "63-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "63-content",
+    "original": "분명, 원래는 둥지의 굉장한 사람이었겠지? 그때 버릇을 조금만 내비쳐도 우리한테 돈이 주르륵 들어올 생각을 하니… 후후….",
+    "context": "EN :\nI’m sure. You used to be a big deal back in the Nest, right? When your old habits start coming back, we’ll be that much closer to rolling in the dough… Fuhu…\nJP :\nきっと、元々は巣の凄い人だったんでしょ？そのときのワザを少しくすねるだけでも、私たちにお金がジャラジャラと入ってくるって思うと…ふふ…。"
+  },
+  {
+    "key": "64-content",
+    "original": "…붙임성 하나는 대단한 것 같다.",
+    "context": "EN :\n…She does have sociability, I’ll give her that.\nJP :\n…人懐っこさだけは凄いな。"
+  },
+  {
+    "key": "65-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "65-content",
+    "original": "아차, 내 정신 좀 봐. 얘! 다음은 네 차례야!",
+    "context": "EN :\nOh gosh, look at me keeping on. Hey, kid! It’s your turn next!\nJP :\nあちゃぁ、私ってば。ね！次はあなたの番よ！"
+  },
+  {
+    "key": "66-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "66-content",
+    "original": "안녕하세요…",
+    "context": "EN :\nGood day…\nJP :\nこんにちは…。"
+  },
+  {
+    "key": "67-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "67-content",
+    "original": "시시해~ 그게 끝이야?",
+    "context": "EN :\nAw, boring~ That’s it?\nJP :\nつまんない～それで終わりなの？"
+  },
+  {
+    "key": "68-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "68-content",
+    "original": "아! 싱클레어라고 해요…",
+    "context": "EN :\nOh! I am Sinclair…\nJP :\nあ！シンクレアっていいます…。"
+  },
+  {
+    "key": "70-content",
+    "original": "불안정해 보이는 이 소년은 자신의 발로 이곳에 들어온 건 맞기나 한 걸까?",
+    "context": "EN :\nThis boy looks awfully unnerved; did he even join this company of his own accord?\nJP :\n不安定そうに見えるこの少年は、\n自分の足でちゃんとここに入ってきたのだろうか？"
+  },
+  {
+    "key": "71-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "71-content",
+    "original": "…더, 더 해야 할 말이 있나요? 회사는 처음이라…",
+    "context": "EN :\n…I—Is there anything else I need to say? I’ve never worked for a company before…\nJP :\n…も、もっと言うべきこととか、あるんですか？会社勤めは初めてなので…。"
+  },
+  {
+    "key": "72-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "72-content",
+    "original": "뭐, 앞으로 남은 날은 많을 테니까.",
+    "context": "EN :\nWell, you’ll learn the ropes in the coming days.\nJP :\nま、これから先は長いんだし。"
+  },
+  {
+    "key": "73-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "73-content",
+    "original": "그럼 거기 괴짜 친구가 다음 타자하자!",
+    "context": "EN :\n‘Kay then, how about you next, nerdy pal!\nJP :\nじゃあそこの不思議くんにバトンタッチしよっか！"
+  },
+  {
+    "key": "74-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "74-content",
+    "original": "이상이라 하오.",
+    "context": "EN :\nI am Yi Sang.\nJP :\nイサンという。"
+  },
+  {
+    "key": "76-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "76-content",
+    "original": "<…끝이야?>",
+    "context": "EN :\n<…That’s it?>\nJP :\n<…それで終わり？>"
+  },
+  {
+    "key": "77-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "77-content",
+    "original": "음. 이상이오.",
+    "context": "EN :\nMhm. No smoke or mirrors.\nJP :\nうむ。以上なり。"
+  },
+  {
+    "key": "78-content",
+    "original": "장난을 칠 셈으로 그런 걸까 유심히 그를 쳐다봤지만…",
+    "context": "EN :\nI waited for him to reveal that he was pulling a prank or something…\nJP :\n冗談のつもりでそう言ったのかと思い、注意深く彼を見つめたが…。"
+  },
+  {
+    "key": "79-content",
+    "original": "그는 그러한 것에 관심이 없는 듯 텅 빈 눈으로 차창만 쳐다보고 있을 뿐이었다.",
+    "context": "EN :\nBut he just stared vacantly into the window, disinterested.\nJP :\n彼はそんなことに興味がないかのような虚ろな目で、\n天井を見つめているばかりであった。"
+  },
+  {
+    "key": "80-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "80-content",
+    "original": "하아… 답답하네요. 사회생활의 첫걸음은 인사잖아요?",
+    "context": "EN :\nHaaa… I can’t believe you people. Aren’t proper introductions the first step to being a member of society?\nJP :\nはぁ…もどかしいですね。社会生活の一歩は挨拶からじゃないですか？"
+  },
+  {
+    "key": "81-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "81-content",
+    "original": "저를, 이스마엘이라고 불러주세요.",
+    "context": "EN :\nCall me Ishmael, if you please.\nJP :\n私を、イシュメールと呼んでください。"
+  },
+  {
+    "key": "83-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "83-content",
+    "original": "당신 덕택에 동강 난 몸이 돌아왔다고 들었어요. 앞으로도 잘 부탁해요.",
+    "context": "EN :\nI heard you glued our bodies back together from pieces. I look forward to working with you.\nJP :\nおかげさまでバラバラになった身体が元に戻ったと聞きました。\nこれからもよろしくお願いします。"
+  },
+  {
+    "key": "84-content",
+    "original": "그녀는 깍듯하게 고개를 꾸벅이고 자리에 돌아가 앉았다.",
+    "context": "EN :\nShe gave a polite bow before returning to her seat.\nJP :\n彼女は丁寧に頭を下げ、席に戻って座った。"
+  },
+  {
+    "key": "85-content",
+    "original": "사회생활이라는 말을 한 것치고는 그다지 붙임성이 느껴지지는 않았다.",
+    "context": "EN :\nAlthough she emphasized sociality, she didn’t feel like the most amicable sort.\nJP :\n社会生活と言ってた割には、そこまで愛想が感じられなかった。"
+  },
+  {
+    "key": "86-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "86-content",
+    "original": "미안하게 됐네, 나는 사회생활하고는 거리가 좀 멀어서.",
+    "context": "EN :\nSorry to disappoint, ‘cause I don’t care too much for fitting in.\nJP :\n申しわけねぇな、オレは社会生活ってもんにはあんま馴染みがなくて。"
+  },
+  {
+    "key": "87-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "87-content",
+    "original": "히스클리프. 뭐 때려 부수고 깨부수는 일은 전문으로 하고 다녔지.",
+    "context": "EN :\nName’s Heathcliff. Used to be a professional wrecker—for property and people alike.\nJP :\nヒースクリフ。まあ、ブン殴ってブッ壊すのが専門分野だ。"
+  },
+  {
+    "key": "89-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "89-content",
+    "original": "누가 시켜서가 아니라, 거슬리는 것들에게 하고 다니긴 했지만.",
+    "context": "EN :\nNot under anyone’s orders, mind you. I only did it to buggers that got on my nerves.\nJP :\n誰かに頼まれてとかじゃなくて、気に食わねぇやつらにやってただけなんだが。"
+  },
+  {
+    "key": "90-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "90-content",
+    "original": "당신도 조심하라고.",
+    "context": "EN :\nSo you’d better watch it.\nJP :\nあんたも気を付けろよ。"
+  },
+  {
+    "key": "91-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "91-content",
+    "original": "나는 윗사람이라고 거들먹거리는 사람한테 알레르기가 있거든.",
+    "context": "EN :\nI’m deathly allergic to cocky gaffers who think they can boss me around.\nJP :\nオレは上の人だからって威張るヤツらにアレルギーがあるんだ。"
+  },
+  {
+    "key": "92-content",
+    "original": "아직 내가 뭘 잘못한 것 같지도 않은데.",
+    "context": "EN :\nI don’t think I’ve done anything to give that impression yet.\nJP :\nまだ何かしらミスをしたわけでもないのにな。"
+  },
+  {
+    "key": "93-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "93-content",
+    "original": "드디어 이 몸의 차례인가! 난 돈키호테일세!",
+    "context": "EN :\n‘Tis my turn to speak! I am Don Quixote!\nJP :\n遂に私の番が来たか！私の名はドンキホーテにて候！"
+  },
+  {
+    "key": "95-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "95-content",
+    "original": "그대와 함께 꿈을 향해 달려갈 해결사지. 잘 부탁하네.",
+    "context": "EN :\nI am a Fixer who shall sprint for the dream side by side. A pleasure to have thee.\nJP :\nそなたと共に夢へ向かって走るフィクサーだ。よろしく頼む。"
+  },
+  {
+    "key": "96-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "96-content",
+    "original": "<해결사…? 분명히 알고 있었던 단어 같은데…>",
+    "context": "EN :\n<A Fixer…? That definitely feels like a term I used to know…>\nJP :\n<フィクサー…？知ってたはずなんけど…。>"
+  },
+  {
+    "key": "97-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "97-content",
+    "original": "해결사 말인가? 내가 대답해 줄 수 있네! 도시를 수호하는 자들이지!",
+    "context": "EN :\nDost thou wish to know what it is? I can answer thy question! Fixers are protectors of the City!\nJP :\nフィクサーについてか？私が答えてしんぜよう！都市を守護する者たちさ！"
+  },
+  {
+    "key": "98-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "98-content",
+    "original": "아! 도시에 대해서도 제대로 기억하지 못하겠군! 도시는…",
+    "context": "EN :\nAh! Perchance thou mayst struggle to remember the City! ‘Tis—\nJP :\nあ！この都市のこともちゃんと思い出せてないだろう！都市は…。"
+  },
+  {
+    "key": "99-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "99-content",
+    "original": "나는 가벼운 인사를 나누라고 했던 것 같은데.",
+    "context": "EN :\nI believe I said this was for brief introductions.\nJP :\n俺は軽い挨拶で済ませろって言ったと思うんだが。"
+  },
+  {
+    "key": "100-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "100-content",
+    "original": "윽…",
+    "context": "EN :\nNgh…\nJP :\nうぅっ…。"
+  },
+  {
+    "key": "101-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "101-content",
+    "original": "두 번 말하게 하지 않았으면 좋겠어. 다음.",
+    "context": "EN :\nDon’t make me say it twice. Next.\nJP :\n二度も同じことを言わせるな。次。"
+  },
+  {
+    "key": "102-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "102-content",
+    "original": "홍루라고 한답니다. 잘해보자고요, 우리.",
+    "context": "EN :\nMy name’s Hong Lu. I hope we can get along well.\nJP :\nホンルといいます。上手くやっていきましょう、僕たち。"
+  },
+  {
+    "key": "104-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "104-content",
+    "original": "우와~ 당신, 그 머리 근사한데요? 요새 유행하는 모델인가 보죠?",
+    "context": "EN :\nWow, and look at you! Isn’t that a fascinating head there? A popular model these days, I suppose?\nJP :\nうわぁ～あなた、その頭凄いですね。最近流行りのモデルみたいですね？"
+  },
+  {
+    "key": "105-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "105-content",
+    "original": "<이건 그런 게…>",
+    "context": "EN :\n<No, this isn’t that kind of…>\nJP :\n<これはそんなんじゃな…。>"
+  },
+  {
+    "key": "106-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "106-content",
+    "original": "제 취향은 아니지만.",
+    "context": "EN :\nIt’s not of my interest, though.\nJP :\n僕の好みじゃないけど。"
+  },
+  {
+    "key": "107-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "107-content",
+    "original": "…저건 무슨 말 싸가지야?",
+    "context": "EN :\n…The hell’s wrong with your attitude?\nJP :\n…なんだぁ、あの口の利き方はよぉ？"
+  },
+  {
+    "key": "108-content",
+    "original": "히스클리프라는 자는 당장에라도 손에 쥔 방망이를 휘두를 기세였지만…",
+    "context": "EN :\nHeathcliff looked to be just moments away from swinging his bat…\nJP :\nヒースクリフという人は、今すぐにでも手持ちのバットで\n殴りかからんばかりの勢いだったが…。"
+  },
+  {
+    "key": "109-content",
+    "original": "붉은 눈빛이 그를 쫓는다는 걸 깨닫고, 앓는 한숨을 쉬더니 자리에 앉았다.",
+    "context": "EN :\nBut when he realized the red gaze laid on him, he grunted and sat back down.\nJP :\n赤い視線が彼を追っていることに気づき、浅く一息を吐いてその場に座った。"
+  },
+  {
+    "key": "110-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "110-content",
+    "original": "료슈.",
+    "context": "EN :\nIt’s Ryōshū.\nJP :\n良秀。"
+  },
+  {
+    "key": "112-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "112-content",
+    "original": "요료슈쿠.",
+    "context": "EN :\nShūre’s nice to meet ya.\nJP :\nよりょしゅく。"
+  },
+  {
+    "key": "113-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "113-content",
+    "original": "…푸훗.",
+    "context": "EN :\n…Pfht.\nJP :\n…ぷっ。"
+  },
+  {
+    "key": "114-content",
+    "original": "어느 시점에서 웃어야 했던 걸까?",
+    "context": "EN :\nAt what point was I supposed to laugh?\nJP :\nどこで笑えばよかったんだろう？"
+  },
+  {
+    "key": "115-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "115-content",
+    "original": "뫼르소, 그렇게 불러 주시겠습니까.",
+    "context": "EN :\nMeursault. Please refer to me as such.\nJP :\nムルソー、そう呼んでくださいますか。"
+  },
+  {
+    "key": "117-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "117-content",
+    "original": "<당신은 깍듯하네.>",
+    "context": "EN :\n<You’re pretty polite.>\nJP :\n<あなたは礼儀正しいね。>"
+  },
+  {
+    "key": "118-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "118-content",
+    "original": "특별한 것이 아닙니다. 그저 보통의 태도입니다.",
+    "context": "EN :\nThis isn’t anything special. I’m simply behaving normally.\nJP :\n特別なことではありません。ただ普通の態度です。"
+  },
+  {
+    "key": "119-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "119-content",
+    "original": "<살짝 감격스러울 정도네. 고마워.>",
+    "context": "EN :\n<I’m almost touched. Merci.>\nJP :\n<ほんの少し感激しちゃったかも。ありがとう。>"
+  },
+  {
+    "key": "120-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "120-content",
+    "original": "네.",
+    "context": "EN :\nYes.\nJP :\nはい。"
+  },
+  {
+    "key": "121-content",
+    "original": "뭔가 중요한 나사가 한두 가지 빠진 것만 같았지만, 정확하게 무엇이 문제인지 판단이 되지 않는 자다.",
+    "context": "EN :\nIt felt as if something were gravely amiss with him, but I can’t seem to pin it down exactly.\nJP :\n何か大事なネジがひとつふたつ抜けてるような感じしかしなかったけど、\n正確に何が問題なのかは判断がつかなかった。"
+  },
+  {
+    "key": "122-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "122-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "123-content",
+    "original": "위아래로 찬찬히 훑어보는 모습에 순간적으로 주눅이 들 뻔했다.",
+    "context": "EN :\nThe way she scanned me up and down was a little daunting.\nJP :\n上へ下へと舐め回すような視線に、一瞬気後れしてしまうところだった。"
+  },
+  {
+    "key": "124-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "124-content",
+    "original": "저는…",
+    "context": "EN :\nI…\nJP :\n私は…。"
+  },
+  {
+    "key": "125-content",
+    "original": "다가온 그녀에게 나도 모르게 허리를 굽힐 뻔했지만, 그녀는 제지하듯 손을 뻗었다.",
+    "context": "EN :\nI felt almost compelled to bow to her, but she stopped me with a motion of her hand.\nJP :\n近づいてきた彼女に対して我知らず腰を曲げるところだったが、\n彼女は静止するように手を伸ばした。"
+  },
+  {
+    "key": "126-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "126-content",
+    "original": "관리자님이 먼저 자세를 굽히려 하다니 당치도 않습니다.",
+    "context": "EN :\nPlease, I would never make my manager grovel before me.\nJP :\n管理人様が先に腰を曲げようとするなど、とんでもないことでございます。"
+  },
+  {
+    "key": "127-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "127-content",
+    "original": "본인은 오티스라고 합니다. 이전에 실례했던 부분을 사과드리고 싶습니다.",
+    "context": "EN :\nMy name is Outis. I would like to apologize for my rudeness earlier.\nJP :\n当職はウーティスと申します。以前のご無礼についてお詫び申し上げたく存じます。"
+  },
+  {
+    "key": "129-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "129-content",
+    "original": "<실례… 라니?>",
+    "context": "EN :\n<Rudeness…?>\nJP :\n<失礼…とは？>"
+  },
+  {
+    "key": "130-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "130-content",
+    "original": "하하, 이것 참. 마음마저 이렇게 넓으실 줄이야.",
+    "context": "EN :\nHaha, oh, please. Your generosity is a humbling sight.\nJP :\nはは、これまた。心までこんなに広いとは。"
+  },
+  {
+    "key": "131-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "131-content",
+    "original": "역시, 처음부터 저희를 이끄실 분이라는 걸 한눈에 알아봤습니다.",
+    "context": "EN :\nI knew at first glance that you have what it takes to lead us.\nJP :\nやはりです。我々を導く方だと一目見ただけで理解しました。"
+  },
+  {
+    "key": "132-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "132-content",
+    "original": "<…으응? 응?>",
+    "context": "EN :\n<…Huh? Sorry?>\nJP :\n<…んん？うん？>"
+  },
+  {
+    "key": "133-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "133-content",
+    "original": "인간의 대부분은 서로가 맞붙어 소음과 마찰을 이끌어내지만…",
+    "context": "EN :\nWhile most humans cause noise and friction as a result of confrontation…\nJP :\n人間の大多数は互いにぶつかり合い、騒音と摩擦を引き起こすが…。"
+  },
+  {
+    "key": "134-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "134-content",
+    "original": "그중 소수는 맞붙는 것으로 서로에게 이득이 되는 경우가 있다고 합니다.",
+    "context": "EN :\nSome are able to reap mutual benefit from coming head-to-head.\nJP :\nそのうち少数は、ぶつかることでお互い得になる場合があるそうです。"
+  },
+  {
+    "key": "135-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "135-content",
+    "original": "검을 날카롭게 벼리기 위해선 그만큼 강한 숫돌이 필요한 것처럼.",
+    "context": "EN :\nIt could be compared to the relationship between a blade and a whetstone.\nJP :\n剣を鋭く鍛えるためには、その分強い炭が必要なように。"
+  },
+  {
+    "key": "136-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "136-content",
+    "original": "누구보다 관리자님을 위해 헌신하겠습니다. 편히 써주시기를.",
+    "context": "EN :\nI vow to serve you with unrivaled devotion, Executive Manager. My blade is yours to wield.\nJP :\n誰よりも管理人様のために献身いたします。気軽にお使いくださいませ。"
+  },
+  {
+    "key": "137-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "137-content",
+    "original": "<드, 듬직하네… 고마워.>",
+    "context": "EN :\n<Th-That’s reassuring… Thanks.>\nJP :\n<た、たのもしいね…ありがとう。>"
+  },
+  {
+    "key": "138-content",
+    "original": "여전히 뭘 실례했다는지 모르겠지만, 우선은 고개를 끄덕였다.",
+    "context": "EN :\nI gave her an approving nod, even though I still don’t get what she meant by her “rudeness”.\nJP :\n未だに何が失礼だったのかは分からなかったけど、とりあえずは首を縦に振った。"
+  },
+  {
+    "key": "139-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "139-content",
+    "original": "아까 숲에서는 불쌍하게 나뒹군다고 말하더니, 잘도 그런 말을 성대 밖으로 꺼낼 수 있네요.",
+    "context": "EN :\nI’m amazed at how you can sing such bold-faced high praise not too long after calling them a “miserably writhing wretch”.\nJP :\nさっき森では哀れに転がっているなんて言ってた癖に、よくもそんな言葉が易々と口から出ますね。"
+  },
+  {
+    "key": "140-content",
+    "original": "…알 것도 같다.",
+    "context": "EN :\n…I think I see now.\nJP :\n…なるほど。"
+  },
+  {
+    "key": "141-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "141-content",
+    "original": "제가 마지막이네요. 파우스트입니다.",
+    "context": "EN :\nIt seems I am the last. Faust is the name.\nJP :\n私が最後ですね。ファウストです。"
+  },
+  {
+    "key": "143-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "143-content",
+    "original": "당신의 인생 중 한 번 만날까 말까 한 천재죠.",
+    "context": "EN :\nA genius with whom you’re lucky to cross paths even once in your life.\nJP :\nあなたが人生で一度出会うか出会わないかぐらいの天才です。"
+  },
+  {
+    "key": "144-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "144-content",
+    "original": "<으음…>",
+    "context": "EN :\n<Mmh…>\nJP :\n<うぅん…。>"
+  },
+  {
+    "key": "145-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "145-content",
+    "original": "납득하지 못한 듯한 반응이군요, 단테.",
+    "context": "EN :\nSounds like you aren’t convinced, Dante.\nJP :\n納得できてないような反応ですね、ダンテ。"
+  },
+  {
+    "key": "146-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "146-content",
+    "original": "괜찮습니다. 경험을 통해 차차 이해할 수 있을 거예요.",
+    "context": "EN :\nWell, it’s fine. You’ll come to learn, all in due time.\nJP :\n大丈夫です。経験を通じて徐々に理解できるようになっていきます。"
+  },
+  {
+    "key": "147-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "147-content",
+    "original": "<무얼…?>",
+    "context": "EN :\n<Learn what…?>\nJP :\n<何を…？>"
+  },
+  {
+    "key": "148-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "148-content",
+    "original": "파우스트가 진귀한 천재였다는 사실을 말이에요.",
+    "context": "EN :\nThat Faust is indeed a brilliant mind.\nJP :\nファウストが稀代の天才であったという事実をです。"
+  },
+  {
+    "key": "149-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "149-content",
+    "original": "관측자가 깨닫지 못한다 하여, 사실이 진실이 되는 일은 없으니까요.",
+    "context": "EN :\nWhen a proverbial tree falls, the fact of its sound cannot become truth when the outside observer fails to recognize it.\nJP :\n観測者が悟らないからといって、事実が真実になることはありませんしね。"
+  },
+  {
+    "key": "150-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "150-content",
+    "original": "<그래…>",
+    "context": "EN :\n<Okay…>\nJP :\n<そうだな…。>"
+  },
+  {
+    "key": "151-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "151-content",
+    "original": "소개는 여기까지.",
+    "context": "EN :\nThat’s enough greetings.\nJP :\n紹介はここまで。"
+  },
+  {
+    "key": "152-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "152-content",
+    "original": "단테, 당신의 직무를 알려 드리죠.",
+    "context": "EN :\nDante, let me explain your new occupation.\nJP :\nダンテ、あなたの職務を教えて差し上げましょう。"
+  },
+  {
+    "key": "153-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "153-content",
+    "original": "<직무… 관리자를 말하는 거야?>",
+    "context": "EN :\n<You mean… as the manager?>\nJP :\n<職務…管理人のことか？>"
+  },
+  {
+    "key": "154-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "154-content",
+    "original": "관리자를 말하는 거냐고 묻고 있어요.",
+    "context": "EN :\nThey’re asking if the job you’re about to explain is that of a manager.\nJP :\n管理人のことかと聞いています。"
+  },
+  {
+    "key": "155-content",
+    "original": "그러고 보니, 수감자들과는 다르게 저 붉은 눈빛을 한 사람은 내 목소리를 못 들었었지.",
+    "context": "EN :\nCome to think of it, that red-eyed man couldn’t hear me, unlike the Sinners.\nJP :\nそういえば、囚人たちと違ってあの赤い目の人は私の声が聞き取れなかったっけ。"
+  },
+  {
+    "key": "156-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "156-content",
+    "original": "맞습니다. 관리자 단테.\n당신은 지금 소개받은 이 열둘의 수감자와 함께 지옥을 기행 하게 될 것입니다.",
+    "context": "EN :\nThat’s correct, Executive Manager Dante. You will embark on a trip to the Inferno with the twelve Sinners who’ve just introduced themselves.\nJP :\nそうです、管理人ダンテ。\nあなたは今紹介されたこの12人の囚人と共に地獄紀行をすることになります。"
+  },
+  {
+    "key": "157-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "157-content",
+    "original": "<지옥…? 내가 왜 지옥으로 가야 하지?>",
+    "context": "EN :\n<The Inferno…? Why should I go to hell?>\nJP :\n<地獄…？どうして私が地獄に行く必要があるんだ？>"
+  },
+  {
+    "key": "158-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "158-content",
+    "original": "자신이 지옥으로 가야 하는 이유를 묻네요.",
+    "context": "EN :\nThey’re asking why they need to travel to the Inferno.\nJP :\n自分が地獄に行かなければならない理由を尋ねています。"
+  },
+  {
+    "key": "159-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "159-content",
+    "original": "흠… 지옥의 끝에는 보물이 기다리고 있으니까… 그렇게 말하면 되겠습니까.",
+    "context": "EN :\nHmm… How about this: Treasure awaits at the end of the road… Would that suffice?\nJP :\nふむ…地獄の果てには宝物が待っているから…そう言えば良いでしょうか。"
+  },
+  {
+    "key": "160-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "160-content",
+    "original": "<무슨… 원래 내가 보물 사냥이라도 하고 있었다는 뜻이야?>",
+    "context": "EN :\n<I don’t… You mean I used to be a treasure hunter or something?>\nJP :\n<何がだ…元々私はトレジャーハンティングでもしてたってことか？>"
+  },
+  {
+    "key": "161-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "161-content",
+    "original": "아예 알아듣질 못하는군요.",
+    "context": "EN :\nThey can’t seem to get you at all.\nJP :\n端から理解していないようです。"
+  },
+  {
+    "key": "162-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "162-content",
+    "original": "이해를 요구한 건 아닙니다, 단테. 의사를 물은 것도 아니죠.",
+    "context": "EN :\nI did not ask for your understanding, Dante. Nor was this a question of your willingness.\nJP :\n理解を要求してはいません、ダンテ。意思を問うたわけでもありません。"
+  },
+  {
+    "key": "163-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "163-content",
+    "original": "기억과 머리를 되찾고 싶다면 제 말을 들어야 할 겁니다.",
+    "context": "EN :\nYou’ll have to listen to me if you want to reclaim your memories and original head.\nJP :\n記憶と頭を取り戻したければ、私の言うことを聞かねばなりません。"
+  },
+  {
+    "key": "164-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "164-content",
+    "original": "<그거야… 되찾고 싶지만…>",
+    "context": "EN :\n<I mean… I do want them back, but…>\nJP :\n<それは…取り戻したくはあるけど…。>"
+  },
+  {
+    "key": "165-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "165-content",
+    "original": "미적거리네요.",
+    "context": "EN :\nThey’re hesitant.\nJP :\nつべこべ言っていますね。"
+  },
+  {
+    "key": "166-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "166-content",
+    "original": "파우스트 씨. 단테가 계속해서 거부하면 우린 어떻게 되는 거지? 거부할 거란 예상은 없었잖아.",
+    "context": "EN :\nMs. Faust, what will we do if Dante keeps on refusing to cooperate? This was not a scenario we anticipated.\nJP :\nファウストさん。ダンテがずっと拒否し続ければ私たちはどうなるんだ？\n拒否するという予想はしなかっただろ。"
+  },
+  {
+    "key": "167-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "167-content",
+    "original": "무슨 말씀을. 파우스트는 모든 것을 예상한답니다.",
+    "context": "EN :\nPreposterous. Faust anticipates every possibility.\nJP :\n何をおっしゃいますか。ファウストは全てを予想するのですよ。"
+  },
+  {
+    "key": "168-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "168-content",
+    "original": "단테, 모든 임무를 마치고 나면…",
+    "context": "EN :\nDante, once you’ve completed all your missions…\nJP :\nダンテ、全ての任務を終わらせたのなら…。"
+  },
+  {
+    "key": "169-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "169-content",
+    "original": "당신은 성위를 새길 수 있을 거예요.",
+    "context": "EN :\nYou’ll be able to engrave the Aspect.\nJP :\nあなたは星位を刻むことができます。"
+  },
+  {
+    "key": "170-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "170-content",
+    "original": "제가 보증하죠.",
+    "context": "EN :\nI can promise you that.\nJP :\n私が保障しましょう。"
+  },
+  {
+    "key": "171-content",
+    "original": "성위. 머리를 관통하는 단어다.\n없어진 기억 밑에 남아있는 직감이 반응하는 듯하다.",
+    "context": "EN :\nAspect. A word that strikes my mind intensely. Even though my memories are gone, my underlying instincts are responding strongly to it.\nJP :\n星位。頭を貫く単語だ。\n無くなった記憶の下に残っている直感が反応しているような気がする。"
+  },
+  {
+    "key": "172-content",
+    "original": "그리고 그 직감이 선택한 결정은…",
+    "context": "EN :\nLed by intuition, I make my choice…\nJP :\nそしてその直感が選んだのは…。"
+  },
+  {
+    "key": "173-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "173-content",
+    "original": "보이죠? 고개를 끄덕이잖아요.",
+    "context": "EN :\nSee there? They’re nodding.\nJP :\nどうです？首を縦に振っています。"
+  },
+  {
+    "key": "174-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "174-content",
+    "original": "좋아. 계속 가면 되겠어.",
+    "context": "EN :\nGood. Then we can continue.\nJP :\nよし。このままいけば良さそうだ。"
+  },
+  {
+    "key": "175-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "175-content",
+    "original": "그런데 카론, 아까부터 왜 출발을 안 하고 있지? 졸았나?",
+    "context": "EN :\nBy the way, Charon, why isn’t the bus moving? Were you dozing off?\nJP :\nところでカロン、さっきからどうして出発していないんだ？寝てるのか？"
+  },
+  {
+    "key": "176-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "176-content",
+    "original": "버스 기사는 졸음 쉼터에서만 졸아, 베르.",
+    "context": "EN :\nA bus driver only snoozes at rest spots, Verg.\nJP :\nバスの運転手はねむねむのお休みどころでしか眠らないよ、ヴェル。"
+  },
+  {
+    "key": "177-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "177-content",
+    "original": "메피 앞에 이상한 놈들이 서성이고 있었어.",
+    "context": "EN :\nWeirdos were hanging around in front of Mephi.\nJP :\nメフィの前に変なやつらがうろうろしてた。"
+  },
+  {
+    "key": "178-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "178-content",
+    "original": "카론, 말했잖아. 버스에 무슨 일이 생기면 곧바로 알려야 한다니까.",
+    "context": "EN :\nI told you, Charon. If anything happens with the bus, you’ve got to let me know right away.\nJP :\nカロン、言っただろ。バスに何か起こったらすぐに教えろって。"
+  },
+  {
+    "key": "179-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "179-content",
+    "original": "<메피? 메피는 누구지?>",
+    "context": "EN :\n<Mephi? Who’s that?>\nJP :\n<メフィ？メフィって誰だ？>"
+  },
+  {
+    "key": "180-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "180-content",
+    "original": "메피스토펠레스. 이 버스의 이름이자 버스를 구동하는 엔진의 이름.",
+    "context": "EN :\nMephistopheles. The name of this bus and the engine that runs it.\nJP :\nメフィストフェレス。このバスの名前であり、バスを駆動させるエンジンの名前。"
+  },
+  {
+    "key": "181-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "181-content",
+    "original": "…그리고 파우스트의 심혈을 기울인 역작이죠.",
+    "context": "EN :\n…And Faust’s magnum opus cordis.\nJP :\n…そしてファウストの心血を注いだ力作です。"
+  },
+  {
+    "key": "182-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "182-content",
+    "original": "지옥을 순항하기에는 걸맞는 나룻배가 아닐 수 없지.",
+    "context": "EN :\nAn ideal ferryboat to bear us across the Inferno.\nJP :\nまさに、地獄を巡航するのに相応しい渡し船だってことだ。"
+  },
+  {
+    "key": "183-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "183-content",
+    "original": "그렇게 생각하지 않습니까? 단테.",
+    "context": "EN :\nWouldn’t you agree, Dante?\nJP :\nそう思いませんか？ダンテ。"
+  },
+  {
+    "key": "184-content",
+    "original": "무슨 말을 하는 건지 잘 와 닿지도 않았기 때문에, 나는 대답을 하는 대신 버스 차창 밖으로 고개를 돌렸다.",
+    "context": "EN :\nI wasn’t sure what he was getting at, so I turned away to look through the window instead of giving him a reply.\nJP :\n何を言ってるのかあまりしっくり来なかったので、\n私は答える代わりにバスの車窓の外へ顔を向けた。"
+  },
+  {
+    "key": "185-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "185-content",
+    "original": "보아하니, 뒷골목에 기거하는 익숙한 쥐새끼들이군.",
+    "context": "EN :\nLooks like they’re just another pack of dirty Rats living in the Backstreets.\nJP :\n見た感じ、裏路地に住み着く見慣れたネズミどもだな。"
+  },
+  {
+    "key": "186-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "186-content",
+    "original": "마침 잘 됐습니다, 단테. 지휘를 연습하기는 더할 나위 없는 조건이군요.",
+    "context": "EN :\nThis is just the right time, Dante. They should make perfect targets for practicing your command.\nJP :\nちょうど良いですね、ダンテ。指揮を練習するのには申し分ない条件です。"
+  },
+  {
+    "key": "187-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "187-content",
+    "original": "단테, 처음 전투에서는 생략한 부분이 많았어요.",
+    "context": "EN :\nDante, I skipped over many details during our first battle.\nJP :\nダンテ、最初の戦闘では省略した部分が沢山あります。"
+  },
+  {
+    "key": "188-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "188-content",
+    "original": "제대로 설명할 시간이 없었으니까요.",
+    "context": "EN :\nWe were short on time, after all.\nJP :\nきっちりと説明する時間が無かったからです。"
+  },
+  {
+    "key": "189-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "189-content",
+    "original": "하지만 그런 식으로만 전투가 이뤄지면 우리는 항상 도륙 날 거고.",
+    "context": "EN :\nHowever, we’ll be slaughtered frequently if no improvements are made to your strategy.\nJP :\nしかし、そんな風に戦闘を行っていれば私たちはいつまで経っても屠殺されるばかりでしょうし。"
+  },
+  {
+    "key": "190-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "190-content",
+    "original": "당신은 우리를 살리기 위해 의미 없는 고통을 느껴야만 하겠죠.",
+    "context": "EN :\nAnd in turn, you’ll have to endure senseless pain over and over again to revive us.\nJP :\nあなたは私たちを蘇生するために意味の無い苦痛を\n感じ続けることになるでしょう。"
+  },
+  {
+    "key": "191-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "191-content",
+    "original": "<고통… 살려? 그럼 아까 그게…>",
+    "context": "EN :\n<Pain… Revive? You mean, what happened earlier was…>\nJP :\n<苦痛…蘇生？じゃあさっきのあれは…。>"
+  },
+  {
+    "key": "192-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "192-content",
+    "original": "네, 당신이 ‘시계를 돌려’주었기에, 우리는 살아나는 거랍니다.",
+    "context": "EN :\nYes, we were brought back to life because you “turned back the clock”.\nJP :\nはい、あなたが「時計を回して」くれたので、私たちは生き返ったのです。"
+  },
+  {
+    "key": "193-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "193-content",
+    "original": "당장 필요한 설명은 아닌 듯합니다, 파우스트 씨.",
+    "context": "EN :\nI don’t believe that much is necessary, Ms. Faust.\nJP :\n今すぐ必要な説明ではないような気がします、ファウストさん。"
+  },
+  {
+    "key": "194-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "194-content",
+    "original": "자잘한 담소는 나중에. 너희들. 전원 하차.",
+    "context": "EN :\nSave the chatter for later. Sinners, off the bus.\nJP :\n細かいお喋りは後ほど。お前ら、全員下車。"
+  },
+  {
+    "key": "195-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "195-content",
+    "original": "…전투에 대한 설명을 이어가죠.",
+    "context": "EN :\n…Allow me to elaborate on combat.\nJP :\n…戦闘についての説明を続けましょうか。"
+  }
+]

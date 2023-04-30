@@ -1,0 +1,297 @@
+[
+  {
+    "key": "GetConditionTitle-content",
+    "original": "획득조건",
+    "context": "EN :\nRequirements\nJP :\n獲得条件"
+  },
+  {
+    "key": "BannerSelect-content",
+    "original": "장식 배너",
+    "context": "EN :\nBanner\nJP :\nバナー"
+  },
+  {
+    "key": "Personality-content",
+    "original": "인격",
+    "context": "EN :\nIdentities\nJP :\n人格"
+  },
+  {
+    "key": "CharacterNumber-content",
+    "original": "번호",
+    "context": "EN :\nID\nJP :\n番号"
+  },
+  {
+    "key": "Rarity-content",
+    "original": "희귀도",
+    "context": "EN :\nRarity\nJP :\nレアリティ"
+  },
+  {
+    "key": "Season-content",
+    "original": "시즌",
+    "context": "EN :\nSeason\nJP :\nシーズン"
+  },
+  {
+    "key": "Group-content",
+    "original": "소속",
+    "context": "EN :\nFaction\nJP :\n所属"
+  },
+  {
+    "key": "Name-content",
+    "original": "이름",
+    "context": "EN :\nName\nJP :\n名前"
+  },
+  {
+    "key": "LastLoginDay-content",
+    "original": "최근 접속일",
+    "context": "EN :\nLast Online:\nJP :\n最終ログイン日"
+  },
+  {
+    "key": "Manager-content",
+    "original": "관리자",
+    "context": "EN :\nManager\nJP :\n管理人"
+  },
+  {
+    "key": "Company-content",
+    "original": "회사",
+    "context": "EN :\nCompany\nJP :\n会社"
+  },
+  {
+    "key": "Friends-content",
+    "original": "친구",
+    "context": "EN :\nFriends\nJP :\nフレンド"
+  },
+  {
+    "key": "Add_Friends-content",
+    "original": "친구 추가",
+    "context": "EN :\nAdd a Friend\nJP :\nフレンド追加"
+  },
+  {
+    "key": "Delete_Friends-content",
+    "original": "친구 삭제",
+    "context": "EN :\nRemove Friend\nJP :\nフレンド削除"
+  },
+  {
+    "key": "Waiting_Friends-content",
+    "original": "요청 중",
+    "context": "EN :\nSent Requests\nJP :\nリクエスト中"
+  },
+  {
+    "key": "Accept_Friends-content",
+    "original": "수락 대기",
+    "context": "EN :\nInbox\nJP :\n承認待ち"
+  },
+  {
+    "key": "Last_Reload-content",
+    "original": "{0}초 전",
+    "context": "EN :\n{0}s ago!\nJP :\n{0}秒前"
+  },
+  {
+    "key": "WaitCancle-content",
+    "original": "요청 취소",
+    "context": "EN :\nCancel\nJP :\nキャンセル"
+  },
+  {
+    "key": "Refuse-content",
+    "original": "거절",
+    "context": "EN :\nDecline\nJP :\n拒否"
+  },
+  {
+    "key": "Accept-content",
+    "original": "수락",
+    "context": "EN :\nAccept\nJP :\n承諾"
+  },
+  {
+    "key": "Send_Add_Friends-content",
+    "original": "친구 추가하시겠습니까?",
+    "context": "EN :\nSend them a friend request?\nJP :\nフレンドに追加しますか？"
+  },
+  {
+    "key": "Delete_Friends_Apply-content",
+    "original": "친구 목록에서 삭제하시겠습니까?",
+    "context": "EN :\nAre you sure you want to remove this user from your friend list?\nJP :\nフレンドリストから削除しますか？"
+  },
+  {
+    "key": "SendSendFriend_1-content",
+    "original": "요청가능 상한이 가득찼습니다.",
+    "context": "EN :\nYou have too many requests.\nJP :\nリクエスト上限に達しました。"
+  },
+  {
+    "key": "SendSendFriend_2-content",
+    "original": "친구 상한이 가득찼습니다.",
+    "context": "EN :\nYour friend list is full.\nJP :\nフレンドリスト上限に達しました。"
+  },
+  {
+    "key": "SendSendFriend_3-content",
+    "original": "상대방의 수락대기열이 가득찼습니다.",
+    "context": "EN :\nThis user currently has too many requests.\nJP :\n相手のリクエスト待機数が上限に達しました。"
+  },
+  {
+    "key": "SendSendFriend_4-content",
+    "original": "상대방의 친구 상한이 가득찼습니다.",
+    "context": "EN :\nThis user’s friend list is full.\nJP :\n相手のフレンドリストが上限に達しました。"
+  },
+  {
+    "key": "SendSendFriend_5-content",
+    "original": "유효하지 않은 유저입니다.",
+    "context": "EN :\nInvalid user.\nJP :\n無効なユーザーです。"
+  },
+  {
+    "key": "SendSendFriend_6-content",
+    "original": "이미 요청목록에 있는 유저입니다.",
+    "context": "EN :\nThe user is already on the request list.\nJP :\nリクエストを送信済みのユーザーです。"
+  },
+  {
+    "key": "SendSendFriend_7-content",
+    "original": "예기치 못한 오류가 발생했습니다.",
+    "context": "EN :\nAn unexpected error has occurred.\nJP :\n予測できないエラーが発生しました。"
+  },
+  {
+    "key": "SendAcceptReceivedFriend_1-content",
+    "original": "친구 상한이 가득찼습니다.",
+    "context": "EN :\nYour friend list is full.\nJP :\nフレンドリスト上限に達しました。"
+  },
+  {
+    "key": "SendAcceptReceivedFriend_2-content",
+    "original": "상대방의 친구 상한이 가득찼습니다.",
+    "context": "EN :\nThis user’s friend list became full.\nJP :\n相手のフレンドリストが上限に達しました。"
+  },
+  {
+    "key": "SendAcceptReceivedFriend_3-content",
+    "original": "상대방이 친구요청을 취소했습니다.",
+    "context": "EN :\nThe user canceled their request.\nJP :\n相手がフレンドリクエストをキャンセルしました。"
+  },
+  {
+    "key": "SendAcceptReceivedFriend_4-content",
+    "original": "예기치 못한 오류가 발생했습니다.",
+    "context": "EN :\nAn unexpected error has occurred.\nJP :\n予測できないエラーが発生しました。"
+  },
+  {
+    "key": "Today-content",
+    "original": "오늘",
+    "context": "EN :\nToday!\nJP :\n今日"
+  },
+  {
+    "key": "Ago-content",
+    "original": "{0}일 전",
+    "context": "EN :\n{0}d ago\nJP :\n{0}日前"
+  },
+  {
+    "key": "Day_Ago-content",
+    "original": "MM월 dd일",
+    "context": "EN :\nMM/dd\nJP :\nMM月 dd日"
+  },
+  {
+    "key": "Change_Introduce-content",
+    "original": "인사말 변경",
+    "context": "EN :\nEdit Intro Tagline\nJP :\n挨拶文の変更"
+  },
+  {
+    "key": "Sorting_Level-content",
+    "original": "계정 레벨",
+    "context": "EN :\nLevel\nJP :\nアカウントレベル"
+  },
+  {
+    "key": "Sorting_LastLogin-content",
+    "original": "최근 접속일",
+    "context": "EN :\nLast Online\nJP :\n最終ログイン日"
+  },
+  {
+    "key": "Season_0-content",
+    "original": "통상",
+    "context": "EN :\nRegular\nJP :\n恒常"
+  },
+  {
+    "key": "Season_1-content",
+    "original": "시즌 1",
+    "context": "EN :\nSeason 1\nJP :\nシーズン1"
+  },
+  {
+    "key": "Season_2-content",
+    "original": "시즌 2",
+    "context": "EN :\nSeason 2\nJP :\nシーズン2"
+  },
+  {
+    "key": "Change-content",
+    "original": "변경",
+    "context": "EN :\nChange\nJP :\n変更"
+  },
+  {
+    "key": "Uninstall-content",
+    "original": "해제",
+    "context": "EN :\nUnequip\nJP :\n解除"
+  },
+  {
+    "key": "All-content",
+    "original": "전체",
+    "context": "EN :\nAll\nJP :\n全体"
+  },
+  {
+    "key": "Reset_Company_Title-content",
+    "original": "설정 초기화",
+    "context": "EN :\nReset Settings\nJP :\n設定の初期化"
+  },
+  {
+    "key": "Reset_Company_desc-content",
+    "original": "회사 설정을 초기화 하시겠습니까?",
+    "context": "EN :\nAre you sure you want to reset your company settings?\nJP :\n会社設定を初期化しますか？"
+  },
+  {
+    "key": "NO_Friends-content",
+    "original": "아직 이곳에는 아무도 없습니다.",
+    "context": "EN :\nNothing to display here yet.\nJP :\nまだここには何も表示されません。"
+  },
+  {
+    "key": "NO_SendFriends-content",
+    "original": "요청한 내용이 없습니다.",
+    "context": "EN :\nNo requests made.\nJP :\nリクエストはありません。"
+  },
+  {
+    "key": "NO_AcceptFriends-content",
+    "original": "요청 받은 내용이 없습니다.",
+    "context": "EN :\nNo requests received.\nJP :\nリクエストはありません。"
+  },
+  {
+    "key": "SupportPersonality_Reset-content",
+    "original": "초기화",
+    "context": "EN :\nReset\nJP :\n初期化"
+  },
+  {
+    "key": "SearchFriends-content",
+    "original": "친구 찾기",
+    "context": "EN :\nDiscover w/ ID\nJP :\nフレンドサーチ"
+  },
+  {
+    "key": "ReLoad-content",
+    "original": "새로고침",
+    "context": "EN :\nRefresh\nJP :\n更新"
+  },
+  {
+    "key": "Btn_Search-content",
+    "original": "찾기",
+    "context": "EN :\nSearch\nJP :\nサーチ"
+  },
+  {
+    "key": "Sentence-content",
+    "original": "문장",
+    "context": "EN :\nPhrase\nJP :\nフレーズ"
+  },
+  {
+    "key": "Word-content",
+    "original": "단어",
+    "context": "EN :\nWord\nJP :\nワード"
+  },
+  {
+    "key": "Uid_Copy-content",
+    "original": "복사",
+    "context": "EN :\nCopy\nJP :\nコピー"
+  },
+  {
+    "key": "Uid_Copy_ModalTitle-content",
+    "original": "복사 완료",
+    "context": "EN :\nCopy Success\nJP :\nコピー完了"
+  },
+  {
+    "key": "Uid_Copy_ModalDesc-content",
+    "original": "아이디가 복사되었습니다.",
+    "context": "EN :\nThe ID has been copied.\nJP :\nIDをコピーしました。"
+  }
+]

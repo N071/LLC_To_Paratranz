@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10602_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10602_1-dlg",
+    "original": "명령하시는 건 다 따를 수 있어요~ 복종까지 바라면 곤란하지만~",
+    "context": "EN :\nI can follow your commands no problem~ Obedience might be a tall order, though~\nJP :\n命令には全部従えます～。服従まで望まれると困るけど～。"
+  },
+  {
+    "key": "lobby_morning_10602_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10602_1-dlg",
+    "original": "아침에 일어나기가 너무 피곤할 때는 그냥 아무것도 하지 말고 쉬는 것도 답이에요~",
+    "context": "EN :\nWhen you’re too tired to get up, it might just be best to stay in and relax~\nJP :\n朝起きるのがつらすぎるときは、ただ何もしないで休むのも答えですよ～。"
+  },
+  {
+    "key": "lobby_noon_10602_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10602_1-dlg",
+    "original": "날이 너무 좋을 때면… 가끔 일광욕을 하기도 해요. 몸이 따뜻하게 데워지는 느낌이 좋거든요.",
+    "context": "EN :\nOn wonderful days… I sometimes bathe in the sunlight. I like the warmth it wraps me up in.\nJP :\n天気がとてもいいときは…たまに日光浴をするんです。身体が温かくなる感じがいいんですよね。"
+  },
+  {
+    "key": "lobby_night_10602_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10602_1-dlg",
+    "original": "달빛조차도 구름에 가려지게 되는 캄캄한 밤이 되면… 이것 봐요, 정말 그림자와 하나가 되죠?",
+    "context": "EN :\nWhen dusk falls, and even the moonlight is shrouded by the clouds… Look, it really does blend with the shadows, doesn’t it?\nJP :\n月の光すら雲に隠れる暗い夜になると…見てください、すっかり影と一つになってますよね？"
+  },
+  {
+    "key": "smalltalk_10602_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10602_1-dlg",
+    "original": "베는 건 언제나 즐거워요. 단, 명령 때문에 베는 건 조금… 재미없어요.",
+    "context": "EN :\nIt’s always fun to slash things. Doing it out of obligation, though… rather dampens the mood.\nJP :\n斬ることはいつであれ楽しいです。ただ、命令で斬るのは少し…面白くないです。"
+  },
+  {
+    "key": "smalltalk_10602_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10602_2-dlg",
+    "original": "사람들은 왜 그렇게 자기 것에 집착하는지 모르겠어요. 마음을 넓~게 가지면 좋을 텐데 말이에요.",
+    "context": "EN :\nIt’s a mystery how people are so obsessed with what they own. If only they could nurture a spirit of generosity.\nJP :\nみんなどうしてそんな自分のものに執着するのか分かりませんね。ひろ～い心を持てばいいのに。"
+  },
+  {
+    "key": "smalltalk_10602_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10602_3-dlg",
+    "original": "제가 맞설 상대는, 제가 정하는 게 좋아요. 정해진 대로만 살아가는 건… 의미가 없잖아요.",
+    "context": "EN :\nI prefer to have autonomy in choosing my opponent. Doing as you’re told all the time… It’d end up being a pointless life.\nJP :\n僕の相手は、僕が決めるのが良いんです。決められた通りに生きていくのは…意味ないじゃないですか。"
+  },
+  {
+    "key": "smalltalk_10602_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10602_4-dlg",
+    "original": "제가 진정으로 말을 높이는 분은, 단테 님 밖에 없어요. 마음이 가지 않는데 구태여 진심을 담아 존칭을 쓸 이유는 없잖아요.",
+    "context": "EN :\nYou’re the only one I treat with genuine respect, Lord Dante. I wouldn’t be calling you my lord if I didn’t truly feel that you deserve the title.\nJP :\n私が真に敬語を使うのは、ダンテ様しかいません。気が進まないのに、わざわざ心を込めて尊称を使う理由なんてないじゃないですか。"
+  },
+  {
+    "key": "smalltalk_10602_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10602_5-dlg",
+    "original": "단테 님은… 제가 수그리길 바라지 않아서 좋아요. 허리를 깍듯이 굽히면서 명령을 받드는 건… 영화에서나 재밌는 장면 아니겠어요?",
+    "context": "EN :\nLord Dante, what I like about you… is that you don’t demand I bow to you. Receiving orders from your boss with your back courteously bent… That’s only really fun in movies, no?\nJP :\nダンテ様は…僕に頭を下げることを望んでいないから好きです。腰を曲げて命令を受けるのは…映画で見る分には面白いシーンじゃないですか？"
+  },
+  {
+    "key": "neglect_10602_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10602_1-dlg",
+    "original": "단테 님은 어디 가셨어요? 구름 속에 숨으셨나요?",
+    "context": "EN :\nWhere’d you go, Lord Dante? Have you hidden among the clouds?\nJP :\nダンテ様はどこに行かれました？雲隠れしました？"
+  },
+  {
+    "key": "gacksung_10602_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10602_1-dlg",
+    "original": "고마워요. 제가 베어야 하는 게 또 있나요?",
+    "context": "EN :\nThank you. Is there anything else you’d like me to fell?\nJP :\nありがとうございます。他に斬るべきものがあるんですか？"
+  },
+  {
+    "key": "formation_10602_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10602_1-dlg",
+    "original": "명령이라면~",
+    "context": "EN :\nIf that’s your orders~\nJP :\nご命令とあらば～。"
+  },
+  {
+    "key": "battleentry_10602_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10602_1-dlg",
+    "original": "제가 원하는 대로 베어버려도 되나요?",
+    "context": "EN :\nCan I slit them however I see fit?\nJP :\n僕がやりたいように斬っちゃっていいですか？"
+  },
+  {
+    "key": "battle_select_10602_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10602_1-dlg",
+    "original": "왔나요~ 단테 님.",
+    "context": "EN :\nAh, you’re here, Lord Dante~\nJP :\n来たんですね～ダンテ様。"
+  },
+  {
+    "key": "battle_endcommand_10602_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10602_1-dlg",
+    "original": "재미는 없겠지만, 그렇게 할게요~",
+    "context": "EN :\nIt won’t be as fun, but I’ll do it~\nJP :\n面白くはないですけど、そうしますね～。"
+  },
+  {
+    "key": "battle_enemy_break_10602_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10602_1-dlg",
+    "original": "좀 더 잘 벨 수 있을 거 같은데요?",
+    "context": "EN :\nI think I could do a better job next time?\nJP :\nもうちょっと上手く斬れそうな気がするんですよね？"
+  },
+  {
+    "key": "battle_break_10602_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10602_1-dlg",
+    "original": "읍!",
+    "context": "EN :\nMmpf!\nJP :\nうっ！"
+  },
+  {
+    "key": "battle_kill_10602_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10602_1-dlg",
+    "original": "베는 건 즐겁네요~",
+    "context": "EN :\nWhat a joy it is to slash~\nJP :\n斬るのは楽しいですね～。"
+  },
+  {
+    "key": "battle_allydead_10602_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10602_1-dlg",
+    "original": "고생이 많겠어요. 단테 님~",
+    "context": "EN :\nI don’t envy your outlook there, Lord Dante~\nJP :\nお疲れ様です。ダンテ様～。"
+  },
+  {
+    "key": "choice_success_p_10602_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10602_1-dlg",
+    "original": "말했죠? 명령하시는 건 다 따른다고요~",
+    "context": "EN :\nI told you, I’ll follow your commands no problem~\nJP :\n言いましたよね？命令には全部従いますって～。"
+  },
+  {
+    "key": "choice_fail_n_10602_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10602_1-dlg",
+    "original": "음… 괜찮죠~ 하라는 걸 했잖아요?",
+    "context": "EN :\nMmm… It’s fine~ I followed your orders after all, right?\nJP :\nうーん…だいじょぶですよ～。やれって言った通りやりましたし？"
+  },
+  {
+    "key": "battle_clear_10602_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10602_1-dlg",
+    "original": "제 솜씨, 조금 멋스럽지 않았나요? 후후…",
+    "context": "EN :\nWasn’t my swordsmanship snazzy to behold? Huhu…\nJP :\n僕の腕前、ちょっとカッコよくないですか？ふふっ…。"
+  },
+  {
+    "key": "battle_clear_ex_10602_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10602_1-dlg",
+    "original": "가야 할 곳으로 보내준 것뿐이죠. 보이는 걸 베어냈을 뿐이고요~",
+    "context": "EN :\nI just sent them to where they belonged—by simply cutting down what I saw~\nJP :\n行くべき場所に送っただけですよ。見えるものを切り裂いただけですし～。"
+  },
+  {
+    "key": "battle_defeat_10602_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10602_1-dlg",
+    "original": "검이 조금 무뎠나 봐요~",
+    "context": "EN :\nThe blade must’ve gotten a bit dull~\nJP :\n剣がちょっと鈍ってたみたいですね～。"
+  }
+]

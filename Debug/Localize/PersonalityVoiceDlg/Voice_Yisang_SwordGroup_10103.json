@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10103_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10103_1-dlg",
+    "original": "나는 유려하면서도 비범하게 심장을 베는 법을 알고 있소.",
+    "context": "EN :\nI know of the ways to cut through a heart with elegance and eccentricity.\nJP :\n私は流麗ながらも非凡に心臓を斬る方法を心得けり。"
+  },
+  {
+    "key": "lobby_morning_10103_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10103_1-dlg",
+    "original": "검의 향연을 이룰 시간이 돌아왔소.",
+    "context": "EN :\nIt’s time again for a banquet of swordplay.\nJP :\n剣の饗宴を遂げる時間、到来せり。"
+  },
+  {
+    "key": "lobby_noon_10103_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10103_1-dlg",
+    "original": "웃음이 많은 자들을 조심하시오. 그 허풍 같은 웃음 속엔 칼이 숨어 있소.",
+    "context": "EN :\nBe wary of those with plenty of laughs and smiles to show. A sharp edge lurks beneath that deceptive expression.\nJP :\n笑いが多い者には戒めよ。その虚勢の如し笑いの中には、刀が隠れたり。"
+  },
+  {
+    "key": "lobby_night_10103_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10103_1-dlg",
+    "original": "달빛은 마음에 들지 않소. 비추면 안 될 것을 구태여 환히 돋보이게 만들기만 하니.",
+    "context": "EN :\nI do not enjoy the moonlight much. All it does is shed a gleam on what should be left unlit.\nJP :\n月明かりはあいなしなり。照らしてはならぬものをわざと、ありありと鮮やぐがゆえ。"
+  },
+  {
+    "key": "smalltalk_10103_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10103_1-dlg",
+    "original": "이 흉터들 말이오? 이제 아물었소. 그보다는… 이 흉터를 만들어낸 이들이 어떻게 되었는지 물어봐야 하는 것이 아니오?",
+    "context": "EN :\nThese scars? They are healed up now. Rather than that… shouldn’t you be asking what became of those who left them on me?\nJP :\nこの傷達か？既に治し。それよりかは…この痕を作りし者共がいかになりしか、聞くべきにあらずや？"
+  },
+  {
+    "key": "smalltalk_10103_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10103_2-dlg",
+    "original": "제아무리 잘 벼려진 검이라도 아니 든다면 무용에 불과하지.",
+    "context": "EN :\nThe sharpest blade has no meaning if it lies unused.\nJP :\nどれほど善く研がれし刀であれど、持たざるは無用に過ぎぬ。"
+  },
+  {
+    "key": "smalltalk_10103_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10103_3-dlg",
+    "original": "내 옛날을 묻는 것이오? 그러한 것들은… 옛적에 모두 베어버렸소.",
+    "context": "EN :\nAre you curious of my past? Such things… have all been cut off long ago.\nJP :\n私の昔やゆかしき？さなるものは…昔に総て切り捨てにけり。"
+  },
+  {
+    "key": "smalltalk_10103_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10103_4-dlg",
+    "original": "비밀을 하나 말해주자면 난 눈과 귀를 막고도 적을 벨 수 있소. …농이오. 단테, 그대는 참으로 순진하군.",
+    "context": "EN :\nTo tell you a secret, I can slay a foe with both my eyes and ears closed. …I was in jest. Dante, you truly are credulous.\nJP :\n秘密を一つ言わば、私は目と耳を塞げども敵を斬らる。…冗なり。ダンテ、そなたはいと心若し。"
+  },
+  {
+    "key": "smalltalk_10103_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10103_5-dlg",
+    "original": "지금까지 시계는 내게 그저 무용한 것에 불과했는데 말이오. 단테, 그대의 시계는 참으로 매혹적일 만큼 이상스러워.",
+    "context": "EN :\nUntil now, a clock was nothing more than a useless thing to me. Yours, however, has such a peculiar charm to it, Dante.\nJP :\n今まで時計は私にとって、ただの無用の長物に過ぎぬものなりけり。ダンテ、そなたの時計はげに魅力的なほど異常なり。"
+  },
+  {
+    "key": "neglect_10103_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10103_1-dlg",
+    "original": "그대, 대화가 끝났다고 바로 돌아서다니, 퍽 냉정하군.",
+    "context": "EN :\nYou’re rather cold, turning away the moment a conversation dies down.\nJP :\nそなた、対話が終わるや否や即ち帰るか。いとつれなし。"
+  },
+  {
+    "key": "gacksung_10103_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10103_1-dlg",
+    "original": "검이 부러질 때까지 함께 하겠소. ",
+    "context": "EN :\nI shall stay by your side until my sword breaks.\nJP :\n刀が折れるまで共にせん。"
+  },
+  {
+    "key": "formation_10103_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10103_1-dlg",
+    "original": "피가 범람할 시간이오. ",
+    "context": "EN :\nIt’s time to raise a deluge of blood.\nJP :\n血が氾濫する時間なり。"
+  },
+  {
+    "key": "battleentry_10103_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10103_1-dlg",
+    "original": "그대, 이 검이 필요하오?",
+    "context": "EN :\nAre you in need of this blade?\nJP :\nそなた、この刀が必要や？"
+  },
+  {
+    "key": "battle_select_10103_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10103_1-dlg",
+    "original": "검은 아직 벼려있소.",
+    "context": "EN :\nThe sword is still sharp.\nJP :\n刀は未だ鋭し。"
+  },
+  {
+    "key": "battle_endcommand_10103_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10103_1-dlg",
+    "original": "죄를 새겨주겠소.",
+    "context": "EN :\nI shall carve the sin unto you.\nJP :\n罪を刻まん。"
+  },
+  {
+    "key": "battle_enemy_break_10103_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10103_1-dlg",
+    "original": "혈이 낭자하오.",
+    "context": "EN :\nIt’s bloodshed.\nJP :\n血が狼藉なり。"
+  },
+  {
+    "key": "battle_break_10103_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10103_1-dlg",
+    "original": "흠…",
+    "context": "EN :\nHmh…\nJP :\nふむ…。"
+  },
+  {
+    "key": "battle_kill_10103_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10103_1-dlg",
+    "original": "흉터의 결과요.",
+    "context": "EN :\nA consequence of the scars.\nJP :\n痕の結果よ。"
+  },
+  {
+    "key": "battle_allydead_10103_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10103_1-dlg",
+    "original": "흉터는 남지 않을 것이오.",
+    "context": "EN :\nThis will leave a scar not.\nJP :\n痕は残らじ。"
+  },
+  {
+    "key": "choice_success_p_10103_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10103_1-dlg",
+    "original": "흉터는 경험이오.",
+    "context": "EN :\nScars signify experience.\nJP :\n痕は経験よ。"
+  },
+  {
+    "key": "choice_fail_n_10103_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10103_1-dlg",
+    "original": "묘혈을 판 것 같소.",
+    "context": "EN :\nIt would seem that I dug a grave.\nJP :\n墓穴を堀りし心地せり。"
+  },
+  {
+    "key": "battle_clear_10103_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10103_1-dlg",
+    "original": "저들이 순응을 아는 자들이기에 다행이오. ",
+    "context": "EN :\nI am relieved to see that they know to comply.\nJP :\n彼の者らが順応を知りし者ゆえ幸いなり。"
+  },
+  {
+    "key": "battle_clear_ex_10103_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10103_1-dlg",
+    "original": "갈가리 베어버렸소. 이보다 정신이 맑을 때가 없군.",
+    "context": "EN :\nI shred them to pieces. My mind is now clearer than ever.\nJP :\nくだくだに切り刻みけり。これより精神が澄みしときはなし。"
+  },
+  {
+    "key": "battle_defeat_10103_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10103_1-dlg",
+    "original": "내 검은 만족할 만큼 베어냈소. 그러니 미련은 없지.",
+    "context": "EN :\nMy sword has cut its fair share. Nothing stops me from accepting this result.\nJP :\n私の剣は飽くまで切り裂きけり。さすれば未練なぞなし。"
+  }
+]

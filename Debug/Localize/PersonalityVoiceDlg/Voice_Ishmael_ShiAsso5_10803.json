@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10803_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10803_1-dlg",
+    "original": "누구보다 신속하게… 그들에게 침묵을 안겨드리죠.",
+    "context": "EN :\nWith impeccable swiftness… I will render them silent.\nJP :\n誰よりも迅速に…彼らに沈黙をもたらしましょう。"
+  },
+  {
+    "key": "lobby_morning_10803_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10803_1-dlg",
+    "original": "언제나 아침은 고요하죠. 의외로 행인이 없으니, 암살에도 적합한 시간대입니다.",
+    "context": "EN :\nThe morning is always quiet. It’s also a surprisingly viable time for assassination due to the lack of passersby.\nJP :\nいつであれ朝は静かです。意外と通行人もいないので、暗殺にも適した時間帯です。"
+  },
+  {
+    "key": "lobby_noon_10803_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10803_1-dlg",
+    "original": "할 말 있으신가요? 기다려드릴 시간 정도는 있어요.",
+    "context": "EN :\nIs there anything you want to say? I can afford a moment to hear it.\nJP :\n何か言うことでも？お待ちする時間くらいはあります。"
+  },
+  {
+    "key": "lobby_night_10803_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10803_1-dlg",
+    "original": "달빛이 흩어지네요… 이런 날에는 그림자에 숨어들기 좋죠.",
+    "context": "EN :\nThe moonlight scatters… This is an opportune day for blending into the shade.\nJP :\n月光が散らばっていますね…こんな日は影へと隠れるのに適しています。"
+  },
+  {
+    "key": "smalltalk_10803_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10803_1-dlg",
+    "original": "저는 언제나 지켜보고 있어요, 관리자님. 그저 저를 불러주기만 하세요.",
+    "context": "EN :\nI’m always watching, Manager. Just call when you need something.\nJP :\n私はいつでも見守っております、管理人様。ただ私を呼んでください。"
+  },
+  {
+    "key": "smalltalk_10803_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10803_2-dlg",
+    "original": "다음 목표를 알려주세요. 신속하게 시작할게요.",
+    "context": "EN :\nGive me my next target. I’ll make quick work of them.\nJP :\n次の目標を教えてください。迅速に開始します。"
+  },
+  {
+    "key": "smalltalk_10803_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10803_3-dlg",
+    "original": "요새 히스클리프 씨가 심기를 거슬리게 하는데… 뭐, 결과는 나쁘지 않으니까요. 이 수첩이요? …아무것도 아니에요.",
+    "context": "EN :\nHeathcliff has been irritating me lately… Though, I can’t deny that he brings serviceable results with him. This note? …It’s nothing to worry about.\nJP :\n最近ヒースクリフさんが逆鱗に触れてくるんですが…まぁ、結果は悪くないですからね。この手帳ですか？…なんでもないですよ。"
+  },
+  {
+    "key": "smalltalk_10803_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10803_4-dlg",
+    "original": "제가 예전에 있었던 곳… 거기에 단테 씨가 있었더라면 결과가 조금은 달라졌을까요?\n 그 지옥조차도… 조금은 살만했을까요.",
+    "context": "EN :\nWhere I used to be… would things have gone differently if you were there with us?\nCould that hell have been… somewhat bearable?\nJP :\n私が昔にいた場所…そこにダンテ様がいたなら結果は少し変わったでしょうか？\nあの地獄で…生きてく価値が少しは生まれたんでしょうか？"
+  },
+  {
+    "key": "smalltalk_10803_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10803_5-dlg",
+    "original": "전 붉은 색이 좋아요. 색이 진해질수록 피는 멎지 않고 끝이 앞당겨지니까요. …\n그리고 단테씨의 머리 색과도 같잖아요.",
+    "context": "EN :\nI favor the color red. A deeper hue bespeaks an unstopping hemorrhage and briskly arriving demise.\n…Plus, it’s the color of your head, too.\nJP :\n私は赤色が好きです。色が濃くなるほどに血は止まらず、終わりが早まりますからね…。\nそしてダンテ様の頭の色と同じじゃないですか。"
+  },
+  {
+    "key": "neglect_10803_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10803_1-dlg",
+    "original": "관리자 님…? 제가 못 찾을 거라고 생각하시나요?",
+    "context": "EN :\nExecutive Manager…? Do you really think you can hide from me?\nJP :\n管理人様…？見つからないとでも思っているんですか？"
+  },
+  {
+    "key": "gacksung_10803_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10803_1-dlg",
+    "original": "보여드리죠. 더욱 깔끔하고 확실하게.",
+    "context": "EN :\nI’ll repay the favor with my performance, now that it’s more reliable and efficient.\nJP :\nお見せしましょう。より端正に、確実に。"
+  },
+  {
+    "key": "formation_10803_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10803_1-dlg",
+    "original": "모두에게, 평등하게.",
+    "context": "EN :\nAn equal fate to all.\nJP :\n皆に、平等に。"
+  },
+  {
+    "key": "battleentry_10803_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10803_1-dlg",
+    "original": "목표인가요? 손쉽죠.",
+    "context": "EN :\nIs that my target? Should be easy.\nJP :\nターゲットですか？容易いです。"
+  },
+  {
+    "key": "battle_select_10803_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10803_1-dlg",
+    "original": "임무 중에 찾아오시면 안 되는데…",
+    "context": "EN :\nYou aren’t supposed to visit me in the middle of a mission…\nJP :\n任務中に来てはなりませんよ…。"
+  },
+  {
+    "key": "battle_endcommand_10803_1-desc",
+    "original": "공격시작",
+    "context": "EN :\nCommencing Attack\nJP :\n공격 시작"
+  },
+  {
+    "key": "battle_endcommand_10803_1-dlg",
+    "original": "그 누구도 볼 수 없게.",
+    "context": "EN :\nUnseen by any.\nJP :\n誰にも見られぬよう。"
+  },
+  {
+    "key": "battle_enemy_break_10803_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10803_1-dlg",
+    "original": "다음은 침묵을 안겨드리죠.",
+    "context": "EN :\nI’ll render you silent next.\nJP :\n次は沈黙をもたらしましょう。"
+  },
+  {
+    "key": "battle_break_10803_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10803_1-dlg",
+    "original": "아!",
+    "context": "EN :\nAh!\nJP :\nあっ！"
+  },
+  {
+    "key": "battle_kill_10803_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10803_1-dlg",
+    "original": "완전한 침묵.",
+    "context": "EN :\nTotal silence.\nJP :\n完全なる沈黙。"
+  },
+  {
+    "key": "battle_allydead_10803_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10803_1-dlg",
+    "original": "후… 잘 숨었더라면 괜찮았을 텐데.",
+    "context": "EN :\nHuff… You’d have been fine if you stayed hidden.\nJP :\nふぅ…上手く隠れられれば良かったのに。"
+  },
+  {
+    "key": "choice_success_p_10803_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10803_1-dlg",
+    "original": "이 정도는 하급 임무 축에도 안 드네요.",
+    "context": "EN :\nWouldn’t even count as a low rank mission.\nJP :\nこの程度、下級任務にも入りません。"
+  },
+  {
+    "key": "choice_fail_n_10803_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10803_1-dlg",
+    "original": "이번 임무의 성공 확률은 고지 드렸던 것 같은데요…",
+    "context": "EN :\nI’m sure I told you the likelihood of success for this mission…\nJP :\n今回の任務の成功確率はあらかじめお伝えしたはずですが…。"
+  },
+  {
+    "key": "battle_clear_10803_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10803_1-dlg",
+    "original": "정해진 결말이죠. 다음 작전은 어떤 거죠?",
+    "context": "EN :\nA predetermined conclusion. What’s my next mission?\nJP :\n確定した結末ですよ。次の作戦はどんなものですか？"
+  },
+  {
+    "key": "battle_clear_ex_10803_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10803_1-dlg",
+    "original": "깔끔한 전투였어요. 적의 모든 급소를 파악했거든요.",
+    "context": "EN :\nThat was a smooth battle. I was able to see through all the enemy’s weaknesses.\nJP :\n端正な戦闘でした。敵の全ての急所を把握していましたので。"
+  },
+  {
+    "key": "battle_defeat_10803_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10803_1-dlg",
+    "original": "제가 지나치게 빨랐던 건가요?",
+    "context": "EN :\nWas I too fast for everyone else to follow?\nJP :\n私が速すぎたのでしょうか？"
+  }
+]

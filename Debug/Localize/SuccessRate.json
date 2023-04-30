@@ -1,0 +1,62 @@
+[
+  {
+    "key": "very-high-content",
+    "original": "매우 우세",
+    "context": "EN :\nDominating\nJP :\n非常に有利"
+  },
+  {
+    "key": "high-content",
+    "original": "우세",
+    "context": "EN :\nFavored\nJP :\n有利"
+  },
+  {
+    "key": "normal-content",
+    "original": "균형",
+    "context": "EN :\nNeutral\nJP :\n均衡"
+  },
+  {
+    "key": "low-content",
+    "original": "불리",
+    "context": "EN :\nStruggling\nJP :\n不利"
+  },
+  {
+    "key": "very-low-content",
+    "original": "매우 불리",
+    "context": "EN :\nHopeless\nJP :\n非常に不利"
+  },
+  {
+    "key": "impossible-content",
+    "original": "선택 불가",
+    "context": "EN :\nUnselectable\nJP :\n選択不可"
+  },
+  {
+    "key": "event-very-high-content",
+    "original": "매우 높음",
+    "context": "EN :\nVery High\nJP :\n非常に高い"
+  },
+  {
+    "key": "event-high-content",
+    "original": "높음",
+    "context": "EN :\nHigh\nJP :\n高い"
+  },
+  {
+    "key": "event-normal-content",
+    "original": "보통",
+    "context": "EN :\nNormal\nJP :\n普通"
+  },
+  {
+    "key": "event-low-content",
+    "original": "낮음",
+    "context": "EN :\nLow\nJP :\n低い"
+  },
+  {
+    "key": "event-very-low-content",
+    "original": "매우 낮음",
+    "context": "EN :\nVery Low\nJP :\n非常に低い"
+  },
+  {
+    "key": "event-impossible-content",
+    "original": "선택 불가",
+    "context": "EN :\nUnselectable\nJP :\n選択不可"
+  }
+]

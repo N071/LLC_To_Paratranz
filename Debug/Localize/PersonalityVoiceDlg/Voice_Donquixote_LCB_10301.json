@@ -1,0 +1,212 @@
+[
+  {
+    "key": "get_10301_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10301_1-dlg",
+    "original": "이 몸의 차례인가? 나는, 돈키호테일세!",
+    "context": "EN :\nHath my time come? I am Don Quixote!\nJP :\nついに私の番が来たか！私は、ドンキホーテにて候！"
+  },
+  {
+    "key": "lobby_morning_10301_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10301_1-dlg",
+    "original": "하암… 관리자 나리는 참 부지런한 것 같소. 어떻게 이 시간에 눈이 팍 떠진단 말이오…?",
+    "context": "EN :\nYaaawn… You must be one diligent laborer, Manager Esquire. How on earth do you manage to rouse yourself at this hour…?\nJP :\nふぉぁあ…管理人殿はとても勤勉でありますね。どうやってこの時間に目がぱっちり開くのでありましょうか…？"
+  },
+  {
+    "key": "lobby_noon_10301_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10301_1-dlg",
+    "original": "점심밥은 무엇을 먹을 생각이오? 나는 로쟈씨가 근사한 식당을 알아봤다 해서 엄청나게 기대 중이오.",
+    "context": "EN :\nWhat plans doth you have for a luncheon today? I, for one, eagerly anticipate Señorita Rodya’s choice of “fancy diner”.\nJP :\nお昼は何を食べるつもりでござりまするか？私はロージャさんが凄いレストランを見つけたって言ってたのでとても期待してるのであります。"
+  },
+  {
+    "key": "lobby_night_10301_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10301_1-dlg",
+    "original": "오늘따라 별이 밝소. 관리자 나리께서도 별이 보이오?",
+    "context": "EN :\nThe stars shine bright tonight. Doth you see them as well, Manager Esquire?\nJP :\n今日に限って星が明るいですな。管理人殿にも星は見えまするか？"
+  },
+  {
+    "key": "smalltalk_10301_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10301_1-dlg",
+    "original": "관리자 나리, 이것좀 구경하시겠소? 내 보물들이오, 흐흐… 한정판인데 어렵게 구했소!",
+    "context": "EN :\nManager Esquire, would you lend an eye to these? ‘Tis my trove of treasures, hehe… Some are limited editions which I fought valiantly to lay claim upon!\nJP :\n管理人殿、こちらをご覧に入れてくれませぬか？私の宝物にありまする、ふふ…限定版ですがなんとか手に入れたのでございまするよ！"
+  },
+  {
+    "key": "smalltalk_10301_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10301_2-dlg",
+    "original": "언제나 세상의 정의를 위해 달려 나가는 저 해결사들을 보시오! 너무나 반짝거리지 않소?",
+    "context": "EN :\nMy, cast your gaze upon those Fixers, sprinting forth to bring about justice! Dazzling, are they not?\nJP :\nいつでも世界の正義のために駆け出すあのフィクサーたちをご覧ぜよ！とても輝いて見えませぬか？"
+  },
+  {
+    "key": "smalltalk_10301_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10301_3-dlg",
+    "original": "관리자 나리는 제일 좋아하는 해결사가 누구시오? 뱃지 나눠드릴 테니 옷에 붙이고 다니시는 게 어떠오?",
+    "context": "EN :\nPray tell, what Fixer is your favorite, Manager Esquire? Would you fancy a pin in their celebration to decorate your attire?\nJP :\n管理人殿の一番好きなフィクサーは誰でござりましょう？バッジを分けてしんぜますから、服に付けて回るのはいかがでござるか？"
+  },
+  {
+    "key": "neglect_10301_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10301_1-dlg",
+    "original": "관리자 나리!!!!! 나를 두고 어디 간 것이오!!!!!!!!!!!",
+    "context": "EN :\nManager Esquire!!!!! To where in the world hast thou disappeared!!!!!!!!!!!\nJP :\n管理人殿！！！！私を置いてどこへ参られたのですか！！！！！！！！"
+  },
+  {
+    "key": "formation_10301_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10301_1-dlg",
+    "original": "달리자! 로시난테!",
+    "context": "EN :\nOnward, Rocinante!\nJP :\nいざ走らん！ロシナンテ！"
+  },
+  {
+    "key": "battleentry_10301_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10301_1-dlg",
+    "original": "내가 나설 차례인가!",
+    "context": "EN :\n‘Tis my time to shine!\nJP :\n私の出番にてありまするか！"
+  },
+  {
+    "key": "battle_select_10301_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10301_1-dlg",
+    "original": "나를 지켜보고 있었군!",
+    "context": "EN :\nThine eyes were upon me!\nJP :\n私を見守っていたのだな！"
+  },
+  {
+    "key": "battle_endcommand_10301_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10301_1-dlg",
+    "original": "출진이다!",
+    "context": "EN :\nTo arms!\nJP :\n出陣である！"
+  },
+  {
+    "key": "battle_enemy_break_10301_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10301_1-dlg",
+    "original": "생각대로 되었소!",
+    "context": "EN :\nJust as I foresaw!\nJP :\n思った通りに運んだでござる！"
+  },
+  {
+    "key": "battle_break_10301_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10301_1-dlg",
+    "original": "앗!",
+    "context": "EN :\nAy!\nJP :\nあっ！"
+  },
+  {
+    "key": "battle_kill_10301_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10301_1-dlg",
+    "original": "승리했소!",
+    "context": "EN :\nA triumph!\nJP :\n勝利せり！"
+  },
+  {
+    "key": "battle_allydead_10301_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10301_1-dlg",
+    "original": "관리자 나리, 힘들겠지만 부탁하오!",
+    "context": "EN :\nManager Esquire, I am counting on you to regain our ground!\nJP :\n管理人殿、大変だと思うけどよろしく頼むぞ！"
+  },
+  {
+    "key": "choice_success_p_10301_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10301_1-dlg",
+    "original": "굳이 자만하지 않겠소! 역사엔 틀림없이 기록될 테니까!",
+    "context": "EN :\nI shan’t bask in glory! I know history will remember this deed, after all!\nJP :\nあえて自惚れはせぬぞ！歴史には間違いなく記録されよう！"
+  },
+  {
+    "key": "choice_fail_n_10301_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10301_1-dlg",
+    "original": "역경을 이겨내야 진정한 영웅인 법. 다음에 다시 가보세!",
+    "context": "EN :\nA true hero must needs be able to overcome hardship. We shall sally forth once more next time!\nJP :\n逆境に打ち勝ってこそ真の英雄である。もう一度やってみせよう！"
+  },
+  {
+    "key": "battle_clear_10301_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10301_1-dlg",
+    "original": "음음! 정의는 반드시 승리하는 법!",
+    "context": "EN :\nInsooth! Justice always prevails!\nJP :\nうむうむ！正義は必ず勝つ！"
+  },
+  {
+    "key": "battle_clear_ex_10301_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10301_1-dlg",
+    "original": "역시 본인은 위대한 해결사가 될 자질이 있소!!!! 음하하하하!!!!",
+    "context": "EN :\nI knew a great Fixer slumbered within me!!!! Mwahahahaha!!!!\nJP :\nやはり当人は偉大なるフィクサーになる資質があるぞ！！！！うはははは！！！！"
+  },
+  {
+    "key": "battle_defeat_10301_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10301_1-dlg",
+    "original": "크윽… 대가를… 치루게… 될 것이오…",
+    "context": "EN :\nKeugh… They shall… pay… for this…\nJP :\nくぅっ…対価を…支払うことに…なるぞ…。"
+  }
+]

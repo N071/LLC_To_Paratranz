@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11003_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11003_1-dlg",
+    "original": "관리자님, 최선을 다해 지켜드릴게요! 어어… 너무 앞에 서시진 마시고…",
+    "context": "EN :\nI’ll protect you with all I can, Manager! Oh, um… Don’t go too far ahead…\nJP :\n管理人さん、全力を尽くしてお守りします！あぁ…そんな前に立たないでください…。"
+  },
+  {
+    "key": "lobby_morning_11003_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11003_1-dlg",
+    "original": "잠은 푹 주무셨나요? 네? 왜 이렇게 일찍 일어났냐고요? 원래 츠바이는 항상 그래요.",
+    "context": "EN :\nHave you had a good night’s sleep? Sorry? Oh, you’re wondering why I’m up so early? That’s just what the Zwei are like.\nJP :\nぐっすり眠れましたか？はい？どうしてこんな早起きしたのか？元々ツヴァイはいつもそうなんです。"
+  },
+  {
+    "key": "lobby_noon_11003_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11003_1-dlg",
+    "original": "점심시간이네요. 전 주로 들고 먹기 편한 음식을 먹곤 해요. 훈련 때 먹던 게 버릇이 되었나 봐요.",
+    "context": "EN :\nIt’s lunchtime. I usually have food that’s easy to carry around. I guess I’ve grown a habit from my training days.\nJP :\nお昼ですね。僕は手で持ちやすい食べ物を主に食べるんです。訓練のときに食べてたのが癖になったみたいですね。"
+  },
+  {
+    "key": "lobby_night_11003_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11003_1-dlg",
+    "original": "밤에는 눈을 항상 크게 뜨고 있어야 해요. 언제 급습이 일어날지 모르니까요.",
+    "context": "EN :\nI should stay wide awake at night. You never know when an ambush might happen.\nJP :\n夜はいつだって目を大きく開かなければなりません。いつ急襲されるか分かりませんからね。"
+  },
+  {
+    "key": "smalltalk_11003_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11003_1-dlg",
+    "original": "비록 제가 적에게 일격을 가할 수는 없을지라도… 대신 맞아드릴 수는 있어요.",
+    "context": "EN :\nEven if I can’t land a devastating blow… I can take one for you.\nJP :\nたとえ僕が敵に一撃を与えることができずとも…代わりに受けることならできます。"
+  },
+  {
+    "key": "smalltalk_11003_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11003_2-dlg",
+    "original": "윽, 깜짝 놀랐어요…! 죄송해요, 몰래 다가오는 건 별로 좋아하지 않아서요.",
+    "context": "EN :\nWagh, you startled me…! Sorry, I just don’t really like being snuck up on.\nJP :\nうぁっ、ビックリしました…！すみません、こっそり近付かれるのはあんまり好きじゃないんです。"
+  },
+  {
+    "key": "smalltalk_11003_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11003_3-dlg",
+    "original": "처음에 돈키호테 씨랑 합동 훈련을 할 땐 조금 난감했는데… 지금은 돌발 행동에 많이 익숙해졌어요.",
+    "context": "EN :\nWhen I first started joint training with Don Quixote, it was rather troubling… But now, I’ve gotten quite used to her antics.\nJP :\n始めてドンキホーテさんと合同訓練したときはちょっと戸惑ったんですが…。今は突発行動にかなり慣れました。"
+  },
+  {
+    "key": "smalltalk_11003_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11003_4-dlg",
+    "original": "예전에는… 방법을 몰라서 소중한 사람들을 많이 잃었어요. 그래서 전 절박함을 알아요. 그래서 최선을 다할 수 있는 거예요.",
+    "context": "EN :\nIn the past… I’d lost many precious people because I didn’t know what to do. That experience taught me desperation. It’s what drives me to do my best now.\nJP :\n昔は…方法が分からなくて大切な人を沢山失いました。だから僕は「切迫」というのがどういうものか、分かってるんです。だから全力を尽くせるんです。"
+  },
+  {
+    "key": "smalltalk_11003_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11003_5-dlg",
+    "original": "도망갈 바에야 차라리 부서진 방패가 될 거예요. …더 이상 아무것도 잃고 싶지 않으니까요.",
+    "context": "EN :\nI’d rather be a broken shield than a runaway. …I don’t want to suffer losing anyone else.\nJP :\n逃げるくらいならいっそ壊れた盾になります。…これ以上何も失いたくないですから。"
+  },
+  {
+    "key": "neglect_11003_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11003_1-dlg",
+    "original": "관리자님.…? 앞으로는 사라질 때 꼭 저한테 말씀해주세요… 걱정된단 말이에요.",
+    "context": "EN :\nManager…? Please let me know in advance if you plan to go somewhere… I’m worried sick.\nJP :\n管理人さん……？これからどこか行くときは絶対に僕に言ってくださいね…。心配なんですよ。"
+  },
+  {
+    "key": "gacksung_11003_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11003_1-dlg",
+    "original": "지금보다 더 열심히 할게요! 실망시키지 않을 거에요.",
+    "context": "EN :\nI’ll work even harder! I’ll be sure to not let you down.\nJP :\n今よりもっと頑張ります！失望させません。"
+  },
+  {
+    "key": "formation_11003_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11003_1-dlg",
+    "original": "뒷걸음질 치지 않는 방패가 되어.",
+    "context": "EN :\nTo be an unyielding shield.\nJP :\n後退りせぬ盾となり。"
+  },
+  {
+    "key": "battleentry_11003_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11003_1-dlg",
+    "original": "최선을 다해 지켜낼게요!",
+    "context": "EN :\nI’ll protect you with all my strength!\nJP :\n全力で守り抜きます！"
+  },
+  {
+    "key": "battle_select_11003_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11003_1-dlg",
+    "original": "최선을 다해 지켜 보이겠습니다!",
+    "context": "EN :\nI’ll try my best to keep the others safe!\nJP :\n全力で守ってみせます！"
+  },
+  {
+    "key": "battle_endcommand_11003_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11003_1-dlg",
+    "original": "따라와 주세요!",
+    "context": "EN :\nThis way!\nJP :\nこっちです！"
+  },
+  {
+    "key": "battle_enemy_break_11003_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11003_1-dlg",
+    "original": "지금이 기회에요!",
+    "context": "EN :\nNow’s our chance!\nJP :\n今がチャンスです！"
+  },
+  {
+    "key": "battle_break_11003_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11003_1-dlg",
+    "original": "앗!",
+    "context": "EN :\nAh!\nJP :\nあっ！"
+  },
+  {
+    "key": "battle_kill_11003_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11003_1-dlg",
+    "original": "지켜냈어!",
+    "context": "EN :\nI did it!\nJP :\n守り抜けた！"
+  },
+  {
+    "key": "battle_allydead_11003_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_11003_1-dlg",
+    "original": "끝내 지켜내지 못했어…",
+    "context": "EN :\nI couldn’t protect you…\nJP :\n最後まで守り抜けなかった…。"
+  },
+  {
+    "key": "choice_success_p_11003_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11003_1-dlg",
+    "original": "저를 믿어주셔서 감사해요!",
+    "context": "EN :\nThank you for having faith in me!\nJP :\n僕を信じてくれてありがとうございます！"
+  },
+  {
+    "key": "choice_fail_n_11003_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11003_1-dlg",
+    "original": "지켜내지 못했어…",
+    "context": "EN :\nI couldn’t keep harm away…\nJP :\nで守り抜けなかった…。"
+  },
+  {
+    "key": "battle_clear_11003_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11003_1-dlg",
+    "original": "저도 이제 무언가를 제대로 지켜 내가고 있는 것 같아요.",
+    "context": "EN :\nI think I’m on the way to becoming a proper guardian.\nJP :\n僕もやっとなにかをちゃんと守り抜けてる気がします。"
+  },
+  {
+    "key": "battle_clear_ex_11003_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11003_1-dlg",
+    "original": "저 진짜 열심히 했어요, 인정받은 것 같아서 기뻐요.",
+    "context": "EN :\nI gave it my all, and I’m glad my effort paid off.\nJP :\n僕ホントに頑張りました、認められたみたいで嬉しいです。"
+  },
+  {
+    "key": "battle_defeat_11003_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11003_1-dlg",
+    "original": "제대로 못 지켜냈네요. 이번엔 다를 줄 알았는데…",
+    "context": "EN :\nI couldn’t protect the others. I thought things would be different this time…\nJP :\nちゃんと守り抜けませんでした。今度は違うと思ったのに…。"
+  }
+]

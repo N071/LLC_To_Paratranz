@@ -1,0 +1,169 @@
+[
+  {
+    "key": "0-place",
+    "original": "11구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 11 - LC Branch Interior\nJP :\n11区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "0-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "0-content",
+    "original": "뭐야… 그새 제법… 싸우는 폼이 발전했는데요…?",
+    "context": "EN :\nWell I’ll be… You’ve all… gotten better at fighting, haven’t you…?\nJP :\nあらまぁ…いつの間にか結構…戦い方が良くなってるじゃないですか…。"
+  },
+  {
+    "key": "1-content",
+    "original": "구석 어딘가에서 희미한 목소리가 들려온다.",
+    "context": "EN :\nA faint voice calls to us from the corner.\nJP :\nどこかの片隅から、微かに声が聞こえてくる。"
+  },
+  {
+    "key": "2-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "2-content",
+    "original": "소드 씨…?",
+    "context": "EN :\nSaude…?\nJP :\nソードさん…？"
+  },
+  {
+    "key": "3-content",
+    "original": "소드가 힘없이 벽에 기대어 있었다.",
+    "context": "EN :\nSaude was resting against the wall, exhausted.\nJP :\nソードが力なく壁にもたれ掛かっていた。"
+  },
+  {
+    "key": "4-content",
+    "original": "몸 곳곳에는 죄종들에게 뜯어 먹힌 것처럼 너덜거리는 상처가 보인다.",
+    "context": "EN :\nShe was covered in bites and gnawings left by the Peccatula.\nJP :\n身体のあちこちには大罪たちに食いちぎられたような、びろびろになった傷が見える"
+  },
+  {
+    "key": "5-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "5-content",
+    "original": "괜찮으세요? 일어설 수 있으시겠어요?",
+    "context": "EN :\nAre you alright? Can you get up easily?\nJP :\n大丈夫ですか？起き上がれそうですか？"
+  },
+  {
+    "key": "6-content",
+    "original": "일어서기는커녕 말을 내뱉는 것조차 상당한 고통이 수반하는 듯 소드는 띄엄띄엄 말을 이어갔다.",
+    "context": "EN :\nSaude could barely talk, let alone stand on her feet; she slowly began to speak, each word filled with pain.\nJP :\n立ち上がるどころか、口を開くことさえ相当な苦痛を伴うかのように、\nソードは休み休み言葉を紡いだ。"
+  },
+  {
+    "key": "7-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "7-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "7-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "7-content",
+    "original": "에피는… 어떻게…",
+    "context": "EN :\nEffie… How is he…?\nJP :\nエピは…どう…。"
+  },
+  {
+    "key": "8-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "8-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "8-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "8-content",
+    "original": "살아, 있죠? 밖에… 서 만났죠…?",
+    "context": "EN :\nAlive, yeah? You… must’ve met outside…\nJP :\n生きて、ますよね？外…で会いましたよね…？"
+  },
+  {
+    "key": "9-content",
+    "original": "절박하게 묻는 소드의 질문에 모두가 말과 행동을 주저한다.",
+    "context": "EN :\nEveryone is hesitant to answer Saude’s desperate question.\nJP :\n切実に尋ねるソードの質問に、皆が言葉と行動をためらう。"
+  },
+  {
+    "key": "10-content",
+    "original": "누가 나서서 에피의 참혹했던 상황과 우리의 손으로 숨을 거두게 할 수밖에 없었다는 말을 전해 줄 수 있었겠는가.",
+    "context": "EN :\nHow could any of us inform her of the morbid state Effie was in and how we had to put him out of his misery?\nJP :\n誰がエピの残酷な状況と、私たちの手で息を引き取らせるしか\nなかったという言葉を進んで伝えることができようか。"
+  },
+  {
+    "key": "11-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "11-content",
+    "original": "…네, 살아있어요.",
+    "context": "EN :\n…Yes, he’s doing fine now.\nJP :\n…はい、生きています。"
+  },
+  {
+    "key": "12-content",
+    "original": "홍루가 조용히 대답했다.",
+    "context": "EN :\nHong Lu answered quietly.\nJP :\nホンルが静かに答えた。"
+  },
+  {
+    "key": "13-content",
+    "original": "그 대답을 대신 정정해주는 수감자들은 없었다.",
+    "context": "EN :\nNo Sinner came forward to elaborate.\nJP :\nその答えを訂正する囚人はいなかった。"
+  },
+  {
+    "key": "14-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "14-content",
+    "original": "잡담은 그만하지.",
+    "context": "EN :\nThat’s enough chatter.\nJP :\n雑談はそこまでにしよう。"
+  },
+  {
+    "key": "15-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "15-content",
+    "original": "또 그 이상한 것들이 기어 오는 듯하니.",
+    "context": "EN :\nIt seems more of those oddities are crawling our way.\nJP :\nまたあの変なものたちが這い寄ってくるようだからな。"
+  },
+  {
+    "key": "16-content",
+    "original": "죄종들이 몰려오기 시작했다.",
+    "context": "EN :\nA swarm of Peccatula approached us.\nJP :\n大罪たちが段々と押し寄せて来た。"
+  },
+  {
+    "key": "17-content",
+    "original": "마치 우리의 거짓말로 수반되는 죄책감이 몰려오는 것처럼.",
+    "context": "EN :\nIt was as though our guilt about lying to her had gained physical form.\nJP :\nまるで私たちの嘘に随伴する罪悪感が押し寄せてくるかのように。"
+  }
+]

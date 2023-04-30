@@ -1,0 +1,508 @@
+[
+  {
+    "key": "0-place",
+    "original": "연기전쟁 중부전선",
+    "context": "EN :\nCentral Front in the Smoke War\nJP :\n煙戦争 中部戦線"
+  },
+  {
+    "key": "0-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "0-content",
+    "original": "또, 전쟁터 한 가운데…",
+    "context": "EN :\nStill in a battlefield…\nJP :\nまた、戦場の真っ只中…。"
+  },
+  {
+    "key": "1-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "1-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "1-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "1-content",
+    "original": "…아까랑 같은 장소네요. 조금 달라졌지만.",
+    "context": "EN :\n…It’s the same place as before. Though, something about it is different.\nJP :\n…さっきと同じ場所ですね。少し変わりましたけど。"
+  },
+  {
+    "key": "2-content",
+    "original": "누군가 긴박하게 우리들의 옷깃을 잡아당긴다.",
+    "context": "EN :\nThere was a strong tug at Heathcliff’s coat from behind.\nJP :\n誰かが後ろから切羽詰まった風に、私たちの服を引っ張ってきた。"
+  },
+  {
+    "key": "3-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "3-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "3-content",
+    "original": "당신들 미쳤어? 어서 대피하라고! 저 폭탄에 노출되면 급격하게 노화가 돼.",
+    "context": "EN :\nAre you out of your minds? Get to shelter, now! You’ll age rapidly if exposed to that bomb’s blast.\nJP :\n気でも狂った？ 早く避難しろって！ あの爆弾に曝されると急激に老化が進むんだ。"
+  },
+  {
+    "key": "4-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "4-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "4-content",
+    "original": "옆 둥지 직원들은 지금 전쟁이고 뭐고 지팡이 없이는 걷지도 못한다니까!",
+    "context": "EN :\nThe Nest next to ours turned into a nursing home—they can’t even walk without sticks!\nJP :\n隣の守衛所の職員達は今戦争どころじゃなくて、\n杖無しじゃ歩けすらしないんだよ！"
+  },
+  {
+    "key": "5-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "5-content",
+    "original": "잠깐, 이 자는 아까 그…",
+    "context": "EN :\nHold on, isn’t he the same guy we just…\nJP :\n待てよ、こいつはさっきの…。"
+  },
+  {
+    "key": "6-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "6-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "6-content",
+    "original": "하지만 너무 걱정하지 마, 그레고르 님이 계시니까!",
+    "context": "EN :\nIt’s not a problem, because Manager Gregor is with us!\nJP :\nでもそんな心配するな、グレゴールさんがいらっしゃるから！"
+  },
+  {
+    "key": "7-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "7-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "7-content",
+    "original": "우리와 다르게 부작용도 적고, 심지어 재생까지 가능하잖아요?",
+    "context": "EN :\nHe doesn’t suffer side effects like the rest of us, and he can regenerate his arm, too!\nJP :\n私たちとは違って副作用も少なく、おまけに再生もするじゃないですか？"
+  },
+  {
+    "key": "8-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "8-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "8-content",
+    "original": "실력으론 누구보다 탁월한 헤르만 이사님이 직접 손보신 분인데.",
+    "context": "EN :\nHe was operated on by none other than Hermann, our most skilled director.\nJP :\n誰よりも卓越した実力を持つヘルマン理事さんが直接手塩に掛けた方だし。"
+  },
+  {
+    "key": "9-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "9-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "10-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "10-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "10-content",
+    "original": "그런 분이 후발 부대에 계시면 안 되죠. 제가 태워다 드리겠습니다!",
+    "context": "EN :\nA hero shouldn’t be on the rearguard. I’ll give you a ride!\nJP :\nそんな方が後発部隊にいらっしゃっちゃ駄目じゃないですか。私が乗せて差し上げましょう！"
+  },
+  {
+    "key": "11-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "11-content",
+    "original": "뭐, 뭔데? 가까이 오지 마!",
+    "context": "EN :\nWh-What the hell? Get away from me!\nJP :\nな、なんだ？近寄るな！"
+  },
+  {
+    "key": "12-content",
+    "original": "딱딱거리는 소리와 함께 그의 등 뒤로 날개 네 쌍이 솟아올랐다.",
+    "context": "EN :\nFour pairs of wings emerged from his back, clicking and twitching.\nJP :\nカチカチという音と共に、彼の背中に4組の翅が湧き出てきた。"
+  },
+  {
+    "key": "13-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "13-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "13-content",
+    "original": "왜 도망가세요? G사의 깃발을 들고 앞장서서 싸워주셔야죠!",
+    "context": "EN :\nWhy are you running? You should raise G Corp’s banner and take the lead on the frontlines!\nJP :\nどうして逃げるのですか？G社の旗を持ち、前に出て戦わないと！"
+  },
+  {
+    "key": "14-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "14-content",
+    "original": "난…",
+    "context": "EN :\nI…\nJP :\n俺は…。"
+  },
+  {
+    "key": "15-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "15-content",
+    "original": "한 번도 원한 적 없었어… 개조도, 전쟁도…",
+    "context": "EN :\nI never wanted any of this… Not the procedure, nor the war…\nJP :\n一度も望んだことはなかった…改造も、戦争も…。"
+  },
+  {
+    "key": "16-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "16-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "16-content",
+    "original": "앞장서서… 앞… 앞…",
+    "context": "EN :\nTake the lead… Take… T…\nJP :\n前に出て…前…前…。"
+  },
+  {
+    "key": "17-content",
+    "original": "토마의 입이 기괴하게 벌어지며 기다란 더듬이가 나오기 시작했다.",
+    "context": "EN :\nTomah’s mouth opens unnaturally, and a pair of long antennae begin to grow from his face.\nJP :\nトーマの口が奇怪に開き、長い触角が出始めた。"
+  },
+  {
+    "key": "18-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "18-content",
+    "original": "으익… 또 싸워야 돼? 슬슬 속이 안 좋아지는데…",
+    "context": "EN :\nYeek… We gotta fight them again? My stomach is gonna turn…\nJP :\nうへぇ…また戦わないといけないの？そろそろ吐き気が…。"
+  },
+  {
+    "key": "19-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "19-content",
+    "original": "무슨 헛소리지? 명령 불복종자가 되고 싶은 건가?",
+    "context": "EN :\nWhat is that display of weakness? Do you wish to be punished for insubordination?\nJP :\n何戯けたことを言っている？命令不服従者になりたいのか？"
+  },
+  {
+    "key": "20-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "20-content",
+    "original": "<…도망가는 게 낫지 않나?>",
+    "context": "EN :\n<…I think we should run here?>\nJP :\n<…逃げる方が良くないか？>"
+  },
+  {
+    "key": "21-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "21-content",
+    "original": "탁월한 계획입니다. 관리자님. 치고 빠질 때를 잘 아시는군요.",
+    "context": "EN :\nAn excellent plan, Manager. You know when to strike and when to withdraw.\nJP :\n卓越した計画です。管理人様。逃げ時をきちんとご存じなのですね。"
+  },
+  {
+    "key": "22-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "22-content",
+    "original": "…뭐 이런 녀석이 다 있어?",
+    "context": "EN :\n…The hell is her deal?\nJP :\n…こんな発想するヤツがいてたまるか！"
+  },
+  {
+    "key": "23-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "23-content",
+    "original": "…후퇴는 용납되지 않을 거예요.",
+    "context": "EN :\n…Retreat is not an option.\nJP :\n…撤退は許されないでしょう。"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "이해가 되지 않아요. 전 직원들을 대상으로 개조가 이뤄졌다고는 들었지만, 이렇게까지 고약하진 않았을 텐데요.",
+    "context": "EN :\nI don’t get it. I heard every employee under the corporation had modifications, but it can’t have been this foul.\nJP :\n理解できませんね。全職員を対象に改造が施されたと聞きましたが\n、ここまで酷くはなかったはずですけど。"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-content",
+    "original": "사실과는 다소 다를 수 있습니다.",
+    "context": "EN :\nWhat we see here may differ from actual accounts.\nJP :\n事実とは多少異なる場合もあります。"
+  },
+  {
+    "key": "26-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "26-content",
+    "original": "그레고르 씨의 '기억'이 아닌 '마음'이 만든 길이니까요.",
+    "context": "EN :\nThe path was opened by Gregor’s feelings rather than his memories.\nJP :\nグレゴールさんの「記憶」ではなく「心」が作った道ですからね。"
+  },
+  {
+    "key": "27-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "27-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "27-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "27-content",
+    "original": "…마음속에서 아군들은 이런 모습으로 남아있었던 거군요.",
+    "context": "EN :\n…This is how he felt in his heart about his own allies.\nJP :\n…心の中に、味方達はこんな姿で残っていたんですね。"
+  },
+  {
+    "key": "28-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "28-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "28-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "28-content",
+    "original": "그 둥지에선 모든 직원들이… 개조 수술을 받았던 건가요?",
+    "context": "EN :\nDid all the employees in your Wing… receive the augmentation procedure?\nJP :\nその巣では全ての職員達が…改造手術を受けたんですか？"
+  },
+  {
+    "key": "29-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "29-content",
+    "original": "…대부분은.",
+    "context": "EN :\n…Most did.\nJP :\n…大体は。"
+  },
+  {
+    "key": "30-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "30-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "30-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "30-content",
+    "original": "다들 동의 하에 집도 되었던 건가요? 이건 정말…",
+    "context": "EN :\nWas it done with their consent? That’s so…\nJP :\nみんな同意の下で執刀されたんですか？これは本当に…。"
+  },
+  {
+    "key": "31-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "31-content",
+    "original": "L 사 직원들은, 동의를 구하고 인신 공양을 했던가?",
+    "context": "EN :\nDid the people in L Corp. consent to offering themselves up to Abnormalities?\nJP :\nL社の職員達は、同意を得て人身御供をしてたのか？"
+  },
+  {
+    "key": "32-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "32-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "32-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "32-content",
+    "original": "그건… 그건, 계약서에 명시가 되어 있었다고 했어요.",
+    "context": "EN :\nThat’s… I heard that was written on the contract.\nJP :\nそ…それは、契約書に明記されていたと言ってました。"
+  },
+  {
+    "key": "33-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "33-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "33-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "33-content",
+    "original": "우린 알지 못했지만… 효율적인 관리를 위해서는 그런 절차는 배제해야 한다고…",
+    "context": "EN :\nWe were never properly informed, though… They said such routine procedures should be skipped for efficient management…\nJP :\n私たちは知らなかったけど…効率的な管理のためなら\nそんな手続きは排除すべきだって…。"
+  },
+  {
+    "key": "34-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "34-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "34-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "34-content",
+    "original": "공포를 직면해야만 한다고.",
+    "context": "EN :\nThat we should face the fear.\nJP :\n恐怖に直面すべきだって。"
+  },
+  {
+    "key": "35-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "35-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "35-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "35-content",
+    "original": "그러니까… 입사한 직원들은 전부 자기도 모르게 동의한 셈이죠.",
+    "context": "EN :\nIn the end… anyone who joined the corporation agreed to it, knowingly or not.\nJP :\nだから…入社した職員達は全員、知らない内に同意したことになります。"
+  },
+  {
+    "key": "36-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "36-content",
+    "original": "…우리라고 달랐을까.",
+    "context": "EN :\n…Can guess how it went for us, then.\nJP :\n…俺たちは違うとでも思ってるのか。"
+  }
+]

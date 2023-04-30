@@ -1,0 +1,167 @@
+[
+  {
+    "key": "battlepass_battlepass-content",
+    "original": "배틀 패스",
+    "context": "EN :\nBattle Pass\nJP :\nバトルパス"
+  },
+  {
+    "key": "battlepass_passmission-content",
+    "original": "패스 미션",
+    "context": "EN :\nPass Missions\nJP :\nパスミッション"
+  },
+  {
+    "key": "battlepass_dailymission-content",
+    "original": "일일미션",
+    "context": "EN :\nDaily\nJP :\nデイリーミッション"
+  },
+  {
+    "key": "battlepass_weeklymission-content",
+    "original": "주간미션",
+    "context": "EN :\nWeekly\nJP :\nウィークリーミッション"
+  },
+  {
+    "key": "battlepass_seasonmission-content",
+    "original": "시즌미션",
+    "context": "EN :\nSeasonal\nJP :\nシーズンミッション"
+  },
+  {
+    "key": "battlepass_freeandpaid-content",
+    "original": "유료 {0} 무료 {1}",
+    "context": "EN :\nPaid {0} Free {1}\nJP :\n有償{0} 無償{1}"
+  },
+  {
+    "key": "battlepass_mission_tag_normal-content",
+    "original": "일반",
+    "context": "EN :\nRegular\nJP :\n一般"
+  },
+  {
+    "key": "battlepass_mission_tag_battle-content",
+    "original": "전투",
+    "context": "EN :\nCombat\nJP :\n戦闘"
+  },
+  {
+    "key": "battlepass_remain_time-content",
+    "original": "{0}일 {1}시간 남음",
+    "context": "EN :\n{0} days {1} hours left\nJP :\n残り {0}日 {1}時間"
+  },
+  {
+    "key": "battlepass_ask_purchase_limbus_pass-content",
+    "original": "림버스 패스 구매 시, {0}\n기간 동안 다음과 같은 혜택이 제공됩니다.",
+    "context": "EN :\nPurchasing the Limbus Pass will give you the following benefits during {0}:\nJP :\nリンバスパス購入時、{0}の間\n以下の特典が提供されます。"
+  },
+  {
+    "key": "battlepass_limbus_pass_benefit_reward-content",
+    "original": "림버스 패스 보상 획득 가능",
+    "context": "EN :\nLimbus Pass Rewards Available\nJP :\nリンバスパス 報酬獲得可能"
+  },
+  {
+    "key": "battlepass_limbus_pass_benefit_ex_reward-content",
+    "original": "패스 레벨 초과 보상 강화",
+    "context": "EN :\nMax Pass Level Reward Upgraded\nJP :\nパスレベル超過 報酬強化"
+  },
+  {
+    "key": "battlepass_level_up-content",
+    "original": "패스 레벨 업",
+    "context": "EN :\nPass Level-up\nJP :\nパスレベルアップ"
+  },
+  {
+    "key": "battlepass_level_up_ask-content",
+    "original": "[유료 광기]를 소모하여 패스 레벨 업 하시겠습니까?",
+    "context": "EN :\nLevel up the Pass using [Paid Lunacy]?\nJP :\n[有償狂気]を消耗し、パスをレベルアップしますか？"
+  },
+  {
+    "key": "battlepass_level_upgrade-content",
+    "original": "패스 레벨 상승",
+    "context": "EN :\nPass Level Up\nJP :\nパスレベル上昇"
+  },
+  {
+    "key": "battlepass_level_max-content",
+    "original": "패스 <color=#f8c200>최대 레벨</color> 달성",
+    "context": "EN :\n<color=#f8c200>Max Pass Level</color> reached.\nJP :\nパス <color=#f8c200>最大レベル</color>達成"
+  },
+  {
+    "key": "battlepass_purchase_level_up_failed-content",
+    "original": "패스 레벨 구매 불가",
+    "context": "EN :\nCannot Purchase Pass Level\nJP :\nパスレベル購入不可"
+  },
+  {
+    "key": "lack_if_paid_lunacy-content",
+    "original": "유료 광기 부족",
+    "context": "EN :\nInsufficient Paid Lunacy\nJP :\n有償狂気不足"
+  },
+  {
+    "key": "remain_days_with_label-content",
+    "original": "{0}일 남음",
+    "context": "EN :\n{0}d left\nJP :\n残り {0}日"
+  },
+  {
+    "key": "remain_hours_with_label-content",
+    "original": "{0}시간 남음",
+    "context": "EN :\n{0}h left\nJP :\n残り {0}時間"
+  },
+  {
+    "key": "remain_minutes_with_label-content",
+    "original": "{0}분 남음",
+    "context": "EN :\n{0}m left\nJP :\n残り {0}分"
+  },
+  {
+    "key": "update_progress-content",
+    "original": "진행도 갱신",
+    "context": "EN :\nProgress Updated\nJP :\n進行度更新"
+  },
+  {
+    "key": "able_to_acquire_ex_pass_level_reward-content",
+    "original": "패스 레벨 초과 보상 수령 가능",
+    "context": "EN :\nEligible for Max Pass Level rewards\nJP :\nパスレベル超過報酬 受け取り可能"
+  },
+  {
+    "key": "ask_to_use_paid_lunacy_to_level_up_pass-content",
+    "original": "유료 광기 {0}개를 소모하여 패스 레벨을 올리시겠습니까?",
+    "context": "EN :\nSpend {0} Paid Lunacy to level up the pass?\nJP :\n有償狂気{0}つを消耗し、パスレベルを上げますか？"
+  },
+  {
+    "key": "battlepass_purchase_level_up-content",
+    "original": "패스 레벨 구매",
+    "context": "EN :\nBuy Pass Levels\nJP :\nパスレベルを購入"
+  },
+  {
+    "key": "lack_of_paid_lunacy-content",
+    "original": "유료 광기가 부족합니다.",
+    "context": "EN :\nYou don’t have enough paid Lunacy.\nJP :\n有償狂気が不足しています。"
+  },
+  {
+    "key": "only_paid_lunacy_for_battlepass_levelup-content",
+    "original": "※배틀 패스 레벨 업은 유료 광기를 소모합니다.",
+    "context": "EN :\n※Pass levels can only be purchased with Paid Lunacy.\nJP :\n※バトルパスレベルアップには、有償狂気が消耗されます"
+  },
+  {
+    "key": "buy_battlepass_word-content",
+    "original": "구매",
+    "context": "EN :\nBuy\nJP :\n購入"
+  },
+  {
+    "key": "battlepass_level_ex_reward-content",
+    "original": "패스 레벨 초과 보상",
+    "context": "EN :\nMax Pass Level Reward\nJP :\nパスレベル超過報酬"
+  },
+  {
+    "key": "battlepass_progress-content",
+    "original": "진행도",
+    "context": "EN :\nProgress\nJP :\n進行度"
+  },
+  {
+    "key": "battlepass_free-content",
+    "original": "무료",
+    "context": "EN :\nFree\nJP :\n無償"
+  },
+  {
+    "key": "battlepass_limbuspass-content",
+    "original": "림버스패스",
+    "context": "EN :\nLimbus Pass\nJP :\nリンバスパス"
+  },
+  {
+    "key": "battlepass_unable_levelup_by_level-content",
+    "original": "최대 레벨 도달",
+    "context": "EN :\nMax Level Reached\nJP :\n最大レベル 到達"
+  }
+]

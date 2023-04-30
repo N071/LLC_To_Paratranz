@@ -1,0 +1,1104 @@
+[
+  {
+    "key": "0-place",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "0-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "0-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "0-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "0-content",
+    "original": "…치킨을 튀기면서 어느샌가 중요한 사실들을 잊고 있었다…",
+    "context": "EN :\n…Running this chicken joint, I had forgotten something important…\nJP :\n…チキンを揚げながらいつの間にか大事なことを忘れていた。"
+  },
+  {
+    "key": "1-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "1-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "1-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "1-content",
+    "original": "그래, 내가 궁극적으로 만들고 싶었던 치킨은…",
+    "context": "EN :\nThat’s right, the chicken I wanted to cook…\nJP :\nあぁ、俺が作りたかった究極のチキンは…。"
+  },
+  {
+    "key": "2-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "2-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "2-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "2-content",
+    "original": "어머니조차 맛있게 드실 수 있는 그런 치킨이었다.",
+    "context": "EN :\n…was something that even my mother could enjoy.\nJP :\n母さんも美味しく食べられる、そんなチキンだった。"
+  },
+  {
+    "key": "3-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "3-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "3-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "3-content",
+    "original": "그 한없이 까다로웠던 입맛까지도 만족시킬 수 있는…",
+    "context": "EN :\nSomething to please her extremely particular palate…\nJP :\nその、とても味にうるさい口を満足できるような…。"
+  },
+  {
+    "key": "4-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "4-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "4-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "4-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "5-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "5-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "5-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "5-content",
+    "original": "아니…",
+    "context": "EN :\nNo, wait…\nJP :\nいや…。"
+  },
+  {
+    "key": "6-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "6-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "6-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "6-content",
+    "original": "사실 알고 있었다.",
+    "context": "EN :\nI knew all along.\nJP :\n本当は分かっていた。"
+  },
+  {
+    "key": "7-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "7-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "7-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "7-content",
+    "original": "엄마가 치킨을 드시지 않는 건…",
+    "context": "EN :\nThe real reason momma wouldn’t eat chicken…\nJP :\n母さんがチキンを食べないのは…。"
+  },
+  {
+    "key": "8-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "8-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "8-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "8-content",
+    "original": "넉넉치 못했던 우리 집의 사정 때문이었음을…",
+    "context": "EN :\n…is because we couldn’t afford to feed the whole family…\nJP :\n裕福じゃなかった我が家の事情を推し量っていたということを…。"
+  },
+  {
+    "key": "9-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "9-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "9-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "9-content",
+    "original": "그래서… 우리 집에는 항상 쿠폰이 쌓여 있었다… 10개를 모으면 하나를 공짜로 받을 수 있는…",
+    "context": "EN :\nIt’s why… we always had a stash of coupons at home… Ten of them could be exchanged for a free chicken…\nJP :\nだから…うちの家にはいつもクーポンが積もっていた…。10つ集めると1つを無料で貰える…。"
+  },
+  {
+    "key": "10-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "10-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "10-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "10-content",
+    "original": "어머니는 그걸 모으고 또 모아서…",
+    "context": "EN :\nMy mother would keep collecting them for me…\nJP :\n母さんはそれを集めて、また集めて…。"
+  },
+  {
+    "key": "11-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "11-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "11-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "11-content",
+    "original": "당신은 입에도 대지 않을, 고작 치킨 한 마리를 먹이기 위해…",
+    "context": "EN :\nYou did all that to feed me a chicken you wouldn’t eat…\nJP :\nあなたは口にも付けないであろう、たかがチキン1匹を食わせるため…。"
+  },
+  {
+    "key": "12-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "12-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "12-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "12-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "13-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "13-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "13-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "13-content",
+    "original": "응?",
+    "context": "EN :\nHm?\nJP :\nうん？"
+  },
+  {
+    "key": "14-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "14-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "14-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "14-content",
+    "original": "아.",
+    "context": "EN :\nOh.\nJP :\nあっ。"
+  },
+  {
+    "key": "15-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "15-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "15-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "15-content",
+    "original": "피자 쿠폰이었네.",
+    "context": "EN :\nThese are pizza coupons.\nJP :\nピザのクーポンだったね。"
+  },
+  {
+    "key": "16-teller",
+    "original": "사장 엄마",
+    "context": "EN :\nOwner’s Momma\nJP :\n社長の母"
+  },
+  {
+    "key": "16-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "16-content",
+    "original": "엄마는… ",
+    "context": "EN :\nSon, your momma…\nJP :\n母さんはね…。"
+  },
+  {
+    "key": "17-teller",
+    "original": "사장 엄마",
+    "context": "EN :\nOwner’s Momma\nJP :\n社長の母"
+  },
+  {
+    "key": "17-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "17-content",
+    "original": "치킨 보단… 피자 파야…",
+    "context": "EN :\nShe liked… pizza better…\nJP :\nチキンより…ピザ派なんだよ…。"
+  },
+  {
+    "key": "18-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "18-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "18-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "18-content",
+    "original": "으윽… 정신이…",
+    "context": "EN :\nAgh… My head…\nJP :\nうぅっ…頭が…。"
+  },
+  {
+    "key": "19-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "19-content",
+    "original": "<모습이 원래대로 돌아왔군.>",
+    "context": "EN :\n<He’s gone back to normal.>\nJP :\n<元の姿に戻ったね。>"
+  },
+  {
+    "key": "20-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "20-content",
+    "original": "좋은 작전이었다. 당근과 채찍. 군사작전에서 종종 써먹기도 한 효과적인 전술 방식이지.",
+    "context": "EN :\nThat was a sound plan. The carrot and stick approach. It’s an effective tactic often employed in military operations.\nJP :\nいい作戦だった。にんじんとムチ。軍事作戦でしばしば使われることもある効果的な戦術方式だ。"
+  },
+  {
+    "key": "21-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "21-content",
+    "original": "그게… 작전이었나요? 그냥 평소처럼 호되게 막말하고 선제공격을 한 거랑 무슨 차이가…",
+    "context": "EN :\nThat… was a plan? I don’t see how it was any different from your usual bawling out and striking first…\nJP :\nあれが…作戦だったんですか？ただ、いつも通り厳しい暴言を吐いて先制攻撃するのと何の違いが…。"
+  },
+  {
+    "key": "22-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "22-content",
+    "original": "나와 이 애… 소년만이 눈치챈 기류지. 잘 따라와 줬다.",
+    "context": "EN :\nIt was subtle, and this roo— strapping young lad caught my hint and followed well.\nJP :\n私とこのこぞ…少年だけが気づいた流れだ。よく付いてきてくれた。"
+  },
+  {
+    "key": "23-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "23-content",
+    "original": "감… 감사합니다! 오티스 님!",
+    "context": "EN :\nT—Thank you, Captain Outis!\nJP :\nあ…ありがとうございます！ウーティスさん！"
+  },
+  {
+    "key": "24-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "24-content",
+    "original": "<방금 애송이라고 부르려고 했던 거 아니야?>",
+    "context": "EN :\n<You almost called him “rookie”, didn’t you?>\nJP :\n<今小僧って言おうとしてなかった？>"
+  },
+  {
+    "key": "25-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "25-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "25-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "25-content",
+    "original": "감사합니다. 덕분에 새 출발을 할 수 있을 것 같아요.",
+    "context": "EN :\nI can’t thank you enough. I think I’m ready to start anew.\nJP :\nありがとうございます。おかげさまで新しく出発し直せそうな気がします。"
+  },
+  {
+    "key": "26-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "26-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "26-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "26-content",
+    "original": "중요한 건 레시피가 아니었어요… 누군가를 위하는 마음… 설사 그 형태가 피자… 일지라도… 정성만 담겨 있다면 손님들은 좋아해 줄 거예요.",
+    "context": "EN :\nIt wasn’t the recipe I needed… As long as I remember to cook from the heart for those I care about… even if it comes in the shape… of a pizza… I know my customers will still appreciate their earnest servings.\nJP :\n大事なのはレシピじゃなかったですね…誰かを想う心…もしその形がピザ…だったとしても…真心さえ込められていればお客さんは好きになってくれると思います。"
+  },
+  {
+    "key": "27-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "27-content",
+    "original": "어이, 저 치킨집에서 무제한 이용권을 준다고 했단 말이야. 어쩔 거야?",
+    "context": "EN :\nOi, your rival promised us a lifetime vouch for free chicken. What do you have?\nJP :\nおい、あのチキン屋で生涯利用権をくれるって話あるだろ。どうする？"
+  },
+  {
+    "key": "28-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "28-content",
+    "original": "나… 지금쯤이면 닭다리를 종류별로 뜯고 있을 줄 알았어…",
+    "context": "EN :\nI… thought I’d be stuffing my face with drumsticks of countless flavors by now…\nJP :\n私…今頃ドラムスティックを種類別に噛みちぎってると思ったんだけどなぁ…。"
+  },
+  {
+    "key": "29-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "29-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "29-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "29-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "30-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "30-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "30-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "30-content",
+    "original": "큰 건 아니지만 이걸 받아주세요…",
+    "context": "EN :\nIt’s nothing much, but please take this…\nJP :\n大した物じゃないですけどこれ、受け取ってください…。"
+  },
+  {
+    "key": "31-content",
+    "original": "은봉이네 호프집의 사장은 포장된 상자 하나를 건넸다.",
+    "context": "EN :\nThe owner of Eunbong’s gave us a wrapped-up box.\nJP :\nウンボンのチキン酒場の社長は、ラッピングされた箱を1つ渡してきた。"
+  },
+  {
+    "key": "32-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "32-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "32-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "32-content",
+    "original": "가게에 단 하나밖에 없는 귀한 보물입니다…",
+    "context": "EN :\nIt’s an invaluable treasure of mine, there’s nothing else like it…\nJP :\n店に一つしかない、大切な宝物です…。"
+  },
+  {
+    "key": "33-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "33-content",
+    "original": "하나밖에 없는 걸 우리가 받아도 되겠는가?",
+    "context": "EN :\nCould we accept such a rarity from thee?\nJP :\n一つしかないものを我々が受け取ってもよろしいのか？"
+  },
+  {
+    "key": "34-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "34-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "34-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "34-content",
+    "original": "여러분이 아니었다면 식당을 다시 열지도 못했을 테니까… 보답이라고 생각해주세요.",
+    "context": "EN :\nI wouldn’t have been able to reopen my restaurant without your help… So I insist, please take it as your reward.\nJP :\n皆さんじゃなければ食堂を再び開くことも出来なかったことでしょうから…お礼だと思ってください。"
+  },
+  {
+    "key": "35-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "35-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "35-content",
+    "original": "…그렇게 해서 뒤틀림도 해결하고 이 보물을 얻게 된 것이오!",
+    "context": "EN :\n…And thus, we had resolved the Distortion and claimed our spoils!\nJP :\n…そうしてねじれも解決し、この宝物を得ることになったのでありまする！"
+  },
+  {
+    "key": "36-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "36-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "37-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "37-content",
+    "original": "어떻소, 어떻소? 깊은 감명에 말을 잇지 못하는 중이오?!",
+    "context": "EN :\nPray tell, pray tell! Are you perhaps speechless with astonishment at the glory of our tale?!\nJP :\nいかがでしょう、いかがでございましょう？深い感銘に言葉が出ないのでありまするか！？"
+  },
+  {
+    "key": "38-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "38-content",
+    "original": "‘우리들은 은봉이네로 향했다네’ 부터 듣지 않았어.",
+    "context": "EN :\n“We then embarked to Eunbong’s” was where I tuned out.\nJP :\n「我々はウンボンへと向かったのである！」から聞いてない。"
+  },
+  {
+    "key": "39-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "39-content",
+    "original": "아예 처음부터 듣지 않은 거잖소!",
+    "context": "EN :\nThat means you have heard nary a word!\nJP :\n最初から聞いてないではないか！"
+  },
+  {
+    "key": "40-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "40-content",
+    "original": "어차피 파우스트가 보고서를 올릴 텐데 무엇 하러 너희들의 수다를 들어주고 있어야 하지?",
+    "context": "EN :\nWhy should I bother listening to your embellished drivel when Faust’s report will fill me in on all the details I need?\nJP :\nどうせファウストから報告書が上がるのに、どうして君らのおしゃべりを聞かなければならないんだ？"
+  },
+  {
+    "key": "41-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "41-content",
+    "original": "그쪽은 신경 끄고 돈키~ 우린 빨리 이 상자를 풀어 봐야지~ 흐흐흐.",
+    "context": "EN :\nC’mon now, Donqui. Forget about this sourpuss and gather ‘round so we can open the box. Heeheehee.\nJP :\nそっちは無視してドンキ～。早くこの箱を開けてみないと～、ふふふ。"
+  },
+  {
+    "key": "42-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "42-content",
+    "original": "뭐가 들어 있을 까나~",
+    "context": "EN :\nI wonder what’s inside~\nJP :\n何が入ってるかなぁ～。"
+  },
+  {
+    "key": "43-content",
+    "original": "모두가 기대에 부풀며 상자를 개봉했고…",
+    "context": "EN :\nSurrounded by Sinners full of anticipation, the lid was lifted…\nJP :\nみんなが期待に胸を膨らませて箱を開けると…。"
+  },
+  {
+    "key": "44-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "44-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "44-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "44-content",
+    "original": "단 하나밖에 없는 마스코트 인형, 봉이 입니다. 쓸 일이 있지 않을까 하여 만들었는데 이렇게 드리게 되어 기쁘네요. ^0^/",
+    "context": "EN :\n“Meet Bongy, the one and only doll of our mascot. I made it hoping it’d see use one day, but I’m glad to be giving it as a gift of gratitude. ^0^/”\nJP :\nたった一つしか無いマスコット人形、ボンちゃんです。いつか使うことになると思って作ったんですが、こうやって渡せて嬉しいですね。^0^/"
+  },
+  {
+    "key": "45-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "45-content",
+    "original": "아냐… 이럴리 없어, 인형 배를 갈라보면 뭐라도 들어 있지 않을까?",
+    "context": "EN :\nNo way… This can’t be it. Maybe he hid something in the plush’s belly?\nJP :\nいや…そんなわけない、人形の腹を割いたら何かしら入ってたりしないかな？"
+  },
+  {
+    "key": "46-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "46-content",
+    "original": "<그렇게 이벤트를 준비할 사람처럼 보이지 않았는데…>",
+    "context": "EN :\n<He didn’t seem like the kind of person to do that…>\nJP :\n<そんなイベントを準備する人には見えなかったけど…。>"
+  },
+  {
+    "key": "47-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "47-content",
+    "original": "처치 곤란해서 우리한테 그냥 처분한 거 아닐까?",
+    "context": "EN :\nWas probably trying to get rid of it and we were there to take it, eh?\nJP :\n処置に困って、俺たちに処分を兼ねて渡したんじゃないのか？"
+  },
+  {
+    "key": "48-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "48-content",
+    "original": "그 소각기인가 뭔가에 버리자.",
+    "context": "EN :\nLet’s toss this thing in that concinerator.\nJP :\nその焼却機とかなんとかに捨てるか。"
+  },
+  {
+    "key": "49-content",
+    "original": "히스클리프가 곧 찢어버릴 것 같이 움켜쥐던 인형을 누군가 조용히 붙잡았다.",
+    "context": "EN :\nA hand gently tugged at the doll Heathcliff had gripped with ferocious rage.\nJP :\n引き裂けそうなくらいの力でヒースクリフが握りしめていた人形を、誰かが静かに掴んだ。"
+  },
+  {
+    "key": "50-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "50-content",
+    "original": "카론은 이 승객, 맘에 들어.",
+    "context": "EN :\nCharon likes this passenger.\nJP :\nカロンはこの乗客、きにいった。"
+  },
+  {
+    "key": "51-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "51-content",
+    "original": "대체 어디가 맘에 든다는…",
+    "context": "EN :\nWhat’s there to like about—\nJP :\n一体どこが気に入っ―"
+  },
+  {
+    "key": "52-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "52-content",
+    "original": "눈 말고는 아무것도 갖고 있지 않잖아.",
+    "context": "EN :\nIt’s got eyes and nothing else.\nJP :\n目以外には何も持っていないでしょ。"
+  },
+  {
+    "key": "53-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "53-content",
+    "original": "그게 좋아.",
+    "context": "EN :\nIt’s nice.\nJP :\nそれがいい。"
+  },
+  {
+    "key": "54-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "54-content",
+    "original": "…그래. 그럼 된 거지. 인형은 버리지 마.",
+    "context": "EN :\n…Alright. That’s that, then. Keep the doll.\nJP :\n…あぁ。これならいいだろ。人形は捨てるな。"
+  },
+  {
+    "key": "55-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "55-content",
+    "original": "눈 말고 아무것도 없다기에는 팔다리랑 몸통도 있다.",
+    "context": "EN :\nThat is an incorrect assessment as the doll has a torso and limbs.\nJP :\n目以外に何もないと言うには、手足と胴体もある。"
+  },
+  {
+    "key": "56-content",
+    "original": "그렇게 치킨 평생 이용권 대신 얻은 닭 인형 또한 버스에 걸리게 되었으며…",
+    "context": "EN :\nJust like that, the chicken plushie we got instead of free food for life earned its seat on the bus…\nJP :\nそうしてチキン生涯利用権の代わりに得た鶏の人形も、バスに掛けられ…。"
+  },
+  {
+    "key": "57-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "57-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "57-title",
+    "original": "K사 식량자원개량부?",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development?\nJP :\nK社 食糧資源改良部？"
+  },
+  {
+    "key": "57-content",
+    "original": "네, 동랑 소장님. 뒤틀림은 무사히 해결되었습니다. 직접 확인했습니다.",
+    "context": "EN :\nYes, Chief Dongrang. The Distortion has been resolved. I confirmed it with my own eyes.\nJP :\nはい、ドンラン所長。ねじれは無事に解決しました。直接確認しました。"
+  },
+  {
+    "key": "58-place",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "58-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "58-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "58-title",
+    "original": "K사 식량자원개량부?",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development?\nJP :\nK社 食糧資源改良部？"
+  },
+  {
+    "key": "58-content",
+    "original": "처음엔 조금 미덥지 못해 보였는데… 이야기를 나누셔도 좋을 것 같습니다. 네, 이제 저들을 데려오겠습니다.",
+    "context": "EN :\nThey did seem somewhat unreliable at first, yes… But, I believe it should be okay to speak with them. Yes, I’ll bring them over now.\nJP :\n最初は少し頼りなさそうに見えましたが…話をしても良いと思われます。はい、これから彼らを連れてきます。"
+  },
+  {
+    "key": "59-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "59-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "59-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "59-content",
+    "original": "이… 이제 어떡하죠?",
+    "context": "EN :\nW—What now of all things?\nJP :\nこ…これからどうしましょう？"
+  },
+  {
+    "key": "60-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "60-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "60-title",
+    "original": "K사 식량자원개량부?",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development?\nJP :\nK社 食糧資源改良部？"
+  },
+  {
+    "key": "60-content",
+    "original": "전… 주어가 빠진 문장을 싫어합니다.",
+    "context": "EN :\nI… dislike sentences that lack a subject.\nJP :\n僕は…主語が抜けた文章は嫌いです。"
+  },
+  {
+    "key": "61-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "61-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "61-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "61-content",
+    "original": "저 식당이 문을 다시 열면 우리 가게의 손님이 빠져나갈 겁니다... 그럼 할당량을 못 채우게 될 거고…",
+    "context": "EN :\nOnce that restaurant reopens, we’ll lose our customers… Then I’ll miss the quota, and…\nJP :\nあの食堂が再び開けばうちの店の客が抜けていくでしょう…そうするとノルマを達成できなくなるでしょうし…。"
+  },
+  {
+    "key": "62-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "62-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "62-title",
+    "original": "K사 식량자원개량부?",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development?\nJP :\nK社 食糧資源改良部？"
+  },
+  {
+    "key": "62-content",
+    "original": "훔친 레시피를 개념소각기에 넣었을 때부터 살아남을 궁리를 해두셨어야죠.",
+    "context": "EN :\nYou should have started looking for a way to live the moment you put the stolen recipe in a concept incinerator.\nJP :\n盗んだレシピを概念焼却機に入れた時から生き残る術を探しておくべきでしたね。"
+  },
+  {
+    "key": "63-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "63-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "63-title",
+    "original": "K사 식량자원개량부?",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development?\nJP :\nK社 食糧資源改良部？"
+  },
+  {
+    "key": "63-content",
+    "original": "도둑질을 하려 거든 집 주인도 못 알아채게 해라, 이 속담도 모르십니까?",
+    "context": "EN :\nHaven’t you ever heard the saying: “If you rob a house, make sure the homeowner never realizes it”?\nJP :\n「盗みをするなら家主にも気づかれないようやれ」って格言、聞いたことないですか？"
+  },
+  {
+    "key": "64-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "64-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "64-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "64-content",
+    "original": "그… 그런 건 모르는데… 모른…",
+    "context": "EN :\nI… I don’t know anything about… I didn’t…\nJP :\nそ…そんなもの知らないんですけど…知ら…。"
+  },
+  {
+    "key": "65-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "65-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "65-title",
+    "original": "K사 식량자원개량부?",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development?\nJP :\nK社 食糧資源改良部？"
+  },
+  {
+    "key": "65-content",
+    "original": "네, 제가 방금 만들어낸 말이거든요. 다음부턴 기억하세요.",
+    "context": "EN :\nYes, of course you wouldn’t; I just made that up. Remember it well next time.\nJP :\nはい、私がさっき作り出した言葉なんですよね。次から覚えといてください。"
+  },
+  {
+    "key": "66-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "66-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "66-title",
+    "original": "K사 식량자원개량부?",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development?\nJP :\nK社 食糧資源改良部？"
+  },
+  {
+    "key": "66-content",
+    "original": "그럼 이만. ",
+    "context": "EN :\nI’ll see you around.\nJP :\nでは、これで。"
+  },
+  {
+    "key": "67-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "67-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "67-title",
+    "original": "K사 식량자원개량부?",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development?\nJP :\nK社 食糧資源改良部？"
+  },
+  {
+    "key": "67-content",
+    "original": "손님들 맞을 준비를 해야 해서요.",
+    "context": "EN :\nI have visitors that need greeting.\nJP :\n客を迎える準備をしなければなりませんので。"
+  },
+  {
+    "key": "68-content",
+    "original": "우리는 곧바로 전례 없이 커다란 사건에 휘말리게 된다…",
+    "context": "EN :\nAnd before long, we were dragged into a mess of unprecedented scale…\nJP :\n私たちはもうじき前触れも無く、大きな事件に巻き込まれることになる…。"
+  }
+]

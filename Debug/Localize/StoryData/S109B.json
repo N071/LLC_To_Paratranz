@@ -1,0 +1,523 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "0-content",
+    "original": "도착했다. 역시 카론은 길을 알았던 거야.",
+    "context": "EN :\nWe’re here. Charon knew the way all along.\nJP :\n着いた。やっぱりカロンは道を知ってたんだ。"
+  },
+  {
+    "key": "1-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "1-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "1-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "1-content",
+    "original": "역시는 무슨 역시예요?! 저랑 싱클레어 씨가 양쪽에서 얼마나 고생했는데.",
+    "context": "EN :\nNo, no you didn’t! Sinclair and I had to steer you from both sides nonstop.\nJP :\nやっぱりって何がやっぱりなんですか！？\n私とシンクレアさんが両サイドでどれだけ苦労したと……。"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "그래도 이제 동남쪽과 동북쪽을 구분할 수 있어서 다행이에요, 카론.",
+    "context": "EN :\nI’m glad that at least you learned to tell the difference between southeast and northeast, Charon.\nJP :\nそれでもやっと東南と東北が区別つくようになって良かったです、カロン。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<이게… 옛 L 사인가?>",
+    "context": "EN :\n<So this is… the old L Corp?>\nJP :\n<これが…旧L社なのか？>"
+  },
+  {
+    "key": "4-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "4-content",
+    "original": "저도 직접 보는 건 처음이네요… ‘그 일’이 있고 나서 시간이 오래 지나진 않았을 텐데요.",
+    "context": "EN :\nThis is my first time seeing it with my own eyes, too… It can’t have been long since ‘that’ happened.\nJP :\n私も直接見るのは初めてですね…。\n「あのこと」があってからそこまで経ってないはずなんですけどね。"
+  },
+  {
+    "key": "5-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "5-content",
+    "original": "세상에… 어떻게 건물이 이 모양일 수가 있죠?",
+    "context": "EN :\nMy goodness… How can a building be in such a derelict state?\nJP :\nそんな…どうやったら建物がこんな様子になるんですか？"
+  },
+  {
+    "key": "6-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "6-content",
+    "original": "하, 부잣집 도련님한테는 익숙하지 못한 광경인가 보군.",
+    "context": "EN :\nHah, this is a surprising scene for our rich boy, is it.\nJP :\nはっ、金持ちのボンボンには見慣れねー光景みてぇだな。"
+  },
+  {
+    "key": "7-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "7-content",
+    "original": "잡담은 그만. 하차한다.",
+    "context": "EN :\nCut the chatter. Time to step off.\nJP :\nお喋りはそこまで。下車する。"
+  },
+  {
+    "key": "10-place",
+    "original": "4구 로보토미 지부 앞",
+    "context": "EN :\nDistrict 4 - LC Branch Entrance\nJP :\n4区 ロボトミー支部前"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<엥, 웬 처음 보는 사람들이…>",
+    "context": "EN :\n<Huh, there are people over there…>\nJP :\n<ありゃ、なんで知らない人たちが…。>"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "유리씨와 같은 사무소의 해결사분들이에요.",
+    "context": "EN :\nThey’re Fixers from the same Office as Miss Yuri.\nJP :\nユーリさんと同じ事務所のフィクサーさんたちです。"
+  },
+  {
+    "key": "12-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-content",
+    "original": "L사 지부에 이미 몇 번이나 방문한 적이 있는 경험자들이죠.",
+    "context": "EN :\nThey’re experienced explorers who have visited the branches of L Corp. a number of times.\nJP :\nL社支部にも既に何度か訪問したことのある経験者です。"
+  },
+  {
+    "key": "13-model",
+    "original": "베르길리우스2",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "13-teller",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "13-title",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "13-content",
+    "original": "인사하지. 왼쪽에 있는 분은 홉킨스 씨, 그리고 오른쪽에 계시는 분이 아야 씨다.",
+    "context": "EN :\nGive your greetings. The person on the left is Hopkins, and the one on the right is Aya.\nJP :\n挨拶しようか。左側にいる方はホプキンスさん、そして右側の方がアヤさんだ。"
+  },
+  {
+    "key": "14-model",
+    "original": "아야",
+    "translation": "阿雅",
+    "context": "EN :\nleft\nJP :\naya"
+  },
+  {
+    "key": "14-teller",
+    "original": "아야",
+    "context": "EN :\nAya\nJP :\nアヤ"
+  },
+  {
+    "key": "14-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "14-content",
+    "original": "안녕하십니까~",
+    "context": "EN :\nGreetings~\nJP :\nこんにちは～。"
+  },
+  {
+    "key": "15-model",
+    "original": "홉킨스",
+    "translation": "霍普金斯",
+    "context": "EN :\nleft\nJP :\nhopkins"
+  },
+  {
+    "key": "15-teller",
+    "original": "홉킨스",
+    "context": "EN :\nHopkins\nJP :\nホプキンス"
+  },
+  {
+    "key": "15-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "15-content",
+    "original": "부…부….부…",
+    "context": "EN :\nTh… The… The—\nJP :\nあ…あ…。あ…。"
+  },
+  {
+    "key": "16-model",
+    "original": "홉킨스",
+    "translation": "霍普金斯",
+    "context": "EN :\nleft\nJP :\nhopkins"
+  },
+  {
+    "key": "16-teller",
+    "original": "홉킨스",
+    "context": "EN :\nHopkins\nJP :\nホプキンス"
+  },
+  {
+    "key": "16-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "16-content",
+    "original": "붉은시선님! 직접 만나 뵐 수 있어서 저, 정말 영광입니다…! 소문으로만 익히 들어왔었는데 이렇게 직접…",
+    "context": "EN :\nThe Red Gaze! It’s—it’s such an honor to meet you…! I’ve heard so many stories of your deeds, and to see you in person…\nJP :\n赤い視線様！お会いできてほ、本当に光栄です…！\n噂では何度も聞いてきましたがこうやって直接…。"
+  },
+  {
+    "key": "17-model",
+    "original": "베르길리우스2",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "17-teller",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "17-title",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "17-content",
+    "original": "아아.",
+    "context": "EN :\nMyeah.\nJP :\nあぁ。"
+  },
+  {
+    "key": "18-model",
+    "original": "베르길리우스2",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "18-teller",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "18-title",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "18-content",
+    "original": "저 앞에 허름한 창고, 보이지? 안쪽에 지하로 내려가는 계단이 있다.",
+    "context": "EN :\nSee the shabby warehouse there? That’s where the stairs leading down to the branch facility are.\nJP :\nあそこの古びた倉庫、見えるな？中に地下へ下りられる階段がある。"
+  },
+  {
+    "key": "19-model",
+    "original": "베르길리우스2",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "19-teller",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "19-title",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "19-content",
+    "original": "계단부터는 여기, 유리 씨가 맡을 거고.",
+    "context": "EN :\nFrom there, Yuri here will be your guide.\nJP :\n階段からはこっちの、ユーリさんが担当することになる。"
+  },
+  {
+    "key": "20-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "20-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "20-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "20-content",
+    "original": "…네.",
+    "context": "EN :\n…Yeah.\nJP :\n…はい。"
+  },
+  {
+    "key": "21-model",
+    "original": "베르길리우스2",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "21-teller",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "21-title",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "21-content",
+    "original": "여기 해결사분들도 경력직이니, 돌발 상황에는 잘 대처해줄 거야.",
+    "context": "EN :\nThese Fixers have been around a bit. Count on them to handle complications.\nJP :\nこっちのフィクサーさんたちもキャリアがあるから、\n突発的な状況にも上手いこと対応してくれるはずだ。"
+  },
+  {
+    "key": "22-model",
+    "original": "베르길리우스2",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "22-teller",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "22-title",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "22-content",
+    "original": "이만하면 되었겠지? 내 동행은 여기까지다. 버스에서 너희들을 기다리고 있겠어.",
+    "context": "EN :\nThat should be enough, yeah? This is as far as I can accompany you. I’ll be waiting back at the bus.\nJP :\nこれくらいで良いよな？私の同行はここまでだ。バスでお前たちを待っている。"
+  },
+  {
+    "key": "23-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "23-content",
+    "original": "<엥? 갑자기?>",
+    "context": "EN :\n<Huh? Wait, what?>\nJP :\n<あれ？そんな急に？>"
+  },
+  {
+    "key": "24-model",
+    "original": "베르길리우스2",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "24-teller",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "24-title",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "24-content",
+    "original": "언제 까지고 뒷바라지를 해주고 있을 거라 생각했다면 큰 오산입니다, 단테.",
+    "context": "EN :\nYou’re sorely mistaken if you expect me to babysit you forever, Dante.\nJP :\nいつまでも面倒を見てもらえると思っているのであれば\nそれは大きな誤算でございます、ダンテ。"
+  },
+  {
+    "key": "25-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "25-content",
+    "original": "혼자서 발 뻗고 쉬고 있겠다는 건가?",
+    "context": "EN :\nSo you’ll take a back seat and idle away all alone?\nJP :\n一人で足を伸ばして休んでいるということか？"
+  },
+  {
+    "key": "26-model",
+    "original": "베르길리우스2",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "26-teller",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "26-title",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "26-content",
+    "original": "애당초 내가 동행하면 너희들은 관광하러 내려가는 거나 다를 바가 없지 않겠나?",
+    "context": "EN :\nIf I get myself involved, the expedition would be a little too free of challenge, wouldn’t it? It’d turn into more of a tour.\nJP :\nそもそも私が同行してしまうと、\nお前たちにとっては観光に行くのとそう変わらないんじゃないか？"
+  },
+  {
+    "key": "27-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "27-content",
+    "original": "…한마디로 실컷 쥐어 터지고 썰리고 오라는 거군.",
+    "context": "EN :\n…In other words, you want us to come back red, black, and blue.\nJP :\n…ひとことで言うと、ギッタギタのメッタメタにされて来いってことか。"
+  },
+  {
+    "key": "28-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "28-content",
+    "original": "보통 저렇게 말하면 항상 다른 꿍꿍이가 있던데…",
+    "context": "EN :\nThat’s the kind of line people with ulterior motives say…\nJP :\nああいう風に言うときに限って、絶対なにか別の思惑があると思うんですけど…。"
+  },
+  {
+    "key": "29-model",
+    "original": "베르길리우스2",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "29-teller",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "29-title",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "29-content",
+    "original": "편한 대로 생각해.",
+    "context": "EN :\nThink whatever you want.\nJP :\n勝手にそう思ってろ。"
+  },
+  {
+    "key": "30-model",
+    "original": "베르길리우스2",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "30-teller",
+    "original": "베르길리우스",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "30-title",
+    "original": "길잡이",
+    "context": "EN :\nGuide\nJP :\n案内人"
+  },
+  {
+    "key": "30-content",
+    "original": "특별히 가이드분까지 붙여줬으니, 잘 해내고 오라고.",
+    "context": "EN :\nI’ve gotten you guides and everything, so do your best down there.\nJP :\n特別にガイドさんまで付けたんだし、やり遂げてこい。"
+  },
+  {
+    "key": "31-model",
+    "original": "홉킨스",
+    "translation": "霍普金斯",
+    "context": "EN :\nleft\nJP :\nhopkins"
+  },
+  {
+    "key": "31-teller",
+    "original": "홉킨스",
+    "context": "EN :\nHopkins\nJP :\nホプキンス"
+  },
+  {
+    "key": "31-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "31-content",
+    "original": "넵! 잘 해내고 오겠습니다! 붉은시선님!",
+    "context": "EN :\nYes! I certainly won’t disappoint you, Mister Red Gaze!\nJP :\nはい！上手いことやり遂げてきます！赤い視線様！"
+  },
+  {
+    "key": "32-model",
+    "original": "아야",
+    "translation": "阿雅",
+    "context": "EN :\nleft\nJP :\naya"
+  },
+  {
+    "key": "32-teller",
+    "original": "아야",
+    "context": "EN :\nAya\nJP :\nアヤ"
+  },
+  {
+    "key": "32-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "32-content",
+    "original": "최선을 다해보긴 할게요~",
+    "context": "EN :\nI’ll try my best, I think~\nJP :\nベストを尽くしてはみますね～。"
+  }
+]

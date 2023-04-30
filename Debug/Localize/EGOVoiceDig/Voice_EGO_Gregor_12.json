@@ -1,0 +1,52 @@
+[
+  {
+    "key": "battle_awaken_21201_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_21201_1-dlg",
+    "original": "내 팔은… 변해있었어.",
+    "context": "EN :\nMy arm… had changed.\nJP :\n俺の腕は…変貌していた。"
+  },
+  {
+    "key": "battle_awaken_21202_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_21202_1-dlg",
+    "original": "이봐. 버틸 자신 있어?",
+    "context": "EN :\nListen, you sure you can stand after this?\nJP :\nおい。耐えられる自信はあるのか？"
+  },
+  {
+    "key": "battle_erosion_21202_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_21202_1-dlg",
+    "original": " 같이… 썩어가는 거야.",
+    "context": "EN :\nTogether… we are in rot.\nJP :\n一緒に…腐っていくんだ。"
+  },
+  {
+    "key": "battle_awaken_21203_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_21203_1-dlg",
+    "original": "동화 하나 읽어줄까?",
+    "context": "EN :\nHow’s about I read you a tale?\nJP :\n童話の一つでも読んでやろうか？"
+  },
+  {
+    "key": "battle_erosion_21203_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_21203_1-dlg",
+    "original": " 이미 모두가… 홀려버렸어. ",
+    "context": "EN :\nToo late… They’ve all been captivated.\nJP :\n皆がもう…虜になっちまった。"
+  }
+]

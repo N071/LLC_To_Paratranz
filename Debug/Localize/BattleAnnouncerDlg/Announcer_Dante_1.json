@@ -1,0 +1,147 @@
+[
+  {
+    "key": "announcer_cheer_1_1-dlg",
+    "original": "너무 시계만 믿지 말고 살살 싸워줘… 알았지?",
+    "context": "EN :\nMy clock isn’t a magic cure-all for your problems… Don’t just charge in willy-nilly, okay?\nJP :\nあんまり時計頼みにしないで丁寧に戦ってくれ…いいな？"
+  },
+  {
+    "key": "announcer_cheer_1_2-dlg",
+    "original": "몸 너무 함부로 다루지 마. 아, 아니… 너무 걱정되니까 그러는 거지.",
+    "context": "EN :\nTry to be a bit more careful with your health. No, I—I mean… I’m just worried for you is all.\nJP :\n身体を雑に扱うな。い、いや…心配だから言ってるんだ。"
+  },
+  {
+    "key": "announcer_specialcheer_1_1-dlg",
+    "original": "어… 너희 많이 다친거 아니야? 나 슬슬 마음의 준비 한다?",
+    "context": "EN :\nUhh… Aren’t you injured pretty bad? Should I start preparing myself?\nJP :\nえ…君たち結構傷付いてない？そろそろ心の準備するよ？"
+  },
+  {
+    "key": "announcer_specialcheer_1_2-dlg",
+    "original": "혹시 다들 내 능력만 믿고 막나가는 거 아니야? 좀 추스리면서 싸워줘.",
+    "context": "EN :\nYou aren’t just charging face-first into danger since I can fix you up, right? Don’t get too reckless.\nJP :\nもしかしてみんな私の能力アテにして突っ込んでない？ちょっとは落ち着いて戦ってよ。"
+  },
+  {
+    "key": "announcer_enemy_break_1_1-dlg",
+    "original": "적들이 흐트러졌어. 안심하고 공격해.",
+    "context": "EN :\nThe enemy is staggered. It’s safe to attack.\nJP :\n敵たちが混乱した。安心して攻撃しろ。"
+  },
+  {
+    "key": "announcer_ally_break_1_1-dlg",
+    "original": "너희 이제 얻어맞을 준비 해야 될 것 같은데…",
+    "context": "EN :\nOh no, you’re in for a nasty beating…\nJP :\nお前たち、そろそろ殴られる準備をした方が良いんじゃないか…。"
+  },
+  {
+    "key": "announcer_killenemy_1_1-dlg",
+    "original": "좋아. 수감자가 적을 처치했어. 이 기세로 가보자.",
+    "context": "EN :\nGood, a Sinner has taken down a foe. Let’s keep this up.\nJP :\nよし。囚人が敵を倒した。この勢いで行こう。"
+  },
+  {
+    "key": "announcer_ally_dead_1_1-dlg",
+    "original": "수감자가 죽었어. 물론 내가 살릴 순 있지만…",
+    "context": "EN :\nA Sinner just died. I can bring them back later, at least…\nJP :\n囚人が死んだ。勿論私が蘇生することは出来るけど…。"
+  },
+  {
+    "key": "announcer_enemy_adv_1_1-dlg",
+    "original": "아마 이대로 가면 적들이 승리할 걸. 그럼 난 또 시계를 돌려야 겠지.",
+    "context": "EN :\nThe enemy will win at this rate. When that happens, I’ll have to turn my clock again.\nJP :\nこのまま行けば敵が勝利するだろう。そうなると私がまた時計を回さなきゃな。"
+  },
+  {
+    "key": "announcer_ally_adv_1_1-dlg",
+    "original": "우리가 유리해보이는데? 이대로만 가보자.",
+    "context": "EN :\nLooks like things are in our favor? Let’s keep it going.\nJP :\n私たちが有利そうだな？このままいこう。"
+  },
+  {
+    "key": "announcer_danger_1_1-dlg",
+    "original": "지금 매우 중요한 상황 같은데? 올바른 판단을 해줄 거라 믿어.",
+    "context": "EN :\nThis looks like a critical moment, doesn’t it? I’m counting on you to make the right move.\nJP :\n今すっごく重要な状況っぽいな？正しい判断をしてくれるって信じてる。"
+  },
+  {
+    "key": "announcer_enemy_specialskill_1_1-dlg",
+    "original": "내 생각에 앞으로 적들이 안 좋은 일을 벌일 것 같거든? 다들 대비해 줄거지?",
+    "context": "EN :\nI have the feeling our enemies are about to do something real bad. Brace yourselves, alright?\nJP :\nこの先、敵が良からぬことを引き起こしそうなんだよな？みんな準備は出来てるよね？"
+  },
+  {
+    "key": "announcer_enemy_specialgimmick_1_1-dlg",
+    "original": "곧 심상치 않은 일이 벌어질 것 같은데… 나만 불길한 거야?",
+    "context": "EN :\nIs it just me, or… is something sinister approaching?\nJP :\nそろそろとてつもないことが起こりそうな気がするんだけど…。不吉な感じがするのってもしかして私だけ？"
+  },
+  {
+    "key": "announcer_advatk_physical_1_1-dlg",
+    "original": "방금 좋았어. 우리 쪽 공격이 진짜 잘 들어간 것 같았거든.",
+    "context": "EN :\nGood work there. I could tell you dealt a hard blow.\nJP :\nさっきの良かったよ。こっちサイドの攻撃が良い感じに入った感じがするな。"
+  },
+  {
+    "key": "announcer_disadvatk_physical_1_1-dlg",
+    "original": "아깝네. 우리 공격이 완전히 먹히진 않은 것 같아.",
+    "context": "EN :\nThat’s a shame. Our attack didn’t seem to land that well.\nJP :\n惜しいなぁ。こっちサイドの攻撃が完全に通じたわけじゃなさそう。"
+  },
+  {
+    "key": "announcer_advatk_attr_1_1-dlg",
+    "original": "적들에게 죄가 잘 파고들어간 것 같아. 이대로만 하자.",
+    "context": "EN :\nLooks like that Sin was rather effective. We’ve got this.\nJP :\n敵に罪が良い感じに刺さってるみたいだ。このまま行こう。"
+  },
+  {
+    "key": "announcer_disadvatk_attr_1_1-dlg",
+    "original": "어… 방금은 죄가 잘 먹히지 않은 것 같았어. 다음을 잘 노려보자.",
+    "context": "EN :\nOh… That Sin wasn’t very effective. We’ll do better next time.\nJP :\nあぁ…さっきは罪が上手い感じに刺さらなかったみたいだ。次のチャンスを伺おう。"
+  },
+  {
+    "key": "announcer_enemy_specialbuff_1_1-dlg",
+    "original": "적들이 뭔가 유리한 술수를 쓰는 것 같은데? 주의해야 할 것 같아.",
+    "context": "EN :\nI think they’re up to some trickery, maybe? You should watch out.\nJP :\nなんだか、敵が有利になる術を使ってるみたいだな？注意しないと。"
+  },
+  {
+    "key": "announcer_enemy_specialdebuff_1_1-dlg",
+    "original": "적들이 안 좋은 영향을 받고 있는 것 같아. 잘 이용해 보자고.",
+    "context": "EN :\nOur enemies seem to be under the weather. We should take advantage of this.\nJP :\n敵が良くない影響を受けているみたいだ。上手く利用しようか。"
+  },
+  {
+    "key": "announcer_ally_specialbuff_1_1-dlg",
+    "original": "너희들 다 좋은 영향을 받고 있는 중이네. 이대로 열심히 싸워보자.",
+    "context": "EN :\nI see you’re feeling better than usual. Let’s ride this momentum.\nJP :\nお前たちみんな良い影響を受けているみたいだな。このまま頑張ろう。"
+  },
+  {
+    "key": "announcer_ally_specialdebuff_1_1-dlg",
+    "original": "살짝 문제가 생긴 것 같은데, 다들 괜찮은 거야? 사실 괜찮지 않아도 해줄 방법은 없지만...",
+    "context": "EN :\nLooks like there’s been a bit of trouble. Are you alright? Well, not like I can do much to help…\nJP :\nちょっとした問題が起きた気がするけど、みんな大丈夫か？実は大丈夫じゃなかったとしても、大丈夫になれる方法はないけど…。"
+  },
+  {
+    "key": "announcer_enemy_destroy_1_1-dlg",
+    "original": "좋았어, 적 부위 하나가 파괴되었어. 나머지 부위도 계속 노려보자.",
+    "context": "EN :\nWell done, we got one of the parts. Let’s deal with the rest like this.\nJP :\nよし、敵の部位が一つ壊れた。残りの部位もこの調子でいこう。"
+  },
+  {
+    "key": "announcer_enemy_destroy_1_2-dlg",
+    "original": "적 부위가 파괴되었네. 조금만 더 힘내보자.",
+    "context": "EN :\nYou broke one of the enemy’s parts. We can do this.\nJP :\n敵の部位が破壊されたね。あともうちょっとだけ頑張ろう。"
+  },
+  {
+    "key": "announcer_round_takebigdmg_1_1-dlg",
+    "original": "누군가 심각한 피해를 입은 것 같은데?",
+    "context": "EN :\nSomeone got seriously hurt, didn’t they?\nJP :\n誰か、酷いダメージを受けてないか？"
+  },
+  {
+    "key": "announcer_round_takebigdmg_1_2-dlg",
+    "original": "누군가의 인격이 심각하게 손상되었어.",
+    "context": "EN :\nAn Identity has sustained severe damage.\nJP :\n誰かの人格が酷く傷付いてるね。"
+  },
+  {
+    "key": "announcer_round_takebigdmg_1_3-dlg",
+    "original": "방금 일격 진짜 좋았어. 계속 이렇게만 해주면 안되나?",
+    "context": "EN :\nThat was great work you did there. Keep it rolling, will you?\nJP :\nさっきの一発、本当に良かったよ。ずっとこういう風にやってくれない？"
+  },
+  {
+    "key": "announcer_round_takebigdmg_1_4-dlg",
+    "original": "아까처럼만 해줘. 강력한 일격 할 수 있지?",
+    "context": "EN :\nDo again what you just did. You’ve another crushing blow in you, right?\nJP :\nさっきみたいなのがずっと続くと嬉しいんだけどな。強烈な一撃、ぶちかませるだろ？"
+  },
+  {
+    "key": "announcer_multikillenemy_1_1-dlg",
+    "original": "수감자 중 하나가 적들을 여러 명 죽였어. 돌아오면 내가 칭찬해줄게.",
+    "context": "EN :\nA Sinner just took down multiple foes at once. I owe you some praise.\nJP :\n囚人が一人で敵を複数体倒したね。帰ってきたら褒めてあげるよ。"
+  },
+  {
+    "key": "announcer_equip_1_1-dlg",
+    "original": "맨날 봐서 질리는 얼굴이겠지만… 내가 왔어.",
+    "context": "EN :\nI know it’s the same tired old face for you… but here I am.\nJP :\n毎日会ってもう飽きた顔だろうけど…私だよ。"
+  }
+]

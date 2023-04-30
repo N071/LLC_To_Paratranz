@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11002_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11002_1-dlg",
+    "original": "제가… 무엇을 베면 되는 거죠?",
+    "context": "EN :\nTell me… What do I need to cut?\nJP :\n僕は…何を斬れば良いんですか？"
+  },
+  {
+    "key": "lobby_morning_11002_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11002_1-dlg",
+    "original": "아침 공기를 맞으면서 칼을 휘두를 때가 제일 상쾌하죠.",
+    "context": "EN :\nThere’s nothing refreshing like swinging my sword through the morning air.\nJP :\n朝の空気を浴びながら刀を振るとき、一番爽やかな気分になりますね。"
+  },
+  {
+    "key": "lobby_noon_11002_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11002_1-dlg",
+    "original": "관리자님은 점심을 누구랑 드시나요? 어… 저는 보통 혼자 먹어요. 그게 편하더라고요.",
+    "context": "EN :\nManager, who do you usually have your lunch with? Um… As for me, I tend to eat alone. I’m more comfortable that way.\nJP :\n管理人さんは昼食を誰と摂りますか？あ…僕は普段一人で食べます。それが楽なんですよね。"
+  },
+  {
+    "key": "lobby_night_11002_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11002_1-dlg",
+    "original": "어둡네요. 달을 베어낼 수 있다면 하늘이 더 밝아질 텐데. …아 농담이에요.",
+    "context": "EN :\nIt’s dark out. The sky would be brighter if I could cut out the moon. …I’m kidding, of course.\nJP :\n暗いですね。月を斬れたら空がもっと明るくなるだろうけど。…あぁ、冗談です。"
+  },
+  {
+    "key": "smalltalk_11002_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11002_1-dlg",
+    "original": "관리자님은 지금 하고 있는 일에 만족하나요? 보람을 느끼시나요?",
+    "context": "EN :\nAre you satisfied with what you’re doing, Manager? Is your job fulfilling?\nJP :\n管理人さんは今の仕事に満足していますか？やりがいを感じていますか？"
+  },
+  {
+    "key": "smalltalk_11002_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11002_2-dlg",
+    "original": "아, 관리자님! 경계를 서고 있는 중이었어요. 같이요…? 음… 네! 그래요.",
+    "context": "EN :\nOh, hi, Manager! I was just standing guard. You’ll join me…? Mmm… Sure! Go ahead.\nJP :\nあ、管理人さん！警備していました。一緒に…ですか？う～ん…はい！そうしましょう。"
+  },
+  {
+    "key": "smalltalk_11002_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11002_3-dlg",
+    "original": "로쟈 씨가 부러워요. 뭐든 깊게 생각 안 하시고 마음 가는 대로 하시잖아요. 전 그게 옛날부터 안됐어요.",
+    "context": "EN :\nI envy Ms. Rodya. She never thinks too deeply and has no problem following her heart. It’s something I could never do.\nJP :\nロージャさんが羨ましいです。なんであれ深く考えず、心の赴くままに行動してるじゃないですか。僕は昔からそれができなかったんですよ。"
+  },
+  {
+    "key": "smalltalk_11002_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11002_4-dlg",
+    "original": "검을 쓸 땐 어떤 망설임도 없어야 한대요. 하지만 전 끊임없이 되물어요… 누군가의 목숨을 그렇게 쉽게 베어내도 괜찮은지…",
+    "context": "EN :\nI was taught that you should show no hesitation when you wield a sword. But I can’t help but keep questioning myself… asking if it’s really okay to take others’ lives so easily…\nJP :\n剣を使うときにはいかなる躊躇もあってはいけないらしいです。でも僕は絶えず自問自答するんです…。誰かの命をそんな簡単に斬り捨ててもいいのかって…。"
+  },
+  {
+    "key": "smalltalk_11002_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11002_5-dlg",
+    "original": "하지만 막상 사람을 베어낼 땐… 저도 모르게 희열을 느끼곤 했어요. 이게 저 라는 사람의 본질이었나 봐요.",
+    "context": "EN :\nHowever, when I actually cut someone down… I would get such a rush. I guess that’s my nature.\nJP :\nでもいざ人を斬るときは…僕も知らないうちに喜悦を感じていました。これが僕という人間の本質だったみたいです。"
+  },
+  {
+    "key": "neglect_11002_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11002_1-dlg",
+    "original": "어? 관리자님 어디 가셨지? 혹시 새로운 장난 같은 건가요?",
+    "context": "EN :\nHuh? Manager, where did you go? Is this some kind of prank?\nJP :\nあれ？管理人さんどこに行ったんだろ？もしかして新しい悪戯とかですか？"
+  },
+  {
+    "key": "gacksung_11002_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11002_1-dlg",
+    "original": "더 날카로운 검이 되겠습니다.",
+    "context": "EN :\nI’ll become a sharper blade.\nJP :\nより鋭い剣になります。"
+  },
+  {
+    "key": "formation_11002_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11002_1-dlg",
+    "original": "망설임 없이.",
+    "context": "EN :\nWithout hesitation.\nJP :\n躊躇無く。"
+  },
+  {
+    "key": "battleentry_11002_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11002_1-dlg",
+    "original": "벼릴 수 있는 기회겠죠…?",
+    "context": "EN :\nThis will help me hone my edge, right…?\nJP :\n研鑽できるチャンスでしょうね…？"
+  },
+  {
+    "key": "battle_select_11002_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11002_1-dlg",
+    "original": "제 검을 믿어주세요…",
+    "context": "EN :\nPlease trust my blade…\nJP :\n僕の剣を信じてください…。"
+  },
+  {
+    "key": "battle_endcommand_11002_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11002_1-dlg",
+    "original": "망설임이 없도록…!",
+    "context": "EN :\nI won’t hesitate…!\nJP :\n躊躇無きように…！"
+  },
+  {
+    "key": "battle_enemy_break_11002_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11002_1-dlg",
+    "original": "다음번에는 벨 수 있겠죠?",
+    "context": "EN :\nI’ll be able to cut them down next, right?\nJP :\n次は斬れますよね？"
+  },
+  {
+    "key": "battle_break_11002_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11002_1-dlg",
+    "original": "으…!",
+    "context": "EN :\nHng…!\nJP :\nうっ…！"
+  },
+  {
+    "key": "battle_kill_11002_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11002_1-dlg",
+    "original": "베어냈어요!",
+    "context": "EN :\nI slew them!\nJP :\n斬れました！"
+  },
+  {
+    "key": "battle_allydead_11002_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_11002_1-dlg",
+    "original": "이런 장난은 싫어…",
+    "context": "EN :\nDon’t joke with me like this…\nJP :\nこんな冗談は嫌いだ…。"
+  },
+  {
+    "key": "choice_success_p_11002_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11002_1-dlg",
+    "original": "단테 씨는 망설임이 없군요!",
+    "context": "EN :\nYou have no hesitation!\nJP :\nダンテさんは躊躇無いんですね！"
+  },
+  {
+    "key": "choice_fail_n_11002_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11002_1-dlg",
+    "original": "생각지도 못한 일이에요…",
+    "context": "EN :\nThis was inconceivable…\nJP :\n予想だにしませんでした…。"
+  },
+  {
+    "key": "battle_clear_11002_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11002_1-dlg",
+    "original": "조금 불안했는데… 무사히 끝나게 되어서 다행이에요.",
+    "context": "EN :\nI was a little nervous… but it’s nice to see that it ended well.\nJP :\nちょっと不安だったんですけど…無事終わって良かったです。"
+  },
+  {
+    "key": "battle_clear_ex_11002_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11002_1-dlg",
+    "original": "누군가를 베는 건… 생각보다 희열이 느껴지는 일이었군요. ",
+    "context": "EN :\nTo slay others… was more delightful than I thought.\nJP :\n誰かを斬ることは…思っていたより喜悦を感じることなんですね。"
+  },
+  {
+    "key": "battle_defeat_11002_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11002_1-dlg",
+    "original": "결정적인 순간에 망설였어요. 제 탓이에요…",
+    "context": "EN :\nI let my reluctance hold me back when it mattered most. It’s my fault.\nJP :\n決定的な瞬間に躊躇しました。僕のせいです…。"
+  }
+]

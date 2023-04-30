@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10904_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10904_1-dlg",
+    "original": "드디어, 저를 쓰시는군요…! 우훗, 후회하지 않으실 겁니다.",
+    "context": "EN :\nYou’ve decided to use me at last…! Ufu, you certainly won’t regret it.\nJP :\nやっと、私をお使いになるのですね…！うふっ、後悔はさせません。"
+  },
+  {
+    "key": "lobby_morning_10904_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10904_1-dlg",
+    "original": "쥐는 자께서 하시는 아침연설은 언제나 최고입니다… 당신도 듣겠어요?",
+    "context": "EN :\nThe morning sermons given by the One Who Grips never fail to fascinate me… Would you like to hear some, too?\nJP :\n握る者の朝の演説は、いつであれ最高です…あなたも聞きますか？"
+  },
+  {
+    "key": "lobby_noon_10904_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10904_1-dlg",
+    "original": "식사는 맛있게 하셨나요? 저요? 저는, 가장 순수한 상태를 만들기 위해 단식을 수행하는 중이죠.",
+    "context": "EN :\nHave you enjoyed your meal? Oh, me? For myself, I am fasting to attain my purest state.\nJP :\n食事は楽しめましたか？私ですか？私は、最も純粋な状態を作るために断食を遂行しています。"
+  },
+  {
+    "key": "lobby_night_10904_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10904_1-dlg",
+    "original": "오늘 정화할 지역은… 아, 당신이군요? 오늘은 정화가 있는 날이라 좀 바빠요. 다음에 이야기하죠. 후후.",
+    "context": "EN :\nLet’s see, the area to purify today is… Oh, you’re here. I’m rather busy tonight. Got some purification to do, you see, so let’s talk later. Fuhu.\nJP :\n今日の浄化地域は…あぁ、あなたですね？今日は浄化がある日なのでちょっと忙しいんです。また次にお話ししましょう、ふふ。"
+  },
+  {
+    "key": "smalltalk_10904_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10904_1-dlg",
+    "original": "쥐는 자… 쥐는 자께서 그것을 원하므로…",
+    "context": "EN :\nO One Who Grips… For the One Who Grips so desires it…\nJP :\n握る者…握る者はそれをご所望である…。"
+  },
+  {
+    "key": "smalltalk_10904_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10904_2-dlg",
+    "original": "의체… 그런걸 왜 다는지 모르겠네요. 팔이 잘린 사람은 어떡하냐고요? 푸흣, 그야 잘려나갔다면 그 순간의 고통을 즐겨야지, 뒷일을 왜 걱정하나요?",
+    "context": "EN :\nProsthetics… I dunno why anyone would slap on such things. “What should someone whose arm got lopped off do, then?” Pfh, I mean, can’t you just savor the pain of the moment? Why worry about what comes after?\nJP :\n義体…そんなものをどうして付けるのか理解できませんね。腕か切られた人はどうするべきかって？ぷふっ、そりゃぁ切られたのなら、その瞬間の苦痛を楽しまなきゃ、どうして後のことを心配するんですか？"
+  },
+  {
+    "key": "smalltalk_10904_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10904_3-dlg",
+    "original": "저는 중간 망치가 된 지 얼마 안 되었답니다. 작은 것들 중에서 가장 신앙심이 뛰어나서 그렇게 된 것이죠! 후훗, 스스로가 너무 자랑스러워요…",
+    "context": "EN :\nI became a Mittelhammer pretty recently. I earned it for being the most faithful among all the little Klein ones! Fuhu, I am so dang proud of myself…\nJP :\n私は中鎚になってからそこまで経ってないんですよ。小さき者たちの中で最も信仰心が優れていたのでこうなったんですよね！ふふっ、我ながらとても誇らしいです…。"
+  },
+  {
+    "key": "smalltalk_10904_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10904_4-dlg",
+    "original": "당신… 당신도 이단인가요? 그 시계는… 아, 가면이라구요? 아하하, 나 참… 큰일날 뻔했잖아요. 이제 조금 친해졌는데, 못에 꿰어버릴 뻔했잖아요.",
+    "context": "EN :\nYou… Are you a heretic? That clock— Oh, just a mask? Ahaha, got it… This could’ve been a real mess. I was this close to piercing my new acquaintance with a nail.\nJP :\nあなた…あなたも異端なんですか？その時計は…あぁ、仮面なんですか？あはは、私ってば…大変なことになるところだったじゃないですか。やっと少し仲良くなったっていうのに、釘で貫いちゃうところだったじゃないですか。"
+  },
+  {
+    "key": "smalltalk_10904_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10904_5-dlg",
+    "original": "후훗, 크흐흣…! 이단놈들을 꿰, 꿰뚫을 수록… 내가 온전해지는 것만 같아…! …흐흠. 언제부터 거기 있었죠? 당신에게 보이기 적절한 모습은 아니었네요.",
+    "context": "EN :\nFuhu, kuhuhu…! With each heretic I p-pierce… I feel myself becoming more and more whole…! …Ahem. How long were you there? That wasn’t exactly appropriate behavior to show you.\nJP :\nふふっ、くふふっ…！異端の奴らをぶ、ぶち抜くほどに…私が完全になってく感じがする…！…うぉっほん。いつからそこにいたんですか？あなたに見せるには不適切な姿でしたね。"
+  },
+  {
+    "key": "neglect_10904_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10904_1-dlg",
+    "original": "…3장 9절. 쥐는 자께서 망치들을 부르시며… 아, 저는 신경쓰지 마세요. 교리를 읽는 중이니.",
+    "context": "EN :\n…In 3:9 it states, “The One Who Grips called their hammers…” Oh, don’t mind me. I’m just studying my doctrines.\nJP :\n…3章9節。握る者が金鎚たちを召集し…あ、私のことは気にしないでください。教理を読んでる最中なので。"
+  },
+  {
+    "key": "gacksung_10904_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10904_1-dlg",
+    "original": "반드시, 반드시! 부름에 보답할 것입니다… 후훗!",
+    "context": "EN :\nI swear, I swear to you! I will return this favor… Fuhu!\nJP :\n必ず、必ず！召集に報いてみせます…ふふっ！"
+  },
+  {
+    "key": "formation_10904_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10904_1-dlg",
+    "original": "기다리고 있었죠.",
+    "context": "EN :\nI have been waiting.\nJP :\n待っていました。"
+  },
+  {
+    "key": "battleentry_10904_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10904_1-dlg",
+    "original": "이단에게… 철의 단죄를.",
+    "context": "EN :\nThe heretics… shall be punished by steel.\nJP :\n異端へ…鉄の断罪を。"
+  },
+  {
+    "key": "battle_select_10904_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10904_1-dlg",
+    "original": "부르셨나요?",
+    "context": "EN :\nDid you call for me?\nJP :\n呼びましたか？"
+  },
+  {
+    "key": "battle_endcommand_10904_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10904_1-dlg",
+    "original": "정화!",
+    "context": "EN :\nPurge!\nJP :\n浄化！"
+  },
+  {
+    "key": "battle_enemy_break_10904_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10904_1-dlg",
+    "original": "이단이 휘청거리는군.",
+    "context": "EN :\nThe heretic falters.\nJP :\n異端がふらついてるな。"
+  },
+  {
+    "key": "battle_break_10904_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10904_1-dlg",
+    "original": "약해빠져서는!",
+    "context": "EN :\nSuch weakness!\nJP :\n弱すぎる！"
+  },
+  {
+    "key": "battle_kill_10904_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10904_1-dlg",
+    "original": "죽음으로 참회하라.",
+    "context": "EN :\nYou will repent with your death.\nJP :\n死で懺悔せよ。"
+  },
+  {
+    "key": "battle_dead_10904_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10904_1-dlg",
+    "original": "이럴… 리가…",
+    "context": "EN :\nThis… can’t be…\nJP :\nこんな…はずは…。"
+  },
+  {
+    "key": "choice_success_p_10904_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10904_2-dlg",
+    "original": "신임에 보답했죠. 후훗.",
+    "context": "EN :\nI answered your trust. Fuhu.\nJP :\n信頼に報いました。ふふっ。"
+  },
+  {
+    "key": "choice_fail_n_10904_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10904_1-dlg",
+    "original": "…처음부터 다시 공부하겠습니다.",
+    "context": "EN :\n…I will study again from the beginning.\nJP :\n…最初からまた勉強し直します。"
+  },
+  {
+    "key": "battle_clear_10904_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10904_1-dlg",
+    "original": "신앙의 승리죠.",
+    "context": "EN :\nA victory to faith.\nJP :\n信仰の勝利です。"
+  },
+  {
+    "key": "battle_clear_ex_10904_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10904_1-dlg",
+    "original": "아하핫! 이, 이걸로 나는 더 높은 자리로…!",
+    "context": "EN :\nAhaha! W-With this, I shall be exalted to an even higher place…!\nJP :\nあははっ！こ、これで私はもっと高い位に…！"
+  },
+  {
+    "key": "battle_defeat_10904_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10904_1-dlg",
+    "original": "이… 치욕… 절대 잊지 않을 거야…",
+    "context": "EN :\nThis… humiliation… will not be forgotten…\nJP :\nこの…恥辱は…絶対に忘れないから…。"
+  }
+]

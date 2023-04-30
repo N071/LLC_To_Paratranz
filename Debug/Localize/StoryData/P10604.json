@@ -1,0 +1,382 @@
+[
+  {
+    "key": "0-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "0-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "0-title",
+    "original": "리우 협회 5과",
+    "context": "EN :\nLiu Section 5\nJP :\nリウ協会 5課"
+  },
+  {
+    "key": "0-content",
+    "original": "어떻게, 입에는 좀 맞아요? 파우스트 씨?",
+    "context": "EN :\nWell? Do you like the taste, Ms. Faust?\nJP :\nいかがでしょう、口には合いますか？ファウストさん？"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "1-content",
+    "original": "…음. 향에 비해 맛이 아무 것도 없네요. …물리적으로 가능한 일인가요?",
+    "context": "EN :\n…Mm. Despite the intense scent, the taste is essentially blank. …Is this physically possible?\nJP :\n…ふむ。香りに比べて、何も味がしませんね。…物理的に可能なのですか？"
+  },
+  {
+    "key": "2-content",
+    "original": "아이의 눈이 옥색으로 빛났어.",
+    "context": "EN :\nThe child’s eye sparkled with a hue of jade.\nJP :\n子供の目が翡翠色に光った。"
+  },
+  {
+    "key": "3-content",
+    "original": "원래부터 옥색이긴 했지만… 그보다 더욱 빛나는 일이 이렇게, 간혹 있곤 했지.",
+    "context": "EN :\nAlthough his eye always had that color… it would sometimes shine brighter than usual, as it is now.\nJP :\n元々から翡翠色ではあったけど…それよりもっと輝くこともこんな風に、たまにはあった。"
+  },
+  {
+    "key": "4-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "4-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "4-title",
+    "original": "리우 협회 5과",
+    "context": "EN :\nLiu Section 5\nJP :\nリウ協会 5課"
+  },
+  {
+    "key": "4-content",
+    "original": "바로 그거죠! 그게 이 골동차의 묘미랍니다.",
+    "context": "EN :\nExactly! That’s the wonder of this vintage tea.\nJP :\nまさにそれですよ！これがこの骨董茶の妙味なんですよね。"
+  },
+  {
+    "key": "5-content",
+    "original": "아이는 신이 난 듯 떠들었어.",
+    "context": "EN :\nThe child exclaimed excitedly.\nJP :\n子供は楽しそうに騒いだ。"
+  },
+  {
+    "key": "6-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "6-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "6-title",
+    "original": "리우 협회 5과",
+    "context": "EN :\nLiu Section 5\nJP :\nリウ協会 5課"
+  },
+  {
+    "key": "6-content",
+    "original": "이건 저희 가문에만 공급되는 최고급 보이차에요. 가장 이상적인 공간에 20년을 넘게 후숙한… 값을 치기도 어려울 정도의 물건이랍니다~",
+    "context": "EN :\nThis is the highest quality pu’er, supplied exclusively to my family. Fermented for more than two decades in the ideal environment… it’s nigh priceless~\nJP :\nこれは僕の家門にだけ供給される最高級の普洱茶です。最も理想的な空間で20年以上後熟させた…値段を付けるのも難しいくらいのものなんですよ～。"
+  },
+  {
+    "key": "7-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "7-teller",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "7-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "7-content",
+    "original": "케흠.",
+    "context": "EN :\nKehmgh.\nJP :\nかほん。"
+  },
+  {
+    "key": "8-content",
+    "original": "찻잔을 기울이던 옆 자리의 남자는 사레가 들린듯 잔기침을 두어번 했어.",
+    "context": "EN :\nThe other child seated next to them coughed a couple of times as if he choked on the tea.\nJP :\n茶碗を傾けていた隣の席の男は、咽せたかのように小さく二、三回咳をした。"
+  },
+  {
+    "key": "9-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "9-content",
+    "original": "하지만 궁금하네요. 그렇게 비싼 값을 주고 이 정도의… 그러니까, 향나는 물을 마실 만한 이유가 있나요?",
+    "context": "EN :\nI must wonder, though. Is there a good reason to pay such a stiff price for this… for lack of a better word, scented water?\nJP :\nしかし気になりますね。そんな高値を出してこの程度の…だから、香り高い水を飲むような理由があるんですか？"
+  },
+  {
+    "key": "10-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10-title",
+    "original": "리우 협회 5과",
+    "context": "EN :\nLiu Section 5\nJP :\nリウ協会 5課"
+  },
+  {
+    "key": "10-content",
+    "original": "하하, 값싼 것만 닿은 혀에서 느껴지는 맛이 적을 뿐인거죠~",
+    "context": "EN :\nHaha, it’s just that the taste is too subtle for a tongue oversaturated by cheap stuff~\nJP :\nあはは。安物ばかり舌に触れてきたせいで、感じられる味が少ないだけですよ～。"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "11-content",
+    "original": "…음.",
+    "context": "EN :\n…Hm.\nJP :\n…。"
+  },
+  {
+    "key": "12-content",
+    "original": "차가 식을 것만 같은 쌀쌀한 공기가 탁자 주변을 맴도는 것만 같아.",
+    "context": "EN :\nA wave of cold almost real enough to cool the tea seemed to surround the table.\nJP :\n茶が冷めてしまいそうなくらい冷たい空気が、テーブルの周囲を駆け巡ってるような気がするね。"
+  },
+  {
+    "key": "13-content",
+    "original": "물론, 차는 식지 않았지만.",
+    "context": "EN :\nOf course, the tea was as warm as ever.\nJP :\nもちろん、茶は冷めてないけど。"
+  },
+  {
+    "key": "14-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "14-teller",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "14-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-content",
+    "original": "에흠, 오늘 모인 것이 차에 대한 토론을 하기 위함은 아닌 것으로 아오만.",
+    "context": "EN :\nAhem, I do believe that we haven’t gathered here simply to mull over tea.\nJP :\nえっほん。本日集まりし理由は、茶に対する討論をするが為にあらじ。"
+  },
+  {
+    "key": "15-content",
+    "original": "얼어붙을 뻔한 공간에 다시 활기가 돌았어.",
+    "context": "EN :\nHis reminder breathed some vitality back into the gathering.\nJP :\n凍り付いてしまいそうな空間に、再び活気が巡ってきた。"
+  },
+  {
+    "key": "16-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "16-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "16-title",
+    "original": "리우 협회 5과",
+    "context": "EN :\nLiu Section 5\nJP :\nリウ協会 5課"
+  },
+  {
+    "key": "16-content",
+    "original": "참, 그랬죠. 그러니까… 저번 임무 때의 이야기를 하려고 한거죠?",
+    "context": "EN :\nRight, of course. To hazard a guess… you wanted to speak about the last mission, yes?\nJP :\nあっ、そうでしたね。だから…この前の任務のときの話をしようとしてたんですよね？"
+  },
+  {
+    "key": "17-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "17-content",
+    "original": "그래요. 정확하게는… 당신의 왼눈에 대한 이야기죠.",
+    "context": "EN :\nThat’s correct. More specifically… it’s about your left eye.\nJP :\nそうですね。正確には…あなたの左目に関する話です。"
+  },
+  {
+    "key": "18-content",
+    "original": "아이는 빙글거리는 표정으로 차를 한모금 넘겼어.",
+    "context": "EN :\nThe child drank his tea as he maintained a beaming smile.\nJP :\n子供はニコニコとしながらお茶を一口飲んだ。"
+  },
+  {
+    "key": "19-content",
+    "original": "알 듯 모를 듯, 묘한 감정이 섞인 표정이었지.",
+    "context": "EN :\nA subtle hint of an enigmatic emotion seemed to blend into his face.\nJP :\n妙な感情が見え隠れした表情だった。"
+  },
+  {
+    "key": "20-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "20-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "20-title",
+    "original": "리우 협회 5과",
+    "context": "EN :\nLiu Section 5\nJP :\nリウ協会 5課"
+  },
+  {
+    "key": "20-content",
+    "original": "제 눈이 유난히 빛나기는 하죠~ 신경쓰이는 것도 당연하다고 생각해요.",
+    "context": "EN :\nI suppose my eyes tend to glow bright~ It’s no surprise that you would be curious.\nJP :\n僕の目って結構輝いたりするんでよね～。気になるのも当然だと思います。"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-teller",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "21-content",
+    "original": "인간의 눈이 카메라의 렌즈와 비슷한 역할을 하고 있기는 하지만, 그런식으로 안구에서 빛이 늘었다, 줄었다 하는 일은 없어요.",
+    "context": "EN :\nWhile the human eye does function similarly to the lens of a camera, it does not come with the ability to emit varying amounts of light.\nJP :\n人間の目はカメラのレンズと似た役割をしていますが、そんな風に眼球から光が放出・収縮することはありません。"
+  },
+  {
+    "key": "22-content",
+    "original": "아이의 능글맞은 말투를, 하얀 머리칼을 한 자가 차갑게 잘라냈어.",
+    "context": "EN :\nThe white-haired one frigidly cut off the other child’s slyness.\nJP :\n子供のふてぶてしい口調を、白い髪を持つ者が冷たく斬り捨てた。"
+  },
+  {
+    "key": "23-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "23-teller",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "23-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "23-content",
+    "original": "의체 안구라고 하여도 이상하오. 이 시기에, 그것도 이런 차를 나눠 내어줄만한 도령이 어찌 그렇게 기계티가 나는 안구를 하고 있겠소?",
+    "context": "EN :\nEven if it were a prosthetic eye, there are still grounds for suspicion; why would such an affluent individual, one able to treat guests with such expensive tea, settle for such a noticeably mechanical product?\nJP :\n義体の眼球だとしても異常なり。この時期に、それもかかる茶をあてがはる御曹司が、さしも機械であること著しき眼球を、いかでか付けたり？"
+  },
+  {
+    "key": "24-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "24-teller",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "24-title",
+    "original": "리우 협회 5과",
+    "context": "EN :\nLiu Section 5\nJP :\nリウ協会 5課"
+  },
+  {
+    "key": "24-content",
+    "original": "날 때 부터 이런 것을 어떻게 하겠어요~ 보석같은… 자식이었거든요, 저는.",
+    "context": "EN :\nI can’t do much about what I was born with~ To them… I was a gem of a child.\nJP :\n生まれたときからこうだったっていうのに、どうすれば良いんですか～。宝石みたいな…子供だったんですよ、僕は。"
+  },
+  {
+    "key": "25-content",
+    "original": "아이의 말씨에는 조그마한 떨림이 있었던 것 같지만, 자리에 모인 자들이 거기까지 깨닫지는 못했어.",
+    "context": "EN :\nThere was a slight tremble to the child’s words, but it wasn’t noticed by his visitors at the table.\nJP :\n子供の言葉には小さな震えがあったみたいだけど、席に集まった人たちはそこまでは気付けなかったみたい。"
+  },
+  {
+    "key": "26-content",
+    "original": "그래, 차라리 다행이었지.",
+    "context": "EN :\nAnd, it was certainly an auspicious thing.\nJP :\nうん、むしろ幸いだったかもね。"
+  },
+  {
+    "key": "27-content",
+    "original": "아이의 입장에서는… 언제 그 눈이 반짝일지 모르는 법이거든.",
+    "context": "EN :\nThe child feared… for he had no way of knowing when his eye might flash.\nJP :\n子供からすると…いつその目が輝くか分からないからね。"
+  }
+]

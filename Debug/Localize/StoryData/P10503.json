@@ -1,0 +1,139 @@
+[
+  {
+    "key": "0-teller",
+    "original": "답답한 팀원",
+    "context": "EN :\nIrked Teammate\nJP :\n頑固なチーム員"
+  },
+  {
+    "key": "0-title",
+    "original": "W사",
+    "context": "EN :\nW Corp.\nJP :\nW社"
+  },
+  {
+    "key": "0-content",
+    "original": "저 녀석 좀 봐. 언제고 아무 말도 없이 자기 할 일만 하잖아. 쟤의 반이라도…",
+    "context": "EN :\nJust look at him, always devoted to his work without a single complaint. You should…\nJP :\nあいつを見てみろよ。ずっと何も言わずに自分の仕事ばっかやってるだろ。あいつの半分でも…。"
+  },
+  {
+    "key": "1-content",
+    "original": "닮아봐라, 아이는 아마 그렇게 말을 맺고 싶었던 것 같지만 입을 꾹 다물었어.",
+    "context": "EN :\n“Be more like him”, is what this child most likely wanted to say, but they held their mouth shut.\nJP :\n見習え、子供はきっとそう結びたかったのだろうけど口を噤んだ。"
+  },
+  {
+    "key": "2-content",
+    "original": "그러고는 다른 이야기로 말을 잇지.",
+    "context": "EN :\nThey then moved to a different topic.\nJP :\nそうして他の話題で話を続けた。"
+  },
+  {
+    "key": "3-teller",
+    "original": "답답한 팀원",
+    "context": "EN :\nIrked Teammate\nJP :\n頑固なチーム員"
+  },
+  {
+    "key": "3-title",
+    "original": "W사",
+    "context": "EN :\nW Corp.\nJP :\nW社"
+  },
+  {
+    "key": "3-content",
+    "original": "아니다, 쟤는 닮지 마라. 솔직히 저것도 유쾌하진 않아.",
+    "context": "EN :\nYou know what? Don’t model yourself after him. Honestly not a good look, either.\nJP :\nいや、あいつは見習うな。正直あれも見てて愉快じゃないからな。"
+  },
+  {
+    "key": "4-content",
+    "original": "그러든 말든.",
+    "context": "EN :\nRegardless…\nJP :\nさてはともあれ。"
+  },
+  {
+    "key": "5-content",
+    "original": "가리켜진 아이는 묵묵하게 자기의 일을 하고 있어. ",
+    "context": "EN :\nThe child silently focused on his own tasks.\nJP :\n槍玉に挙げられた子供は黙々と自分の仕事をしている。"
+  },
+  {
+    "key": "6-content",
+    "original": "커다란 키와 냉랭한 눈초리의 그 아이는, 특별히 귀에 무언가를 끼우고 있는 것은 아니었지만, 아무도 자신에 대해 말하지 않는 것처럼 무덤덤해.",
+    "context": "EN :\nPossessed of a tall physique and cold eyes, the child stays impassive as if he weren’t the subject of the conversation nearby, in spite of the fact that his ears weren’t plugged or impaired.\nJP :\n高い身長と冷やかの目つきをしたその子は、特に耳に何かをはめているわけじゃなかったけど、誰も自分のことを話していないかのように淡々としてるんだ。"
+  },
+  {
+    "key": "7-teller",
+    "original": "답답한 팀원",
+    "context": "EN :\nIrked Teammate\nJP :\n頑固なチーム員"
+  },
+  {
+    "key": "7-title",
+    "original": "W사",
+    "context": "EN :\nW Corp.\nJP :\nW社"
+  },
+  {
+    "key": "7-content",
+    "original": "…야, 자기 말을 하면 대답이라도 좀 해라.",
+    "context": "EN :\n…Yo, you should at least say something.\nJP :\n…おい、自分のこと言われたら返事でもしろよ。"
+  },
+  {
+    "key": "8-content",
+    "original": "그 모습이 짜증을 부리던 아이에게는 꽤 껄끄러웠던 것만 같아. 그제야 멀대 같은 아이가 그를 바라보고 입을 열었어.",
+    "context": "EN :\nHis lack of a reaction seemed to bother the grousing child. That’s when he, the tall child, finally returned that gaze and started talking.\nJP :\nその様子がイライラしていた子供には、かなり気まずかったみたい。そうしてやっとでくのぼうみたいな子供が彼を見つめて口を開いた。"
+  },
+  {
+    "key": "9-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "9-title",
+    "original": "W사 정리 요원",
+    "context": "EN :\nW Corp. Cleanup Agent\nJP :\nW社 整理要員"
+  },
+  {
+    "key": "9-content",
+    "original": "특별히 내게 대답을 요구하진 않았던 것 같은데.",
+    "context": "EN :\nI don’t believe a reply was demanded of me.\nJP :\n特に私に対して答えを要求したわけではないと思ったのだが。"
+  },
+  {
+    "key": "10-teller",
+    "original": "답답한 팀원",
+    "context": "EN :\nIrked Teammate\nJP :\n頑固なチーム員"
+  },
+  {
+    "key": "10-title",
+    "original": "W사",
+    "context": "EN :\nW Corp.\nJP :\nW社"
+  },
+  {
+    "key": "10-content",
+    "original": "그래도 눈치라는 게 있잖아… 너는 네 욕을 해도 그러고 있을 거야?",
+    "context": "EN :\nStill, c’mon dude… Are you really just gonna sit there even when someone’s shit-talking you?\nJP :\nそれでも空気ってもんがあるだろ…お前は悪口言われたのに何もしないのか？"
+  },
+  {
+    "key": "11-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "11-title",
+    "original": "W사 정리 요원",
+    "context": "EN :\nW Corp. Cleanup Agent\nJP :\nW社 整理要員"
+  },
+  {
+    "key": "11-content",
+    "original": "내게 위해를 가하는 것만 아니라면.",
+    "context": "EN :\nSo long as no direct harm is done to me.\nJP :\n私に危害を加えるものでさえなければ。"
+  },
+  {
+    "key": "12-content",
+    "original": "그렇게 말한 아이는 다시 묵묵하게 일 처리로 돌아가 버렸어.",
+    "context": "EN :\nAnd just like that, the child returned to his work.\nJP :\nそう言った子供は再び黙々と仕事の片付けに戻っちゃった。"
+  },
+  {
+    "key": "13-content",
+    "original": "짜증을 부리던 아이는 싸늘한 눈빛을 계속 들이밀고 있었지만…",
+    "context": "EN :\nThe bellyaching child kept on sending a cold glare…\nJP :\nイライラしてた子供は冷たい目線をずっと送っていたけど…。"
+  },
+  {
+    "key": "14-content",
+    "original": "아이에겐 닿질 않네.",
+    "context": "EN :\nBut it won’t reach him.\nJP :\n子供には届かないみたいだね。"
+  }
+]

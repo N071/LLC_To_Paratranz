@@ -1,0 +1,1062 @@
+[
+  {
+    "key": "1010101-name",
+    "original": "정보전달",
+    "context": "EN :\nInformation Relay\nJP :\n情報伝達"
+  },
+  {
+    "key": "1010101-desc",
+    "original": "조작 패널에서 자신의 뒤에 있는 아군 2명에게 피해량 증가 1 부여",
+    "context": "EN :\nApply 1 Damage Up to 2 allies placed after this unit on the Dashboard.\nJP :\n操作パネルにて、自分より後ろの味方2名にダメージ量増加 1を付与"
+  },
+  {
+    "key": "1010201-name",
+    "original": "관찰",
+    "context": "EN :\nKeen Observation\nJP :\n観察"
+  },
+  {
+    "key": "1010201-desc",
+    "original": "합 진행 시 대상의 합 위력 -2",
+    "context": "EN :\nIn a clash, the opponent has -2 Clash Power.\nJP :\nマッチ進行時、対象のマッチ威力 -2"
+  },
+  {
+    "key": "1010301-name",
+    "original": "냉정",
+    "context": "EN :\nLevelheaded\nJP :\n冷静"
+  },
+  {
+    "key": "1010301-desc",
+    "original": "합 승리 시 호흡 횟수 1 증가",
+    "context": "EN :\nOn clash win, gain +1 Poise Count.\nJP :\nマッチ勝利時、呼吸 回数1増加"
+  },
+  {
+    "key": "1020101-name",
+    "original": "분석",
+    "context": "EN :\nAnalytic Eye\nJP :\n分析"
+  },
+  {
+    "key": "1020101-desc",
+    "original": "부정적인 효과가 걸려있는 대상에게 가하는 피해량 +10%",
+    "context": "EN :\nDeal +10% damage to units with negative status effects.\nJP :\nマイナス効果に掛かっている対象への与ダメージ量+10%"
+  },
+  {
+    "key": "1020201-name",
+    "original": "자가충전",
+    "context": "EN :\nSelf-charging\nJP :\n自家充電"
+  },
+  {
+    "key": "1020201-desc",
+    "original": "공격 종료 시 충전 횟수 1 증가",
+    "context": "EN :\nGain +1 Charge Count after an attack.\nJP :\n攻撃終了時、充電 回数が1増加"
+  },
+  {
+    "key": "1020301-name",
+    "original": "각오",
+    "context": "EN :\nResolution\nJP :\n覚悟"
+  },
+  {
+    "key": "1020301-desc",
+    "original": "다음 턴 시작 시 호흡 횟수가 4 이상이면 신속 2를 얻음",
+    "context": "EN :\nAt the start of the turn, if at 4+ Poise Count, gain 2 Haste.\nJP :\n次のターン開始時、呼吸 回数が4以上ならクイック 2を得る"
+  },
+  {
+    "key": "1030101-name",
+    "original": "정의의 응징",
+    "context": "EN :\nRighteous Retribution\nJP :\n正義の成敗"
+  },
+  {
+    "key": "1030101-desc",
+    "original": "합 승리 시 해당 스킬의 피해량 +10%",
+    "context": "EN :\nSkills deal +10% damage in a won clash.\nJP :\nマッチ終了時、該当スキルの与ダメージ量+10%"
+  },
+  {
+    "key": "1030201-name",
+    "original": "급속충전",
+    "context": "EN :\nQuick Recharge\nJP :\n急速充電"
+  },
+  {
+    "key": "1030201-desc",
+    "original": "전투 시작 시 이번 턴에 충전 횟수 (우울 공명 수/3)만큼 증가",
+    "context": "EN :\nAt the start of the combat phase, gain Charge Count by (Gloom Res. / 3).\nJP :\n戦闘開始時、1ターンの間充電 回数が(憂鬱共鳴数÷3)だけ増加"
+  },
+  {
+    "key": "1030301-name",
+    "original": "마음가짐",
+    "context": "EN :\nPrepared Mind\nJP :\n心構え"
+  },
+  {
+    "key": "1030301-desc",
+    "original": "다음 턴에 신속을 (분노 공명 수/3)만큼 얻음",
+    "context": "EN :\nGain Haste by (Wrath Res. / 3) next turn.\nJP :\n次のターンにクイック を(憤怒共鳴数÷3)だけ得る"
+  },
+  {
+    "key": "1040101-name",
+    "original": "무차별적 예술",
+    "context": "EN :\nIndiscriminate Art\nJP :\n無差別的芸術"
+  },
+  {
+    "key": "1040101-desc",
+    "original": "자신이 받는 피해량 +25%. 가하는 피해량 +25%",
+    "context": "EN :\nDeal and take +25% damage.\nJP :\n自分の被ダメージ量と与ダメージ量をそれぞれ+25%"
+  },
+  {
+    "key": "1040201-name",
+    "original": "반.갈",
+    "context": "EN :\nC. I. H.\nJP :\nはん・われ"
+  },
+  {
+    "key": "1040201-desc",
+    "original": "이번 턴 참격 피해량 +10%",
+    "context": "EN :\nDeal +10% Slash damage this turn.\nJP :\n1ターンの間、斬撃ダメージ量+10%"
+  },
+  {
+    "key": "1040301-name",
+    "original": "흑운도",
+    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲道"
+  },
+  {
+    "key": "1040301-desc",
+    "original": "출혈이 부여된 적 공격 시 피해량 +10 %",
+    "context": "EN :\nDeal +10% damage to targets with Bleed.\nJP :\n出血 が付与された敵を攻撃時、与ダメージ量 +10%"
+  },
+  {
+    "key": "1050101-name",
+    "original": "각오",
+    "context": "EN :\nResolution\nJP :\n覚悟"
+  },
+  {
+    "key": "1050101-desc",
+    "original": "전투 시작 시 자신의 체력이 50% 미만이면 보호 1을 얻음",
+    "context": "EN :\nAt less than 50% HP, gain 1 Protection at the start of the combat phase.\nJP :\n戦闘開始時、自分の体力が50%未満なら保護 1を得る"
+  },
+  {
+    "key": "1050201-name",
+    "original": "태산",
+    "context": "EN :\nGreat Mountain\nJP :\n泰山"
+  },
+  {
+    "key": "1050201-desc",
+    "original": "피격 시 무작위 대상에게 화상 1 부여 (최대 4회)",
+    "context": "EN :\nWhen attacked, inflict 1 Burn on a random enemy.\n(Up to 4 times)\nJP :\n被ダメージ時、ランダム無い多少に火傷 1を付与(最大4回)"
+  },
+  {
+    "key": "1050301-name",
+    "original": "견뎌내기",
+    "context": "EN :\nEnduring Spirit\nJP :\n耐え抜く"
+  },
+  {
+    "key": "1050301-desc",
+    "original": "피격 시 충전 횟수 1 증가 (최대 6회)",
+    "context": "EN :\nWhen attacked, gain +1 Charge Count.\n(Up to 6 times)\nJP :\n被ダメージ時、充電 回数が1増加(最大6回)"
+  },
+  {
+    "key": "1060101-name",
+    "original": "유희",
+    "context": "EN :\nEntertainment\nJP :\n遊戯"
+  },
+  {
+    "key": "1060101-desc",
+    "original": "다음 턴 시작 시 정신력 6 회복",
+    "context": "EN :\nHeal 6 SP next turn.\nJP :\n次のターン開始時、精神力を6回復"
+  },
+  {
+    "key": "1060201-name",
+    "original": "흑운도",
+    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲道"
+  },
+  {
+    "key": "1060201-desc",
+    "original": "연결한 죄 중 마지막 죄의 마지막 코인으로 공격할 때 출혈 3 부여",
+    "context": "EN :\nThe last Coin on the last skill in the chain inflicts 3 Bleed.\nJP :\n繋いだ罪のうち、最後の罪の最終コインで攻撃するときに出血 3を付与"
+  },
+  {
+    "key": "1060301-name",
+    "original": "유열",
+    "context": "EN :\nGaiety\nJP :\n愉悦"
+  },
+  {
+    "key": "1060301-desc",
+    "original": "다음 턴 시작 시 (탐식 공명 수 x2) 만큼 정신력 회복",
+    "context": "EN :\nHeal (2x Gluttony Res.) SP next turn.\nJP :\n次のターン開始時、(暴食共鳴数×2)だけ精神力を回復"
+  },
+  {
+    "key": "1070101-name",
+    "original": "르쌍티망",
+    "context": "EN :\nRessentiment\nJP :\nルサンチマン"
+  },
+  {
+    "key": "1070101-desc",
+    "original": "대상이 자신보다 최대 체력이 높으면 피해량 +10%",
+    "context": "EN :\nDeal +10% damage to targets with higher Max HP.\nJP :\n対象が自分より最大体力が高ければダメージ量+10%"
+  },
+  {
+    "key": "1070201-name",
+    "original": "호흡",
+    "context": "EN :\nRespiration\nJP :\n呼吸"
+  },
+  {
+    "key": "1070201-desc",
+    "original": "이번 턴에 공격으로 피해를 받으면 피해량 +10%",
+    "context": "EN :\nAfter taking damage from attacks this turn, deal +10% damage.\nJP :\n1ターンの間、攻撃でダメージを受けなければダメージ量+10%"
+  },
+  {
+    "key": "1070301-name",
+    "original": "풀 뜯을 준비",
+    "context": "EN :\nRaring to Graze\nJP :\n草を食む準備"
+  },
+  {
+    "key": "1070301-desc",
+    "original": "다음 턴 시작 시 (분노 공명 수)만큼 충전 횟수 증가.\n충전 횟수가 5 이상이면 신속 1, 공격 위력 증가 1을 얻음",
+    "context": "EN :\nGain (Wrath Res.) Charge Count next turn.\nAt 5+ Charge Count, gain 1 Haste and Attack Power Up.\nJP :\n次のターン開始時、(憤怒共鳴数)だけ充電 回数が増加。\n充電 回数が5以上ならクイック 1、攻撃威力増加 1を得る"
+  },
+  {
+    "key": "1080101-name",
+    "original": "발악",
+    "context": "EN :\nLast-ditch Struggle\nJP :\n足掻く"
+  },
+  {
+    "key": "1080101-desc",
+    "original": "합 진행 시 자신의 체력이 25% 미만이면 합 위력 +1",
+    "context": "EN :\nAt less than 25% HP, gain +1 clash Power in a clash.\nJP :\nマッチ進行時、自分の体力が25%未満ならマッチ威力+1"
+  },
+  {
+    "key": "1080201-name",
+    "original": "뇌파집속",
+    "context": "EN :\nBrainwave Focus\nJP :\n脳波集束"
+  },
+  {
+    "key": "1080201-desc",
+    "original": "전투 시작 시 정신력 -15.\n다음 턴 시작 시 공격 위력 증가를 (우울 공명 수/3)만큼 얻음",
+    "context": "EN :\nAt the start of the combat phase, lose 15 SP.\nGain (Gloom Res / 3) Attack Power Up next turn.\nJP :\n戦闘開始時、精神力-15\n次のターン開始時、攻撃威力増加 を(憂鬱共鳴数÷3)だけ得る"
+  },
+  {
+    "key": "1080301-name",
+    "original": "사선발악",
+    "context": "EN :\nWalking the Line of Death\nJP :\n死線足掻き"
+  },
+  {
+    "key": "1080301-desc",
+    "original": "자신의 체력이 50%미만일 때 스킬 효과로 얻는 호흡 +1",
+    "context": "EN :\nAt less than 50% HP, gain 1 additional Poise from skills.\nJP :\n自分の体力が50%未満のとき、スキル効果で得る呼吸 +1"
+  },
+  {
+    "key": "1080401-name",
+    "original": "약점포착",
+    "context": "EN :\nEye for Weakness\nJP :\n弱点捕捉"
+  },
+  {
+    "key": "1080401-desc",
+    "original": "합 승리 후 공격 적중 시마다 진동 1 부여",
+    "context": "EN :\nAttacks inflict 1 Tremor in a won clash.\nJP :\nマッチ勝利後、攻撃が的中するたびに振動 1を付与"
+  },
+  {
+    "key": "1090101-name",
+    "original": "단악",
+    "context": "EN :\nSplit Evil\nJP :\n断悪"
+  },
+  {
+    "key": "1090101-desc",
+    "original": "공격 적중 시 50% 확률로 출혈 1 부여",
+    "context": "EN :\nOn hit, inflict 1 Bleed at a 50% chance.\nJP :\n攻撃的中時、50%の確率で出血 1を付与"
+  },
+  {
+    "key": "1090201-name",
+    "original": "흑운도",
+    "context": "EN :\nDark Cloud Blade\nJP :\n黒雲道"
+  },
+  {
+    "key": "1090201-desc",
+    "original": "반격 시 자신의 호흡이 5 이상이면 스킬 3으로 발동",
+    "context": "EN :\nAt 5+ Poise, counter skills use Skill 3.\nJP :\n反撃時、自分の呼吸 が5以上ならスキル3で発動"
+  },
+  {
+    "key": "1090301-name",
+    "original": "방어 허물기",
+    "context": "EN :\nBreach Defense\nJP :\n防御崩し"
+  },
+  {
+    "key": "1090301-desc",
+    "original": "이번 턴에 수비스킬을 사용한 적에게 입히는 피해량 +10%",
+    "context": "EN :\nDeal +10% damage to enemies that used defense skills this turn.\nJP :\nこのターンに守備スキルを使用した敵への与ダメージ量 +10%"
+  },
+  {
+    "key": "1100101-name",
+    "original": "각오",
+    "context": "EN :\nResolution\nJP :\n覚悟"
+  },
+  {
+    "key": "1100101-desc",
+    "original": "이번 턴에 아군이 사망하면 다음 턴에 공격 위력 증가 1을 얻음",
+    "context": "EN :\nWhen an ally is defeated, gain 1 Attack Power Up next turn.\nJP :\nこのターンで味方が死亡すると、次のターンに攻撃威力増加 1を得る"
+  },
+  {
+    "key": "1100201-name",
+    "original": "살수",
+    "context": "EN :\nSlayer\nJP :\n殺手"
+  },
+  {
+    "key": "1100201-desc",
+    "original": "연결한 죄 중 마지막 죄의 마지막 코인의 피해량 +20%",
+    "context": "EN :\nThe last Coin on the last skill in the chain deals +20% damage.\nJP :\n繋いだ罪の、最後の罪の最終コインの与ダメージ量 +20%"
+  },
+  {
+    "key": "1100301-name",
+    "original": "당신의 방패",
+    "context": "EN :\nYour Shield\nJP :\nあなたの盾"
+  },
+  {
+    "key": "1100301-desc",
+    "original": "전투 시작 시 조작 패널에서 자신의 양 옆에 있는 캐릭터에게 이번 턴에 수비 위력 증가 2, 보호 1 부여",
+    "context": "EN :\nAt the start of the combat phase, apply 2 Defense Power Up and 1 Protection to allies adjacent to this unit on the Dashboard.\nJP :\n戦闘開始時、操作パネルにて自分の両隣にいる味方へ1ターンの間、守備威力増加 2、保護 1を付与"
+  },
+  {
+    "key": "1100401-name",
+    "original": "유흥",
+    "context": "EN :\nJúbilo Hedonista\nJP :\n遊興"
+  },
+  {
+    "key": "1100401-desc",
+    "original": "회피 성공 시 (우울 공명 수 x5)% 확률로 회피 스킬의 위력만큼 흐트러짐 회복",
+    "context": "EN :\nAfter a successful evade, lower Stagger Threshold by the evade skill’s Power at a (5x Gloom Res.)% chance.\nJP :\n回避成功時、(憂鬱共鳴数×5)%の確率で回避スキルの威力分、混乱区間を後退"
+  },
+  {
+    "key": "1110101-name",
+    "original": "처형",
+    "context": "EN :\nExecutor\nJP :\n処刑"
+  },
+  {
+    "key": "1110101-desc",
+    "original": "대상의 정신력이 0 미만일 때 피해량 +10%",
+    "context": "EN :\nIf target’s SP is below 0, deal +10% damage.\nJP :\n対象の精神力が0未満のとき、与ダメージ量+10%"
+  },
+  {
+    "key": "1110201-name",
+    "original": "냉정",
+    "context": "EN :\nLevelheaded\nJP :\n冷静"
+  },
+  {
+    "key": "1110201-desc",
+    "original": "체력이 25%미만인 적 공격 시 피해량 +20%",
+    "context": "EN :\nDeal +20% damage to targets below 25% HP.\nJP :\n体力が25%未満の敵を攻撃時、ダメージ量 +20%"
+  },
+  {
+    "key": "1110301-name",
+    "original": "사기진작",
+    "context": "EN :\nMorale Boost\nJP :\n士気高揚"
+  },
+  {
+    "key": "1110301-desc",
+    "original": "다음 턴 시작 시 자신과 이번 턴에 조작 패널에서 자신의 양옆에 있는 아군에게 신속 2 부여",
+    "context": "EN :\nNext turn, apply 2 Haste to self and allies who are adjacent to this unit on the Dashboard this turn.\nJP :\n次のターン開始時、前のターンにて自分の両隣にいる味方と自分へクイック 2を付与"
+  },
+  {
+    "key": "1120101-name",
+    "original": "강제생존",
+    "context": "EN :\nForced Survival\nJP :\n強制生存"
+  },
+  {
+    "key": "1120101-desc",
+    "original": "전투 시작 자신의 체력 5 회복",
+    "context": "EN :\nHeal 5 HP at the start of the combat phase.\nJP :\n戦闘開始時、自分の体力を5回復"
+  },
+  {
+    "key": "1120201-name",
+    "original": "발화",
+    "context": "EN :\nIgnition\nJP :\n発火"
+  },
+  {
+    "key": "1120201-desc",
+    "original": "스킬의 3번째 코인부터 적중 시 화상 1 부여",
+    "context": "EN :\nThe 3rd and subsequent Coins of a skill inflict 1 Burn on hit.\nJP :\nスキルの3つ目のコインより、的中時に火傷 1を付与"
+  },
+  {
+    "key": "1120301-name",
+    "original": "긴급 식량보급",
+    "context": "EN :\nEmergency Rations\nJP :\n緊急食糧補給"
+  },
+  {
+    "key": "1120301-desc",
+    "original": "체력이 25% 미만이면 합 승리 시 5%만큼 체력 회복",
+    "context": "EN :\nAt less than 25% HP, heal by 5% of Max HP after winning a clash.\nJP :\n体力が25パーセント未満ならマッチ勝利時、5%体力を回復"
+  },
+  {
+    "key": "1010121-name",
+    "original": "정보중화",
+    "context": "EN :\nInformation Neutralization\nJP :\n情報中和"
+  },
+  {
+    "key": "1010121-desc",
+    "original": "정신력이 가장 낮은 아군 1명 이번 턴에 정신력이 감소한 경우 턴 종료 시 정신력 10 회복",
+    "context": "EN :\nAt the end of the turn, Heal 10 SP for 1 ally with the lowest SP if they lost SP.\nJP :\n精神力が最も低い味方1名が、このターンで精神力が減少した場合、ターン終了時に精神力を10回復"
+  },
+  {
+    "key": "1010221-name",
+    "original": "분석",
+    "context": "EN :\nAnalytic Eye\nJP :\n分析"
+  },
+  {
+    "key": "1010221-desc",
+    "original": "최대 체력이 가장 높은 아군 1명 합 진행 시 합 위력 +1",
+    "context": "EN :\n1 ally with the highest Max HP gains +1 clash Power in a clash.\nJP :\n最大体力の最も高い味方がマッチ進行時、マッチ威力+1"
+  },
+  {
+    "key": "1010321-name",
+    "original": "사사",
+    "context": "EN :\nBestow\nJP :\n師事"
+  },
+  {
+    "key": "1010321-desc",
+    "original": "정신력이 가장 높은 아군 1명 스킬의 효과로 얻는 호흡 횟수 +1",
+    "context": "EN :\n1 ally with the highest SP gains +1 Poise Count from skills.\nJP :\n精神力が最も高い味方1名の、スキル効果で得る呼吸 回数+1"
+  },
+  {
+    "key": "1020121-name",
+    "original": "관찰",
+    "context": "EN :\nKeen Observation\nJP :\n観察"
+  },
+  {
+    "key": "1020121-desc",
+    "original": "최대 체력이 가장 높은 아군 1명 공격 적중 시 25% 확률로 공격 레벨 감소 1 부여",
+    "context": "EN :\n1 ally with the highest Max HP inflicts 1 Offense Level Down with attacks at a 25% chance.\nJP :\n最大体力の最も高い味方1名に攻撃的中時、25%の確率で攻撃レベル減少 1を付与"
+  },
+  {
+    "key": "1020221-name",
+    "original": "무전",
+    "context": "EN :\nRadio Comms\nJP :\n無電"
+  },
+  {
+    "key": "1020221-desc",
+    "original": "최대 체력이 가장 낮은 아군 1명 충전 횟수 얻는 값 +1",
+    "context": "EN :\n1 ally with the lowest Max HP gains +1 Charge Count.\nJP :\n最大体力の最も低い味方1名の、充電 獲得数+1"
+  },
+  {
+    "key": "1020321-name",
+    "original": "지지",
+    "context": "EN :\nBacking\nJP :\n支持"
+  },
+  {
+    "key": "1020321-desc",
+    "original": "최대 체력이 가장 낮은 아군 1명 수비 스킬의 최종 위력 +2",
+    "context": "EN :\n1 ally with the lowest Max HP gains +2 defense skill final Power.\nJP :\n最大体力が最も低い味方1名の、守備スキルの最終威力+2"
+  },
+  {
+    "key": "1030121-name",
+    "original": "응원",
+    "context": "EN :\nSupport\nJP :\n応援"
+  },
+  {
+    "key": "1030121-desc",
+    "original": "정신력이 가장 높은 아군 1명 관통 스킬의 피해량 +10%",
+    "context": "EN :\n1 ally with the highest SP deals +10% Pierce damage.\nJP :\n精神力が最も高い味方1名の、貫通スキルのダメージ量+10"
+  },
+  {
+    "key": "1030221-name",
+    "original": "꺾인 마음",
+    "context": "EN :\nBroken Spirit\nJP :\n折られた心"
+  },
+  {
+    "key": "1030221-desc",
+    "original": "속도가 가장 높은 아군 1명 첫번째 스킬의 최종 위력 +1 ",
+    "context": "EN :\n1 ally with the highest Speed gains +1 final Power for their first skill.\nJP :\n速度が最も高い味方1名の、最初のスキル最終威力+1 "
+  },
+  {
+    "key": "1030321-name",
+    "original": "양단",
+    "context": "EN :\nDivide in Two\nJP :\n両断"
+  },
+  {
+    "key": "1030321-desc",
+    "original": "속도가 가장 높은 아군 1명 참격 스킬의 피해량 +10%",
+    "context": "EN :\n1 ally with the highest Speed deals +10% Slash damage.\nJP :\n速度が最も高い味方1名の、斬撃スキルのダメージ量+10"
+  },
+  {
+    "key": "1040121-name",
+    "original": "등떠밀기",
+    "context": "EN :\nHustle\nJP :\n背中を押す"
+  },
+  {
+    "key": "1040121-desc",
+    "original": "최대 체력이 가장 낮은 아군 1명 가하는 피해량 +20%, 받는 피해량 +20%",
+    "context": "EN :\n1 ally with the lowest Max HP deals and takes +20% damage.\nJP :\n最大体力が最も低い味方1名の、与ダメージ量と被ダメージ量+20%"
+  },
+  {
+    "key": "1040221-name",
+    "original": "아이스 브레이킹",
+    "context": "EN :\nIce Breaker\nJP :\nアイスブレイク"
+  },
+  {
+    "key": "1040221-desc",
+    "original": "최대 체력이 가장 낮은 아군 1명 파열 부여 값 +1",
+    "context": "EN :\n1 ally with the lowest Max HP inflicts +1 Rupture.\nJP :\n最大体力の最も低い味方1名の、破裂 付与数+1"
+  },
+  {
+    "key": "1040321-name",
+    "original": "행동대장",
+    "context": "EN :\nMuscle in Charge\nJP :\n切り込み隊長"
+  },
+  {
+    "key": "1040321-desc",
+    "original": "속도가 가장 높은 아군 1명 출혈 부여 값 +1",
+    "context": "EN :\n1 ally with the highest Speed inflicts +1 Bleed.\nJP :\n速度が最も高い味方1名の、出血 付与値+1"
+  },
+  {
+    "key": "1050121-name",
+    "original": "등뒤 받쳐주기",
+    "context": "EN :\nBackup\nJP :\n背中を支える"
+  },
+  {
+    "key": "1050121-desc",
+    "original": "최대 체력이 가장 높은 아군 1명 공격 스킬로 받는 피해량 -10%",
+    "context": "EN :\n1 ally with the highest Max HP takes -10% damage from attack skills.\nJP :\n最大体力が最も高い味方1名の、攻撃スキルによるダメージ量+10"
+  },
+  {
+    "key": "1050221-name",
+    "original": "마찰 타격점",
+    "context": "EN :\nFriction Point\nJP :\n摩擦打撃点"
+  },
+  {
+    "key": "1050221-desc",
+    "original": "속도가 가장 낮은 아군 1명 화상 부여 값 +1",
+    "context": "EN :\n1 ally with the lowest Speed inflicts +1 Burn.\nJP :\n速度が最も低い味方1名の、火傷 付与値+1"
+  },
+  {
+    "key": "1050321-name",
+    "original": "묵묵함",
+    "context": "EN :\nTaciturn\nJP :\n黙々"
+  },
+  {
+    "key": "1050321-desc",
+    "original": "속도가 가장 낮은 아군 1명 파열 부여 값 +1",
+    "context": "EN :\n1 ally with the lowest Speed inflicts +1 Rupture.\nJP :\n速度が最も低い味方1名の、破裂 付与値+1"
+  },
+  {
+    "key": "1060121-name",
+    "original": "실없는 농담",
+    "context": "EN :\nFrivolous Jokes\nJP :\nばかげた冗談"
+  },
+  {
+    "key": "1060121-desc",
+    "original": "정신력이 가장 낮은 아군 1명 전투 시작 시 정신력 6 회복",
+    "context": "EN :\nAt the start of the combat phase, the ally with the lowest SP heals 6 SP.\nJP :\n戦闘開始時、精神力の最も低い味方1名の精神力が6回復"
+  },
+  {
+    "key": "1060221-name",
+    "original": "조직의 보복",
+    "context": "EN :\nSyndicate Payback\nJP :\n組織の報復"
+  },
+  {
+    "key": "1060221-desc",
+    "original": "속도가 가장 높은 아군 1명 출혈 부여 값 +1",
+    "context": "EN :\n1 ally with the highest Speed inflicts +1 Bleed.\nJP :\n速度が最も高い味方1名の、出血 付与値+1"
+  },
+  {
+    "key": "1060321-name",
+    "original": "승부수",
+    "context": "EN :\nGambit\nJP :\n決め手"
+  },
+  {
+    "key": "1060321-desc",
+    "original": "정신력이 가장 높은 아군 1명 앞면이 나온 코인의 피해량 +20%",
+    "context": "EN :\n1 ally with the highest SP deals +20% damage with Heads Coins.\nJP :\n精神力が最も高い味方1名の、表面が出たコインのダメージ量+20%"
+  },
+  {
+    "key": "1070121-name",
+    "original": "악에 받친",
+    "context": "EN :\nSpite-driven\nJP :\n頭にくる"
+  },
+  {
+    "key": "1070121-desc",
+    "original": "최대 체력이 가장 낮은 아군 1명 타격 스킬의 피해량 +10%",
+    "context": "EN :\n1 ally with the lowest Max HP deals +10% Blunt damage.\nJP :\n最大体力が最も低い味方1名の、打撃スキルのダメージ量+10"
+  },
+  {
+    "key": "1070221-name",
+    "original": "자신을 돌보지 않음",
+    "context": "EN :\nSelf-neglect\nJP :\nセルフネグレクト"
+  },
+  {
+    "key": "1070221-desc",
+    "original": "현재 체력이 가장 낮은 아군 1명 가하는 피해량 +20%, 받는 피해량 +20%",
+    "context": "EN :\n1 ally with the lowest HP deals and takes +20% damage.\nJP :\n現在の体力が最も低い味方1名の、与ダメージ量と被ダメージ量+20%"
+  },
+  {
+    "key": "1070321-name",
+    "original": "집념",
+    "context": "EN :\nTenacity\nJP :\n執念"
+  },
+  {
+    "key": "1070321-desc",
+    "original": "속도가 가장 높은 아군 1명 관통 스킬의 피해량 +10%",
+    "context": "EN :\n1 ally with the highest Speed deals +10% Pierce damage.\nJP :\n速度が最も高い味方1名の、貫通スキルのダメージ量+10"
+  },
+  {
+    "key": "1080121-name",
+    "original": "살아남고 말것이라는 마음",
+    "context": "EN :\nDetermination to Survive\nJP :\n生き残ってみせるという心"
+  },
+  {
+    "key": "1080121-desc",
+    "original": "현재 체력이 가장 낮은 아군 1명 체력이 50% 미만이면 합 진행 시 합 위력 +1",
+    "context": "EN :\n1 ally with the lowest HP and less than 50% of Max HP gains +1 clash Power in a clash.\nJP :\n現在の体力が最も低い味方1名の体力が50%未満なら、マッチ進行時にマッチ威力+1"
+  },
+  {
+    "key": "1080221-name",
+    "original": "집념",
+    "context": "EN :\nTenacity\nJP :\n執念"
+  },
+  {
+    "key": "1080221-desc",
+    "original": "정신력이 가장 낮은 아군 1명 타격 스킬의 피해량 +10%",
+    "context": "EN :\n1 ally with the lowest SP deals +10% Blunt damage.\nJP :\n精神力が最も低い味方1名の、打撃スキルのダメージ量+10"
+  },
+  {
+    "key": "1080321-name",
+    "original": "투쟁",
+    "context": "EN :\nStrife\nJP :\n闘争"
+  },
+  {
+    "key": "1080321-desc",
+    "original": "현재 체력이 가장 낮은 아군 1명 반격 스킬의 최종 위력 +2",
+    "context": "EN :\n1 ally with the lowest HP gains +2 counter skill final Power.\nJP :\n現在の体力が最も低い味方1名の、反撃スキルの最終威力+2"
+  },
+  {
+    "key": "1080421-name",
+    "original": "매뉴얼대로",
+    "context": "EN :\nBy the Manual\nJP :\nマニュアル通り"
+  },
+  {
+    "key": "1080421-desc",
+    "original": "속도가 가장 낮은 아군 1명 가드 스킬의 최종 위력 +2",
+    "context": "EN :\n1 ally with the lowest Speed gains +2 guard skill final Power.\nJP :\n速度が最も低い味方1名の、ガード最終威力+2"
+  },
+  {
+    "key": "1090121-name",
+    "original": "도박사",
+    "context": "EN :\nGambler\nJP :\n賭博師"
+  },
+  {
+    "key": "1090121-desc",
+    "original": "현재 체력이 가장 높은 아군 1명 앞면이 나온 코인의 피해량 +20%",
+    "context": "EN :\n1 ally with the highest HP deals +20% damage with Heads Coins.\nJP :\n現在の体力が最も高い味方1名の、表面が出たコインのダメージ量+20%"
+  },
+  {
+    "key": "1090221-name",
+    "original": "흑운검술",
+    "context": "EN :\nDark Cloud Swordsmanship\nJP :\n黒雲剣術"
+  },
+  {
+    "key": "1090221-desc",
+    "original": "속도가 가장 낮은 아군 1명 참격 스킬의 피해량 +10%",
+    "context": "EN :\n1 ally with the lowest Speed deals +10% Slash damage.\nJP :\n速度が最も低い味方1名の、斬撃スキルのダメージ量+10"
+  },
+  {
+    "key": "1090321-name",
+    "original": "브리칭",
+    "context": "EN :\nBreaching\nJP :\nブリーチング"
+  },
+  {
+    "key": "1090321-desc",
+    "original": "현재 체력이 가장 높은 아군 1명 이번 턴에 수비스킬을 사용한 적에게 입히는 피해량 +20%",
+    "context": "EN :\n1 ally with the highest HP deals +20% damage to enemies that used defense skills this turn.\nJP :\n現在の体力が最も高い味方1名が、このターンで守備スキルを使用した敵への与ダメージ量+20%"
+  },
+  {
+    "key": "1100121-name",
+    "original": "앙심",
+    "context": "EN :\nGrudge\nJP :\n復讐心"
+  },
+  {
+    "key": "1100121-desc",
+    "original": "정신력이 가장 낮은 아군 1명 다른 아군이 사망하면 다음 턴에 공격 위력 증가 1을 얻음",
+    "context": "EN :\n1 ally with the lowest SP gains 1 Attack Power Up the turn after an ally is defeated.\nJP :\n精神力が最も低い味方1名が、他の味方が死亡すると次のターンに攻撃威力増加 1を得る"
+  },
+  {
+    "key": "1100221-name",
+    "original": "피 묻힌 손",
+    "context": "EN :\nBloodied Hands\nJP :\n血に濡れた手"
+  },
+  {
+    "key": "1100221-desc",
+    "original": "속도가 가장 낮은 아군 1명 마지막 스킬의 최종 위력 +1",
+    "context": "EN :\n1 ally with the lowest Speed gains +1 final Power for their last skill.\nJP :\n速度が最も低い味方1名の、最後のスキル最終威力+1"
+  },
+  {
+    "key": "1100321-name",
+    "original": "뚝심",
+    "context": "EN :\nStubbornness\nJP :\n馬鹿力"
+  },
+  {
+    "key": "1100321-desc",
+    "original": "현재 체력이 가장 낮은 아군 1명 받는 피해량 -10%",
+    "context": "EN :\n1 ally with the lowest HP takes -10% damage.\nJP :\n現在の体力が最も低い味方1名の被ダメージ量-10%"
+  },
+  {
+    "key": "1100421-name",
+    "original": "농락",
+    "context": "EN :\nJugar con Enemigos\nJP :\n籠絡"
+  },
+  {
+    "key": "1100421-desc",
+    "original": "정신력이 가장 높은 아군 1명 자신보다 정신력이 낮은 적 공격 시 피해량 +10%",
+    "context": "EN :\n1 ally with the highest SP deals +10% damage to enemies with lower SP.\nJP :\n精神力の最も高い味方1名が、自分より精神力が低い敵を攻撃時にダメージ量+10%"
+  },
+  {
+    "key": "1110121-name",
+    "original": "군인정신",
+    "context": "EN :\nMilitary Mindset\nJP :\n軍人魂"
+  },
+  {
+    "key": "1110121-desc",
+    "original": "현재 체력이 가장 높은 아군 1명 정신력이 0 미만인 적 공격 시 피해량 +30%",
+    "context": "EN :\n1 ally with the highest HP deals +30% damage to enemies below 0 SP.\nJP :\n現在の体力が最も高い味方1名が、精神力が0未満の敵を攻撃時に与ダメージ量+30%"
+  },
+  {
+    "key": "1110221-name",
+    "original": "확인사살",
+    "context": "EN :\nDouble Tap\nJP :\n死亡確認射撃"
+  },
+  {
+    "key": "1110221-desc",
+    "original": "정신력이 가장 높은 아군 1명 체력이 25% 미만인 적 공격 시 피해량 +30%",
+    "context": "EN :\n1 ally with the highest SP deals +30% damage to enemies below 25% HP.\nJP :\n精神力が最も高い味方1名が、精神力が25未満の敵を攻撃時に与ダメージ量+30%"
+  },
+  {
+    "key": "1110321-name",
+    "original": "각오",
+    "context": "EN :\nResolution\nJP :\n覚悟"
+  },
+  {
+    "key": "1110321-desc",
+    "original": "현재 체력이 가장 높은 아군 1명 전투 시작 시 수비 위력 증가 1, 공격 위력 증가 1, 보호 1 중 무작위 1개 효과를 얻음",
+    "context": "EN :\n1 ally with the highest HP randomly gains 1 Attack Power Up, 1 Defense Power Up, or 1 Protection at the start of the combat phase.\nJP :\n現在の体力が最も高い味方1名が、戦闘開始時に守備威力増加 1、攻撃威力増加 1、保護 1のうち一つをランダムで得る"
+  },
+  {
+    "key": "1120121-name",
+    "original": "인자 코드 G-0",
+    "context": "EN :\nGene Code G-0\nJP :\n因子コードG-0"
+  },
+  {
+    "key": "1120121-desc",
+    "original": "현재 체력이 가장 낮은 아군 1명 전투 시작 시 체력 5 회복",
+    "context": "EN :\nAt the start of the combat phase, the ally with the lowest HP heals 5 HP.\nJP :\n戦闘開始時、現在の体力が最も低い味方1名の体力が5回復"
+  },
+  {
+    "key": "1120221-name",
+    "original": "내달리는 마음",
+    "context": "EN :\nRushing Heart\nJP :\nひた走る心"
+  },
+  {
+    "key": "1120221-desc",
+    "original": "속도가 가장 낮은 아군 1명 3번째 코인 이후부터 피해량 +30%",
+    "context": "EN :\n1 ally with the lowest Speed deals +30% damage with their 3rd and subsequent Coins.\nJP :\n速度が最も低い味方1名の、3番目以降のコインからダメージ量+30%"
+  },
+  {
+    "key": "1120321-name",
+    "original": "인자 코드 G-3",
+    "context": "EN :\nGene Code G-3\nJP :\n因子コードG-3"
+  },
+  {
+    "key": "1120321-desc",
+    "original": "현재 체력이 가장 낮은 아군 1명 합 승리시 체력 5 회복",
+    "context": "EN :\nThe ally with the lowest HP heals 5 HP after winning a clash.\nJP :\n現在の体力が最も低い味方1名がマッチ勝利時、体力を5回復"
+  },
+  {
+    "key": "1000101-name",
+    "original": "분노",
+    "context": "EN :\nWrath\nJP :\n憤怒"
+  },
+  {
+    "key": "1000101-desc",
+    "original": "이번 턴 동안 자신의 공격 적중 시 피해량 +1",
+    "context": "EN :\nDeal +1 damage with attacks after every successful hit this turn.\nJP :\n1ターンの間、自分の攻撃的中時に与ダメージ量 +1"
+  },
+  {
+    "key": "1000121-name",
+    "original": "분노",
+    "context": "EN :\nWrath\nJP :\n憤怒"
+  },
+  {
+    "key": "1000121-desc",
+    "original": "이번 턴 동안 무작위 아군 1명의 공격 적중 시 피해량 +1 ",
+    "context": "EN :\nGive a random ally the following effect: Deal +1 damage with attacks after every successful hit this turn.\nJP :\n1ターンの間、ランダムな味方1名の攻撃的中時に与ダメージ量 +1"
+  },
+  {
+    "key": "1000201-name",
+    "original": "색욕",
+    "context": "EN :\nLust\nJP :\n色欲"
+  },
+  {
+    "key": "1000201-desc",
+    "original": "이번 턴 동안 피격 시 50% 확률로 체력 3 회복",
+    "context": "EN :\nWhen hit by an attack this turn, heal 3 HP at a 50% chance.\nJP :\n1ターンの間、被ダメージ時に50%の確率で体力3回復"
+  },
+  {
+    "key": "1000221-name",
+    "original": "색욕",
+    "context": "EN :\nLust\nJP :\n色欲"
+  },
+  {
+    "key": "1000221-desc",
+    "original": "이번 턴 동안 무작위 아군 1명 피격 시 50% 확률로 체력 3 회복",
+    "context": "EN :\nGive a random ally the following effect: When hit by an attack this turn, heal 3 HP at a 50% chance.\nJP :\n1ターンの間、ランダムな味方1名が被ダメージ時に50%の確率で体力3回復"
+  },
+  {
+    "key": "1000301-name",
+    "original": "나태",
+    "context": "EN :\nSloth\nJP :\n怠惰"
+  },
+  {
+    "key": "1000301-desc",
+    "original": "이번 턴 동안 자신이 받는 피해량 -1",
+    "context": "EN :\nTake 1 less damage this turn.\nJP :\n1ターンの間、自分の被ダメージ量-1"
+  },
+  {
+    "key": "1000321-name",
+    "original": "나태",
+    "context": "EN :\nSloth\nJP :\n怠惰"
+  },
+  {
+    "key": "1000321-desc",
+    "original": "이번 턴 동안 무작위 아군 1명의 받는 피해량 -1",
+    "context": "EN :\nGive a random ally the following effect: Take 1 less damage this turn.\nJP :\n1ターンの間、ランダムな味方1名の被ダメージ量-1"
+  },
+  {
+    "key": "1000401-name",
+    "original": "탐식",
+    "context": "EN :\nGluttony\nJP :\n暴食"
+  },
+  {
+    "key": "1000401-desc",
+    "original": "전투 시작 시 자신의 체력 5 회복",
+    "context": "EN :\nHeal 5 HP at the start of the combat phase.\nJP :\nターン開始時、自分の体力を5回復"
+  },
+  {
+    "key": "1000421-name",
+    "original": "탐식",
+    "context": "EN :\nGluttony\nJP :\n暴食"
+  },
+  {
+    "key": "1000421-desc",
+    "original": "전투 시작 시 무작위 아군 1명의 체력 5 회복",
+    "context": "EN :\nGive a random ally the following effect: Heal 5 HP at the start of the combat phase.\nJP :\nターン開始時、ランダムな味方1名の体力を5回復"
+  },
+  {
+    "key": "1000501-name",
+    "original": "우울",
+    "context": "EN :\nGloom\nJP :\n憂鬱"
+  },
+  {
+    "key": "1000501-desc",
+    "original": "전투 시작 시 자신의 정신력 5 회복",
+    "context": "EN :\nHeal 5 SP at the start of the combat phase.\nJP :\nターン開始時、自分の精神力を5回復"
+  },
+  {
+    "key": "1000521-name",
+    "original": "우울",
+    "context": "EN :\nGloom\nJP :\n憂鬱"
+  },
+  {
+    "key": "1000521-desc",
+    "original": "전투 시작 시 무작위 아군 1명의 정신력 5 회복",
+    "context": "EN :\nGive a random ally the following effect: Heal 5 SP at the start of the combat phase.\nJP :\nターン開始時、ランダムな味方1名の精神力を5回復"
+  },
+  {
+    "key": "1000601-name",
+    "original": "오만",
+    "context": "EN :\nPride\nJP :\n傲慢"
+  },
+  {
+    "key": "1000601-desc",
+    "original": "자신의 겨루기 승리 시 피해량 +2",
+    "context": "EN :\nDeal +2 damage after winning a clash.\nJP :\nマッチ勝利時、自身の与ダメージ量 +2"
+  },
+  {
+    "key": "1000621-name",
+    "original": "오만",
+    "context": "EN :\nPride\nJP :\n傲慢"
+  },
+  {
+    "key": "1000621-desc",
+    "original": "무작위 아군 1명의 겨루기 승리 시 피해량 +2",
+    "context": "EN :\nGive a random ally the following effect: Deal +2 damage after winning a clash.\nJP :\nランダムな味方1名のマッチ勝利時ダメージ量 +2"
+  },
+  {
+    "key": "1000701-name",
+    "original": "질투",
+    "context": "EN :\nEnvy\nJP :\n嫉妬"
+  },
+  {
+    "key": "1000701-desc",
+    "original": "이번 턴 동안 피격 시 25% 확률로 공격자에게 피해 1",
+    "context": "EN :\nWhen hit by an attack this turn, deal 1 damage to the attacker at a 25% chance.\nJP :\n1ターンの間、被ダメージ時に25%の確率で攻撃者に1ダメージ"
+  },
+  {
+    "key": "1000721-name",
+    "original": "질투",
+    "context": "EN :\nEnvy\nJP :\n嫉妬"
+  },
+  {
+    "key": "1000721-desc",
+    "original": "이번 턴 동안 무작위 아군 1명 피격 시 25% 확률로 공격자에게 피해 1",
+    "context": "EN :\nGive a random ally the following effect: When hit by an attack this turn, deal 1 damage to the attacker at a 25% chance.\nJP :\n1ターンの間、ランダムな味方1名が被ダメージ時に25%の確率で攻撃者に1ダメージ"
+  },
+  {
+    "key": "1050401-name",
+    "original": "집념의 망치",
+    "context": "EN :\nObsessive Hammer\nJP :\n執念の金鎚"
+  },
+  {
+    "key": "1050401-desc",
+    "original": "전투 시작 시 체력이 50% 미만이면, 자신에게 부여된 부정적인 효과 중 1개를 제거하고, 광신 1, 공격 위력 증가 1, 보호 3을 얻음",
+    "context": "EN :\nWhen below 50% HP, remove 1 negative status effect and gain 1 Fanatic, 1 Attack Power Up, and 3 Protection at the start of the combat phase.\nJP :\n戦闘開始時、体力が50%未満なら自分に付与されたマイナス効果の内1つを除去し、狂信 1、攻撃威力増加1 、保護3 を得る"
+  },
+  {
+    "key": "1090401-name",
+    "original": "처단의 기쁨",
+    "context": "EN :\nJoy of Execution\nJP :\n処断の歓び"
+  },
+  {
+    "key": "1090401-desc",
+    "original": "적이 사망하면 다음 턴 시작 시 신속 1, 피해량 증가 1을 얻음. 자신이 적을 처치한 경우 광신 1을 얻음.(턴 당 1회 발동)",
+    "context": "EN :\nAfter an enemy is defeated, gain 1 Haste and 1 Damage Up next turn.\nIf this unit defeated an enemy, also gain 1 Fanatic. (Once per turn.)\nJP :\n敵が死亡すると次のターン開始時にクイック 1、ダメージ量増加 1を得る。自分が敵を倒した場合は狂信 1を得る(1ターンに1回発動)"
+  },
+  {
+    "key": "1050421-name",
+    "original": "으뜸 영광",
+    "context": "EN :\nHighest Honor\nJP :\n至上の栄光"
+  },
+  {
+    "key": "1050421-desc",
+    "original": "현재 체력이 가장 낮은 아군 1명이 체력이 50% 미만이면 공격 위력 증가 1, 보호 1을 얻음. 대상이 N사 광신도면 광신 1을 추가로 얻음",
+    "context": "EN :\nApply 1 Attack Power Up and 1 Protection to the ally with the lowest HP.\nIf the ally is from N Corp, also apply 1 Fanatic.\nJP :\n現在の体力が最も低い味方1名の体力が50%未満なら、攻撃威力増加 1、保護 1を得る。対象がN社の狂信者なら狂信 1を追加で得る"
+  },
+  {
+    "key": "1090421-name",
+    "original": "차오르는 신앙",
+    "context": "EN :\nRising Faith\nJP :\n満ちゆく信仰"
+  },
+  {
+    "key": "1090421-desc",
+    "original": "적이 사망하면 정신력이 가장 높은 아군 1명이 다음 턴에 신속 1, 피해량 증가 1을 얻음 (턴 당 1회 발동)",
+    "context": "EN :\nAfter an enemy is defeated, apply 1 Haste and 1 Damage Up to the ally with the highest SP. (Once per turn.)\nJP :\n敵が死亡した場合、精神力が最も低い味方1名が次のターンにクイック 1、ダメージ量増加 1を得る(1ターンに1回発動)"
+  },
+  {
+    "key": "1020401-name",
+    "original": "휘파람",
+    "context": "EN :\nWhistles\nJP :\n口笛"
+  },
+  {
+    "key": "1020401-desc",
+    "original": "전투 시작 시 정신력이 가장 낮은 아군 2명의 정신력 15 회복. 대상이 N사 광신도면 광신 1 부여",
+    "context": "EN :\nAt the start of the combat phase, heal 2 allies with the lowest SP for 15 SP. If the ally is from N Corp, also apply 1 Fanatic.\nJP :\n戦闘開始時、精神力が最も低い味方2名の精神力を15回復。対象がN社の狂信者なら狂信 1を付与"
+  },
+  {
+    "key": "1020421-name",
+    "original": "속삭임",
+    "context": "EN :\nWhispers\nJP :\n囁き"
+  },
+  {
+    "key": "1020421-desc",
+    "original": "전투 시작 시 정신력이 가장 낮은 아군 1명의 정신력 15 회복. 대상이 N사 광신도면 광신 1 부여",
+    "context": "EN :\nAt the start of the combat phase, heal the ally with the lowest SP for 15 SP. If the ally is from N Corp, also apply 1 Fanatic.\nJP :\n戦闘開始時、精神力が最も低い味方1名の精神力を15回復。対象がN社の狂信者なら狂信 1を付与"
+  },
+  {
+    "key": "1070401-name",
+    "original": "젠장...",
+    "context": "EN :\nBugger…\nJP :\nクソッ…。"
+  },
+  {
+    "key": "1070401-desc",
+    "original": "아군이 사망하면 다음 턴 시작 시 정신력이 10 감소하고, 타격 위력 증가 1을 얻음",
+    "context": "EN :\nWhen an ally is defeated, lose 10 SP and gain 1 Blunt Power Up next turn.\nJP :\n味方が死亡すれば次のターン開始時に精神力が10減少し、打撃威力増加 1を得る"
+  },
+  {
+    "key": "1070421-name",
+    "original": "독경",
+    "context": "EN :\nCantillation\nJP :\n読経"
+  },
+  {
+    "key": "1070421-desc",
+    "original": "속도가 가장 빠른 아군 1명의 못 부여 값 +1",
+    "context": "EN :\n1 ally with the highest Speed inflicts +1 Nails.\nJP :\n速度が最も高い味方1名の、釘 付与値 +1"
+  },
+  {
+    "key": "1110401-name",
+    "original": "약점 파악",
+    "context": "EN :\nGrasping Vulnerabilities\nJP :\n弱点把握"
+  },
+  {
+    "key": "1110401-desc",
+    "original": "상대의 약점이나 취약 속성으로 공격할 때 피해량 +10%",
+    "context": "EN :\nWhen attacking a target with a damage type the target is “Weak” or “Fatal” to, deal +10% damage.\nJP :\n相手の弱点や脆弱属性で攻撃するとき、ダメージ量 +10%"
+  },
+  {
+    "key": "1110421-name",
+    "original": "정보 공유",
+    "context": "EN :\nRelay Intelligence\nJP :\n情報共有"
+  },
+  {
+    "key": "1110421-desc",
+    "original": "속도가 가장 높은 아군 1명이 상대의 약점이나 취약 속성으로 공격할 때 피해량 +10%",
+    "context": "EN :\n1 ally with the highest Speed deals +10% damage when attacking a target with a damage type the target is “Weak” or “Fatal” to.\nJP :\n速度が最も高い味方1名が相手の弱点や脆弱属性で攻撃するとき、ダメージ量+10%"
+  },
+  {
+    "key": "1060401-name",
+    "original": "끓어오르는군요~",
+    "context": "EN :\nFlaring Up~\nJP :\n沸き立ちますね～"
+  },
+  {
+    "key": "1060401-desc",
+    "original": "자신의 정신력이 30 이상일 때 공격 스킬의 스킬 효과, 코인 효과로 부여하는 화상 횟수 부여 값 +1",
+    "context": "EN :\nAt 30+ SP, inflict +1 Burn Count with the effects of attack skills/coins.\nJP :\n自分の精神力が30以上のとき、攻撃スキルのスキル・コイン効果で付与する火傷 回数の付与値 +1"
+  },
+  {
+    "key": "1060421-name",
+    "original": "따뜻하죠?",
+    "context": "EN :\nIsn’t It Warm?\nJP :\n暖かいですよね？"
+  },
+  {
+    "key": "1060421-desc",
+    "original": "정신력이 가장 높은 아군 1명의 공격 스킬의 스킬 효과, 코인 효과로 부여하는 화상 횟수 부여 값 +1",
+    "context": "EN :\n1 ally with the highest SP inflicts +1 Burn Count with the effects of their attack skills/coins.\nJP :\n精神力が最も高い味方1名の、攻撃スキルのスキル・コイン効果で付与する火傷 回数の付与値 +1"
+  },
+  {
+    "key": "1040401-name",
+    "original": "즉흥 조리",
+    "context": "EN :\nRustle Up\nJP :\n即席料理"
+  },
+  {
+    "key": "1040401-desc",
+    "original": "적 처치 시 체력이 가장 낮은 아군 1명의 체력 15 회복 (턴 당 1회 발동).\n갈증 이 있는 경우 전부 소모하고, 소모한 갈증 에 비례하여 체력 회복량 증가.",
+    "context": "EN :\nAfter defeating an enemy, heal the ally with the lowest HP for 15 HP. (Once per turn.)\nIf this unit has an Appetite, spend it to boost the healing based on its Count.\nJP :\n敵討伐時、体力が最も低い味方1名の体力を15回復(1ターンに1回発動)\n渇き がある場合は全て消耗し、消耗した渇き に比例して体力回復量が増加。"
+  },
+  {
+    "key": "1040421-name",
+    "original": "예술적인 맛",
+    "context": "EN :\nArtistic Flavor\nJP :\n芸術的な味"
+  },
+  {
+    "key": "1040421-desc",
+    "original": "적 사망 시 체력이 가장 낮은 아군 1명의 체력 15 회복. (턴 당 1회 발동)",
+    "context": "EN :\nWhen an enemy is defeated, the ally with the lowest HP heals 15 HP. (Once per turn.)\nJP :\n敵死亡時、体力の最も低い味方1名の体力を15回復(1ターンに1回発動)"
+  },
+  {
+    "key": "1120401-name",
+    "original": "파이 포장",
+    "context": "EN :\nPacked Pies\nJP :\nパイ包み"
+  },
+  {
+    "key": "1120401-desc",
+    "original": "전투 시작 시 자신의 체력 8 회복",
+    "context": "EN :\nHeal 8 HP at the start of the combat phase.\nJP :\nターン開始時、自分の体力を8回復"
+  },
+  {
+    "key": "1120421-name",
+    "original": "조리 보조",
+    "context": "EN :\nCulinary Aid\nJP :\n調理補助"
+  },
+  {
+    "key": "1120421-desc",
+    "original": "체력이 가장 낮은 아군 1명이 전투 시작 시 체력 5 회복\n료.고.파. 주방장 료슈 - 즉흥 조리 패시브의 체력 회복량 +5",
+    "context": "EN :\nAt the start of the combat phase, the ally with the lowest HP heals 5 HP.\nBoost the healing of R.B. Chef de Cuisine Ryōshū’s Passive ‘Rustle Up’ by 5.\nJP :\n体力が最も低い味方1名が戦闘開始時に体力が5回復\nりょ・ミ・パ厨房長 良秀 - 即席料理パッシブの体力回復量+5"
+  }
+]

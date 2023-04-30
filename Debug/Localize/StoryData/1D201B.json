@@ -1,0 +1,197 @@
+[
+  {
+    "key": "0-place",
+    "original": "4구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 4 - LC Branch Interior\nJP :\n4区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-content",
+    "original": "우리는 한 층을 더 내려왔다.",
+    "context": "EN :\nWe went down a floor.\nJP :\n私たちはもう一階下がった。"
+  },
+  {
+    "key": "1-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "1-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "1-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "1-content",
+    "original": "이곳을 다시 오게 될 줄 몰랐어요.",
+    "context": "EN :\nI didn’t think I’d come back here.\nJP :\nここにまた来ることになるとは思いませんでした。"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "대체적으로 로보토미 지부들은 여러 개의 층으로 구성이 되어 있어요.",
+    "context": "EN :\nMost of Lobotomy Corporation’s facilities consist of multiple floors.\nJP :\n通常、ロボトミー支部はいくつかの階層で構成されています。"
+  },
+  {
+    "key": "3-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-content",
+    "original": "그리고 각자 층마다 주인이 되는 환상체들이 존재할 거예요.",
+    "context": "EN :\nAnd each floor is expected to be occupied by an Abnormality marking its domain.\nJP :\nそして、それぞれの階層ごとに主となる幻想体が存在するでしょう。"
+  },
+  {
+    "key": "4-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "4-content",
+    "original": "으응?! 아까 그런 게 또 나온다고?",
+    "context": "EN :\nSeriously?! There’s more of ‘em?\nJP :\nえぇ！？さっきみたいのがまた出てくるの？"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "그런… 전투 정보? 그걸 대체 어떻게 알고 있는 거야?",
+    "context": "EN :\nSo… Where’d you figure all that info about what we’ll face and stuff?\nJP :\n…そんな戦闘情報？そういうのは一体どこから知ったんだ？"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "파우스트는 모든 걸 알고 있어요.",
+    "context": "EN :\nFaust knows it all.\nJP :\nファウストは全てを知っています。"
+  },
+  {
+    "key": "7-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "7-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "7-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "7-content",
+    "original": "안내에서는 비포 팀이 사전 정찰을 한다고 하더라고요.",
+    "context": "EN :\nThe guide said a Before Team does reconnaissance in advance.\nJP :\n案内ではビフォーチームが事前視察をするって言ってましたね。"
+  },
+  {
+    "key": "8-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "8-content",
+    "original": "…그냥 네가 관계자라서 아는 것뿐이잖아.",
+    "context": "EN :\n…So you only know that because you have ties to the staff.\nJP :\n…ただ君が関係者だから知ってるだけじゃないか。"
+  },
+  {
+    "key": "9-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-content",
+    "original": "틀린 말을 하진 않았잖아요.",
+    "context": "EN :\nI never claimed otherwise.\nJP :\n間違ったことを言ったわけではないじゃないですか。"
+  },
+  {
+    "key": "10-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "10-content",
+    "original": "어쨌든, 주요 적군이 매 층에 하나씩은 존재한다는 거군.",
+    "context": "EN :\nAnyway, this means we should expect a great threat on every floor.\nJP :\nとにかく、主要敵軍が各階層ごとにひとつは存在するということか。"
+  },
+  {
+    "key": "11-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11-content",
+    "original": "등 뒤에 적을 두고서 전진하는 멍청한 일은 할 수 없으니, 결국 그 층의 환상체를 정리해야만 하겠군…",
+    "context": "EN :\nIt’d be idiotic to advance into the unknown without making sure that we’re clear of danger in at least one direction, leaving us with no choice but to take them down as we go…\nJP :\n敵を背にして前進するような馬鹿げたことはできないから、\n結局はその階の幻想体を片付けるしかないな…。"
+  },
+  {
+    "key": "12-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-content",
+    "original": "파우스트가 할 말을 앗아가 버렸네요.",
+    "context": "EN :\nYou took the words right out of Faust’s mouth.\nJP :\nファウストが言うべきことを奪ってしまいましたね。"
+  },
+  {
+    "key": "13-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "13-content",
+    "original": "말하지 않더라도 의도를 전달할 수 있다면 그보다 이상적인 것은 없지 않겠소?",
+    "context": "EN :\nIs it not a splendid thing to be able to convey your intentions before they have been verbalized?\nJP :\n言の葉を言わずとも思う様を告ぐことあたわば、より理想的なるものなからずや？"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-content",
+    "original": "…단테, 별을 볼 때예요.",
+    "context": "EN :\n…Dante, it’s time to see the star.\nJP :\n…ダンテ、星を見るのです。"
+  },
+  {
+    "key": "15-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "15-content",
+    "original": "<나를 너무 편리하게 쓰는 건 아닌가 싶은데…>",
+    "context": "EN :\n<I’m your manager, not a scapegoat, you know…>\nJP :\n<私のこと、気軽に使いすぎてないか……？>"
+  }
+]

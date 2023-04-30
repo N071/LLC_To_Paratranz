@@ -1,0 +1,213 @@
+[
+  {
+    "key": "0-place",
+    "original": "지하실 어딘가",
+    "context": "EN :\nBasement Area\nJP :\n地下室のどこか"
+  },
+  {
+    "key": "0-content",
+    "original": "우리는 불타버린 집 안으로 들어갔고, 싱클레어는 우리를 지하실로 안내했다.",
+    "context": "EN :\nWe entered the charred mansion, and Sinclair led us to the basement.\nJP :\n私たちは燃え尽きた家の中に入り、シンクレアは私たちを地下室に案内した。"
+  },
+  {
+    "key": "1-content",
+    "original": "그 지하실의 문을 열자…",
+    "context": "EN :\nWhen he opened the door…\nJP :\nその地下室のドアを開けると…。"
+  },
+  {
+    "key": "2-place",
+    "original": "지하통로",
+    "context": "EN :\nUnderground Passage\nJP :\n地下通路"
+  },
+  {
+    "key": "2-content",
+    "original": "어딘가로 이어져 있는 기다란 지하 통로가 드러났다.",
+    "context": "EN :\nA long underpass leading to an unknown destination was revealed to us.\nJP :\nどこかへと繋がっている地下通路が姿を現した。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<이런 곳에 지하 통로가…>",
+    "context": "EN :\n<To think there’d be a tunnel down here…>\nJP :\n<こんな場所に地下通路が…。>"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "아마… 제 짐작이 맞는다면 이 통로가 로보토미 지부로 이어지는 통로일 거예요.",
+    "context": "EN :\nSo… if my guess is right, then this passage should lead to the branch facility.\nJP :\nたぶん…僕の推測が正しければ、この通路が\nロボトミー支部へ繋がる通路だと思います。"
+  },
+  {
+    "key": "5-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "5-content",
+    "original": "지하실에 대체 왜 이런 수상한 통로가 있는 거야?",
+    "context": "EN :\nWhy’re you keeping this shifty shaft in your basement?\nJP :\n地下室に一体なんでこんな怪しい通路があんだよ？"
+  },
+  {
+    "key": "6-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "6-content",
+    "original": "원래는 없었어요.",
+    "context": "EN :\nIt wasn’t here before.\nJP :\n元々は無かったんです。"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "뭐? 그럼 우리를 어떻게 알고 지하실로 안내한 건데?",
+    "context": "EN :\nWhat? Then how’d you know we oughta go to the basement?\nJP :\nはぁ？じゃあどうしてオレたちを地下室にまで案内したんだよ？"
+  },
+  {
+    "key": "8-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "8-content",
+    "original": "나침반이 북쪽 방향에 이끌리듯이… 그냥 느낌으로 알 수 있었던 것뿐이에요.",
+    "context": "EN :\nIt’s like how magnetic fields draw a compass needle northward… I was brought here by intuition.\nJP :\n羅針盤が北を向くように…ただ感覚で分かっただけです。"
+  },
+  {
+    "key": "9-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "10-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "10-content",
+    "original": "…그거 아니었나요?",
+    "context": "EN :\n…Isn’t that what it is?\nJP :\n…そうじゃなかったでしたっけ？"
+  },
+  {
+    "key": "11-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11-content",
+    "original": "저희를 가지를 향한 나침반으로 쓰려고 데리고 다니는 거.",
+    "context": "EN :\nYou’re bringing us along to use as sensors for the Boughs.\nJP :\n僕たちを枝へと向かう羅針盤として使うために連れて回ってるってこと。"
+  },
+  {
+    "key": "12-content",
+    "original": "싱클레어는 파우스트를 조용하게 쳐다보았고.",
+    "context": "EN :\nSinclair quietly looked at Faust.\nJP :\nシンクレアはファウストを静かに見つめ、"
+  },
+  {
+    "key": "13-content",
+    "original": "그녀는 그에게 대답하는 대신, 물 흐르듯 지나와 지하실의 문 앞에 섰다.",
+    "context": "EN :\nInstead of answering him, she strode past him and stood before the door.\nJP :\n彼女は彼に答える代わりに、\n水が流れるように素通りしつつ地下室のドアの前へ立った。"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-content",
+    "original": "재질을 보아하니 비교적 최근에 만들어진 것 같군요.",
+    "context": "EN :\nJudging from the material, this tunnel seems to have been made relatively recently.\nJP :\n材質を見るに、比較的最近作られたようですね。"
+  },
+  {
+    "key": "15-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-content",
+    "original": "아마 N사의 파견원들이 이곳을 점령하며 만들어 놓았겠죠.",
+    "context": "EN :\nIt was likely dug by N Corp’s expeditionary forces when they had occupied the town.\nJP :\n恐らく、N社の派遣員がここを占領して作ったものでしょう。"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "짧은 길은 아닐 거예요. 그들만을 위한 통로인 만큼, 적들을 마주칠 가능성도 다분하겠죠.",
+    "context": "EN :\nIt won’t be a short trip. Given that this passage was excavated for their use, we will assuredly run into foes on the way.\nJP :\n短い道ではないと思われます。彼らのためだけに作られた通路なので、敵に遭遇する可能性も多分にあるでしょう。"
+  },
+  {
+    "key": "17-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-content",
+    "original": "…준비되었으면 출발하죠.",
+    "context": "EN :\n…We should move once we are ready.\nJP :\n…準備ができたら出発しましょう。"
+  },
+  {
+    "key": "18-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "18-content",
+    "original": "<…….>",
+    "context": "EN :\n<……>\nJP :\n<……。>"
+  },
+  {
+    "key": "19-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "19-content",
+    "original": "그렇게 쳐다보지 마세요, 단테.",
+    "context": "EN :\nDon’t give me that look, Dante.\nJP :\nそう見つめてこないでください、ダンテ。"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-content",
+    "original": "…저는 아무 말도 할 수 없을 뿐이에요.",
+    "context": "EN :\n…I am simply not in the position to comment on it.\nJP :\n…私は何も言わずにいることしか出来ません。"
+  }
+]

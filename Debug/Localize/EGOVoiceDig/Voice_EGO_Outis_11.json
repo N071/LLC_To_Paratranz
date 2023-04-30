@@ -1,0 +1,52 @@
+[
+  {
+    "key": "battle_erosion_21102_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_21102_1-dlg",
+    "original": "조금만 더…",
+    "context": "EN :\nJust a little more…\nJP :\nもうちょっと…。"
+  },
+  {
+    "key": "battle_awaken_21101_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_21101_1-dlg",
+    "original": "여행엔 목적이 있었지…",
+    "context": "EN :\nThe odyssey had a purpose…\nJP :\n旅には目的があったのさ…。"
+  },
+  {
+    "key": "battle_awaken_21102_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_21102_1-dlg",
+    "original": "승리를 위해서라면…",
+    "context": "EN :\nIf this is to seize victory…\nJP :\n勝利のためならば…。"
+  },
+  {
+    "key": "battle_awaken_21103_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_21103_1-dlg",
+    "original": "모든 업은 다시 돌아와, 네 머리 위에 내려질 것이다.",
+    "context": "EN :\nKarma shall find its way back to you, and rest atop your head.\nJP :\n全ての業は再び戻り、あなたの頭の上に降りかかるであろう。"
+  },
+  {
+    "key": "battle_erosion_21103_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_21103_1-dlg",
+    "original": "고요해져라… 처음부터 어떤 번민도 없던 것처럼…",
+    "context": "EN :\nFall silent… As if there were no suffering in the first place…\nJP :\n静まれ…最初からいかなる煩悶もなかったかのように…。"
+  }
+]

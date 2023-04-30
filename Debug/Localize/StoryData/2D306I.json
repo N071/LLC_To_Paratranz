@@ -1,0 +1,235 @@
+[
+  {
+    "key": "0-place",
+    "original": "얼음 성 내부",
+    "context": "EN :\nWithin the Ice Castle\nJP :\n氷の城 内部"
+  },
+  {
+    "key": "0-content",
+    "original": "쿵!",
+    "context": "EN :\nTHOOM!\nJP :\nガン！"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<무슨…>",
+    "context": "EN :\n<What the…?>\nJP :\n<なんの…。>"
+  },
+  {
+    "key": "2-content",
+    "original": "성이 사정없이 흔들리며 곳곳에서 잔해들이 떨어지기 시작했다.",
+    "context": "EN :\nThe castle trembles intensely as frosty rubble falls around us from above.\nJP :\n城が容赦なく揺れ、あちこちから瓦礫が落ち始めた。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<이, 이대로 있다간…>",
+    "context": "EN :\n<Wait, if this keeps up…>\nJP :\n<こ、このままじゃ…。>"
+  },
+  {
+    "key": "4-content",
+    "original": "불길한 생각이 머릿 속을 스쳐 지나간다. ",
+    "context": "EN :\nA foreboding idea flashes in my head.\nJP :\n不吉な考えが、頭の中を過った。"
+  },
+  {
+    "key": "5-content",
+    "original": "째깍이는 소리가 마치 우리에게 남은 시간을 계산해주는 것처럼 들려왔다.",
+    "context": "EN :\nThe ticking of my clock was like a reminder of how much time we had left.\nJP :\nカチカチという音が、まるで私たちに残された時間を\n計算してくれているように聞こえてきた。"
+  },
+  {
+    "key": "6-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-content",
+    "original": "<다… 다들 도망쳐!>",
+    "context": "EN :\n<Out… Outside, now!>\nJP :\n<み…みんな逃げて！>"
+  },
+  {
+    "key": "7-place",
+    "original": "이웃이 잠든 얼음 성",
+    "context": "EN :\nIce Castle Where Neighbors Lie\nJP :\n隣人の眠る氷の城"
+  },
+  {
+    "key": "7-content",
+    "original": "우리는 황급히 성을 빠져나갔다.",
+    "context": "EN :\nWe evacuated from it in a hurry.\nJP :\n私たちは慌てて城を抜け出した。"
+  },
+  {
+    "key": "8-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "8-content",
+    "original": "…지금 제가 잘못 보고 있는 건 아니죠?",
+    "context": "EN :\n…Am I seeing this right?\nJP :\n…見間違いじゃないですよねこれ？"
+  },
+  {
+    "key": "9-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "9-content",
+    "original": "성이 무너지는 것이 아니라 마치…",
+    "context": "EN :\nThe castle isn’t falling apart, it’s like…\nJP :\n城が崩れるんじゃなくて、まるで…。"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "네, 확실히 일어서고 있네요. ",
+    "context": "EN :\nIndeed, it’s most certainly rising to its feet.\nJP :\nはい、確かに起き上がってますね。"
+  },
+  {
+    "key": "11-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11-content",
+    "original": "뒤돌아보지 마! 그냥 달리라고!",
+    "context": "EN :\nDon’t look back! Just run!\nJP :\n後ろを見るな！ただ走れ！"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "<허억… 허억… 일단, 최선을 다해 뛰어오긴 했는데…>",
+    "context": "EN :\n<Hoogh… Gahh… I, we ran quite a bit, but what now…?>\nJP :\n<はぁっ…はぁっ…。とりあえず、全力で走ったけど…。>"
+  },
+  {
+    "key": "13-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "13-content",
+    "original": "발소리. 사람의 것은 아니다. 제법 둔중하고 무거워.",
+    "context": "EN :\nFootfalls. Not of a human. Rather slow and heavy.\nJP :\n足音。人間のものではない。かなり鈍くて重い。"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-content",
+    "original": "…그냥 엄청 큰 게 쫓아온다고 말하면 되는 거잖아요!",
+    "context": "EN :\n…You could just say that something mammoth is after us!\nJP :\n…普通にすごくでっかいのが追っかけてくるって言えばいいじゃないですか！"
+  },
+  {
+    "key": "15-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "15-content",
+    "original": "그러는 편이 나았을지도 모르지.",
+    "context": "EN :\nThat may have served better.\nJP :\nその方が良かったかもしれない。"
+  },
+  {
+    "key": "16-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "16-content",
+    "original": "다, 단테! 일단 어떻게 끝냈으니까 빨리 여길 나가자! 어?",
+    "context": "EN :\nD—Dante! Our job here’s done, so we can just book it! Cool?\nJP :\nダ、ダンテ！とりあえずなんとか終わったから早くここから出て行こう！ねぇ？"
+  },
+  {
+    "key": "17-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "17-content",
+    "original": "<자, 잠깐만! 내려올 줄만 알았지, 나도 이 이후는…>",
+    "context": "EN :\n<G-Gimme a second! I never considered what to do after getting down here…>\nJP :\n<ま、待って！とりあえず下りるだけだと思ったから、これから先はまだ…>"
+  },
+  {
+    "key": "18-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "18-content",
+    "original": "아, 진짜! 지금 그딴 게 문제야?!",
+    "context": "EN :\nOh, really! Does this look like the time for dopey plans?!\nJP :\nあぁもぅ！今そんなこと言ってる場合！？"
+  },
+  {
+    "key": "19-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "19-content",
+    "original": "버스… 버스는 어딨지?",
+    "context": "EN :\nThe bus… Where’s the bus?\nJP :\nバス…バスはどこだ？"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "도움도 안 되는 소리 그만 지껄여! 일단 반대로 뛰어!",
+    "context": "EN :\nStop yapping useless rubbish! We’re running the hell away!\nJP :\n役に立たないことほざいてんじゃねぇよ！とりあえず反対側に逃げろ！"
+  },
+  {
+    "key": "21-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "21-content",
+    "original": "처음으로, 논리적인 말을 들은 것 같네요. 히스클리프.",
+    "context": "EN :\nThat might be the first logical statement I’ve heard leave your mouth, Heathcliff.\nJP :\n初めて、論理的なことを言ったような気がしますね。ヒースクリフ。"
+  },
+  {
+    "key": "22-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "22-content",
+    "original": "…너는 이따가 대갈통을 부숴주마.",
+    "context": "EN :\n…I’m smashing your skull to pieces later.\nJP :\n…お前後でノーテンかち割んぞ。"
+  }
+]

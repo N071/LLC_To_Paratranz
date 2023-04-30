@@ -1,0 +1,862 @@
+[
+  {
+    "key": "0-place",
+    "original": "검은 숲",
+    "context": "EN :\nA Dark Forest\nJP :\n黒い森"
+  },
+  {
+    "key": "0-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "0-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "0-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "0-content",
+    "original": "이해가 되지 않는군. 이런 것들에게 사자가 당했다고?",
+    "context": "EN :\nI don’t get it. This is what Lion struggled against?\nJP :\n理解できないな。こんなやつらに獅子がやられたって？"
+  },
+  {
+    "key": "1-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "1-content",
+    "original": "어, 어이 잠깐만!",
+    "context": "EN :\nW-Whoa, hang on!\nJP :\nお、おいちょっと待てよ！"
+  },
+  {
+    "key": "2-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "2-content",
+    "original": "방금까지 싸웠던 사람이 말하긴 그렇지만, 이건 대화로 풀 수 있는…",
+    "context": "EN :\nI know this is kinda weird coming from someone you were just fighting, but I’m pretty sure we can talk this o—\nJP :\nさっきまで戦ってたのにこう言うのもなんだけど、話せばわか…。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "……!",
+    "context": "EN :\n……!\nJP :\n……！"
+  },
+  {
+    "key": "4-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "4-content",
+    "original": "이건…",
+    "context": "EN :\nThis…\nJP :\nこれは…。"
+  },
+  {
+    "key": "5-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "5-content",
+    "original": "이상적이지 않소.",
+    "context": "EN :\n…is unideal.\nJP :\n理想的にあらず。"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "하… 처음부터 말이 안 되는 싸움이라고 생각했는데.",
+    "context": "EN :\nHaa… I knew it was a ridiculous idea to put up a fight against them.\nJP :\nはぁ…最初からとんでもない戦いになると思ってはいたけど。"
+  },
+  {
+    "key": "7-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "7-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "8-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "8-content",
+    "original": "다들 장난해? 난 시작도…",
+    "context": "EN :\nAre y’all kidding? I haven’t even…\nJP :\nあんたらふざけてるの？私はまだ興すら…。"
+  },
+  {
+    "key": "9-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "9-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "10-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "10-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "10-content",
+    "original": "<어떻게 된 거야? 날 대신해서 싸워준다고 했잖아!>",
+    "context": "EN :\n<What the hell is going on? You said you’ll fight in my stead!>\nJP :\n<どうなってるんだ？私の代わりに戦ってくれるって言っただろ！>"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "이겨준다는 말은 안 했어요.",
+    "context": "EN :\nWe never promised to win said fights.\nJP :\n勝ってあげるとは言ってませんよ。"
+  },
+  {
+    "key": "12-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "12-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "12-content",
+    "original": "<뭐…>",
+    "context": "EN :\n<What…>\nJP :\n<えっ…。>"
+  },
+  {
+    "key": "13-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-content",
+    "original": "그리고, 저만 남았네요.",
+    "context": "EN :\nAnd, it seems that I’m the only survivor.\nJP :\nそして、私だけが残りましたね。"
+  },
+  {
+    "key": "14-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "14-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "14-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "14-content",
+    "original": "<그, 그래. 이렇게 되기를 기다리고 있었던 건가?>",
+    "context": "EN :\n<Oookay. So you were waiting for this?>\nJP :\n<そ、そうか。こうなるまで待っていたのか？>"
+  },
+  {
+    "key": "15-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "15-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "15-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "15-content",
+    "original": "<비장의 수가 있는 거지?>",
+    "context": "EN :\n<You have some hidden card up your sleeve, right?>\nJP :\n<奥の手があるんだろ？>"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "비장의 수… 라기보단, 그저.",
+    "context": "EN :\nNot… necessarily a trump, no. Rather…\nJP :\n奥の手…というよりかは、ただ。"
+  },
+  {
+    "key": "17-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-content",
+    "original": "별을 따라가는 거죠.",
+    "context": "EN :\nIt’s about following the star.\nJP :\n星を追いかけるのです。"
+  },
+  {
+    "key": "18-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "18-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "18-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "18-content",
+    "original": "단체로 자살 놀이라도 하는 건가? 썩 유쾌하진 않군.",
+    "context": "EN :\nWhat is this, some kind of suicidal performance? Not the funnest lives to end.\nJP :\n集団自殺ごっこでもするつもりか？あまり愉快じゃないな。"
+  },
+  {
+    "key": "19-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "19-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "19-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "19-content",
+    "original": "<대체… 뭘 어쩌라는 거야?>",
+    "context": "EN :\n<What… what am I supposed to do?>\nJP :\n<一体…何をどうしろって？>"
+  },
+  {
+    "key": "20-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "20-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "20-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "20-content",
+    "original": "<의기양양하게 등장해서 죽어나가는 꼴이라니…>",
+    "context": "EN :\n<They jumped in triumphantly only to die like flies…>\nJP :\n<意気揚々と登場して死ぬ…。>"
+  },
+  {
+    "key": "21-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "21-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "21-content",
+    "original": "<으… 아까 저자의 말을 따라 한 다음부터 옛 기억이 전혀 나질 않아.>",
+    "context": "EN :\n<Gah… I can’t remember a thing about the past since I repeated what she said.>\nJP :\n<うぅ…さっきのあの人の言うとおりにしてから昔の記憶がまったく思い出せないな。>"
+  },
+  {
+    "key": "22-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "22-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "22-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "22-content",
+    "original": "<나는… 이렇게 죽는 건가?>",
+    "context": "EN :\n<Is this… how I die?>\nJP :\n<私は…これで死ぬのか？>"
+  },
+  {
+    "key": "23-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "23-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "23-content",
+    "original": "뱀에게 전해라, 거짓 사자. ",
+    "context": "EN :\nTell the Serpent this, false lion.\nJP :\n蛇に伝えろ、偽獅子。"
+  },
+  {
+    "key": "24-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "24-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "24-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "24-content",
+    "original": "이건 막을 수 없는 흐름이라고.",
+    "context": "EN :\nThis flow cannot be stopped.\nJP :\nこれは止められない流れだと。"
+  },
+  {
+    "key": "25-model",
+    "original": "사자",
+    "translation": "狮子",
+    "context": "EN :\n狮子\nJP :\nLion"
+  },
+  {
+    "key": "25-teller",
+    "original": "사자",
+    "context": "EN :\nLion\nJP :\n獅子"
+  },
+  {
+    "key": "25-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "25-content",
+    "original": "으… 끄아악!!",
+    "context": "EN :\nGrh… GAAAH!!\nJP :\nうっ…ぐぁあっ！！"
+  },
+  {
+    "key": "26-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "26-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "26-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "26-content",
+    "original": "붉은색…? 왜?",
+    "context": "EN :\nRed…? But why?\nJP :\n赤色…？どうして？"
+  },
+  {
+    "key": "27-model",
+    "original": "늑대",
+    "translation": "狼",
+    "context": "EN :\n狼\nJP :\nWolf"
+  },
+  {
+    "key": "27-teller",
+    "original": "늑대",
+    "context": "EN :\nWolf\nJP :\n狼"
+  },
+  {
+    "key": "27-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "27-content",
+    "original": "아으윽…",
+    "context": "EN :\nArgh…\nJP :\nあうぅっ…。"
+  },
+  {
+    "key": "28-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "28-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "28-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-content",
+    "original": "내가 왜 팔다리만 잘라낸 줄 아나?",
+    "context": "EN :\nDo you know why I only dismembered those two?\nJP :\n俺がどうして手足だけを切ったか分かるか？"
+  },
+  {
+    "key": "29-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "29-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "29-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "29-content",
+    "original": "그래야 사지 멀쩡한 네가 저들을 데리고 허둥지둥 이곳을 벗어날 테니까.",
+    "context": "EN :\nBecause at least one of you needs to be able to carry the rest out of here.\nJP :\nそうすれば、五体満足のお前があいつらを連れてそそくさとここから逃げるだろうから。"
+  },
+  {
+    "key": "30-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "30-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "30-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-content",
+    "original": "달아난 팔과 다리를 대체해 줄 놈이 너밖에 없으니.",
+    "context": "EN :\nAnd you’re the only one left to offer them any help.\nJP :\nすっ飛んだ手足の代わりになってくれるやつがお前しかいないからな。"
+  },
+  {
+    "key": "31-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "31-teller",
+    "original": "표범",
+    "context": "EN :\nPanther\nJP :\n豹"
+  },
+  {
+    "key": "31-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "31-content",
+    "original": "…붉은시선.",
+    "context": "EN :\n…The Red Gaze.\nJP :\n…赤い視線。"
+  },
+  {
+    "key": "32-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "32-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "32-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-content",
+    "original": "그렇게 노려보지 마. 네놈들이 해 놓은 짓에 비하면 별것도 아니잖아.",
+    "context": "EN :\nDon’t glare at me like that. This is nothing compared to what you did.\nJP :\nそう睨むな。お前たちがやらかしたことに比べたら大したことでもないだろ。"
+  },
+  {
+    "key": "33-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "33-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "33-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "33-content",
+    "original": "그 정도 부상이면, 위에서도 충분히 할 일 했다고 생각할 거다. 훈장처럼 여기라고.",
+    "context": "EN :\nWith wounds like those, I’m sure your boss will recognize that you did your part. Consider them a medal of honor.\nJP :\nそれくらいの負傷なら、上でも十分にやるべきことはやったと判断するだろう。\n勲章だと思え。"
+  },
+  {
+    "key": "34-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "34-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "34-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "34-content",
+    "original": "아니면…",
+    "context": "EN :\nUnless…\nJP :\nあるいは…。"
+  },
+  {
+    "key": "35-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "35-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "35-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "35-content",
+    "original": "여기서 명줄을 놓고 싶은가?",
+    "context": "EN :\nYou want this to be the end of your life?\nJP :\nここで命綱を手放したいのか？"
+  },
+  {
+    "key": "36-model",
+    "original": "표범",
+    "translation": "豹",
+    "context": "EN :\n豹\nJP :\nPanther"
+  },
+  {
+    "key": "36-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "36-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "37-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "37-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "37-content",
+    "original": "<뭐야… 너도 저놈들이랑 한패야?>",
+    "context": "EN :\n<Who are… Are you one of them?>\nJP :\n<なんだよ…お前もあいつらと仲間だったのか？>"
+  },
+  {
+    "key": "38-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "38-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "38-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "38-content",
+    "original": "<하지만 다들 이미…>",
+    "context": "EN :\n<You’re too late, they’re already…>\nJP :\n<でも全員既に…。>"
+  },
+  {
+    "key": "39-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "39-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "39-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "39-content",
+    "original": "늦은 건 아무것도 없습니다, 단테.",
+    "context": "EN :\nNo one is too late, Dante.\nJP :\n何も遅くはありません、ダンテ。"
+  },
+  {
+    "key": "40-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "40-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "40-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "40-content",
+    "original": "우리에게 필요한 건 오직…",
+    "context": "EN :\nThere is only one thing we need…\nJP :\n私たちに必要なのはただ…。"
+  },
+  {
+    "key": "41-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "41-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "41-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "41-content",
+    "original": "되돌릴 시간뿐이니까.",
+    "context": "EN :\nA little time to rewind.\nJP :\n巻き戻す時間だけだから。"
+  },
+  {
+    "key": "42-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "42-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "42-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "42-content",
+    "original": "<…!>",
+    "context": "EN :\n<…!>\nJP :\n<…！>"
+  },
+  {
+    "key": "43-content",
+    "original": "<color=#b01c37>심장이 여러 갈래로 쪼개지는 듯한 고통이 불현듯 엄습한다.</color>",
+    "context": "EN :\n<color=#b01c37>I’m suddenly overwhelmed by a sharp pain in my chest, as though my heart were being torn asunder.</color>\nJP :\n<color=#b01c37>心臓が幾筋にも裂けるような苦痛が突如襲いかかってくる。</color>"
+  },
+  {
+    "key": "44-content",
+    "original": "<color=#b01c37>그 뒤를 이어 늑골이, 대장이, 위와 폐가.</color>",
+    "context": "EN :\n<color=#b01c37>Followed by flashes in the ribs, intestines, stomach, and lungs.</color>\nJP :\n<color=#b01c37>その後に続いて肋骨が、大腸が、胃と肺が。</color>"
+  },
+  {
+    "key": "45-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "45-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "45-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "45-content",
+    "original": "<끄아아아악!!!>",
+    "context": "EN :\n<GAAAAAAGH!!!>\nJP :\n<ぅあ゛ぁ゛ああぁっ！！！>"
+  },
+  {
+    "key": "46-content",
+    "original": "그리곤 어디라고 특정하기조차 어려운 모든 곳이 뒤틀려 터져나가는 고통을 외친다.",
+    "context": "EN :\nEngulfed in a deluge of torment twisting and squeezing my entire body, I let out an agonizing scream.\nJP :\nそしてどこがと特定することすら難しい、\nあらゆる場所が捻れて弾ける苦痛に叫ぶ。"
+  },
+  {
+    "key": "47-model",
+    "original": "프롤로그단테2",
+    "translation": "序章但丁",
+    "context": "EN :\n序章但丁\nJP :\nDante"
+  },
+  {
+    "key": "47-teller",
+    "original": "단테",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "47-title",
+    "original": "나",
+    "context": "EN :\nMe\nJP :\n私"
+  },
+  {
+    "key": "47-content",
+    "original": "<이… 윽…>",
+    "context": "EN :\n<You… Grgh…>\nJP :\n<い…うっ…。>"
+  },
+  {
+    "key": "48-content",
+    "original": "흐려져 가는 의식 가운데 느낄 수 있었던 건...",
+    "context": "EN :\nIn my fading consciousness, the only thing I could perceive…\nJP :\n薄れゆく意識の中で感じたのは…。"
+  },
+  {
+    "key": "49-content",
+    "original": "기이하게 몸의 형태가 수복되어가는 사람들의 모습과.",
+    "context": "EN :\n…Was the deceased’s flesh reconstructing in a bizarre manner.\nJP :\n身体の形態が修復されていく人々の奇怪な様子と。"
+  },
+  {
+    "key": "50-model",
+    "original": "눈이붉은자",
+    "translation": "双眼赤红者",
+    "context": "EN :\n双眼赤红者\nJP :\nVergilius3"
+  },
+  {
+    "key": "50-teller",
+    "original": "눈이 붉은 자",
+    "context": "EN :\nMan with Red Eyes\nJP :\n目が赤い者"
+  },
+  {
+    "key": "50-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "50-content",
+    "original": "앞으로도 끝내주게 고통스러울 겁니다, 단테.",
+    "context": "EN :\nYou’ll suffer aplenty from now on, Dante.\nJP :\nこれからも、とびきり苦しいことになるでしょう、ダンテ。"
+  },
+  {
+    "key": "51-content",
+    "original": "눈이 붉은 자의 목소리뿐이었다. ",
+    "context": "EN :\nAnd the voice of the man with red eyes.\nJP :\n目が赤い者の声だけだった。"
+  }
+]

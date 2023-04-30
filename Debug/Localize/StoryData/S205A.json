@@ -1,0 +1,433 @@
+[
+  {
+    "key": "0-place",
+    "original": "10구, 뒷골목",
+    "context": "EN :\nBackstreets of District 10\nJP :\n10区 裏路地"
+  },
+  {
+    "key": "0-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "0-content",
+    "original": "젠장, 그만 좀 튀어나와!",
+    "context": "EN :\nDammit, they just won’t stop coming!\nJP :\nくそっ、そろそろしつけぇぞ！"
+  },
+  {
+    "key": "1-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "1-content",
+    "original": "카지노에 들어가기도 전에 지쳐서 뒤지는 게 더 빠르겠어.",
+    "context": "EN :\nWe’ll all wear our lives out before we can even take a step inside the casino.\nJP :\nカジノに入る前に、疲れてくたばっちまうまでのが速そうだな。"
+  },
+  {
+    "key": "2-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "2-content",
+    "original": "안심해요, 히스클리프. 관리자님이 있는 한 우리가 지쳐서 죽을 일은…",
+    "context": "EN :\nDon’t fret, Heathcliff. As long as the manager is with us, we won’t die from fatigue or other things—\nJP :\n安心してください、ヒースクリフ。\n管理人さんがいる限り僕たちが疲れて死ぬことは…。"
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "누가 그걸 몰라서 물어보냐! #@$@#$!!!",
+    "context": "EN :\nThat’s NOT the point at ALL! #@$@#$!!!\nJP :\nそんくらい忘れるわけねぇだろ！＃＠＄＠＃＄！！！!"
+  },
+  {
+    "key": "4-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "4-content",
+    "original": "해결은 간단하다. 어떤 조직이더라도 그 대가리를 깨부수면, \n떠받던 고깃덩어리는 무너진다.",
+    "context": "EN :\nThe solution is simple: Any organization can be brought down by deposing its leader; with the head gone, the meat supporting it will break apart.\nJP :\n解決方法は簡単だ。どんな組織であれそのドタマをかち割れば、\n支えている肉の塊は崩れ落ちる。"
+  },
+  {
+    "key": "5-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "5-content",
+    "original": "너, 여기서 유일하게 맘에 드는 소리를 하네.",
+    "context": "EN :\nYou. You’re the only one speaking my tongue here.\nJP :\nお前のその言葉、ここ最近で一番気に入ったぜ。唯一って言って良いくらいな。"
+  },
+  {
+    "key": "6-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "6-content",
+    "original": "짜증 나니까 쳐부수러 가자. 대가리든 뭐든.",
+    "context": "EN :\nI’m proper miffed, so let’s go break some bones, head, whatever.\nJP :\nイライラするからぶっ潰しに行こうぜ。ドタマなりなんなり。"
+  },
+  {
+    "key": "7-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "7-content",
+    "original": "자, 전진하세!",
+    "context": "EN :\nHence, onward we travail!\nJP :\nさぁ、いざ前進！"
+  },
+  {
+    "key": "8-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "8-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "8-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "8-content",
+    "original": "잠깐! 다들 돌아와!",
+    "context": "EN :\nWait! Come back here!\nJP :\n待て！みんな戻れ！"
+  },
+  {
+    "key": "9-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "9-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "9-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "9-content",
+    "original": "…파우스트, 너 계속 이런 애들이랑 같이 다녀야 하는 거냐?",
+    "context": "EN :\n…This is the crowd you’re supposed to accompany, Faust?\nJP :\n…ファウスト、お前こんなガキンチョらと一緒に行動しないと駄目なのか？"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "삶은 늘 의문투성이죠.",
+    "context": "EN :\nLife is full of mysteries.\nJP :\n人生はいつも疑問だらけです。"
+  },
+  {
+    "key": "11-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "11-content",
+    "original": "그렇기에 이상적이라고 할 수도 있겠소.",
+    "context": "EN :\nThat, perhaps, is what makes it an ideal reflection, no?\nJP :\nそれゆえ理想的であるとも言えり。"
+  },
+  {
+    "key": "12-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "12-content",
+    "original": "너네 대가리 어딨어! 당장 튀어나오라 그래!",
+    "context": "EN :\nTell me where your gaffer is! I wanna see ‘im, now!\nJP :\nてめぇらのお頭はどこだ！今すぐ出てこいよぉ！"
+  },
+  {
+    "key": "13-content",
+    "original": "히스클리프가 이미 의식을 잃은 것 같은 조직원의 멱살을 붙잡고 마구잡이로 흔들고 있었다.",
+    "context": "EN :\nHeathcliff grabbed a mook by the collar and shook it about violently. To me, it looked as if anything still conscious had left already.\nJP :\nヒースクリフが既に意識を失ったと思われる組織員の胸倉を掴み、\nめちゃめちゃに揺さぶっていた。"
+  },
+  {
+    "key": "14-content",
+    "original": "…잃은 건 의식뿐만이 아닐지도 모르겠지만.",
+    "context": "EN :\n…And maybe even more than that.\nJP :\n…失ったのは意識だけじゃないかもしれないけど。"
+  },
+  {
+    "key": "15-model",
+    "original": "세보이고싶었던콩콩파조직원",
+    "translation": "想表现得很强壮的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong1"
+  },
+  {
+    "key": "15-teller",
+    "original": "세보이고 싶었던 콩콩이파 조직원",
+    "context": "EN :\nChest-puffing Tingtanger\nJP :\n強く見られたかったぽんぽん派の組織員"
+  },
+  {
+    "key": "15-title",
+    "original": "콩콩이 파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "15-content",
+    "original": "우리 형님은… 차 탑에 계실 거다…",
+    "context": "EN :\nThe sea heart… is gonna be at the car pagoda…\nJP :\nうちのアニキは…車の塔に…いらっしゃるはず…。"
+  },
+  {
+    "key": "16-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "16-content",
+    "original": "차 탑? 차 탑이 어디야?! 알아듣게 말해!",
+    "context": "EN :\nThe what? Where the hell is that?! Make sense!\nJP :\n車の塔？車の塔ってどこだよ！？分かるように言えよ！"
+  },
+  {
+    "key": "17-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "17-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "17-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "17-content",
+    "original": "이 근방의 폐차장을 말하는 걸 거야.",
+    "context": "EN :\nIt’s probably the scrapyard nearby.\nJP :\nこの付近の廃車置き場のことだと思う。"
+  },
+  {
+    "key": "18-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "18-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "18-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "18-content",
+    "original": "그런데 너희, 진심으로 콩콩이파 보스까지 처리할 생각이야?",
+    "context": "EN :\nReally though, are you actually planning to take down the gang’s boss?\nJP :\nところでお前ら、本気でぽんぽん派のボスまで片付けるつもりか？"
+  },
+  {
+    "key": "19-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "19-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "19-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "19-content",
+    "original": "그런다고 인사고과에 반영되거나 하진 않아. 알고 있어?",
+    "context": "EN :\nThat won’t be reflected in your employee performance review or anything, you know?\nJP :\nだからって人事評価に反映されたりはしないぞ。分かってるか？"
+  },
+  {
+    "key": "20-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "20-content",
+    "original": "저자는 그런 것까지 염두에 두고 행동할 만큼 명민하진 못해요.",
+    "context": "EN :\nHe’s not sharp enough to calculate such things into his actions.\nJP :\nあの人はそんなことまで念頭に置いて行動できるほど利発じゃないですよ。"
+  },
+  {
+    "key": "21-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "21-content",
+    "original": "계략, 속셈 따위랑은 거리가 먼 오물이지. 말도 안 되는 일과는 가깝지만.",
+    "context": "EN :\nHe’s waste, bearing little relation to schemes or plots. On the other hand, he flirts closely with nonsense.\nJP :\n計略、下心とは距離の遠い汚物だ。筋が通らないような事柄とは近いが。"
+  },
+  {
+    "key": "22-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "22-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "22-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "22-content",
+    "original": "아니야… 말이 되는 것 같기도 해요.",
+    "context": "EN :\nNo… I do think that makes sense.\nJP :\nいや…筋は通ってるかもしれません。"
+  },
+  {
+    "key": "23-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "23-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "23-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "23-content",
+    "original": "문제없어, 에피. 우리는 항상 플랜 B까지 대비해 놓잖아?",
+    "context": "EN :\nNothing to worry about, Effie. We always keep a Plan B, don’t we?\nJP :\n問題ないよ、エピ。私たちはいつもプランBまで準備してるでしょ？"
+  },
+  {
+    "key": "24-content",
+    "original": "소드는 온화한 표정으로 말을 이어 나갔다.",
+    "context": "EN :\nSaude spoke with a serene face.\nJP :\nソードは優しい表情で言葉を続けた。"
+  },
+  {
+    "key": "25-content",
+    "original": "하지만, 평정심을 유지하려고 애를 쓰는 모습이 드문드문 보이는 것이, 온화함을 연기하는 것은 아닌가 하는 생각이 들게 만들기도 했다.",
+    "context": "EN :\nHowever, I could see her consciously trying to maintain calm from time to time, giving me reason to suspect that she’s putting on a veil of kindness.\nJP :\nしかし、平常心を維持しようと頑張っている様子が見え隠れしているので、\n優しそうな演技をしているだけではないかという考えが頭をよぎった。"
+  },
+  {
+    "key": "26-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "26-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "26-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "26-content",
+    "original": "여러분이 위장을 하는 게 불가능하다면…",
+    "context": "EN :\nIf disguising as your given roles is out of the question…\nJP :\n皆さんが扮装することが不可能なら…。"
+  },
+  {
+    "key": "27-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "27-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "27-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "27-content",
+    "original": "다 같이 콩콩이파 조직원들로 위장해버리는 겁니다.",
+    "context": "EN :\nYou can all get up as members of the Tingtang Gang instead.\nJP :\n全員ぽんぽん派の組織員に扮装してしまおうという話です。"
+  },
+  {
+    "key": "28-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "28-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "28-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "28-content",
+    "original": "단체로 들어가도 눈에 띄지 않을 거고, 순조롭게 꼭대기 층까지 진입할 수 있을 테니까요.",
+    "context": "EN :\nThat way, you won’t arouse much suspicion moving in a large group, and you’ll be able to reach the top floor without much trouble.\nJP :\n団体で入っても目に付きませんし、簡単に最上階まで侵入できますからね。"
+  },
+  {
+    "key": "29-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "29-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "29-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "29-content",
+    "original": "겸사겸사 콩콩이파에게서 소망력도 뺏어가죠.",
+    "context": "EN :\nAnd we could siphon some wishpower from the Tingtang Gang while we’re at it.\nJP :\nついでにぽんぽん派から願望力も奪っていきましょうか。"
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 3F",
+    "context": "EN :\nCasino 3F\nJP :\nカジノ 3F"
+  },
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<어떡하지? 이대로 계속 싸우기만 하다간…>",
+    "context": "EN :\n<What should we do? We won’t get anywhere if we keep fighting…>\nJP :\n<どうしよう？このまま戦ってばかりだと…。>"
+  },
+  {
+    "key": "1-content",
+    "original": "놀랍게도 이스마엘이 피식 웃었다.",
+    "context": "EN :\nTo my surprise, Ishmael let out a chuckle.\nJP :\n驚いたことに、イシュメールがにやりと笑った。"
+  },
+  {
+    "key": "2-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "2-content",
+    "original": "뭘 어떡하긴요. 우리에겐 비장의 카드가 있잖아요.",
+    "context": "EN :\nWhat’s to consider? We have our trump card.\nJP :\nどうするって、私たちには切り札があるじゃないですか。"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<그랬어?>",
+    "context": "EN :\n<We have what now?>\nJP :\n<そうだっけ？>"
+  },
+  {
+    "key": "4-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "4-content",
+    "original": "저들은 아직 모르는 거예요. ‘진짜’를.",
+    "context": "EN :\nJust the right person to teach them something “legit”.\nJP :\nあいつらはまだ知らないんです。「本物」を。"
+  },
+  {
+    "key": "5-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "5-content",
+    "original": "잘 @#$@#$해서 @$#%를 한 다음에 $#%@#$를 해버린다.",
+    "context": "EN :\nAfter you give it a good @#$@#$ and @$#% it up, go $#%@#$ on it.\nJP :\n良く@#$@#$して@$#%をしてから、次に$#%@#$をしてしまう。"
+  },
+  {
+    "key": "6-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "6-content",
+    "original": "그다음엔 @$%@$%를 @%$#$^해서 #$#@에 담그는 거지.",
+    "context": "EN :\nNext up, you @%$#$^ the @$%@$% and then soak it in #$#@.\nJP :\nその次に@$%@$%を@%$#$^して#$#@に漬け込むんだ。"
+  },
+  {
+    "key": "7-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "7-content",
+    "original": "마지막으론…",
+    "context": "EN :\nLastly…\nJP :\n最後に…。"
+  },
+  {
+    "key": "8-content",
+    "original": "저렇게까지 구체적이고 잔인하고 끔찍한 묘사가 세상에 존재할 수 있었던 걸까.",
+    "context": "EN :\nI never knew it was possible for the human tongue to give such detailed accounts of something so sickeningly gruesome.\nJP :\nあんなに具体的で残忍かつ恐ろしい描写が、この世に存在したのだろうか。"
+  },
+  {
+    "key": "9-content",
+    "original": "조직원들은 답지 않게 눈을 반짝거리며 심지어 몇몇은 필기까지 하고 있었다.",
+    "context": "EN :\nThe thugs’ eyes were uncharacteristically twinkling—some were even taking notes.\nJP :\n組織員たちはらしくなく目を輝かせ、おまけに何人かはメモまで取っていた。"
+  },
+  {
+    "key": "10-teller",
+    "original": "위협적인 철공회 조직원",
+    "context": "EN :\nThreatening Crewman\nJP :\n威圧的な鉄工会の組織員"
+  },
+  {
+    "key": "10-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "10-content",
+    "original": "나, 방금 살짝 감탄했잖니.",
+    "context": "EN :\nI’ll be damned, she had me struck.\nJP :\nちょっと感動しちゃったじゃねぇか。"
+  },
+  {
+    "key": "11-teller",
+    "original": "몸 푸는 철공회 조직원",
+    "context": "EN :\nFlexing Crewman\nJP :\n身体を解す鉄工会の組織員"
+  },
+  {
+    "key": "11-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "11-content",
+    "original": "히야, 거기서 그걸 그렇게 꺾네… 쎄빠닥의 마술산지 뭐시긴가벼?",
+    "context": "EN :\nHoowee, that snap couldn’t be bolder… You’re what they call the wizardess o’ the tongue, eh, lady?\nJP :\nはいやぁ、そこでそれをそうやって折るんかぁ…。ベロのマジシャンか何かなんす？"
+  },
+  {
+    "key": "12-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "12-content",
+    "original": "아니. 악마의 주둥이야, 저건.",
+    "context": "EN :\nNo. That has to be the gob of a witch, yeah.\nJP :\nいや。悪魔の口だよ、あれは。"
+  },
+  {
+    "key": "13-content",
+    "original": "뒷골목에서 구를 대로 굴렀을 히스클리프마저도 막간에는 치를 떨어 댔다.",
+    "context": "EN :\nEven Heathcliff, the man who must have had a rougher life than most in the Backstreets, shuddered by the end.\nJP :\n裏路地で長い間やってきたヒースクリフでさえ、\n途中で歯をカチカチ震わせていた。"
+  },
+  {
+    "key": "14-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "14-content",
+    "original": "가히 창의적이다 말하지 아니할 수 없소. 과연, 펜… 아니지. 혀는 칼보다 강하구료.",
+    "context": "EN :\nI cannot help but applaud the creativity. Indeed, the pen… Nay, the tongue is mightier than the sword.\nJP :\n創造的だと言わざるを得ず。げに、ペン…否。舌は剣より強きなり。"
+  },
+  {
+    "key": "15-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "15-content",
+    "original": "저도 뱃사람의 짬바가 있어서, 험한 말엔 나름 익숙해졌다고 생각했는데…",
+    "context": "EN :\nI thought I was pretty familiar with the sailor’s mouth, being a seafarer for half my life…\nJP :\n私も船乗り歴があるから、酷い言葉にはそれなりに慣れたと思ったんだけど…。"
+  },
+  {
+    "key": "16-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "16-content",
+    "original": "깨달았어요. 제가 아는 세계는 빙산의 일부분이었네요.",
+    "context": "EN :\nBut this made me realize my vocabulary was only the tip of the iceberg.\nJP :\n悟りました。私が知っている世界は氷山の一部でしたね。"
+  },
+  {
+    "key": "17-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "17-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "17-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "17-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "18-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "18-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "18-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "18-content",
+    "original": "위에서 대체 무슨 생각으로 여러분을 모아 놓았던 건지 도통 이해가 가진 않았어요.",
+    "context": "EN :\nI honestly couldn’t fathom why the higher-ups would organize a team of people like you.\nJP :\n上の方で一体何を考えて皆さんを集めたのか、全く理解できませんでした。"
+  },
+  {
+    "key": "19-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "19-content",
+    "original": "아마 이해를 바라고 계획한 건 아닐 거예요.",
+    "context": "EN :\nI don’t suppose the lineup was meant to be understood by the likes of us.\nJP :\nきっと理解されることを望んで計画したわけではないでしょう。"
+  },
+  {
+    "key": "20-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "20-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "20-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "20-content",
+    "original": "지금도 완전히 이해가 가는 건 아니지만…",
+    "context": "EN :\nAnd I’m still having trouble figuring out the meaning of this personnel measure…\nJP :\n今でも完全に理解できたわけではないですけど…。"
+  },
+  {
+    "key": "21-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "21-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "21-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "21-content",
+    "original": "이대로도… 나쁘진 않네요.",
+    "context": "EN :\nBut, I guess… this isn’t so bad after all.\nJP :\nこのままでも…悪くはないですね。"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "소드, 이제야 받아들이신 것 같군요. 축하해요.",
+    "context": "EN :\nSaude, you’ve finally reached the stage of acceptance. Congratulations.\nJP :\nソード、ようやく受け入れたのですね。おめでとうございます。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": "battle_awaken_20601_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20601_1-dlg",
+    "original": "환상의 세계로 들어가 보죠.",
+    "context": "EN :\nLet’s visit the world of wonders.\nJP :\n幻想の世界へと入りましょうか。"
+  },
+  {
+    "key": "battle_awaken_20602_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20602_1-dlg",
+    "original": "이 정도까지만 옥죄어줄게요.",
+    "context": "EN :\nI’ll tie you up just enough.\nJP :\nこのくらいに締め付けておきますね。"
+  },
+  {
+    "key": "battle_erosion_20602_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20602_1-dlg",
+    "original": "함께 또각… 또각…",
+    "context": "EN :\nAnkle-to-ankle, clip… clop…\nJP :\n一緒に、かつ…かつ…。"
+  }
+]

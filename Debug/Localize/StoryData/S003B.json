@@ -1,0 +1,62 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "0-content",
+    "original": "아까보다는 쓸만해 보이는군요, 단테.",
+    "context": "EN :\nYou’re looking much more useful than before, Dante.\nJP :\nさっきよりは役に立ちそうな感じがしますね、ダンテ。"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<하지만 한 놈 빼고 전부 도망갔어. 쫓아가지 않아도 되나?>",
+    "context": "EN :\n<They all got away save for one, though. Shouldn’t we go after them?>\nJP :\n<でも一人以外全員逃げた。追いかけなくても良いのか？>"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "놓친 적을 걱정하네요.",
+    "context": "EN :\nThey’re worried over the foes we lost.\nJP :\n逃した敵の心配をするのですね。"
+  },
+  {
+    "key": "3-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "3-content",
+    "original": "걱정할 건 없습니다… 마침 가야 할 길이었으니. 카론?",
+    "context": "EN :\nNo need for concern… That’s the direction we were heading anyway. Charon?\nJP :\n心配することありません…ちょうど行くべき道でしたから。カロン？"
+  },
+  {
+    "key": "4-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "4-content",
+    "original": "발판을 꾹꾹. 신나는 기분으로 달릴게.",
+    "context": "EN :\nPedal touches metal. Up for an exciting ride.\nJP :\n足元をグッグッ。楽しい気分で走るね。"
+  }
+]

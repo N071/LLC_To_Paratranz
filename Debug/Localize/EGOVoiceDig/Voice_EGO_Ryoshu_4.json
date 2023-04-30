@@ -1,0 +1,32 @@
+[
+  {
+    "key": "battle_awaken_20401_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20401_1-dlg",
+    "original": "모.불.아.위.\n(모든 것을 불살라서라도, 아름다움을 위해.)",
+    "context": "EN :\nOSHARE.\n(Obligate style hearkens aflame this robust earth.)\nJP :\n総・燃・美・為。\n(総てを燃やし尽くせども、美しさの為。)"
+  },
+  {
+    "key": "battle_awaken_20402_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20402_1-dlg",
+    "original": "이 불 또한, 예술의 황홀경이지.",
+    "context": "EN :\nThis flame, too, is artful ecstasy.\nJP :\nこの火もまた、芸術の恍惚境だな。"
+  },
+  {
+    "key": "battle_erosion_20402_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20402_1-dlg",
+    "original": "모든 것을 태우는 것은…",
+    "context": "EN :\nThe all-consuming fire…\nJP :\n総てを燃やすものは…。"
+  }
+]

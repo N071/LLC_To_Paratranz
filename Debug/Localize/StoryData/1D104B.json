@@ -1,0 +1,192 @@
+[
+  {
+    "key": "0-place",
+    "original": "4구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 4 - LC Branch Interior\nJP :\n4区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "0-content",
+    "original": "뭐, 이쯤이면 적당하겠네요.",
+    "context": "EN :\nWell, I suppose this place is as good as any.\nJP :\nまあ、これくらいなら十分でしょう。"
+  },
+  {
+    "key": "1-content",
+    "original": "문을 열고 들어오자, 파우스트가 갑작스럽게 내 앞에 섰다.",
+    "context": "EN :\nAs I opened the door, Faust suddenly stood before me.\nJP :\n扉を開けて入るなり、ファウストが急に私の前へ立った。"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "단테, 눈을 감고 어둠 속에 숨어있는 별을 찾아보세요.",
+    "context": "EN :\nDante, close your eyes and look for the glimmer hiding in the dark.\nJP :\nダンテ、目を閉じて暗闇の中に隠れている星を探してみてください。"
+  },
+  {
+    "key": "3-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "3-content",
+    "original": "너무 찬란하지도 않고, 은은하게 드러나고 있는 진리의 별 말이에요.",
+    "context": "EN :\nFind the faint star of truth, twinkling gently.\nJP :\nあまり燦々としていない、微かに灯っている真理の星をです。"
+  },
+  {
+    "key": "4-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "4-content",
+    "original": "<별이라… 아픈 건 아니지?>",
+    "context": "EN :\n<The star… This one won’t hurt, right?>\nJP :\n<星か…痛いわけじゃないよな？>"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-content",
+    "original": "별을 찾는 것만이라면, 아프지는 않죠.",
+    "context": "EN :\nIt shouldn’t cause you any pain since you’re simply locating it.\nJP :\n星を探すだけなら、痛くはないでしょう。"
+  },
+  {
+    "key": "6-content",
+    "original": "파우스트의 말이 어째 찜찜했지만, 우선은 따르기로 하고 시야를 차단하기로 마음먹었다.",
+    "context": "EN :\nSomething about the way Faust put that bothered me, but I decided to trust her and block my sight.\nJP :\nファウストの言葉になんとなくモヤモヤしたもの感じたが、\nとりあえずは従うことにして視界の遮断を試みた。"
+  },
+  {
+    "key": "7-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "7-content",
+    "original": "다시 눈을 뜨면, 까마득했던 별은…",
+    "context": "EN :\nWhen you open your eyes, what seemed so far away…\nJP :\n再び目を開ければ、遥か遠くにあった星は…。"
+  },
+  {
+    "key": "8-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-content",
+    "original": "당신과 눈을 맞추고 있을 거예요.",
+    "context": "EN :\nWill shine right into your vision.\nJP :\nあなたと目を合わせているでしょう。"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<아름… 답네.>",
+    "context": "EN :\n<That’s… beautiful.>\nJP :\n<うつく…しいな。>"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<저 빛은… 오로지 나한테만 보이는 건가?>",
+    "context": "EN :\n<That light… Is it only visible to me?>\nJP :\n<あの光は…ただ私だけに見えているのか？>"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "아니요. 당신을 통해서, 이젠 모두가.",
+    "context": "EN :\nNot quite. Through you, now all of us can see it.\nJP :\nいいえ。あなたを通じて、もはや皆が。"
+  },
+  {
+    "key": "12-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-content",
+    "original": "던전의 안이지만, 모두가 별을 통해 당신을 통한 혜택을 받을 수 있게 되었죠.",
+    "context": "EN :\nEven though we’re inside a dungeon, we can now reap the benefits of your ability through the star.\nJP :\nダンジョンの中ですが、皆が星を通じ\nあなたを経由して恩恵を受け取れるようになりました。"
+  },
+  {
+    "key": "13-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "13-content",
+    "original": "그럼, 얼른 시계 돌려주세요. 어깨뼈 쪽이 아까부터 탈구된 것 같거든요.",
+    "context": "EN :\nCan you please hurry up with the clock, then? I think I dislocated my shoulder.\nJP :\nじゃあ、早く時計戻してください。\n肩の骨がさっきから脱臼してるみたいなんですよ。"
+  },
+  {
+    "key": "14-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "14-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "14-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "14-content",
+    "original": "돌린다고요? 그 시계, 정말 돌릴 수 있는 거였어요?",
+    "context": "EN :\nThe clock? It wasn’t just for show?\nJP :\n戻すんですか？その時計、本当に戻せるんですか？"
+  },
+  {
+    "key": "15-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "15-content",
+    "original": "돌아가기만 하겠어? 엄청 신기한 능력을 가지고 있다고. 유리씨도 한번 구경해봐.",
+    "context": "EN :\nThat’s not all it does. They have a really neat power. You should come and take a look, Yuri.\nJP :\n戻るだけだとでも思ってるのか？めっちゃ不思議な能力をもってるんだよ。\nユーリさんもちょっと見てきな。"
+  },
+  {
+    "key": "16-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "<…내 고통은 아무도 신경 안 써주는 거야?>",
+    "context": "EN :\n<…Will no one recognize the pain I endure?>\nJP :\n<…私の苦痛は誰も気遣ってくれないのかい？>"
+  }
+]

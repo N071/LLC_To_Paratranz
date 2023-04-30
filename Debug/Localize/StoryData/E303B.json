@@ -1,0 +1,427 @@
+[
+  {
+    "key": "0-place",
+    "original": "은봉이네 호프집 주방",
+    "context": "EN :\nEunbong’s Bar & Fryers Kitchen\nJP :\nウンボンのチキン酒場 厨房"
+  },
+  {
+    "key": "0-content",
+    "original": "그레고르가 내민 음식을 한참 동안 바라보았다.",
+    "context": "EN :\nI stared at Gregor’s dish for a good while.\nJP :\nグレゴールが差し出した料理を長い間眺めていた。"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<이게 뭐지, 그레고르?>",
+    "context": "EN :\n<What uh, is this, Gregor?>\nJP :\n<なにこれグレゴール？>"
+  },
+  {
+    "key": "2-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "2-content",
+    "original": "밀리터리 서바이벌 음식… 이랄까?",
+    "context": "EN :\nA military survivalist meal… or something like that?\nJP :\nミリタリーサバイバル料理…っていうべきかな？"
+  },
+  {
+    "key": "3-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "3-content",
+    "original": "<군대에선… 이런 음식을 먹는 거야?>",
+    "context": "EN :\n<Do they… really eat this in the military?>\nJP :\n<軍隊では…こんな料理を食べるの？>"
+  },
+  {
+    "key": "4-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "4-content",
+    "original": "관리자 양반, 기억 잃었다고 하지 않았어? 언제부터 음식에 대해 그렇게 섬세하게 평가했나?",
+    "context": "EN :\nLook, Manager Bud, didn’t you say you’re an amnesiac? Since when were you such a delicate food critic, huh?\nJP :\n管理人の旦那、記憶無くしたって言ってなかったか？いつから食べ物に対してそんな繊細な評価を下すようになったんだ？"
+  },
+  {
+    "key": "5-content",
+    "original": "어지간한 일에는 평정을 유지하는 그레고르가 예민해진 말투로 짜증을 냈다.",
+    "context": "EN :\nGregor lost his usual calm demeanor and suddenly snapped at me.\nJP :\n大抵のことには平静を保つグレゴールが、きつめの口調で神経を尖らせていた。"
+  },
+  {
+    "key": "6-content",
+    "original": "이번엔 료슈가 내민 음식을 바라보았다.",
+    "context": "EN :\nI looked at Ryōshū’s serving next.\nJP :\n今度は良秀が差し出した料理を眺めた。"
+  },
+  {
+    "key": "7-content",
+    "original": "최신 예술이라는 것을 감상하는 기분이었다.",
+    "context": "EN :\nI felt like I was looking at a brand-new work of art.\nJP :\n最新の芸術というものを鑑賞するような気分だ。"
+  },
+  {
+    "key": "8-content",
+    "original": "의미를 종잡을 수 없다는 뜻이다.",
+    "context": "EN :\nAs in, I had no idea what it was supposed to be.\nJP :\n意味が掴めないという意味だ。"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<…….>",
+    "context": "EN :\n<……>\nJP :\n<……。>"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<료슈, 혹시 우리의 목표가 뒤틀림을 해결하는 게 아니라 뒤틀린 사장님을 암살하는 거라고 생각한 거야?>",
+    "context": "EN :\n<Ryōshū, just to make sure, you didn’t mistake our objective with assassinating the Distorted restaurant owner, did you?>\nJP :\n<良秀、もしかしてだけど私たちの目標がねじれを解決することじゃなくて、ねじれた社長を暗殺することだって思ってない？>"
+  },
+  {
+    "key": "11-model",
+    "original": "료슈요리사",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "11-content",
+    "original": "닥.시",
+    "context": "EN :\nS.T.C.U.\nJP :\nだ・と。"
+  },
+  {
+    "key": "12-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "12-content",
+    "original": "닥쳐, 시계라네요…",
+    "context": "EN :\nShe wants to shut the clock up…\nJP :\n黙れ、時計、だそうです…。"
+  },
+  {
+    "key": "13-content",
+    "original": "히스클리프와 뫼르소가 합심해서 잡아온 은봉이네 호프집의 사장을 앉히고…",
+    "context": "EN :\nHeathcliff and Meursault had caught the owner of Eunbong’s and put him in a seat in the meantime…\nJP :\nヒースクリフとムルソーが一丸となって捕まえてきた、ウンボンのチキン酒場の社長を座らせて…。"
+  },
+  {
+    "key": "14-content",
+    "original": "료슈의 음식부터 먹였다.",
+    "context": "EN :\nWe started by feeding him Ryōshū’s cooking.\nJP :\n良秀の料理から食べた。"
+  },
+  {
+    "key": "15-model",
+    "original": "뒤틀린주인",
+    "translation": "扭曲的老板",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing"
+  },
+  {
+    "key": "15-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "15-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "15-content",
+    "original": "그… 으… 으…",
+    "context": "EN :\nGrr… Urgh… Hrrgh…\nJP :\nグ…ウ…ウ…。"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "뒤틀림의 언어는 해석하기 어렵군요. 반복되는 패턴과 음률을 기반으로 연구해 본다면 70시간 이상은 소요될 거예요.",
+    "context": "EN :\nThe Distortion’s language is difficult to parse. It will take me at least 70 hours to decipher it based on the speech pattern and cadence.\nJP :\nねじれの言語は解析が難しいですね。反復パターンと音律に基づいて研究すれば、70時間以上は掛かるでしょう。"
+  },
+  {
+    "key": "17-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "17-content",
+    "original": "네에? 그때 동안 여기서 치킨을 튀길 수는 없어요!",
+    "context": "EN :\nThat long? We can’t be frying chickens for all that time!\nJP :\nはぃい？その間ここでチキンを揚げるわけにもいかないじゃないですか！"
+  },
+  {
+    "key": "18-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "18-content",
+    "original": "<잠깐…!>",
+    "context": "EN :\n<Wait…!>\nJP :\n<待って…！>"
+  },
+  {
+    "key": "19-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "19-content",
+    "original": "<사장님의 말이 머릿속에서 들리는 것 같아.>",
+    "context": "EN :\n<I think I can hear his voice in my head.>\nJP :\n<社長の声が頭の中で聞こえてくる気がする。>"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-content",
+    "original": "흠, 흥미롭군요. 지금까지 모은 황금가지와 단테 씨 머리와의 공명으로 인한 영향일 수도 있겠어요.",
+    "context": "EN :\nHmm, how curious. This could be due to the influence of the Golden Boughs we’ve collected resonating with Manager Dante’s head.\nJP :\nふむ、興味深いですね。今まで集めてきた黄金の枝とダンテさんの頭との共鳴による影響かもしれませんね。"
+  },
+  {
+    "key": "21-content",
+    "original": "윽… 순간 엄청난 말을 들은 것 같기도 한데, 사장이 외치는 절규 때문에 집중이 안돼...",
+    "context": "EN :\nUgh… I think I just heard a staggering statement, but the owner’s cries are too distracting…\nJP :\nうっ…一瞬もの凄いことを言われたような気もするけど、社長の絶叫のせいで集中できない…。"
+  },
+  {
+    "key": "22-model",
+    "original": "뒤틀린주인",
+    "translation": "扭曲的老板",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing"
+  },
+  {
+    "key": "22-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "22-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "22-content",
+    "original": "으…어…어…",
+    "context": "EN :\nGruh…Urg…Arrh…\nJP :\nウ…オ…オ…。"
+  },
+  {
+    "key": "23-model",
+    "original": "료슈요리사",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "23-content",
+    "original": "저자가 뭐라고 하는 거지?",
+    "context": "EN :\nWhat is he trying to say?\nJP :\nあいつはなんて言ってるんだ？"
+  },
+  {
+    "key": "24-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "24-content",
+    "original": "<내 입에서 장례식이 치뤄지고 있다….>",
+    "context": "EN :\n<“A funeral procession in my mouth…”>\nJP :\n<口の中で葬儀が行われている…。>"
+  },
+  {
+    "key": "25-model",
+    "original": "뒤틀린주인",
+    "translation": "扭曲的老板",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing"
+  },
+  {
+    "key": "25-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "25-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "25-content",
+    "original": "거… 어…어…",
+    "context": "EN :\nGrh… Urhh…erh…\nJP :\nガ…オ…オ…。"
+  },
+  {
+    "key": "26-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "26-content",
+    "original": "<닭들의 종말이 이 요리의 컨셉이냐는데…>",
+    "context": "EN :\n<“Is your cooking theme ‘poultry apocalypse’”, he asks…>\nJP :\n<鶏たちの終末がこの料理のコンセプトかって言ってるけど…。>"
+  },
+  {
+    "key": "27-model",
+    "original": "료슈요리사",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "27-content",
+    "original": "좋아… 오늘이야 말로 그 시계를 몸통과 분리해주겠어.",
+    "context": "EN :\nRight… Today will be the day I rip that clock from its stem.\nJP :\nよし…今日こそ、その時計を胴体から外してやる。"
+  },
+  {
+    "key": "28-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "28-content",
+    "original": "<난 그냥 말을 전한 거야!>",
+    "context": "EN :\n<I was just relaying his review!>\nJP :\n<私は話を伝えただけだって！>"
+  },
+  {
+    "key": "29-model",
+    "original": "료슈요리사",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "29-content",
+    "original": "그럼 둘이 사이좋게 보내주마.",
+    "context": "EN :\nThen the two of you can go to hell together.\nJP :\nじゃあ二人とも仲良く送ってやる。"
+  },
+  {
+    "key": "30-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "30-content",
+    "original": "자만했군, 료슈. 자신감 넘치는 그 태도는 좋았지만 숙련된 경험을 따라잡지는 못하지.",
+    "context": "EN :\nGot too cocky, eh, Ryōshū? Confidence is good and all, but it’s no match for hard-boiled experience.\nJP :\n自惚れたな、良秀。自信溢れるその態度は悪くないが、熟練の経験に追いつくことはできないからな。"
+  },
+  {
+    "key": "31-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "31-content",
+    "original": "자자, 내 차례군. 입 크게 벌리시게나.",
+    "context": "EN :\nAlright, guess it’s my turn. Open wide now, pal.\nJP :\nささ、俺の番か。口を大きく開けてくれよ。"
+  },
+  {
+    "key": "32-model",
+    "original": "뒤틀린주인",
+    "translation": "扭曲的老板",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing"
+  },
+  {
+    "key": "32-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "32-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "32-content",
+    "original": "그… 어… 으…",
+    "context": "EN :\nGhh… Urhh… Urrg…\nJP :\nグ…オ…ウ…。"
+  },
+  {
+    "key": "33-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "33-content",
+    "original": "<…….>",
+    "context": "EN :\n<……>\nJP :\n<……。>"
+  },
+  {
+    "key": "34-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "34-content",
+    "original": "아아, 이번에야 말로 마음을 열고 있는 건가?",
+    "context": "EN :\nAha, is he starting to open up his heart?\nJP :\nあぁ、今度こそ心を開いているのか？"
+  },
+  {
+    "key": "35-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "35-content",
+    "original": "<혹시 가게 앞 음식물 쓰레기통에서 퍼온 것이냐는데…>",
+    "context": "EN :\n<He’s wondering if it was sludged up from the food waste dumpster outside…>\nJP :\n<もしかして、店の前の生ゴミから拾い集めてきたやつかって言ってるけど…。>"
+  },
+  {
+    "key": "36-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "36-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "37-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "37-content",
+    "original": "<두 요리 다 실패인가…>",
+    "context": "EN :\n<Looks like both your dishes failed…>\nJP :\n<両方とも失敗か…。>"
+  },
+  {
+    "key": "38-content",
+    "original": "사장님과 뒤틀린 생닭들이 으르렁거리며 다가왔다.",
+    "context": "EN :\nThe owner and his chickens came at us with growls.\nJP :\n社長さんとねじれた生鶏が唸りながら近寄ってきた。"
+  },
+  {
+    "key": "39-content",
+    "original": "아직 다 표현되지 않은 분노를 풀기라도 하려는 듯이…",
+    "context": "EN :\nAs if to express their master’s anger in full…\nJP :\nまだ露わにできていない分の怒りを晴らすかのように…。"
+  }
+]

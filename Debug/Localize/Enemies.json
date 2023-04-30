@@ -1,0 +1,3002 @@
+[
+  {
+    "key": "8001-name",
+    "original": "흑단여왕의 사과",
+    "context": "EN :\nEbony Queen’s Apple\nJP :\n黒檀女王の林檎"
+  },
+  {
+    "key": "8001-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "800101-name",
+    "original": "열매",
+    "context": "EN :\nFruit\nJP :\n果実"
+  },
+  {
+    "key": "800101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800102-name",
+    "original": "왼쪽 줄기",
+    "context": "EN :\nLeft Stem\nJP :\n左枝"
+  },
+  {
+    "key": "800102-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800103-name",
+    "original": "오른쪽 줄기",
+    "context": "EN :\nRight Stem\nJP :\n右枝"
+  },
+  {
+    "key": "800103-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800104-name",
+    "original": "뿌리",
+    "context": "EN :\nRoots\nJP :\n根"
+  },
+  {
+    "key": "800104-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "90004-name",
+    "original": "숫자 세는 불한당",
+    "context": "EN :\nNumber-nuts Hooligan\nJP :\n数を数えるゴロツキ"
+  },
+  {
+    "key": "90004-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90005-name",
+    "original": "예리한 불한당",
+    "context": "EN :\nSharp Hooligan\nJP :\n鋭いゴロツキ"
+  },
+  {
+    "key": "90005-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90006-name",
+    "original": "허기진 불한당",
+    "context": "EN :\nFamished Hooligan\nJP :\nひもじいゴロツキ"
+  },
+  {
+    "key": "90006-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90007-name",
+    "original": "대가리 불한당",
+    "context": "EN :\nHead Hooligan\nJP :\nゴロツキのおかしら"
+  },
+  {
+    "key": "90007-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90008-name",
+    "original": "화난 패잔병",
+    "context": "EN :\nFiery Veteran\nJP :\n怒った敗残兵"
+  },
+  {
+    "key": "90008-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90009-name",
+    "original": "의아한 패잔병",
+    "context": "EN :\nPuzzled Veteran\nJP :\n怪訝そうな敗残兵"
+  },
+  {
+    "key": "90009-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90010-name",
+    "original": "허름한 패잔병",
+    "context": "EN :\nScruffy Veteran\nJP :\nくたびれた敗残兵"
+  },
+  {
+    "key": "90010-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90011-name",
+    "original": "야비한 패잔병",
+    "context": "EN :\nCrooked Veteran\nJP :\n粗野な敗残兵"
+  },
+  {
+    "key": "90011-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90012-name",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "90012-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90013-name",
+    "original": "날이 선 패잔병",
+    "context": "EN :\nRazor-sharp Veteran\nJP :\n刺々しい敗残兵"
+  },
+  {
+    "key": "90013-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90001-name",
+    "original": "강해진 패잔병",
+    "context": "EN :\nHardened Veteran\nJP :\n強くなった敗残兵"
+  },
+  {
+    "key": "90001-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90002-name",
+    "original": "짙어진 패잔병",
+    "context": "EN :\nDowncast Veteran\nJP :\n強烈になった敗残兵"
+  },
+  {
+    "key": "90002-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90003-name",
+    "original": "모질어진 패잔병",
+    "context": "EN :\nEmbittered Veteran\nJP :\n惨くなった敗残兵"
+  },
+  {
+    "key": "90003-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90014-name",
+    "original": "기억속 어긋난 패잔병",
+    "context": "EN :\nRecollected Awry Soldier\nJP :\n記憶の中の歪んだ敗残兵"
+  },
+  {
+    "key": "90014-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90015-name",
+    "original": "기억속 절망하는 패잔병",
+    "context": "EN :\nRecollected Wallowing Soldier\nJP :\n記憶の中の絶望する敗残兵"
+  },
+  {
+    "key": "90015-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90016-name",
+    "original": "기억속 침식된 패잔병",
+    "context": "EN :\nRecollected Overtaken Soldier\nJP :\n記憶の中の侵食された敗残兵"
+  },
+  {
+    "key": "90016-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "91001-name",
+    "original": "옛 G사 부장",
+    "context": "EN :\nOld G Corp. Head Manager\nJP :\n元G社部長"
+  },
+  {
+    "key": "91001-desc",
+    "original": "적 보스",
+    "context": "EN :\nEnemy Boss\nJP :\n敵 ボス"
+  },
+  {
+    "key": "91002-name",
+    "original": "기억속 짓물린 G사 부장 ",
+    "context": "EN :\nRecollected Festered G Corp. H. Manager\nJP :\n記憶の中の爛れたG社の部長"
+  },
+  {
+    "key": "91002-desc",
+    "original": "적 보스",
+    "context": "EN :\nEnemy Boss\nJP :\n敵 ボス"
+  },
+  {
+    "key": "8901-name",
+    "original": "탐식 죄종",
+    "context": "EN :\nPeccatulum Gulae\nJP :\n暴食大罪"
+  },
+  {
+    "key": "8901-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8005-name",
+    "original": "탐식 죄종",
+    "context": "EN :\nPeccatulum Gulae\nJP :\n暴食大罪"
+  },
+  {
+    "key": "8005-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8006-name",
+    "original": "나태 죄종",
+    "context": "EN :\nPeccatulum Acediae\nJP :\n怠惰大罪"
+  },
+  {
+    "key": "8006-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8007-name",
+    "original": "분노 죄종",
+    "context": "EN :\nPeccatulum Irae\nJP :\n憤怒大罪"
+  },
+  {
+    "key": "8007-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8002-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "8002-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "80022-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "80022-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "80023-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "80023-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "80024-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "80024-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8003-name",
+    "original": "종말 토우",
+    "context": "EN :\nDoomsday Clay Doll\nJP :\n終末土偶"
+  },
+  {
+    "key": "8003-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8004-name",
+    "original": "불타는 종말 토우",
+    "context": "EN :\nBurning Clay Doll\nJP :\n燃え上がる終末土偶"
+  },
+  {
+    "key": "8004-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8008-name",
+    "original": "황금빛의 사과",
+    "context": "EN :\nGolden Apple\nJP :\n黄金色の林檎"
+  },
+  {
+    "key": "8008-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8009-name",
+    "original": "거짓 사과",
+    "context": "EN :\nFalse Apple\nJP :\n偽物の林檎"
+  },
+  {
+    "key": "8009-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8010-name",
+    "original": "나 강해졌나? 정말?",
+    "context": "EN :\nBecome Strong? Genuinely?\nJP :\n強くなった？ほんとに？"
+  },
+  {
+    "key": "8010-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8011-name",
+    "original": "나 세졌어! 진짜?",
+    "context": "EN :\nGrown Powerful! For Realsies?\nJP :\n強くなったよ！マジで？"
+  },
+  {
+    "key": "8011-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8012-name",
+    "original": "너 맞아볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "8012-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8013-name",
+    "original": "매혹하는 분홍신",
+    "context": "EN :\nPink Shoes Enchantee\nJP :\n誘惑する桃色の靴"
+  },
+  {
+    "key": "8013-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8014-name",
+    "original": "홀리는 분홍신",
+    "context": "EN :\nPink Shoes Possessee\nJP :\n虜になった桃色の靴"
+  },
+  {
+    "key": "8014-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8015-name",
+    "original": "또각또각? 걸어!",
+    "context": "EN :\nClippity-cloppity? Tap Away!\nJP :\nカツカツ？あるけ！"
+  },
+  {
+    "key": "8015-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8016-name",
+    "original": "우울 죄종",
+    "context": "EN :\nPeccatulum Morositatis\nJP :\n憂鬱大罪"
+  },
+  {
+    "key": "8016-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8017-name",
+    "original": "색욕 죄종",
+    "context": "EN :\nPeccatulum Luxuriae\nJP :\n色欲大罪"
+  },
+  {
+    "key": "8017-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8018-name",
+    "original": "오만 죄종",
+    "context": "EN :\nPeccatulum Superbiae\nJP :\n傲慢大罪"
+  },
+  {
+    "key": "8018-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8019-name",
+    "original": "잠에서 깬 이웃",
+    "context": "EN :\nSlumber-broken Neighbor\nJP :\n眠りから目覚めた隣人"
+  },
+  {
+    "key": "8019-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8020-name",
+    "original": "다시 일어난 이웃",
+    "context": "EN :\nRearisen Neighbor\nJP :\n再び起き上がった隣人"
+  },
+  {
+    "key": "8020-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8021-name",
+    "original": "얼어가는 광산 노예",
+    "context": "EN :\nFreezing Miner Slave\nJP :\n凍りゆく鉱山の奴隷"
+  },
+  {
+    "key": "8021-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8022-name",
+    "original": "추워하는 광산 노예",
+    "context": "EN :\nShivering Miner Slave\nJP :\n寒がる鉱山の奴隷"
+  },
+  {
+    "key": "8022-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8023-name",
+    "original": "바바 야가",
+    "context": "EN :\nBaba Yaga\nJP :\nバーバヤーガ"
+  },
+  {
+    "key": "8023-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8024-name",
+    "original": "나아가려 하는 이단심문관",
+    "context": "EN :\nProceeding Inquisitor\nJP :\n進もうとする異端審問官"
+  },
+  {
+    "key": "8024-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8025-name",
+    "original": "네 발 짐승",
+    "context": "EN :\nFour-legged Beast\nJP :\n四つ足の獣"
+  },
+  {
+    "key": "8025-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8026-name",
+    "original": "모든 것이 있는 이단 심문관",
+    "context": "EN :\nEverything There of an Inquisitor\nJP :\n全てのある異端審問官"
+  },
+  {
+    "key": "8026-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8027-name",
+    "original": "기어다니는 이단 심문관",
+    "context": "EN :\nCrawling Inquisitor\nJP :\n這い回る異端審問官"
+  },
+  {
+    "key": "8027-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8028-name",
+    "original": "꿈틀거리는 이단 심문관",
+    "context": "EN :\nSlithering Inquisitor\nJP :\n蠢く異端審問官"
+  },
+  {
+    "key": "8028-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8029-name",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "8029-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8030-name",
+    "original": "온전한 인간을 꿈꾸는 크로머",
+    "context": "EN :\nKromer the Dreamer of Human Wholeness\nJP :\n完全な人間を夢見るクローマー"
+  },
+  {
+    "key": "8030-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8031-name",
+    "original": "단수어",
+    "context": "EN :\nHeadless Ichthys\nJP :\n断首魚"
+  },
+  {
+    "key": "8031-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8032-name",
+    "original": "골목파수견",
+    "context": "EN :\nAlleyway Watchdog\nJP :\n路地の番犬"
+  },
+  {
+    "key": "8032-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "890101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "890101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "800501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800601-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "800601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "800701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800201-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "800201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800202-name",
+    "original": "오른팔",
+    "context": "EN :\nRight Arm\nJP :\n右腕"
+  },
+  {
+    "key": "800202-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800203-name",
+    "original": "얼굴",
+    "context": "EN :\nFace\nJP :\n顔"
+  },
+  {
+    "key": "800203-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800301-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "800301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800401-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "800401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "800801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800901-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "800901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800902-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "800902-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "800903-name",
+    "original": "다리",
+    "context": "EN :\nLegs\nJP :\n脚"
+  },
+  {
+    "key": "800903-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801001-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "801001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "801101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801201-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "801201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801202-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "801202-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801301-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "801301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801401-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "801401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "801501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801502-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "801502-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801601-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "801601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "801701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "801801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "801901-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "801901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802001-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "802001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "802101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802201-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "802201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802301-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "802301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802401-name",
+    "original": "오른팔",
+    "context": "EN :\nRight Arm\nJP :\n右腕"
+  },
+  {
+    "key": "802401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802402-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "802402-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "802501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802601-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "802601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "802701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "802801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802802-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "802802-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802803-name",
+    "original": "오른팔",
+    "context": "EN :\nRight Arm\nJP :\n右腕"
+  },
+  {
+    "key": "802803-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "802901-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "802901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803001-name",
+    "original": "오른팔",
+    "context": "EN :\nRight Arm\nJP :\n右腕"
+  },
+  {
+    "key": "803001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803002-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "803002-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803003-name",
+    "original": "큰입",
+    "context": "EN :\nMaw\nJP :\n大口"
+  },
+  {
+    "key": "803003-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803004-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "803004-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "803101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803102-name",
+    "original": "오른다리",
+    "context": "EN :\nRight Leg\nJP :\n右脚"
+  },
+  {
+    "key": "803102-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803103-name",
+    "original": "왼다리",
+    "context": "EN :\nLeft Leg\nJP :\n左脚"
+  },
+  {
+    "key": "803103-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803104-name",
+    "original": "꼬리",
+    "context": "EN :\nTail\nJP :\n尾"
+  },
+  {
+    "key": "803104-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803201-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "803201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803202-name",
+    "original": "전봇대",
+    "context": "EN :\nTelepole\nJP :\n電信柱"
+  },
+  {
+    "key": "803202-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803203-name",
+    "original": "사람",
+    "context": "EN :\nPerson\nJP :\n人間"
+  },
+  {
+    "key": "803203-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803204-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "803204-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "90017-name",
+    "original": "촌스러운 말투의 콩콩이파 조직원",
+    "context": "EN :\nRustic-sounding Tingtanger\nJP :\n田舎訛りのぽんぽん派の組織員"
+  },
+  {
+    "key": "90017-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90018-name",
+    "original": "세 보이고 싶었던 콩콩이파 조직원",
+    "context": "EN :\nChest-puffing Tingtanger\nJP :\n強く見られたかったぽんぽん派の組織員"
+  },
+  {
+    "key": "90018-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90019-name",
+    "original": "콩을 싫어하는 콩콩이파 조직원",
+    "context": "EN :\nBean-hating Tingtanger\nJP :\nポン菓子が嫌いなぽんぽん派の組織員"
+  },
+  {
+    "key": "90019-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "91003-name",
+    "original": "콩콩이파 보스",
+    "context": "EN :\nTingtang Boss\nJP :\nぽんぽん派 ボス"
+  },
+  {
+    "key": "91003-desc",
+    "original": "적 보스",
+    "context": "EN :\nEnemy Boss\nJP :\n敵 ボス"
+  },
+  {
+    "key": "90020-name",
+    "original": "각 잡힌 카지노 경호원",
+    "context": "EN :\nRigid Casino Security\nJP :\n身なりの整ったカジノ警護員"
+  },
+  {
+    "key": "90020-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90021-name",
+    "original": "자신있는 카지노 경호원",
+    "context": "EN :\nConfident Casino Security\nJP :\n自信ありげなカジノ警護員"
+  },
+  {
+    "key": "90021-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90022-name",
+    "original": "마음 다잡는 카지노 경호원",
+    "context": "EN :\nCollected Casino Security\nJP :\n決心するカジノ警護員"
+  },
+  {
+    "key": "90022-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90023-name",
+    "original": "카지노 경호원 대장",
+    "context": "EN :\nCasino Security Chief\nJP :\nカジノ警護員 隊長"
+  },
+  {
+    "key": "90023-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90024-name",
+    "original": "흥겨운 마리아치 조직원",
+    "context": "EN :\nMariachi Alegre\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "90024-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90025-name",
+    "original": "경쾌한 마리아치 조직원",
+    "context": "EN :\nMariachi Vivaz\nJP :\n軽快なマリアッチの組織員"
+  },
+  {
+    "key": "90025-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "91004-name",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "91004-desc",
+    "original": "적 보스",
+    "context": "EN :\nEnemy Boss\nJP :\n敵 ボス"
+  },
+  {
+    "key": "90026-name",
+    "original": "위협적인 철공회 조직원",
+    "context": "EN :\nThreatening Tieqiu Crewman\nJP :\n威圧的な鉄工会の組織員"
+  },
+  {
+    "key": "90026-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90027-name",
+    "original": "몸 푸는 철공회 조직원",
+    "context": "EN :\nFlexing Tieqiu Crewman\nJP :\n身体を解す鉄工会の組織員"
+  },
+  {
+    "key": "90027-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90028-name",
+    "original": "침착한 K사 검문소 요원",
+    "context": "EN :\nCalm K Corp. Checkpoint Security\nJP :\n落ち着いたK社検問所要員"
+  },
+  {
+    "key": "90028-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90029-name",
+    "original": "말없는 K사 검문소 요원",
+    "context": "EN :\nQuiet K Corp. Checkpoint Security\nJP :\n無口なK社検問所要員"
+  },
+  {
+    "key": "90029-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90030-name",
+    "original": "우직한 K사 검문소 요원",
+    "context": "EN :\nStern K Corp. Checkpoint Security\nJP :\n生真面目なK社検問所要員"
+  },
+  {
+    "key": "90030-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90031-name",
+    "original": "든든한 K사 검문소 요원",
+    "context": "EN :\nReliable K Corp. Checkpoint Security\nJP :\n心強いK社検問所要員"
+  },
+  {
+    "key": "90031-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90032-name",
+    "original": "받드는 N사 이단 심문관",
+    "context": "EN :\nServile N Corp. Inquisitor\nJP :\n崇めるN社異端審問官"
+  },
+  {
+    "key": "90032-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90033-name",
+    "original": "따르는 N사 이단 심문관",
+    "context": "EN :\nCompliant N Corp. Inquisitor\nJP :\n従うN社異端審問官"
+  },
+  {
+    "key": "90033-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90034-name",
+    "original": "섬기는 N사 이단 심문관",
+    "context": "EN :\nWorshipping N Corp. Inquisitor\nJP :\n仕えるN社異端審問官"
+  },
+  {
+    "key": "90034-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90035-name",
+    "original": "고문하는 N사 이단 심문관",
+    "context": "EN :\nScourging N Corp. Inquisitor\nJP :\n拷問するN社異端審問官"
+  },
+  {
+    "key": "90035-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90036-name",
+    "original": "심문에 능한 N사 이단 심문관",
+    "context": "EN :\nInterrogative N Corp. Inquisitor\nJP :\n審問に長けたN社異端審問官"
+  },
+  {
+    "key": "90036-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90037-name",
+    "original": "고통을 즐기는 N사 이단 심문관",
+    "context": "EN :\nSadistic N Corp. Inquisitor\nJP :\n苦痛を楽しむN社異端審問官"
+  },
+  {
+    "key": "90037-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90038-name",
+    "original": "집착하는 N사 이단 심문관",
+    "context": "EN :\nObsessive N Corp. Inquisitor\nJP :\n執着するN社異端審問官"
+  },
+  {
+    "key": "90038-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90039-name",
+    "original": "으뜸 기쁨의 N사 이단 심문관",
+    "context": "EN :\nJoyous N Corp. Inquisitor\nJP :\n無上の喜びに浸る異端審問官"
+  },
+  {
+    "key": "90039-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90040-name",
+    "original": "두려움 없는 N사 이단 심문관",
+    "context": "EN :\nFearless N Corp. Inquisitor\nJP :\n恐れの無いN社異端審問官"
+  },
+  {
+    "key": "90040-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "91005-name",
+    "original": "집념의 귀도",
+    "context": "EN :\nGuido the Persistent\nJP :\n執念のグイド"
+  },
+  {
+    "key": "91005-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "91006-name",
+    "original": "집념의 귀도",
+    "context": "EN :\nGuido the Persistent\nJP :\n執念のグイド"
+  },
+  {
+    "key": "91006-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99004-name",
+    "original": "허기진 불한당",
+    "context": "EN :\nFamished Hooligan\nJP :\nひもじいゴロツキ"
+  },
+  {
+    "key": "99004-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99005-name",
+    "original": "숫자 세는 불한당",
+    "context": "EN :\nNumber-nuts Hooligan\nJP :\n数を数えるゴロツキ"
+  },
+  {
+    "key": "99005-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99006-name",
+    "original": "예리한 불한당",
+    "context": "EN :\nSharp Hooligan\nJP :\n鋭いゴロツキ"
+  },
+  {
+    "key": "99006-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99007-name",
+    "original": "숫자 세는 불한당",
+    "context": "EN :\nNumber-nuts Hooligan\nJP :\n数を数えるゴロツキ"
+  },
+  {
+    "key": "99007-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99008-name",
+    "original": "예리한 불한당",
+    "context": "EN :\nSharp Hooligan\nJP :\n鋭いゴロツキ"
+  },
+  {
+    "key": "99008-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99009-name",
+    "original": "허기진 불한당",
+    "context": "EN :\nFamished Hooligan\nJP :\nひもじいゴロツキ"
+  },
+  {
+    "key": "99009-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99010-name",
+    "original": "숫자 세는 불한당",
+    "context": "EN :\nNumber-nuts Hooligan\nJP :\n数を数えるゴロツキ"
+  },
+  {
+    "key": "99010-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99011-name",
+    "original": "예리한 불한당",
+    "context": "EN :\nSharp Hooligan\nJP :\n鋭いゴロツキ"
+  },
+  {
+    "key": "99011-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99012-name",
+    "original": "숫자 세는 불한당",
+    "context": "EN :\nNumber-nuts Hooligan\nJP :\n数を数えるゴロツキ"
+  },
+  {
+    "key": "99012-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99013-name",
+    "original": "예리한 불한당",
+    "context": "EN :\nSharp Hooligan\nJP :\n鋭いゴロツキ"
+  },
+  {
+    "key": "99013-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99014-name",
+    "original": "숫자 세는 불한당",
+    "context": "EN :\nNumber-nuts Hooligan\nJP :\n数を数えるゴロツキ"
+  },
+  {
+    "key": "99014-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99015-name",
+    "original": "허기진 불한당",
+    "context": "EN :\nFamished Hooligan\nJP :\nひもじいゴロツキ"
+  },
+  {
+    "key": "99015-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99016-name",
+    "original": "숫자 세는 불한당",
+    "context": "EN :\nNumber-nuts Hooligan\nJP :\n数を数えるゴロツキ"
+  },
+  {
+    "key": "99016-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99017-name",
+    "original": "허기진 불한당",
+    "context": "EN :\nFamished Hooligan\nJP :\nひもじいゴロツキ"
+  },
+  {
+    "key": "99017-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99018-name",
+    "original": "대가리 불한당",
+    "context": "EN :\nHead Hooligan\nJP :\nゴロツキのおかしら"
+  },
+  {
+    "key": "99018-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99019-name",
+    "original": "숫자 세는 불한당",
+    "context": "EN :\nNumber-nuts Hooligan\nJP :\n数を数えるゴロツキ"
+  },
+  {
+    "key": "99019-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99020-name",
+    "original": "허기진 불한당",
+    "context": "EN :\nFamished Hooligan\nJP :\nひもじいゴロツキ"
+  },
+  {
+    "key": "99020-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "99021-name",
+    "original": "예리한 불한당",
+    "context": "EN :\nSharp Hooligan\nJP :\n鋭いゴロツキ"
+  },
+  {
+    "key": "99021-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90041-name",
+    "original": "노예",
+    "context": "EN :\nSlave\nJP :\n奴隷"
+  },
+  {
+    "key": "90041-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "8033-name",
+    "original": "꿈틀거리는 짐승",
+    "context": "EN :\nWriggling Beast\nJP :\n蠢く獣"
+  },
+  {
+    "key": "8033-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "803301-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "803301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803302-name",
+    "original": "오른팔",
+    "context": "EN :\nRight Arm\nJP :\n右腕"
+  },
+  {
+    "key": "803302-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "97101-name",
+    "original": "야비한 패잔병",
+    "context": "EN :\nCrooked Veteran\nJP :\n粗野な敗残兵"
+  },
+  {
+    "key": "97101-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97102-name",
+    "original": "입이 험한 패잔병",
+    "context": "EN :\nVulgar Veteran\nJP :\n口の悪い敗残兵"
+  },
+  {
+    "key": "97102-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97103-name",
+    "original": "날이 선 패잔병",
+    "context": "EN :\nRazor-sharp Veteran\nJP :\n刺々しい敗残兵"
+  },
+  {
+    "key": "97103-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97104-name",
+    "original": "강해진 패잔병",
+    "context": "EN :\nHardened Veteran\nJP :\n強くなった敗残兵"
+  },
+  {
+    "key": "97104-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97105-name",
+    "original": "짙어진 패잔병",
+    "context": "EN :\nDowncast Veteran\nJP :\n強烈になった敗残兵"
+  },
+  {
+    "key": "97105-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97106-name",
+    "original": "모질어진 패잔병",
+    "context": "EN :\nEmbittered Veteran\nJP :\n惨くなった敗残兵"
+  },
+  {
+    "key": "97106-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97107-name",
+    "original": "기억속 어긋난 패잔병",
+    "context": "EN :\nRecollected Awry Soldier\nJP :\n記憶の中の歪んだ敗残兵"
+  },
+  {
+    "key": "97107-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97108-name",
+    "original": "기억속 절망하는 패잔병",
+    "context": "EN :\nRecollected Wallowing Soldier\nJP :\n記憶の中の絶望する敗残兵"
+  },
+  {
+    "key": "97108-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97109-name",
+    "original": "기억속 침식된 패잔병",
+    "context": "EN :\nRecollected Overtaken Soldier\nJP :\n記憶の中の侵食された敗残兵"
+  },
+  {
+    "key": "97109-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97151-name",
+    "original": "옛 G사 부장",
+    "context": "EN :\nOld G Corp. Head Manager\nJP :\n元G社部長"
+  },
+  {
+    "key": "97151-desc",
+    "original": "적 보스",
+    "context": "EN :\nEnemy Boss\nJP :\n敵 ボス"
+  },
+  {
+    "key": "97152-name",
+    "original": "기억속 짓물린 G사 부장 ",
+    "context": "EN :\nRecollected Festered G Corp. H. Manager\nJP :\n記憶の中の爛れたG社の部長"
+  },
+  {
+    "key": "97152-desc",
+    "original": "적 보스",
+    "context": "EN :\nEnemy Boss\nJP :\n敵 ボス"
+  },
+  {
+    "key": "97201-name",
+    "original": "각 잡힌 카지노 경호원",
+    "context": "EN :\nRigid Casino Security\nJP :\n身なりの整ったカジノ警護員"
+  },
+  {
+    "key": "97201-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97202-name",
+    "original": "자신있는 카지노 경호원",
+    "context": "EN :\nConfident Casino Security\nJP :\n自信ありげなカジノ警護員"
+  },
+  {
+    "key": "97202-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97203-name",
+    "original": "마음 다잡는 카지노 경호원",
+    "context": "EN :\nCollected Casino Security\nJP :\n決心するカジノ警護員"
+  },
+  {
+    "key": "97203-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97204-name",
+    "original": "흥겨운 마리아치 조직원",
+    "context": "EN :\nMariachi Alegre\nJP :\n陽気なマリアッチの組織員"
+  },
+  {
+    "key": "97204-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97205-name",
+    "original": "경쾌한 마리아치 조직원",
+    "context": "EN :\nMariachi Vivaz\nJP :\n軽快なマリアッチの組織員"
+  },
+  {
+    "key": "97205-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97206-name",
+    "original": "위협적인 철공회 조직원",
+    "context": "EN :\nThreatening Tieqiu Crewman\nJP :\n威圧的な鉄工会の組織員"
+  },
+  {
+    "key": "97206-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97207-name",
+    "original": "몸 푸는 철공회 조직원",
+    "context": "EN :\nFlexing Tieqiu Crewman\nJP :\n身体を解す鉄工会の組織員"
+  },
+  {
+    "key": "97207-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97251-name",
+    "original": "카지노 경호원 대장",
+    "context": "EN :\nCasino Security Chief\nJP :\nカジノ警護員 隊長"
+  },
+  {
+    "key": "97251-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97252-name",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "97252-desc",
+    "original": "적 보스",
+    "context": "EN :\nEnemy Boss\nJP :\n敵 ボス"
+  },
+  {
+    "key": "97301-name",
+    "original": "받드는 N사 이단 심문관",
+    "context": "EN :\nServile N Corp. Inquisitor\nJP :\n崇めるN社異端審問官"
+  },
+  {
+    "key": "97301-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97302-name",
+    "original": "따르는 N사 이단 심문관",
+    "context": "EN :\nCompliant N Corp. Inquisitor\nJP :\n従うN社異端審問官"
+  },
+  {
+    "key": "97302-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97303-name",
+    "original": "섬기는 N사 이단 심문관",
+    "context": "EN :\nWorshipping N Corp. Inquisitor\nJP :\n仕えるN社異端審問官"
+  },
+  {
+    "key": "97303-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97304-name",
+    "original": "고문하는 N사 이단 심문관",
+    "context": "EN :\nScourging N Corp. Inquisitor\nJP :\n拷問するN社異端審問官"
+  },
+  {
+    "key": "97304-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97305-name",
+    "original": "심문에 능한 N사 이단 심문관",
+    "context": "EN :\nInterrogative N Corp. Inquisitor\nJP :\n審問に長けたN社異端審問官"
+  },
+  {
+    "key": "97305-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97306-name",
+    "original": "고통을 즐기는 N사 이단 심문관",
+    "context": "EN :\nSadistic N Corp. Inquisitor\nJP :\n苦痛を楽しむN社異端審問官"
+  },
+  {
+    "key": "97306-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97307-name",
+    "original": "집착하는 N사 이단 심문관",
+    "context": "EN :\nObsessive N Corp. Inquisitor\nJP :\n執着するN社異端審問官"
+  },
+  {
+    "key": "97307-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97308-name",
+    "original": "으뜸 기쁨의 N사 이단 심문관",
+    "context": "EN :\nJoyous N Corp. Inquisitor\nJP :\n無上の喜びに浸る異端審問官"
+  },
+  {
+    "key": "97308-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97309-name",
+    "original": "두려움 없는 N사 이단 심문관",
+    "context": "EN :\nFearless N Corp. Inquisitor\nJP :\n恐れの無いN社異端審問官"
+  },
+  {
+    "key": "97309-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "97351-name",
+    "original": "집념의 귀도",
+    "context": "EN :\nGuido the Persistent\nJP :\n執念のグイド"
+  },
+  {
+    "key": "97351-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "8701-name",
+    "original": "흑단여왕의 사과",
+    "context": "EN :\nEbony Queen’s Apple\nJP :\n黒檀女王の林檎"
+  },
+  {
+    "key": "8701-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "870101-name",
+    "original": "열매",
+    "context": "EN :\nFruit\nJP :\n果実"
+  },
+  {
+    "key": "870101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870102-name",
+    "original": "왼쪽 줄기",
+    "context": "EN :\nLeft Stem\nJP :\n左枝"
+  },
+  {
+    "key": "870102-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870103-name",
+    "original": "오른쪽 줄기",
+    "context": "EN :\nRight Stem\nJP :\n右枝"
+  },
+  {
+    "key": "870103-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870104-name",
+    "original": "뿌리",
+    "context": "EN :\nRoots\nJP :\n根"
+  },
+  {
+    "key": "870104-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8702-name",
+    "original": "단수어",
+    "context": "EN :\nHeadless Ichthys\nJP :\n断首魚"
+  },
+  {
+    "key": "8702-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "870201-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "870201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870202-name",
+    "original": "오른다리",
+    "context": "EN :\nRight Leg\nJP :\n右脚"
+  },
+  {
+    "key": "870202-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870203-name",
+    "original": "왼다리",
+    "context": "EN :\nLeft Leg\nJP :\n左脚"
+  },
+  {
+    "key": "870203-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870204-name",
+    "original": "꼬리",
+    "context": "EN :\nTail\nJP :\n尾"
+  },
+  {
+    "key": "870204-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8703-name",
+    "original": "황금빛의 사과",
+    "context": "EN :\nGolden Apple\nJP :\n黄金色の林檎"
+  },
+  {
+    "key": "8703-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "870301-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "870301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8704-name",
+    "original": "거짓 사과",
+    "context": "EN :\nFalse Apple\nJP :\n偽物の林檎"
+  },
+  {
+    "key": "8704-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "870401-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "870401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870402-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "870402-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870403-name",
+    "original": "다리",
+    "context": "EN :\nLegs\nJP :\n脚"
+  },
+  {
+    "key": "870403-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8705-name",
+    "original": "골목파수견",
+    "context": "EN :\nAlleyway Watchdog\nJP :\n路地の番犬"
+  },
+  {
+    "key": "8705-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "870501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "870501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870502-name",
+    "original": "전봇대",
+    "context": "EN :\nTelepole\nJP :\n電信柱"
+  },
+  {
+    "key": "870502-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870503-name",
+    "original": "사람",
+    "context": "EN :\nPerson\nJP :\n人間"
+  },
+  {
+    "key": "870503-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870504-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "870504-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8706-name",
+    "original": "나 강해졌나? 정말?",
+    "context": "EN :\nBecome Strong? Genuinely?\nJP :\n強くなった？ほんとに？"
+  },
+  {
+    "key": "8706-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "870601-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "870601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8707-name",
+    "original": "나 세졌어! 진짜?",
+    "context": "EN :\nGrown Powerful! For Realsies?\nJP :\n強くなったよ！マジで？"
+  },
+  {
+    "key": "8707-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "870701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "870701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8708-name",
+    "original": "너 맞아볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "8708-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "870801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "870801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "870802-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "870802-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8709-name",
+    "original": "매혹하는 분홍신",
+    "context": "EN :\nPink Shoes Enchantee\nJP :\n誘惑する桃色の靴"
+  },
+  {
+    "key": "8709-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "870901-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "870901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8710-name",
+    "original": "홀리는 분홍신",
+    "context": "EN :\nPink Shoes Possessee\nJP :\n虜になった桃色の靴"
+  },
+  {
+    "key": "8710-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "871001-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "871001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8711-name",
+    "original": "또각또각? 걸어!",
+    "context": "EN :\nClippity-cloppity? Tap Away!\nJP :\nカツカツ？あるけ！"
+  },
+  {
+    "key": "8711-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "871101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "871101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "871102-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "871102-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8712-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "8712-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "871201-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "871201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "871202-name",
+    "original": "오른팔",
+    "context": "EN :\nRight Arm\nJP :\n右腕"
+  },
+  {
+    "key": "871202-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "871203-name",
+    "original": "얼굴",
+    "context": "EN :\nFace\nJP :\n顔"
+  },
+  {
+    "key": "871203-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "87122-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "87122-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "87123-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "87123-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "87124-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "87124-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8713-name",
+    "original": "종말 토우",
+    "context": "EN :\nDoomsday Clay Doll\nJP :\n終末土偶"
+  },
+  {
+    "key": "8713-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "871301-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "871301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8714-name",
+    "original": "불타는 종말 토우",
+    "context": "EN :\nBurning Clay Doll\nJP :\n燃え上がる終末土偶"
+  },
+  {
+    "key": "8714-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "871401-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "871401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8721-name",
+    "original": "흑단여왕의 사과",
+    "context": "EN :\nEbony Queen’s Apple\nJP :\n黒檀女王の林檎"
+  },
+  {
+    "key": "8721-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "872101-name",
+    "original": "열매",
+    "context": "EN :\nFruit\nJP :\n果実"
+  },
+  {
+    "key": "872101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872102-name",
+    "original": "왼쪽 줄기",
+    "context": "EN :\nLeft Stem\nJP :\n左枝"
+  },
+  {
+    "key": "872102-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872103-name",
+    "original": "오른쪽 줄기",
+    "context": "EN :\nRight Stem\nJP :\n右枝"
+  },
+  {
+    "key": "872103-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872104-name",
+    "original": "뿌리",
+    "context": "EN :\nRoots\nJP :\n根"
+  },
+  {
+    "key": "872104-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8722-name",
+    "original": "단수어",
+    "context": "EN :\nHeadless Ichthys\nJP :\n断首魚"
+  },
+  {
+    "key": "8722-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "872201-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "872201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872202-name",
+    "original": "오른다리",
+    "context": "EN :\nRight Leg\nJP :\n右脚"
+  },
+  {
+    "key": "872202-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872203-name",
+    "original": "왼다리",
+    "context": "EN :\nLeft Leg\nJP :\n左脚"
+  },
+  {
+    "key": "872203-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872204-name",
+    "original": "꼬리",
+    "context": "EN :\nTail\nJP :\n尾"
+  },
+  {
+    "key": "872204-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8723-name",
+    "original": "황금빛의 사과",
+    "context": "EN :\nGolden Apple\nJP :\n黄金色の林檎"
+  },
+  {
+    "key": "8723-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "872301-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "872301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8724-name",
+    "original": "거짓 사과",
+    "context": "EN :\nFalse Apple\nJP :\n偽物の林檎"
+  },
+  {
+    "key": "8724-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "872401-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "872401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872402-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "872402-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872403-name",
+    "original": "다리",
+    "context": "EN :\nLegs\nJP :\n脚"
+  },
+  {
+    "key": "872403-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8725-name",
+    "original": "골목파수견",
+    "context": "EN :\nAlleyway Watchdog\nJP :\n路地の番犬"
+  },
+  {
+    "key": "8725-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "872501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "872501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872502-name",
+    "original": "전봇대",
+    "context": "EN :\nTelepole\nJP :\n電信柱"
+  },
+  {
+    "key": "872502-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872503-name",
+    "original": "사람",
+    "context": "EN :\nPerson\nJP :\n人間"
+  },
+  {
+    "key": "872503-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872504-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "872504-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8726-name",
+    "original": "나 강해졌나? 정말?",
+    "context": "EN :\nBecome Strong? Genuinely?\nJP :\n強くなった？ほんとに？"
+  },
+  {
+    "key": "8726-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "872601-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "872601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8727-name",
+    "original": "나 세졌어! 진짜?",
+    "context": "EN :\nGrown Powerful! For Realsies?\nJP :\n強くなったよ！マジで？"
+  },
+  {
+    "key": "8727-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "872701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "872701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8728-name",
+    "original": "너 맞아볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "8728-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "872801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "872801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "872802-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "872802-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8729-name",
+    "original": "매혹하는 분홍신",
+    "context": "EN :\nPink Shoes Enchantee\nJP :\n誘惑する桃色の靴"
+  },
+  {
+    "key": "8729-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "872901-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "872901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8730-name",
+    "original": "홀리는 분홍신",
+    "context": "EN :\nPink Shoes Possessee\nJP :\n虜になった桃色の靴"
+  },
+  {
+    "key": "8730-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "873001-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "873001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8731-name",
+    "original": "또각또각? 걸어!",
+    "context": "EN :\nClippity-cloppity? Tap Away!\nJP :\nカツカツ？あるけ！"
+  },
+  {
+    "key": "8731-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "873101-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "873101-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "873102-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "873102-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8732-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "8732-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "873201-name",
+    "original": "왼팔",
+    "context": "EN :\nLeft Arm\nJP :\n左腕"
+  },
+  {
+    "key": "873201-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "873202-name",
+    "original": "오른팔",
+    "context": "EN :\nRight Arm\nJP :\n右腕"
+  },
+  {
+    "key": "873202-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "873203-name",
+    "original": "얼굴",
+    "context": "EN :\nFace\nJP :\n顔"
+  },
+  {
+    "key": "873203-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "87322-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "87322-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "87323-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "87323-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "87324-name",
+    "original": "종말 달력",
+    "context": "EN :\nDoomsday Calendar\nJP :\n終末カレンダー"
+  },
+  {
+    "key": "87324-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "8733-name",
+    "original": "종말 토우",
+    "context": "EN :\nDoomsday Clay Doll\nJP :\n終末土偶"
+  },
+  {
+    "key": "8733-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "873301-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "873301-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8734-name",
+    "original": "불타는 종말 토우",
+    "context": "EN :\nBurning Clay Doll\nJP :\n燃え上がる終末土偶"
+  },
+  {
+    "key": "8734-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "873401-name",
+    "original": "머리",
+    "context": "EN :\nHead\nJP :\n頭"
+  },
+  {
+    "key": "873401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "90042-name",
+    "original": "혼란스런 K사 검문소 요원",
+    "context": "EN :\nConfused K Corp. Checkpoint Security\nJP :\n混乱しているK社検問所要員"
+  },
+  {
+    "key": "90042-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90043-name",
+    "original": "정신없는 K사 검문소 요원",
+    "context": "EN :\nSwamped K Corp. Checkpoint Security\nJP :\n忙しないK社検問所要員"
+  },
+  {
+    "key": "90043-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90044-name",
+    "original": "어지러운 K사 검문소 요원",
+    "context": "EN :\nHazed K Corp. Checkpoint Security\nJP :\n目を回したK社検問所要員"
+  },
+  {
+    "key": "90044-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "90045-name",
+    "original": "앞이 캄캄한 K사 검문소 요원",
+    "context": "EN :\nStunned K Corp. Checkpoint Security\nJP :\n目の前が真っ暗なK社検問所要員"
+  },
+  {
+    "key": "90045-desc",
+    "original": "적 잡몹",
+    "context": "EN :\nEnemy Unit\nJP :\n敵 雑魚"
+  },
+  {
+    "key": "8034-name",
+    "original": "닭도리 - a.k.a 봉이",
+    "context": "EN :\nHeadchicken a.k.a. Bongy\nJP :\nチキン野郎 - a.k.a ボンちゃん"
+  },
+  {
+    "key": "8034-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "803401-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "803401-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8035-name",
+    "original": "닭도리 - a.k.a 봉이",
+    "context": "EN :\nHeadchicken a.k.a. Bongy\nJP :\nチキン野郎 - a.k.a ボンちゃん"
+  },
+  {
+    "key": "8035-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "803501-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "803501-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8036-name",
+    "original": "닭도리 - a.k.a 봉이",
+    "context": "EN :\nHeadchicken a.k.a. Bongy\nJP :\nチキン野郎 - a.k.a ボンちゃん"
+  },
+  {
+    "key": "8036-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "803601-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "803601-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8037-name",
+    "original": "닭도리 - a.k.a 봉이",
+    "context": "EN :\nHeadchicken a.k.a. Bongy\nJP :\nチキン野郎 - a.k.a ボンちゃん"
+  },
+  {
+    "key": "8037-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "803701-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "803701-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8038-name",
+    "original": "봉이 아빠",
+    "context": "EN :\nPapa Bongy\nJP :\nボンちゃんパパ"
+  },
+  {
+    "key": "8038-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "803801-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "803801-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8039-name",
+    "original": "봉이 아빠",
+    "context": "EN :\nPapa Bongy\nJP :\nボンちゃんパパ"
+  },
+  {
+    "key": "8039-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "803901-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "803901-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "803902-name",
+    "original": "닭통",
+    "context": "EN :\nChicken Bucket\nJP :\nチキンバケツ"
+  },
+  {
+    "key": "803902-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "8040-name",
+    "original": "매워진 봉이 아빠",
+    "context": "EN :\nSpiced-up Papa Bongy\nJP :\n辛くなったボンちゃんパパ"
+  },
+  {
+    "key": "8040-desc",
+    "original": "본체",
+    "context": "EN :\nCore\nJP :\n本体"
+  },
+  {
+    "key": "804001-name",
+    "original": "몸통",
+    "context": "EN :\nBody\nJP :\n胴体"
+  },
+  {
+    "key": "804001-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n部位"
+  },
+  {
+    "key": "804002-name",
+    "original": "닭통",
+    "context": "EN :\nChicken Bucket\nJP :\nチキンバケツ"
+  },
+  {
+    "key": "804002-desc",
+    "original": "부위",
+    "context": "EN :\nPart\nJP :\n胴体"
+  }
+]

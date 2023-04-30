@@ -1,0 +1,42 @@
+[
+  {
+    "key": "EGO_GIFT-content",
+    "original": "E.G.O 기프트",
+    "context": "EN :\nE.G.O Gift\nJP :\nE.G.Oギフト"
+  },
+  {
+    "key": "OnStageStart-content",
+    "original": "스테이지 진입 시",
+    "context": "EN :\nUpon Stage Entry\nJP :\nステージ進入時"
+  },
+  {
+    "key": "IncludeSkillAttribute-content",
+    "original": "속성 죄를 보유한",
+    "context": "EN :\nwith the Sin Affinity\nJP :\n属性の積みを保有する"
+  },
+  {
+    "key": "NotIncludeSkillAttribute-content",
+    "original": "속성 죄를 보유하지 않은",
+    "context": "EN :\nwithout the Sin Affinity\nJP :\n属性の積みを保有しない"
+  },
+  {
+    "key": "NextBattle-content",
+    "original": "다음 전투에 참여하는",
+    "context": "EN :\nparticipating in the next battle\nJP :\n次の戦闘に参加する"
+  },
+  {
+    "key": "LowestMp-content",
+    "original": "가장 정신력이 낮은",
+    "context": "EN :\nwith the lowest SP\nJP :\n最も精神力の低い"
+  },
+  {
+    "key": "FAILURE-content",
+    "original": "판정에 실패한",
+    "context": "EN :\nthat failed the Check\nJP :\n判定に失敗した"
+  },
+  {
+    "key": "SUCCESS-content",
+    "original": "판정에 성공한",
+    "context": "EN :\nthat passed the Check\nJP :\n判定に成功した"
+  }
+]

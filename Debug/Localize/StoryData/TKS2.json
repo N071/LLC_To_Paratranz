@@ -1,0 +1,139 @@
+[
+  {
+    "key": "0-place",
+    "original": "로보토미 지부 어딘가",
+    "context": "EN :\n로보토미 지부 어딘가\nJP :\nロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "0-content",
+    "original": "겨우 끝냈군. 덕분에 갈비뼈가 연달아 여덟 개가 부러지면 어떤 느낌인지 확실히 깨달았어.",
+    "context": "EN :\n겨우 끝냈군. 덕분에 갈비뼈가 연달아 여덟 개가 부러지면 어떤 느낌인지 확실히 깨달았어.\nJP :\n겨우 끝냈군. 덕분에 갈비뼈가 연달아 여덟 개가 부러지면 어떤 느낌인지 확실히 깨달았어."
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "끝이라고 하기엔 이제부터가 시작인 걸요.",
+    "context": "EN :\n끝이라고 하기엔 이제부터가 시작인 걸요.\nJP :\n끝이라고 하기엔 이제부터가 시작인 걸요."
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "버려진 로보토미 지부 안에는 이러한 환상체들이 곳곳에 존재해 있을 겁니다.",
+    "context": "EN :\n버려진 로보토미 지부 안에는 이러한 환상체들이 곳곳에 존재해 있을 겁니다.\nJP :\n버려진 로보토미 지부 안에는 이러한 환상체들이 곳곳에 존재해 있을 겁니다."
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "앞으로 이런 괴물 새끼들을 계속해서 마주치고 다녀야만 한다는 소리야?",
+    "context": "EN :\n앞으로 이런 괴물 새끼들을 계속해서 마주치고 다녀야만 한다는 소리야?\nJP :\n앞으로 이런 괴물 새끼들을 계속해서 마주치고 다녀야만 한다는 소리야?"
+  },
+  {
+    "key": "4-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "4-content",
+    "original": "네, 그 외에 예측할 수 없는 위험들도 마주치게 될 거예요. 그리고 괴물이 아니라 환상체가 더 정확한 명칭입니다.",
+    "context": "EN :\n네, 그 외에 예측할 수 없는 위험들도 마주치게 될 거예요. 그리고 괴물이 아니라 환상체가 더 정확한 명칭입니다.\nJP :\n네, 그 외에 예측할 수 없는 위험들도 마주치게 될 거예요. 그리고 괴물이 아니라 환상체가 더 정확한 명칭입니다."
+  },
+  {
+    "key": "5-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "5-content",
+    "original": "예측이 안 된다니... 너무하잖아. 너무 무책임한 거 아니야?",
+    "context": "EN :\n예측이 안 된다니... 너무하잖아. 너무 무책임한 거 아니야?\nJP :\n예측이 안 된다니... 너무하잖아. 너무 무책임한 거 아니야?"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "그래서 우리들의 시간을 귀속시켰죠. 되살아날 수 있도록.",
+    "context": "EN :\n그래서 우리들의 시간을 귀속시켰죠. 되살아날 수 있도록.\nJP :\n그래서 우리들의 시간을 귀속시켰죠. 되살아날 수 있도록."
+  },
+  {
+    "key": "7-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "7-content",
+    "original": "<그리고 나는 너희가 죽을 때마다 계속 시계를 돌려야만 하는 거고.>",
+    "context": "EN :\n<그리고 나는 너희가 죽을 때마다 계속 시계를 돌려야만 하는 거고.>\nJP :\n<그리고 나는 너희가 죽을 때마다 계속 시계를 돌려야만 하는 거고.>"
+  },
+  {
+    "key": "8-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-content",
+    "original": "당신의 입사 조건이기도 하고요.",
+    "context": "EN :\n당신의 입사 조건이기도 하고요.\nJP :\n당신의 입사 조건이기도 하고요."
+  },
+  {
+    "key": "9-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "9-content",
+    "original": "다시는 상대하기 싫을 정도로 끔찍한 경험이었는데요...언제까지 싸워야 하는 거죠?",
+    "context": "EN :\n다시는 상대하기 싫을 정도로 끔찍한 경험이었는데요...언제까지 싸워야 하는 거죠?\nJP :\n다시는 상대하기 싫을 정도로 끔찍한 경험이었는데요...언제까지 싸워야 하는 거죠?"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "알고 계시잖아요.",
+    "context": "EN :\n알고 계시잖아요.\nJP :\n알고 계시잖아요."
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "이 곳 어딘가에 있는 황금가지를 회수할 때까지. ",
+    "context": "EN :\n이 곳 어딘가에 있는 황금가지를 회수할 때까지. \nJP :\n이 곳 어딘가에 있는 황금가지를 회수할 때까지. "
+  }
+]

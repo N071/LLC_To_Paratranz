@@ -1,0 +1,281 @@
+[
+  {
+    "key": "0-place",
+    "original": "연기전쟁 중부전선",
+    "context": "EN :\nCentral Front in the Smoke War\nJP :\n煙戦争 中部戦線"
+  },
+  {
+    "key": "0-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "0-content",
+    "original": "유리 씨, 안 오고 뭐 해?",
+    "context": "EN :\nWhat’s the delay, Yuri?\nJP :\nユーリさん、こっち来ないで何してんだ？"
+  },
+  {
+    "key": "1-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "1-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "1-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "1-content",
+    "original": "자, 잠시만요. 가방에서 방독면이 떨어져서…",
+    "context": "EN :\nG-Give me a second, please. The gas mask fell off my bag…\nJP :\nちょ、ちょっと待ってください。カバンからガスマスクが落ちて…。"
+  },
+  {
+    "key": "2-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "2-content",
+    "original": "이젠 쓸모도 없을 텐데, 군장의 무게만 늘리는군.",
+    "context": "EN :\nI don’t see it serving any practical purpose now. You’re only weighing yourself down.\nJP :\nもう役に立たないだろうに、軍装の重さばかり増やすのか。"
+  },
+  {
+    "key": "3-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "3-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "3-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "3-content",
+    "original": "아야 씨의… 유품이잖아요.",
+    "context": "EN :\nI mean, it’s… Aya’s memento.\nJP :\nアヤさんの…遺品じゃないですか。"
+  },
+  {
+    "key": "4-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "4-content",
+    "original": "N사 소속도 아니면서, 세상에서 가장 의미 없는 짓을 하는군.",
+    "context": "EN :\nYou indulge in the most pointless activity in the world, and you aren’t even from N Corp.\nJP :\nN社所属でもないのに、世界で最も意味のないことをするんだな。"
+  },
+  {
+    "key": "5-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "5-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "반대로 묶어야 돼요.",
+    "context": "EN :\nTie it the other way.\nJP :\n反対に結んでください。"
+  },
+  {
+    "key": "7-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "7-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "7-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "7-content",
+    "original": "네?",
+    "context": "EN :\nSorry?\nJP :\nはい？"
+  },
+  {
+    "key": "8-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "8-content",
+    "original": "매듭이요. 그렇게 묶으면 금방 다시 떨어질 거예요.",
+    "context": "EN :\nThe knot. It’ll come loose again if you tie it that way.\nJP :\n結び目です。そんな風に結ぶとすぐにまた落ちますよ。"
+  },
+  {
+    "key": "9-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "9-content",
+    "original": "배에서 안 풀리게 묶던 방법이 있었어요. 버스로 돌아가면 방법 알려드릴게요.",
+    "context": "EN :\nThere’s a sailor’s knot I learned on the boat. I’ll teach you how to do it back on the bus.\nJP :\n船でやってた解けない結び方があるんです。バスに戻ったらやり方教えますよ。"
+  },
+  {
+    "key": "10-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "10-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "10-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "10-content",
+    "original": "아… 고마워요.",
+    "context": "EN :\nOh… Thank you.\nJP :\nその…ありがとうございます。"
+  },
+  {
+    "key": "11-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "11-content",
+    "original": "뭔데. 너네 뭔데 화목하고 자빠졌냐?",
+    "context": "EN :\nWhat now. Since when were you so friendly?\nJP :\nなんだよ。お前ら急に仲良くなったじゃねぇか？"
+  },
+  {
+    "key": "12-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "12-content",
+    "original": "유리~ 이렇게 된 거, 림버스 컴퍼니 새 수감자로 합류는 어때?",
+    "context": "EN :\nYuri~ Y’know what? Why don’t you join our company while you’re at it?\nJP :\nユーリィ～こうなったんだし、\nリンバスカンパニーの新しい囚人になるのってどう？"
+  },
+  {
+    "key": "13-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "13-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "13-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "13-content",
+    "original": "제, 제가요?",
+    "context": "EN :\nM-Me?\nJP :\nわ、私がですか？"
+  },
+  {
+    "key": "14-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "14-content",
+    "original": "그건…",
+    "context": "EN :\nThat’s…\nJP :\nそれは…。"
+  },
+  {
+    "key": "15-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "15-content",
+    "original": "알아, 알아. 베르길리우스나 그 윗선의 권한이라는 거. 그래도 말은 꺼내 볼 수 있잖아.",
+    "context": "EN :\nI know, I know. We need to get the okay from Vergilius or his superiors and all that. But a little suggestion doesn’t hurt.\nJP :\n分かってる、分かってる。それはヴェルギリウスやその上司の権限だってこと。\nそれでも話してみるくらいはできるでしょ。"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "흠… 글쎄요.",
+    "context": "EN :\nHm… I wonder.\nJP :\nふむ…どうでしょう。"
+  },
+  {
+    "key": "17-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "17-content",
+    "original": "그리고 분홍 머리가 회사의 마스코트로도 제격이거든. 어때, 어때? 응?",
+    "context": "EN :\nPlus, pink hair makes a perfect mascot to represent us. C’mon, won’t you give it some thought? Please?\nJP :\nそれにピンク髪って会社のマスコットにぴったりでしょ。どう、どう？うん？"
+  },
+  {
+    "key": "18-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "18-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "18-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "18-content",
+    "original": "마, 마스코트요…? 후후.",
+    "context": "EN :\nA—A mascot…? Huhu.\nJP :\nま、マスコットですか…？ふふっ。"
+  },
+  {
+    "key": "19-content",
+    "original": "처음으로 유리가 희미하게 웃었다.",
+    "context": "EN :\nYuri made a smile for the first time, albeit faintly.\nJP :\n初めてユーリがかすかに笑った。"
+  }
+]

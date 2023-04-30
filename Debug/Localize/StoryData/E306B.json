@@ -1,0 +1,548 @@
+[
+  {
+    "key": "0-place",
+    "original": "과거의 은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers - The Past\nJP :\n過去のウンボンのチキン酒場"
+  },
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<처음 보는 장면들이 흘러나오고 있어!>",
+    "context": "EN :\n<I’m having visions I’ve never seen before!>\nJP :\n<見たことない場面が流れている！>"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<사장의 기억인가 봐.>",
+    "context": "EN :\n<These must be his memories.>\nJP :\n<社長の記憶みたいだ。>"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "충격을 받아서 부분적으로 기억을 잃어버렸던 장면일 수도 있겠군요.",
+    "context": "EN :\nThey might be recollections that he partially had lost due to the shock.\nJP :\n衝撃を受け、部分的に記憶を失った場面かもしれませんね。"
+  },
+  {
+    "key": "3-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "3-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "3-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "3-content",
+    "original": "후… 찾아내기 힘들었어. 특급 비밀 레시피라고 해서 매우 철저하게 숨겨져 있을 줄 알았는데 라면 받침대로 쓰이고 있었을 줄이야…!",
+    "context": "EN :\nPhew… I’ve finally found it. I thought he’d keep his top-secret recipe locked up tight and away, but he was using it as a trivet to eat ramen…!\nJP :\nふぅ…見つけるのが大変だったな。トップシークレットのレシピっていうから、徹底的に隠されていると思ったのにラーメンストッパーに使われていたとは…！"
+  },
+  {
+    "key": "4-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "4-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "4-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "4-content",
+    "original": "그, 그건 우리 식당 레시피? 어떻게 찾아낸 거지?",
+    "context": "EN :\nI—Is that my restaurant’s recipe? How did you get your hands on it?\nJP :\nそ、それはうちの食堂のレシピ？どうやって見つけたんだ？"
+  },
+  {
+    "key": "5-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "5-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "5-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "5-content",
+    "original": "스파이를 파견했다. 최저 시급으로도 한 시간 일찍 나와서 오픈 준비를 해 줄 아르바이트생이 진짜로 존재할 거라고 생각했나?",
+    "context": "EN :\nI sent a spy. Did you really think a part-timer willing to come in an hour early to help with prep on minimum wage would actually exist?\nJP :\nスパイを派遣した。最低時給でも1時間早く出社して開店準備をしてくれるアルバイトが本当にいるとでも思ったのか？"
+  },
+  {
+    "key": "6-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "6-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "6-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "6-content",
+    "original": "왜, 왜 이런 짓을…!",
+    "context": "EN :\nBut why— Why would you…!\nJP :\nど、どうしてこんなことを…！"
+  },
+  {
+    "key": "7-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "7-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "7-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "7-content",
+    "original": "어쩔 수 없어! 본사에서 제시한 만큼의 실적을 못 낸다면 우리 가게는 문을 닫을 수밖에 없다고!",
+    "context": "EN :\nI had no choice! If I don’t meet the quota HQ demands from me, my restaurant will be shut down!\nJP :\nどうしようもないんだ！本社で提示した実績が出せなければ、うちの店は閉店するしかないんだ！"
+  },
+  {
+    "key": "8-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "8-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "8-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "8-content",
+    "original": "그.. 그래도 레시피는 전부 내 머릿속에 있어! 설탕 두 스푼! 간장 한 스푼 반에 다진 마늘을….",
+    "context": "EN :\nThe… The recipe’s still in my head! Two spoons of sugar! One and a half spoons of soy sauce, then add minced garlic…\nJP :\nそ…それでもレシピは全部俺の頭の中にある！砂糖2スプーン、醤油1スプーン半に刻んだニンニクを…。"
+  },
+  {
+    "key": "9-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "9-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "9-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "9-content",
+    "original": "소용없어, 개념소각기에 넣을 생각이거든. 머릿속 기억까지 영영 사라지겠지.",
+    "context": "EN :\nIt’s no use—I’ll have it burnt in the concept incinerator. Any trace of the recipe will be gone, including the memories in your head.\nJP :\n無駄だ、概念焼却機に入れるつもりだからな。頭の中の記憶まで永遠に消えるんだ。"
+  },
+  {
+    "key": "10-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "10-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "10-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "10-content",
+    "original": "안돼애애애애애!!",
+    "context": "EN :\nNOOOOOOO!!\nJP :\nだめだぁぁぁぁあああ！！！！！！"
+  },
+  {
+    "key": "11-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "11-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "11-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "11-content",
+    "original": "설탕 두 스푼! 간장 한 스푼 반에….",
+    "context": "EN :\nTwo spoons of sugar! One and a half spoons of soy sauce…\nJP :\n砂糖2スプーン！醤油1スプーン半に…。"
+  },
+  {
+    "key": "12-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "12-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "12-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "12-content",
+    "original": "그러니까… 내가 경고했을 때 일찌감치 가게를 접었어야지!",
+    "context": "EN :\nLike I said… You should’ve shut down your restaurant when I warned you!\nJP :\nだから…私が警告したときに店を畳めば良かったのに！"
+  },
+  {
+    "key": "13-model",
+    "original": "은봉치킨",
+    "translation": "银凤炸鸡",
+    "context": "EN :\nStoryLog_Eunbong\nJP :\nEunbong"
+  },
+  {
+    "key": "13-teller",
+    "original": "은봉이네 호프집 사장",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 社長"
+  },
+  {
+    "key": "13-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "13-content",
+    "original": "설… 설탕… 아니, 설탕이 맞았나? 아무것도 기억이 안 나…",
+    "context": "EN :\nTwo… S-Sugar… No, was it sugar? I can’t remember a thing…\nJP :\nさ…砂糖…いや、砂糖だっけ？何も思い出せない…。"
+  },
+  {
+    "key": "14-place",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "14-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "14-content",
+    "original": "그 자식, 첫인상부터 마음에 들지 않았어. 건.내.금.포 붙였을 때부터 알아보았지.",
+    "context": "EN :\nI never liked that pest. Knew he was rotten from all the N.S.O.P. signs plastered over his walls.\nJP :\nあいつ、第一印象から気に入らなかった。建・内・禁・ポを貼ったときから分かってた。"
+  },
+  {
+    "key": "15-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "15-content",
+    "original": "개념소각기에 넣었다면… 레시피는 영영 되찾을 수 없다고 봐야겠네요…",
+    "context": "EN :\nIf it was put in the concept incinerator… That recipe is as good as gone…\nJP :\n概念焼却機に入れたのなら…レシピは永遠に取り戻せないとみるべきですね…。"
+  },
+  {
+    "key": "16-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "16-content",
+    "original": "개념소각기가 뭐…",
+    "context": "EN :\nWhat’s a concept incinerator ab—\nJP :\n概念焼却機ってな―"
+  },
+  {
+    "key": "17-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "17-content",
+    "original": "…아니야… 이스마엘 표정을 보니까 그다지 묻고 싶지 않아졌어.",
+    "context": "EN :\n…Nevermind, Ishmael. Your face tells me I don’t wanna ask about it.\nJP :\n…いや、イシュメールの顔を見たら聞く気失せたよ。"
+  },
+  {
+    "key": "18-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "18-content",
+    "original": "네?",
+    "context": "EN :\nPardon?\nJP :\nはい？"
+  },
+  {
+    "key": "19-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "19-content",
+    "original": "개념소각기라 한다면…",
+    "context": "EN :\nThe concept incinerator…\nJP :\n概念焼却機というと…。"
+  },
+  {
+    "key": "20-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "20-content",
+    "original": "기술을 영구 소멸할 수 있는 대표적인 기술이오.",
+    "context": "EN :\nIt is a trusted method of permanently erasing a technology.\nJP :\n技術を永久消滅するにあたう代表的な技術なり。"
+  },
+  {
+    "key": "21-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "21-content",
+    "original": "이를테면… 파우스트 양이 메피스토펠레스를 발명하기 전의 상태로 돌아가는 것이지.",
+    "context": "EN :\nFor instance… It has the ability to make it as if Miss Faust never invented Mephistopheles.\nJP :\n例えば…ファウスト嬢がメフィストフェレスを発明せし前の状態に戻りけり。"
+  },
+  {
+    "key": "22-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "22-content",
+    "original": "시간이 되돌아가는 건가요?",
+    "context": "EN :\nDoes it turn things back in time?\nJP :\n時間が戻るんですか？"
+  },
+  {
+    "key": "23-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "23-content",
+    "original": "아니오. 그저… 머릿속에서 없던 일이 되어버릴 뿐.",
+    "context": "EN :\nNo, not quite. It simply… is oblivionized, as though the brain had never conceived it.\nJP :\n否。只…頭の中より無かったことになるのみ。"
+  },
+  {
+    "key": "24-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "24-content",
+    "original": "기술과 관련되어 있는 모든 문서, 사진, 아주 작고 작은 부품 조각, 파우스트 양의 기억까지 뭉개지거나 사라지는 것이오.",
+    "context": "EN :\nAny documentation, photography, the tiniest bits and parts of its composition, and even Miss Faust’s own memories will be dimmed and obliterated.\nJP :\n技術と関連せし全ての文書、写真、げに小さき部品の欠片、ファウスト嬢の記憶まで潰る、もしくは消ゆるなり。"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-content",
+    "original": "해당 특이점 소각기 제품의 비용에 따라 효과와 범위가 다르지만요.",
+    "context": "EN :\nThe effectiveness and range of the incineration will depend on the price of the product.\nJP :\n該当する特異点焼却機の製品コストによって効果と範囲が変わりますが。"
+  },
+  {
+    "key": "26-model",
+    "original": "뒤틀린주인",
+    "translation": "扭曲的老板",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing"
+  },
+  {
+    "key": "26-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "26-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "26-content",
+    "original": "그래…! 매운 양념이었는지 간장 양념이었는지… 설탕이 주재료였는지 아니면 소금이었는지 아무것도 남지 않아! 심지어… 가게를 찾아왔던 수많은 손님들조차도!",
+    "context": "EN :\nIt’s true…! I can’t remember if the marinade was based on pepper or soy sauce… How much sugar or salt I should put… Nothing’s left in my head! None of my customers can remember how it tasted!\nJP :\nあぁ…！辛いタレだったか、醤油ダレだったか…砂糖がメイン材料だったかあるいは塩だったか何も残ってない！それに…店を訪れてた沢山のお客さんも！"
+  },
+  {
+    "key": "27-model",
+    "original": "뒤틀린주인",
+    "translation": "扭曲的老板",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing"
+  },
+  {
+    "key": "27-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "27-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "27-content",
+    "original": "이제 노력해 봤자 아무 소용 없어…! 모두 헛수고일 뿐이야…",
+    "context": "EN :\nThere’s no use in trying at this point…! It’s all useless…\nJP :\nもう努力したって何の意味もない…！全部無駄骨だ…。"
+  },
+  {
+    "key": "28-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "28-content",
+    "original": "흥, 마음부터 물러 터졌군. 은봉? 그딴 촌스런 이름이나 걸고 하니까 장사가 안되는 거다.",
+    "context": "EN :\nHmph, you’re soft-hearted. Eunbong’s? You should do away with that tacky name and give your restaurant a better title.\nJP :\nふん、心がまずズタズタになったか。ウンボン？そんなダサい名前を看板に掛けてるから商売が上手くいかないんだ。"
+  },
+  {
+    "key": "29-model",
+    "original": "뒤틀린주인",
+    "translation": "扭曲的老板",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing"
+  },
+  {
+    "key": "29-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "29-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "29-content",
+    "original": "은봉은 우리 어머니 이름인데…",
+    "context": "EN :\nEunbong is my mother’s name…\nJP :\nウンボンはうちの母さんの名前なのに…。"
+  },
+  {
+    "key": "30-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "30-content",
+    "original": "앗…",
+    "context": "EN :\nOh…\nJP :\nあっ…。"
+  },
+  {
+    "key": "31-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "31-content",
+    "original": "말.넘.심.",
+    "context": "EN :\nT.W.H.\nJP :\n言・酷・過。"
+  },
+  {
+    "key": "32-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "32-content",
+    "original": "…본래 촌스러울수록 정감이 있는 법이지.",
+    "context": "EN :\n…I suppose tacky can also mean a friendly warmth.\nJP :\n…ダサいほど情感があるものだ。"
+  },
+  {
+    "key": "33-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "33-content",
+    "original": "문제는 알량한 네 마음가짐이다!",
+    "context": "EN :\nThe problem is still your weak will!\nJP :\n問題は取るに足らないお前の心構えだ！"
+  },
+  {
+    "key": "34-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-content",
+    "original": "<왜… 왜 자진해서 시비를 거는 거야…>",
+    "context": "EN :\n<Just… Why are you so eager to start fights…>\nJP :\n<なんで…なんで自分から喧嘩をふっかけに行くんだ…。>"
+  },
+  {
+    "key": "35-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "35-content",
+    "original": "자! 그 글러 먹은 태도를 고쳐주지!",
+    "context": "EN :\nCome! I will fix that helpless attitude of yours!\nJP :\nさぁ！その舐め腐った態度を叩き直してやろう！"
+  }
+]

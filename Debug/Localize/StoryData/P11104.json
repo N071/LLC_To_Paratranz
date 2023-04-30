@@ -1,0 +1,239 @@
+[
+  {
+    "key": "0-content",
+    "original": "아이는 홍차를 홀짝대며 눈을 지그시 감고 있었어.",
+    "context": "EN :\nThe child took a sip of black tea, her eyes gently closed.\nJP :\n子供は紅茶を啜りながら、目をそっと閉じていた。"
+  },
+  {
+    "key": "1-content",
+    "original": "잠시간의 휴식, 그리고 언젠가의 과거를 떠올리고 있었던 것이지.",
+    "context": "EN :\nIn this moment of rest, she was reflecting on the past.\nJP :\n暫時の休息、そしていつかの過去を思い浮かべていたんだ。"
+  },
+  {
+    "key": "2-content",
+    "original": "협회에 몸을 담게 된 지도 벌써 해를 넘겼고, 그간 정말 많은 일이 있었지.",
+    "context": "EN :\nIt had been years since she joined the Association, and much had happened in that time.\nJP :\n協会に身を置くようになってもう一年が経っており、それまで本当に沢山のことがあった。"
+  },
+  {
+    "key": "3-content",
+    "original": "해결사로서 임무에 나서 전투를 거치고…",
+    "context": "EN :\nAs a Fixer, she would partake in missions and fight battles…\nJP :\nフィクサーとしての任務に出て戦闘を経験し…。"
+  },
+  {
+    "key": "4-content",
+    "original": "누군가를 상처입히기도, 누군가에게 상처입기도 했었지.",
+    "context": "EN :\nShe would hurt others, and she would be wounded by others.\nJP :\n誰かを傷付けることも、誰かに傷付けられもした。"
+  },
+  {
+    "key": "5-content",
+    "original": "아이의 실력이 나빴던 건 아니었어. 오히려 실력이 없었다면 누가 이 자리까지 오를 수 있었을까?",
+    "context": "EN :\nThis child wasn’t unskilled by any means. If she were, she wouldn’t have gotten this far, right?\nJP :\n子供の実力が悪いわけじゃなかった。むしろ実力がなければどうやってここまで来れたんだろうね？"
+  },
+  {
+    "key": "6-content",
+    "original": "아이 스스로도 누군가를 부리고 규합하는 일이 좀 더 자신에게 어울린다는 걸 알았으니, 잘 된 일인 거겠지.",
+    "context": "EN :\nShe herself knew that managing and leading people was a more fitting occupation, so it should be a good thing for her.\nJP :\n子供としても、誰かを使いながらまとめ上げる方がもっと自分に合うということが分かったから、よかったんだろうね。"
+  },
+  {
+    "key": "7-content",
+    "original": "별 것 아닌 말단 6과의 상석이라며 손가락질 할 사람이 있을지도 모르겠지만…",
+    "context": "EN :\nThough some might scoff at how insignificant the position of directing Section 6 was…\nJP :\n大したことない末端6課の上長だ、と後ろ指をさす人もいるかもしれないけど…。"
+  },
+  {
+    "key": "8-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "8-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "8-title",
+    "original": "세븐 협회 6과 부장",
+    "context": "EN :\nSeven Section 6 Director\nJP :\nセブン協会 6課 部長"
+  },
+  {
+    "key": "8-content",
+    "original": "음…?",
+    "context": "EN :\nHm…?\nJP :\nん…？"
+  },
+  {
+    "key": "9-content",
+    "original": "아이의 목표가 거기에 멈추어져 있지 않은데, 마치 이야기의 결말이 그것 밖에 안되냐는 듯이 말하는 건 트집을 잡는 것과 다를게 없겠지.",
+    "context": "EN :\nIt would be as silly as complaining about the ending of an ongoing story when the child’s goal was set further beyond.\nJP :\n子供の目標がそこに止まっているわけでもないのに、まるで物語の結末がそれっぽっちかという風に言うことは、揚げ足取りに他ならないだろう。"
+  },
+  {
+    "key": "10-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "10-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "10-title",
+    "original": "세븐 협회 6과 부장",
+    "context": "EN :\nSeven Section 6 Director\nJP :\nセブン協会 6課 部長"
+  },
+  {
+    "key": "10-content",
+    "original": "수치가… 이상하군.",
+    "context": "EN :\nThese numbers… are off.\nJP :\n数値が…変だな。"
+  },
+  {
+    "key": "11-content",
+    "original": "아이의 눈빛이 번뜩거렸어. 코에 걸친 안경의 유리알이 아니라, 아이의 눈이 말이야.",
+    "context": "EN :\nThe child’s eyes sparked. The glint was evidently in her eyes rather than the glasses she wore.\nJP :\n子供の目がギラリと光った。鼻に掛けている眼鏡のレンズがじゃなくて、子供の目がね。"
+  },
+  {
+    "key": "12-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "12-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "12-title",
+    "original": "세븐 협회 6과 부장",
+    "context": "EN :\nSeven Section 6 Director\nJP :\nセブン協会 6課 部長"
+  },
+  {
+    "key": "12-content",
+    "original": "어, 근처에 있나?",
+    "context": "EN :\nIt’s me. Are you nearby?\nJP :\nあぁ、この近くにいるか？"
+  },
+  {
+    "key": "13-content",
+    "original": "아이는 물흐르는 듯한 동작으로 수화기를 들어 전화를 걸었지.",
+    "context": "EN :\nIn a series of gestures as natural as flowing water, the child picked up the phone and made a call.\nJP :\n子供は水が流れるような所作で受話器を持ち、電話を掛けた。"
+  },
+  {
+    "key": "14-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "14-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "14-title",
+    "original": "세븐 협회 6과 부장",
+    "context": "EN :\nSeven Section 6 Director\nJP :\nセブン協会 6課 部長"
+  },
+  {
+    "key": "14-content",
+    "original": "외근… 그래, 그럴 것 같았지. 위에서 부르지 않았나?",
+    "context": "EN :\nFieldwork, huh… Yeah, I figured. It was the higher-ups, wasn’t it?\nJP :\n外回り…。あぁ、そうだと思った。上からの呼び出しか？"
+  },
+  {
+    "key": "15-content",
+    "original": "수화기 너머로는 또 다른 해결사가 무어라 말하는 소리가 새어나왔어.",
+    "context": "EN :\nThe other Fixer’s voice leaked through the phone.\nJP :\n受話器越しからは、また別のフィクサーが何かしら言う声が漏れ聞こえてきた。"
+  },
+  {
+    "key": "16-content",
+    "original": "어떻게 알았냐는 둥의, 놀란듯한 소리였지.",
+    "context": "EN :\nIt was one of surprise, startled by the child’s correct guess.\nJP :\nどうして分かったのかという、驚いたような声だったね。"
+  },
+  {
+    "key": "17-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "17-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "17-title",
+    "original": "세븐 협회 6과 부장",
+    "context": "EN :\nSeven Section 6 Director\nJP :\nセブン協会 6課 部長"
+  },
+  {
+    "key": "17-content",
+    "original": "하루 이틀 일은 아니지 않나. 아마 한 시간 쯤이면… 하고 있던 일은 마무리 되겠지, 아닌가?",
+    "context": "EN :\nIt’s far from the first time. Let’s see, your job should be done in about… an hour or so, correct?\nJP :\n数日掛かるような仕事ではないだろう。きっと一時間くらいなら…仕上がるだろう、違うかな？"
+  },
+  {
+    "key": "18-content",
+    "original": "아이는 곁눈질로 책상에 놓인 여러 종이들을 훑어내렸어.",
+    "context": "EN :\nThe child gave the pile of documents on her desk a side glance.\nJP :\n子供は横目で、机に置かれた色々な書類に目を通していた。"
+  },
+  {
+    "key": "19-content",
+    "original": "비정상적인 업무추진비의 지출, 같은 현장에 여러번 다른 사람을 호출한 정황.",
+    "context": "EN :\nThere were peculiar business expenses, and signs of different personnel being called to the same site on multiple occasions.\nJP :\n異常な業務推進費の支出、同じ現場に何度も異なる人を呼び出す状況。"
+  },
+  {
+    "key": "20-content",
+    "original": "아이의 머릿속에는 어떠한 그림이 그려지고 있었지.",
+    "context": "EN :\nA picture was beginning to form in the child’s mind.\nJP :\n子供の頭の中では、ある図が描かれていた。"
+  },
+  {
+    "key": "21-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "21-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "21-title",
+    "original": "세븐 협회 6과 부장",
+    "context": "EN :\nSeven Section 6 Director\nJP :\nセブン協会 6課 部長"
+  },
+  {
+    "key": "21-content",
+    "original": "그래, 그럼 그 일이 끝나는 대로 6과 훈련장에 들렀다 복귀하도록.",
+    "context": "EN :\nGot it. Make sure to visit the Section 6 training room as soon as you’re done.\nJP :\nああ。じゃあその仕事が終わり次第、6課訓練場を訪ねて復帰するように。"
+  },
+  {
+    "key": "22-content",
+    "original": "아이는… 그 그림을 함께 검토할 사람이 필요했어.",
+    "context": "EN :\nThis child… needed someone with whom to review her theory.\nJP :\n子供は…頭の中のその図面について、一緒に検討する人が必要だった。"
+  },
+  {
+    "key": "23-content",
+    "original": "항상 눈 여겨 보던 그 사람이 말이야.",
+    "context": "EN :\nSomeone that she’d always been keeping an eye on.\nJP :\nいつも目に留めていた、あの人のことだね。"
+  },
+  {
+    "key": "24-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "24-teller",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "24-title",
+    "original": "세븐 협회 6과 부장",
+    "context": "EN :\nSeven Section 6 Director\nJP :\nセブン協会 6課 部長"
+  },
+  {
+    "key": "24-content",
+    "original": "그래, 그 자를 데려오도록.",
+    "context": "EN :\nYes, bring that individual with you.\nJP :\nああ、あの者を連れてくるように。"
+  }
+]

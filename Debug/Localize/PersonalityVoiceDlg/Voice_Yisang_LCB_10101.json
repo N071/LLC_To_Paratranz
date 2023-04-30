@@ -1,0 +1,212 @@
+[
+  {
+    "key": "get_10101_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10101_1-dlg",
+    "original": "이상이라고 하오. 소개는 이상이오.",
+    "context": "EN :\nI am Yi Sang. My name is all I have to say.\nJP :\nイサンなり。紹介は以上なり。"
+  },
+  {
+    "key": "lobby_morning_10101_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10101_1-dlg",
+    "original": "아침은 무사하오? 간밤 동안 잊어버린 것 하나 없이 모든 게 돌아온 것이오?",
+    "context": "EN :\nAre you sound this morning? Have you returned to the waking world without leaving any memories behind in the night?\nJP :\n朝はつつがなきや？夜の間に忘れたるもの一切無く、戻りて来しや？"
+  },
+  {
+    "key": "lobby_noon_10101_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10101_1-dlg",
+    "original": "해가 내 얼굴을 물끄러미 바라보고 있소. 눈을 감아도 마찬가지오.",
+    "context": "EN :\nThe sun stares into my face. I can feel its glare even when my eyes are closed.\nJP :\n太陽が私の顔を打ち眺めたり。目を閉じれど同じなり。"
+  },
+  {
+    "key": "lobby_night_10101_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10101_1-dlg",
+    "original": "하루가 저물어 가는 동안 나는 그저 서 있을 뿐이었소.",
+    "context": "EN :\nI have been merely standing here as the day has faded.\nJP :\n一日が暮れゆく中、私はただ立ちたりしのみ。"
+  },
+  {
+    "key": "smalltalk_10101_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10101_1-dlg",
+    "original": "그대는 과거로 돌아가는 법을 알아낸 것이오, 아니면 미래를 물러가게 하는 법을 알아낸 것이오?",
+    "context": "EN :\nHave you discovered a way to return to the past, or a way to repel the future?\nJP :\nそなたは過去へ向かう方法を見出しけるや、はたまた未来を押し遣る方法を見出しけるや？"
+  },
+  {
+    "key": "smalltalk_10101_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10101_2-dlg",
+    "original": "어느 순간 나는 그저 달리는 걸 멈췄고, 스스로를 이 버스에 유폐시켰소.",
+    "context": "EN :\nOne moment, I stopped my sprint, and confined myself to this bus.\nJP :\nいつしか私はただ走るを止み、自らをこのバスに幽閉せり。"
+  },
+  {
+    "key": "smalltalk_10101_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10101_3-dlg",
+    "original": "그대의 시계는 멈추는 법이 없군. 포기를 모르고 나를 계속 귀향시키오.",
+    "context": "EN :\nYour clock doesn’t seem to ever stop. It never ceases to bring me back to home each time I perish.\nJP :\nそなたの時計は止まること知らず。思ひ絶ゆこと知らず私を帰郷しわたる。"
+  },
+  {
+    "key": "neglect_10101_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10101_1-dlg",
+    "original": "그대, 드디어 목적지를 찾은 것이오?",
+    "context": "EN :\nHave you finally located your destination?\nJP :\nそなた、遂に目的地をや見付けしや？"
+  },
+  {
+    "key": "formation_10101_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10101_1-dlg",
+    "original": "앞장서시오.",
+    "context": "EN :\nLead the way.\nJP :\n前へと出でよ。"
+  },
+  {
+    "key": "battleentry_10101_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10101_1-dlg",
+    "original": "목적지는 혹이 많소.",
+    "context": "EN :\nOur destination has many a bump.\nJP :\n目的地はたぎたぎし。"
+  },
+  {
+    "key": "battle_select_10101_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10101_1-dlg",
+    "original": "원하는 것은 찾으셨소?",
+    "context": "EN :\nHave you found what you seek?\nJP :\n望みしものは見つかりしや？"
+  },
+  {
+    "key": "battle_endcommand_10101_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10101_1-dlg",
+    "original": "혹들을 제거하겠소.",
+    "context": "EN :\nI shall remove the bumps.\nJP :\nたぎたぎしきものを取り遣りけり。"
+  },
+  {
+    "key": "battle_enemy_break_10101_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10101_1-dlg",
+    "original": "저치는 낙역하오.",
+    "context": "EN :\nSuch is the fate of a frequent target.\nJP :\n彼の者は絡繹なり。"
+  },
+  {
+    "key": "battle_break_10101_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10101_1-dlg",
+    "original": "읍…",
+    "context": "EN :\nHnf…\nJP :\nうっ…。"
+  },
+  {
+    "key": "battle_kill_10101_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10101_1-dlg",
+    "original": "혹의 거울은 깨졌소.",
+    "context": "EN :\nThe mirror of this bump has shattered.\nJP :\nたぎたぎし鏡は割れけり。"
+  },
+  {
+    "key": "battle_allydead_10101_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10101_1-dlg",
+    "original": "그대의 시계가 움직여야겠소.",
+    "context": "EN :\nYour clock shall have to wind.\nJP :\nそなたの時計が動かねばならぬ。"
+  },
+  {
+    "key": "choice_success_p_10101_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10101_1-dlg",
+    "original": "유쾌를 맞이했소.",
+    "context": "EN :\nI was met with mirth.\nJP :\n愉快を迎えけり。"
+  },
+  {
+    "key": "choice_fail_n_10101_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10101_1-dlg",
+    "original": "사람은 절망하라.",
+    "context": "EN :\nMan will despair.\nJP :\n人は絶望せり。"
+  },
+  {
+    "key": "battle_clear_10101_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10101_1-dlg",
+    "original": "이 또한 영원하지는 않을 것이오. 그렇기에 나는 담담하오.",
+    "context": "EN :\nI’m certain this shan’t last forever. I am therefore apathetic.\nJP :\nこれもまた永遠にはあらじ。それゆえ私は淡々とせり。"
+  },
+  {
+    "key": "battle_clear_ex_10101_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10101_1-dlg",
+    "original": "혹사에 대한 대가구료. 시들어가는 것 같소.",
+    "context": "EN :\nThe fruits of arduous labor. I feel as though I’m withering.\nJP :\n酷使に対する対価にあんめり。しおる心地せり。"
+  },
+  {
+    "key": "battle_defeat_10101_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10101_1-dlg",
+    "original": "아스라히, 바래지는구료…",
+    "context": "EN :\nThus, in a haze, it pales…\nJP :\nおろおろと、潰れけり…。"
+  }
+]

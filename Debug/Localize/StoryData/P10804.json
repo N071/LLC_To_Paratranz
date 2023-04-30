@@ -1,0 +1,185 @@
+[
+  {
+    "key": "0-teller",
+    "original": "급박한 동료",
+    "context": "EN :\nPanicking Colleague\nJP :\n差し迫った仲間"
+  },
+  {
+    "key": "0-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "0-content",
+    "original": "전방 접근! 100M!",
+    "context": "EN :\nEnemy inbound! 100 meters!\nJP :\n前方より接近！100メートル！"
+  },
+  {
+    "key": "1-teller",
+    "original": "불안한 동료",
+    "context": "EN :\nAnxious Colleague\nJP :\n不安そうな仲間"
+  },
+  {
+    "key": "1-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "1-content",
+    "original": "“크윽… 이젠 탄이 없는데…”",
+    "context": "EN :\nCrap… We’re out of ammo, too…\nJP :\n「くぅっ…もう弾がないのに…。」"
+  },
+  {
+    "key": "2-content",
+    "original": "누가 보아도 급박한 상황. 검은 옷으로 온몸을 감싼 아이들은 적을 처리할 방법을 찾지 못해 안절부절하고 있었어.",
+    "context": "EN :\nIt was a clear emergency. The darkly clad children were terrified by an unknown threat with which they didn’t know how to deal.\nJP :\n誰から見ても急迫した状況。\n黒い服で全身を包んだ子供たちは、敵を片付ける方法が思い浮かばず慌てふためいていた。"
+  },
+  {
+    "key": "3-teller",
+    "original": "불안한 동료",
+    "context": "EN :\nAnxious Colleague\nJP :\n不安そうな仲間"
+  },
+  {
+    "key": "3-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "3-content",
+    "original": "젠장… 괜히 회사 생각한다고 탄을 덜 가져오는 게 아니었어!",
+    "context": "EN :\nDammit… Should’ve known bringing less to save the company budget was a bad call!\nJP :\nクソッ…会社のこと考えて弾を控えめに持ってくるんじゃなかった！"
+  },
+  {
+    "key": "4-teller",
+    "original": "급박한 동료",
+    "context": "EN :\nPanicking Colleague\nJP :\n差し迫った仲間"
+  },
+  {
+    "key": "4-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "4-content",
+    "original": "그런다고 인사평가가 좋아지는 것도 아닌데, 대체 왜 그런… 아.",
+    "context": "EN :\nNot like we could earn a better review from HR or anything, so why’d… Ope.\nJP :\nそうしたところで人事評価が良くなるわけでもないのに、なんでそんな…あ。"
+  },
+  {
+    "key": "5-content",
+    "original": "아이는 더 말을 잇지 못했지. 왜냐하면 방아쇠를 아무리 당겨도 더 이상 총알이 날아가지 않았거든.",
+    "context": "EN :\nThe child’s mouth went shut, for it suddenly dawned on them that their gun had stopped firing its projectiles.\nJP :\n子供はこれ以上口を利くことが出来なかった。\nなぜなら引き金をいくら引いても、これ以上弾丸が飛んでいかなかったからね。"
+  },
+  {
+    "key": "6-teller",
+    "original": "급박한 동료",
+    "context": "EN :\nPanicking Colleague\nJP :\n差し迫った仲間"
+  },
+  {
+    "key": "6-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "6-content",
+    "original": "…25M.",
+    "context": "EN :\n…25 meters.\nJP :\n…25メートル。"
+  },
+  {
+    "key": "7-teller",
+    "original": "불안한 동료",
+    "context": "EN :\nAnxious Colleague\nJP :\n不安そうな仲間"
+  },
+  {
+    "key": "7-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "7-content",
+    "original": "여기까지 인가…",
+    "context": "EN :\nSo this is the end for us…\nJP :\nここまでか…。"
+  },
+  {
+    "key": "8-content",
+    "original": "노을빛 머리가 휘날리며 등장한 건 바로 그때였어.",
+    "context": "EN :\nThat’s when their savior appeared, waving her golden-hour hair.\nJP :\nまさにそのとき、夕焼け色の髪がなびきながら登場した。"
+  },
+  {
+    "key": "9-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "9-title",
+    "original": "LCCB 대리",
+    "context": "EN :\nLCCB Assistant Manager\nJP :\nLCCB 係長"
+  },
+  {
+    "key": "9-content",
+    "original": "안심하세요. 이 앞은 제가 해결합니다.",
+    "context": "EN :\nRelax you two. I’ll take charge from here.\nJP :\nご安心を。これから先は私が解決します。"
+  },
+  {
+    "key": "10-teller",
+    "original": "급박한 동료",
+    "context": "EN :\nPanicking Colleague\nJP :\n差し迫った仲間"
+  },
+  {
+    "key": "10-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "10-content",
+    "original": "…이스마엘 씨!",
+    "context": "EN :\n…Ms. Ishmael!\nJP :\n…イシュメールさん！"
+  },
+  {
+    "key": "11-content",
+    "original": "커다란 방패를 치켜든 아이는 흔들림 없는 눈빛으로 적을 꿰뚫어 보았고,",
+    "context": "EN :\nWith her shield raised, the child stared down her oncoming foe with unwavering resolve.\nJP :\n大きな盾を持った子供は揺るぎない目で敵を睨み付け、"
+  },
+  {
+    "key": "12-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "12-title",
+    "original": "LCCB 대리",
+    "context": "EN :\nLCCB Assistant Manager\nJP :\nLCCB 係長"
+  },
+  {
+    "key": "12-content",
+    "original": "이스마엘, 작전지역 BA21합류. 가세하여 쥐새끼를 소탕하겠습니다. 교신 끝.",
+    "context": "EN :\nThis is Ishmael. I’ve joined up with the team at Operation Site BA21. Will help them wipe out the damn rats. Over.\nJP :\nイシュメール、作戦エリアBA21合流。\n加勢してネズミ野郎どもを掃討します。通信終わり。"
+  },
+  {
+    "key": "13-content",
+    "original": "구세의 빛과 같은 섬광이 총구에서 반짝거렸지.",
+    "context": "EN :\nHer firearm emitted flashes of light, a semaphore of salvation.\nJP :\n救世の光のような閃光が、銃口で輝いた。"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-title",
+    "original": "LCCB 대리",
+    "context": "EN :\nLCCB Assistant Manager\nJP :\nLCCB 係長"
+  },
+  {
+    "key": "14-content",
+    "original": "아… 그리고 어마어마한 돈줄이 붙어있는데, LCC에 탄 수급을 걱정하는 멍청한 의견은 앞으로 내지 않도록 해요.",
+    "context": "EN :\nAh, and also… Please refrain from making idiotic suggestions such as conserving the LCC’s ammo in the future. We have well-heeled sponsors backing us.\nJP :\nああ…それから物凄い金づるがあるというのに、LCCの弾丸受給のことを\n心配するバカな意見はこれから出さないようにしてください。"
+  },
+  {
+    "key": "15-content",
+    "original": "…매서운 독설도 날아들었고 말이야.",
+    "context": "EN :\n…Along with flags of scathing lectures.\nJP :\n…厳しい毒舌も飛んできたみたい。"
+  }
+]

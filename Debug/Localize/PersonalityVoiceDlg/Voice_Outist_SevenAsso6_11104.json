@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11104_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11104_1-dlg",
+    "original": "음, 오티스다. 찾아온 이유라도 있나?",
+    "context": "EN :\nHm, it’s Outis. What brings you here?\nJP :\nうむ、ウーティスだ。訪ねてきた理由でもあるのか？"
+  },
+  {
+    "key": "lobby_morning_11104_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11104_1-dlg",
+    "original": "근무 준비 시간이라 지금 찾아와도 해줄 수 있는게 없다만… 뭐, 들어나 볼까.",
+    "context": "EN :\nWork is under prep at this time of day, so I can do little for you even if you visit me now… Well, I suppose I can hear what you have to say.\nJP :\n勤務準備時間だから今来られてもできることはないが…まぁ、聞いてはみようじゃないか。"
+  },
+  {
+    "key": "lobby_noon_11104_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11104_1-dlg",
+    "original": "점심? 아, 거기 갖다 두게. 지금 이걸 읽느라 바빠서… 아, 같이 먹으러 나가자는 이야기였나. 미안, 바쁘군.",
+    "context": "EN :\nLunch? Ah, you can leave it there. I’m rather busy with this document… Oh, you were asking to eat out? Sorry, I can’t make time for that.\nJP :\n昼？あぁ、そこに置いといてくれ。今これを読むのに忙しくて…あぁ、一緒に食べに行こうという話だったか。すまない、忙しいんだ。"
+  },
+  {
+    "key": "lobby_night_11104_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11104_1-dlg",
+    "original": "나는 너무 걱정하지 말고, 먼저 퇴근하도록. 상관이 고된 일을 맡는 게 당연한 일이지.",
+    "context": "EN :\nYou can leave the office before I do—I’ll be fine. It’s only right that superiors take on difficult matters.\nJP :\n私のことはあまり心配せずに、先に退勤してくれ。上官が大変な仕事を引き受けるのは当然のことだ。"
+  },
+  {
+    "key": "smalltalk_11104_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11104_1-dlg",
+    "original": "홍차 한 잔 사와줄 수 있겠나? 값은 이걸로 치뤄주게. 자네 것도 사고.",
+    "context": "EN :\nCould you get me some black tea? Here’s the money you need. Get something for yourself too.\nJP :\n紅茶一杯買ってきてくれないか？これで支払ってくれ。君の分も買って良いぞ。"
+  },
+  {
+    "key": "smalltalk_11104_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11104_2-dlg",
+    "original": "그다지 많은 시간은 할애할 수 없지만… 그렇게 기다리고 있으니 들어라도 볼까. 무슨일이지?",
+    "context": "EN :\nAlthough I can’t spare much time… I can’t keep someone waiting forever. What is your business?\nJP :\nあまり多く時間は割けないが…そこまで待っているんなら聞いてはみようか。何があった？"
+  },
+  {
+    "key": "smalltalk_11104_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11104_3-dlg",
+    "original": "현장에서 하는 일도 나쁘진 않지만… 역시, 책상머리 앞이 안정감이 들긴 하는군.",
+    "context": "EN :\nWhile fieldwork isn’t all too bad… It just doesn’t compare to the comfort of sitting at a desk.\nJP :\n現場でやる仕事も悪くはないが…やはり、机の前にいる方が落ち着くな。"
+  },
+  {
+    "key": "smalltalk_11104_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11104_4-dlg",
+    "original": "6과가 한참 말단이라고는 해도, 귀한 인재는 꽤 있는 법이지. 최근 들어 눈에 띄는 인재들이 있어서 말이야…\n음료 취향도 맞고 말이지.",
+    "context": "EN :\nSection 6 may be on the bottom rung, but it does have its share of valuable individuals. I’ve been noticing more of them lately…\nTheir taste in drinks matches mine, too.\nJP :\n6課は随分と末端ではるとはいえ、貴重な人材はかなりいるものだ。最近、目に留まる人材もそこそこいてな…。\n飲み物の好みも合うしな。"
+  },
+  {
+    "key": "smalltalk_11104_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11104_5-dlg",
+    "original": "…그래서 말인데, 특별히 신뢰하는 자네이니 생각을 좀 듣고 싶다만.\n…졸았나? 음, 일이 고되었던 모양인데, 특별 반차를 내줄테니 가서 좀 쉴 수 있도록. 회복한 다음에 이야기 나누지.",
+    "context": "EN :\n…with all that said, I’ve been meaning to hear the thoughts of someone I know I can trust.\n…re you dozing off? Hm, work must have worn you out. I’ll give you half a day off, so go get the rest you need. We can talk after you’ve recovered.\nJP :\n…というわけで、特別に信頼している君の考えをちょっと聞きたいのだが。\n…寝たか？うーん、仕事が大変だったらしいな。特別に半休を出してやるから、あっちで少し休むおうに。 回復してから話そうか。"
+  },
+  {
+    "key": "neglect_11104_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11104_1-dlg",
+    "original": "남부 6과 부장 오티스다. 지금은 부재중이니, 중요한 안건이라면 삐 소리 후에 남기도록.",
+    "context": "EN :\nThis is Outis, Director of the Southern Branch’s Section 6. I’m away right now, so if you have any important matters to share, leave a message after the beep.\nJP :\n南部6課部長、ウーティスだ。今は不在なので、重要案件の場合はピー音の後に残すように。"
+  },
+  {
+    "key": "gacksung_11104_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11104_1-dlg",
+    "original": "현장일이 더 많아진다는 뜻인가… 뭐, 좋다. 현장 지휘도 경험이지.",
+    "context": "EN :\nThis means more fieldwork for me, doesn’t it… Well, fine. I won’t turn down additional experience.\nJP :\n現場作業がもっと増えるってことか…。まぁいい。現場指揮も経験だ。"
+  },
+  {
+    "key": "formation_11104_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11104_1-dlg",
+    "original": "현장 지휘자가 필요한가?",
+    "context": "EN :\nNeed a field commander?\nJP :\n現場指揮者が必要なのか？"
+  },
+  {
+    "key": "battleentry_11104_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11104_1-dlg",
+    "original": "…가보지.",
+    "context": "EN :\n…Let’s go.\nJP :\n…行こうか。"
+  },
+  {
+    "key": "battle_select_11104_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11104_1-dlg",
+    "original": "뭔가, 의견이 있나?",
+    "context": "EN :\nDo you have an opinion you want to voice?\nJP :\nなんだ、意見でもあるのか？"
+  },
+  {
+    "key": "battle_endcommand_11104_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11104_1-dlg",
+    "original": "직접 나서지.",
+    "context": "EN :\nI’ll take charge.\nJP :\n直接戦闘だ。"
+  },
+  {
+    "key": "battle_enemy_break_11104_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11104_1-dlg",
+    "original": "빈틈 투성이로군.",
+    "context": "EN :\nYou’re full of gaps.\nJP :\n隙だらけだな。"
+  },
+  {
+    "key": "battle_break_11104_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11104_1-dlg",
+    "original": "큭…",
+    "context": "EN :\nKgh…\nJP :\nくっ…。"
+  },
+  {
+    "key": "battle_kill_11104_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11104_1-dlg",
+    "original": "쓰러졌군.",
+    "context": "EN :\nThere goes one.\nJP :\n倒れたか。"
+  },
+  {
+    "key": "battle_dead_11104_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_11104_1-dlg",
+    "original": "역시… 현장은 체질이 아니었나…",
+    "context": "EN :\nAs I feared… I’m not fit for the field…\nJP :\nやはり…現場作業は柄じゃなかったか…。"
+  },
+  {
+    "key": "choice_success_p_11104_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11104_2-dlg",
+    "original": "예상했던 결과다.",
+    "context": "EN :\nJust as predicted.\nJP :\n予想していた結果だ。"
+  },
+  {
+    "key": "choice_fail_n_11104_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11104_1-dlg",
+    "original": "예상에서… 빗나갔군.",
+    "context": "EN :\nThis was… not quite what I predicted.\nJP :\n予想から…外れたか。"
+  },
+  {
+    "key": "battle_clear_11104_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11104_1-dlg",
+    "original": "괜찮은 산책이었다. 책상으로 돌아가지.",
+    "context": "EN :\nThat was a fine constitutional. Let’s get back to the office.\nJP :\n悪くない散歩だった。机に戻ろう。"
+  },
+  {
+    "key": "battle_clear_ex_11104_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11104_1-dlg",
+    "original": "생각보다 날뛰어버렸군… 책상에서만 썩기 아까운 솜씨인걸.",
+    "context": "EN :\nRan riot a little harder than I thought… It would be a waste to confine these capabilities to a desk.\nJP :\n想定より暴れ回ってしまったな…机で腐らせるには勿体ない腕前だ。"
+  },
+  {
+    "key": "battle_defeat_11104_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11104_1-dlg",
+    "original": "쯧… 벌써… 이렇게 녹슬다니.",
+    "context": "EN :\nTch… I’ve rusted all too soon, haven’t I?\nJP :\nちっ…もう…こんなに錆びるだなんて。"
+  }
+]

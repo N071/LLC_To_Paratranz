@@ -1,0 +1,52 @@
+[
+  {
+    "key": "battle_awaken_20101_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20101_1-dlg",
+    "original": "이상이 무엇이라 생각하시오.",
+    "context": "EN :\nUtter to me what you think the ideal is.\nJP :\n理想とは何ぞかと思う。"
+  },
+  {
+    "key": "battle_awaken_20102_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20102_1-dlg",
+    "original": "태우고 싶은 것을 태울뿐이오.",
+    "context": "EN :\nI burn what I wish to burn.\nJP :\n焚かまほしきものを焚くのみなり。"
+  },
+  {
+    "key": "battle_erosion_20102_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20102_1-dlg",
+    "original": "잿더미가… 되어버릴 것이오.",
+    "context": "EN :\nIt will… turn all to ash.\nJP :\n灰の山に…ならん。"
+  },
+  {
+    "key": "battle_awaken_20103_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20103_1-dlg",
+    "original": "복을 구하고 싶다면 정성을 들여 빌어보시오.",
+    "context": "EN :\nIf it is fortune you seek—pray with all sincerity.\nJP :\n福を得まほしくは、心留みて祈りたまえ。"
+  },
+  {
+    "key": "battle_erosion_20103_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20103_1-dlg",
+    "original": "소원을 말하시오… 아주 간절하게…",
+    "context": "EN :\nSpeak unto me your wish… Vocalize your eagerness…\nJP :\n願いを言え…いと切に…。"
+  }
+]

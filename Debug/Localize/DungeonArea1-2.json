@@ -1,0 +1,162 @@
+[
+  {
+    "key": "dungeon_1_2_0101-content",
+    "original": "금고 보관실",
+    "context": "EN :\nVault Storage\nJP :\n金庫保管室"
+  },
+  {
+    "key": "dungeon_1_2_0102-content",
+    "original": "채굴장 출입구",
+    "context": "EN :\nQuarry Entrance\nJP :\n採掘場出入口"
+  },
+  {
+    "key": "dungeon_1_2_0103-content",
+    "original": "제 1 채굴장",
+    "context": "EN :\nQuarry 1\nJP :\n第1採掘場"
+  },
+  {
+    "key": "dungeon_1_2_0104-content",
+    "original": "제 2 채굴장",
+    "context": "EN :\nQuarry 2\nJP :\n第2採掘場"
+  },
+  {
+    "key": "dungeon_1_2_0105-content",
+    "original": "제 3 채굴장",
+    "context": "EN :\nQuarry 3\nJP :\n第3採掘場"
+  },
+  {
+    "key": "dungeon_1_2_0106-content",
+    "original": "제 4 채굴장",
+    "context": "EN :\nQuarry 4\nJP :\n第4採掘場"
+  },
+  {
+    "key": "dungeon_1_2_0107-content",
+    "original": "폭약 적재소",
+    "context": "EN :\nExplosives Bay\nJP :\n爆薬製作所"
+  },
+  {
+    "key": "dungeon_1_2_0108-content",
+    "original": "죄종 수용소",
+    "context": "EN :\nPeccatula Enclosure\nJP :\n最終収容所"
+  },
+  {
+    "key": "dungeon_1_2_0109-content",
+    "original": "대피소",
+    "context": "EN :\nShelter\nJP :\n待避所"
+  },
+  {
+    "key": "dungeon_1_2_0110-content",
+    "original": "지하 공장 출입구",
+    "context": "EN :\nUnderground Factory Gate\nJP :\n地下広場入口"
+  },
+  {
+    "key": "dungeon_1_2_0201-content",
+    "original": "공장 입구",
+    "context": "EN :\nFactory Entrance\nJP :\n工場入口"
+  },
+  {
+    "key": "dungeon_1_2_0202-content",
+    "original": "1번 라인",
+    "context": "EN :\nProduction Line 1\nJP :\n1番ライン"
+  },
+  {
+    "key": "dungeon_1_2_0203-content",
+    "original": "2번 라인",
+    "context": "EN :\nProduction Line 2\nJP :\n2番ライン"
+  },
+  {
+    "key": "dungeon_1_2_0204-content",
+    "original": "3번 라인",
+    "context": "EN :\nProduction Line 3\nJP :\n3番ライン"
+  },
+  {
+    "key": "dungeon_1_2_0205-content",
+    "original": "사출\n성형실",
+    "context": "EN :\nMolding Chamber\nJP :\n射出成形室"
+  },
+  {
+    "key": "dungeon_1_2_0206-content",
+    "original": "사출\n성형실",
+    "context": "EN :\nMolding Chamber\nJP :\n射出成形室"
+  },
+  {
+    "key": "dungeon_1_2_0207-content",
+    "original": "부품\n조립실",
+    "context": "EN :\nAssembly Line\nJP :\n部品組み立て室"
+  },
+  {
+    "key": "dungeon_1_2_0208-content",
+    "original": "도장실",
+    "context": "EN :\nPaint Shop\nJP :\n塗装室"
+  },
+  {
+    "key": "dungeon_1_2_0209-content",
+    "original": "설비\n정비소",
+    "context": "EN :\nMaintenance Point\nJP :\n設備整備所"
+  },
+  {
+    "key": "dungeon_1_2_0210-content",
+    "original": "비상\n발전소",
+    "context": "EN :\nBackup Generators\nJP :\n非常発電所"
+  },
+  {
+    "key": "dungeon_1_2_0211-content",
+    "original": "안전 검사 시설",
+    "context": "EN :\nSafety Testing\nJP :\n安全検査施設"
+  },
+  {
+    "key": "dungeon_1_2_0212-content",
+    "original": "전진 기지",
+    "context": "EN :\nForward Base\nJP :\n前進基地"
+  },
+  {
+    "key": "dungeon_1_2_0213-content",
+    "original": "최종 가공실",
+    "context": "EN :\nFinal Processing\nJP :\n最終加工室"
+  },
+  {
+    "key": "dungeon_1_2_0214-content",
+    "original": "폐기물 처리장",
+    "context": "EN :\nWaste Disposal\nJP :\n廃棄物処理場"
+  },
+  {
+    "key": "dungeon_1_2_0215-content",
+    "original": "검증실",
+    "context": "EN :\nQuality Control\nJP :\n検査室"
+  },
+  {
+    "key": "dungeon_1_2_0301-content",
+    "original": "설원 갈림길",
+    "context": "EN :\nSnowy Crossroads\nJP :\n雪原の分かれ道"
+  },
+  {
+    "key": "dungeon_1_2_0302-content",
+    "original": "얼어붙은 폐허",
+    "context": "EN :\nFrozen Ruins\nJP :\n凍てついた廃墟"
+  },
+  {
+    "key": "dungeon_1_2_0303-content",
+    "original": "파괴된 마을",
+    "context": "EN :\nRuined Village\nJP :\n破壊された町"
+  },
+  {
+    "key": "dungeon_1_2_0304-content",
+    "original": "눈보라 지대",
+    "context": "EN :\nSnowstorm Fields\nJP :\n吹雪地帯"
+  },
+  {
+    "key": "dungeon_1_2_0305-content",
+    "original": "파묻힌 은신처",
+    "context": "EN :\nBuried Hideout\nJP :\n埋もれた隠れ家"
+  },
+  {
+    "key": "dungeon_1_2_0306-content",
+    "original": "도개교",
+    "context": "EN :\nDrawbridge\nJP :\n跳ね橋"
+  },
+  {
+    "key": "dungeon_1_2_0307-content",
+    "original": "잠든\n이웃들의 성",
+    "context": "EN :\nIce Castle Where Neighbors Lie\nJP :\n眠りに就いた隣人たちの城"
+  }
+]

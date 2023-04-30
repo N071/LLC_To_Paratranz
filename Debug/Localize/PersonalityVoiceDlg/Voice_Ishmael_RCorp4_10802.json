@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10802_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10802_1-dlg",
+    "original": "후, 복잡한 건 생략하죠. 제가 뭘 하면 되나요?",
+    "context": "EN :\nHuff, let’s skip the formalities. What do I need to do?\nJP :\nふぅ、ややこしいのは省略しましょう。私は何をすればいいんですか？"
+  },
+  {
+    "key": "lobby_morning_10802_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10802_1-dlg",
+    "original": "아침엔 주로 명상을 하는 편이에요. 최대한 정신을 비워놔야 하거든요.",
+    "context": "EN :\nI normally spend my morning in meditation. I have to cleanse my mind of distractions.\nJP :\n朝は主に瞑想をすることが多いです。なるべく精神を空にすべきですから。"
+  },
+  {
+    "key": "lobby_noon_10802_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10802_1-dlg",
+    "original": "하아, 점심시간엔 다들 왜 이렇게 소란스러운 거죠? 조용히 밥만 먹으면 안 되는 걸까요?",
+    "context": "EN :\nHaah, why is everyone so noisy around noon? Can’t they have their meals quietly?\nJP :\nはぁ、お昼の時間になるとなんで皆こうもうるさくなるんですか？静かに食べられないんですか？"
+  },
+  {
+    "key": "lobby_night_10802_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10802_1-dlg",
+    "original": "후… 이제야 차분해질 수 있겠네요. 말 걸지 말아주세요. 좀 쉬고 싶거든요.",
+    "context": "EN :\nPhew… I can finally have some peace and quiet. Please don’t talk to me. I need the rest.\nJP :\nふぅ…やっと落ち着けそうですね。話し掛けないでください。ちょっと休みたいんです。"
+  },
+  {
+    "key": "smalltalk_10802_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10802_1-dlg",
+    "original": "큭… 잠시만요. 머, 머리가 깨질 듯이… 아… 이제 나아졌어요. 요새 자주 이러네요.",
+    "context": "EN :\nKnh… Give me a moment. My—my head, it’s splitting… Ahh… I’m better now. It’s been happening a lot recently.\nJP :\nくっ…ちょっと待ってください。あ、頭が割れ…あ…落ち着きました。最近よくこうなるんですよ。"
+  },
+  {
+    "key": "smalltalk_10802_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10802_2-dlg",
+    "original": "저는 항상 집중하고 있어야 해요. 그 말은 즉, 관리자님의 사사로운 대화에 맞춰줄 수 없다는 뜻이기도 하고요.",
+    "context": "EN :\nI must remain focused at all times. In other words, I cannot afford to engage in unimportant chitchats with you.\nJP :\n私はいつであれ集中しているべきです。すなわち、管理人の些細な会話に合わせてやれないという意味でもあります。"
+  },
+  {
+    "key": "smalltalk_10802_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10802_3-dlg",
+    "original": "으… 혹시라도 제 뿔이 곧 부서질 듯 진동하고 있으면, 모두에게 대피 명령을 내려주세요…",
+    "context": "EN :\nUnh… If you see my antlers vibrating like they’re about to break, tell everyone to evacuate…\nJP :\nうぅ…もしも私の角が壊れそうなくらい振動してたら、全員に退避命令を下してください…。"
+  },
+  {
+    "key": "smalltalk_10802_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10802_4-dlg",
+    "original": "관리자님, 그럴 리는 없겠지만… 혹시 제가 정신을 놓아버리게 되는… \n어느 날이 온다면… 그것도 시계로 해결이 될까요?",
+    "context": "EN :\nManager, hypothetically speaking… in the slightest chance that I lose my mind…\nIf that does occur… can your clock reverse that, too?\nJP :\n管理人さん、そんなことはないと思いますが…もし私が正気を失ってしまうような…\nそんな日がいつか来たら…それも時計で解決できますか？"
+  },
+  {
+    "key": "smalltalk_10802_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10802_5-dlg",
+    "original": "정신을 항상 놓지 않게 버티고 있어야 한다는 건… 잘 때도 정신의 일면은 항상 깨어 있어야 한다는 거예요. \n숙면이란 게 어떤 느낌인지, 기억도 안 나네요.",
+    "context": "EN :\nKeeping tight reins on my sanity… entails maintaining conscious control even in my sleep.\nI don’t remember what deep sleep feels like anymore.\nJP :\n意識を放さずに耐えていなきゃならないというのは…寝るときも精神の一面は常に起きてなきゃならないということです。\n熟睡というのはどんな感じなのか、思い出せないです。"
+  },
+  {
+    "key": "neglect_10802_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10802_1-dlg",
+    "original": "제가 제일 싫어하는 것 중 하나에요. 불러 놓고 먼저 사라지기.",
+    "context": "EN :\nYou’re doing one of my least favorite things: calling me here only to leave me behind.\nJP :\n私が一番嫌いな行動のうちの一つです。呼んでおいて先に消える。"
+  },
+  {
+    "key": "gacksung_10802_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10802_1-dlg",
+    "original": "윽… 하아, 힘이 강해진 것 같긴 한데… 두통도 더 심해진 것 같네요…",
+    "context": "EN :\nHngh… Haah, I feel my power has grown more potent… but my headache’s gotten worse, too…\nJP :\nうっ…はぁ、力が強くなった気はするんですけど…頭痛も更に酷くなった気がしますね…。"
+  },
+  {
+    "key": "formation_10802_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10802_1-dlg",
+    "original": "크윽… 준비, 되었어요. ",
+    "context": "EN :\nKngh… I’m—ready.\nJP :\nくぅっ…準備、できました。"
+  },
+  {
+    "key": "battleentry_10802_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10802_1-dlg",
+    "original": "빨리 시작하시죠.",
+    "context": "EN :\nLet’s hurry up and get to it.\nJP :\n早く始めてください。"
+  },
+  {
+    "key": "battle_select_10802_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10802_1-dlg",
+    "original": "제정신이랍니다… 아직은.",
+    "context": "EN :\nI’m in my right mind… for now.\nJP :\n正気ですよ…まだ。"
+  },
+  {
+    "key": "battle_endcommand_10802_1-desc",
+    "original": "공격시작",
+    "context": "EN :\nCommencing Attack\nJP :\n공격 시작"
+  },
+  {
+    "key": "battle_endcommand_10802_1-dlg",
+    "original": "후… 전투에 임하겠습니다.",
+    "context": "EN :\nHuff… Engaging in combat.\nJP :\nふぅ…臨戦態勢に入ります。"
+  },
+  {
+    "key": "battle_enemy_break_10802_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10802_1-dlg",
+    "original": "정신이 물러… 터졌군요.",
+    "context": "EN :\nYour mind… is too easy to blow.\nJP :\n精神が…貧弱ですね。"
+  },
+  {
+    "key": "battle_break_10802_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10802_1-dlg",
+    "original": "아!",
+    "context": "EN :\nArgh!\nJP :\nあっ！"
+  },
+  {
+    "key": "battle_kill_10802_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10802_1-dlg",
+    "original": "후… 소란이 줄었네요.",
+    "context": "EN :\nHuff… The noise is reduced a little.\nJP :\nふぅ…騒音が減りましたね。"
+  },
+  {
+    "key": "battle_allydead_10802_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10802_1-dlg",
+    "original": "으윽… 머리에… 소음이 너무 심해요…",
+    "context": "EN :\nUrgh… My head… Too much noise…\nJP :\nうぅっ…頭の…騒音が大きすぎます…。"
+  },
+  {
+    "key": "choice_success_p_10802_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10802_1-dlg",
+    "original": "완수… 했어요.",
+    "context": "EN :\nTask… complete.\nJP :\n完遂…しました。"
+  },
+  {
+    "key": "choice_fail_n_10802_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10802_1-dlg",
+    "original": "죄송합니다. …윽, 머리가 깨지겠어요.",
+    "context": "EN :\nApologies. …Nrh, my head is pounding.\nJP :\nすみません。…うっ、頭が割れそうです。"
+  },
+  {
+    "key": "battle_clear_10802_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10802_1-dlg",
+    "original": "다행… 이네요… 제정신인 동안 끝나서.",
+    "context": "EN :\nHow… fortunate… We managed to end this while I was sane.\nJP :\nよかっ…たです…。正気なうちに終わって。"
+  },
+  {
+    "key": "battle_clear_ex_10802_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10802_1-dlg",
+    "original": "윽… 전류가 너무 강하게 방출되었어요. 괴롭지만… 다행이에요.",
+    "context": "EN :\nHngh… The electric discharge was too intense. It hurts, but… at least it’s over.\nJP :\nうっ…電流の放出が強すぎました。苦しいけど…なんとか無事です。"
+  },
+  {
+    "key": "battle_defeat_10802_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10802_1-dlg",
+    "original": "큭… 머리가… 다른 사람들은 모두 정신 괜찮나요?",
+    "context": "EN :\nGah… My head… Are everyone else’s psyches alright?\nJP :\nくっ…頭が…他の方の精神は大丈夫ですか？"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "key": "10102_getCondition_normal-content",
+    "original": "세븐 협회 6과 이상 획득 시",
+    "context": "EN :\nAcquire Seven Section 6 Yi Sang\nJP :\nセブン協会6課イサン 獲得時"
+  },
+  {
+    "key": "10102_getCondition_gacksung-content",
+    "original": "세븐 협회 6과 이상 동기화 3단계 달성",
+    "context": "EN :\nUptie Seven Section 6 Yi Sang to Tier 3\nJP :\nセブン協会6課イサン 同期化3段階達成"
+  },
+  {
+    "key": "10103_getCondition_normal-content",
+    "original": "검계 살수 이상 획득 시",
+    "context": "EN :\nAcquire Blade Lineage Salsu Yi Sang\nJP :\n剣契殺手イサン 獲得時"
+  },
+  {
+    "key": "10103_getCondition_gacksung-content",
+    "original": "검계 살수 이상 동기화 3단계 달성",
+    "context": "EN :\nUptie Blade Lineage Salsu Yi Sang to Tier 3\nJP :\n剣契殺手イサン 同期化3段階達成"
+  },
+  {
+    "key": "10202_getCondition_normal-content",
+    "original": "W사 정리 요원 파우스트 획득 시",
+    "context": "EN :\nAcquire W Corp. Cleanup Agent Faust\nJP :\nW社整理要員ファウスト 獲得時"
+  },
+  {
+    "key": "10202_getCondition_gacksung-content",
+    "original": "W사 정리 요원 파우스트 동기화 3단계 달성",
+    "context": "EN :\nUptie W Corp. Cleanup Agent Faust to Tier 3\nJP :\nW社整理要員ファウスト  同期化3段階達成"
+  },
+  {
+    "key": "10203_getCondition_normal-content",
+    "original": "살아남은 로보토미 직원 파우스트 획득 시",
+    "context": "EN :\nAcquire Lobotomy Corp. Remnant Faust\nJP :\n生き残ったロボトミー職員ファウスト 獲得時"
+  },
+  {
+    "key": "10203_getCondition_gacksung-content",
+    "original": "살아남은 로보토미 직원 파우스트 동기화 3단계 달성",
+    "context": "EN :\nUptie Lobotomy Corp. Remnant Faust to Tier 3\nJP :\n 生き残ったロボトミー職員ファウスト 同期化3段階達成"
+  },
+  {
+    "key": "10302_getCondition_normal-content",
+    "original": "W사 정리 요원 돈키호테 획득 시",
+    "context": "EN :\nAcquire W Corp. Cleanup Agent Don Quixote\nJP :\nW社整理要員ドンキホーテ 獲得時"
+  },
+  {
+    "key": "10302_getCondition_gacksung-content",
+    "original": "W사 정리 요원 돈키호테 동기화 3단계 달성",
+    "context": "EN :\nUptie W Corp. Cleanup Agent Don Quixote to Tier 3\nJP :\nW社整理要員ドンキホーテ  同期化3段階達成"
+  },
+  {
+    "key": "10303_getCondition_normal-content",
+    "original": "시 협회 5과 부장 돈키호테 획득 시",
+    "context": "EN :\nAcquire Shi Section 5 Director Don Quixote\nJP :\nシ協会5課部長ドンキホーテ 獲得時"
+  },
+  {
+    "key": "10303_getCondition_gacksung-content",
+    "original": "시 협회 5과 부장 돈키호테 동기화 3단계 달성",
+    "context": "EN :\nUptie Shi Section 5 Director Don Quixote to Tier 3\nJP :\nシ協会5課部長ドンキホーテ 同期化3段階達成"
+  },
+  {
+    "key": "10402_getCondition_normal-content",
+    "original": "세븐 협회 6과 료슈 획득 시",
+    "context": "EN :\nAcquire Seven Section 6 Ryōshū\nJP :\nセブン協会6課良秀 獲得時"
+  },
+  {
+    "key": "10402_getCondition_gacksung-content",
+    "original": "세븐 협회 6과 료슈 동기화 3단계 달성",
+    "context": "EN :\nUptie Seven Section 6 Ryōshū to Tier 3\nJP :\nセブン協会6課良秀 同期化3段階達成"
+  },
+  {
+    "key": "10403_getCondition_normal-content",
+    "original": "흑운회 와카슈 료슈 획득 시",
+    "context": "EN :\nAcquire Kurokumo Wakashu Ryōshū\nJP :\n黒雲会若衆良秀 獲得時"
+  },
+  {
+    "key": "10403_getCondition_gacksung-content",
+    "original": "흑운회 와카슈 료슈 동기화 3단계 달성",
+    "context": "EN :\nUptie Kurokumo Wakashu Ryōshū to Tier 3\nJP :\n黒雲会若衆良秀 同期化3段階達成"
+  },
+  {
+    "key": "10502_getCondition_normal-content",
+    "original": "리우 협회 6과 뫼르소 획득 시",
+    "context": "EN :\nAcquire Liu Section 6 Meursault\nJP :\nリウ協会6課ムルソー 獲得時"
+  },
+  {
+    "key": "10502_getCondition_gacksung-content",
+    "original": "리우 협회 6과 뫼르소 동기화 3단계 달성",
+    "context": "EN :\nUptie Liu Section 6 Meursault to Tier 3\nJP :\nリウ協会6課ムルソー 同期化3段階達成"
+  },
+  {
+    "key": "10503_getCondition_normal-content",
+    "original": "W사 정리 요원 뫼르소 획득 시",
+    "context": "EN :\nAcquire W Corp. Cleanup Agent Meursault\nJP :\nW社整理要員ムルソー 獲得時"
+  },
+  {
+    "key": "10503_getCondition_gacksung-content",
+    "original": "W사 정리 요원 뫼르소 동기화 3단계 달성",
+    "context": "EN :\nUptie W Corp. Cleanup Agent Meursault to Tier 3\nJP :\nW社整理要員ムルソー  同期化3段階達成"
+  },
+  {
+    "key": "10602_getCondition_normal-content",
+    "original": "흑운회 와캬슈 홍루 획득 시",
+    "context": "EN :\nAcquire Kurokumo Wakashu Hong Lu\nJP :\n黒雲会若衆ホンル 獲得時"
+  },
+  {
+    "key": "10602_getCondition_gacksung-content",
+    "original": "흑운회 와카슈 홍루 동기화 3단계 달성",
+    "context": "EN :\nUptie Kurokumo Wakashu Hong Lu to Tier 3\nJP :\n黒雲会若衆ホンル 同期化3段階達成"
+  },
+  {
+    "key": "10603_getCondition_normal-content",
+    "original": "콩콩이파 두목 홍루 획득 시",
+    "context": "EN :\nAcquire Tingtang Gangleader Hong Lu\nJP :\nぽんぽん派親分ホンル 獲得時"
+  },
+  {
+    "key": "10603_getCondition_gacksung-content",
+    "original": "콩콩이파 두목 홍루 동기화 3단계 달성",
+    "context": "EN :\nUptie Tingtang Gangleader Hong Lu to Tier 3\nJP :\nぽんぽん派親分ホンル  同期化3段階達成"
+  },
+  {
+    "key": "10702_getCondition_normal-content",
+    "original": "시 협회 5과 히스클리프 획득 시",
+    "context": "EN :\nAcquire Shi Section 5 Heathcliff\nJP :\nシ協会5課ヒースクリフ 獲得時"
+  },
+  {
+    "key": "10702_getCondition_gacksung-content",
+    "original": "시 협회 5과 히스클리프 동기화 3단계 달성",
+    "context": "EN :\nUptie Shi Section 5 Heathcliff to Tier 3\nJP :\nシ協会5課ヒースクリフ 同期化3段階達成"
+  },
+  {
+    "key": "10703_getCondition_normal-content",
+    "original": "R사 제 4무리 토끼팀 히스클리프 획득 시",
+    "context": "EN :\nAcquire R Corp. 4th Pack Rabbit Heathcliff\nJP :\nR社第4群ウサギチームヒースクリフ 獲得時"
+  },
+  {
+    "key": "10703_getCondition_gacksung-content",
+    "original": "R사 제 4무리 토끼팀 히스클리프 동기화 3단계 달성",
+    "context": "EN :\nUptie R Corp. 4th Pack Rabbit Heathcliff to Tier 3\nJP :\nR社第4群ウサギチームヒースクリフ 同期化3段階達成"
+  },
+  {
+    "key": "10802_getCondition_normal-content",
+    "original": "R사 제 4무리 순록팀 이스마엘 획득 시",
+    "context": "EN :\nAcquire R Corp. 4th Pack Reindeer Ishmael\nJP :\nR社第4群トナカイチームイシュメール 獲得時"
+  },
+  {
+    "key": "10802_getCondition_gacksung-content",
+    "original": "R사 제 4무리 순록팀 이스마엘 동기화 3단계 달성",
+    "context": "EN :\nUptie R Corp. 4th Pack Reindeer Ishmael to Tier 3\nJP :\nR社第4群トナカイチームイシュメール 同期化3段階達成"
+  },
+  {
+    "key": "10803_getCondition_normal-content",
+    "original": "시 협회 5과 이스마엘 획득 시",
+    "context": "EN :\nAcquire Shi Section 5 Ishmael\nJP :\nシ協会5課イシュメール 獲得時"
+  },
+  {
+    "key": "10803_getCondition_gacksung-content",
+    "original": "시 협회 5과 이스마엘 동기화 3단계 달성",
+    "context": "EN :\nUptie Shi Section 5 Ishmael to Tier 3\nJP :\nシ協会5課イシュメール 同期化3段階達成"
+  },
+  {
+    "key": "10804_getCondition_normal-content",
+    "original": "LCCB 대리 이스마엘 획득 시",
+    "context": "EN :\nAcquire LCCB Assistant Manager Ishmael\nJP :\nLCCB係長イシュメール 獲得時"
+  },
+  {
+    "key": "10804_getCondition_gacksung-content",
+    "original": "LCCB 대리 이스마엘 동기화 3단계 달성",
+    "context": "EN :\nUptie LCCB Assistant Manager Ishmael to Tier 3\nJP :\nLCCB係長イシュメール 同期化3段階達成"
+  },
+  {
+    "key": "10902_getCondition_normal-content",
+    "original": "흑운회 와카슈 로쟈 획득 시",
+    "context": "EN :\nAcquire Kurokumo Wakashu Rodya\nJP :\n黒雲会若衆ロージャ 獲得時"
+  },
+  {
+    "key": "10902_getCondition_gacksung-content",
+    "original": "흑운회 와카슈 로쟈 동기화 3단계 달성",
+    "context": "EN :\nUptie Kurokumo Wakashu Rodya to Tier 3\nJP :\n黒雲会若衆ロージャ 同期化3段階達成"
+  },
+  {
+    "key": "10903_getCondition_normal-content",
+    "original": "LCCB 대리 로쟈 획득 시",
+    "context": "EN :\nAcquire LCCB Assistant Manager Rodya\nJP :\nLCCB係長ロージャ 獲得時"
+  },
+  {
+    "key": "10903_getCondition_gacksung-content",
+    "original": "LCCB 대리 로쟈 동기화 3단계 달성",
+    "context": "EN :\nUptie LCCB Assistant Manager Rodya to Tier 3\nJP :\nLCCB係長ロージャ 同期化3段階達成"
+  },
+  {
+    "key": "11002_getCondition_normal-content",
+    "original": "검계 살수 싱클레어 획득 시",
+    "context": "EN :\nAcquire Blade Lineage Salsu Sinclair\nJP :\n剣契殺手シンクレア 獲得時"
+  },
+  {
+    "key": "11002_getCondition_gacksung-content",
+    "original": "검계 살수 싱클레어 동기화 3단계 달성",
+    "context": "EN :\nUptie Blade Lineage Salsu Sinclair to Tier 3\nJP :\n剣契殺手シンクレア 同期化3段階達成"
+  },
+  {
+    "key": "11003_getCondition_normal-content",
+    "original": "츠바이 싱클레어 획득 시",
+    "context": "EN :\nAcquire Zwei Section 6 Sinclair\nJP :\nツヴァイシンクレア 獲得時"
+  },
+  {
+    "key": "11003_getCondition_gacksung-content",
+    "original": "츠바이 싱클레어 동기화 3단계 달성",
+    "context": "EN :\nUptie Zwei Section 6 Sinclair to Tier 3\nJP :\nツヴァイシンクレア 同期化3段階達成"
+  },
+  {
+    "key": "11004_getCondition_normal-content",
+    "original": "마리아치 보스 싱클레어 획득 시",
+    "context": "EN :\nAcquire Jefe de Los Mariachis Sinclair\nJP :\nマリアッチボスシンクレア 獲得時"
+  },
+  {
+    "key": "11004_getCondition_gacksung-content",
+    "original": "마리아치 보스 싱클레어 동기화 3단계 달성",
+    "context": "EN :\nUptie Jefe de Los Mariachis Sinclair to Tier 3\nJP :\nマリアッチボスシンクレア 同期化3段階達成"
+  },
+  {
+    "key": "11102_getCondition_normal-content",
+    "original": "검계 조직원 오티스 획득 시",
+    "context": "EN :\nAcquire Blade Lineage Cutthroat Outis\nJP :\n剣契組織員ウーティス 獲得時"
+  },
+  {
+    "key": "11102_getCondition_gacksung-content",
+    "original": "검계 조직원 오티스 동기화 3단계 달성",
+    "context": "EN :\nUptie Blade Lineage Cutthroat Outis to Tier 3\nJP :\n剣契組織員ウーティス 同期化3段階達成"
+  },
+  {
+    "key": "11103_getCondition_normal-content",
+    "original": "G사 부장 오티스 획득 시",
+    "context": "EN :\nAcquire G Corp. Head Manager Outis\nJP :\nG社部長ウーティス 獲得時"
+  },
+  {
+    "key": "11103_getCondition_gacksung-content",
+    "original": "G사 부장 오티스 동기화 3단계 달성",
+    "context": "EN :\nUptie G Corp. Head Manager Outis to Tier 3\nJP :\nG社部長ウーティス 同期化3段階達成"
+  },
+  {
+    "key": "11202_getCondition_normal-content",
+    "original": "리우 협회 6과 그레고르 획득 시",
+    "context": "EN :\nAcquire Liu Section 6 Gregor\nJP :\nリウ協会6課グレゴール 獲得時"
+  },
+  {
+    "key": "11202_getCondition_gacksung-content",
+    "original": "리우 협회 6과 그레고르 동기화 3단계 달성",
+    "context": "EN :\nUptie Liu Section 6 Gregor to Tier 3\nJP :\nリウ協会6課グレゴール 同期化3段階達成"
+  },
+  {
+    "key": "11203_getCondition_normal-content",
+    "original": "G사 일등대리 그레고르 획득 시",
+    "context": "EN :\nAcquire G Corp. Manager Corporal Gregor\nJP :\nG社課長代理グレゴール 獲得時"
+  },
+  {
+    "key": "11203_getCondition_gacksung-content",
+    "original": "G사 일등대리 그레고르 동기화 3단계 달성",
+    "context": "EN :\nUptie G Corp. Manager Corporal Gregor to Tier 3\nJP :\nG社課長代理グレゴール 同期化3段階達成"
+  },
+  {
+    "key": "10504_getCondition_normal-content",
+    "original": "N사 큰 망치 뫼르소 획득 시",
+    "context": "EN :\nAcquire N Corp. Großhammer Meursault\nJP :\nN社大鎚ムルソー 獲得時"
+  },
+  {
+    "key": "10504_getCondition_gacksung-content",
+    "original": "N사 큰 망치 뫼르소 동기화 3단계 달성",
+    "context": "EN :\nUptie N Corp. Großhammer Meursault to Tier 3\nJP :\nN社大鎚ムルソー  同期化3段階達成"
+  },
+  {
+    "key": "10904_getCondition_normal-content",
+    "original": "N사 중간 망치 로쟈 획득 시",
+    "context": "EN :\nAcquire N Corp. Mittelhammer Rodion\nJP :\nN社中鎚ロージャ 獲得時"
+  },
+  {
+    "key": "10904_getCondition_gacksung-content",
+    "original": "N사 중간 망치 로쟈 동기화 3단계 달성",
+    "context": "EN :\nUptie N Corp. Mittelhammer Rodion to Tier 3\nJP :\nN社中鎚ロージャ  同期化3段階達成"
+  },
+  {
+    "key": "10204_getCondition_normal-content",
+    "original": "쥐는 자 파우스트 획득 시",
+    "context": "EN :\nAcquire The One Who Grips Faust\nJP :\n握る者ファウスト 獲得時"
+  },
+  {
+    "key": "10204_getCondition_gacksung-content",
+    "original": "쥐는 자 파우스트 동기화 3단계 달성",
+    "context": "EN :\nUptie The One Who Grips Faust to Tier 3\nJP :\n握る者ファウスト 同期化3段階達成"
+  },
+  {
+    "key": "10704_getCondition_normal-content",
+    "original": "N사 작은 망치 히스클리프 획득 시",
+    "context": "EN :\nAcquire N Corp. Kleinhammer Heathcliff\nJP :\nN社小鎚ヒースクリフ 獲得時"
+  },
+  {
+    "key": "10704_getCondition_gacksung-content",
+    "original": "N사 작은 망치 히스클리프 동기화 3단계 달성",
+    "context": "EN :\nUptie N Corp. Kleinhammer Heathcliff to Tier 3\nJP :\nN社小鎚ヒースクリフ 同期化3段階達成"
+  },
+  {
+    "key": "11104_getCondition_normal-content",
+    "original": "세븐 협회 6과 부장 오티스 획득 시",
+    "context": "EN :\nAcquire Seven Section 6 Director Outis\nJP :\nセブン協会6課部長ウーティス 獲得時"
+  },
+  {
+    "key": "11104_getCondition_gacksung-content",
+    "original": "세븐 협회 6과 부장 오티스 동기화 3단계 달성",
+    "context": "EN :\nUptie Seven Section 6 Director Outis to Tier 3\nJP :\nセブン協会6課ウーティス 同期化3段階達成"
+  },
+  {
+    "key": "10604_getCondition_normal-content",
+    "original": "리우 협회 5과 홍루 획득 시",
+    "context": "EN :\nAcquire Liu Section 5 Hong Lu\nJP :\nリウ協会5課ホンル 獲得時"
+  },
+  {
+    "key": "10604_getCondition_gacksung-content",
+    "original": "리우 협회 5과 홍루 동기화 3단계 달성",
+    "context": "EN :\nUptie Liu Section 5 Hong Lu to Tier 3\nJP :\nリウ協会5課ホンル 同期化3段階達成"
+  },
+  {
+    "key": "10404_getCondition_normal-content",
+    "original": "료. 고. 파. 주방장 료슈 획득 시",
+    "context": "EN :\nAcquire R.B. Chef de Cuisine Ryōshū\nJP :\nりょ・ミ・パ厨房長良秀 獲得時"
+  },
+  {
+    "key": "10404_getCondition_gacksung-content",
+    "original": "료. 고. 파. 주방장 료슈 동기화 3단계 달성",
+    "context": "EN :\nUptie R.B. Chef de Cuisine Ryōshū to Tier 3\nJP :\nりょ・ミ・パ厨房長良秀 同期化3段階達成"
+  },
+  {
+    "key": "11204_getCondition_normal-content",
+    "original": "료. 고. 파. 조수 그레고르 획득 시",
+    "context": "EN :\nAcquire R.B. Sous-chef Gregor\nJP :\nりょ・ミ・パ助手グレゴール 獲得時"
+  },
+  {
+    "key": "11204_getCondition_gacksung-content",
+    "original": "료. 고. 파. 조수 그레고르 동기화 3단계 달성",
+    "context": "EN :\nUptie R.B. Sous-chef Gregor to Tier 3\nJP :\nりょ・ミ・パ助手グレゴール 同期化3段階達成"
+  }
+]

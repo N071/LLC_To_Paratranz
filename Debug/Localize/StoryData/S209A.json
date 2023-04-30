@@ -1,0 +1,629 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 1F",
+    "context": "EN :\nCasino 1F\nJP :\nカジノ 1F"
+  },
+  {
+    "key": "0-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "0-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "0-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "0-content",
+    "original": "혹시나 해서 말하는 건데…",
+    "context": "EN :\nJust to make sure…\nJP :\n念のため言うんだけど…。"
+  },
+  {
+    "key": "1-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "1-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "1-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "1-content",
+    "original": "우리 목적이 카지노 1층을 박살 내기가 아니라 꼭대기 층에서 벌어지는 갬블에서 이겨야 한다는 건 알고 있죠?",
+    "context": "EN :\nYou all know that our goal is to win the game being held on the top floor, not reduce the ground floor of the casino to rubble, right?\nJP :\n私たちの目的はカジノ1階をぶっ壊すことではなく、最上階で行われるギャンブルで\n勝たなければならないということはご存じですよね？"
+  },
+  {
+    "key": "2-content",
+    "original": "아직도 모르는 자가, 아니. 그런 것 따윈 아무래도 좋을 거라고 생각하는 자가 더러 있을 것이라 확신했지만 굳이 일깨워주진 않았다.",
+    "context": "EN :\nI was certain that some definitely didn’t know or care, but I figured I’d rather not remind her.\nJP :\nまだ知らない人が、いや。 そんなことなんかどうでもいいと思う者が\nまだいることを確信したが、あえて伝えはしはなかった。"
+  },
+  {
+    "key": "3-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "3-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "3-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "3-content",
+    "original": "꼭대기 층에 도달하는 것도 중요하지만 게임에 이겨야 하는 것이 최종 목표니까…",
+    "context": "EN :\nNot only must we reach the top, we also have to win the game as our objective states…\nJP :\n最上階に到達することも大事ですが、ゲームに勝つことが最終目的だから…。"
+  },
+  {
+    "key": "4-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "4-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "4-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "4-content",
+    "original": "우린 그럴 만한 양의 소망력이 있어야 해요.",
+    "context": "EN :\nThus, we need the wishpower to make it happen.\nJP :\n私たちにはそれが可能なくらいの願望力が必要です。"
+  },
+  {
+    "key": "5-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "5-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "5-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "5-content",
+    "original": "우리가 힘겹게 쟁취한 소망력이 어처구니없는 이유로 한 꺼 번에 물거품이 되어버렸다는 이야기는 굳이 언급하지 않겠습니다. 마음만 아플 뿐이니까요.",
+    "context": "EN :\nI won’t bother reviewing in detail how the wishpower we had managed to collect went down the drain for preposterous reasons. It’ll only hurt our morale.\nJP :\n私たちが苦労して勝ち取った願望力が一瞬で、それも呆れた理由で\n水の泡になってしまったという話にはあえて言及しません。\n心が痛むだけですから。"
+  },
+  {
+    "key": "6-content",
+    "original": "어쩐지 심장이 쿡쿡 찔리는 기분이 들어 고개를 들 수가 없었다.",
+    "context": "EN :\nI had to keep my head down, feeling the pricks of conscience poking at my heart.\nJP :\nなんだか心がチクチクして頭を上げることができなかった。"
+  },
+  {
+    "key": "7-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "7-content",
+    "original": "이곳에서 최대한 많은 양의 소망력을 구할 수 있는 곳은 어디지?",
+    "context": "EN :\nWhere can we secure the most wishpower in this place?\nJP :\nここでなるべく沢山の願望力を手に入れることができる所はどこだ？"
+  },
+  {
+    "key": "8-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "8-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "8-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "8-content",
+    "original": "입구에 저 룰렛입니다. 카지노에 온 손님들은 저 룰렛을 통해 오늘의 운을 시험하고 소망력을 뺏기거나 혹은 부여받죠.",
+    "context": "EN :\nThat roulette next to the entrance. People who visit the casino try their daily luck using that roulette, and take or yield wishpower depending on the outcome.\nJP :\n入口のあのルーレットです。カジノに来たゲストはあのルーレットを通じて\n今日の運試しをして願望力を奪われるか、あるいは与えられます。"
+  },
+  {
+    "key": "9-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "9-content",
+    "original": "그런가. 그럼 내가 기회를 봐서 저 룰렛에 달려있는 소망통을 가져오겠다.",
+    "context": "EN :\nIs that so? Then I’ll seek out an opportunity to snatch the container attached to it.\nJP :\nそうか。\nじゃあ私が機会を伺ってあのルーレットに付いてる願望の匣を持ってくる。"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<그게 가능하겠어?>",
+    "context": "EN :\n<Think you can pull that off?>\nJP :\n<できるの？>"
+  },
+  {
+    "key": "11-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11-content",
+    "original": "전 이것보다 더 규모가 큰 작전을 수도 없이 해보았습니다.",
+    "context": "EN :\nI have carried out countless operations much greater in scale.\nJP :\n私はこれよりも規模がより大きい作戦をいくつもこなしてきました。"
+  },
+  {
+    "key": "12-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "12-content",
+    "original": " 관리자님의 어처구니없는 실수 따윈 아무것도 아닙니다.",
+    "context": "EN :\nYour preposterous blunder amounts to nothing in the grander scheme of things, Manager.\nJP :\n管理人様の呆れた失敗など、何でもありません。"
+  },
+  {
+    "key": "13-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "13-content",
+    "original": "분명 현명한 판단을 흐리게 만든 폐기물들 때문일 테니까요! 저들의 말에 마음 쓰지 마십시오!",
+    "context": "EN :\nIt has to have been the fault of the drudging dredges who obfuscated your ability to make sensible decisions! Don’t let their words deter you!\nJP :\nきっと賢明な判断を曇らせた廃棄物たちのせいでしょうからね！\nあの者達の言うことは気にしないでくださいませ！"
+  },
+  {
+    "key": "14-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "14-content",
+    "original": "<어처구니… 그렇구나… 앗!>",
+    "context": "EN :\n<Preposterous… I see… Wait!>\nJP :\n<呆れた…そうか…あっ！>"
+  },
+  {
+    "key": "15-content",
+    "original": "우리가 이러한 계획을 세우고 있을 동안…",
+    "context": "EN :\nWhile we were busy discussing backup plans…\nJP :\n私たちがこんな感じで計画を立てている間…。"
+  },
+  {
+    "key": "16-content",
+    "original": "히스클리프는 이미 입구 쪽으로 달려가고 있었던 모양이다.",
+    "context": "EN :\nHeathcliff was already making a mad dash for the entrance.\nJP :\nヒースクリフは既に入口の方へ走っていたようだ。"
+  },
+  {
+    "key": "17-content",
+    "original": "이야기에 집중해서인지, 혹은 아예 정신을 놓은 것인지.",
+    "context": "EN :\nWere we too focused on the conversation, or did we collectively lose our minds?\nJP :\n話に集中してたからか、あるいはそもそも気が抜けてたのか。"
+  },
+  {
+    "key": "18-content",
+    "original": "우리 중 그 누구도 그의 행동을 파악하고 있는 사람은 없었다.",
+    "context": "EN :\nIn either case, none of us had a clue what he was up to.\nJP :\n私たちの中で、彼の行動を把握してる人は誰もいなかった。"
+  },
+  {
+    "key": "19-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "19-content",
+    "original": "<히스클리프?!>",
+    "context": "EN :\n<Heathcliff?!>\nJP :\n<ヒースクリフ！？>"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "젠장, 언제까지 입만 놀리면서 1층에 박혀 있을 건데?",
+    "context": "EN :\nDammit, isn’t it time we stopped chatting and moved up already?\nJP :\nくそっ、いつまで口ばっか動かして一階で燻ってんだ？"
+  },
+  {
+    "key": "21-content",
+    "original": "그러더니 경호원들을 향해 있는 힘껏 소리를 지르기 시작했다.",
+    "context": "EN :\nThen he shouted at security from the top of his lungs.\nJP :\nすると、警護員たちに向かって精一杯喚き始めた。"
+  },
+  {
+    "key": "22-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "22-content",
+    "original": "너네 스스로 한심하지도 않냐?",
+    "context": "EN :\nAren’t you ashamed of yourselves?!\nJP :\nお前ら、情けなくねぇのか？"
+  },
+  {
+    "key": "23-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "23-content",
+    "original": "저기 있는 금발 녀석은 피도 안 마른 햇병아리고,",
+    "context": "EN :\nThat blondie over there is a rookie who’s as unfledged as he gets.\nJP :\nあっちにいる金髪野郎はくちばしの黄色いひよっ子で、"
+  },
+  {
+    "key": "24-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "24-content",
+    "original": "그리고 저 관리자라는 놈은 기억이 해까닥 해서 제대로 무기도 잡을 줄도 모른다고.",
+    "context": "EN :\nAnd that mate there we call our manager has a bad case of lost memories and can’t wield a weapon to save themself.\nJP :\nあとあの管理人って野郎は記憶がぽっくり逝っちまって\nまともに武器も掴めねぇんだよ。"
+  },
+  {
+    "key": "25-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "25-content",
+    "original": "그런 우리를 상대로 헐떡이기나 하는 꼴이라니…",
+    "context": "EN :\nThis is what you’re struggling against? What a joke…\nJP :\nそんなオレらを相手にゼエゼエ言ってるだなんてなぁ…。"
+  },
+  {
+    "key": "26-model",
+    "original": "카지노경호원대장",
+    "translation": "赌场警卫队长",
+    "context": "EN :\n警卫\nJP :\nBodyguard"
+  },
+  {
+    "key": "26-teller",
+    "original": "카지노 경호원 대장",
+    "context": "EN :\nSecurity Chief\nJP :\nカジノ警護員 隊長"
+  },
+  {
+    "key": "26-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "26-content",
+    "original": "큭..저, 저 자식이…",
+    "context": "EN :\nNgh… D-Damn, you…\nJP :\nくっ…あ、あの野郎…。"
+  },
+  {
+    "key": "27-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "27-content",
+    "original": "히, 히스클리프 씨… 너무해요…",
+    "context": "EN :\nH-Heathcliff… That was too harsh…\nJP :\nひ、ヒースクリフさん…酷いです…。"
+  },
+  {
+    "key": "28-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "28-content",
+    "original": "<맞아, 너무해. 히스클리프.>",
+    "context": "EN :\n<Hear, hear. Much too mean, Heathcliff.>\nJP :\n<うん、酷いね。ヒースクリフ。>"
+  },
+  {
+    "key": "29-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "29-content",
+    "original": "네 놈, 들고 있는 그 철퇴가 아깝다.",
+    "context": "EN :\nAnd last thing, that club you’re holding deserves a better owner.\nJP :\nお前が持ってるその棒はお飾りか？"
+  },
+  {
+    "key": "30-model",
+    "original": "카지노경호원대장",
+    "translation": "赌场警卫队长",
+    "context": "EN :\n警卫\nJP :\nBodyguard"
+  },
+  {
+    "key": "30-teller",
+    "original": "카지노 경호원 대장",
+    "context": "EN :\nSecurity Chief\nJP :\nカジノ警護員 隊長"
+  },
+  {
+    "key": "30-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "30-content",
+    "original": "건방진 놈이…!",
+    "context": "EN :\nYou cocky little…!\nJP :\n調子に乗りやがって…！"
+  },
+  {
+    "key": "31-content",
+    "original": "잔뜩 약이 오른 경호원이 휘두른 분노의 철퇴가 히스클리프를 향해 붕- 하는 위협적인 소리와 함께 날아왔고…",
+    "context": "EN :\nThe infuriated security guard swung the club with a furious whish, exploding towards Heathcliff…\nJP :\nひどく馬鹿にされた警護員が振り回した怒りのメイスが、ヒースに向かって\nブンという脅威的な音とともに飛んでゆき…。"
+  },
+  {
+    "key": "32-content",
+    "original": "히스클리프가 아슬아슬하게 몸을 틀며 피함과 동시에 그 뒤에 있던 룰렛이 산산조각이 났다.",
+    "context": "EN :\n…and as Heathcliff swerved out of its way, the roulette behind him bore the force, being smashed to pieces.\nJP :\nヒースクリフがギリギリで身体をひねって避けると同時に、\nその後ろにあったルーレットが木っ端微塵になった。"
+  },
+  {
+    "key": "33-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "33-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "33-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "33-content",
+    "original": "소망, 소망통이…!",
+    "context": "EN :\nThe, the wish container…!\nJP :\n願望、願望の匣が…！"
+  },
+  {
+    "key": "34-content",
+    "original": "비참히 깨져버린 룰렛에선 한때 소망력이었을 무언가가 쉴 새 없이 흘러내렸다.",
+    "context": "EN :\nSpouts of what I assume was once wishpower until moments ago poured through the poor remains of the roulette.\nJP :\n無惨に割れてしまったルーレットから、\n一時は願望力であったはずの何かが絶えず流れ落ちていた。"
+  },
+  {
+    "key": "35-content",
+    "original": "소드는 단말마에 가까운 비명을 지르다 못내 입을 틀어막았고… 나는 차마 그 장면을 바라볼 수가 없어 고개를 돌렸다.",
+    "context": "EN :\nAs if in death throes, Saude let out an agonized scream before clapping her hands over her mouth… I couldn’t help but turn away from this tragic sight.\nJP :\nソードは断末魔に近い悲鳴をあげ、口を覆い…。\n私はどうしてもその有様を見ることができず、顔を背けた。"
+  },
+  {
+    "key": "36-content",
+    "original": "‘저는 이다음에 커서 사람들에게 희망을 주는 소망스티커가 될래요!’",
+    "context": "EN :\n“When I grow up, I wanna be a wish sticker, giving hope to everybody!”\nJP :\n「僕、生まれ変わって大きくなって人々に希望を与える願望シールになります！」"
+  },
+  {
+    "key": "37-content",
+    "original": "소망스티커로서 세상에 나오지 못한 것의 마음의 소리가 들려오는 듯했다.",
+    "context": "EN :\nI could almost hear the unfulfilled dreams of those lost wishes in my imagination.\nJP :\n願望シールとしてこの世に生を受けることの出来なかったモノの、\n心の声が聞こえてくるような気がした。"
+  },
+  {
+    "key": "38-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "38-content",
+    "original": "야, 잘 들어. 너네.",
+    "context": "EN :\nOi, listen up, you thickos.\nJP :\nおい、よく聞け。お前ら。"
+  },
+  {
+    "key": "39-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "39-content",
+    "original": "우리랑 쌈박질하다가 이거 부숴 먹었다 실토하고 다 같이 묵사발이 될래?",
+    "context": "EN :\nDo you want to admit to your boss ‘bout breaking this thing while fighting us and get lambasted for it?\nJP :\nオレらとドンパチしてこれぶっ壊したって報告して、\n全員でギッタンバッタンにされるか？"
+  },
+  {
+    "key": "40-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "40-content",
+    "original": "아니면 그냥 우리 탓으로 편하게 돌리고 2층으로 보내줄래?",
+    "context": "EN :\nOr, do you want to make it our fault and let us through?\nJP :\nそれとも安直にオレたちのせいにして、そのまま二階へ通してくれるか？"
+  },
+  {
+    "key": "41-model",
+    "original": "각잡힌카지노경호원",
+    "translation": "一板一眼的警卫",
+    "context": "EN :\n警卫\nJP :\nBodyguard2"
+  },
+  {
+    "key": "41-teller",
+    "original": "각 잡힌 카지노 경호원",
+    "context": "EN :\nRigid Security\nJP :\n身なりの整ったカジノ警護員"
+  },
+  {
+    "key": "41-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "41-content",
+    "original": "이, 이거… 자그마치 한 달 치 모인 운인데…",
+    "context": "EN :\nT-This was… a month’s worth of luck…\nJP :\nこ、これ…こつこつ1ヶ月くらい集めた運なのに…。"
+  },
+  {
+    "key": "42-model",
+    "original": "카지노경호원대장",
+    "translation": "赌场警卫队长",
+    "context": "EN :\n警卫\nJP :\nBodyguard"
+  },
+  {
+    "key": "42-teller",
+    "original": "카지노 경호원 대장",
+    "context": "EN :\nSecurity Chief\nJP :\nカジノ警護員 隊長"
+  },
+  {
+    "key": "42-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "42-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "43-model",
+    "original": "카지노경호원대장",
+    "translation": "赌场警卫队长",
+    "context": "EN :\n警卫\nJP :\nBodyguard"
+  },
+  {
+    "key": "43-teller",
+    "original": "카지노 경호원 대장",
+    "context": "EN :\nSecurity Chief\nJP :\nカジノ警護員 隊長"
+  },
+  {
+    "key": "43-title",
+    "original": "J사 카지노",
+    "context": "EN :\nJ Corp. Casino\nJP :\nJ社 カジノ"
+  },
+  {
+    "key": "43-content",
+    "original": "2층으로 간다고 해도 너흰 무사하지 못할 거다…",
+    "context": "EN :\nIt won’t be any safer for you upstairs…\nJP :\n二階に行ってもお前らは無事でいられるかな…。"
+  },
+  {
+    "key": "44-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "44-content",
+    "original": "어, 이미 무사하지 못했던 기억이 더 많아서. 충고는 고맙다.",
+    "context": "EN :\nEh, never been too close to safety anyway. ‘Preciate the advice.\nJP :\nああ、無事じゃなかった記憶の方が多いからな。忠告ありがとよ。"
+  },
+  {
+    "key": "45-content",
+    "original": "철퇴에 아슬아슬하게 빗맞은 히스클리프는 한쪽 어깨가 빠진 채로 걸어왔다.",
+    "context": "EN :\nHeathcliff came to me with one of his shoulders dislocated, likely when he was grazed by the club.\nJP :\nメイスにギリギリ当たったヒースクリフは、\n片肩が脱臼した状態で歩いてきた。"
+  },
+  {
+    "key": "46-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "46-content",
+    "original": "뭘 봐? 고쳐 주기나 해.",
+    "context": "EN :\nWhat’s the look? Do your thing and fix me up.\nJP :\n何見てんだ？早く直せよ。"
+  },
+  {
+    "key": "47-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "47-content",
+    "original": "<…….>",
+    "context": "EN :\n<……>\nJP :\n<……。>"
+  },
+  {
+    "key": "48-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "48-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "48-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "48-content",
+    "original": "결심했답니다. 오늘부터, 이 자들 앞에선 계획의 ㄱ자도 안 꺼내겠습니다.",
+    "context": "EN :\nI’ve made up my mind. Starting now, I won’t ever try to discuss plans or anything similar with these people.\nJP :\n決心しました。今日から、この人達の前では計画の「け」の字も出しません。"
+  },
+  {
+    "key": "49-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "49-content",
+    "original": "깨달음이 늦었군요.",
+    "context": "EN :\nTook you long enough to realize.\nJP :\n悟りが遅いですね。"
+  },
+  {
+    "key": "50-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "50-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "50-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "50-content",
+    "original": "파우스트… 이럴 때는 그냥 가만히 있어 줬으면 좋겠어.",
+    "context": "EN :\nFaust… This is one of those times when it’s better to keep your mouth shut.\nJP :\nファウスト…こんなときは黙っててくれると嬉しいんだけど。"
+  },
+  {
+    "key": "51-content",
+    "original": "이렇게 우리는 비참하게 2층으로 올라갔다.",
+    "context": "EN :\nWith that, we dragged ourselves up to the next floor.\nJP :\nこうやって私たちは惨めに二階へと上がっていった。"
+  }
+]

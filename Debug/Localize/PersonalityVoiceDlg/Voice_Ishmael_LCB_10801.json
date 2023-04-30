@@ -1,0 +1,232 @@
+[
+  {
+    "key": "get_10801_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10801_1-dlg",
+    "original": "저를, 이스마엘이라고 불러주세요.",
+    "context": "EN :\nCall me Ishmael, if you please.\nJP :\n私を、イシュメールと呼んでください。"
+  },
+  {
+    "key": "lobby_morning_10801_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10801_1-dlg",
+    "original": "네, 오늘도 하루가 시작됐네요. 가보죠.",
+    "context": "EN :\nYeah, another day has begun. Let’s get sailing.\nJP :\nはい、今日も一日が始まりましたね。行きましょうか。"
+  },
+  {
+    "key": "lobby_noon_10801_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10801_1-dlg",
+    "original": "하루의 절반이 지났네요. 효율적으로 보내고 계시나요?",
+    "context": "EN :\nWe’re halfway through the day. Are you spending your time efficiently?\nJP :\n一日の半分が過ぎました。効率的に過ごせてますか？"
+  },
+  {
+    "key": "lobby_night_10801_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10801_1-dlg",
+    "original": "하루를 마무리할 시간이네요. 마무리하고 얼른 쉬죠.",
+    "context": "EN :\nIt’s time to wrap up the day. Let’s finish our remaining tasks and get some rest.\nJP :\n一日を締めくくる時間ですね。締めくくって早く休みましょう。"
+  },
+  {
+    "key": "smalltalk_10801_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10801_1-dlg",
+    "original": "그래도 관리자님이 계셔서 다행이라고 생각해요. 생각이 똑바로 박힌 인간이 한 사람이라도 더 있는 게 낫죠.",
+    "context": "EN :\nI do think it’s fortunate that we have you on our side. Better to have two people who can think straight than just one.\nJP :\nそれでも管理人さんがいて良かったです。考えがまともな人は一人でも多い方がマシですし。"
+  },
+  {
+    "key": "smalltalk_10801_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10801_2-dlg",
+    "original": "전 웬만한 명령은 수월하게 처리할 수 있어요. 단, 합리적이고 효율적인 판단이 있었다는 가정 하에요.",
+    "context": "EN :\nI can take care of most orders without much difficulty, provided that they’re based on rational and efficient judgement.\nJP :\n私は大抵の命令なら容易に処理できます。ただし、合理的で効率的な判断があったという仮定の下でです。"
+  },
+  {
+    "key": "smalltalk_10801_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10801_3-dlg",
+    "original": "수준 차이가 천차만별인  수감자들을 알맞게 써먹어야 하는 것도 관리자님의 몫이겠죠.",
+    "context": "EN :\nI suppose it’s your job to use this motley ensemble of Sinners appropriately.\nJP :\nレベル差が千差万別の囚人を適切に使うことも、管理人さんの役目でしょうね。"
+  },
+  {
+    "key": "smalltalk_10801_4-desc",
+    "original": "대화 4",
+    "context": "EN :\nChatter #4\nJP :\n対話4"
+  },
+  {
+    "key": "smalltalk_10801_4-dlg",
+    "original": "알아두셔야 하는게, 제가 말씀드리는 건 모두 임무의 성공 여부를 위한 도움을 제시하는 거에요. 관리자님한테 악감정은 없다는 뜻이에요.",
+    "context": "EN :\nJust to be clear, the remarks I say to you are meant to assist you to ensure the success of our mission. I’m not just saying them with any hard feelings towards you.\nJP :\nこれは知っておいて欲しいんですが、私は任務が成功するように助けを提示してるだけです。管理人さんに悪感情はないという意味です。"
+  },
+  {
+    "key": "smalltalk_10801_5-desc",
+    "original": "대화 5",
+    "context": "EN :\nChatter #5\nJP :\n対話5"
+  },
+  {
+    "key": "smalltalk_10801_5-dlg",
+    "original": "제가 예전에 있었던 곳은, 아주 작은 실수 하나에도 모두의 목숨이 위태로워질 수 있는 공간이었어요. 제가 가끔 예민해지는 건 그 경험들에 의한 거에요. 아… 이해해 달라는 건 아니에요.",
+    "context": "EN :\nIn my previous occupation, a tiny mistake could compromise all of our safety. My sensitive tendencies come from that experience. Oh… No, I’m not trying to ask for your understanding.\nJP :\n私が昔にいたところは、とても小さなミス一つであれ全員の命が危なくなる空間でした。私はたまにピリピリするのは、その経験によるものです。あぁ…理解してくれって意味ではないです。"
+  },
+  {
+    "key": "neglect_10801_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10801_1-dlg",
+    "original": "관리자님? 에휴… 저도 이만 돌아갈게요.",
+    "context": "EN :\nManager? Sigh… I’ll be off then.\nJP :\n管理人さん？はぁ…じゃあ私も戻りますね。"
+  },
+  {
+    "key": "formation_10801_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10801_1-dlg",
+    "original": "네, 문제없어요.",
+    "context": "EN :\nSure, no problem.\nJP :\nはい、問題ないです。"
+  },
+  {
+    "key": "battleentry_10801_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10801_1-dlg",
+    "original": "명령에 따를게요. 효율적이라면.",
+    "context": "EN :\nI’ll follow your orders, as long as they’re efficient.\nJP :\n命令には従います。効率的なら。"
+  },
+  {
+    "key": "battle_select_10801_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10801_1-dlg",
+    "original": "바쁘니까, 짧게 부탁드려요.",
+    "context": "EN :\nI’m busy at the moment, so please keep it brief.\nJP :\n忙しいから、短くお願いします。"
+  },
+  {
+    "key": "battle_endcommand_10801_1-desc",
+    "original": "공격시작",
+    "context": "EN :\nCommencing Attack\nJP :\n공격 시작"
+  },
+  {
+    "key": "battle_endcommand_10801_1-dlg",
+    "original": "좋은 전략이네요. 가보죠.",
+    "context": "EN :\nSounds like a plan. Let’s go.\nJP :\n良い戦略ですね。やりましょう。"
+  },
+  {
+    "key": "battle_enemy_break_10801_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10801_1-dlg",
+    "original": "적을, 난파시켰습니다.",
+    "context": "EN :\nThe enemy has been stranded.\nJP :\n敵、難破させました。"
+  },
+  {
+    "key": "battle_break_10801_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10801_1-dlg",
+    "original": "읏…!",
+    "context": "EN :\nNghk…!\nJP :\nうっ…！"
+  },
+  {
+    "key": "battle_kill_10801_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10801_1-dlg",
+    "original": "가라앉는군요.",
+    "context": "EN :\nDown they sink.\nJP :\n沈没しましたね。"
+  },
+  {
+    "key": "battle_allydead_10801_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10801_1-dlg",
+    "original": "고생하셔야겠네요, 관리자님.",
+    "context": "EN :\nLooks like you’ve got work to do, Manager.\nJP :\nもう一苦労しなきゃ駄目そうですね、管理人さん。"
+  },
+  {
+    "key": "choice_success_p_10801_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10801_1-dlg",
+    "original": "어떻게… 해내긴 했네요.",
+    "context": "EN :\nDespite it all… I managed somehow.\nJP :\nなんとか…やり遂げましたね。"
+  },
+  {
+    "key": "choice_fail_n_10801_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10801_1-dlg",
+    "original": "그러게 다른 사람을 쓰지 그랬어요. 제 탓하지나 마세요.",
+    "context": "EN :\nYou should’ve had someone else deal with it. Don’t blame me for this.\nJP :\nだから他の人を使えって言ったじゃないですか。私のせいにしないでくださいよ。"
+  },
+  {
+    "key": "battle_clear_10801_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10801_1-dlg",
+    "original": "이런 걸로 호들갑 떨지 않는 편이에요.",
+    "context": "EN :\nI tend not to make a big deal out of such things.\nJP :\nこんなので喜ばないタイプですので。"
+  },
+  {
+    "key": "battle_clear_ex_10801_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10801_1-dlg",
+    "original": "음… 솔직히, 이번엔 좀 잘한 것 같네요. 그렇죠?",
+    "context": "EN :\nHmm… If I can be honest here, we did a pretty good job, right?\nJP :\nうーん…正直、今回はちょっと上手くやれた気がします。そうですよね？"
+  },
+  {
+    "key": "battle_defeat_10801_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10801_1-dlg",
+    "original": "…아까 제 말 무시하고 그대로 달려 나간 사람 누구예요?",
+    "context": "EN :\n…Who’s the one that ignored my words and bolted headfirst into the fray?\nJP :\n…さっき私の言うこと無視してそのまま走って行った人誰ですか？"
+  }
+]

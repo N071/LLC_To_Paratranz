@@ -1,0 +1,762 @@
+[
+  {
+    "key": "0-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "0-content",
+    "original": "전쟁은 끝났다.",
+    "context": "EN :\nThe war was over.\nJP :\n戦争は終わった。"
+  },
+  {
+    "key": "1-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "1-content",
+    "original": "하지만 나는 아직도 우스꽝스러운 포즈와 자신만만한 얼굴을 하고 있었다.",
+    "context": "EN :\nYet my doppelgänger was still holding a silly pose with a confident look on his face.\nJP :\nけど、俺はまだ滑稽なポーズと自信満々な顔をしていた。"
+  },
+  {
+    "key": "2-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "2-content",
+    "original": "흐음, 난 저런 표정은 짓지 않는데.",
+    "context": "EN :\nHmm, that’s not the kind of face I’d make.\nJP :\nふぅん。俺、あんな顔はしないんだけどな。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "하지만… 팔에 나 있는 털만큼은 역겹게 아주 잘 그렸군. 누가 그린 거지?",
+    "context": "EN :\nThough… gotta give it to ‘em for making the hair on my arm look as grotesque as it is real. Whose job was this?\nJP :\nでも腕に生えている毛は気持ち悪いくらい上手く描けてるな。誰が描いたんだ？"
+  },
+  {
+    "key": "4-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "4-content",
+    "original": "유머가 늘었다.",
+    "context": "EN :\nI’ve grown fond of humor.\nJP :\n冗談が上手くなった。"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "악몽 속에 오래 잠겨있다 보니 살고 싶어 그렇게 된 모양이다.",
+    "context": "EN :\nBeing consumed by the nightmare for so long must’ve made me crave liveliness.\nJP :\n悪夢の中に長い間閉じ込められていたせいか、生きたいからそうなったようだ。"
+  },
+  {
+    "key": "6-teller",
+    "original": "불만스러운 시민",
+    "context": "EN :\nDisgruntled Citizen\nJP :\n不満げな市民"
+  },
+  {
+    "key": "6-title",
+    "original": "기억 속 누군가",
+    "context": "EN :\nReminisced Person\nJP :\n記憶の中の誰か"
+  },
+  {
+    "key": "6-content",
+    "original": "G사 새끼들은 모조리 참수시켜버려야 돼.",
+    "context": "EN :\nThose scum from G Corp. should all be sent to the gallows.\nJP :\nG社のクソムシどもは全員打ち首にすべきだ。"
+  },
+  {
+    "key": "7-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "7-content",
+    "original": "누군가 중얼거리면서 바닥에 가래침을 뱉는 소리가 들린다.",
+    "context": "EN :\nSomeone murmurs, spitting on the floor.\nJP :\n誰かがブツブツ言いながら地面に痰を吐く音が聞こえる。"
+  },
+  {
+    "key": "8-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "8-content",
+    "original": "목소리의 방향이 어디로 향했는지는 쳐다보지 알아도 알 수 있었다.",
+    "context": "EN :\nI could tell what they were speaking towards without even looking.\nJP :\n声がどこの方へ向かったのか、見つめずとも分かった。"
+  },
+  {
+    "key": "9-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "9-content",
+    "original": "그래서였을까.",
+    "context": "EN :\nKnowing that…\nJP :\nだからだろうか。"
+  },
+  {
+    "key": "10-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "10-content",
+    "original": "우욱…",
+    "context": "EN :\nHrk…\nJP :\nうぅっ…。"
+  },
+  {
+    "key": "11-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11-content",
+    "original": "속이 메슥거렸다.",
+    "context": "EN :\nI felt nauseous.\nJP :\n胃がムカムカした。"
+  },
+  {
+    "key": "12-teller",
+    "original": "친절한 시민",
+    "context": "EN :\nKind Citizen\nJP :\n親切な市民"
+  },
+  {
+    "key": "12-title",
+    "original": "기억 속 누군가",
+    "context": "EN :\nReminisced Person\nJP :\n記憶の中の誰か"
+  },
+  {
+    "key": "12-content",
+    "original": "저기요, 괜찮으세요?",
+    "context": "EN :\nSir, are you alright?\nJP :\nあの、大丈夫ですか？"
+  },
+  {
+    "key": "13-place",
+    "original": "연기전쟁 중부전선",
+    "context": "EN :\nCentral Front in the Smoke War\nJP :\n煙戦争 中部戦線"
+  },
+  {
+    "key": "13-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "13-content",
+    "original": "어이, 괜찮은 거야? 얼굴빛이 영 안 좋아 보이는데?",
+    "context": "EN :\nHey, you okay, babe? You don’t look so well.\nJP :\nねぇ、大丈夫？顔色がけっこー悪そうなんだけど？"
+  },
+  {
+    "key": "14-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "14-content",
+    "original": "지하철… 이었는데?",
+    "context": "EN :\nI was… just in the subway?\nJP :\n地下鉄…だったのに？"
+  },
+  {
+    "key": "15-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-content",
+    "original": "무슨 개소리야?",
+    "context": "EN :\nThe hell are you blathering about?\nJP :\nなに馬鹿なこと言ってんだ？"
+  },
+  {
+    "key": "16-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "16-content",
+    "original": "그렉, 여긴 여전히 전쟁터야.",
+    "context": "EN :\nGreg, we’re still on the battlefield.\nJP :\nグレッグ、ここはまだ戦場だよ。"
+  },
+  {
+    "key": "17-content",
+    "original": "그레고르가 비틀거리면서 습관적으로 담배를 찾듯 주머니를 뒤적이다 곧 멈췄다.",
+    "context": "EN :\nGregor groped his pockets with stumbling hands looking for a cigarette out of habit, but soon stopped.\nJP :\nグレゴールがよろめきながら、いつも通りタバコを探すように\nポケットをまさぐり、しばらくして止まった。"
+  },
+  {
+    "key": "18-content",
+    "original": "그도, 나도.",
+    "context": "EN :\nIt dawned on him as it did me.\nJP :\n彼も、俺も。"
+  },
+  {
+    "key": "19-content",
+    "original": "수감자 모두도 눈치를 챈 것 같았다.",
+    "context": "EN :\nAll the Sinners seemed to have realized it now.\nJP :\n囚人も全員気付いたようだった。"
+  },
+  {
+    "key": "20-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "20-content",
+    "original": "<이제 다급한 목소리로 우리를 붙드는 토마가 나오는 건가…>",
+    "context": "EN :\n<Tomah is going to grab us and give a warning any second now…>\nJP :\n<これから切羽詰まった声で私たちを捕まえるトーマが出てくるんだろうか…。>"
+  },
+  {
+    "key": "21-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "21-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "21-content",
+    "original": "당신들…",
+    "context": "EN :\nAre you—\nJP :\n気でも狂…。"
+  },
+  {
+    "key": "22-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "22-content",
+    "original": "토마 씨, 대사가 슬슬 지겨워져서 그런데, 우린 미치지도 않았고, 노화 폭탄은 안 맞을 거야.",
+    "context": "EN :\nLook, Tomah, I’m starting to get sick of your pickup line, so I’ll say it once: We’re not out of our minds, and the aging bomb ain’t gonna hit us.\nJP :\nトーマさん、そろそろそのセリフが飽きてきたから言うんだけど、\n私たちはイカれてないし、老化爆弾には当たらないから。"
+  },
+  {
+    "key": "23-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "23-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "23-content",
+    "original": "…아니.",
+    "context": "EN :\n…No.\nJP :\n…えっ。"
+  },
+  {
+    "key": "24-content",
+    "original": "그는 아무 말 없이 손가락을 들어 위를 가리킨다.",
+    "context": "EN :\nInstead of elaborating, he points up.\nJP :\n彼は何も言わず、指をもたげて上を指した。"
+  },
+  {
+    "key": "25-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "25-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "25-content",
+    "original": "나, 살려 달라고.",
+    "context": "EN :\nI need help.\nJP :\nた、助けてくれよ"
+  },
+  {
+    "key": "26-teller",
+    "original": "토마",
+    "context": "EN :\nTomah\nJP :\nトーマ"
+  },
+  {
+    "key": "26-title",
+    "original": "기억 속 병사",
+    "context": "EN :\nReminisced Soldier\nJP :\n記憶の中の兵士"
+  },
+  {
+    "key": "26-content",
+    "original": "죽고 싶지 않아.",
+    "context": "EN :\nI don’t want to die—\nJP :\n死にたくない。"
+  },
+  {
+    "key": "27-content",
+    "original": "눈앞에서 터져버린 토마는 흔적조차 남지 않았다.",
+    "context": "EN :\nTomah was crushed to a pulp right before our eyes.\nJP :\n目の前で爆散したトーマは痕跡すら残らなかった。"
+  },
+  {
+    "key": "28-content",
+    "original": "이럴 때 할 수 있는 말은 하나다.",
+    "context": "EN :\nThere’s only one thing to say in a situation like this.\nJP :\nこんなときに言えることは一つだ。"
+  },
+  {
+    "key": "29-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "29-content",
+    "original": "<다, 달려!>",
+    "context": "EN :\n<R—Run!>\nJP :\n<は、走れ！>"
+  },
+  {
+    "key": "30-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "30-content",
+    "original": "전원! 후퇴!",
+    "context": "EN :\nAll troops! Retreat!\nJP :\n全員！退避！"
+  },
+  {
+    "key": "31-content",
+    "original": "죽을힘을 다해 모두가 달리고 있지만, 하늘에서부터 떨어지는 저 손바닥은 추적을 끝낼 기미를 보이질 않는다.",
+    "context": "EN :\nWe muster up everything we can to run, but the airborne hand is ever persistent and shows no signs of letting up.\nJP :\n死力を尽くして皆が走っているが、空から落ちてくるあの手のひらが\n追跡の手を緩める気配は見えてこない。"
+  },
+  {
+    "key": "32-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "32-content",
+    "original": "다 같이 곤죽행이 되겠어! 대책 없어? 똑똑한 양반?",
+    "context": "EN :\nWe’re all going to get turned into pancakes! Got any bright ideas, smart one?\nJP :\nこれじゃ皆ぺっちゃんこになっちまうよ！何かないか？賢いあねさん？"
+  },
+  {
+    "key": "33-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "33-content",
+    "original": "…듣는 중이에요. 심상 속은 변수가 너무 다양해서 섣불리 결정하기 힘들기 때문에…",
+    "context": "EN :\n…I’m listening. There are too many variables to consider in the fathoms of the ego, I can’t be hasty with my judgement…\nJP :\n…聞いてます。心象の中は変数がとても多様すぎて、\n迂闊に決定することは難しいので…。"
+  },
+  {
+    "key": "34-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "34-content",
+    "original": "고민할 것이 뭐가 있겠는가! 진정한 영웅은 어떠한 고난에도 굴복하지 않지!",
+    "context": "EN :\nThere is no cause for hesitation! A true hero succumbs to no hardships!\nJP :\n何を悩むことがあろうか！真の英雄はいかなる苦難にも屈服しないのだ！"
+  },
+  {
+    "key": "35-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "35-content",
+    "original": "어… 난 묵사발이 되어버린 시체는 옮길 맘이 없는데.",
+    "context": "EN :\nUhm… I don’t think I wanna recover a flattened body.\nJP :\nうっ…私、真っ平らになった死体を運ぶつもりはないんだけど。"
+  },
+  {
+    "key": "36-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "36-content",
+    "original": "아! 미안, 단테~ 당신보고 한 말은 아니야!",
+    "context": "EN :\nOh! Sorry, Dante~ Didn’t mean it that way!\nJP :\nあ！ごめん、ダンテ～。あなたに言ったわけじゃないからね！"
+  },
+  {
+    "key": "37-content",
+    "original": "로쟈의 말에 대꾸를 할까 생각하기도 했지만…",
+    "context": "EN :\nIt was tempting to say something back to her…\nJP :\nロージャに何かひとこと言ってやろうとも思ったが…。"
+  },
+  {
+    "key": "38-content",
+    "original": "다들 입을 닫고 뛰는 것에 열중하게 하는 것이 더 나아보였다.",
+    "context": "EN :\nBut I figured now was the time to keep my mouth shut so everyone could focus on running.\nJP :\n皆で口を閉じて、走ることに集中する方が良い気がした。"
+  },
+  {
+    "key": "39-content",
+    "original": "　",
+    "context": "EN :\n　\nJP :\n　"
+  },
+  {
+    "key": "40-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "40-content",
+    "original": "아직도 생각 중이신가? 엉?! 모르는 건 없다며!",
+    "context": "EN :\nStill thinking, are you? Eh?! Well, are you, Ms. “Knows It All”?!\nJP :\nまだ考え中でいらっしゃるのか？あ゛ぁん！？知らないものはないっつってたろ！"
+  },
+  {
+    "key": "41-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "41-content",
+    "original": "당장의 해결책을 물어본 거라면, 네. 아직 얻지 못했어요.",
+    "context": "EN :\nIf you’re asking for an immediate solution, then yes, I’ve yet to come up with one.\nJP :\n当面の解決策をお聞きになったのなら、はい。まだ得られていません。"
+  },
+  {
+    "key": "42-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "42-content",
+    "original": "확실한 건 이 근방에는 황금가지가 존재하지 않는다는 거예요. 그랬다면 단테 씨가 조금 더 적극적인 반응을 보였을 테니.",
+    "context": "EN :\nThe only thing I can say for certain is that our objective is not nearby. Dante would have responded strongly otherwise.\nJP :\n確かなのは、この近辺には黄金の枝が存在しないということです。\nそれならダンテさんがもう少し積極的な反応を見せたはずですから。"
+  },
+  {
+    "key": "43-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "43-content",
+    "original": "<내가?>",
+    "context": "EN :\n<Me?>\nJP :\n<私が？>"
+  },
+  {
+    "key": "44-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "44-content",
+    "original": "장난해? 지금까지 겨우 알아낸 게 그거야?",
+    "context": "EN :\nAre you joking? That’s all you’ve got?\nJP :\nふざけてんのか？今の今までで分かったのがたったのそれか？"
+  },
+  {
+    "key": "45-content",
+    "original": "히스클리프는 뭔가 더 쏘아붙이려는 듯 미간을 연신 꿈틀댔지만…",
+    "context": "EN :\nHeathcliff furrowed his brows, ready to snap at the unhelpful savant…\nJP :\nヒースクリフは何かもっと言いたそうに眉をしかめたが…。"
+  },
+  {
+    "key": "46-content",
+    "original": "직후, 자신의 옆을 간발의 차이로 스쳐 지나간 거대 손바닥을 보고서는 말 없이 속도만 올릴 뿐이었다.",
+    "context": "EN :\nBut a sudden close shave with the massive palm made him focus his energy on his legs rather than his mouth.\nJP :\nすぐ自分の横をタッチの差で掠めた巨大な手のひらを見て、\nただ黙って速度を上げた。"
+  },
+  {
+    "key": "48-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "48-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "48-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "48-content",
+    "original": "…그레고르 씨?",
+    "context": "EN :\n…Gregor?\nJP :\n…グレゴールさん？"
+  },
+  {
+    "key": "49-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "49-content",
+    "original": "뭐야? 왜 갑자기 멈춰?",
+    "context": "EN :\nWhoa, hey, what? Why the hold up?\nJP :\nなんだよ？なんで急に止まんだよ？"
+  },
+  {
+    "key": "50-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "50-content",
+    "original": "…알 것 같아.",
+    "context": "EN :\n…I think I see now.\nJP :\n…分かった気がする。"
+  },
+  {
+    "key": "51-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "51-content",
+    "original": "이곳이 내 세계라면…",
+    "context": "EN :\nIf this world is a product of my mind…\nJP :\nここが俺の世界なら…。"
+  },
+  {
+    "key": "52-content",
+    "original": "잠시 숨을 고르던 그레고르가 하늘을 올려다보았다.",
+    "context": "EN :\nGregor took a breather, then looked up at the sky.\nJP :\nしばし息を整えていたグレゴールが空を見上げた。"
+  },
+  {
+    "key": "53-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "53-content",
+    "original": "우리들은 저 손을 피하면 안 돼.",
+    "context": "EN :\nWe shouldn’t run away from that hand.\nJP :\n俺たちはあの手を避けちゃ駄目だ。"
+  },
+  {
+    "key": "54-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "54-content",
+    "original": "…기어이 맛탱이가 가버렸냐?",
+    "context": "EN :\n…Did you finally get the crackers or what?\nJP :\n…ついにおつむがイったのか？"
+  },
+  {
+    "key": "55-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "55-content",
+    "original": "그레고르, 확실한가요?",
+    "context": "EN :\nGregor, are you sure?\nJP :\nグレゴール、確かなんですか？"
+  },
+  {
+    "key": "56-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "56-content",
+    "original": "지금까지 뭐 하나 내 의지대로 살아본 적이 없었어.",
+    "context": "EN :\nMy own free will never played much of a role in my life.\nJP :\n今まで何一つ俺の意思で生きたことはなかった。"
+  },
+  {
+    "key": "57-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "57-content",
+    "original": "이곳 역시, 저항 자체가 무의미한 공간이라는 거겠지.",
+    "context": "EN :\nIt only makes sense that resisting is meaningless in this reflection of my mind.\nJP :\nここも、抵抗自体が無意味な空間なんだろうよ。"
+  },
+  {
+    "key": "58-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "58-content",
+    "original": "그렇다면… 저항을 그만두는 게 해답일지도 몰라.",
+    "context": "EN :\nIn that case… letting the inevitable happen might be the answer.\nJP :\nそれなら…抵抗を止めるのが答えかもしれない。"
+  },
+  {
+    "key": "59-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "59-content",
+    "original": "…진심이냐, 다들?",
+    "context": "EN :\n…Are you all serious?\nJP :\n…本気か、お前ら？"
+  },
+  {
+    "key": "60-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "60-content",
+    "original": "별다른 방법이 없잖아요. 다들 지쳤다고요.",
+    "context": "EN :\nIt’s not like there’s any other way. We’re all exhausted.\nJP :\n他に良さげな方法も無いじゃないですか。みんな疲れたんです。"
+  },
+  {
+    "key": "61-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "61-content",
+    "original": "그리고 말이지… 저 손톱… 말이야.",
+    "context": "EN :\nBesides… Look at that… paint on its nails.\nJP :\nそれにな…あの爪…なんだが。"
+  },
+  {
+    "key": "62-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "62-content",
+    "original": "저런 무늬의 매니큐어는 흔하지 않다고.",
+    "context": "EN :\nYou don’t see that kind of polish just anywhere.\nJP :\nあんな模様のマニキュアは良くあるもんじゃないよ。"
+  },
+  {
+    "key": "63-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "63-content",
+    "original": "손바닥의 주인이 '그 사람'이 맞다면, 절대 나를 포기하지 않을 거야.",
+    "context": "EN :\nIf that hand belongs to who I think it does, she will not stop chasing us.\nJP :\n手のひらの主が「あの人」なら、絶対に俺を諦めないだろう。"
+  },
+  {
+    "key": "64-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "64-content",
+    "original": "파우스트 씨… 당신, 이게 내 마음의 길이랬나.",
+    "context": "EN :\nFaust… You said this is a path in my heart, right?\nJP :\nファウストさん…あんた、これが俺の心の道とか言ってたか。"
+  },
+  {
+    "key": "65-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "65-content",
+    "original": "그렇다면, 확실할 거야.",
+    "context": "EN :\nThen I can tell you this for sure:\nJP :\nそれなら、確かだろう。"
+  },
+  {
+    "key": "66-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "66-content",
+    "original": "내 마음의 길은 이 이후로는 막다른 길일 예정이거든.",
+    "context": "EN :\nIt’s about to hit a dead end.\nJP :\n俺の心の道って、ここから先は行き止まりの予定だからな。"
+  },
+  {
+    "key": "67-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "67-content",
+    "original": "악몽도, 길도… 그 사람의 통제 밖으로 벗어나 본 적이 없었으니까.",
+    "context": "EN :\nBe it the nightmare or the road… I never once strayed from that woman’s control.\nJP :\n悪夢も、道も…その人の統制から逃れられたことはなかったから。"
+  },
+  {
+    "key": "68-content",
+    "original": "그 사람이 누구인지, 악몽이 무슨 소리인지.",
+    "context": "EN :\nWho is Gregor talking about, and what does he mean by a nightmare?\nJP :\nその人とは誰か、悪夢とはどういうことか。"
+  },
+  {
+    "key": "69-content",
+    "original": "그레고르에게 물어보고 싶었지만…",
+    "context": "EN :\nAs much as I wanted to ask him…\nJP :\nグレゴールに聞いてみたかったけど…。"
+  },
+  {
+    "key": "70-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "70-content",
+    "original": "하아, 될 대로 되라지.",
+    "context": "EN :\nSigh, might as well.\nJP :\nはぁ、なるようになれだ。"
+  },
+  {
+    "key": "71-content",
+    "original": "어느새 땅 위로 커다란 그림자가 드리우더니,",
+    "context": "EN :\nSoon enough, the giant hand cast its shadow over us, descending.\nJP :\nいつの間にか地面の上に巨大な影が差すと、"
+  },
+  {
+    "key": "72-content",
+    "original": "내려찍기 직전에 우리를 움켜쥐었다.",
+    "context": "EN :\nJust before it reached us, it stopped to hold us in its grasp.\nJP :\n振り下ろす直前に私たちを鷲掴みにした。"
+  },
+  {
+    "key": "73-content",
+    "original": "눈앞은 새카매졌고,",
+    "context": "EN :\nEverything went dark.\nJP :\n目の前は真っ暗になり、"
+  },
+  {
+    "key": "74-content",
+    "original": "공중으로 뜨는 것처럼 감각이 울렁거렸다.",
+    "context": "EN :\nI felt a disorienting nausea of being lifted into the sky.\nJP :\n空中に浮かぶが如く、感覚がゆらゆらとした。"
+  },
+  {
+    "key": "75-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "75-content",
+    "original": "우으윽…",
+    "context": "EN :\nMgrrh…\nJP :\nうぅぅっ…。"
+  },
+  {
+    "key": "76-content",
+    "original": "모두가 어지러워하는 동안, 나와 파우스트만이 땅 위에 꼿꼿이 서 있었다.",
+    "context": "EN :\nWhile everyone else was suffering from it, Faust and I were the only ones standing straight.\nJP :\n皆が目を回している間、私とファウストだけが地面の上に真っ直ぐ立っていた。"
+  },
+  {
+    "key": "77-content",
+    "original": "눈앞의 전장이 익숙한 곳으로 바뀌었다는 것이 느껴졌다.",
+    "context": "EN :\nI noticed that the battlefield had changed into somewhere familiar.\nJP :\n目の前の戦争が、馴染みのある場所に変わったということが感じられた。"
+  }
+]

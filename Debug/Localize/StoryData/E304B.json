@@ -1,0 +1,159 @@
+[
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<음…>",
+    "context": "EN :\n<Hm…>\nJP :\n<うーん…。>"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<아무나 이 음식에 대해서 설명해줄 수 있을까?>",
+    "context": "EN :\n<Can anyone tell me what this food is meant to be?>\nJP :\n<誰かこの食べ物について説明することってできる？>"
+  },
+  {
+    "key": "2-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "2-content",
+    "original": "단순하오!",
+    "context": "EN :\n‘Tis quite simple!\nJP :\n単純よ！"
+  },
+  {
+    "key": "3-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "3-content",
+    "original": "관리자 나리! 춰컬릿이라는 거 참 맛있지 않소? 그래서 넣었지.",
+    "context": "EN :\nManager Esquire! Is not chocolate such a delicacy? Thus, we put it in the cooking.\nJP :\n管理人殿！チョコリットっていうものがとても美味しくはあるまいか？だから入れたのである。"
+  },
+  {
+    "key": "4-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "4-content",
+    "original": "그리고 난 감자가 싫기 때문에 비슷해 보이는 어우륀쥐를 대신 넣었소.",
+    "context": "EN :\nNext, I utilized oranges as a substitute for potatoes, for I much dislike the tuber.\nJP :\nそして私はジャガイモが嫌いなので、見た目が似てるオウランジュを代わりにいれたのである。"
+  },
+  {
+    "key": "5-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "5-content",
+    "original": "뭐? 누구 마음대로 감자를 빼냐? 이거 어이없는 새끼네.",
+    "context": "EN :\nWhat? Who do you think you are to take spuds out like that? You’re a right baffling bird.\nJP :\nは？誰が勝手にジャガイモを抜いたって？呆れた野郎が。"
+  },
+  {
+    "key": "6-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-content",
+    "original": "<그리고 닭들이 왜 이렇게 처참하게 조각나 있어?>",
+    "context": "EN :\n<Okay, but why is the chicken so brutally torn to bits?>\nJP :\n<そして鶏たちがどうしてこんな惨たらしくバラバラになってるんだ？>"
+  },
+  {
+    "key": "7-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "7-content",
+    "original": "우리 동네에서는 손으로 닭을 죽죽 찢어 먹곤 하였지. 참 별미가 아닐 수 없소.",
+    "context": "EN :\nIt was customary in our town to rip chickens into bite-sized pieces using one’s hands. It was a treat to remember.\nJP :\n私の町では手で鶏を千切りて食いけり。げに珍味にあらぬことなし。"
+  },
+  {
+    "key": "8-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "8-content",
+    "original": "<이 까만 건 뭐지? 석탄이 왜 프라이팬에…>",
+    "context": "EN :\n<And what’s this black thing? Why’s a lump of coal in the pan…>\nJP :\n<この黒いのはなんだ？炭がなんでフライパンに…。>"
+  },
+  {
+    "key": "9-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "9-content",
+    "original": "이거 가만 보니까 입도 없는 놈이 트집만 잡네. 너 이거 먹어볼 줄이나 아냐?",
+    "context": "EN :\nComplaining an awful lot for a mouthless cuss. Do you even know how to eat this stuff?\nJP :\nってか、口もねぇやつがケチばっかつけてんな。 お前、これ食べられるのか？"
+  },
+  {
+    "key": "10-model",
+    "original": "뒤틀린주인카운트1",
+    "translation": "扭曲的老板的计数1",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing_Count1"
+  },
+  {
+    "key": "10-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "10-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "10-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "11-model",
+    "original": "뒤틀린주인카운트2",
+    "translation": "扭曲的老板的计数2",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing_Count2"
+  },
+  {
+    "key": "11-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "11-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "11-content",
+    "original": "그극!",
+    "context": "EN :\nGrhkk!\nJP :\nクグッ！"
+  },
+  {
+    "key": "12-content",
+    "original": "뒤틀린 사장의 짧고 굵은 지시에 일제히 닭들이 달려들었다.",
+    "context": "EN :\nThe chickens rushed at us under the Distorted restaurant owner’s short yet decisive order.\nJP :\nねじれた社長の短くも太い指示で、一斉に鶏たちが迫ってきた。"
+  }
+]

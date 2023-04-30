@@ -1,0 +1,171 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 입구",
+    "context": "EN :\nCasino Entrance\nJP :\nカジノ 入口"
+  },
+  {
+    "key": "0-model",
+    "original": "콩콩이파보스",
+    "translation": "豆豆帮老大",
+    "context": "EN :\n豆豆帮\nJP :\nCongBoss"
+  },
+  {
+    "key": "0-teller",
+    "original": "콩콩이파 보스",
+    "context": "EN :\nTingtang Boss\nJP :\nぽんぽん派 ボス"
+  },
+  {
+    "key": "0-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "0-content",
+    "original": "음? 무슨 일이냐?",
+    "context": "EN :\nHm? What’s up?\nJP :\nん？なんだ？"
+  },
+  {
+    "key": "1-model",
+    "original": "콩을싫어하는콩콩파조직원",
+    "translation": "讨厌豆子的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong2"
+  },
+  {
+    "key": "1-teller",
+    "original": "콩을 싫어하는 콩콩이파 조직원",
+    "context": "EN :\nBean-hating Tingtanger\nJP :\nポン菓子が嫌いなぽんぽん派の組織員"
+  },
+  {
+    "key": "1-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "1-content",
+    "original": "형님! 소속도 안 밝힌 놈들이 난데없이 들이닥치지 뭡니까!",
+    "context": "EN :\nBoss! Some fasole who haven’t even told where they’re from rolled into town all of a sudden!\nJP :\nアニキ！所属を明らかにしない奴らがいきなり押し寄せてきましたよ！"
+  },
+  {
+    "key": "2-model",
+    "original": "콩콩이파보스",
+    "translation": "豆豆帮老大",
+    "context": "EN :\n豆豆帮\nJP :\nCongBoss"
+  },
+  {
+    "key": "2-teller",
+    "original": "콩콩이파 보스",
+    "context": "EN :\nTingtang Boss\nJP :\nぽんぽん派 ボス"
+  },
+  {
+    "key": "2-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "2-content",
+    "original": "누가 보낸 거냐? 차림을 보니까 하바네로파나 정육점파 녀석들은 아니고…",
+    "context": "EN :\nWho sent ya? The way you’re dressed tells me it ain’t Los Habaneros or the Butchers…\nJP :\n誰が送った？服を見るにハバネロ派や精肉店派の奴らじゃぁないな…。"
+  },
+  {
+    "key": "3-model",
+    "original": "콩콩이파보스",
+    "translation": "豆豆帮老大",
+    "context": "EN :\n豆豆帮\nJP :\nCongBoss"
+  },
+  {
+    "key": "3-teller",
+    "original": "콩콩이파 보스",
+    "context": "EN :\nTingtang Boss\nJP :\nぽんぽん派 ボス"
+  },
+  {
+    "key": "3-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "3-content",
+    "original": "지금이라도 싹싹 빌고 물러가면 사지 멀쩡하게는 보내주마.",
+    "context": "EN :\nI’ll give you a chance to grovel fer forgiveness. Do that and I’ll let ya leave with your limbs in tow.\nJP :\n今からでも両手を擦り合わせながら詫びて帰るってなら、\n少なくとも五体満足で帰してやろう。"
+  },
+  {
+    "key": "4-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "4-content",
+    "original": "…그대가 입고 있는 옷을 순순하게 벗어주면 물러가겠소만.",
+    "context": "EN :\n…We should gladly part if you were to take off your clothing for us.\nJP :\n…彼方がたが着たる服を直々に脱がば帰らん。"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "그렇게 말하니까 좀 이상해지는데.",
+    "context": "EN :\nThat makes it sound kinda weird.\nJP :\nそう言うと変に聞こえるんだけど。"
+  },
+  {
+    "key": "6-model",
+    "original": "콩을싫어하는콩콩파조직원",
+    "translation": "讨厌豆子的豆豆帮成员",
+    "context": "EN :\n豆豆帮\nJP :\nCong2"
+  },
+  {
+    "key": "6-teller",
+    "original": "콩을 싫어하는 콩콩이파 조직원",
+    "context": "EN :\nBean-hating Tingtanger\nJP :\nポン菓子が嫌いなぽんぽん派の組織員"
+  },
+  {
+    "key": "6-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "6-content",
+    "original": "형님… 그 소문으로 떠돌던… 사람 체취로 이상한 걸 한다는… 그런 집단인 것 같습니다.",
+    "context": "EN :\nBoss… I think they might be the… odd pods people have been talking about… y’know, rumored to fadangle with people’s odors.\nJP :\nアニキ…例の噂の…人の体臭で変なことをするって…あの集団みたいです。"
+  },
+  {
+    "key": "7-model",
+    "original": "콩콩이파보스",
+    "translation": "豆豆帮老大",
+    "context": "EN :\n豆豆帮\nJP :\nCongBoss"
+  },
+  {
+    "key": "7-teller",
+    "original": "콩콩이파 보스",
+    "context": "EN :\nTingtang Boss\nJP :\nぽんぽん派 ボス"
+  },
+  {
+    "key": "7-title",
+    "original": "콩콩이파",
+    "context": "EN :\nTingtang Gang\nJP :\nぽんぽん派"
+  },
+  {
+    "key": "7-content",
+    "original": "으… 역겨운 새끼들… 인생 그렇게 살지 말아라…",
+    "context": "EN :\nGreh… Disgusting bunch… Lemme tell ya, that’s no way to live…\nJP :\nうぅ…汚ぇ奴らめ…人生をそんな風に生きるなよ…。"
+  },
+  {
+    "key": "8-content",
+    "original": "이제 큰 형님이라는 자는 우리를 진심으로 혐오스럽다는 듯 쳐다보고 있다.",
+    "context": "EN :\nNow, our assumed big boss of the gang is looking at us with genuine disgust.\nJP :\n今やアニキという人は、私たちを心の底から汚らわしい目つきで見つめている。"
+  },
+  {
+    "key": "9-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "9-content",
+    "original": "<…나 이렇게 진심으로 이기고 싶어진 적은 처음이야.>",
+    "context": "EN :\n<…I have not wanted to win a fight as desperately as I do now.>\nJP :\n<…私、本気でこんなに勝ちたくないのは初めてだよ。>"
+  }
+]

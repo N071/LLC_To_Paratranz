@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10302_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10302_1-dlg",
+    "original": "승객 여러분 안녕하시오!!! 내. 가. 도착하였네!!!",
+    "context": "EN :\nWelcome aboard, dearest passengers!!! I. Have. Arrived!!!\nJP :\n乗客の皆さまこんにちは！！！私、が、到着したぞ！！！"
+  },
+  {
+    "key": "lobby_morning_10302_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10302_1-dlg",
+    "original": "새벽을 여는 첫 기차처럼 오늘도 앞을 향해 달려 나가겠소!",
+    "context": "EN :\nLike the first train breaking the dawn, I shall rush forth with ever-constant vigor!\nJP :\n黎明を切り開く最初の汽車のように、今日も前に向かって走り抜けてしんぜよう！"
+  },
+  {
+    "key": "lobby_noon_10302_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10302_1-dlg",
+    "original": "점심도 챙겨주는 회사라니…! 나 여기가 참 좋소! 백날 천날 여기서 계속 있고 싶소!",
+    "context": "EN :\nTo think that the company provideth midday meals…! I am infatuated! I would remain employed here for eons if I could!\nJP :\n昼も用意してくれる会社とは…！私、ここを本当に好いておりまする！千年、いや万年ここにいたいでござる！"
+  },
+  {
+    "key": "lobby_night_10302_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10302_1-dlg",
+    "original": "나 오늘은 회의 때 필기 진짜 열심히 했소! 이것 보시오, 색깔별로 펜으로 다 예쁘게 꾸몄소! 별도 있고 꽃도 있고…",
+    "context": "EN :\nI have done mine utmost to take notes during today’s meeting! Behold, I have utilized a great variety of colors to illuminate the writing! With stars and flowers and…\nJP :\n今日は会議のとき、筆記を本当に頑張ったのであります！これを見よ、色を分けてペンで綺麗に書いたのでござる！星も、花もありまする、しかも…。"
+  },
+  {
+    "key": "smalltalk_10302_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10302_1-dlg",
+    "original": "관리자 나리는 W사 열차를 이용해 보신 적이 있소? 없다고 하셨소?! 잠깐… 잠깐 시간을 내주시오.",
+    "context": "EN :\nHave you ridden one of W Corp’s trains, Manager Esquire? Not once?! Hold it, I… Give me a moment.\nJP :\n管理人殿はW社列車を利用されたことありまするか？無いと！？ちょっと…ちょっと時間をくだされ。"
+  },
+  {
+    "key": "smalltalk_10302_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10302_2-dlg",
+    "original": "나중에 우리끼리 기차여행 가는 건 어떨 것 같소, 관리자 나리? 도시락은 내가 준비하겠네!",
+    "context": "EN :\nWhat do you think of going on a train trip together, Manager Esquire? I’ll pack our lunch!\nJP :\nあとで一緒に列車旅行行くのはどうでござるか、管理人殿？弁当は私が拵えてしんぜよう！"
+  },
+  {
+    "key": "smalltalk_10302_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10302_3-dlg",
+    "original": "혹시 로쟈씨 보지 못하셨소? 아니 글쎄, W사의 역사에 대해 내 친히 설파해주겠다고 약속했는데, 아까부터 보이지가 않소!",
+    "context": "EN :\nHave you seen Mistress Rodya anywhere? I promised her earlier that I would give her an extensive lecture on the history of W Corp, yet she’s nowhere to be found!\nJP :\nところでロージャさん見なかったでござるか？いやまぁ、W社の歴史について私自ら説破してしんぜようと約束したのに、さっきから見当たりませぬ！"
+  },
+  {
+    "key": "smalltalk_10302_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10302_4-dlg",
+    "original": "관리자 나리, 계속 코끝에 맴도는 이 비릿한 냄새는 나한테만 나는 것이오? 아니면 계속 공기 중에 퍼져있는 것이오?",
+    "context": "EN :\nManager Esquire, is it just me, or is this metallic odor tingling my nose prevalent in the air?\nJP :\n管理人殿。ずっと鼻先に漂うこの生臭い匂いは、私にだけ感じられるものにござりましょうか？それともずっと、空気中に漂っているものにござりましょうか？"
+  },
+  {
+    "key": "smalltalk_10302_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10302_5-dlg",
+    "original": "그거 아시오? 사람은 의외로 쉽게 죽지 않소. 피가 넘쳐흐를 만큼 흐르고 셀 수도 없이 뼈가 부러져도 숨을 쉬고 있소.",
+    "context": "EN :\nDid you know that human life is more resilient than it seems? One may still be breathing even after suffering profuse bleeding and breaking most of one’s bones.\nJP :\nご存じでしょうか？人間は意外と簡単に死にませぬ。血が溢れかえるくらい流れ、数えきれぬ程骨が折れても息をしておりまする。"
+  },
+  {
+    "key": "neglect_10302_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10302_1-dlg",
+    "original": "그렇게 해서 W사의 성과가 널리 알려지게 된 것… 응? 관리자 나리?",
+    "context": "EN :\n…and that is how the achievements of W Corp. came to be widely kno— Hm? Manager Esquire?\nJP :\nそうしてW社の成果が広く知られるようになったこ…あれ？管理人殿？"
+  },
+  {
+    "key": "gacksung_10302_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10302_1-dlg",
+    "original": "나도 드디어 중요한 일을 맡게 되는 것이오?!",
+    "context": "EN :\nWill I finally be given an important task?!\nJP :\n私もついに重要な役割を任されるのでありまするか！？"
+  },
+  {
+    "key": "formation_10302_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10302_1-dlg",
+    "original": "출발합니다!",
+    "context": "EN :\nHere we go!\nJP :\n出発進行！"
+  },
+  {
+    "key": "battleentry_10302_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10302_1-dlg",
+    "original": "기차와 같이 달려 나가겠소!",
+    "context": "EN :\nI shall rush ahead as would a train!\nJP :\n汽車のように走り抜けてしんぜよう！"
+  },
+  {
+    "key": "battle_select_10302_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10302_1-dlg",
+    "original": "나는 언제나 달려 나갈 준비가 되었소!",
+    "context": "EN :\nI’m always ready to speed forward!\nJP :\n私はいつであれ走り抜ける準備が出来ておるぞ！"
+  },
+  {
+    "key": "battle_endcommand_10302_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10302_1-dlg",
+    "original": "내 앞을 막을 자는 없소!",
+    "context": "EN :\nNone shall stop me!\nJP :\n私の前を遮る者はおらぬ！"
+  },
+  {
+    "key": "battle_enemy_break_10302_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10302_1-dlg",
+    "original": "지금이 기회인 것 같소!",
+    "context": "EN :\nNow seems to be our chance!\nJP :\n今がチャンスのようだ！"
+  },
+  {
+    "key": "battle_break_10302_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10302_1-dlg",
+    "original": "윽!",
+    "context": "EN :\nUrk!\nJP :\nうっ！"
+  },
+  {
+    "key": "battle_kill_10302_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10302_1-dlg",
+    "original": "다음은 어디오!",
+    "context": "EN :\nWhere to next?!\nJP :\n次はどこであるか！"
+  },
+  {
+    "key": "battle_allydead_10302_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10302_1-dlg",
+    "original": "관리자 나리! 끝나고 부탁하오!",
+    "context": "EN :\nManager Esquire! I’ll count on you once this is over!\nJP :\n管理人殿！終わってからよろしく頼む！"
+  },
+  {
+    "key": "choice_success_p_10302_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10302_1-dlg",
+    "original": "관리자 나리! 잘한 것 같지 않소?",
+    "context": "EN :\nManager Esquire! I did a rather impressive job, did I not?\nJP :\n管理人殿！上手くやれたとは思いませぬか？"
+  },
+  {
+    "key": "choice_fail_n_10302_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10302_1-dlg",
+    "original": "중요한 일이었는데, 미안하오…",
+    "context": "EN :\nI am terribly sorry, it was vital that I succeed…\nJP :\n大事なことだったのに、面目ございませぬ…。"
+  },
+  {
+    "key": "battle_clear_10302_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10302_1-dlg",
+    "original": "회사의 뛰어난 인재가 바로 여기 있군!",
+    "context": "EN :\nNow THERE is a valuable asset to the company!\nJP :\n会社の優れた人材がまさに、ここに、おりまする！"
+  },
+  {
+    "key": "battle_clear_ex_10302_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10302_1-dlg",
+    "original": "이게 바로 소위 말하는 엘리트?! 나 승진시켜주시오, 관리자 나리!",
+    "context": "EN :\nHave I become a so-called elite?! Promote me, Manager Esquire!\nJP :\nこれがいわゆるエリート！？私を昇進させてくだされ、管理人殿！"
+  },
+  {
+    "key": "battle_defeat_10302_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10302_1-dlg",
+    "original": "난… 포기하지 않을 것이오…",
+    "context": "EN :\nI… shan’t ever give up…\nJP :\n私は…諦めませぬ…。"
+  }
+]

@@ -1,0 +1,724 @@
+[
+  {
+    "key": "0-place",
+    "original": "교실",
+    "context": "EN :\nClassroom\nJP :\n教室"
+  },
+  {
+    "key": "0-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "0-content",
+    "original": "어느 날 옆 반에 ‘데미안’이라는 이름의 전학생이 왔다.",
+    "context": "EN :\nOne day, a new transfer student named Demian was placed in the class next to mine.\nJP :\nある日、隣のクラスに「デミアン」という名前の転校生が来た。"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "전학생 주위는 언제나 사람들로 둘러싸여 있었지만,",
+    "context": "EN :\nHe was surrounded by a crowd every time I saw him.\nJP :\n転校生はいつも人に囲まれていたが、"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "사실 그는 그 누구도 좋아하지 않는 것만 같다는 생각이 들었다.",
+    "context": "EN :\nBut I got the sensation that he didn’t feel attached to anyone around him.\nJP :\n実のところ彼は誰も好きではないような気がした。"
+  },
+  {
+    "key": "3-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "3-content",
+    "original": "내 눈에는 데미안이 그저 공기에 부유하듯 떠 있는 것 같아 보였다.",
+    "context": "EN :\nTo me, he seemed as if he were almost floating in the air; he was aloof like that.\nJP :\n僕の目にはデミアンがただ空中を漂うが如く、浮かんでいるように見えた。"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "마찬가지로, 그 또한 내게 별다른 관심이 없어 보였다.",
+    "context": "EN :\nLikewise, he didn’t seem too interested in me, either.\nJP :\n同様に、彼も僕に特段興味を持っていなさそうに見えた。"
+  },
+  {
+    "key": "5-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "5-content",
+    "original": "처음에는, 그랬다.",
+    "context": "EN :\nThat’s how it was at first, at least.\nJP :\n最初は、そうだった。"
+  },
+  {
+    "key": "6-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "6-content",
+    "original": "그날은 지루하기 짝이 없는 공학 수업 시간이었다.",
+    "context": "EN :\nIt happened during a boring engineering class.\nJP :\nその日は退屈極まりない工学の授業だった。"
+  },
+  {
+    "key": "7-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "7-content",
+    "original": "칠판에서 자꾸 시선이 어긋나, 결국 나의 눈은 어느새 창문 밖을 향하고 있었다.",
+    "context": "EN :\nMy eyes kept drifting away from the board, and before I knew it, they were looking out the window instead.\nJP :\n黒板から視線が逸れてしまい、結局僕の目はいつのまにか窓の外を向いていた。"
+  },
+  {
+    "key": "8-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "8-content",
+    "original": "그 창문 너머에는 산책을 즐기고 있는 그가 보였다.",
+    "context": "EN :\nThrough that window, I saw him taking a walk.\nJP :\n窓越しに、散歩を楽しんでいる彼が見えた。"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-content",
+    "original": "그는 언제나 그랬던 것처럼 친구들에게 둘러싸이면서 옅은 웃음을 짓고 있었는데,",
+    "context": "EN :\nLike usual, he was surrounded by his fellow students, wearing a faint smile.\nJP :\n彼はいつものように友達に囲まれながら薄笑いを浮かべていたが、"
+  },
+  {
+    "key": "10-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "10-content",
+    "original": "그 웃음마저도 또래들과는 다른, 성숙하면서도 외로워 보이는 낯선 웃음이었다.",
+    "context": "EN :\nEven his expression felt different from the kind someone his age should make; that smile carried a mature yet solitary aura.\nJP :\nその笑いさえも同年代の子とは違う、\n成熟しながらも寂しく見える見慣れない笑いだった。"
+  },
+  {
+    "key": "11-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11-content",
+    "original": "그러다가 그가, 햇빛을 받으며 조용히 머리를 넘겼다.",
+    "context": "EN :\nBasking in the sunlight, he stroked his hair.\nJP :\nすると彼は、太陽の光を浴びながら静かに髪を掻き上げた。"
+  },
+  {
+    "key": "12-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "12-content",
+    "original": "어?",
+    "context": "EN :\nHuh?\nJP :\nあれ？"
+  },
+  {
+    "key": "13-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "13-content",
+    "original": "순간 그의 이마에 무언가 신비롭고 붉은 것이 반짝이는 것 같았다.",
+    "context": "EN :\nI thought I caught a glimpse of some weird red thing on his forehead.\nJP :\n一瞬、彼の額に何か不思議で赤いものが輝いているように見えた。"
+  },
+  {
+    "key": "14-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "14-content",
+    "original": "잘못 보았던 걸까? 순간적으로 햇빛이 너무 강렬하게 비췄던 탓인지도 몰랐다.",
+    "context": "EN :\nWas I mistaken? Maybe it was the blinding sunlight reflecting off his skin.\nJP :\n見間違いかな？ 一瞬だけ日差しに強く照らされたせいかもしれない。"
+  },
+  {
+    "key": "15-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "15-content",
+    "original": "그러다가.",
+    "context": "EN :\nAnd then…\nJP :\nすると。"
+  },
+  {
+    "key": "16-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "16-content",
+    "original": "그와 눈이 마주친 것만 같다는 기분이 들었다.",
+    "context": "EN :\nI had the feeling I made eye contact with him.\nJP :\n彼と目が合ったような気がした。"
+  },
+  {
+    "key": "17-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "17-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "17-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "17-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "18-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "18-content",
+    "original": "여전히 창밖에서 아이들의 대화 소리가 들려왔고,",
+    "context": "EN :\nSome students were still chatting outside.\nJP :\n未だに窓の外からは子供たちの会話が聞こえ、"
+  },
+  {
+    "key": "19-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "19-content",
+    "original": "나는 그의 시선을 느끼자마자 황급히 책상 아래로 눈을 내리깔았다.",
+    "context": "EN :\nAs soon as I felt his gaze, I quickly averted my eyes and looked down at my desk.\nJP :\n僕は彼の視線を感じるや否や慌てて机の下へ目を伏せた。、"
+  },
+  {
+    "key": "20-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "20-content",
+    "original": "그 기묘한 사건 이후로, 데미안은 곧잘 친근하게 내게 말을 걸어오기 시작했다.",
+    "context": "EN :\nEver since that strange incident, Demian started to talk to me in a friendly manner.\nJP :\nその奇妙な事件以降、デミアンはしばしば親しげに僕へ話し掛けてくるようになった。"
+  },
+  {
+    "key": "21-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "21-content",
+    "original": "신기하게도 데미안이 내게 오는 날이면, 크로머는 아는 척을 해 오지 않았다.",
+    "context": "EN :\nOddly enough, on the days when Demian approached me, Kromer didn’t come to greet me.\nJP :\n不思議なことにデミアンが僕に来る日、\nクローマーは仲が良いような素振りをしてこなかった。"
+  },
+  {
+    "key": "22-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "22-content",
+    "original": "다만 기회가 있을 때마다 내게 다가와서 약속에 대해 잊지 않았는지 재차 확인을 하곤 했다.",
+    "context": "EN :\nNevertheless, whenever she had a chance to, she’d come and make sure that I remembered our promise.\nJP :\nただ機会があるたびに、\n僕に近寄って約束を忘れてないか何度も確認してきたりもした。"
+  },
+  {
+    "key": "23-place",
+    "original": "교실",
+    "context": "EN :\nClassroom\nJP :\n教室"
+  },
+  {
+    "key": "23-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "23-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "23-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "23-content",
+    "original": "난 종종 꿈을 꿔, 싱클레어.",
+    "context": "EN :\nI often have this dream, Sinclair.\nJP :\n僕は時々夢を見るんだ、シンクレア。"
+  },
+  {
+    "key": "24-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "24-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "24-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "24-content",
+    "original": "그 꿈속에서 나는 아주 기다란 사다리를 타고 올라가지. 그러면 땅 전체가 한눈에 들어와. 둥지와 뒷골목, 외곽까지 전부 다.",
+    "context": "EN :\nIn it, I climb an endlessly long ladder. Then everything down below comes into view. The Nest, the Backstreets, the Outskirts, all of it.\nJP :\n夢の中で僕はとても長いはしごを登るんだ。\nすると地面全体が見えるのさ。巣と裏路地、外郭まで全部。"
+  },
+  {
+    "key": "25-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "25-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "25-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "25-content",
+    "original": "그런 다음에 내려다보면, 이번엔 온 도시의 불이 꺼져 있어. 모든 것의 종말이 다가온 듯 말이야.",
+    "context": "EN :\nAnd when I look beneath my feet, all the lights are out in the City, as if the end of all things had come.\nJP :\nそうして見下ろすと、今度は都市中の電気が消えているんだ。\n万物の終末が迫ってきたかのように。"
+  },
+  {
+    "key": "26-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "26-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "26-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "26-content",
+    "original": "어떤 움직임도 보이지 않는 고요한 죽음.",
+    "context": "EN :\nFallen into silent death, empty of any motion.\nJP :\nいかなる動きも見えない、静かな死。"
+  },
+  {
+    "key": "27-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "27-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "27-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "27-content",
+    "original": "맞아, 그건 죽음 그 자체인 거야.",
+    "context": "EN :\nIndeed, it’s the state of death itself.\nJP :\nああ、それは死そのものなんだ。"
+  },
+  {
+    "key": "28-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "28-content",
+    "original": "데미안, 넌 외곽에 가 본 적이 있는 거야?",
+    "context": "EN :\nDemian, have you been to the Outskirts?\nJP :\nデミアン、君は外郭に行ったことがあるの？"
+  },
+  {
+    "key": "29-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "29-content",
+    "original": "나는 두려움에 속삭여 물었다.",
+    "context": "EN :\nI whispered to him, frightened.\nJP :\n僕は怖くて囁くように尋ねた。"
+  },
+  {
+    "key": "30-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "30-content",
+    "original": "외곽은 누구도 가선 안 되는 곳이고 갈 수도 없는 장소였으니까.",
+    "context": "EN :\nHe was talking about a forbidden place where no one could or should go.\nJP :\n外郭は誰も行っては行けない場所であり、行くこともできない場所だったから。"
+  },
+  {
+    "key": "31-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "31-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "31-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "31-content",
+    "original": "싱클레어, 세상은 사람들이 정한 것처럼 가야 할 곳과 가지 말아야 할 곳으로 나눠지는 것이 아니야.",
+    "context": "EN :\nSinclair, the world as people want to define it can’t be divided into places of where you should and shouldn’t go.\nJP :\nシンクレア。世界は人々が決めたように、行くべきところと行くべきではないところに\n分かれているわけじゃあないんだよ。 "
+  },
+  {
+    "key": "32-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "32-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "32-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "32-content",
+    "original": "너는 이 둥지에 자유와 사랑이 존재한다고 생각하니? 외곽은 오히려 이곳보다 풍요로워.",
+    "context": "EN :\nDo you think love and freedom can be found within the confines of this Nest? Compared to here, life is much richer in the Outskirts.\nJP :\n君はこの巣に自由と愛が存在すると思うかい？\n外郭はむしろここより豊かなのさ。"
+  },
+  {
+    "key": "33-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "33-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "33-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "33-content",
+    "original": "나는 오래전부터 생각해 오던 것이 있었고, 어쩌면 외곽에서 그 답을 찾을 수 있을지 모른다고 생각했거든.",
+    "context": "EN :\nThere’s something I’ve been pondering for a long time, and I thought that maybe that’s where I could find the answer.\nJP :\n僕はずっと前から考えていたことがあって、もしかしたら外郭でその答えを\n見つけられるかもしれないと思ったんだ。"
+  },
+  {
+    "key": "34-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "34-content",
+    "original": "데미안과 이야기할 때면 나는 내 영혼이 조금 더 성숙해지는 것이 느껴졌다.",
+    "context": "EN :\nWhenever I spoke with Demian, I could feel my soul mature a little.\nJP :\nデミアンと話すと、僕は自分の魂が少し成熟するのが感じられた。"
+  },
+  {
+    "key": "35-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "35-content",
+    "original": "하지만 의체 시술에 대한 나의 두려움이라던가, 크로머와의 기묘한 관계라던가 하는 건 대화의 소재로 삼지 않았다.",
+    "context": "EN :\nBut I never mentioned my fears about the upcoming prosthetic procedure or my peculiar relationship with Kromer.\nJP :\nしかし義体施術に対する僕の恐怖だとか、\nクローマーとの奇妙な関係とかは話題にしなかった。"
+  },
+  {
+    "key": "36-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "36-content",
+    "original": "그는 나에게 이것저것을 궁금해하긴 했지만, 나는 부러 말하지 않았다.",
+    "context": "EN :\nEven though he wanted to know more about me, I was hesitant to share my secrets.\nJP :\n彼は僕に対して色々と気になることがあるようだったが、僕はあえて言わなかった。"
+  },
+  {
+    "key": "37-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "37-content",
+    "original": "내 안의 은밀한 두려움까지 끄집어내기에는 부끄러웠던 것이다.",
+    "context": "EN :\nI was too ashamed to bear my deeply hidden fears before him.\nJP :\n僕の中の密かな恐怖を曝け出すのは、恥ずかしかったのだ。"
+  },
+  {
+    "key": "38-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "38-content",
+    "original": "그리고 마침내.",
+    "context": "EN :\nAnd finally…\nJP :\nそして遂に。"
+  },
+  {
+    "key": "39-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "39-content",
+    "original": "크로머와의 약속의 날이 다가왔다.",
+    "context": "EN :\nThe promised day had come.\nJP :\nクローマーとの約束の日がやってきた。"
+  },
+  {
+    "key": "40-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "40-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "40-title",
+    "original": "학급생",
+    "context": "EN :\nStudent\nJP :\n学級生"
+  },
+  {
+    "key": "40-content",
+    "original": "싱클레어, 너희 집에 있는 지하실 말이야, 구경시켜줄 수 있어?",
+    "context": "EN :\nYo, Sinclair, can you show me your basement?\nJP :\nシンクレア。君の家のある地下室なんだけど、案内してくれる？"
+  },
+  {
+    "key": "41-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "41-content",
+    "original": "그녀의 말은 너무나도 갑작스레, 그리고도 깃털만치 가볍게 들려와서.",
+    "context": "EN :\nHer words struck me out of nowhere, yet they were as light as a feather.\nJP :\n彼女の言葉はあまりにも突然に、そして羽のように軽やかに聞こえてきて。"
+  },
+  {
+    "key": "42-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "42-content",
+    "original": "떨어진 지우개를 주워달라고 하는 것만큼 당연한 부탁을 하는 것만 같아,나도 모르게 긍정하려는 것을 간신히 막아야만 했다.",
+    "context": "EN :\nShe asked me that as though it were something as simple as picking up an eraser, and I almost caught myself agreeing to it.\nJP :\n落ちた消しゴムを拾ってくれという程度の当然のお願いをするようで、\n思わず肯定してしまうことをなんとかして止めなければならなかった。"
+  },
+  {
+    "key": "43-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "43-content",
+    "original": "우, 우리 집 지하실은 왜?",
+    "context": "EN :\nW-Why our basement, exactly?\nJP :\nぼ、僕の家の地下室にどうして？"
+  },
+  {
+    "key": "44-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "44-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "44-title",
+    "original": "학급생",
+    "context": "EN :\nStudent\nJP :\n学級生"
+  },
+  {
+    "key": "44-content",
+    "original": "내가 우연히 들은 이야기가 맞다면, 그곳은 엄청난 곳과 연결되어 있거든. 꼭 확인해봐야 할 게 있어.",
+    "context": "EN :\nIf the rumor I just so happened to hear is right, your house is connected to a scandalous place. There’s something I’ve got to check.\nJP :\n私が偶然聞いた話が正しいなら、そこは凄いところと繋がってるから。\n絶対に確認しないといけないものがあるの。"
+  },
+  {
+    "key": "45-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "45-content",
+    "original": "하지만 부모님이…",
+    "context": "EN :\nBut my parents…\nJP :\nでも両親が…。"
+  },
+  {
+    "key": "46-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "46-content",
+    "original": "좋아하지 않으실 텐데… 그런 말들은 나조차 말해 놓고 부끄러워지기에 차마 입 밖으론 꺼내지 못했다.",
+    "context": "EN :\n“…won’t like it.”\nI couldn’t even bring myself to finish this humiliating sentence.\nJP :\n良い顔しないと思うんだけど…そんな言葉は僕ですら言うには恥ずかしくて\nどうしても口に出せなかった。"
+  },
+  {
+    "key": "47-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "47-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "47-title",
+    "original": "학급생",
+    "context": "EN :\nStudent\nJP :\n学級生"
+  },
+  {
+    "key": "47-content",
+    "original": "내가 확인만 제대로 할 수 있다면, 싱클레어.",
+    "context": "EN :\nIf you let me check it out, Sinclair…\nJP :\n私がちゃんと確認さえできるならね、シンクレア。"
+  },
+  {
+    "key": "48-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "48-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "48-title",
+    "original": "학급생",
+    "context": "EN :\nStudent\nJP :\n学級生"
+  },
+  {
+    "key": "48-content",
+    "original": "저번에 했던 약속, 확실하게 지킬 수 있다고 보증할게.",
+    "context": "EN :\nI swear I’ll keep that promise with you, cross my heart.\nJP :\nこの前にした約束、確かに守れるって保証するよ。"
+  },
+  {
+    "key": "49-model",
+    "original": "학생크로머",
+    "translation": "学生克罗默",
+    "context": "EN :\n学生\nJP :\nOldCromer"
+  },
+  {
+    "key": "49-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "49-title",
+    "original": "학급생",
+    "context": "EN :\nStudent\nJP :\n学級生"
+  },
+  {
+    "key": "49-content",
+    "original": "지하실 열쇠를 몰래 가져와 주면, 길 안내는 내가 할 수 있으니까…",
+    "context": "EN :\nJust sneak me the basement key and I can navigate just fine…\nJP :\n地下室の鍵をこっそり持ってきてくれたら、道案内は私ができるから…。"
+  },
+  {
+    "key": "50-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "50-content",
+    "original": "그녀의 말에 숨어 있는 기시감을 끝끝내 찾아내지 못한 나는, 천천히 고개를 끄덕였고…",
+    "context": "EN :\nUnable to detect the faint, familiar feeling hidden in her words, I slowly nodded…\nJP :\n彼女の言葉に隠れている既視感に気づけなかった僕は、遂にゆっくり頷き…。"
+  },
+  {
+    "key": "51-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "51-content",
+    "original": "그렇게, 악의 세계가 우리 집 한 가운데에서 시작되었다.",
+    "context": "EN :\nThus, the world of evil began there, right in the middle of our house.\nJP :\nそうして、悪の世界が僕の家のど真ん中から始まった。"
+  }
+]

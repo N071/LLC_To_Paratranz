@@ -1,0 +1,239 @@
+[
+  {
+    "key": "0-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "0-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "0-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "0-content",
+    "original": "결국 크로머한테 열쇠를 넘겼었구나.",
+    "context": "EN :\nSo you ended up giving Kromer the key.\nJP :\n結局クローマーに鍵を渡したんだね。"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "어떻게 알았어?",
+    "context": "EN :\nHow do you know that?\nJP :\nどうして知ってるの？"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "데미안은 말을 하지 않은 것까지도 모두 알아채는 능력이 있었다.",
+    "context": "EN :\nDemian had this ability to get a grip on things I’d never mentioned to him.\nJP :\nデミアンには言葉にしなかったことまで全て分かってしまう力があった。"
+  },
+  {
+    "key": "3-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "3-content",
+    "original": "언젠가 그에 관해 물어보았더니 ‘사람을 자세히 관찰해보면 알게 될 일’이라고만 말했을 뿐, 더 이상 자세히는 말해주지 않았다.",
+    "context": "EN :\nWhen I asked him about it, he just said it's “something you learn by carefully observing others”, and didn’t elaborate further.\nJP :\nいつか彼について聞いてみたら「人間を詳しく観察すれば分かること」としか\n言わず、それ以上詳しくは言ってくれなかった。"
+  },
+  {
+    "key": "4-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "4-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "4-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "4-content",
+    "original": "싱클레어, 앞으로 더욱 힘들고 괴로운 일들이 널 연달아서 덮쳐올지도 몰라.",
+    "context": "EN :\nSinclair, a series of much more painful events may await you in the future.\nJP :\nシンクレア、これから今よりずっと苦しくてつらい出来事が\n君を何度も襲うかもしれない。"
+  },
+  {
+    "key": "5-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "5-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "5-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "5-content",
+    "original": "하지만 포기해선 안 돼.",
+    "context": "EN :\nBut you mustn’t give up.\nJP :\nでも諦めてはいけないよ。"
+  },
+  {
+    "key": "6-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "6-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "6-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "6-content",
+    "original": "그 고통이 너를 더욱 아름답게 성장시켜줄 거니까.",
+    "context": "EN :\nThat pain will foster your growth into a beautiful being.\nJP :\nその苦痛が君をより美しく成長させてくれるから。"
+  },
+  {
+    "key": "7-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "7-content",
+    "original": "제아무리 어려운 말도 데미안의 입을 거치면 모두 그럴듯해지고 마는, 그에게는 그런 신비한 힘이 있었다.",
+    "context": "EN :\nNo matter how complicated and perplexing those statements seemed, Demian’s mystic charm made them all sound convincing.\nJP :\nどんなに難しい言葉もデミアンの口を通せば全てそれらしく\nなってしまう、彼にはそんな不思議な力があった。"
+  },
+  {
+    "key": "8-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "8-content",
+    "original": "그의 말을 들으면 나는 꼭 성장할 수 있을 것 같았다. 그럴 가치가 있는 존재가 될 수 있을 것 같았다.",
+    "context": "EN :\nListening to his speech gave me the hope that I could really grow. I was hopeful that I could become a worthy being.\nJP :\n彼の言葉を聞くと僕は必ず成長できる気がした。\nそうする価値がある存在になれるような気がした。"
+  },
+  {
+    "key": "9-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "9-content",
+    "original": "응…하지만 잘은 이해가 안 돼, 데미안.",
+    "context": "EN :\nYeah… But I don’t really get it though, Demian.\nJP :\nうん…でも良く分からないんだ、デミアン。"
+  },
+  {
+    "key": "10-model",
+    "original": "학생데미안",
+    "translation": "学生德米安",
+    "context": "EN :\nleft\nJP :\nDemian_School"
+  },
+  {
+    "key": "10-teller",
+    "original": "데미안",
+    "context": "EN :\nDemian\nJP :\nデミアン"
+  },
+  {
+    "key": "10-title",
+    "original": "신비로운 전학생",
+    "context": "EN :\nMysterious Transfer Student\nJP :\n不思議な転校生"
+  },
+  {
+    "key": "10-content",
+    "original": "네가 알아내. 그런 다음에 나에게 답을 말해줘.",
+    "context": "EN :\nIt’s up to you to find out. Make sure to tell me your answer when you do.\nJP :\n自分で悟るんだ。そうしてから僕に答えを言ってくれ。"
+  },
+  {
+    "key": "11-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11-content",
+    "original": "말투는 부드러웠고 눈은 웃고 있었음에도 어째서인지 그래야만 할 것 같다는 생각이 들었다.",
+    "context": "EN :\nHis voice was soft, and his eyes imparted pleasantness, but I still felt compelled to do as he said.\nJP :\n話し方は柔らかく目は笑っていたのに、なぜかそうしなければならないという\n気がした。"
+  },
+  {
+    "key": "12-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "12-content",
+    "original": "그 눈동자에는 분명 특별한 힘이 있는 게 분명했다.",
+    "context": "EN :\nHis eyes must have held some kind of power.\nJP :\nその瞳にはきっと特別な力があるに違いない。"
+  },
+  {
+    "key": "13-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "13-content",
+    "original": "눈만 마주치면 힘이 풀리고 무력해지는 특별한 힘.",
+    "context": "EN :\nDisarming those who make eye contact with him, sapping them of mental strength.\nJP :\n目が合えば力が抜けて無力になる特別な力。"
+  },
+  {
+    "key": "15-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "15-content",
+    "original": "하지만…",
+    "context": "EN :\nBut…\nJP :\nでも…。"
+  },
+  {
+    "key": "16-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "16-content",
+    "original": "그렇다면 왜 일말의 언급조차 해주지 않았는지.",
+    "context": "EN :\nIf that’s the case, why didn’t he warn me?\nJP :\nそれなら、どうして少しの言及すらしてくれなかったのか。"
+  },
+  {
+    "key": "17-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "17-content",
+    "original": "나는 지금까지도 궁금해지곤 한다.",
+    "context": "EN :\nIt’s something I still ask myself to this day.\nJP :\n僕は今でも気になったりする。"
+  }
+]

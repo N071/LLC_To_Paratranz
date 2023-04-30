@@ -1,0 +1,212 @@
+[
+  {
+    "key": "get_10401_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10401_1-dlg",
+    "original": "료슈. 요료슈쿠... 푸훗.",
+    "context": "EN :\nIt’s Ryōshū. Shūre’s nice to meet ya. …Pft.\nJP :\n良秀。よりょしゅく…ぷっ。"
+  },
+  {
+    "key": "lobby_morning_10401_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10401_1-dlg",
+    "original": "왜 아침부터 어슬렁거리지? 건전지라도 찾고 있나?",
+    "context": "EN :\nWhat are you meandering about for so early? Looking for batteries?\nJP :\nどうして朝からうろついてるんだ？乾電池でも探してるのか？"
+  },
+  {
+    "key": "lobby_noon_10401_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10401_1-dlg",
+    "original": "그래, 나른할 땐 식후 흡연만한게 없지.",
+    "context": "EN :\nYep, nothing like a cig after lunch to drive off the dullness.\nJP :\nあぁ、怠いときは食後の喫煙ほど良いものはない。"
+  },
+  {
+    "key": "lobby_night_10401_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10401_1-dlg",
+    "original": "이 곳 인간들은 따분해. 진짜 작품들을 본다면 눈이 트일텐데 말이야.",
+    "context": "EN :\nThe audience here is dull. A real work of art should open their eyes.\nJP :\nここの人間はつまらん。本当の作品を見れば開眼するだろうに。"
+  },
+  {
+    "key": "smalltalk_10401_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10401_1-dlg",
+    "original": "그럴듯한 예술을 본 지도 오래되었군. 요샌 어디서 본 것들만 잔뜩 찍어내기만 하고. 흥.",
+    "context": "EN :\nIt’s been a while since I saw art worth appraising. All I see these days are cheap imitations. Hmph.\nJP :\nそれっぽい芸術を見てからだいぶ経ったな。近頃はどこかで見たことあるようなものばっかり大量生産しやがって。ふん。"
+  },
+  {
+    "key": "smalltalk_10401_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10401_2-dlg",
+    "original": "나랑 어울리고 싶으면, 라이터는 챙기고 다녀. 시계.",
+    "context": "EN :\nIf you wanna hang out with me, the least you can do is carry a lighter around, clock.\nJP :\n俺とつるみたいなら、ライターは持って回れ。時計。"
+  },
+  {
+    "key": "smalltalk_10401_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10401_3-dlg",
+    "original": "지금 몇 시인지나 말해줄 거 아니면 귀찮게 말 걸지마.",
+    "context": "EN :\nDon’t bother me if you aren’t trying to tell me what time it is.\nJP :\n今が何時か言ってくれるんじゃないなら話し掛けるな、面倒だ。"
+  },
+  {
+    "key": "neglect_10401_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10401_1-dlg",
+    "original": "먼저 말 걸고 사라지는 건… 어디 골목 풍습이지?",
+    "context": "EN :\nYou talk to me first and then walk away… Where’d you learn that custom?\nJP :\n先に話し掛けて消えるのは…どの路地の風習だ？"
+  },
+  {
+    "key": "formation_10401_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10401_1-dlg",
+    "original": "예술을 보여주지.",
+    "context": "EN :\nLemme show ‘em what art is.\nJP :\n芸術を見せてやろう。"
+  },
+  {
+    "key": "battleentry_10401_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10401_1-dlg",
+    "original": "그럴듯한 예술이라면, 더 좋을텐데 말이야",
+    "context": "EN :\nI hope I’ll get to see some real art.\nJP :\nそれっぽい芸術なら、もっと良いだろうに。"
+  },
+  {
+    "key": "battle_select_10401_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10401_1-dlg",
+    "original": "라이터는 챙겨온거야?",
+    "context": "EN :\nBrought a light?\nJP :\nライターは持ってきたか？"
+  },
+  {
+    "key": "battle_endcommand_10401_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10401_1-dlg",
+    "original": "예술이 뭔지 보여주지.",
+    "context": "EN :\nI’ll show you proper art.\nJP :\n芸術が何か見せてやろう。"
+  },
+  {
+    "key": "battle_enemy_break_10401_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10401_1-dlg",
+    "original": "기다려. 아직 안 끝났어.",
+    "context": "EN :\nEasy. It’s not done yet.\nJP :\n待て。まだ終わってない。"
+  },
+  {
+    "key": "battle_break_10401_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10401_1-dlg",
+    "original": "쳇!",
+    "context": "EN :\nTch!\nJP :\nチッ！"
+  },
+  {
+    "key": "battle_kill_10401_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10401_1-dlg",
+    "original": "아름답진 않네.",
+    "context": "EN :\nCould’ve been more beautiful.\nJP :\n美しくはないな。"
+  },
+  {
+    "key": "battle_allydead_10401_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10401_1-dlg",
+    "original": "보기 좋지 않군.",
+    "context": "EN :\nNot what I like to see.\nJP :\n見てくれが悪いな。"
+  },
+  {
+    "key": "choice_success_p_10401_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10401_2-dlg",
+    "original": "아름다운 작품을 하나 만들었지.",
+    "context": "EN :\nGot a fine piece of work out of it.\nJP :\n美しい作品を一つ創り出した。"
+  },
+  {
+    "key": "choice_fail_n_10401_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10401_1-dlg",
+    "original": "하라는 대로 한거야.",
+    "context": "EN :\nI did as I was told.\nJP :\n言う通りにやったよ。"
+  },
+  {
+    "key": "battle_clear_10401_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10401_1-dlg",
+    "original": "시시했지. 흥조차 나지 않더군.",
+    "context": "EN :\nDidn’t even break a sweat. It’ll take more than this to excite me.\nJP :\nつまらん。興すら乗らなかったな。"
+  },
+  {
+    "key": "battle_clear_ex_10401_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10401_1-dlg",
+    "original": "고작 이 정도로 들떠 한다면, 예술가의 자격은 없는 거지.",
+    "context": "EN :\nYou’re not a true artist if this is enough to rouse you.\nJP :\nたかがこの程度で浮かれてちゃ、芸術家の資格はないってことだ。"
+  },
+  {
+    "key": "battle_defeat_10401_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10401_1-dlg",
+    "original": "예.실.인.길. 예술은 실패했지만 인생은 길다.",
+    "context": "EN :\nAFTERWARD.\nArtistic failure trounces excitement resoundingly, while all roads drag on.\nJP :\n芸・失・人・長。芸術は失敗したが人生は長い。"
+  }
+]

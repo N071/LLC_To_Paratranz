@@ -1,0 +1,97 @@
+[
+  {
+    "key": "dungeon_1_1_0101-content",
+    "original": "지휘팀 담당 격리 지역",
+    "context": "EN :\nControl Team Containment\nJP :\n指揮チーム担当隔離地域"
+  },
+  {
+    "key": "dungeon_1_1_0102-content",
+    "original": "지휘팀 로비",
+    "context": "EN :\nControl Team Lobby\nJP :\n指揮チームロビー"
+  },
+  {
+    "key": "dungeon_1_1_0103-content",
+    "original": "제 1 격리 복도",
+    "context": "EN :\nContainment Hall 1\nJP :\n第1隔離廊下"
+  },
+  {
+    "key": "dungeon_1_1_0104-content",
+    "original": "제 2 격리 복도",
+    "context": "EN :\nContainment Hall 2\nJP :\n第2隔離廊下"
+  },
+  {
+    "key": "dungeon_1_1_0105-content",
+    "original": "제 3 격리 복도",
+    "context": "EN :\nContainment Hall 3\nJP :\n第3隔離廊下"
+  },
+  {
+    "key": "dungeon_1_1_0106-content",
+    "original": "직원 휴게실",
+    "context": "EN :\nEmployee Lounge\nJP :\n職員休憩室"
+  },
+  {
+    "key": "dungeon_1_1_0107-content",
+    "original": "정보팀\n연결통로",
+    "context": "EN :\nInfo. Team Passage\nJP :\n情報チーム連絡通路"
+  },
+  {
+    "key": "dungeon_1_1_0201-content",
+    "original": "정보팀\n로비",
+    "context": "EN :\nInfo. Team Lobby\nJP :\n情報チームロビー"
+  },
+  {
+    "key": "dungeon_1_1_0202-content",
+    "original": "직원 대기실",
+    "context": "EN :\nEmployee Waiting Room\nJP :\n職員待機室"
+  },
+  {
+    "key": "dungeon_1_1_0203-content",
+    "original": "제 4 격리복도",
+    "context": "EN :\nContainment Hall 4\nJP :\n第4隔離廊下"
+  },
+  {
+    "key": "dungeon_1_1_0204-content",
+    "original": "제 5 격리복도",
+    "context": "EN :\nContainment Hall 5\nJP :\n第5隔離廊下"
+  },
+  {
+    "key": "dungeon_1_1_0205-content",
+    "original": "탕비실",
+    "context": "EN :\nCanteen\nJP :\n湯沸室"
+  },
+  {
+    "key": "dungeon_1_1_0206-content",
+    "original": "간이통로",
+    "context": "EN :\nReserve Passageway\nJP :\n簡易通路"
+  },
+  {
+    "key": "dungeon_1_1_0207-content",
+    "original": "중요\n환상체 관리소",
+    "context": "EN :\nCritical Abnormality Block\nJP :\n重要幻想体管理所"
+  },
+  {
+    "key": "dungeon_1_1_0301-content",
+    "original": "연기 전쟁 중부 전선",
+    "context": "EN :\nSmoke War Central Front\nJP :\n煙戦争 中部戦線"
+  },
+  {
+    "key": "dungeon_1_1_0302-content",
+    "original": "제 23-7 방어선 11:00",
+    "context": "EN :\nDefense Line 23-7 - 1100 Hours\nJP :\n第23-7 防御線 11:00"
+  },
+  {
+    "key": "dungeon_1_1_0303-content",
+    "original": "주요 거점",
+    "context": "EN :\nKey Foothold\nJP :\n重要拠点"
+  },
+  {
+    "key": "dungeon_1_1_0304-content",
+    "original": "제 23-7 방어선 13:00",
+    "context": "EN :\nDefense Line 23-7 - 1300 Hours\nJP :\n第23-7 防御線 13:00"
+  },
+  {
+    "key": "dungeon_1_1_0305-content",
+    "original": "제 23-7 방어선 15:36",
+    "context": "EN :\nDefense Line 23-7 - 1536 Hours\nJP :\n第23-7 防御線 15:36"
+  }
+]

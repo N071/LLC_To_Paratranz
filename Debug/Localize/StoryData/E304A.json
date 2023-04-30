@@ -1,0 +1,1022 @@
+[
+  {
+    "key": "0-model",
+    "original": "뒤틀린주인카운트2",
+    "translation": "扭曲的老板的计数2",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing_Count2"
+  },
+  {
+    "key": "0-teller",
+    "original": "은봉이네 호프집 주인",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner\nJP :\nウンボンのチキン酒場 主人"
+  },
+  {
+    "key": "0-title",
+    "original": "은봉이네 호프집",
+    "context": "EN :\nEunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場"
+  },
+  {
+    "key": "0-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "1-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "1-content",
+    "original": "아니, 이게 어떻게 된 일이오! 먹지도 않았는데 숫자가 깎여버리지 않았소!",
+    "context": "EN :\nNay, what manner of foul trickery is this?! The number has gone down whilst the judge has yet to even touch his dish!\nJP :\nいや、これはどういうことだ！食べもしなかったのに数字が下がったではあるまいか！"
+  },
+  {
+    "key": "2-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<너희들이 말하는 것만 들어도 입맛이 뚝 떨어져서 판단할 가치조차 없다는데…>",
+    "context": "EN :\n<He says it’s not even worth evaluating since what you said of it scared away his appetite…>\nJP :\n<君たちが言うことだけ聞いただけでも食欲ガタッと落ちて、判断する価値さえなくなったって…。>"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "주인이 뱉었던 음절 수에 비해 너무 해석이 길지 않나?",
+    "context": "EN :\nThat’s a few more syllables than what the owner spoke, isn’t it?\nJP :\n主人の吐いた音に比べて解釈が長すぎないか？"
+  },
+  {
+    "key": "4-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "4-content",
+    "original": "옳소! 철회해주시오!!",
+    "context": "EN :\nRight he is! May this rejection be revoked!!\nJP :\nいかにも！撤回してくだされ！"
+  },
+  {
+    "key": "5-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "5-content",
+    "original": "<자, 잠깐! 그럼 내 쪽에서 먼저 묻지!>",
+    "context": "EN :\n<H-Hold it! Let me ask you guys this first!>\nJP :\n<ま、待って！じゃあ私の方から先に聞くけど！>"
+  },
+  {
+    "key": "6-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "6-content",
+    "original": "<너네 중에 이거 먹어본 사람 있어?>",
+    "context": "EN :\n<Have any of you even tasted this thing?>\nJP :\n<君らの中でこれ食べた人いる？>"
+  },
+  {
+    "key": "7-model",
+    "original": "그레고르요리사",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "7-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "8-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "8-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "9-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "9-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "10-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "11-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "11-content",
+    "original": "<음식을 시식시켜야 하는데 본인들이 안 먹어 보면 어떡하자는 거야!>",
+    "context": "EN :\n<You can’t just feed others things you haven’t tried yourselves, we’re trying to please someone here!>\nJP :\n<料理を試食させるっていうのに、当の本人が食べなきゃどうすんだよ！>"
+  },
+  {
+    "key": "12-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "12-content",
+    "original": "으으음… 시계 자식, 오랜만에 맞는 소리를 하는군. 누가 먹어 볼래.",
+    "context": "EN :\nMggrrr… Clockface’s got a point, I have to admit. Who wants to try this?\nJP :\nうぅうん…時計野郎、久々に正論をいうじゃねぇか。誰か食べるか。"
+  },
+  {
+    "key": "13-content",
+    "original": "전투를 치르기 전보다 더 결연한 분위기가 맴돌았다.",
+    "context": "EN :\nThe tension was thicker than when we were preparing for battle.\nJP :\n戦闘前よりも殺伐とした雰囲気が漂っていた。"
+  },
+  {
+    "key": "14-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "14-content",
+    "original": "…나를 그런 눈으로 보지 마시오…",
+    "context": "EN :\n…I urge you not to look at me with such eyes…\nJP :\n…私をさる目でな見そ。"
+  },
+  {
+    "key": "15-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "15-content",
+    "original": "이 한 몸! 희생해서 세상의 비틀림을 돌려놓을 수만 있다면…!",
+    "context": "EN :\nPermit me! If my sacrifice helpeth to unfurl the wickedness of the world…!\nJP :\nこの身を！犠牲にして世の中の歪みを元に戻せるのであれば…！"
+  },
+  {
+    "key": "16-content",
+    "original": "돈키호테는 비장하게 눈을 질끈 감고 있었다.",
+    "context": "EN :\nDon Quixote shut her eyes tight.\nJP :\nドンキホーテは悲しげに目をぎゅっとつぶっていた。"
+  },
+  {
+    "key": "17-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "17-content",
+    "original": "젠장! 답답하네, 아무나 좀 먹어보란 말이야!",
+    "context": "EN :\nBugger all! Someone just get the damn stuff in their jaw!\nJP :\nクソッ！じれってぇな、誰でもいいから食ってみろ！"
+  },
+  {
+    "key": "18-content",
+    "original": "히스클리프가 음식을 쥔 채로 누군가의 입에 쑤셔 넣었다.",
+    "context": "EN :\nHeathcliff grabbed a lump out of the serving and shoved it into the nearest person’s mouth…\nJP :\nヒースクリフが料理を握ったまま、誰かの口に突っ込んだ。"
+  },
+  {
+    "key": "19-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "19-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "20-content",
+    "original": "갑작스럽게 봉변당한 뫼르소는 그대로 굳은 채 어떤 미동도 없었다.",
+    "context": "EN :\nMeursault stood completely still at the unexpected taste test.\nJP :\n突然災難が降りかかったムルソーは、固まったまま微動だにしなかった。"
+  },
+  {
+    "key": "21-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<선 채로 죽은 거 아니야?>",
+    "context": "EN :\n<Did that kill him on the spot?>\nJP :\n<生きたまま死んだんじゃないか？>"
+  },
+  {
+    "key": "22-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "22-content",
+    "original": "이번에 본인은 정말 아무 짓도 하지 않았소. 베르길리우스 나리가 혹여나 책임을 묻는다면…",
+    "context": "EN :\nI swear upon mine honor that I have done nothing to cause troubles this time. If Sir Vergilius is ever to ask who was responsible…\nJP :\n今回当人は本当に何もしておりませぬ。ヴェルギリウス殿がもし責任を問われたのなら…。"
+  },
+  {
+    "key": "23-content",
+    "original": "아주 천천히 뫼르소의 고개가 히스클리프에게 돌아갔다.",
+    "context": "EN :\nMeursault turned to Heathcliff, very slowly.\nJP :\nとてもゆっくりムルソーの首がヒースクリフに向かっていった。"
+  },
+  {
+    "key": "24-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "24-content",
+    "original": "전…",
+    "context": "EN :\nThe…\nJP :\n全…。"
+  },
+  {
+    "key": "25-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "25-content",
+    "original": "뭐… 뭐?",
+    "context": "EN :\nThe… What?\nJP :\nな…なんて？"
+  },
+  {
+    "key": "26-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "26-content",
+    "original": "전반적으로 간이 잘못되었다 닭고기를 적절하게 익히지 못하여 비린내와 잡내를 잡는 것에 실패했고 소스는 지나치게 걸쭉해서 깊은 맛이 나지않는다 닭고기를 너무 들쭉날쭉히 토막 냄으로써 사용자의 입맛을 돋우지 못한다.",
+    "context": "EN :\nThe dressing is erroneous overall; failure to properly cook the chicken has resulted in a residual stench of blood and other unpleasant odors; the sauce is too thick to bring out a deep flavor; the inconsistent cuts of the meat contribute to the serving’s inability to rouse one’s appetite.\nJP :\n全般的に味付けが間違っており鶏肉に適切に火を通らず生臭さと雑味を抑えることに失敗しソースはとろみが強すぎて深い味がしない鶏肉をあまりにも不揃いに切り刻むことで使用者の食欲をそそらない。"
+  },
+  {
+    "key": "27-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "27-content",
+    "original": "뭐… 이거 미쳤어? 말 다 했냐?",
+    "context": "EN :\nI… Have you gone loony? That what you have to say?\nJP :\nは…こいつイカれたか？言いたいことはそれが全部か？"
+  },
+  {
+    "key": "28-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "28-content",
+    "original": "아니.",
+    "context": "EN :\nNon.\nJP :\nいや。"
+  },
+  {
+    "key": "29-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "29-content",
+    "original": "끝이 아니다.",
+    "context": "EN :\nI have not finished.\nJP :\n終わりではない。"
+  },
+  {
+    "key": "30-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "30-content",
+    "original": "간 조합이 너무나 엉망진창. 그걸 먹은 내 입도 진창. 당신은 설탕이 부족하다고 버터 두 스푼 반을 잘라 담궈 허나 내 입 못 버텨.",
+    "context": "EN :\nThe seasons and spices are a complete disaster, and the taste in my mouth is even worse than plaster. Lacking sugar, you tossed two and a half spoons of butter, and the end result simply belongs right in the gutter.\nJP :\n味の組み合わせがめちゃくちゃ。それを食べた私の口もぐちゃぐちゃ。あなたは砂糖が足りないからといってバタースプーン2杯半を切り入れしかし私の口ダークマター。"
+  },
+  {
+    "key": "31-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "31-content",
+    "original": "미… 미… 미안하오…",
+    "context": "EN :\nI… I am… quite sorry…\nJP :\nも…も…申しわけありませぬ…。"
+  },
+  {
+    "key": "32-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "32-content",
+    "original": "이상, 당신은 이름값을 하는 건지 이상한 음식을 이상하게 만드는 건, 내 이를 상하게 할 이상인가. 내 이야기는 여기까지 이상.",
+    "context": "EN :\nYi Sang. I must ask if you aim to throng my teeth and prong my tongue by cooking wrong—seeing as this plate’s a headstrong lens to ding-dong notions of what food is to you all along.\nJP :\nイサン、あなたは名前の通り料理を悲惨にする、私の胃酸を散々にし胃癌にでも罹患させるつもりなのか。 私はここで離反。"
+  },
+  {
+    "key": "33-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "33-content",
+    "original": "…변명의 여지가 없군.",
+    "context": "EN :\n…I have not one excuse.\nJP :\n…弁解の余地あらず。"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "잠깐, 쟤… 쟤 뭐에 씌인 거 아니야?",
+    "context": "EN :\nOne bloody moment, is he… possessed by something or?\nJP :\nちょっと待て、あいつ… 何かに取り憑かれたか？"
+  },
+  {
+    "key": "35-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "35-content",
+    "original": "보통의 사람들은 자세히 이야기할수록 핵심을 받아들이지 못하더군.",
+    "context": "EN :\nMost people were unable to accept my point when I elaborated on my statements in detail.\nJP :\n一般的な人々は詳しく話すほどに、核心を受け入れることができない。"
+  },
+  {
+    "key": "36-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "36-content",
+    "original": "그러니 지금까진 구태여 길게 이야기하지 않으려 한 것이다.",
+    "context": "EN :\nBecause of that, I have not bothered to expand upon them until now.\nJP :\nだから今まではあえて長く話さないようにしたのだ。"
+  },
+  {
+    "key": "37-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "37-content",
+    "original": "그리고…",
+    "context": "EN :\nAdditionally…\nJP :\nそして…。"
+  },
+  {
+    "key": "38-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "38-content",
+    "original": "그럼 이번에는 뫼르소 씨가 요리를 하시면 되겠네요!",
+    "context": "EN :\nI know, why don’t we let Meursault take charge this time!\nJP :\nでは、次はムルソーさんが料理をすればいいですね！"
+  },
+  {
+    "key": "39-content",
+    "original": "자기 차례가 되기 전, 홍루가 잽싸게 박수를 치며 주위를 환기시켰다.",
+    "context": "EN :\nHong Lu swiftly made a suggestion with a shower of claps to break the frigid tension before his turn to be condemned came around.\nJP :\n自分の番になる前に、ホンルが素早く拍手をしながら空気を入れ換えた。"
+  },
+  {
+    "key": "40-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "40-content",
+    "original": "저희가 물심양면으로 도와드릴 게요!",
+    "context": "EN :\nWe’ll help you with everything you need!\nJP :\n私たちが物心両面お手伝いしますから！"
+  },
+  {
+    "key": "41-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "41-content",
+    "original": "…나는 조수를 두는 걸 선호하는 편이 아니다.",
+    "context": "EN :\n…I do not prefer to have assistants around.\nJP :\n…私は助手を置くことは好まない。"
+  },
+  {
+    "key": "42-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "42-content",
+    "original": "걱정 마시오! 실망시키지 않겠소!",
+    "context": "EN :\nFret not! We shan’t disappoint you!\nJP :\n心配なさらず！失望はさせぬ！"
+  },
+  {
+    "key": "43-content",
+    "original": "돈키호테가 팔을 걷어붙이면서 씩씩하게 외쳤다.",
+    "context": "EN :\nDon Quixote bravely exclaimed, rolling up her sleeves.\nJP :\nドンキホーテは腕をまくり上げ、力強く叫んだ。"
+  },
+  {
+    "key": "44-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "44-content",
+    "original": "흠… 요리는 내 전문 분야가 아니지만 뜻이 그렇다면 기꺼이 해보겠다.",
+    "context": "EN :\nHmm… Cooking is not my specialty, but if you so insist, I will readily attempt it.\nJP :\nふむ…料理は私の専門分野ではないが、それが意であれば喜んでやりましょう。"
+  },
+  {
+    "key": "45-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "45-content",
+    "original": "<료, 료슈 팀은 어떻게 되었는지 보기로 할까?>",
+    "context": "EN :\n<L—Let’s have a look at Ryōshū’s team, then.>\nJP :\n<りょ、良秀チームはどうなったのか見てみようか？>"
+  },
+  {
+    "key": "46-content",
+    "original": "그레고르 팀에서 한바탕 퍼포먼스가 있었을 동안, 료슈 팀의 분위기는 잔뜩 험악해져 있었다.",
+    "context": "EN :\nWhile there was a spectacle occurring on Gregor’s team, the air had grown tense among Ryōshū’s crew.\nJP :\nグレゴールチームでひとしきりパフォーマンスがあった一方、良秀チームの雰囲気はひどく険悪になっていた。"
+  },
+  {
+    "key": "47-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "47-content",
+    "original": "하, 하지만…",
+    "context": "EN :\nB—But…\nJP :\nで、でも…。"
+  },
+  {
+    "key": "48-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "48-content",
+    "original": "대체 짜면서도 싱거워야 하고, 너무 달진 않아야 하지만 달콤해야 하고 너무 익혀서는 안 되지만 적당히 탄 음식은 대체 어떻게 만들어야 하는 건데요!",
+    "context": "EN :\nHow in the Wings’ names am I supposed to make food that’s both salty and clean, sweet but not too sugary, and lightly cooked but somehow also crispy!\nJP :\nしょっぱいけど薄く、甘すぎないけど甘く、火を通しすぎてはいけないが、適当に焼き目の付いた料理って一体どうやって作ればいいんですか！"
+  },
+  {
+    "key": "49-content",
+    "original": "싱클레어가 바락 소리를 치며 입고 있던 앞치마를 앙칼지게 내던졌다.",
+    "context": "EN :\nSinclair yelled, throwing the apron he had been wearing to the floor.\nJP :\nシンクレアは怒鳴りながら着ていたエプロンを荒々しく投げつけた。"
+  },
+  {
+    "key": "50-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "50-content",
+    "original": "못 해 먹겠어요! 차라리 이스마엘 씨가 말한 것처럼 히스클리프 씨와 팔씨름에서 이기는 게 더 쉬울지도 모르겠네요!",
+    "context": "EN :\nI can’t do this anymore! I guess Ishmael was right, beating Heathcliff at arm wrestling is gonna be easier than this!\nJP :\nやってられません！いっそイシュメールさんの言うとおりヒースクリフさんと腕相撲して勝つ方がもっと簡単かもしれませんね！"
+  },
+  {
+    "key": "51-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "51-content",
+    "original": "그, 그건 그냥 농담으로…",
+    "context": "EN :\nThat—That was a joke…\nJP :\nそ、それは冗談で…。"
+  },
+  {
+    "key": "52-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "52-content",
+    "original": "확률적으로 계산한다면 그건 싱클레어 씨 키가 일주일안에 5cm 이상이 자랄 수 있다는 것만큼 터무니없는…",
+    "context": "EN :\nStatistically speaking, it is as likely as Sinclair’s height increasing by five centimeters in just one week; in other words, a nigh impossib—\nJP :\n確率的に計算すると、シンクレアさんの身長が1週間で5cm以上伸びるのと同じくらいありえな―"
+  },
+  {
+    "key": "53-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "53-content",
+    "original": "조용히 해요! 다 똑같으니까!!!",
+    "context": "EN :\nShut up already! It’s all the same!!!\nJP :\nうるさいですね！全部同じですから！！！"
+  },
+  {
+    "key": "54-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "54-content",
+    "original": "고작 그 정도의 충고에도 징징거리는 꼴이라니, 나약하고 한심하군.",
+    "context": "EN :\nHow weak, you cannot withstand a few criticisms and come whining like the pathetic soldier you are.\nJP :\nたかがその程度の忠告にも不満不平を言うなんて、惰弱で情けないな。"
+  },
+  {
+    "key": "55-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "55-content",
+    "original": "그렇게 자신 있으시면… 오티스 씨가 직접 해보는 게 어떠세요?",
+    "context": "EN :\nIf you’re so darn sure of yourself, Outis… W-Why don’t you do it yourself then?\nJP :\nそんなに自信があるなら…ウーティスさんが直接やってみるのはどうですか？"
+  },
+  {
+    "key": "56-content",
+    "original": "용감하게 말한 것 치고는 싱클레어가 눈을 질끈 감았다.",
+    "context": "EN :\nAs courageous as his rebuttal was, his eyes were shut tight.\nJP :\n勇敢に言った癖して、シンクレアは目をぎゅっと閉じた。"
+  },
+  {
+    "key": "57-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "57-content",
+    "original": "…어쩔 수 없군.",
+    "context": "EN :\n…You leave me no choice.\nJP :\n…どうしようもないか。"
+  },
+  {
+    "key": "58-model",
+    "original": "오티스요리사",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "58-content",
+    "original": "비켜서라, 패잔병들. 결국 이 몸이 나서야 하는 것인가.",
+    "context": "EN :\nOut of my way, stragglers. It’s about time someone led this troop.\nJP :\nどけ、敗残兵たち。結局、わたくしが前へ出るべきだということか。"
+  },
+  {
+    "key": "59-content",
+    "original": "어느샌가 그레고르가 썼던 요리 모자는 뫼르소에게 넘어가게 되었다.",
+    "context": "EN :\nIn a series of turbulent events I didn’t fully catch, Meursault took up Gregor’s culinary antennae and toque blanche.\nJP :\nいつの間にかグレゴールが被っていた料理帽は、ムルソーに渡された。"
+  },
+  {
+    "key": "60-content",
+    "original": "뫼르소의 지시대로 주방은 일사불란하게 돌아가기 시작했다.",
+    "context": "EN :\nThe kitchen grew busy as Gregor’s Sinners moved according to Meursault’s order.\nJP :\nムルソーの指示通りに厨房は一糸乱れず回り始めた。"
+  },
+  {
+    "key": "61-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "61-content",
+    "original": "뫼르소 군! 이것 보시오! 귀엽게 별 모양으로 깎아 보았…",
+    "context": "EN :\nBehold, Meursault! I have carved this one into the adorable shape of a star…\nJP :\nムルソー君！見てくだされ！可愛く星の形に切ってみ···。"
+  },
+  {
+    "key": "62-model",
+    "original": "뫼르소요리사",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "62-content",
+    "original": "감자는 정사각형으로 반듯이 잘라야 한다. 골고루 익혀야 하기 때문이다.",
+    "context": "EN :\nPotatoes should be cut into square pieces so that they may be evenly cooked on all sides.\nJP :\nジャガイモは正方形にまっすぐ切らなければならない。まんべんなく火を通さねばならぬからだ。"
+  },
+  {
+    "key": "63-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "63-content",
+    "original": "그치만…!!",
+    "context": "EN :\nNevertheless…!!\nJP :\nでも…！！"
+  },
+  {
+    "key": "64-model",
+    "original": "뫼르소요리사",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "64-content",
+    "original": "정사각형. 5cm",
+    "context": "EN :\nSquare shapes. Five centimeters.\nJP :\n正方形。5cm."
+  },
+  {
+    "key": "65-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "65-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "66-content",
+    "original": "요리장의 자리를 물려받은 뫼르소는 그 어느 때보다 카리스마가 넘쳐 보였다.",
+    "context": "EN :\nMeursault looked more charismatic than ever with the mantle of head chef upon his shoulders.\nJP :\n料理長の座を受け継いだムルソーは、どんなときよりカリスマに満ちあふれていた。"
+  },
+  {
+    "key": "67-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "67-content",
+    "original": "알 게 뭐야. 닭 요리가 거기서 거기겠지.",
+    "context": "EN :\nEh, whatever. A chicken’s a chicken, it can only be so special.\nJP :\nどうってことないさ、鶏料理なんてどうせ鶏料理なんだろ。"
+  },
+  {
+    "key": "68-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "68-content",
+    "original": "잃어버린 그 레시피라는 것도 알고 보면 정성 한 스푼, 노력 세 스푼 반, 이런 거 아니었을까?",
+    "context": "EN :\nWho knows, that lost recipe of his might’ve been all superficial stuff like “one spoon of earnestness and three scoops of effort”, ‘ne?\nJP :\n失くしたレシピっていうのも、実は真心スプーン一杯、努力三杯半とかじゃないか？"
+  },
+  {
+    "key": "69-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "69-content",
+    "original": "오~ 감자는 이렇게 요리하는 것이었군요~",
+    "context": "EN :\nOho~ So this is how you cook potatoes~\nJP :\nおぉ～ジャガイモってこんな風に料理するんですね～。"
+  },
+  {
+    "key": "70-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "70-content",
+    "original": "설마… 바삭하게 구워 진 채로 수확되는 거라고 생각했냐?",
+    "context": "EN :\nWhat the… Ya thought they harvested baked potatoes out in the fields?\nJP :\nまさか…熱々に焼かれたまま収穫されるって思ってないだろうな？"
+  },
+  {
+    "key": "71-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "71-content",
+    "original": "저를 바보 취급하시는 군요…!",
+    "context": "EN :\nTaking me for a fool, aren’t you…!\nJP :\n僕を馬鹿だと思ってるんですか…！"
+  },
+  {
+    "key": "72-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "72-content",
+    "original": "때가 되면 무르익은 감자 열매가 나무에서 떨어지는 것 정도는 알고 있어요.",
+    "context": "EN :\nObviously, ripe potatoes fall from their trees when the time is right.\nJP :\n時が来れば熟れたジャガイモが木から落ちるのくらいは知ってますよ。"
+  },
+  {
+    "key": "73-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "73-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "74-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "74-content",
+    "original": "풉, 농담이에요, 히스클리프 씨.",
+    "context": "EN :\nPft, I was just kidding, Heathcliff.\nJP :\nぷっ、冗談です。ヒースクリフさん。"
+  },
+  {
+    "key": "75-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "75-content",
+    "original": "응? 왜 갑자기 다지기용 방망이를 들고…",
+    "context": "EN :\nOh? What are you planning to do with that tenderizer—\nJP :\nあれ？どうして急に肉叩きを持って…。"
+  },
+  {
+    "key": "76-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "76-content",
+    "original": "감자에 말갛게 꽃이 피었소. 아, 이런 척박한 환경에도 결국 봉오리는 틔우는구려.",
+    "context": "EN :\nA serene flower has blossomed on this yam. Ah, so a bud can indeed bloom even upon this barren ground.\nJP :\nジャガイモに清らなる花咲けり。ああ、かかる不毛なる環境にても、果てにつぼみは咲きけり。"
+  },
+  {
+    "key": "77-model",
+    "original": "뫼르소요리사",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "77-content",
+    "original": "독이 있다는 신호이니 당장 분질러 버려야 한다. 돈키호테, 압수하도록.",
+    "context": "EN :\nThat is a sign that the potato is poisonous; it must be disposed of immediately. Don Quixote, confiscate it.\nJP :\n毒があるという信号だから、すぐに粉々にしなければならない。ドンキホーテ、押収するように。"
+  },
+  {
+    "key": "78-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "78-content",
+    "original": "알겠네!!!",
+    "context": "EN :\nRighty-ho!!!\nJP :\n了解でありまする！！！"
+  },
+  {
+    "key": "79-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "79-content",
+    "original": "아… 으아니되오…",
+    "context": "EN :\nAh… Please do not do such…\nJP :\nあっ…な、ならぬ…。"
+  },
+  {
+    "key": "80-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "80-content",
+    "original": "탄 것은, 탄 것대로 의미가 있소. 사실 탔다는 것은 인간들이 정의하는 허구의 개념일 뿐이고 그 본질은 변한 것이 아닐지도 모르오.",
+    "context": "EN :\nBurnt things are significant in their own ways. In truth, the state of being “burnt” may as well be an imaginary concept defined by man when the essence of an object has remained unchanged.\nJP :\n焦げしものは、焦げた物なりの意味あり。実のところ焦げしことは人間の定義せし虚構の概念に過ぎず、さる本質は未だ変わらぬやもしれず。"
+  },
+  {
+    "key": "81-model",
+    "original": "뫼르소요리사",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "81-content",
+    "original": "고온에 장시간 노출이 되어 겉표면이 일정 색 이상 변질이 되었고 매캐한 냄새가 나는 걸 타는 것이라고 한다.",
+    "context": "EN :\n“Burnt” refers to the condition in which a food item is discolored beyond a certain degree and produces an acrid smell after prolonged exposure to high heat.\nJP :\n高温に長時間露出して表面が一定色以上変質し、煙たい匂いがするのを焦げたという。"
+  },
+  {
+    "key": "82-model",
+    "original": "뫼르소요리사",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "82-content",
+    "original": "그리고 이것은 안까지 탔군. 장기적인 섭취를 할 경우 몸에 부정 반응을 일으킬 수 있으므로 버려야 옳다.",
+    "context": "EN :\nAnd this one has burnt to its core. It is only right to discard it as long-term consumption of burnt food can negatively impact the body.\nJP :\nそしてこれは中まで焦げているな。長期的な摂取をする場合、身体に否定反応を起こす恐れがあるので捨てるのが正しい。"
+  },
+  {
+    "key": "83-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "83-content",
+    "original": "섭섭하오…",
+    "context": "EN :\nHow regrettable…\nJP :\n侘し…。"
+  },
+  {
+    "key": "84-content",
+    "original": "무언가에 눈을 뜬 뫼르소는 가차 없었으며 이상은 별 도움이 되진 않았다.",
+    "context": "EN :\nMeursault became a ruthless chef, while Yi Sang remained mostly unhelpful.\nJP :\n何かに開眼したムルソーは容赦なく、イサンはあまり役に立たなかった。"
+  },
+  {
+    "key": "85-content",
+    "original": "생각보다 히스클리프는 빠른 속도로 껍질을 벗기고 있었다.",
+    "context": "EN :\nHeathcliff was peeling ingredients at a surprisingly brisk pace.\nJP :\nヒースクリフは思ったより速いスピードで皮を剥いていた。"
+  },
+  {
+    "key": "86-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "86-content",
+    "original": "말 걸지 마. 집중력 깨지니까.",
+    "context": "EN :\nDon’t gab at me. It’ll ruin my focus.\nJP :\n話し掛けるな。集中力が失せる。"
+  },
+  {
+    "key": "87-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "87-content",
+    "original": "칼 따위는 사치야. 진정한 가난뱅이는 쇠숟가락 하나만으로도 모든 감자를 벗겨낼 수 있는 법이니까.",
+    "context": "EN :\nKnives are a luxury. A real pauper can peel any spud with nothing more than a metal spoon.\nJP :\nナイフなんて贅沢だ。真の貧乏人は、鉄のスプーン一つで全てのジャガイモを剥くことができるもんだ。"
+  },
+  {
+    "key": "88-model",
+    "original": "뫼르소요리사",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "88-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "89-model",
+    "original": "뫼르소요리사",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "89-content",
+    "original": "합격이다. 비스듬한 방향으로 깎은 것에 노련미가 보인다는 점에서 가산점을 주겠다.",
+    "context": "EN :\nThis gets a pass. You are rewarded extra points for the expertise displayed in your aslant strokes.\nJP :\n合格だ。斜め方向に切ったのに技巧が見えるという点から、加算点を与える。"
+  },
+  {
+    "key": "90-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "90-content",
+    "original": "아싸!!!!",
+    "context": "EN :\nThat’s class!!!!\nJP :\nよっしゃぁ！！！！"
+  },
+  {
+    "key": "91-model",
+    "original": "오티스요리사",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "91-content",
+    "original": "똑바로 보도록. 재료는 골고루 넣어야 한다. 편식이나 해대니까 키가 안 자라는 거다.",
+    "context": "EN :\nWatch closely. You need to employ a wide variety of ingredients. Being a picky eater is what’s stunted your growth.\nJP :\nしっかり見るように。材料は満遍なく入れねばならない。偏食なんてするから背が伸びないんだ。"
+  },
+  {
+    "key": "92-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "92-content",
+    "original": "저… 전 아직 성장기란 말이에요…!",
+    "context": "EN :\nI… I can still get taller from here…!\nJP :\nぼ…僕はまだ成長期ですよ…！"
+  },
+  {
+    "key": "93-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "93-content",
+    "original": "…아마도요.",
+    "context": "EN :\n…I think.\nJP :\n…多分です。"
+  },
+  {
+    "key": "94-model",
+    "original": "오티스요리사",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "94-content",
+    "original": "그리고, 영양을 불균형하게 섭취하니까 머리가 그렇게 하얗게 새는 거지.",
+    "context": "EN :\nAlso, an unbalanced diet is the reason why your hair’s turned all grey.\nJP :\nそして栄養を不均一に摂取するから髪がそんな白くなるんだろう。"
+  },
+  {
+    "key": "95-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "95-content",
+    "original": "파우스트는… 본래…",
+    "context": "EN :\nFaust has… always had…\nJP :\nファウストは…元か―"
+  },
+  {
+    "key": "96-model",
+    "original": "오티스요리사",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "96-content",
+    "original": "손이 그렇게 거칠어지게 된 것도 다 편식 때문에 그런 거다.",
+    "context": "EN :\nYour hands in particular have become coarse and rough for the same reason.\nJP :\n手がそんなに荒れているのも、すべて偏食のためだ。"
+  },
+  {
+    "key": "97-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "97-content",
+    "original": "네에? 이건 오랜 뱃일 때문에 그런 거예요!",
+    "context": "EN :\nExcuse me? This is because of all the work I did aboard the ship!\nJP :\nはぃい？これは長い間船で仕事してたからですよ！"
+  },
+  {
+    "key": "98-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "98-content",
+    "original": "오티스 씨! 나는? 나는 어때?",
+    "context": "EN :\nMe next, Outis! What about me? What’s the diagnosis?\nJP :\nウーティスさん！私は？私はどう？"
+  },
+  {
+    "key": "99-model",
+    "original": "오티스요리사",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "99-content",
+    "original": "정신없게 소리 지르지 마라! 경박스럽다!",
+    "context": "EN :\nDon’t yell frivolously like that! You’re being a distraction!\nJP :\n忙しないときに叫ぶな！軽薄だ！"
+  }
+]

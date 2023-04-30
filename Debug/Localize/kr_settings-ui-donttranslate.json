@@ -1,0 +1,267 @@
+[
+  {
+    "key": "mainui_settings_game-content",
+    "original": "게임",
+    "context": "EN :\nGameplay\nJP :\nゲーム"
+  },
+  {
+    "key": "mainui_settings_graphic-content",
+    "original": "그래픽",
+    "context": "EN :\nGraphics\nJP :\nグラフィック"
+  },
+  {
+    "key": "mainui_settings_sound-content",
+    "original": "음성",
+    "context": "EN :\nAudio\nJP :\n音声"
+  },
+  {
+    "key": "mainui_settings_notice-content",
+    "original": "알림",
+    "context": "EN :\nNotifs\nJP :\n通知"
+  },
+  {
+    "key": "mainui_settings_etc-content",
+    "original": "기타",
+    "context": "EN :\nMisc.\nJP :\nその他"
+  },
+  {
+    "key": "mainui_settings_download-content",
+    "original": "다운로드",
+    "context": "EN :\nDownload\nJP :\nダウンロード"
+  },
+  {
+    "key": "mainui_settings_download_complete-content",
+    "original": "다운로드 완료",
+    "context": "EN :\nDownload Complete\nJP :\nダウンロード完了"
+  },
+  {
+    "key": "mainui_settings_video_resource-content",
+    "original": "영상 리소스",
+    "context": "EN :\nVideo Resources\nJP :\n映像リソース"
+  },
+  {
+    "key": "mainui_settings_audio_resource-content",
+    "original": "음성 리소스",
+    "context": "EN :\nAudio Resources\nJP :\n音声リソース"
+  },
+  {
+    "key": "mainui_settings_animation_resource-content",
+    "original": "애니메이션 리소스",
+    "context": "EN :\nAnimation Resources\nJP :\nアニメーションリソース"
+  },
+  {
+    "key": "mainui_settings_ego_presentation-content",
+    "original": "E.G.O 연출",
+    "context": "EN :\nE.G.O Animation\nJP :\nE.G.O演出"
+  },
+  {
+    "key": "mainui_settings_on-content",
+    "original": "켜기",
+    "context": "EN :\nOn\nJP :\nオン"
+  },
+  {
+    "key": "mainui_settings_off-content",
+    "original": "끄기",
+    "context": "EN :\nOff\nJP :\nオフ"
+  },
+  {
+    "key": "mainui_settings_play_once_per_day-content",
+    "original": "하루에 한 번만 재생",
+    "context": "EN :\nOnce per Day\nJP :\n一日に一回だけ再生"
+  },
+  {
+    "key": "mainui_settings_resolution-content",
+    "original": "해상도",
+    "context": "EN :\nResolution\nJP :\n解像度"
+  },
+  {
+    "key": "mainui_settings_resolution_windowded-content",
+    "original": "창모드",
+    "context": "EN :\nWindowed\nJP :\nウィンドウ"
+  },
+  {
+    "key": "mainui_settings_resolution_fullscreen-content",
+    "original": "전체화면",
+    "context": "EN :\nFullscreen\nJP :\n全画面"
+  },
+  {
+    "key": "mainui_settings_texquality-content",
+    "original": "텍스쳐 품질",
+    "context": "EN :\nTexture Quality\nJP :\nテクスチャの品質"
+  },
+  {
+    "key": "mainui_settings_resolution_warning-content",
+    "original": "화질이 높을수록 전력 소모 증가 및 발열 현상이 유발될 수 있습니다.",
+    "context": "EN :\nHigher resolutions may cause the device to heat and consume additional power.\nJP :\n画質が高くなるほど、電力消費の増加や発熱を引き起こす可能性があります。"
+  },
+  {
+    "key": "mainui_settings_fps_warning-content",
+    "original": "프레임이 높을수록 전력 소모 및 발열 현상이 유발될 수 있습니다.",
+    "context": "EN :\nHigher framerates may cause the device to heat and consume additional power.\nJP :\nフレームレートが高くなるほど、電力消費の増加や発熱を引き起こす可能性があります。"
+  },
+  {
+    "key": "mainui_settings_low-content",
+    "original": "저",
+    "context": "EN :\nLow\nJP :\n低"
+  },
+  {
+    "key": "mainui_settings_middle-content",
+    "original": "중",
+    "context": "EN :\nMedium\nJP :\n中"
+  },
+  {
+    "key": "mainui_settings_high-content",
+    "original": "고",
+    "context": "EN :\nHigh\nJP :\n高"
+  },
+  {
+    "key": "mainui_settings_postprocessing-content",
+    "original": "포스트프로세싱",
+    "context": "EN :\nPost-processing\nJP :\nポストプロセス"
+  },
+  {
+    "key": "mainui_settings_ppon-content",
+    "original": "켜기",
+    "context": "EN :\nOn\nJP :\nオン"
+  },
+  {
+    "key": "mainui_settings_ppoff-content",
+    "original": "끄기",
+    "context": "EN :\nOff\nJP :\nオフ"
+  },
+  {
+    "key": "mainui_settings_ppdesc-content",
+    "original": "전투에서 사용하는 카메라 효과를 제어합니다. 성능에 영향을 줍니다.",
+    "context": "EN :\nControls camera effects in battle. Affects game performance.\nJP :\n戦闘にて使うカメラ効果を制御します。パフォーマンスに影響を及ぼします。"
+  },
+  {
+    "key": "mainui_settings_antialiasing-content",
+    "original": "안티앨리어싱",
+    "context": "EN :\nAnti-aliasing\nJP :\nアンチエイリアス"
+  },
+  {
+    "key": "mainui_settings_clear-content",
+    "original": "설정 초기화",
+    "context": "EN :\nReset\nJP :\n設定の初期化"
+  },
+  {
+    "key": "mainui_settings_clear_ask-content",
+    "original": "모든 설정을 초기화하시겠습니까?",
+    "context": "EN :\nReset everything to default?\nJP :\n全ての設定を初期化しますか？"
+  },
+  {
+    "key": "mainui_settings_render_acceleration-content",
+    "original": "렌더링 가속",
+    "context": "EN :\nAccelerated Rendering\nJP :\nレンダリングの加速"
+  },
+  {
+    "key": "mainui_settings_sound_master-content",
+    "original": "마스터",
+    "context": "EN :\nMaster\nJP :\nマスター"
+  },
+  {
+    "key": "mainui_settings_sound_sfx-content",
+    "original": "효과음",
+    "context": "EN :\nSFX\nJP :\n効果音"
+  },
+  {
+    "key": "mainui_settings_sound_voice-content",
+    "original": "보이스",
+    "context": "EN :\nVoice\nJP :\nボイス"
+  },
+  {
+    "key": "mainui_settings_sound_battle_announcer-content",
+    "original": "배틀 아나운서",
+    "context": "EN :\nBattle Announcer\nJP :\nバトルアナウンサー"
+  },
+  {
+    "key": "mainui_settings_notice_enkephalin_full-content",
+    "original": "엔케팔린 충전 완료 알림",
+    "context": "EN :\nEnkephalin Recovery\nJP :\nエンケファリン充填完了の通知"
+  },
+  {
+    "key": "mainui_settings_notice_ads-content",
+    "original": "홍보성 알림",
+    "context": "EN :\nPromotional Notices\nJP :\nプロモーション通知"
+  },
+  {
+    "key": "mainui_settings_notice_ads_night-content",
+    "original": "홍보성 알림 (야간)",
+    "context": "EN :\nPromotional Notices (Night)\nJP :\nプロモーション通知(夜間)"
+  },
+  {
+    "key": "mainui_settings_change_launguage-content",
+    "original": "언어 변경",
+    "context": "EN :\nLanguage\nJP :\n言語変更"
+  },
+  {
+    "key": "mainui_settings_change_launguage_ask-content",
+    "original": "언어 변경은 게임 재시작 시 정상 적용됩니다.",
+    "context": "EN :\nLanguage changes apply after restarting the game.\nJP :\n言語変更はゲーム再起動時に適用されます。"
+  },
+  {
+    "key": "mainui_settings_faq_btn-content",
+    "original": "고객 센터",
+    "context": "EN :\nCustomer Service\nJP :\nサポートサービス"
+  },
+  {
+    "key": "connect_to_google_account-content",
+    "original": "Google 연동",
+    "context": "EN :\nLink with Google\nJP :\nGoogle連携"
+  },
+  {
+    "key": "connect_to_apple_account-content",
+    "original": "Apple 연동",
+    "context": "EN :\nLink with Apple\nJP :\nApple連携"
+  },
+  {
+    "key": "explain_sucession-content",
+    "original": "이용하시는 계정 탈퇴 시 모든 계정 및 구매 정보가 삭제됩니다.",
+    "context": "EN :\nIf you close the account, all gameplay and purchase data will be deleted.\nJP :\nご利用のアカウントから退会時、全てのアカウント情報および購入情報が削除されます。"
+  },
+  {
+    "key": "explain_sucession_remain_days-content",
+    "original": "계정 탈퇴 기간은 7일이며 기간 내 접속 시 탈퇴 취소가 가능합니다.",
+    "context": "EN :\nYou will be given a 7-day grace period. You can restore the account if you sign in before the end of the period.\nJP :\nアカウント削除期間は7日で、期間内にログインすると削除がキャンセルできます。"
+  },
+  {
+    "key": "explain_writing_code_for_sucession-content",
+    "original": "※ 위 내용에 동의하실 경우,\n텍스트 박스 내 문자를 입력해주세요.",
+    "context": "EN :\n※ If you agree to the terms above,\nplease enter the letters you see in the box.\nJP :\n※上記の内容に同意するなら、\nテキストボックス内の文字を入力してください。"
+  },
+  {
+    "key": "explain_secession_status-content",
+    "original": "해당 계정은 탈퇴 처리 중입니다.\n남은시간 : {0} 일 {1} 시간 {2} 분\n지금 로그인 하시면 복구할 수 있습니다.\n계정 복구 하시겠습니까?",
+    "context": "EN :\nThe account is currently under a closure period.\nTime Remaining: {0}D {1}H {2}M\nYou can recover the account if you sign in now.\nRecover the account?\nJP :\n該当アカウントは削除処理中です。\n残り時間：{0}日{1}時間{2}分\n今ログインすれば復旧可能です。\nアカウントを復旧しますか？"
+  },
+  {
+    "key": "recover-content",
+    "original": "복구",
+    "context": "EN :\nRecover\nJP :\n復旧"
+  },
+  {
+    "key": "request_sucession-content",
+    "original": "탈퇴 신청",
+    "context": "EN :\nRequest Closure\nJP :\n削除申請"
+  },
+  {
+    "key": "request_sucession_success-content",
+    "original": "탈퇴 신청을 성공하셨습니다.",
+    "context": "EN :\nClosure successfully requested.\nJP :\n削除申請に成功しました。"
+  },
+  {
+    "key": "mainui_settings_account-content",
+    "original": "계정",
+    "context": "EN :\nAccount\nJP :\nアカウント"
+  },
+  {
+    "key": "account_secede-content",
+    "original": "계정 탈퇴",
+    "context": "EN :\nClose Account\nJP :\nアカウント削除"
+  },
+  {
+    "key": "connected_accounts-content",
+    "original": "연동된 계정",
+    "context": "EN :\nLinked Accounts\nJP :\n連携済みアカウント"
+  }
+]

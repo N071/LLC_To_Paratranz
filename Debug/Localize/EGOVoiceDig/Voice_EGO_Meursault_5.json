@@ -1,0 +1,52 @@
+[
+  {
+    "key": "battle_awaken_20501_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20501_1-dlg",
+    "original": "수많은 것들이 옥죄어 온다…",
+    "context": "EN :\nThe multitude tightens its hold…\nJP :\n数多のものが締め付けてくる…。"
+  },
+  {
+    "key": "battle_awaken_20502_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20502_1-dlg",
+    "original": "순서에 따라 대상을 제거합니다.",
+    "context": "EN :\nEliminating target under procedure.\nJP :\n手続きに従い、対象を除去します。"
+  },
+  {
+    "key": "battle_erosion_20502_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20502_1-dlg",
+    "original": "장애물을 찍어 누른다.",
+    "context": "EN :\nObstacles will be quelled.\nJP :\n障害物を押し潰す。"
+  },
+  {
+    "key": "battle_awaken_20503_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_20503_1-dlg",
+    "original": "내가 너를 위해 기도할 것이니, 너는 반드시 부서진다. ",
+    "context": "EN :\nI will pray for you, so that you shall surely break.\nJP :\n私がお前の為に祈るが故、お前は必ず壊れる。"
+  },
+  {
+    "key": "battle_erosion_20503_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_20503_1-dlg",
+    "original": "너만큼은… 나를 용서하지 말라. ",
+    "context": "EN :\nBefore anyone else, you… shan’t pardon me.\nJP :\nお前だけは…私を赦すこと勿れ。"
+  }
+]

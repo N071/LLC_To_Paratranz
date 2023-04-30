@@ -1,0 +1,212 @@
+[
+  {
+    "key": "get_10601_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10601_1-dlg",
+    "original": "홍루라고 한답니다. 잘 해보자구요, 우리.",
+    "context": "EN :\nMy name’s Hong Lu. I hope we can get along well.\nJP :\nホンルといいます。上手くやっていきましょう、僕たち。"
+  },
+  {
+    "key": "lobby_morning_10601_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10601_1-dlg",
+    "original": "좋은 아침이에요, 단테 님! 저희 주방장님이 그랬는데 아침에 피곤할 때는 송로버섯만큼 좋은 게 없다고 그러더라고요~",
+    "context": "EN :\nGood morning, Dante! My resident chef once taught me that truffles are wonderful for relieving morning fatigue~\nJP :\nいい朝ですね、ダンテさん！うちのシェフさんが言ってたんですけど、朝疲れたときには松露以上に良いものはないんですよ～。"
+  },
+  {
+    "key": "lobby_noon_10601_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10601_1-dlg",
+    "original": "이곳에 와서 흥미로웠던 점 중 하나는, 배고프다는 느낌을 처음 알 수 있었다는 거예요. 생소한 기분이더라고요.",
+    "context": "EN :\nAn interesting thing I noted here was that I was able to learn how it feels to be hungry. What a curious sensation it is!\nJP :\nここに来て興味深いなと思ったことを一つ挙げると、空腹という感覚を始めて味わったことです。なんだか慣れない感覚でした。"
+  },
+  {
+    "key": "lobby_night_10601_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10601_1-dlg",
+    "original": "저녁은 저녁만큼의 운치가 있어요. 비록 여기서 제 방만큼 풍경은 잘 안 보이지만… 단테 님이랑 같이 있어서 좋네요.",
+    "context": "EN :\nThe evening has its own beauty. Although the view isn’t as clear as my room’s window… it’s still nice that you’re here with me.\nJP :\n夕方は夕方の風情があります。ここからじゃ、僕の部屋くらい良い風景は見えないけど…ダンテさんと一緒なら良いものですね。"
+  },
+  {
+    "key": "smalltalk_10601_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10601_1-dlg",
+    "original": "나중에 집에 돌아가게 된다면, 단테 님을 초대해서 근사한 연회라도 열고 싶어요. 아버지께 새로 사귄 친구들도 소개시켜주고… 재미있을 것 같아요.",
+    "context": "EN :\nWhen I go back home later, Dante, I’d love to invite you to a fabulous gala. I’ll introduce my new friends to Father, too… It’ll be such a fun time.\nJP :\nあとで家に帰ることになったら、ダンテさんを招待して盛大に宴でも開きたいです。父に新しい友達も紹介して…きっと楽しいですよ。"
+  },
+  {
+    "key": "smalltalk_10601_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10601_2-dlg",
+    "original": "마음이 어지러울 땐 간단해요, 그냥 안되면 어쩔 수 없지 뭐, 하는 생각이면 세상 어려울 게 없답니다.",
+    "context": "EN :\nWhen you’re distraught, simply remember that life goes on even if what you’re doing now doesn’t work out. Then, you’ll be free of worries.\nJP :\n心が乱れたときは簡単です。できないことしょうがないよね、って考えれば何も難しいことはありませんよ。　"
+  },
+  {
+    "key": "smalltalk_10601_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10601_3-dlg",
+    "original": "가족들이란… 서로를 지켜주는 안식처 같은 존재라면서요? 전 지금까지 뒤통수에 칼을 꽂아 넣는 게 당연한 관계인 줄 알았지 뭐예요~",
+    "context": "EN :\nFamily… I heard that family is like a sanctuary offering each other shelter, right? I thought it was more like a cohort of kin looking to stab each other in the back at every turn all my life~\nJP :\n家族というのは…お互いを守ってくれる安息の場のような存在って聞きました。僕は今まで後頭部にナイフを突き刺すのが当然の関係だと思ってたんですよ～。"
+  },
+  {
+    "key": "neglect_10601_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10601_1-dlg",
+    "original": "어라, 단테 님? 급한 일이 생기셨나 봐요? 천천히 갔다 오세요~",
+    "context": "EN :\nOh? Has an urgent matter arisen, Dante? Take your time~\nJP :\nあれっ、ダンテさん？急用でもあったんですか？ゆっくりでいいですよ～。"
+  },
+  {
+    "key": "formation_10601_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10601_1-dlg",
+    "original": "우와, 기대되네요~",
+    "context": "EN :\nGolly, I can’t wait~\nJP :\nうわぁ、楽しみですね～。"
+  },
+  {
+    "key": "battleentry_10601_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10601_1-dlg",
+    "original": "흥미로운 일이 벌어지면 좋겠어요~",
+    "context": "EN :\nI hope something fun happens~\nJP :\n興味深いことが起これば良いですね～。"
+  },
+  {
+    "key": "battle_select_10601_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10601_1-dlg",
+    "original": "어쩐 일이세요? 단테 님?",
+    "context": "EN :\nWhat is it, Dante?\nJP :\nどうしたんですか？ダンテさん？"
+  },
+  {
+    "key": "battle_endcommand_10601_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10601_1-dlg",
+    "original": "해보기는 할게요~ 안되면 어쩔 수 없지만요~",
+    "context": "EN :\nI’ll do what I can~ If it flunks, it flunks~\nJP :\nやってはみます～。ダメならどうしようもないですけどね～。"
+  },
+  {
+    "key": "battle_enemy_break_10601_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10601_1-dlg",
+    "original": "하하. 재밌는 순간이에요~",
+    "context": "EN :\nHaha. What an amusing moment~\nJP :\nははっ。これが面白いんですよね～。"
+  },
+  {
+    "key": "battle_break_10601_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10601_1-dlg",
+    "original": "앗!",
+    "context": "EN :\nOh my!\nJP :\nあっ！"
+  },
+  {
+    "key": "battle_kill_10601_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10601_1-dlg",
+    "original": "늘 새롭다니까요~",
+    "context": "EN :\nI never run out of new sights to see~\nJP :\n新しいものが沢山見れますね～。"
+  },
+  {
+    "key": "battle_allydead_10601_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10601_1-dlg",
+    "original": "이런 많이 아픈가요? 나중에 말해주세요.",
+    "context": "EN :\nOh dear, does it hurt a lot? Please tell me later.\nJP :\nあらら、痛いですか？後で教えてください。"
+  },
+  {
+    "key": "choice_success_p_10601_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10601_1-dlg",
+    "original": "아하하, 너무 칭찬하진 말아 주세요.",
+    "context": "EN :\nAhaha, there’s no need to shower me with praise.\nJP :\nあはは、そんなに褒めないでくださいよ。"
+  },
+  {
+    "key": "choice_fail_n_10601_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10601_1-dlg",
+    "original": "아~ 너무 자책하진 마세요. 그럴 수 있는 거죠.",
+    "context": "EN :\nOh dear~ Don’t blame yourself too much. It just wasn’t your day.\nJP :\nあ～そんなに自分を責めないでください。そういうこともありますよ。"
+  },
+  {
+    "key": "battle_clear_10601_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10601_1-dlg",
+    "original": "어… 이거 제 덕분일까요? 이겼다니까 다행이네요~",
+    "context": "EN :\nOh… Is this thanks to me, perhaps? Anyway, it’s nice to hear that we’ve won~\nJP :\nあれ…これって僕のおかげですか？勝てて良かったですね～。"
+  },
+  {
+    "key": "battle_clear_ex_10601_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10601_1-dlg",
+    "original": "너무 띄워주실 필요는 없어요~ 단테 님 덕분일 거예요.",
+    "context": "EN :\nNo need to shower me with compliments~ I’m sure you had a part in it, too.\nJP :\nそんなおだてなくても良いですよ～。ダンテさんのおかげですから。"
+  },
+  {
+    "key": "battle_defeat_10601_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10601_1-dlg",
+    "original": "그럴 수도 있는 거 아니겠어요? 기운 내자고요~",
+    "context": "EN :\nIt is what it is, wouldn’t you agree? Don’t be so dour~\nJP :\nそういうこともあるんじゃ無いですか？元気出しましょうよ～。"
+  }
+]

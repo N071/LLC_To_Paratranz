@@ -1,0 +1,157 @@
+[
+  {
+    "key": "0-place",
+    "original": "K사 검문소",
+    "context": "EN :\nK Corp. Checkpoint\nJP :\nK社 検問所"
+  },
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<이런 상황에 익숙해지긴 했지만, 이번엔 좀 심각해 보이긴 하네.>",
+    "context": "EN :\n<I’ve gotten used to this sort of situation, but it looks pretty serious.>\nJP :\n<こんな状況に慣れてはいたけど、今回はちょっと深刻だな。>"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "네, 날개의 금기를 어겼으니까요.",
+    "context": "EN :\nIndeed. We’ve violated a taboo of the Wing, after all.\nJP :\nはい、翼の禁忌を犯しましたから。"
+  },
+  {
+    "key": "2-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<아직 다친 사람도 없는데, 말로 해결하는 건 안 되는 거야?>",
+    "context": "EN :\n<It’s not like anyone was hurt—can’t we just talk this through?>\nJP :\n<まだ怪我した人もいないのに、言葉で解決するのは無理なのか？>"
+  },
+  {
+    "key": "3-content",
+    "original": "파우스트가 내 얼굴을 똑바로 바라보았다.",
+    "context": "EN :\nFaust looked straight into my face.\nJP :\nファウストが私の顔を真っ直ぐ見つめた。"
+  },
+  {
+    "key": "4-content",
+    "original": "보통 허공 너머 어딘가를 바라보며 말하던 파우스트가 사람을 마주한다는 건,",
+    "context": "EN :\nFor Faust to face someone directly when she usually stares into empty space as she speaks can only indicate one thing:\nJP :\n普段は虚空の彼方を見つめながら話しているファウストが、\n人に向き合うというということは、"
+  },
+  {
+    "key": "5-content",
+    "original": "내가 어지간히 답답한 소리를 했다는 뜻일 것이다.",
+    "context": "EN :\nI must have said something incredibly frustrating.\nJP :\n私がかなり呆れたことを話したということだろう。"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "어떤 날개든, 금기를 어겼다는 건…",
+    "context": "EN :\nNo matter the Wing, infringement of a taboo means—\nJP :\nどんな翼であれ、禁忌を犯したということは…。"
+  },
+  {
+    "key": "7-content",
+    "original": "굉음과 함께 돈키호테가 다양한 부위로 분리가 되었다.",
+    "context": "EN :\nA loud explosion left Don Quixote dismembered where she stood.\nJP :\n轟音と共にドンキホーテが様々な部位にばらけた。"
+  },
+  {
+    "key": "8-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-content",
+    "original": "별도의 발포 경고 없이 금기자를 처단할 수 있다는 뜻이에요.",
+    "context": "EN :\n—that lethal measures can be taken against the violator without warning.\nJP :\n別途の発砲警告無しに禁忌者を処断可能であることを意味します。"
+  },
+  {
+    "key": "9-content",
+    "original": "수감자들까지 모조리 해체를 시키고 나서야 괘씸죄가 상쇄될 모양인지…",
+    "context": "EN :\nIt looks like border control isn’t willing to forgive us until they dismember the rest of the Sinners…\nJP :\n囚人全員まとめて解体してやっと不届きな行いが相殺されるのだろうか…。"
+  },
+  {
+    "key": "10-content",
+    "original": "사방에서는 무장한 직원들이 다가오고 있었다.",
+    "context": "EN :\nArmed security staff was surrounding us on all sides.\nJP :\n四方から武装した職員たちが近寄ってきた。"
+  },
+  {
+    "key": "11-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "11-content",
+    "original": "…날이 갈수록 놀라워.",
+    "context": "EN :\n…You never cease to surprise me.\nJP :\n…日が経つにつれて驚きが増すな。"
+  },
+  {
+    "key": "12-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "12-content",
+    "original": "바닥 밑에 고여있던 조그마한 기대감마저 증발시켜 버리니 말이야.",
+    "context": "EN :\nYou managed to wring out the last drop of expectation I had left for you.\nJP :\n床の底に溜まっていた小さな期待まで蒸発させてくれるだなんてな。"
+  },
+  {
+    "key": "13-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "13-content",
+    "original": "난 빠지지. 저 녀석의 단독 범행이라고 하던 다 같이 해결하던 알아서 해.",
+    "context": "EN :\nI’m keeping out. Pin the whole thing on her, or take responsibility, or whatever.\nJP :\n俺は抜ける。あいつの単独犯だと言うなり、一緒に解決するなり勝手にしろ。"
+  },
+  {
+    "key": "14-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "14-content",
+    "original": "아까는 관리자님만으로는 부족하니까 동행한 거라면서요?!",
+    "context": "EN :\nI thought you accompanied us to handle situations that our manager can’t alone?!\nJP :\nさっきは管理人さんだけでは足りないから同行したと言ってませんでしたっけ！？"
+  },
+  {
+    "key": "15-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "15-content",
+    "original": "어쩔 수 없는 것에 책임을 져 준다고 했지, 이따위 헛짓거리에 동참해준다는 뜻은 아니었다.",
+    "context": "EN :\nI came with you to take care of inevitable problems, not have a pissing session in the wind.\nJP :\nどうしようもないことに責を負うと言った。\nこんな無駄事に肩入れするという意味ではない。"
+  },
+  {
+    "key": "16-content",
+    "original": "베르길리우스가 여유롭게 무장한 경비들 사이를 헤쳐 지나가더니 벽에 기댔다.",
+    "context": "EN :\nVergilius casually pushed his way through the line of armed guards and leaned against a wall.\nJP :\nヴェルギリウスは武装した警備員たちの間を余裕そうに通り抜けると、\n壁にもたれ掛かった。"
+  },
+  {
+    "key": "17-content",
+    "original": "구경꾼으로 입지를 굳히기로 작정한 듯 팔짱까지 낀 채로.",
+    "context": "EN :\nHe then crossed his arms, as if to further drive home that he’ll remain a spectator.\nJP :\n高みの見物を決め込んだのか、腕まで組みながら。"
+  }
+]

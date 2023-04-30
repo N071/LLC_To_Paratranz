@@ -1,0 +1,177 @@
+[
+  {
+    "key": "loginui_sign_in_with_google-content",
+    "original": "Google 계정으로 로그인하기",
+    "context": "EN :\nSign in with Google\nJP :\nGoogleアカウントでログイン"
+  },
+  {
+    "key": "loginui_sign_in_with_apple-content",
+    "original": "Apple 계정으로 로그인하기",
+    "context": "EN :\nSign in with Apple\nJP :\nAppleアカウントでログイン"
+  },
+  {
+    "key": "loginui_sign_in_with_steam-content",
+    "original": "Steam 계정으로 로그인하기",
+    "context": "EN :\nSign in with Steam\nJP :\nSteamアカウントでログイン"
+  },
+  {
+    "key": "loginui_sign_in_with_guest-content",
+    "original": "게스트 계정으로 로그인하기",
+    "context": "EN :\nSign in as a guest\nJP :\nゲストアカウントでログイン"
+  },
+  {
+    "key": "loginui_sign_out_current_account-content",
+    "original": "현재 계정 로그아웃",
+    "context": "EN :\nSign Out\nJP :\nログアウト"
+  },
+  {
+    "key": "loginui_sign_out_current_account_desc-content",
+    "original": "현재 계정을 로그아웃 하시겠습니까?\n게스트 계정일 경우에는 데이터가 유실될 수 있습니다",
+    "context": "EN :\nSign out from the current account?\nIf you’re playing as a guest, your data may be lost.\nJP :\nログアウトしますか？\nゲストアカウントの場合、データが復元できない可能性があります。"
+  },
+  {
+    "key": "loginui_sign_out_switch_account_desc-content",
+    "original": "현재 계정을 로그아웃하고\n선택한 계정으로 변경하시겠습니까?\n게스트 계정일 경우에는 데이터가 유실될 수 있습니다",
+    "context": "EN :\nSign out from the current account\nand switch to the selected one?\nIf you’re playing as a guest, your data may be lost.\nJP :\n今のアカウントからログアウトして\n選択したアカウントに変更しますか？\nゲストアカウントの場合、データが復元できない可能性があります。"
+  },
+  {
+    "key": "switch_account-content",
+    "original": "계정 변경",
+    "context": "EN :\nChange Account\nJP :\nアカウント変更"
+  },
+  {
+    "key": "user_agreements-content",
+    "original": "이용 약관",
+    "context": "EN :\nTerms of Service\nJP :\n利用約款"
+  },
+  {
+    "key": "title_game_data_download-content",
+    "original": "게임 데이터 다운로드",
+    "context": "EN :\nDownload Game Data\nJP :\nゲームデータのダウンロード"
+  },
+  {
+    "key": "content_game_data_download-content",
+    "original": "{0} 의 데이터를 다운로드합니다",
+    "context": "EN :\nDownloading {0} of data.\nJP :\n{0}のデータをダウンロードします"
+  },
+  {
+    "key": "content_game_data_download_description-content",
+    "original": "저장 공간이 부족한 경우에는 타이틀 화면으로 돌아갑니다",
+    "context": "EN :\nYou will be returned to the title screen if your device has insufficient storage space.\nJP :\n容量が不足している場合はタイトル画面へ戻ります"
+  },
+  {
+    "key": "content_game_data_download_recommend-content",
+    "original": "Wi-Fi 환경에서 다운로드하는 걸 권장합니다",
+    "context": "EN :\nA direct Internet connection (Wi-Fi) is recommended.\nJP :\nWi-Fi環境でダウンロードすることを推奨します"
+  },
+  {
+    "key": "switch_allcacheclear-content",
+    "original": "모든 캐시 삭제",
+    "context": "EN :\nClear all caches\nJP :\n全キャッシュを削除"
+  },
+  {
+    "key": "switch_oldcacheclear-content",
+    "original": "이전 캐시 삭제",
+    "context": "EN :\nClear old caches\nJP :\n古いキャッシュを削除"
+  },
+  {
+    "key": "networkingerror_content-content",
+    "original": "네트워크가 불안정합니다.\n 네트워크 상태를 확인해 주세요",
+    "context": "EN :\nThe network is unstable.\nPlease check your Internet connection.\nJP :\nネットワークが不安定です。\nネットワーク状態を確認してください。"
+  },
+  {
+    "key": "networkingerror_close-content",
+    "original": "닫기",
+    "context": "EN :\nClose\nJP :\n閉じる"
+  },
+  {
+    "key": "networkingerror_retry-content",
+    "original": "재시도",
+    "context": "EN :\nRetry\nJP :\nリトライ"
+  },
+  {
+    "key": "loginui_ok-content",
+    "original": "확인",
+    "context": "EN :\nConfirm\nJP :\n確認"
+  },
+  {
+    "key": "login_cancel-content",
+    "original": "취소",
+    "context": "EN :\nCancel\nJP :\nキャンセル"
+  },
+  {
+    "key": "loginui_loading_battlehint-content",
+    "original": "전투 팁",
+    "context": "EN :\nCombat Tips\nJP :\nTIPS"
+  },
+  {
+    "key": "servererror_content-content",
+    "original": "서버 에러가 발생하였습니다.\n잠시 후에 다시 시도해 주세요.",
+    "context": "EN :\nA server error has occurred.\nPlease try again in a moment.\nJP :\nサーバーエラーが発生しました。\nしばらくしてからやり直してください。"
+  },
+  {
+    "key": "forcequit_content-content",
+    "original": "게임을 진행할 수 없습니다.\n게임이 종료됩니다.",
+    "context": "EN :\nCannot operate the game.\nShutting down now.\nJP :\nゲームを進行することが出来ません。\nゲームが終了します。"
+  },
+  {
+    "key": "serverstate_openpreparation-content",
+    "original": "오픈 준비 중입니다.",
+    "context": "EN :\nThings are still being prepared!\nJP :\n準備中です。"
+  },
+  {
+    "key": "serverstate_regularcheck-content",
+    "original": "서버 정기 점검이 진행 중입니다.",
+    "context": "EN :\nThe server is currently under routine maintenance.\nJP :\nサーバーの定期メンテナンス中です。"
+  },
+  {
+    "key": "serverstate_temporary_check-content",
+    "original": "서버 임시 점검이 진행 중입니다.",
+    "context": "EN :\nThe server is currently under temporary maintenance.\nJP :\nサーバーの臨時メンテナンス中です。"
+  },
+  {
+    "key": "serverstate_verify_invaliduser-content",
+    "original": "존재하지 않거나 탈퇴 처리가 완료된 계정입니다.",
+    "context": "EN :\nThe account does not exist or has been closed.\nJP :\n存在しないか、退会処理が完了したアカウントです。"
+  },
+  {
+    "key": "serverstate_verify_ban-content",
+    "original": "게임 이용이 제한된 계정입니다.",
+    "context": "EN :\nThe account is restricted from playing.\nJP :\nゲーム利用が制限されたアカウントです。"
+  },
+  {
+    "key": "serverstate_verify_invalidauth-content",
+    "original": "오류가 발생하였습니다.\n다시 로그인을 진행해주세요.",
+    "context": "EN :\nAn error has occurred.\nPlease sign in again.\nJP :\nエラーが発生しました。\n再度ログインしてください。"
+  },
+  {
+    "key": "guestlogin_failed_try_newguest-content",
+    "original": "게스트 계정이 존재하지 않습니다.\n새로운 게스트 계정을 만드시겠습니까?",
+    "context": "EN :\nNo guest account was detected.\nWould you like to create a new one?\nJP :\nゲストアカウントが存在しません。\n新しいゲストアカウントを作成しますか？"
+  },
+  {
+    "key": "secession_remain_days-content",
+    "original": "해당 계정은 탈퇴 처리 중 입니다.\n남은 시간 : {0}일 {1}시간 {2}분\n\n로그인 시, 계정이 복구됩니다.\n계정 복구를 진행하시겠습니까?",
+    "context": "EN :\nThe account is currently under a closure period.\nTime Remaining: {0}D {1}H {2}M\n\nYou can recover the account if you sign in now.\nRecover the account?\nJP :\n該当アカウントは削除処理中です。\n残り時間：{0}日{1}時間{2}分\n\nログイン時、アカウントが復旧されます。\nアカウント復旧を進行しますか？"
+  },
+  {
+    "key": "secession_canceled-content",
+    "original": "계정 복구가 정상적으로 완료되었습니다.",
+    "context": "EN :\nAccount recovered successfully.\nJP :\nアカウントの復旧が正常に完了しました。"
+  },
+  {
+    "key": "serverstate_verify_invalidclientversion-content",
+    "original": "게임 클라이언트를 업데이트 해야 합니다.",
+    "context": "EN :\nThe game client must be updated.\nJP :\nゲームクライアントをアップデートしてください。"
+  },
+  {
+    "key": "create_guest-content",
+    "original": "게스트 생성",
+    "context": "EN :\nCreate Guest Account\nJP :\nゲスト生成"
+  },
+  {
+    "key": "ask_to_remove_all_cache-content",
+    "original": "모든 캐시를 삭제하시겠습니까?",
+    "context": "EN :\nClear all caches?\nJP :\n全てのキャッシュを削除しますか？"
+  }
+]

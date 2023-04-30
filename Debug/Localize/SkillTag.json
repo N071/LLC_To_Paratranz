@@ -1,0 +1,162 @@
+[
+  {
+    "key": "OnSucceedAttack-name",
+    "original": "[적중시]",
+    "context": "EN :\n[On Hit]\nJP :\n[的中時]"
+  },
+  {
+    "key": "WhenUse-name",
+    "original": "[사용시]",
+    "context": "EN :\n[On Use]\nJP :\n[使用時]"
+  },
+  {
+    "key": "WinDuel-name",
+    "original": "[합 승리시]",
+    "context": "EN :\n[Clash Win]\nJP :\n[マッチ勝利時]"
+  },
+  {
+    "key": "BeforeAttack-name",
+    "original": "[공격 시작 전]",
+    "context": "EN :\n[Before Attack]\nJP :\n[攻撃前]"
+  },
+  {
+    "key": "Wide-name",
+    "original": "[광역]",
+    "context": "EN :\n[AoE]\nJP :\n[広域]"
+  },
+  {
+    "key": "nxPostLine-name",
+    "original": "[전열 {n}명]",
+    "context": "EN :\n[{n} in Front]\nJP :\n[前列{n}名]"
+  },
+  {
+    "key": "nxCenterLine-name",
+    "original": "[중열 {n}명]",
+    "context": "EN :\n[{n} in Middle]\nJP :\n[中列{n}名]"
+  },
+  {
+    "key": "nxBackLine-name",
+    "original": "[후열 {n}명]",
+    "context": "EN :\n[{n} in Back]\nJP :\n[後列{n}名]"
+  },
+  {
+    "key": "CantIdentify-name",
+    "original": "[피아식별불가]",
+    "context": "EN :\n[Indiscriminate]\nJP :\n[敵味方識別不可]"
+  },
+  {
+    "key": "CRIMSON-name",
+    "original": "빨간색",
+    "context": "EN :\nCrimson\nJP :\n赤色"
+  },
+  {
+    "key": "SCARLET-name",
+    "original": "주황색",
+    "context": "EN :\nScarlet\nJP :\n橙色"
+  },
+  {
+    "key": "AMBER-name",
+    "original": "노란색",
+    "context": "EN :\nAmber\nJP :\n黄色"
+  },
+  {
+    "key": "SHAMROCK-name",
+    "original": "초록색",
+    "context": "EN :\nShamrock\nJP :\n緑色"
+  },
+  {
+    "key": "AZURE-name",
+    "original": "파란색",
+    "context": "EN :\nAzure\nJP :\n青色"
+  },
+  {
+    "key": "INDIGO-name",
+    "original": "남색",
+    "context": "EN :\nIndigo\nJP :\n藍色"
+  },
+  {
+    "key": "VIOLET-name",
+    "original": "보라색",
+    "context": "EN :\nViolet\nJP :\n紫色"
+  },
+  {
+    "key": "WHITE-name",
+    "original": "흰색",
+    "context": "EN :\nWhite\nJP :\n白"
+  },
+  {
+    "key": "BLACK-name",
+    "original": "검정색",
+    "context": "EN :\nBlack\nJP :\n黒"
+  },
+  {
+    "key": "EndSkill-name",
+    "original": "[공격 종료시]",
+    "context": "EN :\n[After Attack]\nJP :\n[攻撃後]"
+  },
+  {
+    "key": "StartBattle-name",
+    "original": "[전투 시작시]",
+    "context": "EN :\n[Combat Start]\nJP :\n[戦闘開始時]"
+  },
+  {
+    "key": "DefeatDuel-name",
+    "original": "[합 패배]",
+    "context": "EN :\n[Clash Lose]\nJP :\n[マッチ敗北]"
+  },
+  {
+    "key": "OnSucceedAttackHead-name",
+    "original": "[앞면 적중시]",
+    "context": "EN :\n[Heads Hit]\nJP :\n[表面的中時]"
+  },
+  {
+    "key": "OnSucceedAttackTail-name",
+    "original": "[뒷면 적중시]",
+    "context": "EN :\n[Tails Hit]\nJP :\n[裏面的中時]"
+  },
+  {
+    "key": "OnSucceedEvade-name",
+    "original": "[회피 성공시]",
+    "context": "EN :\n[On Evade]\nJP :\n[回避成功時]"
+  },
+  {
+    "key": "AlwaysUse-name",
+    "original": "[상시]",
+    "context": "EN :\n[Constant]\nJP :\n[常時]"
+  },
+  {
+    "key": "CantDuel-name",
+    "original": "[합 불가능]",
+    "context": "EN :\n[Unclashable]\nJP :\n[マッチ不可]"
+  },
+  {
+    "key": "EnemyKill-name",
+    "original": "[적 처치 시]",
+    "context": "EN :\n[On Kill]\nJP :\n[敵討伐時]"
+  },
+  {
+    "key": "EnemyKillFail-name",
+    "original": "[적 처치 실패 시]",
+    "context": "EN :\n[Failed Kill]\nJP :\n[敵討伐失敗時]"
+  },
+  {
+    "key": "ReUse-name",
+    "original": "[재사용 시]",
+    "context": "EN :\n[On Reuse]\nJP :\n[再使用時]"
+  },
+  {
+    "key": "ReUseOnSucceedAttackHead-name",
+    "original": "[재사용 앞면 적중 시]",
+    "context": "EN :\n[Reuse - Heads Hit]\nJP :\n[再使用表面的中時]"
+  },
+  {
+    "key": "CriticalOnSucceedAttack-name",
+    "original": "[크리티컬 적중 시]",
+    "context": "EN :\n[On Crit]\nJP :\n[クリティカル的中時]"
+  },
+  {
+    "key": "StartDuel-name",
+    "original": "[합 시작 시]",
+    "context": "EN :\n[Clash Start]\nJP :\n[マッチ開始時]"
+  }
+]

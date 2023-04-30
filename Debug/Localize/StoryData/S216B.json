@@ -1,0 +1,1023 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 꼭대기 층",
+    "context": "EN :\nHigh Rollers Floor\nJP :\nカジノ 最上階"
+  },
+  {
+    "key": "0-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "0-content",
+    "original": "<큰일이네. 꼭대기 층까지는 올라왔는데 정작 소망력은…>",
+    "context": "EN :\n<This isn’t good. We’ve reached the top floor, but we don’t have nearly enough wishpower…>\nJP :\n<どうしよう。最上階まで登ってきたけど肝心の願望力は…。>"
+  },
+  {
+    "key": "1-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "1-content",
+    "original": "아~ 걱정 마. 안 그래도 입이 근질근질했는데, 드디어 왔네.",
+    "context": "EN :\nAah~ No worries. I’ve been itching to tell you this, and it’s finally time.\nJP :\nあ～それについては心配しないで。\nずっと言いたくてうずうずしてたんだけど、やっと着いたね。"
+  },
+  {
+    "key": "2-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "2-content",
+    "original": "사실 아까 전당포에서 슬쩍한 소망력이 있어. 양이 조금 적긴 한데, 이 정도면 충분하지?",
+    "context": "EN :\nI actually pinched a little wishpower back at the pawnshop. It’s not a lot, but it should be just enough, right?\nJP :\n実はさっき質屋でくすねた願望力があるの。\n量がちょっと少なくはあるけど、これくらいなら十分でしょ？"
+  },
+  {
+    "key": "3-content",
+    "original": "로쟈가 한 귀퉁이만 남은 소망스티커를 팔랑거리며 우리에게 보여줬다.",
+    "context": "EN :\nRodya showed us a wish sticker sheet with a few labels left on it.\nJP :\nロージャが端切れだけ残った願望シールをひらひらとさせながら私たちに見せた。"
+  },
+  {
+    "key": "4-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "4-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "4-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "4-content",
+    "original": "왜 진작 말을 안 한 거예요?",
+    "context": "EN :\nWhy didn’t you tell us earlier?\nJP :\nなんで言ってくれなかったんですか？"
+  },
+  {
+    "key": "5-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "5-content",
+    "original": "도박은 포커페이스여야 한다면서. 괜히 티 냈다가 발각당하면 피곤해지잖아.",
+    "context": "EN :\nLike you said, gambling is all about keeping a poker face. Wouldn’t want to see one of us slip and complicate things.\nJP :\nギャンブルはポーカーフェースでやるべきだって言ってなかったっけ。\n変にそんな素振り見せてバレたらしんどいでしょ。"
+  },
+  {
+    "key": "6-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "6-content",
+    "original": "대장 역할~ 잠깐 빌려도 되지, 단테?",
+    "context": "EN :\nAs for the boss role~ Mind if I borrow it for a sec, Dante?\nJP :\n隊長役～ちょっと譲ってくれてもいいよね、ダンテ？"
+  },
+  {
+    "key": "7-content",
+    "original": "딱히 대장 역할에 전념했다고는 생각하지 않았기에 고개를 끄덕였다.",
+    "context": "EN :\nI nodded, seeing as I wasn’t really doing much in this guise anyways.\nJP :\n特に隊長の役割に専念していたとは思っていなかったので頷いた。"
+  },
+  {
+    "key": "8-content",
+    "original": "전념했어도, 이 정도 상황이면 역할을 반납하고 무릎을 꿇는 게 맞겠지만.",
+    "context": "EN :\nEven if I were committed to the act, it would only be right for me to forfeit it with my knees bent, since things played out the way they did.\nJP :\n専念してたとしても、\nこの状況だと役目を返上して土下座するのが正しいだろうけど。"
+  },
+  {
+    "key": "9-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "9-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "9-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "9-content",
+    "original": "…아까 같았으면 결사반대했을 거예요. 그래도…",
+    "context": "EN :\n…I would’ve been vehemently against this only hours ago. But now…\nJP :\n…さっきなら断固反対したでしょうけど。でも…。"
+  },
+  {
+    "key": "10-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10-content",
+    "original": "잘 생각했어. 돈이 걸린 일이라면 나는 평생 져본 적이 없거든.",
+    "context": "EN :\nGood thinking. I’ve never lost once in anything where money was involved.\nJP :\n良い判断ね。お金に関わることなら私、負けたことがないんだ。"
+  },
+  {
+    "key": "11-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "11-content",
+    "original": "자…",
+    "context": "EN :\nAlright…\nJP :\nさぁ…。"
+  },
+  {
+    "key": "12-place",
+    "original": "카지노 개인실",
+    "context": "EN :\nPrivate Room\nJP :\nカジノ プライベートルーム"
+  },
+  {
+    "key": "12-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "12-content",
+    "original": "선수 입장~",
+    "context": "EN :\nThe contestant enters~\nJP :\n選手にゅうじょ～。"
+  },
+  {
+    "key": "13-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "13-content",
+    "original": "뭐야, 아직 다 안 왔나 보네. 멋지게 등장하고 싶었는데.",
+    "context": "EN :\nWait, I’m not the last? Aw, there goes my cool entry.\nJP :\nなんだ、まだ全員来てないみたいね。格好良く登場したかったのに。"
+  },
+  {
+    "key": "14-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "14-content",
+    "original": "넌…?",
+    "context": "EN :\nYou are…?\nJP :\nお前は…？"
+  },
+  {
+    "key": "15-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "15-content",
+    "original": "내 이름은 로지온. 이곳 지하까지 가기 위한 도박을 하러 왔어.",
+    "context": "EN :\nMy name’s Rodion. I’m here to gamble for the right to access the basement.\nJP :\n私の名前はロジオン。ここの地下へ行くためのギャンブルをしに来たの。"
+  },
+  {
+    "key": "16-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "16-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "16-content",
+    "original": "푸합!",
+    "context": "EN :\nPwfhah!\nJP :\nぷはっ！"
+  },
+  {
+    "key": "17-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "17-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "17-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "17-content",
+    "original": "소망력 약탈자로 유명한 그 콩콩이파 보스를 드디어 만나나 싶었는데, 신원도 불확실한 주제에 너무 당당히 들어오는 거 아니야?",
+    "context": "EN :\nI was looking forward to finally meeting the infamous “wishpower whisker” in person, and look who we get instead. Aren’t you a little too confident for some unidentified stranger?\nJP :\n願望力の略奪者として名を馳せてるあのぽんぽん派のボスにやっと\n会えるのかと思ってたのに、身元もはっきりしてない癖して\nそんな風に入ってくるとか堂々過ぎないか？"
+  },
+  {
+    "key": "18-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "18-content",
+    "original": "촌스러워~ 이 세계에서 중요한 건 신원이 아닐 텐데? 승자가 누구냐지.",
+    "context": "EN :\nWhat a dull take~ It’s not who you are that matters in this world, right? It’s about who wins.\nJP :\nダッサ～。この世界で大事なのは身元じゃないと思うけど？勝者は誰かでしょ。"
+  },
+  {
+    "key": "19-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "19-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "19-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "19-content",
+    "original": "뭐, 그건 맞아. 이곳까지 도달했다는 것만으로도 충분히 자격이 있는 거지.",
+    "context": "EN :\nWell, you aren’t wrong there. The fact that you were able to get here is proof enough that you’re qualified.\nJP :\nまぁ、それはそうだな。\nここまで到達しただけでも十分に資格はあるということだ。"
+  },
+  {
+    "key": "20-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "20-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "20-title",
+    "original": "마리아치 ",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ "
+  },
+  {
+    "key": "20-content",
+    "original": "반가워. 난 아이드야.",
+    "context": "EN :\nA pleasure. I’m Aida.\nJP :\nようこそ。私はアイドだ。"
+  },
+  {
+    "key": "21-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "21-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "21-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "21-content",
+    "original": "그리고 이쪽은…",
+    "context": "EN :\nAnd this is…\nJP :\nそしてこっちは…。"
+  },
+  {
+    "key": "22-model",
+    "original": "철공회보스",
+    "translation": "铁工会老大",
+    "context": "EN :\n铁工会\nJP :\nIronBoss"
+  },
+  {
+    "key": "22-teller",
+    "original": "철공회 보스",
+    "context": "EN :\nCrew Boss\nJP :\n鉄工会 ボス"
+  },
+  {
+    "key": "22-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "22-content",
+    "original": "아이고, 삭신아.",
+    "context": "EN :\nGolly, my back’s hurtin’.\nJP :\nあんやぁ、関節が。"
+  },
+  {
+    "key": "23-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "23-content",
+    "original": "…로봇? 아니, 의체…?",
+    "context": "EN :\n…A robot? No, a prosthetic…?\nJP :\n…ロボット？いや、義体…？"
+  },
+  {
+    "key": "24-model",
+    "original": "철공회보스",
+    "translation": "铁工会老大",
+    "context": "EN :\n铁工会\nJP :\nIronBoss"
+  },
+  {
+    "key": "24-teller",
+    "original": "철공회 보스",
+    "context": "EN :\nCrew Boss\nJP :\n鉄工会 ボス"
+  },
+  {
+    "key": "24-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "24-content",
+    "original": "뭘 보냐? 전신 기계 의체는 처음 보냐?",
+    "context": "EN :\nWhat’s that stare? Never seen a full-body prosthetic before?\nJP :\n何見ちょる？全身機械義体は初めて見たんかぇ？"
+  },
+  {
+    "key": "25-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "25-content",
+    "original": "이거 너무… 구형 모델 아니야? 박물관에 있어야 될 것 같은 생김새인데.",
+    "context": "EN :\nIsn’t that model… a bit too antiquated? It kinda looks like it belongs in a museum.\nJP :\nこれ…旧型モデルすぎない？博物館に置いとくような見た目なんだけど。"
+  },
+  {
+    "key": "26-model",
+    "original": "철공회보스",
+    "translation": "铁工会老大",
+    "context": "EN :\n铁工会\nJP :\nIronBoss"
+  },
+  {
+    "key": "26-teller",
+    "original": "철공회 보스",
+    "context": "EN :\nCrew Boss\nJP :\n鉄工会 ボス"
+  },
+  {
+    "key": "26-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "26-content",
+    "original": "옛것이 좋은 것이지. 여러 번 덧대었더니 웬만한 신형보다 튼튼혀.",
+    "context": "EN :\nOld is gold, as they say. Patched it up a few times, and now it’s sturdier than most new ones.\nJP :\n昔のもんはええもんじゃ。\n何回か手ぇ入れたら大抵の新品よりピンピンしとるわぃ。"
+  },
+  {
+    "key": "27-model",
+    "original": "철공회보스",
+    "translation": "铁工会老大",
+    "context": "EN :\n铁工会\nJP :\nIronBoss"
+  },
+  {
+    "key": "27-teller",
+    "original": "철공회 보스",
+    "context": "EN :\nCrew Boss\nJP :\n鉄工会 ボス"
+  },
+  {
+    "key": "27-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "27-content",
+    "original": "그나저나 갸는 왜 이렇게 안 오는 거냐? 건방진 자식이 중요한 약속에 어디서 지각을 하고 앉았어?",
+    "context": "EN :\nWhy’s that boy bein’ so sluggish about comin’ here anyway? Arrogant brat thinks he can show up late to serious business, eh?\nJP :\nそいえばあいつぁいつ来るんや？しゃらくせぇ奴っちゃ、\n大事な約束をすっぽかして遅刻すんのも大概にせぇ。"
+  },
+  {
+    "key": "28-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "28-content",
+    "original": "미안. 조금 일이 생겨서.",
+    "context": "EN :\nPardon me. I had an urgent matter.\nJP :\nごめん。ちょっと用事が出来て。"
+  },
+  {
+    "key": "29-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "29-content",
+    "original": "?!",
+    "context": "EN :\n?!\nJP :\n！？"
+  },
+  {
+    "key": "30-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "30-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "30-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "30-content",
+    "original": "소냐, 주인공병 같은 거 있어? 늦게 와서 이목을 받아야만 만족이 되고, 막 그래?",
+    "context": "EN :\nYou think the world revolves around you, Sonya? Do you crave attention so much that you have to arrive late and be showered in glares?\nJP :\nソーニャ、主人公気取り？\n遅く来て注目を集めないと気が済まないとか、そんなんでしょ？"
+  },
+  {
+    "key": "31-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "31-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "31-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "31-content",
+    "original": "하하, 그런 건 아니었어요. 주인공은 언제나 아이드 씨죠.",
+    "context": "EN :\nHaha, I didn’t mean to. If anything, you’d fit better as the protagonist of life, Aida.\nJP :\nはは、そういうわけじゃないですよ。主人公はいつだってアイドさんですよ。"
+  },
+  {
+    "key": "32-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "32-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "33-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "33-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "33-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "33-content",
+    "original": "오랜만이야, 로쟈.",
+    "context": "EN :\nIt’s been a while, Rodya.\nJP :\n久しぶりだよ、ロージャ。"
+  },
+  {
+    "key": "34-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "34-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "34-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "34-content",
+    "original": "뭐야? 둘이 아는 사이야?",
+    "context": "EN :\nWhat’s up? You two know each other?\nJP :\nえぇ？二人知り合いなの？"
+  },
+  {
+    "key": "35-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "35-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "35-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "35-content",
+    "original": "고향 친구… 라고나 할까요. 그렇지, 로쟈?",
+    "context": "EN :\nLet’s say that we… share a hometown. Isn’t that right, Rodya?\nJP :\n故郷の友達…っていいますか。そうでしょう、ロージャ？"
+  },
+  {
+    "key": "36-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "36-content",
+    "original": "너… 역시 아직도 유로지비의 리더를 하고 있는 거야?",
+    "context": "EN :\nSo, are you… still leading the Yurodiviye, then?\nJP :\nあんた…やっぱりまだユロージヴィのリーダーやってたの？"
+  },
+  {
+    "key": "37-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "37-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "37-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "37-content",
+    "original": "글쎄, 아직 이라고 하기엔… 훌쩍 떠나버린 건 너 혼자였는데 말이지.",
+    "context": "EN :\nDunno, it might be too early to say “still”… You were the one who left on your own just like that.\nJP :\nさぁ、まだと言うにも…ふらっと去って行ったのは君一人だったのに。"
+  },
+  {
+    "key": "38-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "38-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "38-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "38-content",
+    "original": "자자, 사설은 접어두고. 올 사람은 전부 모였으니까, 다시 한번 룰을 점검해볼게.",
+    "context": "EN :\nNow now, that’s enough chatting. Since we have all the players, let’s go over the rules again.\nJP :\nさぁさぁ、ゴタゴタは置いといて。\n全員集まったんだし、もう一度ルールを確認しようか。"
+  },
+  {
+    "key": "39-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "39-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "39-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "39-content",
+    "original": "카지노 동시 입찰권을 가진 이 4명, 소냐, 아이드, 철공회, 그리고… 콩콩이파 보스의… 수상쩍지만 당당한 대리인…",
+    "context": "EN :\nThe four bidders for the casino are all here: Sonya, Aida, the Tieqiu, and… representing the Tingtang Gang’s boss… a suspicious yet shameless stand-in…\nJP :\nカジノ同時入札件をを持つこの四人、ソーニャ、アイド、鉄工会、\nそして…ぽんぽん派のボスの…怪しいけど堂々とした代理人…。"
+  },
+  {
+    "key": "40-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "40-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "40-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "40-content",
+    "original": "게임 중엔 어떤 편법도 허용되지 않아. 걸리는 순간 바로 탈락.",
+    "context": "EN :\nNo cheats or sleights of hand are allowed during the game. The moment you’re spotted in the act, you’re out.\nJP :\nゲーム中にはいかなるズルも許されない。バレた瞬間すぐ脱落。"
+  },
+  {
+    "key": "41-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "41-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "41-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "41-content",
+    "original": "당연하지만 소망력이랑 관련된 그 어떤 물건도 쓰면 안 되고.",
+    "context": "EN :\nIt should go without saying that anything involving wishpower is forbidden as well.\nJP :\n当たり前だけど、願望力と関連したいかなる物品も使用してはいけない。"
+  },
+  {
+    "key": "42-model",
+    "original": "철공회보스",
+    "translation": "铁工会老大",
+    "context": "EN :\n铁工会\nJP :\nIronBoss"
+  },
+  {
+    "key": "42-teller",
+    "original": "철공회 보스",
+    "context": "EN :\nCrew Boss\nJP :\n鉄工会 ボス"
+  },
+  {
+    "key": "42-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "42-content",
+    "original": "걸리는 순간 내가 토막을 내버릴 것이여! 아주 조사불랑께!",
+    "context": "EN :\nSoon as you’re caught, you’re on the choppin’ block! You’ll sorely regret it!\nJP :\nバレた瞬間わいがバラバラにしちゃるかんな！\nギッタギタのメッタメタに！"
+  },
+  {
+    "key": "43-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "43-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "44-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "44-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "44-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "44-content",
+    "original": "총 3판의 게임을 하고, 제일 칩을 많이 따는 쪽이 우승. 심플하지?",
+    "context": "EN :\nWe’ll play three games in total, and the one with the most chips wins. Simple enough?\nJP :\n計三セットのゲームをして、一番チップを獲得した人が優勝。シンプルだろ？"
+  },
+  {
+    "key": "45-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "45-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "45-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "45-content",
+    "original": "이긴 사람은 이곳에 있는 엘리베이터를 타고 황금가지가 있는 지하로 내려가는 거야.",
+    "context": "EN :\nThe winner will get to take the elevator to the underground portion where the Golden Bough is.\nJP :\n買った人はここにあるエレベーターに乗って、黄金の枝がある地下へ下りるんだ。"
+  },
+  {
+    "key": "46-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "46-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "46-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "46-content",
+    "original": "이전 카지노 주인이 미친 듯이 땅굴까지 파 내려가면서 얻으려고 했던 그 황금가지 말이야.",
+    "context": "EN :\nIt’s the treasure the former owner of this casino was so desperate to claim, digging a whole tunnel to unearth it.\nJP :\n前カジノオーナーが狂ったように穴まで掘って手に入れようとした、\nあの黄金の枝をね。"
+  },
+  {
+    "key": "47-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "47-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "47-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "47-content",
+    "original": "갑자기 원인 모를 이유로 급사해서 우리가 ‘운’이 좋게 공동 입찰자가 되었지만…",
+    "context": "EN :\nBut then they suddenly croaked for reasons unknown, making us the “lucky” bidders…\nJP :\n原因不明だとはいえ急死して、私たちが「運」良く共同入札者にはなったけど…。"
+  },
+  {
+    "key": "48-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "48-content",
+    "original": "…뒤가 구리게 죽었다는 걸 우아하게도 표현하네.",
+    "context": "EN :\n…What an elegant way to put that they died under shady circumstances.\nJP :\n…怪しい方法で死んだってことを、すごく優雅に表現するんだね。"
+  },
+  {
+    "key": "49-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "49-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "49-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "49-content",
+    "original": "하하, 로쟈. 너 아직도 그렇게 비아냥대고 다니는 거야?",
+    "context": "EN :\nHaha, oh Rodya. You’re still as cynical as ever, huh?\nJP :\nはは、ロージャ。君、今もそんな風に皮肉を言い回ってるのか？"
+  },
+  {
+    "key": "50-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "50-content",
+    "original": "…시끄러. 그런데 다들 황금가지는 어떻게 알고 있는 거야? 이렇게 널리 알려져 있는 물건인지는 미처 몰랐는데.",
+    "context": "EN :\n…Shut it. How do you guys all know about the Golden Bough, though? Didn’t think it would be so widely known to the public.\nJP :\n…うっさい。ところでみんな黄金の枝のことをどうして知ってるの？\nここまで広く知られてるとは思わなかったんだけど。"
+  },
+  {
+    "key": "51-model",
+    "original": "아이드",
+    "translation": "艾达",
+    "context": "EN :\n洛斯流浪乐队\nJP :\nMariachiBoss"
+  },
+  {
+    "key": "51-teller",
+    "original": "아이드",
+    "context": "EN :\nAida\nJP :\nアイド"
+  },
+  {
+    "key": "51-title",
+    "original": "마리아치",
+    "context": "EN :\nLos Mariachis\nJP :\nマリアッチ"
+  },
+  {
+    "key": "51-content",
+    "original": "이름 있는 조직들 사이에서는 다 아는 소문이었지. 여기에 묻힌 황금 가지를 얻으면… 모든 부와 영예를 다 가질 수 있을 거라고.",
+    "context": "EN :\nAny Syndicate worth its name has caught wind of the stories. Those about the Golden Bough buried down here… and the riches and fame it’ll bring to the owner.\nJP :\n名のある組織の間ではよく知られてる噂さ。\nここに埋められた黄金の枝を得れば…あらゆる富と名誉を得られるって。"
+  },
+  {
+    "key": "52-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "52-content",
+    "original": "그러고 보니, 네가 부와 영예에 관심을 가지고 있을 줄은 몰랐네? 소냐, 너는 그런 것들을 멀리하라고 했던 것 같은데.",
+    "context": "EN :\nIf that’s the case, seems someone has gained an interest for worldly luxuries, huh? I thought you warned me to stay away from those things, Sonya.\nJP :\nところで、あんたが富と名誉に興味があるって思わなかったな。\nソーニャ、あんたはそんなものを避けてた気がするんだけど。"
+  },
+  {
+    "key": "53-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "53-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "53-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "53-content",
+    "original": "황금가지는 더 대단한 일을 할 수 있어, 로쟈. 내 목적은 그때나 지금이나 항상 동일해. 억압과 착취를 타파해서 부의 축적을 경계하는…",
+    "context": "EN :\nThe Golden Bough can be used to achieve far greater things, Rodya. My purpose has stayed the same. To destroy the system of oppression and exploitation, preventing the concentration of wealth…\nJP :\n黄金の枝を使えばより素晴らしいことが出来るんだ、ロージャ。\n君の目的はそのときも今もずっと同じ。\n抑圧と搾取を打破して負の蓄積を警戒する…。"
+  },
+  {
+    "key": "54-model",
+    "original": "철공회보스",
+    "translation": "铁工会老大",
+    "context": "EN :\n铁工会\nJP :\nIronBoss"
+  },
+  {
+    "key": "54-teller",
+    "original": "철공회 보스",
+    "context": "EN :\nCrew Boss\nJP :\n鉄工会 ボス"
+  },
+  {
+    "key": "54-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "54-content",
+    "original": "쟈, 쟈 또 어려운 말 시작하려고 한다. 누가 좀 말려줘라.",
+    "context": "EN :\nYeesh, there he goes again with the grand words. Someone stop ‘im.\nJP :\nおいおい、まーた小難しいことくっちゃべろうとしちょる。誰か止めろや。"
+  },
+  {
+    "key": "55-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "55-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "55-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "55-content",
+    "original": "미안해요. 이러니까 옛날 생각이 나서요.",
+    "context": "EN :\nMy apologies. It reminded me of the old times.\nJP :\nすみません。こうしてると昔のことが思い浮かんで。"
+  },
+  {
+    "key": "56-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "56-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "56-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "56-content",
+    "original": "재밌다. 넌 도박과 돈이라면 사족을 못 썼고 나는 늘 말리는 입장이었는데.",
+    "context": "EN :\nIt’s funny. I used to keep you from your obsession with gambling and money.\nJP :\n面白いね。君は賭博とカネに目が無くて、僕はいつも止める立場だったのに。"
+  },
+  {
+    "key": "57-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "57-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "57-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "57-content",
+    "original": "이제는 서로의 목표를 걸고 각자의 패를 숨기는 사이가 되었네.",
+    "context": "EN :\nYet here we are at the same table, keeping our hands of cards from each other in a gamble with our goals on the line.\nJP :\n今やお互いの目標を掛けて、各自の手札を隠す間柄になっちゃったか。"
+  },
+  {
+    "key": "58-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "58-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "58-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "58-content",
+    "original": "네 목표는 뭐지?",
+    "context": "EN :\nWhat is your goal?\nJP :\n君の目標は何だ？"
+  },
+  {
+    "key": "59-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "59-content",
+    "original": "…이기는 거.",
+    "context": "EN :\n…To win.\nJP :\n…勝つこと。"
+  },
+  {
+    "key": "60-model",
+    "original": "소냐",
+    "translation": "索尼亚",
+    "context": "EN :\nソーニャ\nJP :\nSonya"
+  },
+  {
+    "key": "60-teller",
+    "original": "소냐",
+    "context": "EN :\nSonya\nJP :\nソーニャ"
+  },
+  {
+    "key": "60-title",
+    "original": "유로지비",
+    "context": "EN :\nYurodivy\nJP :\nユロージヴィ"
+  },
+  {
+    "key": "60-content",
+    "original": "…그래.",
+    "context": "EN :\n…Of course.\nJP :\n…そうか。"
+  }
+]

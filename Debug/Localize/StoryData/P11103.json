@@ -1,0 +1,222 @@
+[
+  {
+    "key": "0-teller",
+    "original": "재판장",
+    "context": "EN :\nJudge Presiding\nJP :\n裁判長"
+  },
+  {
+    "key": "0-title",
+    "original": "군사 법정",
+    "context": "EN :\nMilitary Court\nJP :\n軍事法廷"
+  },
+  {
+    "key": "0-content",
+    "original": "귀하와 연합하여 전쟁을 치룬 회사의 목록을 말하시오.",
+    "context": "EN :\nPlease state the corporate entities that colluded with you in the war.\nJP :\n貴殿と連合し、戦争を引き起こした会社を述べよ。"
+  },
+  {
+    "key": "1-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "1-title",
+    "original": "G사 부장",
+    "context": "EN :\nG Corp. Head Manager\nJP :\nG社 部長"
+  },
+  {
+    "key": "1-content",
+    "original": "…F사, E사.",
+    "context": "EN :\n…F Corp, and E Corp.\nJP :\n…F社、E社。"
+  },
+  {
+    "key": "2-teller",
+    "original": "재판장",
+    "context": "EN :\nJudge Presiding\nJP :\n裁判長"
+  },
+  {
+    "key": "2-title",
+    "original": "군사 법정",
+    "context": "EN :\nMilitary Court\nJP :\n軍事法廷"
+  },
+  {
+    "key": "2-content",
+    "original": "…그 외에는?",
+    "context": "EN :\n…Any others?\nJP :\n…それ以外は？"
+  },
+  {
+    "key": "3-content",
+    "original": "아이는 다 알고 있으면서 왜 묻느냐는 마음이었지만, 그걸 입에 담는 것이 불리하다는 걸 너무 잘 알고 있었지.",
+    "context": "EN :\nThe child was vexed by the question, especially so, as she knew that having the expected answer come out of her mouth would put her standing in jeopardy.\nJP :\n子供は知ってる癖してどうして聞くんだという気持ちだったが、それを口にすることで不利になることは痛いくらい分かっていた。"
+  },
+  {
+    "key": "4-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "4-title",
+    "original": "G사 부장",
+    "context": "EN :\nG Corp. Head Manager\nJP :\nG社 部長"
+  },
+  {
+    "key": "4-content",
+    "original": "…구 L사.",
+    "context": "EN :\n…The old L Corp.\nJP :\n…旧L社。"
+  },
+  {
+    "key": "5-teller",
+    "original": "재판장",
+    "context": "EN :\nJudge Presiding\nJP :\n裁判長"
+  },
+  {
+    "key": "5-title",
+    "original": "군사 법정",
+    "context": "EN :\nMilitary Court\nJP :\n軍事法廷"
+  },
+  {
+    "key": "5-content",
+    "original": "그렇다면 귀하는 이번 전쟁의 시발점과 함께 손을 잡고 전쟁을 치루었다는 설명이 되는군. 인정하는가?",
+    "context": "EN :\nWhat you’ve just testified would signify that you fought alongside the instigator of the war. Do you admit this?\nJP :\nそれなら、貴殿は今回の戦争の扇動者と共に手を繋ぎ、戦争を引き起こしたことになるな。認めるか？"
+  },
+  {
+    "key": "6-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "6-title",
+    "original": "G사 부장",
+    "context": "EN :\nG Corp. Head Manager\nJP :\nG社 部長"
+  },
+  {
+    "key": "6-content",
+    "original": "본인은 사원으로서 G사의 명령에 따랐을 뿐…!",
+    "context": "EN :\nI was only following G Corp’s orders as an employee—!\nJP :\n本職は社員としてG社の命令に従ったのみで…！"
+  },
+  {
+    "key": "7-teller",
+    "original": "재판장",
+    "context": "EN :\nJudge Presiding\nJP :\n裁判長"
+  },
+  {
+    "key": "7-title",
+    "original": "군사 법정",
+    "context": "EN :\nMilitary Court\nJP :\n軍事法廷"
+  },
+  {
+    "key": "7-content",
+    "original": "오티스 과장.",
+    "context": "EN :\nManager Outis, please.\nJP :\nウーティス課長。"
+  },
+  {
+    "key": "8-content",
+    "original": "재판장은 자꾸만 말을 잘라내는 아이가 마음에 안들었는지 손을 가만히 들며 그녀를 제지했어.",
+    "context": "EN :\nAnnoyed by the child speaking out of turn, the judge lifted a hand to stop her from further interruption.\nJP :\n裁判長はしきりに話を遮る子供が気に入らなかったのか、手を静かに上げて彼女を制止した。"
+  },
+  {
+    "key": "9-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "9-title",
+    "original": "G사 부장",
+    "context": "EN :\nG Corp. Head Manager\nJP :\nG社 部長"
+  },
+  {
+    "key": "9-content",
+    "original": "…과장 오티스.",
+    "context": "EN :\n…Manager Outis.\nJP :\n…課長ウーティス。"
+  },
+  {
+    "key": "10-teller",
+    "original": "재판장",
+    "context": "EN :\nJudge Presiding\nJP :\n裁判長"
+  },
+  {
+    "key": "10-title",
+    "original": "군사 법정",
+    "context": "EN :\nMilitary Court\nJP :\n軍事法廷"
+  },
+  {
+    "key": "10-content",
+    "original": "이보게, 전쟁은 끝났어. 그것도 자네들의 승리였지.",
+    "context": "EN :\nListen, the war has ended. Furthermore, it was your side that won.\nJP :\n静粛に、戦争は終わった。それも貴殿達の勝利だった。"
+  },
+  {
+    "key": "11-teller",
+    "original": "재판장",
+    "context": "EN :\nJudge Presiding\nJP :\n裁判長"
+  },
+  {
+    "key": "11-title",
+    "original": "군사 법정",
+    "context": "EN :\nMilitary Court\nJP :\n軍事法廷"
+  },
+  {
+    "key": "11-content",
+    "original": "G사는 원했던 대로 연기의 부산물로 앞으로 수십년을 가용할 에너지를 얻었고. ",
+    "context": "EN :\nG Corp. acquired what it sought: decades’ worth of energy from byproducts of the smoke.\nJP :\nG社は望み通り、煙の副産物で今後数十年は利用可能なエネルギーを獲得し。"
+  },
+  {
+    "key": "12-teller",
+    "original": "재판장",
+    "context": "EN :\nJudge Presiding\nJP :\n裁判長"
+  },
+  {
+    "key": "12-title",
+    "original": "군사 법정",
+    "context": "EN :\nMilitary Court\nJP :\n軍事法廷"
+  },
+  {
+    "key": "12-content",
+    "original": "이건 자네에게 책임을 묻거나 벌을 주기 위한 자리가 아니야. 알겠는가?",
+    "context": "EN :\nThis court is not being held to find you responsible or punish you. Do you understand?\nJP :\nこれは貴殿に責任を問うたり、罰を与えたりするための場ではない。分かったか？"
+  },
+  {
+    "key": "13-content",
+    "original": "그럴리가, 아이는 그렇게 생각했어.",
+    "context": "EN :\n“As if.” The child thought to herself.\nJP :\nそんなわけ、子供はそう思った。"
+  },
+  {
+    "key": "14-content",
+    "original": "승리한다고 해서 G사 연합 측이 도시의 전부에 영향을 뻗치는 건 아니다. ",
+    "context": "EN :\nThe victory of G Corp’s alliance does not mean that its influence extends to the whole City.\nJP :\n勝利したとはいえ、G社連合が都市全体に影響を及ぼすわけではない。"
+  },
+  {
+    "key": "15-content",
+    "original": "오히려 여러 날개의 이해관계가 복잡하게 얽혔던 전쟁인 만큼, 승자에게는 명분이 필요할테지.",
+    "context": "EN :\nRather, it comes with a problem: As the war involved the inextricably intertwined interests of several Wings, the victor will need its justifications.\nJP :\nむしろ様々な翼の利害関係が複雑に絡まっていた戦争である分、勝者には大義名分が必要なのだろう。"
+  },
+  {
+    "key": "16-content",
+    "original": "그렇다면 회사의 선택은… 적당히 손가락질 받을 만한 자를 경질함으로서 무결한 승자의 이미지를 공고히 하는 전략을 택하겠지.",
+    "context": "EN :\nFor those sorts of matters… the obvious move for a company would be to appear as innocent as possible in the public eye by reprimanding an easy target…\nJP :\nそれなら会社は…適当に後ろ指を差されそうな人を更迭することで、無欠の勝者であるイメージを強固にする戦略を選ぶだろうね。"
+  },
+  {
+    "key": "17-content",
+    "original": "나라면 그렇게 해, 아이는 그런 생각을 하면서…",
+    "context": "EN :\n“…And that’s why I’ll be thrown to the wolves.” She concluded.\nJP :\n私ならそうする、子供はそう考えながら…。"
+  },
+  {
+    "key": "18-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "18-title",
+    "original": "G사 부장",
+    "context": "EN :\nG Corp. Head Manager\nJP :\nG社 部長"
+  },
+  {
+    "key": "18-content",
+    "original": "…알겠습니다.",
+    "context": "EN :\n…I understand, your honor.\nJP :\n…承知しました。"
+  }
+]

@@ -1,0 +1,3 @@
+D:\a\LLC_To_Paratranz\LLC_To_Paratranz\LLC_Test
+LLC GitHub仓库Localize目录
+支持相对和绝对目录

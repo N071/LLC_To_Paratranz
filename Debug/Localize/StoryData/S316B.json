@@ -1,0 +1,227 @@
+[
+  {
+    "key": "0-place",
+    "original": "칼프 마을 광장",
+    "context": "EN :\nCalw - Town Square\nJP :\nカルフ町 広場"
+  },
+  {
+    "key": "0-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "0-content",
+    "original": "자, 이제 어떡할까요? 지금 저희가 조용히 이동하기만 하면 다른 심문관들에겐 들키지 않고 지나갈 수 있어요.",
+    "context": "EN :\nOkay, what should we do now? If we move quietly, we might be able to pass by the other Inquisitors unnoticed.\nJP :\nさあ、これからどうしましょう？私たちが静かに\n移動さえすれば、他の審問官たちにはバレずに通り過ぎられます。"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "단테 씨… 저… 미리 죄송해요.",
+    "context": "EN :\nDante… I… I’d like to apologize in advance.\nJP :\nダンテさん…あの…前もって謝ります。"
+  },
+  {
+    "key": "2-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "2-content",
+    "original": "아시다시피… 저는 다른 분들처럼 전투에 많은 경험이 없어요…",
+    "context": "EN :\nAs you know… I’m not as experienced with fighting like the others…\nJP :\nご存知の通り…僕は他の方のように、戦闘経験はあまり無いです…。"
+  },
+  {
+    "key": "3-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "3-content",
+    "original": "그래서 저놈들에게 계속해서 심장이 뚫리게 될 수도 있어요…",
+    "context": "EN :\nOur foes might jab me in the heart over and over for that…\nJP :\nだから、あいつらにずっと心臓を貫かれることになるかもしれません…。"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "그래도… 버텨 주실 수 있나요?",
+    "context": "EN :\nWill you… bear that for me?\nJP :\nそれでも…耐えてくれますか？"
+  },
+  {
+    "key": "5-content",
+    "original": "싱클레어의 온몸은 지켜보는 사람이 안타까울 정도로 바르르 떨리고 있었다.",
+    "context": "EN :\nSinclair was trembling so badly that it’d be pitiful for anyone to witness.\nJP :\nシンクレアの全身は、見守っている人の方が\n不憫な思いをするくらいには震えていた。"
+  },
+  {
+    "key": "6-content",
+    "original": "눈앞의 공포를 안간힘을 다해 억누르려고 하는 모습이 필사적이었다.",
+    "context": "EN :\nI could tell he was desperately trying to suppress his fear.\nJP :\n目の前の恐怖を全力で抑えようとする姿が、切実だった。"
+  },
+  {
+    "key": "7-content",
+    "original": "여태껏 싱클레어가 죽어오지 않았던 것은 아니었다. 그때마다 착실하게 살려내기도 했다.",
+    "context": "EN :\nIt wouldn’t be the first time Sinclair has died. Whenever he bit the dust, I made sure to bring him back.\nJP :\n今までシンクレアが死ななかったわけではない。\nその都度、着実に蘇生したりもした。"
+  },
+  {
+    "key": "8-content",
+    "original": "하지만 이렇게 양해를 구했던 것은 처음이었고, 계속해서 죽더라도 저들 앞에 나서겠다는 의지가 보이는 것만 같았다.",
+    "context": "EN :\nBut today, he’s newly asking for my understanding. He looked determined to confront them directly even if it means he’ll die again and again.\nJP :\nしかし、このように了解を求めたのは初めてで、\n死に続けても彼らの前へ出るという意志が見えた。"
+  },
+  {
+    "key": "9-content",
+    "original": "평소 전투를 할 때 겁을 먹는 것과는 다른 계열…",
+    "context": "EN :\nA feeling quite unlike the fright a usual battle evokes…\nJP :\n普段、戦闘を行うときに怖がっているのとはまた違う…。"
+  },
+  {
+    "key": "10-content",
+    "original": "아마도 그 나름의 용기가 함께 하는 공포가 아닐까.",
+    "context": "EN :\nMaybe he’s holding the kind of fear that comes with a certain courage.\nJP :\nたぶんそれなりの勇気が伴う恐怖ではないだろうか。"
+  },
+  {
+    "key": "11-content",
+    "original": "그렇다면…",
+    "context": "EN :\nIn that case…\nJP :\nそれなら…。"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "<두렵니, 싱클레어?>",
+    "context": "EN :\n<Are you scared, Sinclair?>\nJP :\n<怖いのかい、シンクレア？>"
+  },
+  {
+    "key": "13-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "13-content",
+    "original": "…!",
+    "context": "EN :\n…!\nJP :\n…！"
+  },
+  {
+    "key": "15-content",
+    "original": "싱클레어가 돌연 고개를 확 틀더니 믿을 수 없다는 눈빛으로 나를 쳐다보았다.",
+    "context": "EN :\nSinclair suddenly turned around and gave me a startled look.\nJP :\nシンクレアは突然顔を上げると、信じられないという目つきで私を見つめてきた。"
+  },
+  {
+    "key": "16-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "16-content",
+    "original": "<음? 내가 뭐 잘못 말했어?>",
+    "context": "EN :\n<Hmm? Did I say something weird?>\nJP :\n<うん？何か変なこと言った？>"
+  },
+  {
+    "key": "17-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "17-content",
+    "original": "아니요… 오래전에 같은 걸 물어보았던 친구가 생각나서요.",
+    "context": "EN :\nNo, it’s just… I was reminded of a friend who asked me the same question.\nJP :\nいいえ…ずっと昔、同じことを訊いてきた友達を思い出したんです。"
+  },
+  {
+    "key": "18-content",
+    "original": "잠깐의 정적이 찾아온 후에 싱클레어가 입을 열었다. 꽉 잠긴 목소리였다.",
+    "context": "EN :\nSinclair opened his mouth after a brief pause. His voice cracked.\nJP :\n一瞬の静寂が訪れた後、シンクレアは口を開いた。深く沈んだ声だった。"
+  },
+  {
+    "key": "19-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "19-content",
+    "original": "…전 히스클리프 씨 말에 동의해요.",
+    "context": "EN :\n…I agree with what Heathcliff said.\nJP :\n…僕はヒースクリフさんの言うことに同意します。"
+  },
+  {
+    "key": "20-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "20-content",
+    "original": "의체 머리를 가지고 있어도 단테 씨라는 사람이 달라지는 건 없었을 거예요.",
+    "context": "EN :\nProsthetic head or not, you would’ve been the same person regardless, Dante.\nJP :\n義体の頭を持っていても、\nダンテさんという人が変わることはなかったと思います。"
+  },
+  {
+    "key": "21-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "21-content",
+    "original": "그리고 우리 가족들도 마찬가지였겠죠.",
+    "context": "EN :\nI guess the same could be said for my family.\nJP :\nそして、僕の家族も同じだったでしょう。"
+  },
+  {
+    "key": "22-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "22-content",
+    "original": "<고마워, 싱클레어.>",
+    "context": "EN :\n<Thanks, Sinclair.>\nJP :\n<ありがとう、シンクレア。>"
+  },
+  {
+    "key": "23-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "23-content",
+    "original": "…후.",
+    "context": "EN :\n…Hoo.\nJP :\n…ふぅ。"
+  },
+  {
+    "key": "24-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "24-content",
+    "original": "아녜요. 이제부터 질리도록 죽을 테니 너무 고마워하시면 제가 불편해요. 하하.",
+    "context": "EN :\nIt’s nothing. I can’t have you be too thankful when I’m about to make you suffer by throwing my life away. Haha.\nJP :\nいいえ。これから飽きるほど死ぬと思うので、\n今の段階で感謝されても困ります。あはは。"
+  },
+  {
+    "key": "25-content",
+    "original": "문득, 그래서 친구의 질문에 뭐라고 대답했는지 미처 물어보질 못했다는 생각이 들었을 땐…",
+    "context": "EN :\nJust as I realized that I forgot to ask what he said in response to the same question his friend had…\nJP :\nふと、それで友達の質問に何と答えたのか\nまだ聞いていないなと思った頃には…。"
+  },
+  {
+    "key": "26-content",
+    "original": "이미 싱클레어는 저만치 뛰어가고 있었다.",
+    "context": "EN :\nSinclair had already charged into the fray.\nJP :\n既にシンクレアは遠くへ走り出していた。"
+  }
+]

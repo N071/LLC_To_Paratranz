@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10504_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10504_1-dlg",
+    "original": "쥐는 자의 망치는 이곳에 있나니.",
+    "context": "EN :\nHere is the hammer of the One Who Grips.\nJP :\n握る者の金鎚はここにあらん。"
+  },
+  {
+    "key": "lobby_morning_10504_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10504_1-dlg",
+    "original": "육체를 바르게 하기에 적합한 시간입니다. 귀하께서도 집회에 참여하여 마음을 씻어내는 것이 어떠한지.",
+    "context": "EN :\nThe time is ripe to discipline the body. I suggest that you participate in the gathering as well to help cleanse your mind.\nJP :\n肉体を正すのに適した時間です。貴殿も集会に参加し、心を洗い流すのはいかがだろうか。"
+  },
+  {
+    "key": "lobby_noon_10504_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10504_1-dlg",
+    "original": "이 시간에 귀하를 마주칠 줄은 미처 모르고 있었습니다. 근무에 고충이 있다면, 본인에게 언제든 말씀하시기를.",
+    "context": "EN :\nI did not anticipate encountering you at this hour. If you have any woes regarding your work, please don’t hesitate to inform me.\nJP :\nこの時間に貴殿と顔を合わせるとは全く予想しておりませんでした。勤務に苦衷があれば、当人にいつでも仰るように。"
+  },
+  {
+    "key": "lobby_night_10504_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10504_1-dlg",
+    "original": "귀하는 침소에 일찍 들어 육신을 보존하소서. 본인은 지금부터… 쥐여져야 하므로.",
+    "context": "EN :\nI suggest you retire to bed early so that you may preserve your strength. As for myself… there is a matter that needs me to be gripped.\nJP :\n貴殿は寝所に早く向かい、肉身を保存なさいませ。当人は今から…握られねばならぬので。"
+  },
+  {
+    "key": "smalltalk_10504_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10504_1-dlg",
+    "original": "쥐는 자를 보필하는 것은 으뜸 영광입니다. 본인은, 아직도 지명의 순간을 잊지 않고 있습니다.",
+    "context": "EN :\nIt is one’s highest honor to aid the One Who Grips. I still have not forgotten the moment I was appointed as such.\nJP :\n握る者を補弼することは至上の栄光です。当人は、未だに指名の瞬間を忘れておりません。"
+  },
+  {
+    "key": "smalltalk_10504_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10504_2-dlg",
+    "original": "이 못이 궁금하시군요. 이것은 N사의 경험 통조림을 만드는데 쓰입니다. 자세한 사용 방법은… 직접 현장을 찾으심이.",
+    "context": "EN :\nSo you are curious about this nail. This one is used to manufacture N Corp’s canned experiences. As for its use… You would do well to see where it’s used yourself.\nJP :\nこの釘が気になるのですね。これはN社の経験缶詰を作るのに使われます。詳細な使用方法は…直接現場を訪れられんことを。"
+  },
+  {
+    "key": "smalltalk_10504_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10504_3-dlg",
+    "original": "이 가면은 쥐는 자께서 하사해주신 것입니다. 과거에 쓰던 것은 이 생명수의 관을 가리기에 부적절해진 터라.",
+    "context": "EN :\nThis mask has been bestowed upon me by the One Who Grips. The one I wore in the past could no longer conceal the tubes carrying lifefluid.\nJP :\nこの仮面は握る者より賜ったものにございます。過去に使っていたものは、この生命水の管を隠すには不適切になってしまいましたもので。"
+  },
+  {
+    "key": "smalltalk_10504_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10504_4-dlg",
+    "original": "…최근에 쥐는 자께서 눈 여겨 보시는 자가 있는 것 같습니다. 못의 자질이 있다던가. 귀하께서 인선을 하실 때의 판단을 알고 싶습니다. 혜안을 나누어주시옵소서.",
+    "context": "EN :\n…It seems that there is someone recently holding the attention of the One Who Grips. It involves something about the potential to serve as a Nail. I would like to know how you determine who to appoint. Please share your wisdom.\nJP :\n…最近、握る者が青い目でご覧になっている者がいるようです。なんでも釘の資質があるとか。貴殿が人選をする時の判断が知りたいです。ご慧眼を拝借いただけませんでしょうか。"
+  },
+  {
+    "key": "smalltalk_10504_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10504_5-dlg",
+    "original": "저는 단 한 명의 못을 위한 망치일 뿐입니다. 쥐는 자께서는 못의 씨앗인 그 자를 가르치라 하시지만… 아니. 쥐는 자의 뜻이 그렇다면, 따를 뿐입니다.",
+    "context": "EN :\nI am but a Hammer, serving a single Nail. Although the One Who Grips insists that I teach that disciple, a seed with the bearings of a Nail… Nay. If the One Who Grips instructs, then I am to follow.\nJP :\n私はたった一人の釘のための金鎚に過ぎません。握る者は、釘の種であるあの者に教えを授けよと仰いますが…いや。握る者の意がそうであれば、従うのみです。"
+  },
+  {
+    "key": "neglect_10504_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10504_1-dlg",
+    "original": "망치는 언제나 그 자리에, 쥐일 때를 기다리고 있으므로.",
+    "context": "EN :\nThe hammer always waits in place, ready to be gripped.\nJP :\n金鎚はいつであれのその場にて、握られるときを待っているが故に。"
+  },
+  {
+    "key": "gacksung_10504_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10504_1-dlg",
+    "original": "인정 받기에는 아직 미력하나, 귀하의 뜻이 그러하다면.",
+    "context": "EN :\nThough I believe myself to be ever too puny to deserve such recognition, I will accept if you insist.\nJP :\n認められるにはまだ微力ではあるが、貴殿の意がそうであるならば。"
+  },
+  {
+    "key": "formation_10504_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10504_1-dlg",
+    "original": "이곳에 있나니.",
+    "context": "EN :\nI am here.\nJP :\n此処に。"
+  },
+  {
+    "key": "battleentry_10504_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10504_1-dlg",
+    "original": "흙으로도 돌아가지 못 하리라.",
+    "context": "EN :\nThey shan’t rest beneath the earth.\nJP :\n土へも還れぬようにせん。"
+  },
+  {
+    "key": "battle_select_10504_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10504_1-dlg",
+    "original": "말씀을 받드오니.",
+    "context": "EN :\nI heed your words.\nJP :\nお言葉を賜りましょう。"
+  },
+  {
+    "key": "battle_endcommand_10504_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10504_1-dlg",
+    "original": "참회하게 되리라.",
+    "context": "EN :\nYou shall repent.\nJP :\n懺悔するであろう。"
+  },
+  {
+    "key": "battle_enemy_break_10504_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10504_1-dlg",
+    "original": "무가치한 저항일 뿐이다.",
+    "context": "EN :\nA worthless resistance.\nJP :\n無価値な抵抗でしかない。"
+  },
+  {
+    "key": "battle_break_10504_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10504_1-dlg",
+    "original": "신앙이 빈약하군.",
+    "context": "EN :\nSuch feeble faith.\nJP :\n信仰が貧弱だ。"
+  },
+  {
+    "key": "battle_kill_10504_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10504_1-dlg",
+    "original": "이단을 정화했다.",
+    "context": "EN :\nThe heretic has been purged.\nJP :\n異端を浄化した。"
+  },
+  {
+    "key": "battle_dead_10504_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10504_1-dlg",
+    "original": "망치는… 그대들을 계속 쫓을 것이다…",
+    "context": "EN :\nThe hammer… shall pursue you to the end…\nJP :\n鎚は…延々と汝等を追うであろう…。"
+  },
+  {
+    "key": "choice_success_p_10504_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10504_2-dlg",
+    "original": "쥐는 자께서 성공을 명하셨으므로.",
+    "context": "EN :\nFor the One Who Grips had ordered me to succeed.\nJP :\n握る者より成功を命じられたが故。"
+  },
+  {
+    "key": "choice_fail_n_10504_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10504_1-dlg",
+    "original": "본인이 미력하였기에.",
+    "context": "EN :\nIt was the fault of my inability.\nJP :\n当人が微力であったが故。"
+  },
+  {
+    "key": "battle_clear_10504_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10504_1-dlg",
+    "original": "쥐는 자께서 만족하셨다면, 그것으로 족합니다.",
+    "context": "EN :\nIf the One Who Grips is satisfied, that is enough for me.\nJP :\n握る者がご満悦であれば、それで十分です。"
+  },
+  {
+    "key": "battle_clear_ex_10504_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10504_1-dlg",
+    "original": "쥐는 자께 완벽한 승리를 바치리라.",
+    "context": "EN :\nI devote this superb victory to the One Who Grips.\nJP :\n握る者へ完璧な勝利を捧げん。"
+  },
+  {
+    "key": "battle_defeat_10504_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10504_1-dlg",
+    "original": "모든 것은… 미력한 본인의 죄…",
+    "context": "EN :\nIt is all… the fault of my weakness…\nJP :\n全ては…微力なる当人の罪…。"
+  }
+]

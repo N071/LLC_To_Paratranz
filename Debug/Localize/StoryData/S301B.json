@@ -1,0 +1,678 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-content",
+    "original": "어느덧 해는 거의 저물고, 어둠만이 완연히 뒤덮어 오고 있었다.",
+    "context": "EN :\nThe sun is almost set, leaving the bus to be shrouded in dusk.\nJP :\nいつの間にか太陽はほぼ沈み、闇がすっかり覆いかぶさってきた。"
+  },
+  {
+    "key": "1-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "1-content",
+    "original": "… … …….",
+    "context": "EN :\n… … ……\nJP :\n…………。"
+  },
+  {
+    "key": "2-content",
+    "original": "버스엔 카론의 흥얼거림이 들려온다.",
+    "context": "EN :\nCharon’s humming a song while driving.\nJP :\nバスの中にカロンの鼻歌が響いている。"
+  },
+  {
+    "key": "3-content",
+    "original": "어딘지 모르게 낯익은 선율이었기에, 나는 어느샌가 그것을 속으로 따라 부르고 있었다.",
+    "context": "EN :\nI found myself singing along in my head to that strangely familiar tune.\nJP :\nどことなく聴き慣れたメロディーだったので、\n私はいつしかそれを心の中で歌っていた。"
+  },
+  {
+    "key": "4-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "4-content",
+    "original": "아름다운 연주는 세상의 망가진 것들에게서부터 나옵니다. 아이러니한 이치죠.",
+    "context": "EN :\nThe most beautiful of performances are born from broken and ruined things. Ironic, the way the world works.\nJP :\n美しい演奏はこの世の壊れたもの達から生じます。\n皮肉な道理ですよね。"
+  },
+  {
+    "key": "5-content",
+    "original": "내 고개가 버스 운전석을 향해 있음을 눈치챈 듯, 베르길리우스가 말했다.",
+    "context": "EN :\nVergilius spoke, having noticed that I was looking at the driver’s seat.\nJP :\n私の首がバスの運転席に向いていることを察したかのように、\nヴェルギリウスが言った。"
+  },
+  {
+    "key": "6-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "6-content",
+    "original": "허나, 온전히 음유를 느낄 수 있는 것은 정작 그들의 몫이 아니니… 이 얼마나 억울합니까.",
+    "context": "EN :\nAlas, they have not the privilege to fully appreciate the glee of their own music… Oh, how unjust that is.\nJP :\nしかし、その吟遊を感じ取ることは彼らの役目では\nありませんから…なんと悔しいことでしょう。"
+  },
+  {
+    "key": "7-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "7-content",
+    "original": "<…….>",
+    "context": "EN :\n<……>\nJP :\n<……。>"
+  },
+  {
+    "key": "8-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "8-content",
+    "original": "카론, 오늘은 기분이 좋아 보이는구나.",
+    "context": "EN :\nCharon, you look like you’re in a good mood today.\nJP :\nカロン、今日は気分が良さそうだな。"
+  },
+  {
+    "key": "9-content",
+    "original": "카론이 고개를 끄덕였다.",
+    "context": "EN :\nCharon nodded.\nJP :\nカロンが首を振った。"
+  },
+  {
+    "key": "10-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "10-content",
+    "original": "응, 기분 좋으면 노래를 부르는 거야.",
+    "context": "EN :\nMhm, joy brings out singing.\nJP :\nうん、気分が良いと歌を歌うの。"
+  },
+  {
+    "key": "11-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "11-content",
+    "original": "그래.",
+    "context": "EN :\nI see.\nJP :\nそうか。"
+  },
+  {
+    "key": "12-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "12-content",
+    "original": "하지만…",
+    "context": "EN :\nAlthough…\nJP :\nでも…。"
+  },
+  {
+    "key": "13-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "13-content",
+    "original": "너는 오히려 울적할 때 그 노래를 흥얼거렸던 것 같은데.",
+    "context": "EN :\nAs far as I remember, you would often hum that song when you felt down.\nJP :\n君はむしろ憂鬱なときにその歌を口ずさんでいた気がするんだが。"
+  },
+  {
+    "key": "14-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "14-content",
+    "original": "카론, 그런 기억 없어.",
+    "context": "EN :\nCharon has no such memories.\nJP :\nカロン、そんな記憶ない。"
+  },
+  {
+    "key": "15-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "15-content",
+    "original": "카론은 즐거울 때만 노래해.",
+    "context": "EN :\nCharon sings when she’s happy.\nJP :\nカロンは楽しいときだけ歌う。"
+  },
+  {
+    "key": "16-content",
+    "original": "베르길리우스의 눈빛이 채도 낮은 어둠으로 채워지는 것만 같았다.",
+    "context": "EN :\nVergilius’s eyes seemed to well with a subdued shade of dark.\nJP :\nヴェルギリウスの目が彩度の低い闇で満たされているような気がした。"
+  },
+  {
+    "key": "17-content",
+    "original": "고독함을 색으로 찾는다면 주저 없이 고를 만한 그런 빛깔.",
+    "context": "EN :\nThe kind of hue that would be picked right away if one wanted to express solitude as a color.\nJP :\n孤独さを色で表すなら迷わず選んでしまいそうな、そんな色。"
+  },
+  {
+    "key": "18-content",
+    "original": "하지만 너무나 잠깐이었던 지라…",
+    "context": "EN :\nBut it only lasted for a brief moment…\nJP :\nしかし、ほんの少しの間だったので…。"
+  },
+  {
+    "key": "19-content",
+    "original": "노을이 지나치게 강렬했기에 착각한 것이라고 생각하기로 했다.",
+    "context": "EN :\nSo I decided to dismiss it as the vivid sunset playing tricks with the light.\nJP :\n夕焼けが強烈だったから見えた錯覚なのだと思うことにした。"
+  },
+  {
+    "key": "20-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "20-content",
+    "original": "…이제 카론이 흥얼거리는 세상은 고요한 무채색입니다.",
+    "context": "EN :\n…The world Charon hums now is one that lacks sound and color.\nJP :\n…今やカロンの口ずさむ世界は静かな無彩色です。"
+  },
+  {
+    "key": "21-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "21-content",
+    "original": "길고 긴 터널 속을 헤어 나오지 못하고 있으니.",
+    "context": "EN :\nShe’s going through a long tunnel with no exit in sight.\nJP :\n長くも長いトンネルの中を抜け出せずにいるがゆえに。"
+  },
+  {
+    "key": "22-content",
+    "original": "내가 모르는 나의 생애가 어딘 가에 존재하듯,",
+    "context": "EN :\nI’m sure that, just like the history of my own life that I’ve forgotten…\nJP :\n私が知らない私の生涯がどこかに存在するように、"
+  },
+  {
+    "key": "23-content",
+    "original": "카론과 베르길리우스에게도 가혹한 추억의 심지가 있었을 것이다.",
+    "context": "EN :\nCharon and Vergilius must have their own threads of cruel reminders.\nJP :\nカロンとヴェルギリウスにも過酷な追憶の意があったのだろう。"
+  },
+  {
+    "key": "24-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "24-content",
+    "original": "이런. 너무 개인적인 이야기는 그만하기로 하죠, 단테.",
+    "context": "EN :\nAh, pardon me. I believe that’s enough of personal stories, Dante.\nJP :\nしまった。個人的すぎる話は止めにしましょう、ダンテ。"
+  },
+  {
+    "key": "25-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "25-content",
+    "original": "당신의 업무는 나와 친분을 쌓는 것이 아니라, 저들을 관리하는 것이니까.",
+    "context": "EN :\nYour work is to manage your crew, not befriend this old guide.\nJP :\nあなたの業務は私と親睦を深めることではなく、彼らを管理することですから。"
+  },
+  {
+    "key": "26-content",
+    "original": "다시 쳐다본 베르길리우스의 얼굴에는 방금까지의 서글픔은 찰나에 불과했다는 듯, 옅은 미소만 남아있었다.",
+    "context": "EN :\nWhen I looked at his face again, that momentary hint of sadness had fleeted, replaced with a faint smile.\nJP :\n再び見えたヴェルギリウスの顔には先ほどまでの悲しみは\n刹那のことに過ぎないという風に、薄い笑みだけが残っていた。"
+  },
+  {
+    "key": "27-content",
+    "original": "나는 고개를 두어 번 끄덕인 후, 수감자들을 향해서 고개를 돌려 보았다.",
+    "context": "EN :\nI gave him a few nods, then turned around to check on the Sinners.\nJP :\n私は首を二、三回上下に動かし、囚人の方へと振り向いた。"
+  },
+  {
+    "key": "28-content",
+    "original": "버스는 아까 전부터 묘한 고양감에 잠겨 있었다.",
+    "context": "EN :\nOur bus passengers have had lifted spirits for a while now.\nJP :\nバスは先ほどから妙な高揚感で満たされていた。"
+  },
+  {
+    "key": "29-content",
+    "original": "자신들이 모인 이유, 황금가지를 처음으로 회수했으니 그럴 법도 했다.",
+    "context": "EN :\nIt helped that they did what they were assembled for and secured a Golden Bough for the first time.\nJP :\n自分たちが集まった理由。\n黄金の枝を初めて回収したのだからそうなるのも無理はないだろう。"
+  },
+  {
+    "key": "30-content",
+    "original": "수감자들은, J사에서 겪었던 무용담을 펼치기 바쁜 듯했다.",
+    "context": "EN :\nAll the Sinners were busy talking about their exploits in J Corp’s District.\nJP :\n囚人たちは、J社で経験した武勇伝を語るのに忙しいようだった。"
+  },
+  {
+    "key": "31-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "31-content",
+    "original": "내가 그때 딱 카드 내는 걸 봤어야 했는데. 진짜 명장면이었다니까~",
+    "context": "EN :\nYou should’ve seen me show that card right there. Seriously, that was a real highlight~\nJP :\n私があのときカード出すところを見るべきだったのに。\n本当に名シーンだったってば～。"
+  },
+  {
+    "key": "32-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "32-content",
+    "original": "…저 이야기만 일곱 번째 들으니까 슬슬 지겨워져서 그러는데, 그래서 이번에는 어디로 가는 거지?",
+    "context": "EN :\n…I’m starting to get sick of hearing the same story for the seventh time in a row, so let me change the subject: Where are we going this time?\nJP :\n…その話、もう七回目でそろそろ飽きたから聞くんだけど、\nそれで今度はどこに行くんだ？"
+  },
+  {
+    "key": "33-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "33-content",
+    "original": "이번 목적지는… K사 둥지다.",
+    "context": "EN :\nThis time… we’re headed to K Corp’s Nest.\nJP :\n今回の目的地は…K社の巣だ。"
+  },
+  {
+    "key": "34-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "34-content",
+    "original": "아, 11구? 덕분에 평생 가보지도 못했을 곳 다 돌아다니네.",
+    "context": "EN :\nDistrict 11, eh? Job’s taking me to all sorts of places I’d never have thought to visit.\nJP :\nあぁ、11区？おかげさまで一生行く機会がないとこを回ってるな。"
+  },
+  {
+    "key": "35-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "35-content",
+    "original": "그곳에도 손에 꼽히는 대단한 분이 계신 다네! 아마 근처에 기념품 가게도 있을 것이야! 난 한정판 피규어 세트를 꼭 사고 싶었어!",
+    "context": "EN :\n‘Tis home to another great individual! And you are certain to find a souvenir shop there! I’ve always yearned for a limited-edition figurine set!\nJP :\nそこにも指折りの素晴らしい方がいらっしゃると聞いた！きっと近くに記念品ショップもあるはずだ！私は限定版フィギュアをずっと買いたかったのだ！"
+  },
+  {
+    "key": "36-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "36-content",
+    "original": "오~ 거기 햄버그 맛있다고 유명한 프랜차이즈 식당 있지 않았어?",
+    "context": "EN :\nOoo~ Didn’t it also have a restaurant chain famous for its hamburg steak?\nJP :\nおぉ～そこはハンバーグが美味しいことで有名な\nレストランのチェーン店がなかったっけ？"
+  },
+  {
+    "key": "37-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "37-content",
+    "original": "후… 요즘에는 세상 살기가 편해진 모양이군. 내가 임무를 위해 행군을 할 땐 입에 소금만 물고 가는 것이 전부였다.",
+    "context": "EN :\nHuff… Life has gotten much easier these days, hasn’t it? Back in my marching days, all I had was a pinch of salt in my mouth.\nJP :\nふっ…最近は住みやすい世の中になってきたようだな。\n私が任務のために行軍するときは、口に塩だけを詰めておしまいだ。"
+  },
+  {
+    "key": "38-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "38-content",
+    "original": "그러게 말이에요. 제가 항해할 때 목구멍에 넘길 수 있는 음식이라곤 철 맛이 나는 통조림 수프가 전부였는데.",
+    "context": "EN :\nI know, right? The only food I could swallow during my voyage was canned soup that tasted like iron.\nJP :\n本当ですね。私が航海してたとき、喉を通る食べ物といっては\n鉄の味がする缶詰のスープしかなかったんですよ。"
+  },
+  {
+    "key": "39-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "39-content",
+    "original": "…치, 침 고인다~ 그렇지 않아, 료슈?",
+    "context": "EN :\n…C-Can’t wait to try the steak~ Right, Ryōshū?\nJP :\n…よ、よだれが出ちゃう～。そうじゃない、良秀？"
+  },
+  {
+    "key": "40-model",
+    "original": "료슈",
+    "translation": "良秀",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "40-content",
+    "original": "뭐, 지역마다 다를 피의 색을 생각하니 침이 고이긴 하군.",
+    "context": "EN :\nWell, imagining the variances in blood-color by region does make me salivate.\nJP :\nまぁ確かに、地域によって違ってくる血の色を考えると涎が出てくるな。"
+  },
+  {
+    "key": "41-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "41-content",
+    "original": "윽… 진짜 무슨 얘기를 못 하겠어. 꼬맹이! 너는 뭐가 먹고 싶어?",
+    "context": "EN :\nUgh… Can’t discuss anything with you. Hey, kiddo! What do you wanna eat?\nJP :\nうっ…まともな話ができそうにないんだから。\nおちびちゃん！あんたは何が食べたい？"
+  },
+  {
+    "key": "42-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "42-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "43-content",
+    "original": "로쟈는 이야기를 제대로 받아줄 사람을 찾지 못하자, 으레 그렇듯 싱클레어를 찾았다.",
+    "context": "EN :\nLooking for someone to share tales with and have a sensible conversation, Rodya naturally turned to Sinclair.\nJP :\nロージャは話をちゃんと投げ返してくれる人が見つけられなかったのか、\nいつものようにシンクレアへ投げかけた。"
+  },
+  {
+    "key": "44-content",
+    "original": "하지만…",
+    "context": "EN :\nHowever…\nJP :\nでも…。"
+  },
+  {
+    "key": "45-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "45-content",
+    "original": "싱클레어?",
+    "context": "EN :\nSinclair?\nJP :\nシンクレア？"
+  },
+  {
+    "key": "46-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "46-content",
+    "original": "어머?! 얘, 얘 왜 이래?",
+    "context": "EN :\nWha—?! Gosh, golly what’s wrong?\nJP :\nあれ！？あれ、ねぇどうしたの？"
+  },
+  {
+    "key": "47-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "47-content",
+    "original": "하얗게 질렸군. 과호흡과 오한도 관측된다.",
+    "context": "EN :\nHe’s turned pale. He’s also suffering from hyperventilation and tremors.\nJP :\n顔面蒼白だな。過呼吸と悪寒も観測される。"
+  },
+  {
+    "key": "48-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "48-content",
+    "original": "<어, 언제부터?>",
+    "context": "EN :\n<H—How long has he been like this?>\nJP :\n<い、いつから？>"
+  },
+  {
+    "key": "49-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "49-content",
+    "original": "베르길리우스 님이 K사라는 언급을 했을 때부터입니다.",
+    "context": "EN :\nEver since Mister Vergilius mentioned K Corp.\nJP :\nヴェルギリウスさんがK社と言及したときからです。"
+  },
+  {
+    "key": "50-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "50-content",
+    "original": "<왜 진작 말 안 해줬어?>",
+    "context": "EN :\n<Why didn’t you tell me earlier?>\nJP :\n<どうしてもっと早く言ってくれなかったんだ？>"
+  },
+  {
+    "key": "51-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "51-content",
+    "original": "…명령이 없었기 때문입니다.",
+    "context": "EN :\n…Because you did not order me to do so.\nJP :\n…命令がなかったからです。"
+  },
+  {
+    "key": "52-content",
+    "original": "뫼르소는 당연히 그래야 한다는 듯한 말투로 나를 쳐다보았다.",
+    "context": "EN :\nMeursault stared at me like I was at fault for not doing the obvious.\nJP :\nムルソーは当然そうであるべきという口調で私を見つめた。"
+  },
+  {
+    "key": "53-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "53-content",
+    "original": "소… 속이 갑자기 안 좋아져서요. 죄송해요.",
+    "context": "EN :\nI… I just got an upset stomach. Sorry.\nJP :\nきゅ…急に気分が悪くなったんです、すみません。"
+  },
+  {
+    "key": "54-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "54-content",
+    "original": "진짜 괜찮은 거 맞아…?",
+    "context": "EN :\nReally sure you’re okay…?\nJP :\n本当に大丈夫なの…？"
+  },
+  {
+    "key": "55-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "55-content",
+    "original": "<그러고 보니…>",
+    "context": "EN :\n<Now that I think about it…>\nJP :\n<そういえば…。>"
+  },
+  {
+    "key": "56-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "56-content",
+    "original": "<파우스트, 베르길리우스가 행선지를 밝힐 때마다 꼭 우리 중 한 명씩은 날 선 반응을 보이는 것 같은데.>",
+    "context": "EN :\n<Faust, I’m noticing a trend where one of us has visceral reactions to the destinations that Vergilius reveals.>\nJP :\n<ファウスト。ヴェルギリウスが行き先を明かす度に、\n誰か一人は張り詰めた顔を見せる気がするんだけど。>"
+  },
+  {
+    "key": "57-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "57-content",
+    "original": "<그리고 도착을 해보면, 실제로 그자와 어떤 식으로든 연관이 된 장소였고.>",
+    "context": "EN :\n<Additionally, when we arrive, it turns out that the place does have a history with the person in question.>\nJP :\n<そしていざ到着してみると、実際にその人と何かしら関わりがある場所で。>"
+  },
+  {
+    "key": "58-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "58-content",
+    "original": "<혹시 우리가 입사한 이유랑 관련이 있는 거야?>",
+    "context": "EN :\n<Does that have something to do with the reason we joined the company?>\nJP :\n<もしかして私たちが入社した理由と関係あるのか？>"
+  },
+  {
+    "key": "59-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "59-content",
+    "original": "…우리라고 칭하시는군요.",
+    "context": "EN :\n…You just referred to the team as “we”.\nJP :\n…私たちと称するのですね。"
+  },
+  {
+    "key": "60-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "60-content",
+    "original": "<응?>",
+    "context": "EN :\n<Huh?>\nJP :\n<うん？>"
+  },
+  {
+    "key": "61-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "61-content",
+    "original": "미묘한 변화의 차이를 감지하는 것도 저의 주 임무라서요.",
+    "context": "EN :\nIt’s a part of my mission to detect the slightest of changes.\nJP :\n微妙な変化の違いを感知するのも私の主な任務ですので。"
+  },
+  {
+    "key": "62-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "62-content",
+    "original": "그리고, 수감자들의 입사 이유에 대해서는 상세히 알려 드릴 수 없지만…",
+    "context": "EN :\nAs for your question, while I can’t tell you the reasons for recruiting the Sinners in detail…\nJP :\nそして、囚人たちの入社理由について詳しくお教えすることはできませんが…。"
+  },
+  {
+    "key": "63-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "63-content",
+    "original": "저희가 가야 할 행선지와 수감자 각각의 신변이 어느 정도 관련이 있다는 사실은 부정할 필요가 없겠죠.",
+    "context": "EN :\nThere’d be no point in denying that our destinations and the backgrounds of each Sinner are indeed related to a degree.\nJP :\n私たちの行き先と囚人それぞれの身辺が\nある程度関係しているという事実については、否定する必要がないでしょうね。"
+  },
+  {
+    "key": "64-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "64-content",
+    "original": "…기다 아니다부터 말하면 될 걸 쓸데없이 혓바닥을 길게 늘이는 건 배운 놈들 특기인가?",
+    "context": "EN :\n…Do all uppish snobs have some condition that makes them yap on and on about things that can be answered with a plain yes or no?\nJP :\n…そうかそうじゃないかから言えばいいのに、\n無駄に話を引き延ばすのは頭が良いやつの特技か？"
+  },
+  {
+    "key": "65-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "65-content",
+    "original": "두괄적 발화가 언제나 옳지는 않아요. 파우스트는 그때그때의 가장 효과적인 방식을 선택할 뿐이랍니다.",
+    "context": "EN :\nHysteron proteron isn’t always correct. Faust simply adopts the most effective mode of communication for the given situation.\nJP :\n頭括式発話がいつも正しいわけではありません。\nファウストはその場その場で最適な方法を選択するのみです。"
+  },
+  {
+    "key": "66-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "66-content",
+    "original": "두, 두… 뭐?",
+    "context": "EN :\nHyst… Hysterowhat?\nJP :\nと、と…はぁ？"
+  },
+  {
+    "key": "67-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "67-content",
+    "original": "…배운 사람이라서가 아니라 당신이 너무 못 배운 사람이라 파우스트의 말이 헷갈린다고 한 거예요.",
+    "context": "EN :\n…It means that you’re struggling to understand Faust because you’re too uneducated, not that Faust is overeducated.\nJP :\n…学があるからではなく、あなたに学がなさすぎるので\nファウストの話がややこしく感じるということです。"
+  },
+  {
+    "key": "68-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "68-content",
+    "original": "큭…!",
+    "context": "EN :\nWhy you…!\nJP :\nくっ…！"
+  },
+  {
+    "key": "69-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "69-content",
+    "original": "우욱…",
+    "context": "EN :\nEuhgk…\nJP :\nうぇっぷ…。"
+  },
+  {
+    "key": "70-content",
+    "original": "히스클리프는 방망이를 부들거리며 파우스트에게로 나아가려 했지만…",
+    "context": "EN :\nJust as Heathcliff approached Faust with his bat shaking in fury…\nJP :\nヒースクリフはバットを振り回しながらファウストへとにじり寄ったが…。"
+  },
+  {
+    "key": "71-content",
+    "original": "별안간 싱클레어가 버스 바닥에 구역질을 하기 시작했고.",
+    "context": "EN :\nSinclair suddenly started throwing up on the floor.\nJP :\n突然シンクレアがバスの床に嘔吐し始め。"
+  },
+  {
+    "key": "72-content",
+    "original": "버스는 그제야 소란스러움을 거두었다.",
+    "context": "EN :\nThe bus finally quieted down after that.\nJP :\nバスはようやく静けさを取り戻した。"
+  }
+]

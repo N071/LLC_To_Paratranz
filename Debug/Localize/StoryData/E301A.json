@@ -1,0 +1,1151 @@
+[
+  {
+    "key": "0-place",
+    "original": "보살 치킨 앞",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン前"
+  },
+  {
+    "key": "0-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "0-content",
+    "original": "자, 급한 볼일은 끝났으니까 본론으로 들어가자고. 아직 신원도 파악되지 않은 안경 양반?",
+    "context": "EN :\nRight, now that that’s been all sorted out, why don’t we get back to the point, friendly four-eyed stranger?\nJP :\nさぁ、急用は終わったから本題に戻ろうか。まだ身分すら分からない眼鏡の旦那？"
+  },
+  {
+    "key": "1-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "1-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "1-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "1-content",
+    "original": "반론합니다. 그 호칭은 같은 안경 동지로서 섭섭하군요.",
+    "context": "EN :\nI must object to such a moniker; especially so when it comes from a fellow glasses-bearer.\nJP :\n反論します。その呼称は同じ眼鏡仲間として寂しいものですね。"
+  },
+  {
+    "key": "2-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "2-content",
+    "original": "그… 그런건가… 미안하게 됐수다.",
+    "context": "EN :\nO—Oh, is that so… Sorry ‘bout that, I guess.\nJP :\nそ…そうなのか…まぁ、すまない。"
+  },
+  {
+    "key": "3-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "3-content",
+    "original": "신원 같은 기본적인 인적 사항은 사망신고를 할 때도 쉽게 파악이 가능하다.",
+    "context": "EN :\nBasic personal information, such as one’s identity, can be easily acquired from the registration of one’s death.\nJP :\n身元のような基本的な人的事項は、死亡申告をするときにも簡単に把握が可能だ。"
+  },
+  {
+    "key": "4-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "4-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "4-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "4-content",
+    "original": "…아, 제 소개를 미처 드리지 못했군요. 명함 받으시죠. 삼조라고 합니다.",
+    "context": "EN :\n…Ah, I did neglect to introduce myself. Here’s my business card. You may call me Samjo.\nJP :\n…あ、僕の紹介がまだでしたね。こちら名刺です。サムジョと申します。"
+  },
+  {
+    "key": "5-content",
+    "original": "분위기가 험악해지는 낌새에도 아랑곳 않은 채 그는 곧바로 각진 명함부터 내밀었다.",
+    "context": "EN :\nDisregarding the growing hostility surrounding him, the man handed us his card straight away.\nJP :\n雰囲気が険悪になる気配をものともせず、彼はただちに角ばった名刺を差し出した。"
+  },
+  {
+    "key": "6-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "6-content",
+    "original": "K사 식… 식량자원개량부의 연구소 소속…",
+    "context": "EN :\nA K Corp… Affiliate of the Department of Food Resource Development’s Research Center…\nJP :\nK社しょく…食糧資源改良部の研究所所属…。"
+  },
+  {
+    "key": "7-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "7-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "8-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "8-content",
+    "original": "하! 그럴듯한 단어만 잔뜩 써주면 넘어갈 줄 알았냐?",
+    "context": "EN :\nHah! Thought we’d be fooled by a bunch of big fancy words?\nJP :\nはっ！それっぽい単語をつらつら並べとけば済むとでも思ったか？"
+  },
+  {
+    "key": "9-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "9-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "9-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "9-content",
+    "original": "물론이죠. 납득과 설명은 제 전문입니다. 그러니 진정하고 잘 들으세요.",
+    "context": "EN :\nOf course. Persuasion and explanation are where I excel, so please stay calm and listen.\nJP :\nもちろんです。納得と説明は僕の専門分野です。だから落ち着いてしっかり聞いてください。"
+  },
+  {
+    "key": "10-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "10-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "10-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "10-content",
+    "original": "아까의 전투에서 당신들의 모습을 매우 인상 깊게 보았습니다.",
+    "context": "EN :\nI was most impressed by the feats of your battle just moments ago.\nJP :\n先程の戦闘で、あなた方の姿をとても印象深く拝見しました。"
+  },
+  {
+    "key": "11-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "11-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "11-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "11-content",
+    "original": "특히 눈 앞에서 동료가 죽어가는 광경에도 아랑곳하지 않고 적들을 후드려 패던 모습 말입니다. 심지어 몇몇 동료분은 손가락질을 하며 비웃기도 하더군요.",
+    "context": "EN :\nIn particular, the instances where you continued to assault your foes in blatant disregard for a dying colleague nearby. A few others even laughed at the sight.\nJP :\n特に、目の前で仲間が死んでいく光景をものともせず、敵を叩きのめしていた様子をです。それに、何人かの同僚さんは指を指して嘲笑ってすらいましたね。"
+  },
+  {
+    "key": "12-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "12-content",
+    "original": "훗… 발목을 잡는 자들이라면 아군이고 뭐고 개의치 않아야 한다.",
+    "context": "EN :\nHeh… Friend or foe, those who dare impede must be promptly removed.\nJP :\nふっ…足を引っ張る者であれば、味方であれ気に留めてはならない。"
+  },
+  {
+    "key": "13-content",
+    "original": "전혀 칭찬이 아닌 것 같은 그 말에 오티스가 뿌듯한 표정을 숨기지 못하며 응수했다.",
+    "context": "EN :\nOutis replied to his remark with a look full of pride, even though it didn’t sound close to a compliment at all.\nJP :\n絶対に褒め言葉ではないようなその言葉に、ウーティスは満足げな顔を隠せずに答えた。"
+  },
+  {
+    "key": "14-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "14-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "14-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "14-content",
+    "original": "여러분도 보시다시피 이 가게 앞을 점령 중인 정체불명의 닭들로 인해 피해가 이만저만이 아닙니다.",
+    "context": "EN :\nAs you can see, those chickenheads of unknown origin which are occupying this restaurant’s front have been causing considerable damage.\nJP :\n皆さんもご覧の通り、この店の前を占拠している正体不明の鶏たちによる被害は尋常ではありません。"
+  },
+  {
+    "key": "15-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "15-content",
+    "original": "…근데?",
+    "context": "EN :\n…So what?\nJP :\n…で？"
+  },
+  {
+    "key": "16-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "16-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "16-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "16-content",
+    "original": "사장님도 몸져 누워 계시다가 방금 막 일어나셨죠.",
+    "context": "EN :\nThe venue’s manager has also been bedridden until just now.\nJP :\n社長さんも寝込んでて、今さっき起きたばかりです。"
+  },
+  {
+    "key": "17-content",
+    "original": "방금까지 몸져 누워있다는 건 거짓이 아니었는지, 초췌한 얼굴에 비척비척한 걸음새로 다가오는 자가 있었다.",
+    "context": "EN :\nAnother man with a haggard face tottered to us, making it somewhat apparent that Samjo wasn’t lying about the restaurant’s owner falling ill with worry.\nJP :\nさっきまで寝込んでいたというのは嘘ではないらしく、よろよろとした足取りで近づいてくるやつれた顔の人がいた。"
+  },
+  {
+    "key": "18-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "18-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "18-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "18-content",
+    "original": "말씀하시면 됩니다.",
+    "context": "EN :\nYou may speak now.\nJP :\nどうぞおっしゃってください。"
+  },
+  {
+    "key": "19-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "19-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "19-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "19-content",
+    "original": "에… 그, 그러니까… 우리 치킨집은 몇 달 전 ’은봉이네 호프집’이라는 닭집의 맞은 편에 오픈하였습니다.",
+    "context": "EN :\nErm… So, things’ve been… Our fryhouse opened up a few months ago just across from Eunbong’s Bar & Fryers.\nJP :\nえっ…そ、その…うちのチキン屋は数ヶ月前、「ウンボンのチキン酒場」というチキン屋の向かい側にオープンしました。"
+  },
+  {
+    "key": "20-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "20-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "20-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "20-content",
+    "original": "저희 체인점의 우수한 혈통의 닭을 사용한 맛과 푸짐한 양으로 인해 ‘은봉이네 호프집’의 손님들까지 모두 저희 가게로 넘어온 건 당연한 수순이었죠.",
+    "context": "EN :\nOur franchise offers generous servings of good-tasting food using poultry with a supreme pedigree, so it was natural that we would draw all the customers from Eunbong’s.\nJP :\n当チェーン店の優秀な血統の鶏を使った味とボリューム満点のチキンによって「ウンボンのチキン酒場」のお客様が皆、当店に移ってきたのは当然のことでした。"
+  },
+  {
+    "key": "21-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "21-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "21-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "21-content",
+    "original": "그런데 ’은봉이네 호프집’의 주인이 그 사실에 충격을 먹었던 건지, 다 같이 망해보자는 마음인지… 돌연 기행을 일삼는 것이 아니겠습니까?",
+    "context": "EN :\nBut one day, out of the blue, the owner of Eunbong’s started acting real strange. Losing his customers must’ve shocked him or somethin’, and now he’s trying to ruin all of our businesses.\nJP :\nところが「ウンボンのチキン酒場」の主人がその事実に衝撃を受けたのか、共倒れでもするつもりなのか…突然日常的に奇行を繰り返すようになったんですよ。"
+  },
+  {
+    "key": "22-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "22-content",
+    "original": "아니 뭐, 경쟁 업소에서 견제 좀 할 수도 있는 거 아니겠…",
+    "context": "EN :\nI mean, it’s not uncommon for competitors to throw jabs at each other, right—\nJP :\nいやまぁ、ライバル店なんだし牽制することくらいはあるんじ―"
+  },
+  {
+    "key": "23-content",
+    "original": "사장의 억울함을 뒷받침하듯이 건너편에서 비명을 지르는 사람들의 목소리가 들려왔다.",
+    "context": "EN :\nAs if to attest to the restaurant owner’s woes, screams echoed from the other side of the street.\nJP :\n社長の悔しさを裏付けるように、向こうから悲鳴を上げる人々の声が聞こえてきた。"
+  },
+  {
+    "key": "24-teller",
+    "original": "둥지 주민",
+    "context": "EN :\nNest Resident\nJP :\n巣の住民"
+  },
+  {
+    "key": "24-title",
+    "original": "K사",
+    "context": "EN :\nK Corp.\nJP :\nK社"
+  },
+  {
+    "key": "24-content",
+    "original": "꺄아아악!!! 저게 뭐야!!!",
+    "context": "EN :\nKyaaaugh!!! What the hell!!!\nJP :\nきゃぁああっ！！！なにあれ！！！"
+  },
+  {
+    "key": "25-model",
+    "original": "뒤틀린주인",
+    "translation": "扭曲的老板",
+    "context": "EN :\n扭曲的存在\nJP :\nChickenKing"
+  },
+  {
+    "key": "25-teller",
+    "original": "은봉이네 호프집 주인?",
+    "context": "EN :\nEunbong’s Bar & Fryers Owner?\nJP :\nウンボンのチキン酒場 主人?"
+  },
+  {
+    "key": "25-title",
+    "original": "은봉이네 호프집?",
+    "context": "EN :\nEunbong’s Bar & Fryers?\nJP :\nウンボンのチキン酒場?"
+  },
+  {
+    "key": "25-content",
+    "original": "끄… 끄… 끄극…",
+    "context": "EN :\nKhh… Ghh… Kagh…\nJP :\nク…ク…クグッ…。"
+  },
+  {
+    "key": "26-content",
+    "original": "‘은봉이네 호프집’의 주인이 중얼거리며 팔을 휘두르자 마치 명령이라도 받들듯…",
+    "context": "EN :\nAs the supposed owner of Eunbong’s swung his arm while muttering something, the chickens responded in unison.\nJP :\n「ウンボンのチキン酒場」の主人がブツブツ言いながら腕を振ると、まるで命令を受け取ったかのように…。"
+  },
+  {
+    "key": "27-content",
+    "original": "생닭들이… 사람들을 습격하고 있었다.",
+    "context": "EN :\nThe raw chickens… jumped at people.\nJP :\n生鶏たちが…人々を襲撃していた。"
+  },
+  {
+    "key": "28-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "28-content",
+    "original": "…뭐죠? 닭을 지휘하는 건가요?",
+    "context": "EN :\n…What in the world? Is he commanding the chickens?\nJP :\n…何ですか？鶏を指揮してるんですか？"
+  },
+  {
+    "key": "29-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "29-content",
+    "original": "보통 기행이 아니었군.얼마나 앙심을 품으면 사람이 저렇게 되지…?",
+    "context": "EN :\nThat’s definitely strange behavior. How spiteful does someone have to be to resort to that kind of stuff…?\nJP :\n普通の奇行じゃないな。どれだけ恨みを抱けば、ああにまでなるんだ…？"
+  },
+  {
+    "key": "30-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "30-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "30-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "30-content",
+    "original": "생체개조라도 한 것 같은 생닭들이 가게에 무단 침입을 하면서 기물을 파손하지 않나…",
+    "context": "EN :\nI don’t know if they’re augmented or what, but those plucked and prepped hens would break into the restaurant and destroy things…\nJP :\n生体改造でもしたかのような生鶏たちが店に無断侵入して、器物を破損するわで…。"
+  },
+  {
+    "key": "31-place",
+    "original": "은봉이네 호프집 앞",
+    "context": "EN :\nFront of Eunbong’s Bar & Fryers\nJP :\nウンボンのチキン酒場前"
+  },
+  {
+    "key": "31-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "31-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "31-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "31-content",
+    "original": "보신 것처럼 이젠 닭들을 뒤집어 쓴 사람들까지 생겨나고 있어요… 이대로 가다가는 가게에 크나큰 경제적 손실이 생길 겁니다…",
+    "context": "EN :\nAnd now there’s people wearing those chickens on their heads, too… If this keeps up, our restaurant is gonna lose so much money…\nJP :\nご覧のように、今では鶏を頭にかぶった人たちまで生まれています…。このままでは店に大きな経済的損失が出るでしょう…。"
+  },
+  {
+    "key": "32-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "32-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "32-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "32-content",
+    "original": "이상.",
+    "context": "EN :\nSuch is his feathery song.\nJP :\n凄惨だな、以上。"
+  },
+  {
+    "key": "33-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "33-content",
+    "original": "음…",
+    "context": "EN :\nHmm…\nJP :\nうむ…。"
+  },
+  {
+    "key": "34-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "34-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "34-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "34-content",
+    "original": "눈물 나는 이야기였습니다. 여러분이 나서서 이 사건을 해결해주실 수 있겠습니까?",
+    "context": "EN :\nThis has been his tear-jerking reflection. Would you be willing to deal with this case?\nJP :\n涙が出そうなお話しでした。皆さんがこの事件を解決することはできますでしょうか？"
+  },
+  {
+    "key": "35-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "35-content",
+    "original": "<지금 흠칫했지, 이상 씨?>",
+    "context": "EN :\n<That ruffled your feathers, huh, Yi Sang?>\nJP :\n<今びくってしなかったか、イサンさん？>"
+  },
+  {
+    "key": "36-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "36-content",
+    "original": "으음…",
+    "context": "EN :\nMrrm…\nJP :\nうぅむ…。"
+  },
+  {
+    "key": "37-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "37-content",
+    "original": "아무리 그래도 우린 치킨집 의뢰 같은 건 안 받는…",
+    "context": "EN :\nTear-jerking or whatever, we still don’t take requests from a chicken p—\nJP :\nいくら何でもオレたちはチキン屋の依頼なんか受け―"
+  },
+  {
+    "key": "38-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "38-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "38-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "38-content",
+    "original": "평생 이용권.",
+    "context": "EN :\nA lifetime voucher.\nJP :\n生涯利用権。"
+  },
+  {
+    "key": "39-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "39-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "39-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "39-content",
+    "original": "의뢰를 해결해드리면 이 매장을 평생 이용할 수 있는 파격적인 혜택을 드리도록 하죠.",
+    "context": "EN :\nHandle this request, and I’ll offer you groundbreaking benefit: the right to free orders from this restaurant for the rest of your lives.\nJP :\n依頼を解決すれば、この店舗を一生利用できる破格の特典を差し上げます。"
+  },
+  {
+    "key": "40-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "40-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "40-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "40-content",
+    "original": "평생 이용권이요?! 우리 체인점에 그런 게 있는…",
+    "context": "EN :\nA lifetime voucher?! I never heard of such a—\nJP :\n生涯利用権ですか！？うちのチェーン店にそんなものがあ―"
+  },
+  {
+    "key": "41-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "41-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "41-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "41-content",
+    "original": "시식용 치킨도 몇 개 준비해왔습니다.",
+    "context": "EN :\nI have even prepared a few free samples for you.\nJP :\n試食用チキンもいくつか用意いたしました。"
+  },
+  {
+    "key": "42-model",
+    "original": "보살치킨",
+    "translation": "菩萨炸鸡",
+    "context": "EN :\nStoryLog_Bosal\nJP :\nBosal"
+  },
+  {
+    "key": "42-teller",
+    "original": "보살 치킨 사장",
+    "context": "EN :\nBodhisattva Chicken’s Manager\nJP :\n菩薩チキン 社長"
+  },
+  {
+    "key": "42-title",
+    "original": "보살 치킨",
+    "context": "EN :\nBodhisattva Chicken\nJP :\n菩薩チキン"
+  },
+  {
+    "key": "42-content",
+    "original": "예에?!",
+    "context": "EN :\nYou what?!\nJP :\nはぃぇ！？"
+  },
+  {
+    "key": "43-content",
+    "original": "어느새 준비해온 건지 삼조라는 자는 손수 치킨까지 나눠주고 있었다.",
+    "context": "EN :\nSamjo personally distributed pieces of fried chicken that he suddenly had his hands on.\nJP :\nいつの間にか準備してきたのか、サムジョという人は手ずからチキンを配っていた。"
+  },
+  {
+    "key": "44-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "44-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "44-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "44-content",
+    "original": "자자, 질서 있게 한 줄로 서서 받으세요. 닭의 유명 혈통별로도 종류가 있으니 취향껏 골라보시고요. 혈통마다 자랑하는 부위의 맛이 다르고, 향도 풍부하다고 하죠.",
+    "context": "EN :\nNow now, stand in line and keep things orderly. I’ve brought samples for different pedigrees, so you’re free to pick and choose. Each one comes with a unique brand of tastiness, demonstrating its strengths in differing cuts of meat.\nJP :\nさあ、順序よく一列に並んで受け取ってください。鶏のブランド血統別にも揃えているので、自由に選んでください。血統ごとに自慢の部位の味が違いますし、香りも豊かだそうです。"
+  },
+  {
+    "key": "45-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "45-content",
+    "original": "으으으음… 한 가지 맛만 골라야 하는 것이오? 다 맛있어 보이는데…",
+    "context": "EN :\nMmmmh… Must I choose only one flavor to taste? They all appear equal in gustatory greatness…\nJP :\nううぅぅうむ…一つの味だけ選ばねばならぬのか？全部美味しそうにありまするが…。"
+  },
+  {
+    "key": "46-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "46-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "46-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "46-content",
+    "original": "다른 맛은 미래를 위한 기대감으로 남겨두는 것은 어떻습니까? ‘평생 이용권’이 있다면 모두 해결될 고민일 텐데요.",
+    "context": "EN :\nLet me suggest this, then: Leave the other flavors as something to anticipate for your future meals. It won’t be a problem once the lifetime voucher is in your hands.\nJP :\n他の味は将来への期待として残しておいてはいかがですか？「生涯利用権」があれば、全て解決する悩みだと思いますけど。"
+  },
+  {
+    "key": "47-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "47-content",
+    "original": "오오… 그거참 반박할 수 없는 말이군…",
+    "context": "EN :\nOho… Indeed, ‘tis an infallible proposition…\nJP :\nおぉ…それまた反論できない言葉であるな…。"
+  },
+  {
+    "key": "48-content",
+    "original": "이미 대부분의 수감자들은 능수능란한 그의 언변과 시식용 치킨의 맛에 넘어간 것 같았다.",
+    "context": "EN :\nIt seems Samjo has won the hearts of most of the Sinners with his compelling words and fine poultry samples.\nJP :\n既にほとんどの囚人は、巧みな彼の話術と試食用チキンの味に魅了されているようだった。"
+  },
+  {
+    "key": "49-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "49-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "49-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "49-content",
+    "original": "어쩌시겠습니까?",
+    "context": "EN :\nWhat do you say?\nJP :\nどうされますか？"
+  },
+  {
+    "key": "50-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "50-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "51-content",
+    "original": "히스클리프가 처음으로 누군가의 말에 조용해졌다.",
+    "context": "EN :\nThis might be the first time I’ve seen Heathcliff go quiet at someone’s words.\nJP :\nヒースクリフが初めて、誰かの言葉で静かになった。"
+  },
+  {
+    "key": "52-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "52-content",
+    "original": "그거… 나쁘지 않은 의뢰군…",
+    "context": "EN :\nThat’s… not half bad at all…\nJP :\nそれ…悪くねぇ依頼だな…。"
+  },
+  {
+    "key": "53-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "53-content",
+    "original": "저기요… 우리는 황금닭다리가 아니라 황금가지를 찾는 게 목적 아니었어요? 언제부터…",
+    "context": "EN :\nHello…? Aren’t we supposed to be looking for Golden Boughs, not golden drumsticks? Since when did we—\nJP :\nあのですね…私たちは黄金の鶏脚を探してるんじゃなくて、黄金の枝を探すのが目的じゃなかったですか？いつから―"
+  },
+  {
+    "key": "54-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "54-content",
+    "original": "못 들었어? 바삭한 닭을 평생 먹게 해준 다잖아!",
+    "context": "EN :\nDidn’t you hear him? We’re dining on free crispy chicken forever!\nJP :\n聞いてねぇのか？パリッパリの鶏を一生食べさせてくれるっつってんだろ！"
+  },
+  {
+    "key": "55-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "55-content",
+    "original": "개수 제한은 없는 거지? 그냥 끝없이 주는 거지, 응? 포장도 되는 거고?",
+    "context": "EN :\nIt doesn’t have limited use, right? It’s actually free chickens forever, right? Yeah? Takeout counts too?\nJP :\n個数制限はないんでしょ？ずっとくれるんでしょ、ね？持ち帰りもできるんでしょ？"
+  },
+  {
+    "key": "56-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "56-content",
+    "original": "하, 이러고 있으니까 옛날 생각난다. 알 사람 있으려나 모르겠네~ 햄햄팡팡에서 파는 갓 튀긴 치킨도 진짜 맛있었는데.",
+    "context": "EN :\nHah, this takes me back to older days. Wonder if anyone remembers it~ Y’know, HamHamPangPang’s freshly fried chicken that was totes delish.\nJP :\nはぁ、こうしてると昔のこと思い出すなぁ。知ってる人がいるかは別としてぇ～ハムハムパンで売ってる揚げたてのチキンも本当においしかったんだけど。"
+  },
+  {
+    "key": "57-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "57-content",
+    "original": "난 알아. 어쩌다 돈이 생기는 날엔 조직원들이랑 외식하러 가기도 했지.",
+    "context": "EN :\nI sure do. I’d have a cheeky one with the lads whenever our Syndicate earned a proper lump of dosh.\nJP :\n知ってるぞ。たまにカネができた日には組織員たちと外食に行ったりもしたからな。"
+  },
+  {
+    "key": "58-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "58-content",
+    "original": "어휴 파우스트 씨, 빨리 말해주세요. 무슨 사칙이나 조항 같은 거, 있을 거 아녜요?",
+    "context": "EN :\nUgh, Ms. Faust, can you have them cut the crap already? Shouldn’t there be some company clause against fried chicken requests?\nJP :\nはぁ、ファウストさん、早く言ってください。何か社則とか条項とか、あるんじゃないですか？"
+  },
+  {
+    "key": "59-content",
+    "original": "파우스트는 혼자 무언가를 골똘히 생각하고 있었다.",
+    "context": "EN :\nFaust was deep in thought by her lonesome.\nJP :\nファウストは一人で何かを考え込んでいた。"
+  },
+  {
+    "key": "60-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "60-content",
+    "original": "그러죠, 의뢰를 수락하겠어요.",
+    "context": "EN :\nAlright, we will take your request.\nJP :\nそうしましょう、依頼を受諾します。"
+  },
+  {
+    "key": "61-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "61-content",
+    "original": "예에?!",
+    "context": "EN :\nExcuse me?!\nJP :\nはぃい！？"
+  },
+  {
+    "key": "62-content",
+    "original": "그렇게나 화들짝 놀라는 이스마엘 역시 처음 보는 것 같았다.",
+    "context": "EN :\nThis might also be the first time I’ve seen Ishmael taken aback to this extent.\nJP :\nあんなに驚いた様子のイシュメールも初めて見た気がする。"
+  },
+  {
+    "key": "63-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "63-content",
+    "original": "아니, 파우스트 씨… 혹시… 정신이 잠깐 나가신 거예요?",
+    "context": "EN :\nI’m sorry, Faust… but did you… go out of your mind for a second there?\nJP :\nいや、ファウストさん…もしかして…ちょっとおかしくなったんですか？"
+  },
+  {
+    "key": "64-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "64-content",
+    "original": "이스마엘, 아무리 그래도 말은 가려서…",
+    "context": "EN :\nYeesh, Ishmael, no need to be so biting there…\nJP :\nイシュメール、いくらなんでももうちょっと…。"
+  },
+  {
+    "key": "65-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "65-content",
+    "original": "글쎄요. 파우스트는 대체로 정신이 나가 있는 편이니까.",
+    "context": "EN :\nIt’s hard to say. Faust’s mind tends to be out there most of the time.\nJP :\nさぁですね。ファウストは概して頭がおかしい方ではあるので。"
+  },
+  {
+    "key": "66-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "66-content",
+    "original": "하핫! 오랜만에 다 같이 맘이 좀 통하네. 어?",
+    "context": "EN :\nHahah! Guess we’re all right and chummy for once, eh?\nJP :\nははっ！久しぶりに皆ちょっと心が通じ合ったな、あ？"
+  },
+  {
+    "key": "67-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "67-content",
+    "original": "<파우스트… 진심이야? 치킨을 먹으려고 의뢰를 받는다고?>",
+    "context": "EN :\n<Faust… Are you serious? You’re taking a request over free chicken?>\nJP :\n<ファウスト…本気か？チキンを食べるために依頼を受けるのか？>"
+  },
+  {
+    "key": "68-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "68-content",
+    "original": "정확히 말하자면… ‘뒤틀림 현상’의 해결이죠, 단테.",
+    "context": "EN :\nTo be more precise… this is to resolve a case of the ‘Distortion Phenomenon’, Dante.\nJP :\n正確に言うと…「ねじれ現象」の解決ですね、ダンテ。"
+  },
+  {
+    "key": "69-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "69-content",
+    "original": "<뒤틀림 현상?>",
+    "context": "EN :\n<Distortion Phenomenon?>\nJP :\n<ねじれ現象？>"
+  },
+  {
+    "key": "70-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "70-content",
+    "original": "뒤틀림이라… 그게 뭔가요?",
+    "context": "EN :\nDistortions… What are they?\nJP :\nねじれって…なんですかそれ？"
+  },
+  {
+    "key": "71-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "71-content",
+    "original": "명확히 모르는 이들이 많을 겁니다. 도시 곳곳에서 발생하고 있지만 대중적으로 공표된 적은 없으니까요.",
+    "context": "EN :\nIt is a term I’m sure is unclear to most. Although it has been occurring all around the City, no official announcement of the phenomenon has been made to the general public.\nJP :\n明確に知らない人が多いでしょう。都市のあちこちで発生していますけど、大衆的に公表されたことはありませんからね。"
+  },
+  {
+    "key": "72-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "72-content",
+    "original": "아…",
+    "context": "EN :\nOh…\nJP :\nあぁ…。"
+  },
+  {
+    "key": "73-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "73-content",
+    "original": "통상적으로 ‘인간’이라 부를 수 없는 형태로 변하는 현상이라고 알고 있다. 원인은 불명. 형태도 제각각이었지.",
+    "context": "EN :\nTo my knowledge, it is a phenomenon where an individual morphs into a form often unfit to be considered “human”. It has no known causes, and the appearances were all different.\nJP :\n総じて「人間」とは呼べない形に変わる現象だと知っている。原因は不明。形態も多種多様だった。"
+  },
+  {
+    "key": "74-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "74-content",
+    "original": "음… 설명만 들어서는 모르겠네요. 환상체 같은 건가?",
+    "context": "EN :\nHmm… That doesn’t make it clear enough. Are they like Abnormalities?\nJP :\nうーん…説明だけじゃ分かりませんね。幻想体みたいなものかな？"
+  },
+  {
+    "key": "75-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "75-content",
+    "original": "아니, 그들은 환상체랑은 다르게 알로 변하지 않는다. 완전히 숨이 끊어지기도 하지.",
+    "context": "EN :\nNot exactly, as unlike Abnormalities, they do not shrink into eggs; it is possible for them to fully expire.\nJP :\nいや、それらは幻想体とは違って卵に変わらない。完全に事切れもする。"
+  },
+  {
+    "key": "76-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "76-content",
+    "original": "전에, 몇 번 본 적도 있었다.",
+    "context": "EN :\nI have witnessed a number of cases in the past.\nJP :\n前に、何度か見たこともあった。"
+  },
+  {
+    "key": "77-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "77-content",
+    "original": "회사 내부에는 뒤틀림 현상 자문 해결사가 속해있는 부서인 LCD가 존재해요. \n작은 규모의 부서이긴 하지만 그만큼 눈여겨보고 있는 현상이라는 뜻이죠.",
+    "context": "EN :\nOur company has the LCD, a department housing consultant Fixers dedicated to matters regarding the Distortions. Though its size is small, it nevertheless signifies the company’s interest in the phenomenon.\nJP :\n会社内部にはねじれ現象諮問フィクサーが属している部署であるLCDが存在します。 \n小さな規模の部署ではありますが、それだけ注目している現象だという意味です。"
+  },
+  {
+    "key": "78-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "78-content",
+    "original": "<그래서 은봉이네 주인은… 그… 뒤틀림이 됐다는 거야?>",
+    "context": "EN :\n<So the owner of Eunbong’s… has… turned into one of those Distortion things?>\nJP :\n<それでウンボンのとこの主人は…その…ねじれになったってこと？>"
+  },
+  {
+    "key": "79-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "79-content",
+    "original": "맞아요. 사람이 단순히 미쳐버린 것만으로는 생닭들을 갑자기 진두지휘할 수는 없으니까요.",
+    "context": "EN :\nThat’s correct. One does not simply gain the ability to lead an army of raw chickens by losing their mind.\nJP :\nそうです。人が単に狂っただけでは、急に生鶏を陣頭指揮できるようにはなれませんから。"
+  },
+  {
+    "key": "80-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "80-content",
+    "original": "<그렇구나…>",
+    "context": "EN :\n<I see…>\nJP :\n<そっかぁ…。>"
+  },
+  {
+    "key": "81-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "81-content",
+    "original": "역시 그렇죠? 휴… 파우스트 씨가 잠깐 회까닥 하신 줄 알고 제가 직접 나서서 정신을 차리게 해야 하나 싶었잖아요.",
+    "context": "EN :\nSo that’s what it’s about? Phew… I almost got worried that I might have to knock some sense back into you, Faust.\nJP :\nやっぱりそうですよね？ふぅ··· ファウストさんがちょっと乱心されたのかと思って、私が前に出て気を引き締めなきゃダメなのかぁって思ったじゃないですか。"
+  },
+  {
+    "key": "82-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "82-content",
+    "original": "왜 방금까지 메이스를 꽉 쥐고 있었던 거지, 이스마엘…?",
+    "context": "EN :\nIs that why you were clutching your mace so tight, Ishmael…?\nJP :\nなんでさっきまでメイスをがっしり握ってたんだ、イシュメール…？"
+  },
+  {
+    "key": "83-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "83-content",
+    "original": "옳소! 사상자가 생기기 전에 우리가 나서야 하지 않겠소? 우물우물…",
+    "context": "EN :\nRightly so! We must act before this commotion results in any casualty. Ñam-ñam…\nJP :\nいかにも！死傷者が出る前に我々が出なければならぬだろう！もぐもぐ…。"
+  },
+  {
+    "key": "84-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "84-content",
+    "original": "어? 입에 소스 묻었다~ 꼬맹이!",
+    "context": "EN :\nOh? You got sauce on your face, chiquita!\nJP :\nあれ？口にソース付いてるよ～おちびちゃん！"
+  },
+  {
+    "key": "85-content",
+    "original": "로쟈가 돈키호테의 입을 쓱쓱 닦아주는 모습을 가만히 지켜보았다.",
+    "context": "EN :\nI watched as Rodya wiped Don Quixote’s mouth clean.\nJP :\nロージャがドンキホーテの口をふきふきしている様子をじっと見守った。"
+  },
+  {
+    "key": "86-model",
+    "original": "삼조",
+    "translation": "三朝",
+    "context": "EN :\nStoryLog_Samjo\nJP :\nSamjo"
+  },
+  {
+    "key": "86-teller",
+    "original": "삼조",
+    "context": "EN :\nSamjo\nJP :\nサムジョ"
+  },
+  {
+    "key": "86-title",
+    "original": "K사 식량자원개량부",
+    "context": "EN :\nK Corp. Dept. of Food Resource Development\nJP :\nK社 食糧資源改良部"
+  },
+  {
+    "key": "86-content",
+    "original": "그럼 의뢰를 수락한 걸로 알고 연락을 기다리고 있겠습니다.",
+    "context": "EN :\nI’ll take that as a yes, and will be waiting for your contact.\nJP :\nそれでは依頼を受諾したものとみなし、連絡をお待ちしております。"
+  }
+]

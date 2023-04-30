@@ -1,0 +1,392 @@
+[
+  {
+    "key": "tutorial_101_01-content",
+    "original": "전투를 진행하기 위한 가장 기본적인 명령 방법을 알려드리겠습니다.",
+    "context": "EN :\nAllow me to show you the basics of management and command.\nJP :\n戦闘を進めるための、最も基本的な命令方法についてお教えします。"
+  },
+  {
+    "key": "tutorial_101_02-content",
+    "original": "조작 패널을 통해 스킬을 연결하여 수감자들에게 명령을 내릴 수 있습니다.",
+    "context": "EN :\nYou can give orders to the Sinners by connecting (chaining) skills on the Dashboard at the bottom of the screen.\nJP :\n操作パネルを通じてスキルを接続し、囚人に命令を下すことができます。"
+  },
+  {
+    "key": "tutorial_101_03-content",
+    "original": "왼쪽 기어를 눌러보세요.",
+    "context": "EN :\nTry pressing this gear on the left.\nJP :\n左のギアを押してみてください。"
+  },
+  {
+    "key": "tutorial_101_04-content",
+    "original": "왼쪽 기어부터 오른쪽 기어까지 스킬 아이콘을 연결해 보세요.",
+    "context": "EN :\nFrom here, form a chain of skills all the way to the gear on the right.\nJP :\n左のギアから右のギアまで、スキルアイコンを繋いでみてください。"
+  },
+  {
+    "key": "tutorial_101_05-content",
+    "original": "스킬 아이콘을 모두 연결한 뒤, 오른쪽 기어를 눌러 전투를 시작해보죠.",
+    "context": "EN :\nAfter you have formed a chain of skills, press the right gear to begin combat.\nJP :\nスキルアイコンを全て繋ぎ、右のギアを押して戦闘を開始しましょう。"
+  },
+  {
+    "key": "tutorial_102_01-content",
+    "original": "강한 공격이 필요하겠어요. 강한 공격을 하도록 연결해보죠.",
+    "context": "EN :\nIt appears we need a powerful attack.\nLet’s form the proper chain for it.\nJP :\n強い攻撃が必要そうですね。強い攻撃になるよう繋げてみましょう。"
+  },
+  {
+    "key": "tutorial_102_02-content",
+    "original": "이번 턴에 2개 이상 같은 속성을 연결하면 <공명>이 발생합니다.",
+    "context": "EN :\nBy chaining 2 or more skills of the same Affinity this turn, you will cause <Resonance>.\nJP :\n1ターン中に同じ属性を2つ以上繋げると、<共鳴>が発生します。"
+  },
+  {
+    "key": "tutorial_102_03_popup_title-content",
+    "original": "공명 입력",
+    "context": "EN :\nResonance Input\nJP :\n共鳴の入力"
+  },
+  {
+    "key": "tutorial_102_03-content",
+    "original": "공명은 연결된 “같은 속성 스킬 수”에 따라 피해량이 증가합니다.\n같은 속성 스킬 중 나중에 입력된 스킬일수록 스킬 위력이 증가합니다.",
+    "context": "EN :\nResonance boosts the damage of skills with the same\nSin Affinity. (Their color, in other words.)\nThe Power of each skill is boosted by the number of skills that come before it.\nJP :\n共鳴は、繋がった「同一属性のスキル数」によってダメージ量が増加します。\n同一属性スキルのうち、後方に入力されたスキルであるほどスキル威力が増加します。"
+  },
+  {
+    "key": "tutorial_103_01-content",
+    "original": "부족하네요. 더 강한 공격이 필요하겠어요. 스킬을 연결해보세요.",
+    "context": "EN :\nThat wasn’t enough. We must strike them even harder.\nTry chaining our skills again.\nJP :\n足りませんね。もっと強い攻撃が必要です。スキルを繋いでみてください。"
+  },
+  {
+    "key": "tutorial_103_02-content",
+    "original": "같은 속성을 “3개 이상 연속으로” 연결하면 <완전 공명>이 발생합니다.",
+    "context": "EN :\nBy chaining 3 or more skills of the same Affinity in direct succession, you will cause <Absolute Resonance>.\nJP :\n同じ属性を「3つ以上連続で」繋ぐと<完全共鳴>が発生します。"
+  },
+  {
+    "key": "tutorial_103_03_popup_title-content",
+    "original": "완전 공명 입력",
+    "context": "EN :\nWhat is Absolute Resonance?\nJP :\n完全共鳴の入力"
+  },
+  {
+    "key": "tutorial_103_03-content",
+    "original": "같은 속성의 죄악이 3개 이상 연속 연결되면 <완전 공명>이 됩니다.\n<완전 공명>은 연속된 같은 속성 스킬에 동일하게 가장 높은 스킬 위력 증가가 적용됩니다.\n스킬 위력은 완전 공명된 수에 따라 높아집니다.",
+    "context": "EN :\nAs we just covered, chaining 3 or more skills of the same Affinity in succession causes <Absolute Resonance>.\nEvery skill under <Absolute Resonance> receives a Power boost based on their total number.\nLikewise, this boost especially shines with more resonating skills.\nJP :\n同一属性の罪悪が3つ以上連続して接続されると<完全共鳴>になります。\n<完全共鳴>は連続した同一属性スキルに、最も高いスキル威力増加量が全てに適用されます。\nスキル威力は完全共鳴をなすスキルの数に比例して高くなります。"
+  },
+  {
+    "key": "tutorial_104_01-content",
+    "original": "모든 캐릭터의 체력에는 노란색으로 표시된 흐트러짐 구간이 있습니다.",
+    "context": "EN :\nYou will find yellow Stagger Thresholds on the health bars of both your Sinners and enemies.\nJP :\n全てのキャラクターの体力には、黄色で表示された混乱区間があります。"
+  },
+  {
+    "key": "tutorial_104_02_popup_title-content",
+    "original": "흐트러짐 설명",
+    "context": "EN :\nWhat is Stagger?\nJP :\n混乱の説明"
+  },
+  {
+    "key": "tutorial_104_02-content",
+    "original": "체력이 흐트러짐 구간까지 감소하면 <흐트러짐 상태>가 됩니다.\n<흐트러짐 상태>는 모든 물리 내성을 취약으로 만듭니다.\n한 턴 동안 흐트러짐 구간을 추가로 넘어갈 때마다 <흐트러짐 상태> 단계가 증가합니다.\n<흐트러짐 단계>는 3단계가 있으며, 단계가 올라갈수록 추가로 받는 피해가 높아집니다.",
+    "context": "EN :\nWhen an attack puts a unit’s HP below one of the yellow-lined thresholds, they will become <Staggered>.\nWhile <Staggered>, all physical resistances change to Fatal.\nIf a unit’s HP drops past multiple Stagger Thresholds in a single turn, their <Stagger Level> will increase.\nThis <Stagger Level> can go up to 3, and as it increases, the damage the unit takes is amplified.\nJP :\n体力が混乱区間まで減少すると<混乱状態>になります。\n<混乱状態>は、全ての物理耐性を脆弱にします。\n1ターンの間、混乱区間を追加で超えるたびに<混乱状態>段階が増加します。\n<混乱段階>は3段階あり、段階が上がるにつれて追加ダメージが増えます。"
+  },
+  {
+    "key": "tutorial_104_03-content",
+    "original": "좋아요. 적이 <흐트러짐 상태>가 되었어요. 지금까지 알려드렸던 방법으로 명령을 내려 전투를 진행해주세요.",
+    "context": "EN :\nWell done. We’ve <Staggered> an enemy. Now, keep up the fight with what I’ve taught you so far.\nJP :\nいいですね。敵が<混乱状態>になりました。今教えた方法で命令を下し、戦闘を進めてください。"
+  },
+  {
+    "key": "tutorial_201_01-content",
+    "original": "모든 캐릭터 행동에는 <속도>가 정해져있습니다.",
+    "context": "EN :\nAll actions are dictated by a <Speed> value.\nJP :\n全てのキャラクターの行動は<速度>で定められています。"
+  },
+  {
+    "key": "tutorial_201_02_popup_title-content",
+    "original": "속도 설명",
+    "context": "EN :\nWhat is Speed?\nJP :\n速度の説明"
+  },
+  {
+    "key": "tutorial_201_02-content",
+    "original": "모든 캐릭터 속도는 매 턴마다 최소 속도 ~ 최대 속도 사이에서 결정됩니다.\n매 턴마다 속도에 따라 캐릭터의 위치가 정해집니다.\n속도가 낮은 캐릭터일 수록 상대와 가까이 배치되어 표적이 되기 쉬워집니다.",
+    "context": "EN :\nSpeed is a random number chosen from within a given range each turn.\nThe positions of units are rearranged every turn according to their Speeds.\nThose with lower Speeds are placed at the front, making them easier targets.\nJP :\n全てのキャラクターの速度は、ターンごとに最小～最大値から決定されます。\n毎ターン、速度によってキャラクターの位置が決まります。\n速度の低いキャラクターであるほど相手の近くに配置され、標的にされやすくなります。"
+  },
+  {
+    "key": "tutorial_201_05-content",
+    "original": "스킬로 공격하기 전 캐릭터는 코인을 굴려 최종 위력을 결정합니다. 최종 위력이 높을수록 스킬 대미지가 증가합니다.",
+    "context": "EN :\nBefore using a skill, characters will flip Coins to determine its final Power value.\nHigher Power means higher damage.\nJP :\nスキルで攻撃する前に、キャラクターはコインを投げて最終威力を決定します。最終威力が高いほどスキルダメージが増加します。"
+  },
+  {
+    "key": "tutorial_201_06-content",
+    "original": "코인 수는 스킬의 공격 횟수를 의미합니다. 코인이 2개라는 것은 2번 공격한다는 것이죠",
+    "context": "EN :\nThe number of Coins indicates how many attacks are made. Two Coins means two hits.\nJP :\nコインの枚数はスキルの攻撃回数を意味します。コインが2枚だと2回攻撃するということです。"
+  },
+  {
+    "key": "tutorial_201_07-content",
+    "original": "스킬로 공격하기 전 캐릭터는 코인을 굴려 최종 위력을 결정합니다. 최종 위력이 높을수록 스킬 대미지가 증가합니다.",
+    "context": "EN :\nBefore using a skill, characters will flip Coins to determine its final Power value.\nHigher Power means higher damage.\nJP :\nスキルで攻撃する前に、キャラクターはコインを投げて最終威力を決定します。最終威力が高いほどスキルダメージが増加します。"
+  },
+  {
+    "key": "tutorial_201_08-content",
+    "original": "코인에서 앞면이 나오면 스킬 위력에 코인 위력이 더해집니다. 최종 위력이 변하게되죠. 이번에는 증가하겠네요.",
+    "context": "EN :\nUsually, if a Coin lands on heads, its Power will be added to the skill’s Power.\nLooks like the skill will be strengthened this time.\nJP :\nコインの表面が出ると、スキル威力にコイン威力が加わります。最終威力が変動するのです。今回は増加しそうですね。"
+  },
+  {
+    "key": "tutorial_201_09-content",
+    "original": "이렇게 증가한 위력은 다음 코인을 던질 때에도 유지됩니다.",
+    "context": "EN :\nThe added Power persists over to the next coin toss.\nJP :\nこのように増加した威力は、次のコインを投げるときにも維持されます。"
+  },
+  {
+    "key": "tutorial_202_01-content",
+    "original": "턴이 시작될 때마다 슬롯이 추가되지 않은 캐릭터 중 1명의 스킬 슬롯이 추가됩니다.",
+    "context": "EN :\nAt the start of each turn, a skill slot will be added for a Sinner that has yet to receive an additional one.\nJP :\nターンが始まるたびに、スロットが追加されていないキャラクターのうち1人のスキルスロットが追加されます。"
+  },
+  {
+    "key": "tutorial_202_02-content",
+    "original": "수감자와 대치하는 적이 서로 공격 스킬을 사용하면 <합>이 발생합니다.",
+    "context": "EN :\nWhen a Sinner and their target both use attack skills, a <Clash> occurs.\nJP :\n囚人と対峙した敵と互いに攻撃スキルを使い合う場合、<マッチ>が発生します。"
+  },
+  {
+    "key": "tutorial_202_03_popup_title-content",
+    "original": "합 설명",
+    "context": "EN :\nWhat are Clashes?\nJP :\nマッチの説明"
+  },
+  {
+    "key": "tutorial_202_03-content",
+    "original": "<합>은 수감자와 적이 서로 공격 스킬을 사용할 때 발생합니다.\n<합>은 두 스킬 중 합 위력이 큰 쪽이 승리하며,  패배한 쪽의 스킬 코인 한 개가 파괴됩니다.\n스킬 코인이 남아있다면, 모두 파괴되기 전까지 코인을 새로 굴리며 <합>을 진행합니다.\n<합>진행 중 스킬 코인이 모두 파괴되면, 해당 캐릭터 스킬이 취소되고 합에서 패배합니다.\n<합>에서 이긴 해당 캐릭터는 합 수에 따라 더 강한 피해를 줄 수 있습니다.",
+    "context": "EN :\nA <Clash> occurs when two characters attack each other.\nThe side with the higher Power wins, removing 1 Coin from the loser.\nIf both sides still have Coins, more Clashes will occur until one side has lost all of its Coins.\nThe side that loses all their Coins will have their attack skill canceled.\nThe winner will then attack with their remaining Coins, gaining a damage bonus based on the total number of Clashes.\nJP :\n<マッチ>は囚人と敵が互いに攻撃スキルを使用するときに発生します。\n<マッチ>は二つのスキルのうちマッチ威力が大きい方が勝利し、敗北した方のスキルコインを一つ破壊します。\nスキルコインが残っている場合、全て破壊されるまでコインが新たに投げられ、<マッチ>が続行します。\n<マッチ>進行中にスキルコインが全て破壊されると、そのキャラクターのスキルがキャンセルされ、マッチで敗北します。\n<マッチ>で勝ったキャラクターは、マッチ数によってより強力なダメージを与えることができます。"
+  },
+  {
+    "key": "tutorial_202_04-content",
+    "original": "<합>은 두 스킬의 합 위력을 비교하여,\n합 위력이 큰 쪽이 승리하는 이벤트입니다.\n상단의 게이지와 텍스트를 참고하여 합의 예상 승률을 알 수 있습니다.",
+    "context": "EN :\nIn a <Clash>, the Power of two opposing skills is compared, and the side with greater Power wins.\nThe gauge and text shown at the top of the screen predict your odds of winning.\nJP :\n<マッチ>では二つのスキルのマッチ威力が比較され、\nマッチ威力の大きい方が勝利するイベントです。\n上段のゲージとテキストを参照し、マッチの勝率を知ることができます。"
+  },
+  {
+    "key": "tutorial_202_05-content",
+    "original": "합을 시작하면 두 캐릭터가 코인을 굴려 합 위력을 정합니다. 둘 중 합 위력이 높은 캐릭터가 합에서 승리하여, 공격과 함께 적의 코인을 한 개 파괴합니다.",
+    "context": "EN :\nWhen a Clash begins, the two characters will each toss a Coin to determine their skills’ power in the Clash. Then, the side with more Power wins and destroys the opponent’s Coin.\nJP :\nマッチを開始すると、両キャラクターのコインが投げられ、マッチ威力が決まります。両者のうち、マッチ威力の高いキャラクターがマッチにて勝利し、攻撃とともに敵のコインを一つ破壊します。"
+  },
+  {
+    "key": "tutorial_202_06-content",
+    "original": "이후 1명의 코인이 모두 사라질 때까지 합을 지속합니다.\n1명의 코인이 모두 파괴되면, 해당 캐릭터의 스킬이 취소되고, 합에서 완전히 패배합니다.",
+    "context": "EN :\nThe Clash will continue until one side has run out of Coins.\nWhen a character’s final Coin is destroyed, their skill is canceled, and the Clash will end in complete defeat.\nJP :\n以降、一名のコインが全て消えるまでマッチを続けます。\n一名のコインが全て破壊されると、そのキャラクターのスキルがキャンセルされ、マッチにて完全に敗北します。"
+  },
+  {
+    "key": "tutorial_203_01-content",
+    "original": "체력 옆에 있는 구체는 캐릭터 <정신력>을 나타냅니다.",
+    "context": "EN :\nThe blue orb next to a character’s health bar is an indicator of their <Sanity>, or SP.\nJP :\n体力の横にある球体は、キャラクターの<精神力>を表しています。"
+  },
+  {
+    "key": "tutorial_203_02_popup_title-content",
+    "original": "정신력 설명",
+    "context": "EN :\nWhat is Sanity?\nJP :\n精神力の説明"
+  },
+  {
+    "key": "tutorial_203_02-content",
+    "original": "체력 옆에 있는 구체는 <정신력>을 나타내며, -45부터 +45까지\n정신력이 높을수록 스킬에서 사용하는 코인의 앞면 확률이 증가합니다.\n적을 처치하거나 아군이 사망할 때 정신력이 증가하거나 감소합니다.\n정신력이 일정 수치 이하로 낮아진 적은 “사기 저하” 또는 “패닉”상태가 됩니다.",
+    "context": "EN :\nThe sphere on a unit’s right indicates their <Sanity>, or SP. It has a range of -45 to +45.\nUnits with higher Sanity have a higher chance of their Coin flips landing heads.\nDefeating enemies boosts Sanity, while ally deaths will harm Sanity.\nEnemy units at low Sanity may fall into states of “Low Morale” or “Panic”.\nJP :\n体力の横にある球体は<精神力>を表し、範囲は-45～+45です。\n精神力が高いほど、コイントスにて表面の出る確率が増加します。\n敵を倒したり、味方が死亡したりすると精神力が増減します。\n精神力が一定数値以下になった敵は「士気低下」または「パニック」状態になります。"
+  },
+  {
+    "key": "tutorial_203_06-content",
+    "original": "이 영역을 통해 현재 캐릭터에게 적용 중인 효과를 확인할 수 있습니다.",
+    "context": "EN :\nYou can view the effects and ailments on a unit in the indicated area.\nJP :\nこの領域から、現在のキャラクターに適用されている効果を確認することができます。"
+  },
+  {
+    "key": "tutorial_203_07-content",
+    "original": "영역 내의 아이콘을 누르면 해당 효과의 세부 정보를 확인할 수 있습니다.",
+    "context": "EN :\nPress or hover over one of the effect icons to examine it in detail.\nJP :\n領域内のアイコンを押すと、その効果の詳細が確認できます。"
+  },
+  {
+    "key": "tutorial_203_08-content",
+    "original": "모든 적들이 패닉 상태가 되었군요. 지금이 기회에요. 자유롭게 명령을 내려보세요.",
+    "context": "EN :\nAll of our foes have fallen into panic. Now’s our chance. Give us orders at your discretion.\nJP :\n全ての敵がパニック状態になりましたね。今がチャンスです。自由に命令を下してみてください。"
+  },
+  {
+    "key": "tutorial_301_01-content",
+    "original": "스킬을 연결해주세요.",
+    "context": "EN :\nPlease form a chain of skills. I have more to teach you.\nJP :\nスキルを繋いでください。"
+  },
+  {
+    "key": "tutorial_301_02_popup_tItle-content",
+    "original": "공격 유형과 속성",
+    "context": "EN :\nAttack Types and Affinities\nJP :\n攻撃タイプと属性"
+  },
+  {
+    "key": "tutorial_301_02-content",
+    "original": "스킬에는 공격 유형으로 <참격>, <관통>, <타격>과\n죄악 속성으로 <분노>, <색욕>, <나태>, <탐식>, <우울>, <오만>, <질투>이 있습니다.\n대상의 공격 유형과 죄악 속성 내성에 따라 대미지가 결정되죠.",
+    "context": "EN :\nSkills have two major properties:\nTheir <Attack Type> and <Sin Affinity>.\nThe Attack Types are Slash, Pierce, and Blunt.\nThe Sin Affinities are Wrath, Lust, Sloth, Gluttony, Gloom, Pride, and Envy.\nCombined with Resistances, Attack Types and Affinities determine the damage of skills.\nJP :\nスキルには攻撃タイプとして<斬撃>、<貫通>、<打撃>と\n罪悪属性として<憤怒>、<色欲>、<怠惰>、<暴食>、<憂鬱>、<傲慢>、<嫉妬>があります。\n対象の攻撃タイプと罪悪属性の耐性によってダメージが決まります。"
+  },
+  {
+    "key": "tutorial_301_03-content",
+    "original": "이 곳에서 아군이 사용할 스킬의 공격유형과 죄악속성을 확인할 수 있습니다.",
+    "context": "EN :\nAt this part here, you can check the Attack Type and Sin Affinity of the skills your Sinners will use.\nJP :\nここで味方が使用するスキルの攻撃タイプと、罪悪属性を確認することができます。"
+  },
+  {
+    "key": "tutorial_301_04-content",
+    "original": "이 곳에서는 각 캐릭터의 약점 내성을 확인할 수 있습니다.\n저 적은 참격에 취약하군요.",
+    "context": "EN :\nYou can see the resistances and weaknesses of each unit up here. This hooligan is vulnerable to Slash attacks.\nJP :\nここでは各キャラクターの弱点耐性を確認することができます。\nあの敵は斬撃に対して脆弱ですね。"
+  },
+  {
+    "key": "tutorial_302_01-content",
+    "original": "적의 공격을 막기 위해 수비 스킬을 사용할 수도 있습니다.\n상대와 합이 지정된 수비 스킬은 해당 적에게 공격당할 때 사용되며,\n합이 지정되지 않은 수비 스킬은 일방 공격당할 때 사용됩니다.",
+    "context": "EN :\nYou can also use defense skills to deal with an enemy offense.\nDefense skills activate against the enemy attack paired with it.\nIf a defense skill has no determined clash, it will activate when the unit is subject to an unopposed attack.\nJP :\n敵の攻撃を防ぐために守備スキルを使用することもできます。\n相手とマッチが指定された守備スキルは、該当する敵に攻撃される際に使用され\nマッチが指定されない守備スキルは一方攻撃されるときに使用されます。"
+  },
+  {
+    "key": "tutorial_302_02-content",
+    "original": "수비 스킬은 공격 스킬과 달리 스킬을 별도로 생성해야합니다.",
+    "context": "EN :\nUnlike attack skills, defense skills need to be generated.\nJP :\n守備スキルは攻撃スキルとは異なり、スキルを別途作成する必要があります。"
+  },
+  {
+    "key": "tutorial_302_03-content",
+    "original": "먼저 가드 스킬을 생성해보죠.",
+    "context": "EN :\nLet’s generate a Guard skill first.\nJP :\nまず、ガードスキルを生成してみましょう。"
+  },
+  {
+    "key": "tutorial_302_04-content",
+    "original": "그레고르의 초상화를 눌러주세요.",
+    "context": "EN :\nIf you’d be so kind as to press Gregor’s portrait.\nJP :\nグレゴールのアイコンを押してください。"
+  },
+  {
+    "key": "tutorial_302_05_popup_title-content",
+    "original": "수비 스킬 - 가드",
+    "context": "EN :\nDefense Skills: Guard\nJP :\n守備スキル - ガード"
+  },
+  {
+    "key": "tutorial_302_05-content",
+    "original": "가드는 위력만큼 보호막을 얻습니다.\n피격 시 체력 대신 보호막이 감소합니다.\n한 턴에 가드를 여러 번 사용하면, 사용수만큼 가드가 발동합니다.",
+    "context": "EN :\nGuard creates a shield with health equal to its Power value.\nThis shield will absorb incoming damage first.\nUsing Guard multiple times in a single turn will have it activate that many times.\nJP :\nガードでは威力分のバリアを得ます。\n被ダメージ時、体力の代わりにバリアが減少します。\n1ターンの間にガードを何度も使用すると、使用回数分のガードが発動します。"
+  },
+  {
+    "key": "tutorial_302_06-content",
+    "original": "좋아요. 가드 스킬이 생성되었네요. 이제 반격 스킬을 생성해보죠.",
+    "context": "EN :\nGood. A Guard skill has been generated.\nLet’s do the same for a Counter skill.\nJP :\nよろしいですね。ガードスキルが生成されました。次は反撃スキルを生成してみましょう。"
+  },
+  {
+    "key": "tutorial_302_07-content",
+    "original": "로쟈의 초상화를 눌러주세요.",
+    "context": "EN :\nIf you’d be so kind as to press Rodya’s portrait.\nJP :\nロージャのアイコンを押してください。"
+  },
+  {
+    "key": "tutorial_302_08_popup_title-content",
+    "original": "수비 스킬 - 반격",
+    "context": "EN :\nDefense Skills: Counter\nJP :\n守備スキル - 反撃"
+  },
+  {
+    "key": "tutorial_302_08-content",
+    "original": "반격은 다른 수비 스킬과 다르게 속성이 있으며 사용 시 속성 자원이 생성됩니다.\n반격은 피격 후 대상에게 일방 공격을 가합니다.\n다만, 피격 후 흐트러진다면 반격할 수 없게됩니다.",
+    "context": "EN :\nUnlike other defense skills, Counter has an Affinity and will generate its corresponding Sin resource.\nWhen using Counter, the unit will launch an unopposed attack after being hit.\nHowever, the unit cannot launch a Counter while Staggered.\nJP :\n反撃は他の守備スキルと違って属性があり、使用時に属性資源が生成されます。\n反撃は被ダメージ後、対象に一方攻撃を加えます。\nただし、被ダメージ後に混乱すると反撃できなくなります。"
+  },
+  {
+    "key": "tutorial_302_09-content",
+    "original": "잘하셨어요.\n마지막으로 회피 스킬을 생성해보죠",
+    "context": "EN :\nGut gemacht.\nLastly, we’ll generate an Evade skill.\nJP :\nよくできました。\n最後に回避スキルを生成してみましょう。"
+  },
+  {
+    "key": "tutorial_302_10-content",
+    "original": "파우스트의 초상화를 눌러주세요.",
+    "context": "EN :\nIf you’d be so kind as to press Faust’s portrait.\nJP :\nファウストのアイコンを押してください。"
+  },
+  {
+    "key": "tutorial_302_11_popup_title-content",
+    "original": "수비 스킬 - 회피",
+    "context": "EN :\nDefense Skills: Evade\nJP :\n守備スキル - 回避"
+  },
+  {
+    "key": "tutorial_302_11-content",
+    "original": "회피는 상대 스킬보다 최종 위력이 높거나 같으면, 공격을 완전히 회피합니다.\n최종 위력이 낮을 경우 공격을 그대로 받으니 주의하세요.",
+    "context": "EN :\nWhen using Evade, the character will dodge if the Evade’s final Power value is greater than or equal to the incoming attack’s.\nThe attack will hit with full force if the Evade’s Power is lower, so be careful.\nJP :\n回避では、相手のスキルよりも最終威力が高ければ、攻撃を完全に回避します。\n最終威力が低い場合、攻撃をそのまま受けますのでご注意ください。"
+  },
+  {
+    "key": "tutorial_302_12-content",
+    "original": "회피 스킬도 정확히 생성되었습니다.\n이제 생성한 수비 스킬을 연결하여 전투 명령을 내려주세요.\n목표는 모든 적의 섬멸입니다.",
+    "context": "EN :\nThese skills have been generated without a problem.\nNow, utilize them and continue the battle.\nYour goal is to eliminate all of our enemies.\nJP :\n回避スキルも正しく生成されました。\nこれから生成した守備スキルを繋ぎ、戦闘命令を下してください。\n目標は全ての敵の殲滅です。"
+  },
+  {
+    "key": "tutorial_1001_01-content",
+    "original": "던전에는 <환상체>라는 생명체들이 존재합니다.\n던전에서는 이들과의 전투를 반드시 진행해야하죠.",
+    "context": "EN :\nIn dungeons, creatures we call <Abnormalities> exist.\nEncounters with them will be unavoidable.\nJP :\nダンジョンには<幻想体>という生命体が存在します。\nダンジョンでは、それらと必ず戦闘を行う必要があります。"
+  },
+  {
+    "key": "tutorial_1001_02_popup_title-content",
+    "original": "환상체 / 부위 설명",
+    "context": "EN :\nAbnormalities and their Parts\nJP :\n幻想体 / 部位の説明"
+  },
+  {
+    "key": "tutorial_1001_02-content",
+    "original": "모든 환상체는 부위를 1개 이상 가지고 있습니다.\n부위마다 슬롯이 존재하며, 스킬을 사용합니다.",
+    "context": "EN :\nAbnormalities consist of at least one body part.\nEach part has its own slots, as well as individual skills.\nJP :\n全ての幻想体は部位を1つ以上持っています。\n部位ごとにスロットが存在し、それぞれスキルを使用します。"
+  },
+  {
+    "key": "tutorial_1001_03-content",
+    "original": "아군의 스킬을 선택하여 환상체의 스킬 슬롯에 끌어넣어주세요.",
+    "context": "EN :\nChoose one of your Sinner’s skills and drag it to the Abnormality’s skill slot.\nJP :\n味方のスキルを選択し、幻想体のスキルスロットへドラッグして入れてください。"
+  },
+  {
+    "key": "tutorial_1001_04-content",
+    "original": "환상체의 스킬에도 <속도>가 정해집니다.\n환상체의 속도는 행동 순서를 결정하고, 환상체의 공격 타겟을 바꿀 수 있는 조건이 됩니다.",
+    "context": "EN :\nAbnormality skills also have <Speed> values.\nAlongside determining the order of actions, an Abnormality’s Speeds are something to pay attention to when you wish to redirect its attacks.\nJP :\n幻想体のスキルでも<速度>が決定されます。\n幻想体の速度は行動順序を決定し、幻想体の攻撃ターゲットを変更する条件となります。"
+  },
+  {
+    "key": "tutorial_1001_05-content",
+    "original": "환상체보다 <속도가 빠른> 아군의 스킬을\n환상체의 스킬 슬롯에 드래그하면,\n<합>이 발생하여 환상체의 공격 타겟을 변경할 수 있습니다.",
+    "context": "EN :\nWhen you order a Sinner with *higher* Speed to target one of the Abnormality’s skill slots, it will be forced to engage in a <Clash> with its new target.\nJP :\n幻想体より<速度の速い>味方のスキルを\n幻想体のスキルスロットにドラッグすると、\n<マッチ>が発生し、幻想体の攻撃ターゲットを変更することができます。"
+  },
+  {
+    "key": "tutorial_1001_06-content",
+    "original": "속도가 빠른 아군의 스킬을 드래그하여 환상체의 타겟을 변경해주세요.",
+    "context": "EN :\nDrag a skill belonging to a character with higher Speed to change the Abnormality’s target.\nJP :\n速度の速い味方のスキルをドラッグし、幻想体のターゲットを変更してください。"
+  },
+  {
+    "key": "tutorial_1001_07-content",
+    "original": "환상체의 타겟을 변경했습니다. 이제 저 두 캐릭터는 이번 턴에 합을 진행할 거에요.",
+    "context": "EN :\nYou’ve redirected the Abnormality’s target. These two will now get into a Clash this turn.\nJP :\n幻想体のターゲットを変更しました。これからあの二名のキャラクターは、今回のターンにてマッチを行います。"
+  },
+  {
+    "key": "tutorial_1001_08-content",
+    "original": "이렇게 속도 차이를 활용하여\n환상체의 타겟을 자유롭게 변경할 수 있습니다.\n환상체 전투에서는 <타겟 변경>으로\n유리한 대상과 <합>이 발생하도록 응용하는 것이 중요해요.",
+    "context": "EN :\nBy using Speed this way, you can freely manipulate who an Abnormality attacks.\nWhen confronting Abnormalities, it is vital to *switch targets* so that they are forced into Clashes that will play out in your favor.\nJP :\nこのように、速度の差を活用して、\n幻想体のターゲットを自由に変更することができます。\n幻想体との戦闘では<ターゲット変更>で\n有利な対象と<マッチ>が発生するよう調整することが重要です。"
+  },
+  {
+    "key": "tutorial_1001_09-content",
+    "original": "이제 남은 수감자들에게도 명령을 내려주세요.",
+    "context": "EN :\nNow, give your orders to the rest of the Sinners.\nJP :\n残りの囚人たちにも命令を下してください。"
+  },
+  {
+    "key": "tutorial_1001_10-content",
+    "original": "수감자들의 스킬을 모두 선택한 뒤 이 쪽을 누르면 전투를 시작할 수 있습니다.",
+    "context": "EN :\nAfter you’ve planned out your Sinners’ moves, press here to begin combat.\nJP :\n囚人たちのスキルを全て選択してからこちらを押すと、戦闘が始まります。"
+  },
+  {
+    "key": "tutorial_1001_99_popup_title-content",
+    "original": "부위 파괴",
+    "context": "EN :\nBreaking Parts\nJP :\n部位破壊"
+  },
+  {
+    "key": "tutorial_1001_99-content",
+    "original": "환상체 부위는 체력이 0이 되면 <부위파괴>가 됩니다.\n부위 파괴가 되면 해당 부위가 가지고 있는 모든 물리 내성이 취약 상태가 됩니다.\n부위에 따라 파괴 시 스킬을 사용하지 못하거나, 패시브가 사라지는 경우도 있습니다.\n부위 파괴 시 환상체에 따라 흉폭해지거나 파괴된 부위가 재생할 수 있습니다.",
+    "context": "EN :\nWhen the HP of a body part is reduced to 0, it is <Broken>.\nA broken part becomes vulnerable to all physical attack types.\nSome parts may lose certain skills or passives after breaking.\nDo note that some Abnormalities have regenerative parts, as well as that breaking certain ones may instead enrage an Abnormality.\nJP :\n幻想体の部位は、体力が0になると<部位破壊>状態となります。\n部位が破壊されると、その部位が持つ全ての物理耐性が脆弱状態になります。\n部位によっては、破壊時にスキルを使用できなくなったり、パッシブが消えたりする場合もあります。\n部位を破壊する場合、幻想体によっては凶暴になる場合や破壊された部位が再生する場合もあります。"
+  },
+  {
+    "key": "tutorial_1101_01-content",
+    "original": "던전에는 여러 개의 부위를 가진 환상체도 존재합니다.\n부위가 여러 개인 경우,\n각 부위마다 내성과 사용하는 스킬, 패시브가 달라집니다.",
+    "context": "EN :\nYou may find Abnormalities with multiple parts in the dungeons you explore.\nIn such cases, each part will have different Resistances and Passives, and use different skills.\nJP :\nダンジョンには複数の部位を持つ幻想体も存在します。\n部位が複数ある場合、\n各部位ごとに耐性と使用するスキル、パッシブが異なります。"
+  },
+  {
+    "key": "tutorial_1101_02-content",
+    "original": "이럴 때를 대비해 <환상체 도감>을 준비해두었습니다.\n도감에는 환상체의 부위별 내성, 스킬, 패시브 등의 자료가 적혀있죠.\n환상체를 클릭하여 도감을 확인할 수 있습니다.",
+    "context": "EN :\nWe’ve prepared an <Abnormality Encyclopedia> for occasions like this.\nIt lists the Resistances, Skills, and Passives for each part.\nSelect an Abnormality to view its entry.\nJP :\nこんなときのために<幻想体図鑑>を準備しておきました。\n図鑑には幻想体の部位毎の耐性、スキル、パッシブ等が書かれています。\n幻想体をクリックして図鑑を閲覧することができます。"
+  },
+  {
+    "key": "tutorial_1101_03_popup_title-content",
+    "original": "하지만 도감은 아직 미완성 상태입니다.\n표면적인 조사만으로 환상체를 완전히 파악할 수는 없었죠.\n당신이 환상체를 상대할 때마다 도감이 보완될 거에요.",
+    "context": "EN :\nHowever, the encyclopedia is incomplete at the moment.\nSurface-level analysis can only yield so much information.\nOur entries will be supplemented with more info as you encounter Abnormalities in the field.\nJP :\nしかし図鑑はまだ未完成の状態です。\n表面的な調査だけで幻想体を完全に把握することはできませんでした。\nあなたが幻想体と戦う度に、図鑑の内容が補完されてゆくでしょう。"
+  },
+  {
+    "key": "tutorial_1101_03-content",
+    "original": "환상체 도감에는 부위마다 정보가 기록되어있습니다.\n처음 만난 환상체의 도감은 미완성 상태입니다.\n미완성 상태의 도감은 환상체를 상대하면서 점차 완성됩니다.\n환상체는 여러 번 조우하고 전투할수록 관찰 단계가 증가합니다.\n관찰 단계가 높아질수록 환상체에게 입히는 피해량이 증가합니다.",
+    "context": "EN :\nThe Abnormality Encyclopedia records information on Abnormalities and their parts.\nBy nature, the Encyclopedia starts out incomplete.\nThe more you fight an Abnormality, the more its entry will be penned in the Encyclopedia.\nAfter enough encounters, the Observation Level for the Abnormality will go up.\nHigher Observation Levels increase the damage you deal against an Abnormality.\nJP :\n幻想体図鑑には、部位ごとの情報が記録されています。\n初めて遭遇した幻想体の図鑑は未完成の状態です。\n未完成状態の図鑑は、幻想体に相対することで徐々に完成します。\n幻想体に何度も遭遇し、戦闘を行うことで観察レベルが増加します。\n観察レベルが高くなるほど、幻想体に与えるダメージ量が増加します。"
+  },
+  {
+    "key": "tutorial_1201_01-content",
+    "original": "환상체 전투 중에는 종종 당신의 결정을 요구하는 <선택지>가 등장합니다.\n당신은 현재의 상황을 고려하여 수감자나 행동을 선택해야하죠.\n선택지의 결과에 따라 환상체의 반응이 달라지니 신중히 선택해주세요.",
+    "context": "EN :\nWhile fighting Abnormalities, you may occasionally be tasked to make key <Decisions>.\nThese require you to choose a Sinner or an action based on your current situation.\nAn Abnormality’s response may vastly differ by the choices you make, so choose wisely.\nJP :\n幻想体と戦闘している最中に、しばしばあなたの決定を求める<選択肢>が排出します。\nあなたは現在の状況を考慮しつつ、囚人や行動を選択しなければなりません。\n選択肢の結果によって幻想体の反応が変わりますので、慎重に選択してください。"
+  },
+  {
+    "key": "tutorial_1301_01_popup_title-content",
+    "original": "광역 스킬",
+    "context": "EN :\nArea-of-Effect Skills\nJP :\n広域スキル"
+  },
+  {
+    "key": "tutorial_1301_01-content",
+    "original": "광역 스킬은 여러 슬롯을 공격할 수 있습니다.\n공격 대상은 광역 스킬의 타겟팅 유형(전열, 중열, 후열, 특수 등)에 따라 달라집니다.\n광역 스킬의 합은 스킬을 직접 지정한\n메인 타겟에게만 발생합니다.\n광역 스킬이 합에서 패배하면,\n해당 스킬의 모든 대상에 대한 공격이 취소됩니다.\n광역 스킬에 피격당할 때에도 수비 스킬이 발동됩니다.",
+    "context": "EN :\nArea-of-Effect skills, or AoE skills for short, can target multiple slots.\nThe targets of an AoE skill depend on its targeting range. (Front, Middle, Back, Special, etc.)\nWith AoE skills, Clashes can only occur against the manually targeted unit.\nIf an AoE skill loses in a Clash, the attack will be canceled against all its targets.\nDefense skills will still activate against AoE skills.\nJP :\n広域スキルでは、複数のスロットを攻撃できます。\n攻撃対象は広域スキルのターゲティングタイプ(前列、中列、後列、特殊など)によって異なります。\n広域スキルのマッチは、スキルを直接指定した\nメインターゲットにのみ発生します。\n広域スキルがマッチで敗北すると、\n該当スキルによる攻撃が完全にキャンセルされます。\n広域スキルによってダメージを受ける際にも守備スキルが発動します。"
+  }
+]

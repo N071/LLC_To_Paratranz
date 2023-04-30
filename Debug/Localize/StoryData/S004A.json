@@ -1,0 +1,281 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "0-content",
+    "original": "길이 열렸어. 하지만 베르, 메피가 달리기만 했어도 길은 뚫렸을 거야.",
+    "context": "EN :\nRoad’s clear. But Verg, Mephi could’ve run them over just fine.\nJP :\n道が開けた。でもヴェル、メフィが走りさえすれば道は開けたはず。"
+  },
+  {
+    "key": "1-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "1-content",
+    "original": "<…뭐?>",
+    "context": "EN :\n<…Huh?>\nJP :\n<…えっ？>"
+  },
+  {
+    "key": "2-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "2-content",
+    "original": "<그럼 내가 한 건 뭐가 되는 거야?>",
+    "context": "EN :\n<What did I fight for, then?>\nJP :\n<じゃあ私がやったことはなんだったんだ？>"
+  },
+  {
+    "key": "3-content",
+    "original": "덜걱거리며 날뛰는 나를 보고 지레짐작했는지, 베르길리우스가 말했다.",
+    "context": "EN :\nSensing a rattling agitation in my gestures, Vergilius stepped in.\nJP :\nガタッと飛び上がった私を見て早合点したのか、ヴェルギリウスが言った。"
+  },
+  {
+    "key": "4-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "4-content",
+    "original": "진정하시지요, 단테.",
+    "context": "EN :\nCalm yourself, Dante.\nJP :\n落ち着いてください、ダンテ。"
+  },
+  {
+    "key": "5-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "5-content",
+    "original": "걸음마도 떼지 못한 아이에게 달리기를 시킬 순 없지 않겠습니까.",
+    "context": "EN :\nIt’s not right to ask a toddler to run when it has yet to take its first steps.\nJP :\nあんよも覚束ない子供を走らせることはできないじゃないですか。"
+  },
+  {
+    "key": "6-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "6-content",
+    "original": "걸어볼 기회가 있다면 직접 걷고 나서 달리셔야죠.",
+    "context": "EN :\nYou’ll need every opportunity to try and walk before you’re made to run.\nJP :\n歩く機会があるのなら、直接歩いてみてから走りませんと。"
+  },
+  {
+    "key": "7-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "7-content",
+    "original": "그리고… 단테.",
+    "context": "EN :\nFurthermore… Dante.\nJP :\nそして…ダンテ。"
+  },
+  {
+    "key": "8-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "8-content",
+    "original": "당신은 관리자… 저들의 ‘관리’를 하는 게 업무입니다.",
+    "context": "EN :\nAs the manager… it’s your job to “manage” your staff.\nJP :\nあなたは管理人…彼らの「管理」をするのが業務です。"
+  },
+  {
+    "key": "9-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "9-content",
+    "original": "나는… 길잡이. 어디를 가고, 어떻게 개척할지는 내가 판단합니다.",
+    "context": "EN :\nAnd I… am the guide. I decide where we go and how we arrive there.\nJP :\n私は…案内人。どこに行って、どうやって開拓するかは私が判断します。"
+  },
+  {
+    "key": "10-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "10-content",
+    "original": "알겠습니까?",
+    "context": "EN :\nDo you get it?\nJP :\n分かりましたか？"
+  },
+  {
+    "key": "11-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "11-content",
+    "original": "토 달지 말라고.",
+    "context": "EN :\nDon’t argue with me.\nJP :\n口出しするな。"
+  },
+  {
+    "key": "12-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "12-content",
+    "original": "<…말도 안 통하는 놈의 말을 듣고 순순하게 따르기만 하라는 거야?>",
+    "context": "EN :\n<…How am I supposed to not question a stranger who can’t even hear me?>\nJP :\n<…話が通じないやつの話を聞いて、従順に従ってろっていうのか？>"
+  },
+  {
+    "key": "13-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "13-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "14-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "14-content",
+    "original": "째깍거리긴 하는데, 뭐라고 하는 거지? 파우스트 씨.",
+    "context": "EN :\nI heard ticking, so what did they say, Ms. Faust?\nJP :\nカチカチしてるけど、なんて言ってるんだ？ファウストさん。"
+  },
+  {
+    "key": "15-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "15-content",
+    "original": "별말 없었습니다.",
+    "context": "EN :\nNothing much.\nJP :\n特には言ってませんね。"
+  },
+  {
+    "key": "16-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "16-content",
+    "original": "긍정을 성대하게도 하는군. 앞으론 고개만 끄덕여도 좋습니다, 단테.",
+    "context": "EN :\nSome verbose agreement that was. A nod should be enough to let me know that you approve, Dante.\nJP :\n肯定を大袈裟に表現するんだな。\nこれからは首を縦に振るだけで大丈夫です、ダンテ。"
+  },
+  {
+    "key": "17-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "17-content",
+    "original": "그럼 메피, 출발하자. 야호.",
+    "context": "EN :\nNow, Mephi, off we go. Woohoo.\nJP :\nじゃあメフィ、出発しよう。やっほー。"
+  },
+  {
+    "key": "18-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "18-content",
+    "original": "카론, 기분이 어때?",
+    "context": "EN :\nHow’re you feeling, Charon?\nJP :\nカロン、気分はどうだ？"
+  },
+  {
+    "key": "19-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "19-content",
+    "original": "매우. 신나. 날아갈 것 같습니다, 카론.",
+    "context": "EN :\nExtreme. Excitement. About to walk on air, reports Charon.\nJP :\nとても。たのしい。飛んでいきそうです、カロン。"
+  },
+  {
+    "key": "20-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "20-content",
+    "original": "…좋아.",
+    "context": "EN :\n…Good.\nJP :\n…よし。"
+  },
+  {
+    "key": "21-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "21-content",
+    "original": "<그래서 어디로 가는 거야?>",
+    "context": "EN :\n<So, where are we going?>\nJP :\n<それでどこに行くんだ？>"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "베르길리우스, 그가 목적지를 묻습니다.",
+    "context": "EN :\nVergilius, they’d like to know the destination.\nJP :\nヴェルギリウス、彼が目的地について訊ねています。"
+  },
+  {
+    "key": "23-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "23-content",
+    "original": "하… 말했던 것 같습니다만, 단테.",
+    "context": "EN :\nSigh… I believe I told you that already, Dante.\nJP :\nはぁ…言ったはずですが、ダンテ。"
+  },
+  {
+    "key": "24-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "24-content",
+    "original": "<목적지가 어디냐니까?>",
+    "context": "EN :\n<But just *where* are we going?>\nJP :\n<だから目的地はどこなんだよ？>"
+  },
+  {
+    "key": "25-content",
+    "original": "그의 한숨과 함께 버스는 별안간 덜컹거리며 앞으로 나아가기 시작했다.",
+    "context": "EN :\nWith his sigh, the bus shuddered and started to rumble forward.\nJP :\n彼の溜め息と共に、バスはにわかにガタガタと前へ進み始めた。"
+  }
+]

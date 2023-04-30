@@ -1,0 +1,774 @@
+[
+  {
+    "key": "0-place",
+    "original": "전당포",
+    "context": "EN :\nA Pawnshop\nJP :\n質屋"
+  },
+  {
+    "key": "0-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "0-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "0-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "0-content",
+    "original": "거, 너무 우르르 들어오는 거 아니유? 가뜩이나 좁아터진 가게구만...",
+    "context": "EN :\nAin’t ya too many visitors at once? The shop’s cramped as is…\nJP :\nおや、どんさか入り過ぎじゃぁないのかぇ？タダでさえ狭い店だってのに…。"
+  },
+  {
+    "key": "1-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "1-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "1-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "1-content",
+    "original": "트럼프로 볼거유, 아니면 마작 점으로 볼거유?",
+    "context": "EN :\nY’all prefer your luck of the draw from trumps or mahjong?\nJP :\nトランプでやりますかぇ、それとも麻雀でやりますかぇ？"
+  },
+  {
+    "key": "2-content",
+    "original": "가게 안을 들어가자마자 맞이해 준 건 전당포 주인으로 보이는 노인의 퉁명스러운 인사였다.",
+    "context": "EN :\nAs we entered the shop, we were met with the gruff greeting of an old pawnbroker.\nJP :\n店内に入ってすぐ私たちを出迎えてくれたのは\n質屋の主人と見られる老人の無愛想な挨拶だった。"
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "저게 뭐라는 거냐?",
+    "context": "EN :\nWhat’s that blighter on about?\nJP :\nアレなんつってんだ？"
+  },
+  {
+    "key": "4-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "4-content",
+    "original": "…저만 J사 안내 책자 읽어온 거예요? 베르길리우스 씨가 떠나기 전에 한 번씩 읽어보라고 했잖아요.",
+    "context": "EN :\n…Am I the only one here who read up on Nest J? Vergilius gave us a pamphlet to peruse before we left.\nJP :\n…J社の案内冊子読んできたのって私だけですか？\nヴェルギリウスさんが出発する前に一度読んでみろって言ってたじゃないですか。"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "뭐, 표지 정도는 봤던 것 같기도 하고...",
+    "context": "EN :\nWell, I think I remember glancing at the cover…\nJP :\nまぁ、表紙くらいは見た気がするけど…。"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "이곳에서는 그날 하루의 운에 따라서 받을 수 있는 지불금도 달라져요.",
+    "context": "EN :\nHere, you’ll get loaned different amounts depending on your fortune for the day.\nJP :\nここではその日の運によって受け取る支払金が変わります。"
+  },
+  {
+    "key": "7-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "7-content",
+    "original": "대복이면 값을 더 치러주겠지만 흉에 가까워질수록 본전도 못 건지게 되는 거죠.",
+    "context": "EN :\nIf you draw a great boon, you get extra cash, while misfortune means far less than what the pawn is worth.\nJP :\n大吉なら上乗せしてくれるでしょうけど、\n大凶に近づくほど元手も回収できなくなるってことです。"
+  },
+  {
+    "key": "8-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "8-content",
+    "original": "아~ 그러고 보니 우리 집은 아예 점을 보는 사람들을 정식으로 고용하기도 했어요.",
+    "context": "EN :\nAh~ That reminds me, our family had hired dedicated fortunetellers.\nJP :\nあ～そういえば、僕の家では端から占い師を正式雇用してましたね。"
+  },
+  {
+    "key": "9-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "9-content",
+    "original": "집을 나오기 직전에 봤던 점에 대복을 뽑았는데, 이렇게 다 같이 만날 운명을 암시한 거였나 봐요.",
+    "context": "EN :\nThey drew a greater boon for me in the divination they performed before I left. That must’ve been a sign that I would join all of you wonderful people on our journey.\nJP :\n家を出る直前に引いた運勢が大吉だったんですけど、\nこういう風にみんなに逢える運命を暗示してたみたいですね。"
+  },
+  {
+    "key": "10-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10-content",
+    "original": "와, 유복한 집에서 신선놀음이나 해왔던 게 당신의 운명이라니. 저도 다음에는 그런 운명으로 태어나길 기도해야겠네요.",
+    "context": "EN :\nWow, really, so indulging in lofty leisure on your grand estate was your fated life. Maybe I should pray that I’m born that rich if there’s a next time.\nJP :\nわぁ、裕福な家で悠々自適な生活をしてたのがあなたの運命だなんて。\n私も次にはそんな運命で生まれることを願わないとですね。"
+  },
+  {
+    "key": "11-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "11-content",
+    "original": "난 사양이야. 저런 놈들이 알고 보면 더 더럽게 노는 법이거든.",
+    "context": "EN :\nI’m good. It’s well-off folks like him that tend to play dirty.\nJP :\nオレはごめんだ。あんな奴らのが、何だかんだで汚い遊び方すんだよな。"
+  },
+  {
+    "key": "12-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "12-content",
+    "original": "그럴 수도 있겠네요. 저도 어렸을 때부터 제 동생 하고는 같이 놀기 싫었던 것 같아요. 맨날 반칙을 쓰면서 심술을 부렸거든요.",
+    "context": "EN :\nYou might be right. I didn’t like to get along with my younger sibling in childhood. Always trying to cheat and grouch if things didn’t go as desired.\nJP :\nそうかもしれませんね。僕も子供の頃から弟と一緒に遊ぶのが\n嫌だった気がします。毎日反則技を使って意地悪したからですね。"
+  },
+  {
+    "key": "13-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "13-content",
+    "original": "아니, 내가 말한 건 그런 뜻이 아니고!",
+    "context": "EN :\nNo, that’s NOT what I was getting at!\nJP :\nいや、オレが言ったのはそういうんじゃなくて！"
+  },
+  {
+    "key": "14-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "14-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "14-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "14-content",
+    "original": "다들 점 볼 거여, 말 거여?",
+    "context": "EN :\nSo you wanna get your fortune or not?\nJP :\nみんな占うのかい、それともやらんのかい？"
+  },
+  {
+    "key": "15-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "15-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "15-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "15-content",
+    "original": "그런데… 시방, 저당 잡을 걸 가지고 있긴 한 거여? 다들 행색이...",
+    "context": "EN :\nForget about that… Do you people even have anything to pawn? I’m not seeing any wealth on ya…\nJP :\nところで…やっこさん、カタにするもんは持ってたりするんかぇ？\nなんかみんな身なりが…。"
+  },
+  {
+    "key": "16-content",
+    "original": "전당포 주인이 미덥지 않은 얼굴로 수감자들을 한 명씩 흩어 내리다가 내 앞에 멈췄다.",
+    "context": "EN :\nThe pawnbroker glanced over each Sinner with a dubious look until his eyes landed on me.\nJP :\n質屋の主人が信用ならないという顔で囚人を一人ずつ舐め回すように見ると、私の前で止まった。"
+  },
+  {
+    "key": "17-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "17-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "17-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "17-content",
+    "original": "오호... 저 시계머리는 값이 되긴 하겠군.",
+    "context": "EN :\nOho… That clockhead might be worth a good sum.\nJP :\nおほぉ…あの時計頭は良い値が付きそうかのぉ。"
+  },
+  {
+    "key": "18-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "18-content",
+    "original": "얼마로 예상하는데, 영감?",
+    "context": "EN :\nHow much do you think they sell for, old pal?\nJP :\n見積もるとどれくらい、じいさん？"
+  },
+  {
+    "key": "19-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "19-content",
+    "original": "<로쟈… 가격은 왜 물어보는 거야…>",
+    "context": "EN :\n<Rodya… I’m not for sale…>\nJP :\n<ロージャ…なんで価格を聞くんだ…。>"
+  },
+  {
+    "key": "20-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "20-content",
+    "original": "연락받으셨을 진 모르겠지만 저희는 림버스 컴퍼니 소속으로...",
+    "context": "EN :\nAs you were likely contacted in advance, we are from Limbus Company, and…\nJP :\n連絡を受け取ったかは分からないのですが、\n私たちはリンバス・カンパニー所属で…。"
+  },
+  {
+    "key": "21-content",
+    "original": "불행히도 수감자들은 물론이고, 전당포 주인조차 파우스트의 말을 제대로 듣지 않고 있다.",
+    "context": "EN :\nUnfortunately, neither the Sinners nor the pawnbroker were paying any attention to Faust’s words.\nJP :\n不幸にも囚人はもちろん、質屋の主人ですら\nファウストの話をちゃんと聞いてなかった。"
+  },
+  {
+    "key": "22-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "22-content",
+    "original": "아, 이 손수건은 집 나올 때 가져왔던 건데요...",
+    "context": "EN :\nOh, I did bring this handkerchief with me when I left home…\nJP :\nあぁ、このハンカチは家から出るときに持ってきたものなんですけど…。"
+  },
+  {
+    "key": "23-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "23-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "23-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "23-content",
+    "original": "오호… 비단에 용 자수를 놓았군. 바늘땀이 꼼꼼한 게, 이 정도면… 칠백만… 안?",
+    "context": "EN :\nOho… A dragon embroidered on silk. That’s some meticulous needlework, which might net… let’s see, seven million… Ahn?\nJP :\nおほぉ…絹に龍の刺繍を入れてあるの。\nステッチが細かいのが、このくらいなら…七百万…眼(アン)？"
+  },
+  {
+    "key": "24-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "24-content",
+    "original": "그깟 천 조각이 그렇게 비싸다고?! 눈이 썩어버린 거 아냐, 영감?!",
+    "context": "EN :\nA crummy piece of cloth is worth that much?! Have your eyes rotted out, old geezer?!\nJP :\nたったそれくらいの布きれがそんな高ぇのかよ！？\n眼が腐ってんじゃねぇのか、じじい！？"
+  },
+  {
+    "key": "25-model",
+    "original": "전당포주인",
+    "translation": "当铺老板",
+    "context": "EN :\n10区\nJP :\nPawnMan"
+  },
+  {
+    "key": "25-teller",
+    "original": "전당포 주인",
+    "context": "EN :\nPawnbroker\nJP :\n質屋の主人"
+  },
+  {
+    "key": "25-title",
+    "original": "J사 전당포",
+    "context": "EN :\nJ Corp. Pawnshop\nJP :\nJ社 質屋"
+  },
+  {
+    "key": "25-content",
+    "original": "뭐? 이런 고급품을 못 알아… 하아, 그런 고물 반지나 끼고 있으니… 쯧쯔.",
+    "context": "EN :\nWha? You don’t recognize the value of this quality—­­ Beh, now I see. You’re wearing a shabby ring like it’s true treasure… Tsk-tsk.\nJP :\nは？こんな高級品が分からんのかぇ…\nはぁ、そんなガラクタの指輪なんてはめてるからの…。チッチッ。"
+  },
+  {
+    "key": "26-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "26-content",
+    "original": "…뭐라고 했냐.",
+    "context": "EN :\n…What did you just say.\nJP :\n…今何つった。"
+  },
+  {
+    "key": "27-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "27-content",
+    "original": "아우, 시끄러! 단테~ 얘네 좀 조용히 시켜줘~",
+    "context": "EN :\nGeez, cut it out! Dante~ Please shut them up~\nJP :\nもう、うるさい！ダンテ～、こいつら静かにさせて～。"
+  },
+  {
+    "key": "28-model",
+    "original": "???",
+    "translation": "？？？",
+    "context": "EN :\n？？？\nJP :\n"
+  },
+  {
+    "key": "28-content",
+    "original": "걱정했잖아요, 파우스트.",
+    "context": "EN :\nYou had us worried, Faust.\nJP :\n心配したじゃないですか、ファウスト。"
+  },
+  {
+    "key": "29-content",
+    "original": "난장판이 된 전당포의 소음 속에서, 상냥하기 그지없는 사근사근한 목소리가 들려왔다.",
+    "context": "EN :\nAmidst the chaos, a most gentle voice softly landed on my ears.\nJP :\n修羅場になった質屋の騒音の中で、にこやかなこと\nこの上ない愛想の良い声が聞こえてきた。"
+  },
+  {
+    "key": "30-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "30-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "30-content",
+    "original": "보기로 한 시간은 4시였는데 15분이나 지나버려서. 당신이 시계 보는 법을 까먹었을 리는 없을 테고요. 그렇죠?",
+    "context": "EN :\nWe were meant to meet each other at 4, but fifteen minutes had passed already. Surely you couldn’t have forgotten how to read a clock, right?\nJP :\n会うのは4時だったんですが、15分も過ぎてしまって。\nあなたが時計を見る方法を忘れたはずはないでしょうし、そうですよね？"
+  },
+  {
+    "key": "31-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "31-content",
+    "original": "네, 버스를 운전한 건 제가 아니니까요.",
+    "context": "EN :\nCertainly not. There was little I could do to alter the driver of the bus.\nJP :\nはい、バスを運転したのは私ではないですからね。"
+  },
+  {
+    "key": "32-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "32-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "32-content",
+    "original": "아하, 그래서 이런 시계 인간까지 데리고 다니는 거야? 알람 기능까진 없었나 보네.",
+    "context": "EN :\nAha, so you’re taking a clock-person with you to help with the time? I suppose they didn’t come with an alarm.\nJP :\nあはぁ、だからこんな時計人間まで連れて歩いてるのか？\nアラーム機能はなかったみたいだなあ。"
+  },
+  {
+    "key": "33-content",
+    "original": "이젠 아예 업신여기는 기색을 숨길 의지조차 없는 목소리도 이어서 들려왔다.",
+    "context": "EN :\nThe gentle voice was soon followed by one that didn’t even attempt to hide their disdain.\nJP :\nもはや見下している声色を隠そうともしない声も、続けて聞こえてきた。"
+  },
+  {
+    "key": "34-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "34-content",
+    "original": "<이봐, 너무하잖아. 처음 보는 사이끼리...>",
+    "context": "EN :\n<Come on, that’s a little harsh. Let’s try to leave better first impressions…>\nJP :\n<おい、酷いじゃないか。初対面だっていうのに…。>"
+  },
+  {
+    "key": "35-content",
+    "original": "수감자들 외엔 내 말이 들리지 않을 거라는 걸 알고 있음에도 무례한 언사엔 매번 흥분하게 된다.",
+    "context": "EN :\nI know my voice won’t be heard by anyone other than the Sinners, but I still can’t help but get upset at rude remarks.\nJP :\n囚人以外には私の言葉が聞こえないということを知っているにもかかわらず\n無礼な言動には毎回興奮してしまう。"
+  },
+  {
+    "key": "36-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "36-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "36-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "36-content",
+    "original": "아, 너희야? 이번에 황금가지 탈환 작전 말아먹은 애들.",
+    "context": "EN :\nOh, so it was you? You guys are the team that botched the Golden Bough retrieval last time?\nJP :\nあぁ、お前たちか？この前の黄金の枝の奪還作戦をぶち壊しにしたやつらって。"
+  },
+  {
+    "key": "37-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "37-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "37-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "37-content",
+    "original": "도시에서 손꼽힌다는 천재가 속한 팀이라길래 주위에서 기대가 많았는데.",
+    "context": "EN :\nFolks had high expectations for your team, what with some of the smartest people in the City being on it.\nJP :\n都市で屈指の天才が属するチームだって話だったから、\n周りからもかなり期待されてたんだけどな。"
+  },
+  {
+    "key": "38-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "38-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "38-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "38-content",
+    "original": "어쩐지... 파우스트 씨 표정이 계속 안 좋아 보이던데.",
+    "context": "EN :\nNo wonder… Ms. Faust wasn’t looking very pleased.\nJP :\nなんだか…ファウストさんの顔色がずっと悪そうに見えますけど。"
+  },
+  {
+    "key": "39-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "39-content",
+    "original": "제 표정은 항상 동일했어요.",
+    "context": "EN :\nMy face has remained constant.\nJP :\n私の表情はいつも同じでしたよ。"
+  },
+  {
+    "key": "40-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "40-content",
+    "original": "야, 넌 왜 가만히 있어? 얘도 나름 두뇌파야. 무시하지 말라고.",
+    "context": "EN :\nEy, what’re you standing around for? Go on now. This fellow here is also the brainy sort. Don’t brush him off.\nJP :\nおい、おめぇは何でじっとしてんだよ？\nこいつもそこそこ頭脳派だろ。無視すんなよ。"
+  },
+  {
+    "key": "41-content",
+    "original": "히스클리프가 이상을 곁눈으로 가리키며 말했지만, 정작 이상의 반응은 시큰둥 했다.",
+    "context": "EN :\nHeathcliff gave Yi Sang a sideways glance, but what he got in response was lukewarm.\nJP :\nヒースクリフがイサンを横目で見ながら言ったが、\nイサンは気乗りしないようだった。"
+  },
+  {
+    "key": "42-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "42-content",
+    "original": "그저 무의미한 자랑이기 때문이오.",
+    "context": "EN :\nI shall not, as that would be a hollow vaunt.\nJP :\nただ、いたずらなることゆえ。"
+  },
+  {
+    "key": "43-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "43-content",
+    "original": "너 지하에서만 해도 말 많지 않았냐? 왜 갑자기 또 이상해진 거야?",
+    "context": "EN :\nBut you were a lot more talkative down in that basement? Who are you and what did you do with Yi Sang?\nJP :\nお前地下だと饒舌じゃなかったか？なんでまたそう変になったんだよ？"
+  },
+  {
+    "key": "44-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "44-content",
+    "original": "본인은 본래부터 이상이었소만.",
+    "context": "EN :\nI am and have always been whom I match in the mirror.\nJP :\n当職もあんがいさんざん、さなることを言わるるなりけり。"
+  },
+  {
+    "key": "45-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "45-content",
+    "original": "이… 하. 됐다.",
+    "context": "EN :\nYou― Haah, forget it.\nJP :\nこの…はぁ。もういい。"
+  },
+  {
+    "key": "46-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "46-content",
+    "original": "첫 번째 임무는 애초에 실패를 염두에 둔 계획이었어요. ",
+    "context": "EN :\nOur first mission was devised with failure in mind.\nJP :\n最初の任務はそもそも失敗を念頭に置いた計画でした。"
+  },
+  {
+    "key": "47-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "47-content",
+    "original": "각자의 잠재력을 확인하는 시간이 필요했으니까.",
+    "context": "EN :\nWe needed an opportunity to see what potential our Sinners held.\nJP :\n各自の潜在能力を確認する時間が必要だったから。"
+  },
+  {
+    "key": "48-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "48-content",
+    "original": "…그랬던 거였어?",
+    "context": "EN :\n…Wait, it was?\nJP :\n…そうだったのか？"
+  },
+  {
+    "key": "49-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "49-content",
+    "original": "처음부터 목표가 실패인 작전이라니, 작전이라고 부르기도 무엇하군.",
+    "context": "EN :\nA plan whose purpose is to fail? That could hardly qualify as a proposal.\nJP :\n最初から目標が失敗の作戦だなんて、作戦と言うには微妙だな。"
+  },
+  {
+    "key": "50-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "50-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "50-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "50-content",
+    "original": "베르길리우스 님은 어디 갔죠? 전 그 분 얼굴이라도 뵐 수 있을까 싶어서 작전에 합류하겠다고 한 건데요.",
+    "context": "EN :\nBy the way, where is Vergilius? I agreed to assist with the operation mainly for a chance to get to see him.\nJP :\nヴェルギリウスさんはどこに行きました？私はあの方に会えるかと思って\n作戦に合流すると言ったんですが。"
+  },
+  {
+    "key": "51-model",
+    "original": "에피",
+    "translation": "埃菲",
+    "context": "EN :\nleft\nJP :\nEpi"
+  },
+  {
+    "key": "51-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "51-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "51-content",
+    "original": "그분도 쪽팔렸겠지. 이런 애들이랑 같이 다닌다고 생각해봐.",
+    "context": "EN :\nHe must’ve been embarrassed. Imagine accompanying people like these.\nJP :\nあの方も恥ずかしかっただろうな。\nこんなひよっ子たちと一緒だって考えてみろよ。"
+  },
+  {
+    "key": "52-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "52-content",
+    "original": "큭… 그 자식, 일부러 멀찌감치 내려 준거였나? 우리가 쪽팔려서?!",
+    "context": "EN :\nTch… Is that why he dropped us so far away from the place? Because he was ashamed of us?!\nJP :\nくっ…あん野郎、わざと遠いとこで降ろしたのか？\nオレらが恥ずかしいから！？"
+  },
+  {
+    "key": "53-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "53-content",
+    "original": "…왜 비하 발언에는 반박을 아무도 안 하는 건데요.",
+    "context": "EN :\n…Doesn’t anyone have a thing to say about us being belittled?\nJP :\n…どうして私たちを卑下する発言には誰も反論しないんですか。"
+  },
+  {
+    "key": "54-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "54-content",
+    "original": "그리고 자기소개라도 해야 잘난 척이든 허세든 의미 있어진다는 거 몰라요?",
+    "context": "EN :\nAnd won’t all the boasting and bluffing not do much if we don’t introduce ourselves first?\nJP :\nそれに自己紹介でもした方が自慢であれ、\n虚勢であれ意味があるってことはご存じないんですか？"
+  },
+  {
+    "key": "55-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "55-content",
+    "original": "이번에 합동작전을 하게 될 분들이에요. 림버스 컴퍼니 클리어 부서, LCC에서 오셨습니다.",
+    "context": "EN :\nThese two will be our cooperators for this mission. They’re from the Limbus Company Clearance department, also known as the LCC.\nJP :\n今回、共同作戦をすることになった方々です。\nリンバス・カンパニークリア部署、LCCからいらっしゃいました。"
+  },
+  {
+    "key": "56-model",
+    "original": "소드",
+    "translation": "索德",
+    "context": "EN :\nleft\nJP :\nSode"
+  },
+  {
+    "key": "56-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "56-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "56-content",
+    "original": "비포팀 까지 붙여주시죠. 아, 전 소드고 이 사람은 에피랍니다.",
+    "context": "EN :\nThe Before Team of Clearance, please. Ah, I’m Saude, and this here is Effie.\nJP :\nビフォーチームまで付けてくださいよ。\nあぁ、私はソードでこの人はエピです。"
+  },
+  {
+    "key": "57-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "57-content",
+    "original": "뭐, 우리가 박수라도 쳐줘야 되는…",
+    "context": "EN :\nWhat, are we supposed to clap or…\nJP :\nまぁ、拍手でもしたほ…。"
+  },
+  {
+    "key": "58-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "58-content",
+    "original": "와! 반가워요!",
+    "context": "EN :\nWonderful! It’s a pleasure!\nJP :\nわぁ！お会いできて嬉しいです！"
+  },
+  {
+    "key": "59-content",
+    "original": "홍루만이 진심으로 반가워하며 그들을 환영했으며(실제로 박수를 치기 직전까지 갔다),",
+    "context": "EN :\nHong Lu was the only person on the team welcoming them with total sincerity. (He almost even gave a standing ovation.)\nJP :\nホンルだけが心から喜びながら二人を歓迎し(本当に拍手するところだった)、"
+  },
+  {
+    "key": "60-content",
+    "original": "나머지의 반은 싸늘한, 반은 경계 어린 눈빛으로 쳐다보는 걸로 인사 시간은 마무리가 되었다.",
+    "context": "EN :\nA good half of the rest stared at the two with cold eyes, and the others wary, until introductions were finished.\nJP :\n残りの半分は冷ややかな、もう半分は警戒している目付きで見つめて\n挨拶の時間はお開きとなった。"
+  }
+]

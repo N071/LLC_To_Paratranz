@@ -1,0 +1,17 @@
+[
+  {
+    "key": "upgrade_character_exp_up-content",
+    "original": "경험치가\n상승했습니다.",
+    "context": "EN :\nExperience\ngained.\nJP :\n経験値が\n上昇しました。"
+  },
+  {
+    "key": "upgrade_character_level_up-content",
+    "original": "레벨 상승",
+    "context": "EN :\nLevel Up\nJP :\nレベルアップ"
+  },
+  {
+    "key": "upgrade_character_level_max-content",
+    "original": " <color=#f8c200>최대 레벨</color>에\n도달했습니다.",
+    "context": "EN :\n<color=#f8c200>MAX LEVEL</color>\nhas been reached.\nJP :\n <color=#f8c200>最大レベル</color>に\n到達しました。"
+  }
+]

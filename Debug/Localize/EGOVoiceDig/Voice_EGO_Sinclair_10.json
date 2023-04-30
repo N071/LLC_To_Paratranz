@@ -1,0 +1,52 @@
+[
+  {
+    "key": "battle_awaken_21001_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_21001_1-dlg",
+    "original": "나의 손으로 잘라낼 수 있다면…",
+    "context": "EN :\nIf I can sever it by my own hands…\nJP :\n僕の手で切り捨てることができれば…。"
+  },
+  {
+    "key": "battle_awaken_21002_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_21002_1-dlg",
+    "original": "짓이겨 버리겠어…",
+    "context": "EN :\nI’ll crush you…\nJP :\nぶっ潰してやる…。"
+  },
+  {
+    "key": "battle_erosion_21002_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_21002_1-dlg",
+    "original": "또한, 산 제물이 되어라.",
+    "context": "EN :\nYou, too, will be a live offering.\nJP :\n汝も又、生贄となれ。"
+  },
+  {
+    "key": "battle_awaken_21003_1-desc",
+    "original": "E.G.O 발동",
+    "context": "EN :\nE.G.O Activation\nJP :\nE.G.O発動"
+  },
+  {
+    "key": "battle_awaken_21003_1-dlg",
+    "original": "이것이 구, 궁극의…! 웃, 우아악…",
+    "context": "EN :\nThis is the u-ultimate…! Whoa, uaaahh…\nJP :\nこれがきゅ、究極の…！うっ、うわぁっ…。"
+  },
+  {
+    "key": "battle_erosion_21003_1-desc",
+    "original": "E.G.O 침식",
+    "context": "EN :\nE.G.O Corrosion\nJP :\nE.G.O侵蝕"
+  },
+  {
+    "key": "battle_erosion_21003_1-dlg",
+    "original": "후우… 소화… 끝…",
+    "context": "EN :\nPhew… All… churned up…\nJP :\nふぅ…消化…おわり…。"
+  }
+]

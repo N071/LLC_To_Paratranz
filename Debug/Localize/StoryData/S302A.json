@@ -1,0 +1,215 @@
+[
+  {
+    "key": "0-place",
+    "original": "메피스토펠레스 내부",
+    "context": "EN :\nAboard Mephistopheles\nJP :\nメフィストフェレス 内部"
+  },
+  {
+    "key": "0-model",
+    "original": "카론",
+    "translation": "卡戎",
+    "context": "EN :\nCharon\nJP :\nカロン"
+  },
+  {
+    "key": "0-content",
+    "original": "기분 좋은 카론, 기분 좋게 도착.",
+    "context": "EN :\nCock-a-hoop Charon’s cock-a-hoop parking.\nJP :\n気分良いカロン、気分良く到着。"
+  },
+  {
+    "key": "1-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "1-content",
+    "original": "자, 내리지. 심사받을 시간이다.",
+    "context": "EN :\nAlright, off the bus. Time to get inspected.\nJP :\nさあ、降りよう。審査の時間だ。"
+  },
+  {
+    "key": "2-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "2-content",
+    "original": "아, 혹시나 해서 말하는 건데 너희가 평소에 하던 대로.",
+    "context": "EN :\nAh, and let me add this just in case you’re feeling inclined to your usual antics.\nJP :\nあぁ、念のために言うんだがお前らの「普段通り」。"
+  },
+  {
+    "key": "3-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "3-content",
+    "original": "그러니까 볼썽사납게 사고를 치고 다녀도 일이 수습될 거란 기대는…",
+    "context": "EN :\nDon’t go around making a scene expecting things to go your way…\nJP :\nつまり、みっともなく事故を起こして回っても事態が収拾するという期待は…。"
+  },
+  {
+    "key": "4-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "4-content",
+    "original": "이곳, 검문소에서는 버리는 게 좋을 거다.",
+    "context": "EN :\nBecause that will not be how it works in this particular place.\nJP :\nここ、検問所では捨てたほうが良い。"
+  },
+  {
+    "key": "5-content",
+    "original": "말 한번 살벌하게 하네, 그런 생각이 무색하게도…",
+    "context": "EN :\nI thought his words were pretty intimidating, but despite the worries…\nJP :\n殺伐としたこと言うなぁ、そんな考えは間もなく吹っ飛んだ。"
+  },
+  {
+    "key": "6-place",
+    "original": "K사 검문소",
+    "context": "EN :\nK Corp. Checkpoint\nJP :\nK社 検問所"
+  },
+  {
+    "key": "6-model",
+    "original": "더미2",
+    "translation": "Empty",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "6-teller",
+    "original": "안내방송",
+    "context": "EN :\nAnnouncement\nJP :\n案内放送"
+  },
+  {
+    "key": "6-title",
+    "original": "K사 검문소",
+    "context": "EN :\nK Corp. Checkpoint\nJP :\nK社 検問所"
+  },
+  {
+    "key": "6-content",
+    "original": "K사로 방문하신 모든 분께 환영의 인사를 드립니다.",
+    "context": "EN :\nWe welcome all visitors to K Corp’s Nest openheartedly.\nJP :\nK社にお越しの皆様へ、歓迎の挨拶を申し上げます。"
+  },
+  {
+    "key": "7-model",
+    "original": "더미2",
+    "translation": "Empty",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "7-teller",
+    "original": "안내방송",
+    "context": "EN :\nAnnouncement\nJP :\n案内放送"
+  },
+  {
+    "key": "7-title",
+    "original": "K사 검문소",
+    "context": "EN :\nK Corp. Checkpoint\nJP :\nK社 検問所"
+  },
+  {
+    "key": "7-content",
+    "original": "한 줄로 순서에 맞게 입장하신 다음, 안내문에 따라 적합한 위치에 서주십시오.",
+    "context": "EN :\nPlease form an orderly line as you enter, and stand where the instructions indicate.\nJP :\n一列に順序良く並んでご入場なさいましたら、案内に従って適切な位置にお立ちください。"
+  },
+  {
+    "key": "8-content",
+    "original": "초행자에게 위압감을 안겨주는 입국 심문소의 날 선 분위기에 수감자들이 주눅이라도 든 것처럼 얌전해졌다.",
+    "context": "EN :\nThe menacing and interrogative atmosphere could subdue the temper of any first-time visitors—and the Sinners were no exception.\nJP :\n初めて訪れる人に威圧感を与える入国審問所の厳かな雰囲気に囚人たちは\n臆したのか、大人しくなった。"
+  },
+  {
+    "key": "9-content",
+    "original": "간간이 싱클레어가 훌쩍이는 소리와 로쟈와 그레고르의 어르는 소리가 들려왔다.",
+    "context": "EN :\nI could occasionally hear Sinclair sniffling, followed by Rodya and Gregor calming him.\nJP :\n時折、シンクレアがしゃっくり上げる音と、\nロージャとグレゴールのなだめる声が聞こえた。"
+  },
+  {
+    "key": "10-content",
+    "original": "왜냐고 물어도 고개만 말없이 저을 뿐이었다.",
+    "context": "EN :\nAny of my questions why were met with heads shaken sideways.\nJP :\nどうしてと聞いても何も言わずに首を振るだけだった。"
+  },
+  {
+    "key": "11-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "11-content",
+    "original": "그래, 평소에도 이렇게나 질서를 지키면 얼마나 좋아. 소풍 나온 병아리같이.",
+    "context": "EN :\nLook here, how nice it is to see you all stay in line and behave. Like a brood of chicks on an outing.\nJP :\nあぁ、普段からこんな風に秩序を守ってくれればどれほど良いことか。\nぞろぞろと日向ぼっこしに来たひよこたちみたいに。"
+  },
+  {
+    "key": "12-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "12-content",
+    "original": "헉, 당신이 왜…",
+    "context": "EN :\nWait, why’re you out here…\nJP :\nえっ、何であなたが…。"
+  },
+  {
+    "key": "13-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "13-content",
+    "original": "<웬일로 버스에서 같이 내린 거지…?>",
+    "context": "EN :\n<What made you follow us outside the bus this time…?>\nJP :\n<バスから降りるだなんて珍しいね…？>"
+  },
+  {
+    "key": "14-content",
+    "original": "당황스러운 인물이 끼어들었다는 생각에 몸짓이 이상해진 것을 보았는지, 베르길리우스는 천천히 입을 열었다.",
+    "context": "EN :\nNoticing my flustered reaction at the unexpected company, Vergilius opened his mouth.\nJP :\n予想外の人物が割り込んできたせいで、\nどうやら変な身振りをしてしまったようだ。\nヴェルギリウスはそれを見てゆっくりと口を開いた。"
+  },
+  {
+    "key": "15-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "15-content",
+    "original": "이곳이 둥지이기 때문입니다, 단테.",
+    "context": "EN :\nBecause this is a Nest, Dante.\nJP :\nここが巣だからです、ダンテ。"
+  },
+  {
+    "key": "16-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "16-content",
+    "original": "혹여나 이곳에서 예상 못 한 사고라도 치는 순간…",
+    "context": "EN :\nIf one of you were to get into unexpected trouble here…\nJP :\nもしここで予期せぬ事故を起こしたのなら…。"
+  },
+  {
+    "key": "17-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "17-content",
+    "original": "단테, 당신이 전부 책임지기는 어려워질 테니까.",
+    "context": "EN :\nWell, Dante, the responsibility will be a bit too heavy for you to bear alone.\nJP :\nダンテ、あなたが全ての責任を取ることは難しくなるでしょうから。"
+  },
+  {
+    "key": "18-content",
+    "original": "베르길리우스의 그 말은 마치…",
+    "context": "EN :\nWhen Vergilius put it like that…\nJP :\nヴェルギリウスのその言葉はまるで…。"
+  },
+  {
+    "key": "19-content",
+    "original": " ‘너 혼자로는 썩 믿음직스럽지 못하니까 뒤따라가는 거다’…라고 들렸지만 .",
+    "context": "EN :\nIt sounded as if he were saying “You’re not reliable enough to be sent without supervision.”\nJP :\n「お前一人では全く信用ならないから付いていく。」…という風に聞こえたが。"
+  },
+  {
+    "key": "20-content",
+    "original": "…별말은 하지 않기로 했다.",
+    "context": "EN :\n…But I knew it’d be wise to keep this to myself.\nJP :\n…何も言わないことにした。"
+  }
+]

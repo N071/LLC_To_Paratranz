@@ -1,0 +1,207 @@
+[
+  {
+    "key": "mirrordungeonui_level_up-content",
+    "original": "성장 인격 선택",
+    "context": "EN :\nChoose Identity to Level Up\nJP :\n成長人格選択"
+  },
+  {
+    "key": "mirrordungeonui_ask_level_up-content",
+    "original": "해당 인격을 성장시키겠습니까?",
+    "context": "EN :\nWill you enhance the selected Identity?\nJP :\nこの性格を成長させますか？"
+  },
+  {
+    "key": "mirrordungeonui_warning_stop_dungeon-content",
+    "original": "※탐사를 마칠 시, 현재까지 클리어한 층을 기준으로 보상이 지급됩니다.",
+    "context": "EN :\n※ If you quit exploration, you’ll return with rewards based on the floors you’ve cleared.\nJP :\n※探査を終えると、今までクリアした階層を基準に報酬が支給されます。"
+  },
+  {
+    "key": "mirrordungeonui_current_reward-content",
+    "original": "현재 보상",
+    "context": "EN :\nCurrent Rewards\nJP :\n現在の報酬"
+  },
+  {
+    "key": "mirrordungeonui_acquire_new_character-content",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquired\nJP :\n人格獲得"
+  },
+  {
+    "key": "mirrordungeonui_level_up_complete-content",
+    "original": "인격 성장 완료",
+    "context": "EN :\nIdentity Upgraded\nJP :\n人格成長完了"
+  },
+  {
+    "key": "mirrordungeonui_continue-content",
+    "original": "탐사를 계속 진행하겠습니까?",
+    "context": "EN :\nWill you continue exploration?\nJP :\n探査を続けますか？"
+  },
+  {
+    "key": "mirrordungeonui_select_character-content",
+    "original": "수감자 선택",
+    "context": "EN :\nSelect Sinner\nJP :\n囚人選択"
+  },
+  {
+    "key": "mirrordungeonui_able_to_equip-content",
+    "original": "장착 가능",
+    "context": "EN :\nCan Equip\nJP :\n装着可能"
+  },
+  {
+    "key": "mirrordungeon_success_to_levelup-content",
+    "original": "인격 단계 상승!",
+    "context": "EN :\nIdentity Powered Up!\nJP :\n人格レベルアップ！"
+  },
+  {
+    "key": "mirrordungeon_additional_exp-content",
+    "original": "금일 패스 경험치 추가 보상",
+    "context": "EN :\nDaily Pass EXP Bonus\nJP :\nパス経験値追加報酬(デイリー)"
+  },
+  {
+    "key": "mirrordungeon_already_in_member-content",
+    "original": "출전 중",
+    "context": "EN :\nOn Team\nJP :\n参加中"
+  },
+  {
+    "key": "mirrordungeon_select_start_character-content",
+    "original": "거울 세계 진입",
+    "context": "EN :\nEnter Mirror World\nJP :\n鏡の世界へ入場"
+  },
+  {
+    "key": "mirrordungeon_acquire_ego_gift_popup-content",
+    "original": "E.G.O 기프트를 획득하였습니다!",
+    "context": "EN :\nE.G.O Gift GET!\nJP :\nE.G.Oギフトを獲得しました！"
+  },
+  {
+    "key": "mirrordungeon_additional_exp_weekly-content",
+    "original": "금주 패스 경험치 추가 보상",
+    "context": "EN :\nWeekly Pass EXP Bonus\nJP :\nパス経験値追加報酬(ウィークリー)"
+  },
+  {
+    "key": "mirrordungeon_daily_free-content",
+    "original": "일일 1회 무료",
+    "context": "EN :\nDaily Free Entry\nJP :\n一日一回無料"
+  },
+  {
+    "key": "mirrordungeon_entrance_quit_former_simulation-content",
+    "original": "기존 시뮬레이션을 그만 두시겠습니까?",
+    "context": "EN :\nTerminate the ongoing simulation?\nJP :\n既存のシミュレーション終了しますか？"
+  },
+  {
+    "key": "mirrordungeon_progress_rate_simulation-content",
+    "original": "{0} 시뮬레이션 진행도",
+    "context": "EN :\n{0} Simulation Progress\nJP :\n{0}シミュレーション進行度"
+  },
+  {
+    "key": "mirrordungeon_resume_simulation-content",
+    "original": "시뮬레이션 재개",
+    "context": "EN :\nResume Simulation\nJP :\nシミュレーション再開"
+  },
+  {
+    "key": "mirrordungeon_stop_simulation-content",
+    "original": "시뮬레이션 중단",
+    "context": "EN :\nHalt Simulation\nJP :\nシミュレーション中断"
+  },
+  {
+    "key": "mirrordungeon_simulation_info_1-content",
+    "original": "◆ 소비 엔케팔린 없음",
+    "context": "EN :\n◆ No Enkephalin Cost\nJP :\n◆消費エンケファリンなし"
+  },
+  {
+    "key": "mirrordungeon_simulation_info_2-content",
+    "original": "◆ 획득 보상 없음",
+    "context": "EN :\n◆ No Rewards\nJP :\n◆獲得報酬なし"
+  },
+  {
+    "key": "mirrordungeon_progress-content",
+    "original": "탐사 재개",
+    "context": "EN :\nResume\nJP :\n探査再開"
+  },
+  {
+    "key": "mirrordungeon_stop-content",
+    "original": "탐사 중단",
+    "context": "EN :\nHalt Exploration\nJP :\n探査中断"
+  },
+  {
+    "key": "mirrordungeon_dungeon_name_simulation-content",
+    "original": "{0} 시뮬레이션",
+    "context": "EN :\n{0} Simulation\nJP :\n{0}シミュレーション"
+  },
+  {
+    "key": "mirrordungeon_warning_not_equip_ego-content",
+    "original": "E.G.O를 장착하지 않았습니다.\n이대로 진행하시겠습니까?",
+    "context": "EN :\nE.G.O not equipped.\nAre you sure you wish to proceed?\nJP :\nE.G.Oを装着していません。\nこのまま進めますか？"
+  },
+  {
+    "key": "mirrordungeon_acquire_rewards-content",
+    "original": "보상 수령",
+    "context": "EN :\nClaim Rewards\nJP :\n報酬を受け取る"
+  },
+  {
+    "key": "mirrordungeon_ask_select_character_level_up-content",
+    "original": "성장 인격 선택 가능 횟수",
+    "context": "EN :\nEnhancements Used\nJP :\n成長人格 選択可能回数"
+  },
+  {
+    "key": "mirrordungeon_simulation_info_no_use_module-content",
+    "original": "◆ 엔케팔린 모듈 소비하지 않음",
+    "context": "EN :\n◆ No Enkephalin Module Cost\nJP :\n◆エンケファリンモジュール消費なし"
+  },
+  {
+    "key": "mirrordungeon_after_levelup-content",
+    "original": "{0} 단계 완료",
+    "context": "EN :\nLevel Up #{0}\nJP :\nレベル{0} 完了"
+  },
+  {
+    "key": "mirrordunge_ego_gift_history_button_label-content",
+    "original": "E.G.O 기프트 기록집",
+    "context": "EN :\nE.G.O Gift Compendium\nJP :\nE.G.Oギフト記録集"
+  },
+  {
+    "key": "mirrordungeon_weekly_reset_description-content",
+    "original": "주간 기록이 초기화되었습니다.\n유리창으로 이동합니다.",
+    "context": "EN :\nThe weekly record has been reset.\nMoving over to the Window.\nJP :\nウィークリーレコードが初期化されました。\n硝子窓へ移動します。"
+  },
+  {
+    "key": "mirrordungeon_simulation_on-content",
+    "original": "! 시뮬레이션 중",
+    "context": "EN :\n! Simulating… !\nJP :\n！シミュレーション中"
+  },
+  {
+    "key": "mirrordungeon_participated-content",
+    "original": "참여 중",
+    "context": "EN :\nParticipant\nJP :\n参加中"
+  },
+  {
+    "key": "select_ego_gift-content",
+    "original": "E.G.O 기프트 선택",
+    "context": "EN :\nSelect E.G.O Gift\nJP :\nE.G.Oギフト選択"
+  },
+  {
+    "key": "explore_dungeon_finished-content",
+    "original": "탐사 완료",
+    "context": "EN :\nExploration Complete\nJP :\n探査完了"
+  },
+  {
+    "key": "participated_personality-content",
+    "original": "참여 인격",
+    "context": "EN :\nIdentities\nJP :\n参加人格"
+  },
+  {
+    "key": "dungeon_final_area-content",
+    "original": "최종 탐사 구역",
+    "context": "EN :\nLast Reached\nJP :\n最終探索区域"
+  },
+  {
+    "key": "total_progress_rate-content",
+    "original": "총 진행도",
+    "context": "EN :\nTotal Progress\nJP :\n累計進行度"
+  },
+  {
+    "key": "mirrordungeon_weekly_reset-content",
+    "original": "이전 플레이 기록이 만료되었습니다.\n보상을 수령하십시오.",
+    "context": "EN :\nThe previous session has expired.\nPlease claim your rewards.\nJP :\n以前のプレイ記録がリセットされました。\n報酬を受け取ってください。"
+  },
+  {
+    "key": "mirror_dungeon_error_desc-content",
+    "original": "서버 오류로 인하여 데이터가 손실되었습니다.",
+    "context": "EN :\nData was lost due to a server error.\nJP :\nサーバーエラーにより、データが損失しました。"
+  }
+]

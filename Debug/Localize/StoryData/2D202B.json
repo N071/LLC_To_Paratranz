@@ -1,0 +1,278 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 지하 광산 2층",
+    "context": "EN :\nCasino Mine B2\nJP :\nカジノ地下鉱山 2階"
+  },
+  {
+    "key": "0-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "0-content",
+    "original": "형형색색의 매끈한 플라스틱으로 이뤄진 컨테이너 박스.",
+    "context": "EN :\nIt’s a freight container made of smooth and colorful plastic.\nJP :\n色とりどりで、形様々な、つやつやのプラスチックでできたコンテナボックス…。"
+  },
+  {
+    "key": "1-model",
+    "original": "뫼르소",
+    "translation": "默尔索",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "1-content",
+    "original": "단순한 공장시설이라고 판단하기에는 이질적인 소재가 많다.",
+    "context": "EN :\nThe prevalence of peculiar materials suggests that this is not a simple manufacturing facility.\nJP :\n単純な工場施設だと判断するには異質的な素材が多い。"
+  },
+  {
+    "key": "2-content",
+    "original": "뫼르소의 말이 끝나기가 무섭게 불길해 보이도록 알록달록한 컨테이너 시설이 흥겨운 노래를 부르며 가동을 시작했다.",
+    "context": "EN :\nAs soon as Meursault finished, the colorful yet ominously designed container activated with a cheery tune.\nJP :\nムルソーの話が終わるや否や、不吉なほどにカラフルなコンテナ施設が\n楽しそうに歌を歌いながら稼働し始めた。"
+  },
+  {
+    "key": "3-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "3-content",
+    "original": "불길해요….",
+    "context": "EN :\nI’ve got a bad feeling…\nJP :\n嫌な予感がします…。"
+  },
+  {
+    "key": "4-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "4-content",
+    "original": "왜 이층부터는 경호원이 보이지 않는 거죠?",
+    "context": "EN :\nWhy aren’t there any security guards around now?\nJP :\nどうしてこの階に入ってから警護員を見かけないんでしょう？"
+  },
+  {
+    "key": "5-content",
+    "original": "글쎄… 라는 말을 남기기도 전에 우리는 정답을 알 수 있었다.",
+    "context": "EN :\n“Well…” was all I could mutter before the answer revealed itself to us.\nJP :\nさぁ…という言葉を発す前に、私たちは答えを知ることができた。"
+  },
+  {
+    "key": "6-content",
+    "original": "작동을 마친 컨테이너의 문이 열렸고, 그 안에는…",
+    "context": "EN :\nThe doors of the container opened as it finished operating, and inside…\nJP :\n作動を終えたコンテナの扉が開き、その中には…。"
+  },
+  {
+    "key": "7-model",
+    "original": "너맞아볼래매우",
+    "translation": "你很想挨打吗",
+    "context": "EN :\n你变强了吗\nJP :\nPowerman"
+  },
+  {
+    "key": "7-teller",
+    "original": "너 맞아 볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "7-title",
+    "original": "당신은 강해졌나요",
+    "context": "EN :\nHave You Become Strong\nJP :\nあなたは強くなりましたか"
+  },
+  {
+    "key": "7-content",
+    "original": "아. 아.",
+    "context": "EN :\nAh. Ah.\nJP :\nあ。あ。"
+  },
+  {
+    "key": "8-model",
+    "original": "너맞아볼래매우",
+    "translation": "你很想挨打吗",
+    "context": "EN :\n你变强了吗\nJP :\nPowerman"
+  },
+  {
+    "key": "8-teller",
+    "original": "너 맞아 볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "8-title",
+    "original": "당신은 강해졌나요",
+    "context": "EN :\nHave You Become Strong\nJP :\nあなたは強くなりましたか"
+  },
+  {
+    "key": "8-content",
+    "original": "신이 난다!!!",
+    "context": "EN :\nHighly excited!!!\nJP :\nうれしい！！！"
+  },
+  {
+    "key": "9-model",
+    "original": "너맞아볼래매우",
+    "translation": "你很想挨打吗",
+    "context": "EN :\n你变强了吗\nJP :\nPowerman"
+  },
+  {
+    "key": "9-teller",
+    "original": "너 맞아 볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "9-title",
+    "original": "당신은 강해졌나요",
+    "context": "EN :\nHave You Become Strong\nJP :\nあなたは強くなりましたか"
+  },
+  {
+    "key": "9-content",
+    "original": "아~",
+    "context": "EN :\nAhh~\nJP :\nあ～。"
+  },
+  {
+    "key": "10-model",
+    "original": "너맞아볼래매우",
+    "translation": "你很想挨打吗",
+    "context": "EN :\n你变强了吗\nJP :\nPowerman"
+  },
+  {
+    "key": "10-teller",
+    "original": "너 맞아 볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "10-title",
+    "original": "당신은 강해졌나요",
+    "context": "EN :\nHave You Become Strong\nJP :\nあなたは強くなりましたか"
+  },
+  {
+    "key": "10-content",
+    "original": "재미난다!!!",
+    "context": "EN :\nThoroughly amusing!!!\nJP :\nたのしい！！！"
+  },
+  {
+    "key": "11-model",
+    "original": "너맞아볼래매우",
+    "translation": "你很想挨打吗",
+    "context": "EN :\n你变强了吗\nJP :\nPowerman"
+  },
+  {
+    "key": "11-teller",
+    "original": "너 맞아 볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "11-title",
+    "original": "당신은 강해졌나요",
+    "context": "EN :\nHave You Become Strong\nJP :\nあなたは強くなりましたか"
+  },
+  {
+    "key": "11-content",
+    "original": "더 게임 오브 데쓰!",
+    "context": "EN :\nDa GAME of DEATH!\nJP :\nザ・ゲーム・オブ・デス！"
+  },
+  {
+    "key": "12-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "12-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "13-model",
+    "original": "너맞아볼래매우",
+    "translation": "你很想挨打吗",
+    "context": "EN :\n你变强了吗\nJP :\nPowerman"
+  },
+  {
+    "key": "13-teller",
+    "original": "너 맞아 볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "13-title",
+    "original": "당신은 강해졌나요",
+    "context": "EN :\nHave You Become Strong\nJP :\nあなたは強くなりましたか"
+  },
+  {
+    "key": "13-content",
+    "original": "쓰.",
+    "context": "EN :\nATH.\nJP :\nス。"
+  },
+  {
+    "key": "14-model",
+    "original": "너맞아볼래매우",
+    "translation": "你很想挨打吗",
+    "context": "EN :\n你变强了吗\nJP :\nPowerman"
+  },
+  {
+    "key": "14-teller",
+    "original": "너 맞아 볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "14-title",
+    "original": "당신은 강해졌나요",
+    "context": "EN :\nHave You Become Strong\nJP :\nあなたは強くなりましたか"
+  },
+  {
+    "key": "14-content",
+    "original": "쓰!!",
+    "context": "EN :\nATH!!\nJP :\nス！！"
+  },
+  {
+    "key": "15-model",
+    "original": "너맞아볼래매우",
+    "translation": "你很想挨打吗",
+    "context": "EN :\n你变强了吗\nJP :\nPowerman"
+  },
+  {
+    "key": "15-teller",
+    "original": "너 맞아 볼래? 매우?",
+    "context": "EN :\nYou Want To Get Beat? Hurtily?\nJP :\nお前ぶたれたい？しこたま？"
+  },
+  {
+    "key": "15-title",
+    "original": "당신은 강해졌나요",
+    "context": "EN :\nHave You Become Strong\nJP :\nあなたは強くなりましたか"
+  },
+  {
+    "key": "15-content",
+    "original": "쓰!!!! 쓰!!!! 쓰!!!!",
+    "context": "EN :\nATH!!!! ATH!!!! ATH!!!!\nJP :\nス！！！！ス！！！！ス！！！！"
+  },
+  {
+    "key": "16-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "16-content",
+    "original": "흠… 이 구간부터는 땅굴 파는 작업을 본격적으로 들어갔던 모양이에요.",
+    "context": "EN :\nHm… It appears they redoubled excavation efforts from this point onward.\nJP :\nふむ…この区間からは穴を掘る作業を本格的に進めてたみたいですね。"
+  },
+  {
+    "key": "17-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "17-content",
+    "original": "그게 아니고서야 강화 인간들을 대량으로 생산시킬 리는…",
+    "context": "EN :\nI can’t think of any other reason to augment humans on a conveyor belt…\nJP :\nそうでなければ強化人間を大量生産しようという…。"
+  },
+  {
+    "key": "18-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "18-content",
+    "original": "<알았으니까 빨리 피해! 쟤네가 정확히 우리를 가리키면서 노래를 불렀잖아!>",
+    "context": "EN :\n<Yeah, yeah, I get it, now let’s move! They’re pointed right at us singing that spooky song!>\nJP :\n<分かったから早く避けろ！あいつら、ちょうど私たちを指してるし\nなんか歌まで歌い始めただろ！>"
+  }
+]

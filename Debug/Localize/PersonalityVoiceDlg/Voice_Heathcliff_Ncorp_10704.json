@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10704_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10704_1-dlg",
+    "original": "넵, 저, 저는… 아, 선배가 아니잖아… 뭐야?",
+    "context": "EN :\nRight, I—I am… Wait, you’re not the superior… What?\nJP :\nはい、わ、わたくしは…。あっ、先輩じゃねぇのかよ…なんだよ？"
+  },
+  {
+    "key": "lobby_morning_10704_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10704_1-dlg",
+    "original": "바쁜 시간이야. 말 걸지 마. 아… 책 어딨지?",
+    "context": "EN :\nI’m busy at this time of day. Don’t talk to me. Oh… Where’d I put my book?\nJP :\n忙しい時間だ。話し掛けんな。あっ…本どこだ？"
+  },
+  {
+    "key": "lobby_noon_10704_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10704_1-dlg",
+    "original": "이단은 정화… 헉. 나 방금 뭐라고 했어? 아… 밥만 먹으면 이러네.",
+    "context": "EN :\nHeretics shall be pur— Gah. What’d I just say? Bugger… This keeps happening after meals.\nJP :\n異端は浄化…ハッ。オレさっき何つった？あぁ…メシ食うとこうなんだよな。"
+  },
+  {
+    "key": "lobby_night_10704_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10704_1-dlg",
+    "original": "오늘은 제 시간에 잘 수 있을까… 당신은 잘 수 있을 때 자둬.",
+    "context": "EN :\nWonder if I can get to sleep on time tonight… You should sleep while you can.\nJP :\n今日は時間通り寝れっかな…あんたは寝れるときに寝とけよ。"
+  },
+  {
+    "key": "smalltalk_10704_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10704_1-dlg",
+    "original": "자꾸 말 걸지마. 아까 외웠던 교리가 다 빠져나가니까.",
+    "context": "EN :\nEnough gabbing at me. I need this passage to stick in my head, and you aren’t helping.\nJP :\n何度も話し掛けてくんな。さっき覚えてた教理が全部ポロポロ落ちてくんだよ。"
+  },
+  {
+    "key": "smalltalk_10704_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10704_2-dlg",
+    "original": "제대로 된 식사 좀 했으면 좋겠어. 매번 물컹한게 담긴 통조림을 뜯는 것도 지겹고…",
+    "context": "EN :\nHope I can get a proper meal someday. I’m sick of opening those cans of mushy stuff…\nJP :\nマトモなメシが食いてぇな。毎回柔らけぇのが入った缶詰を開けんのもうんざりだ…。"
+  },
+  {
+    "key": "smalltalk_10704_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10704_3-dlg",
+    "original": "이단…! 아, 씨… 그딴 가면 좀 두고 다니면 안돼? 헷갈려서 죽일 뻔했잖아!",
+    "context": "EN :\nHeret—! Ah, bloody… Won’t you take off that minging mask? I almost killed you!\nJP :\n異端…！あ、チクショウ…。そのクソ仮面脱いでおけねぇのか？紛らわしくて殺すとこだったじゃねぇか！"
+  },
+  {
+    "key": "smalltalk_10704_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10704_4-dlg",
+    "original": "눈이 퀭하다고…? 아직 못잤거든. 저번에 집회에 5분 늦은 걸로 해가 뜰 때까지 독경을 시켜서 말이야.",
+    "context": "EN :\nMy eyes look all sunken…? Yeah, I didn’t get my sleep. They made me recite the book all night for being five minutes late to the last gathering.\nJP :\n目が窪んでるだぁ…？まだ寝れてねぇんだよ。この前集会に5分遅れたやつで日が昇るまで読経する羽目になったからな。"
+  },
+  {
+    "key": "smalltalk_10704_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10704_5-dlg",
+    "original": "나는… 망치… 더러운 것을 두드려 정화하는… 쥐여질 자…",
+    "context": "EN :\nI am… a hammer… He who shall be gripped… to pound the filth away…\nJP :\nオレは…金鎚…汚いモノを叩き浄化する…握られる者…。"
+  },
+  {
+    "key": "neglect_10704_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10704_1-dlg",
+    "original": "…아무도 없나? 잠깐… 쉬어도 되겠지.",
+    "context": "EN :\n…No one around? Guess a… short break can’t hurt.\nJP :\n…誰もいねぇのか？ちょっとｋらい…休んでもいいだろ。"
+  },
+  {
+    "key": "gacksung_10704_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10704_1-dlg",
+    "original": "내가…? 아니, 나는 자격이 안되는 것 같은데… 뜻이 그렇다면 따라야겠지만.",
+    "context": "EN :\nMe…? No, don’t think I deserve to get all this… Not like I can refuse if you mean it.\nJP :\nオレが…？いや、オレは資格が無いと思うんだけど…それが意だっていうなら従わないとな。"
+  },
+  {
+    "key": "formation_10704_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10704_1-dlg",
+    "original": "넵! 아… 그래.",
+    "context": "EN :\nAye! Oh… Right.\nJP :\nはい！あっ…あぁ。"
+  },
+  {
+    "key": "battleentry_10704_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10704_1-dlg",
+    "original": "하… 시간됐네.",
+    "context": "EN :\nHaaa… It’s time.\nJP :\nはぁ…時間か。"
+  },
+  {
+    "key": "battle_select_10704_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10704_1-dlg",
+    "original": "또, 무슨…",
+    "context": "EN :\nWhat is it now…\nJP :\nなんだよまた…。"
+  },
+  {
+    "key": "battle_endcommand_10704_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10704_1-dlg",
+    "original": "정화. 하라…였나?",
+    "context": "EN :\n“Puri…fy.” Was that how it goes?\nJP :\n浄化、しろ…だっけ？"
+  },
+  {
+    "key": "battle_enemy_break_10704_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10704_1-dlg",
+    "original": "이단을 배제…",
+    "context": "EN :\nEliminate the heretic…\nJP :\n異端を排除…。"
+  },
+  {
+    "key": "battle_break_10704_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10704_1-dlg",
+    "original": "…헉! 여긴…",
+    "context": "EN :\n…Gah! Where am…\nJP :\n…うっ！ここは…。"
+  },
+  {
+    "key": "battle_kill_10704_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10704_1-dlg",
+    "original": "…또 죽었나.",
+    "context": "EN :\n…Another one goes.\nJP :\n…また死んだか。"
+  },
+  {
+    "key": "battle_dead_10704_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10704_1-dlg",
+    "original": "젠장… 캐서린…",
+    "context": "EN :\nDammit… Catherine…\nJP :\nクソッ…キャサリン…。"
+  },
+  {
+    "key": "choice_success_p_10704_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10704_2-dlg",
+    "original": "시키는 대로 했어.",
+    "context": "EN :\nI did as I was told.\nJP :\n言われた通りやった。"
+  },
+  {
+    "key": "choice_fail_n_10704_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10704_1-dlg",
+    "original": "시키는 대로 했는데…",
+    "context": "EN :\nI did as I was told, yet…\nJP :\n言われた通りやったけど…。"
+  },
+  {
+    "key": "battle_clear_10704_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10704_1-dlg",
+    "original": "이제… 돌아가는 건가?",
+    "context": "EN :\nAre we… heading back now?\nJP :\nこれで…帰っていいのか？"
+  },
+  {
+    "key": "battle_clear_ex_10704_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10704_1-dlg",
+    "original": "이 정도면… 언젠가 돌아갈 수 있는 거겠지?",
+    "context": "EN :\nIf I keep up… I’ll be able to go back one day, right?\nJP :\nこれくらいなら…いつか戻れるんだろうな？"
+  },
+  {
+    "key": "battle_defeat_10704_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10704_1-dlg",
+    "original": "아, 안돼! 이, 이대로 돌아가면… 으윽!",
+    "context": "EN :\nNo, it can’t! I—If I head back like this… Nrgh!\nJP :\nだ、ダメだ！このまま戻ったら…うぅっ！"
+  }
+]

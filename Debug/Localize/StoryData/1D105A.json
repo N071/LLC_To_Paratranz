@@ -1,0 +1,364 @@
+[
+  {
+    "key": "0-place",
+    "original": "4구 로보토미 지부 어딘가",
+    "context": "EN :\nDistrict 4 - LC Branch Interior\nJP :\n4区 ロボトミー支部のどこか"
+  },
+  {
+    "key": "0-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "0-content",
+    "original": "뭐야. 끝이야?",
+    "context": "EN :\nSo what? That was it?\nJP :\nなんだよ。終わりか？"
+  },
+  {
+    "key": "1-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "1-content",
+    "original": "환상체는 함부로 제압하기 힘들 정도로 강력하다고 들었는데요…",
+    "context": "EN :\nI heard Abnormalities were supposed to be so powerful that even suppressing them is a dangerous task…\nJP :\n幻想体は簡単には制圧できないくらい強力だって聞いたんですけど…。"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "클리포트 억제력 때문이에요.",
+    "context": "EN :\nIt’s the Qliphoth Deterrence in action.\nJP :\nクリフォト抑止力のせいです。"
+  },
+  {
+    "key": "3-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "3-content",
+    "original": "뭐? 커피포트?",
+    "context": "EN :\nHuh? Coffee pots?\nJP :\nは？コーヒーポットよく拾う？"
+  },
+  {
+    "key": "4-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "4-content",
+    "original": "…환상체들을 약화시키는 힘이에요. 격리실에서, 보다 안전하게 환상체를 관리하기 위해 사용되는 겁니다.",
+    "context": "EN :\n…A force that weakens Abnormalities. Its original purpose is to safely supervise them in containment.\nJP :\n…幻想体たちを弱化させる力です。\n隔離室にて、より安全に幻想体を管理するために使われます。"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-content",
+    "original": "황금가지를 회수할수록 그 억제력도 점점 약해져 가겠죠. 지금은 이 정도로 끝났지만…",
+    "context": "EN :\nAs we continue our assignment in collecting more Golden Boughs, the deterrence will weaken as well. Although this was a simple battle…\nJP :\n黄金の枝を回収するほど、その抑止力も段々と弱まっていくでしょう。\n今はこの程度で終わりましたが…。"
+  },
+  {
+    "key": "6-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "6-content",
+    "original": "나중엔 100번을 죽었다 깨어나도 힘들 수 있다는 말이네요.",
+    "context": "EN :\n…Later on, one of them might take our lives more than a hundredfold to handle it.\nJP :\n後の方になってくると、100回くらい死んで目覚めても\nきついこともあるってことですね。"
+  },
+  {
+    "key": "7-content",
+    "original": "상상만 해도 아찔해지는군…",
+    "context": "EN :\nThat’s a terrifying thought…\nJP :\n想像するだけでも気が遠くなるな……。"
+  },
+  {
+    "key": "8-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "8-content",
+    "original": "<…근데, 환상체의 시체는 어디 갔지? 방금 죽였던 것 같았는데…>",
+    "context": "EN :\n<…Where’d its corpse go, anyway? I’m pretty sure that attack did it in…>\nJP :\n<…ところで、幻想体の死体はどこへ行った？さっき死んだ気がするけど…。>"
+  },
+  {
+    "key": "9-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "9-content",
+    "original": "분명 숨통은 끊어졌습니다. 관리자님의 탁월한 지휘 덕택이죠.",
+    "context": "EN :\nIt was felled without a doubt. All thanks to your exceptional command, Manager.\nJP :\n恐らく息の根は止まっています。管理人様の卓越した指揮のおかげです。"
+  },
+  {
+    "key": "10-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "10-content",
+    "original": "<하늘로 솟았을 리는 없고…>",
+    "context": "EN :\n<It couldn’t have disappeared into the sky…>\nJP :\n<天に昇ったわけじゃないだろうし…。>"
+  },
+  {
+    "key": "11-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11-content",
+    "original": "역시 관리자님입니다. 그럴 가능성도 배제할 순 없죠.",
+    "context": "EN :\nBrilliant insight as always, Manager. Such possibilities cannot be ruled out.\nJP :\n流石管理人様です。その可能性も排除することはできませんね。"
+  },
+  {
+    "key": "12-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "12-content",
+    "original": "…너희 눈에 이 단단해 보이는 지하 천장이 안보이냐? ",
+    "context": "EN :\n…Is the tough-looking ceiling above us not a thing to you two?\nJP :\n…お前らの目にはこの固そうな地下の天井が見えないのか？"
+  },
+  {
+    "key": "13-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "13-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "13-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "13-content",
+    "original": "…이쪽을 보세요.",
+    "context": "EN :\n…Over there.\nJP :\n…こっちを見てください。"
+  },
+  {
+    "key": "14-content",
+    "original": "유리는 힘없는 표정으로 어느 한쪽을 가리키고 있었다.",
+    "context": "EN :\nListless, Yuri pointed at something.\nJP :\nユーリは元気のない表情で、ある方向を指差していた。"
+  },
+  {
+    "key": "15-content",
+    "original": "아야를 잃은 충격이 클 거라고 생각했지만, 꿋꿋하게 마음을 유지하려는 모습을 보니…",
+    "context": "EN :\nThe shock of losing Aya must’ve shaken her badly, but seeing her hold her own and keep her head up…\nJP :\nアヤを喪った衝撃は大きいだろうと思ったが、\n気を確かに持とうとしている姿を見ると…。"
+  },
+  {
+    "key": "16-content",
+    "original": "괜히 말을 덧붙이는 것 보다는, 당분간 유리를 따라주어야겠다는 생각이 들었다.",
+    "context": "EN :\nI felt I should let her be and follow along with her for a while.\nJP :\n変に何か言うよりかは、しばらくの間は\nユーリに付いていってあげないとなと思った。"
+  },
+  {
+    "key": "17-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "17-content",
+    "original": "<…알인가.>",
+    "context": "EN :\n<…Is that an egg?>\nJP :\n<…卵かな。>"
+  },
+  {
+    "key": "18-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "18-content",
+    "original": "환상체의 핵이군요. 적절하게 제압했을 경우 이러한 알의 모양으로 환원되죠.",
+    "context": "EN :\nIt’s the core of the Abnormality. When suppressed via appropriate measures, it will be reduced to this condensed ovate form.\nJP :\n幻想体の核ですね。\n適切に制圧した場合、このような核の形態で還元されます。"
+  },
+  {
+    "key": "19-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "19-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "19-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "19-content",
+    "original": "…그리고 부화할 거예요. 이 공간에서 일정 시간이 지난다면요.",
+    "context": "EN :\n…And it’ll hatch, once enough time has passed here.\nJP :\n…そしてやがて孵化します。この空間で一定時間過ぎるとです。"
+  },
+  {
+    "key": "20-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "20-content",
+    "original": "뭐? 그런 개 같은 일이…",
+    "context": "EN :\nHatch? You’ve got to be joking…\nJP :\nは？そんなクソみてぇなことが…。"
+  },
+  {
+    "key": "21-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "21-content",
+    "original": "이것들이 죽지 않는다는 소리인가요?",
+    "context": "EN :\nYou mean, those things won’t die?\nJP :\nこいつら、死なないってことなんですか？"
+  },
+  {
+    "key": "22-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "22-content",
+    "original": "환상체는 죽지 않아요. 그래서 L 사의 생산 에너지량이 어마어마했던 거기도 하고요.",
+    "context": "EN :\nAbnormalities simply cannot die. It’s one of the factors that contributed to L Corp’s massive energy production.\nJP :\n幻想体は死にません。\nだからL社の生産エネルギー量がとてつもなかったような感じがします。"
+  },
+  {
+    "key": "23-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "23-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "23-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "23-content",
+    "original": "이 상태의 핵을 격리실에 가져다 놓는 게 제가 하는 일이었는데… 이젠 반대네요.",
+    "context": "EN :\nAs an employee, my job was to put the core back in its containment unit… Now things have changed.\nJP :\nこの状態の核を隔離室に持って行くことが\n私のやることだったんですけど…いまや逆ですね。"
+  },
+  {
+    "key": "24-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "24-content",
+    "original": "으음… 알이 다시 깨어나기 전까지 저희가 해야 할 일은 뭐죠?",
+    "context": "EN :\nUmm… What can we do before this egg hatches?\nJP :\nうーん…卵が孵化する前に私たちがやるべきことって何ですか？"
+  },
+  {
+    "key": "25-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "25-content",
+    "original": "림버스 컴퍼니에는 이런 환상체들을 담당하는 부서가 별도로 있어요. 그들이 회수해 갈 겁니다.",
+    "context": "EN :\nLimbus Company has a department dedicated to dealing with Abnormalities like this. They’ll retrieve them for us.\nJP :\nリンバス・カンパニーにはこのような幻想体を担当する部署が別途で存在します。\n彼らが回収していくはずです。"
+  },
+  {
+    "key": "26-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "26-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "26-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "26-content",
+    "original": "그… 애프터 팀이요? 안내받을 때 들었던 기억이 나네요.",
+    "context": "EN :\nRight… Was it the After Team? I remember hearing about them during orientation.\nJP :\nその…アフターチームですか？案内されたときに聞きました。"
+  },
+  {
+    "key": "27-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "27-content",
+    "original": "그럼 시간 끌지 말고 빨리 부르지 그래?",
+    "context": "EN :\nWhat’s stopping you from calling them now?\nJP :\nじゃあモタモタしてないで早く呼んだら？"
+  },
+  {
+    "key": "28-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "28-content",
+    "original": "연락은… 메피스토펠레스에서 가능합니다.",
+    "context": "EN :\nThe transmission device… is on Mephistopheles.\nJP :\n連絡は…メフィストフェレスから可能です。"
+  },
+  {
+    "key": "29-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "29-content",
+    "original": "…그건 그렇겠지. ",
+    "context": "EN :\n…Figures.\nJP :\n…それはそうだろうなぁ。"
+  },
+  {
+    "key": "30-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "30-content",
+    "original": "너무 걱정할 필요는 없습니다. 황금가지만 찾는다면 싫어도 돌아갈 테니까요.",
+    "context": "EN :\nNo need to worry. Once we have the Golden Bough, we’ll return whether we like it or not.\nJP :\nそこまで心配する必要はありません。\n黄金の枝さえ見つかれば嫌でも帰ることになりますから。"
+  }
+]

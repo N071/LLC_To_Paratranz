@@ -1,0 +1,732 @@
+[
+  {
+    "key": "800001-levelList",
+    "original": "[{\"level\":1,\"name\":\"방어\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Guard\"}]\nJP :\n[{\"level\":1,\"name\":\"防御\"}]"
+  },
+  {
+    "key": "800002-levelList",
+    "original": "[{\"level\":1,\"name\":\"회피\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Evade\"}]\nJP :\n[{\"level\":1,\"name\":\"回避\"}]"
+  },
+  {
+    "key": "800003-levelList",
+    "original": "[{\"level\":1,\"name\":\"반격\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Counter\"}]\nJP :\n[{\"level\":1,\"name\":\"反撃\"}]"
+  },
+  {
+    "key": "800004-levelList",
+    "original": "[{\"level\":1,\"name\":\"회피\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Evade\"}]\nJP :\n[{\"level\":1,\"name\":\"回避\"}]"
+  },
+  {
+    "key": "8001001-levelList",
+    "original": "[{\"level\":1,\"name\":\"불신\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Distrust\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"不信\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "8001002-levelList",
+    "original": "[{\"level\":1,\"name\":\"빛바랜 줄기\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Pale Stem\"}]\nJP :\n[{\"level\":1,\"name\":\"色褪せた枝\"}]"
+  },
+  {
+    "key": "8001003-levelList",
+    "original": "[{\"level\":1,\"name\":\"빛바랜 줄기\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Pale Stem\"}]\nJP :\n[{\"level\":1,\"name\":\"色褪せた枝\"}]"
+  },
+  {
+    "key": "8001004-levelList",
+    "original": "[{\"level\":1,\"name\":\"뿌리 가시\",\"keywords\":[],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 출혈 횟수 3 증가\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Root Spike\",\"keywords\":[],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict +3 Bleed Count next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"蔓の棘\",\"keywords\":[],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに出血 回数が3増加\"}]}]}]"
+  },
+  {
+    "key": "8001005-levelList",
+    "original": "[{\"level\":1,\"name\":\"모두의 아픔\",\"desc\":[\"[wide]\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 취약 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Shared Pain\",\"desc\":[\"[Wide]\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Fragile next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"皆の痛み\",\"desc\":[\"[wide]\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに脆弱 1を付与\"}]}]}]"
+  },
+  {
+    "key": "8001006-levelList",
+    "original": "[{\"level\":1,\"name\":\"허무의 열매\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Vain Fruit\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"虚無の実\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "800501-levelList",
+    "original": "[{\"level\":1,\"name\":\"물어뜯기\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Nibble\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"噛みつく\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "800502-levelList",
+    "original": "[{\"level\":1,\"name\":\"탐욕스러운 식사\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 체력 1 회복\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 체력 1 회복\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 체력 1 회복\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Greedy Gluttons\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Heal 1 HP\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Heal 1 HP\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Heal 1 HP\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"貪欲な食事\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 体力を1回復\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 体力を1回復\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 体力を1回復\"}]}]}]"
+  },
+  {
+    "key": "800601-levelList",
+    "original": "[{\"level\":1,\"name\":\"구르기\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Roll\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"転がる\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "800602-levelList",
+    "original": "[{\"level\":1,\"name\":\"나태한 손아귀\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 속박 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Slothful Grip\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Bind next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"怠惰な掌中\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに束縛 3を付与\"}]}]}]"
+  },
+  {
+    "key": "800701-levelList",
+    "original": "[{\"level\":1,\"name\":\"지지기\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Sear\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"灼く\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "800702-levelList",
+    "original": "[{\"level\":1,\"name\":\"폭발하는 분노\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 화상 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Explosive Wrath\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 2 Burn next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"爆発する憤怒\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに火傷 2を付与\"}]}]}]"
+  },
+  {
+    "key": "800201-levelList",
+    "original": "[{\"level\":1,\"name\":\"내려치기\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Slam\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"振り下ろす\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "800202-levelList",
+    "original": "[{\"level\":1,\"name\":\"내려치기\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Slam\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"振り下ろす\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "800203-levelList",
+    "original": "[{\"level\":1,\"name\":\"땅울림\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Quake\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Bind next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"地響き\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 1を付与\"}]}]}]"
+  },
+  {
+    "key": "800204-levelList",
+    "original": "[{\"level\":1,\"name\":\"산제물 의식\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 횟수 3 증가\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Live Offering\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict +3 Bleed Count next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"生贄の儀式\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 回数が3増加\"}]}]}]"
+  },
+  {
+    "key": "800205-levelList",
+    "original": "[{\"level\":1,\"name\":\"타오르는 우주\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Universe Aflame\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"燃え上がる宇宙\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "800206-levelList",
+    "original": "[{\"level\":1,\"name\":\"굳건한 제단\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Stalwart Altar\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"堅固な祭壇\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "800207-levelList",
+    "original": "[{\"level\":1,\"name\":\"타오르는 우주\",\"desc\":\"[CantDuel] 아군을 타겟으로 지정\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Universe Aflame\",\"desc\":\"[CantDuel] Targets allies\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"燃え上がる宇宙\",\"desc\":\"[CantDuel] 味方をターゲットに指定\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "800301-levelList",
+    "original": "[{\"level\":1,\"name\":\"찌르기\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 출혈 횟수 1 증가\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Lunge\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict +1 Bleed Count next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"刺す\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに出血 回数が1増加\"}]}]}]"
+  },
+  {
+    "key": "800302-levelList",
+    "original": "[{\"level\":1,\"name\":\"할퀴기\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 출혈 횟수 1 증가\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Claw\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict +1 Bleed Count next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"引っ掻く\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに出血 回数が1増加\"}]}]}]"
+  },
+  {
+    "key": "800402-levelList",
+    "original": "[{\"level\":1,\"name\":\"고통스러운 찌르기\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 출혈 횟수 1 증가\"},{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 화상 횟수 1 증가\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Severe Lunge\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict +1 Bleed Count next turn\"},{\"desc\":\"[OnSucceedAttackHead] Inflict +1 Burn Count next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"苦痛に満ちた突き\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに出血 回数が1増加\"},{\"desc\":\"[OnSucceedAttackHead] 次のターンに火傷 回数が1増加\"}]}]}]"
+  },
+  {
+    "key": "800403-levelList",
+    "original": "[{\"level\":1,\"name\":\"고통스러운 할퀴기\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 출혈 횟수 1 증가\"},{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 화상 횟수 1 증가\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Raw Claw\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict +1 Bleed Count next turn\"},{\"desc\":\"[OnSucceedAttackHead] Inflict +1 Burn Count next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"苦痛に満ちた引っ掻き\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに出血 回数が1増加\"},{\"desc\":\"[OnSucceedAttackHead] 次のターンに火傷 回数が1増加\"}]}]}]"
+  },
+  {
+    "key": "800401-levelList",
+    "original": "[{\"level\":1,\"name\":\"불 뿜기\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 화상 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Belch Fire\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Burn next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"火を噴く\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに火傷 1を付与\"}]}]}]"
+  },
+  {
+    "key": "800801-levelList",
+    "original": "[{\"level\":1,\"name\":\"발아\",\"desc\":\"\"}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Sprout\",\"desc\":\"\"}]\nJP :\n[{\"level\":1,\"name\":\"発芽\",\"desc\":\"\"}]"
+  },
+  {
+    "key": "800802-levelList",
+    "original": "[{\"level\":1,\"name\":\"황금 과실\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[DefeatDuel] 자신에게 피해 20\"},{\"desc\":\"[DefeatDuel] 황금빛 1 잃음\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Golden Fruit\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[DefeatDuel] Take 20 damage\"},{\"desc\":\"[DefeatDuel] Lose 1 Golden Sheen\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"黄金の果実\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[DefeatDuel] 自分に20ダメージ\"},{\"desc\":\"[DefeatDuel] 黄金色 1を失う\"}]}]}]"
+  },
+  {
+    "key": "800803-levelList",
+    "original": "[{\"level\":1,\"name\":\"단단한 황금\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Solid Gold\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"硬い黄金\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "800901-levelList",
+    "original": "[{\"level\":1,\"name\":\"영양분 흡수\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 본체의 체력 3 회복\"}]},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Absorb Nutrients\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Main body heals 3 HP\"}]},{}]}]\nJP :\n[{\"level\":1,\"name\":\"養分吸収\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 本体の体力を3回復\"}]},{}]}]"
+  },
+  {
+    "key": "800902-levelList",
+    "original": "[{\"level\":1,\"name\":\"허물어지는 과육\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 횟수 3 증가\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Deteriorating Flesh\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict +3 Bleed Count next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 2 Fragile next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"崩れる果肉\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 回数が3増加\"},{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 2を付与\"}]}]}]"
+  },
+  {
+    "key": "800903-levelList",
+    "original": "[{\"level\":1,\"name\":\"포획\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 본체의 체력 10 회복\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 5 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Entangle\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Main body heals 10 HP\"},{\"desc\":\"[OnSucceedAttack] Inflict 5 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"捕獲\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 本体の体力を10回復\"},{\"desc\":\"[OnSucceedAttack] 次のターンに出血 5を付与\"}]}]}]"
+  },
+  {
+    "key": "801001-levelList",
+    "original": "[{\"level\":1,\"name\":\"일을 하자...\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Let’s Get to Work…\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"仕事しよう…。\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "801002-levelList",
+    "original": "[{\"level\":1,\"name\":\"열심히!\",\"desc\":\"[WhenUse] 자신에게 피해 10.\\n 스킬 위력 +1\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Work Hard!\",\"desc\":\"[WhenUse] Lose 10 HP; Skill Power +1\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"頑張って！\",\"desc\":\"[WhenUse] 自分に10ダメージ。\\nスキル威力+1\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801003-levelList",
+    "original": "[{\"level\":1,\"name\":\"바빠...\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"So Busy…\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"忙しい…。\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801101-levelList",
+    "original": "[{\"level\":1,\"name\":\"해치우자...\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Best Get It Over With…\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"片付けよう…。\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "801102-levelList",
+    "original": "[{\"level\":1,\"name\":\"부지런히!\",\"desc\":\"[WhenUse] 자신에게 피해 10.\\n 스킬 위력 +1\",\"coinlist\":[{},{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Stay Diligent!\",\"desc\":\"[WhenUse] Lose 10 HP; Skill Power +1\",\"coinlist\":[{},{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"せっせと！\",\"desc\":\"[WhenUse] 自分に10ダメージ。\\nスキル威力+1\",\"coinlist\":[{},{},{}]}]"
+  },
+  {
+    "key": "801103-levelList",
+    "original": "[{\"level\":1,\"name\":\"바빠...\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"So Busy…\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"忙しい…。\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801201-levelList",
+    "original": "[{\"level\":1,\"name\":\"일할 시간이다!\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Worktime!\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"働く時間だ！\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801202-levelList",
+    "original": "[{\"level\":1,\"name\":\"일하자!\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 신속 2 얻음\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Get to Work!\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Gain 2 Haste next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"働こう！\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンにクイック 2を得る\"}]}]}]"
+  },
+  {
+    "key": "801203-levelList",
+    "original": "[{\"level\":1,\"name\":\"신난다!!\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 자신에게 피해 3\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 자신에게 피해 3\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"So Excited!!\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Take 3 damage\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Take 3 damage\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"うれしい！！\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 自分に3ダメージ\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 自分に3ダメージ\"}]}]}]"
+  },
+  {
+    "key": "801204-levelList",
+    "original": "[{\"level\":1,\"name\":\"응☆징\",\"desc\":\"[WhenUse] 자신에게 피해 10.\\n 스킬 위력 +2\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"PUNISH☆MENT\",\"desc\":\"[WhenUse] Lose 10 HP; Skill Power +2\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"ぱにっしゅ☆めんと\",\"desc\":\"[WhenUse] 自分に10ダメージ。\\nスキル威力+2\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "801205-levelList",
+    "original": "[{\"level\":1,\"name\":\"비.상.이.다!!!\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 자신에게 피해 3\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 자신에게 피해 3\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 자신에게 피해 3\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"E-MER-GEN-CY!!!\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Take 3 damage\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Take 3 damage\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Take 3 damage\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ひ・じょう・じ・たい！！！\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 自分に3ダメージ\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 自分に3ダメージ\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 自分に3ダメージ\"}]}]}]"
+  },
+  {
+    "key": "801206-levelList",
+    "original": "[{\"level\":1,\"name\":\"방해하지마?!\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Don’t Stop Me?!\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"邪魔するな！？\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "801301-levelList",
+    "original": "[{\"level\":1,\"name\":\"억압된 몸짓\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Repressed Gesture\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"抑圧された身振り\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "801302-levelList",
+    "original": "[{\"level\":1,\"name\":\"조여드는 욕망\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Constricting Desires\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"締め付ける欲望\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801303-levelList",
+    "original": "[{\"level\":1,\"name\":\"분홍빛 춤\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 욕망 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 욕망 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Rosy Dance\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Urge next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Urge next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"桃色の踊り\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに欲望 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに欲望 1を付与\"}]}]}]"
+  },
+  {
+    "key": "801401-levelList",
+    "original": "[{\"level\":1,\"name\":\"억압된 몸짓\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Repressed Gesture\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"抑圧された身振り\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "801402-levelList",
+    "original": "[{\"level\":1,\"name\":\"조여드는 욕망\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Constricting Desires\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"締め付ける欲望\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801403-levelList",
+    "original": "[{\"level\":1,\"name\":\"분홍빛 춤\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 욕망 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Rosy Dance\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Urge next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"桃色の踊り\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに欲望 2を付与\"}]}]}]"
+  },
+  {
+    "key": "801501-levelList",
+    "original": "[{\"level\":1,\"name\":\"돈 벌 시간이다!\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Breadwinning!\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"稼ぎ時だ！\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801502-levelList",
+    "original": "[{\"level\":1,\"name\":\"돈 벌자!\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 신속 2 얻음\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Make Some Riches!\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Gain 2 Haste next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"稼ごう！\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンにクイック 2を得る\"}]}]}]"
+  },
+  {
+    "key": "801503-levelList",
+    "original": "[{\"level\":1,\"name\":\"재미난다!!\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 자신에게 피해 3\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 자신에게 피해 3\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Thoroughly Amusing!!\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Take 3 damage\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Take 3 damage\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"たのしい！！\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 自分に3ダメージ\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 自分に3ダメージ\"}]}]}]"
+  },
+  {
+    "key": "801504-levelList",
+    "original": "[{\"level\":1,\"name\":\"반짝☆반짝 돌아!?\",\"desc\":\"[WhenUse] 자신에게 피해 10.\\n 스킬 위력 +2\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 욕망 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Twinkle☆Sprinkle Spinny!?\",\"desc\":\"[WhenUse] Lose 10 HP; Skill Power +2\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Urge next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"きら☆きら回る！？\",\"desc\":\"[WhenUse] 自分に10ダメージ。\\nスキル威力+2\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに欲望 3を付与\"}]}]}]"
+  },
+  {
+    "key": "801601-levelList",
+    "original": "[{\"level\":1,\"name\":\"쏘아대기\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Fire Off\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"撃ちまくる\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801602-levelList",
+    "original": "[{\"level\":1,\"name\":\"터져나오는 우울\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 침잠 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Bursting Gloom\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Sinking next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"弾け出る憂鬱\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに沈潜 3を付与\"}]}]}]"
+  },
+  {
+    "key": "801701-levelList",
+    "original": "[{\"level\":1,\"name\":\"내려찍기\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Strike Down\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"振り下ろす\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801702-levelList",
+    "original": "[{\"level\":1,\"name\":\"꿰뚫는 욕망\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 출혈 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Piercing Lust\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 2 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"貫く欲望\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに出血 2を付与\"}]}]}]"
+  },
+  {
+    "key": "801801-levelList",
+    "original": "[{\"level\":1,\"name\":\"갈아내기\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Grind\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"削り取る\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801802-levelList",
+    "original": "[{\"level\":1,\"name\":\"교만한 분쇄\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 취약 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 취약 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Prideful Runover\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Fragile next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Fragile next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"傲慢な粉砕\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに脆弱 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに脆弱 1を付与\"}]}]}]"
+  },
+  {
+    "key": "801901-levelList",
+    "original": "[{\"level\":1,\"name\":\"부리 찍기\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Beak Pick\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"嘴で突く\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "801902-levelList",
+    "original": "[{\"level\":1,\"name\":\"후려베기\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Slicing Smack\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"切りつける\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "801903-levelList",
+    "original": "[{\"level\":1,\"name\":\"발길질\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 취약 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Foot Stomp\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Fragile next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"足蹴\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに脆弱 1を付与\"}]}]}]"
+  },
+  {
+    "key": "802101-levelList",
+    "original": "[{\"level\":1,\"name\":\"부리 쪼기\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Beak Peck\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"嘴で啄む\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "802102-levelList",
+    "original": "[{\"level\":1,\"name\":\"얼음 뱉기\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Ice Chuck\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"氷を吐く\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "802103-levelList",
+    "original": "[{\"level\":1,\"name\":\"부리 부수기\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Beak Smash\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Bind next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"嘴で壊す\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 1を付与\"}]}]}]"
+  },
+  {
+    "key": "802401-levelList",
+    "original": "[{\"level\":1,\"name\":\"기괴한 눈동자\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 대상에게 정신피해 5\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 대상에게 정신피해 5\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Eerie Eyes\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Deal 5 SP damage\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Deal 5 SP damage\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"奇怪な瞳\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 対象へ5精神力ダメージ\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 対象へ5精神力ダメージ\"}]}]}]"
+  },
+  {
+    "key": "802402-levelList",
+    "original": "[{\"level\":1,\"name\":\"어설픈 모방\",\"desc\":\"피격 당한 공격을 모방하여 사용.\\n[WhenUse] 대상에게 정신피해 10\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Imperfect Imitation\",\"desc\":\"Copies a skill that hit this unit\\n[WhenUse] Deal 10 SP damage\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"中途半端な模倣\",\"desc\":\"受けた攻撃を模倣して使用。\\n[WhenUse] 対象に10精神力ダメージ\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"\"}]}]}]"
+  },
+  {
+    "key": "802403-levelList",
+    "original": "[{\"level\":1,\"name\":\"껍데기 고치기\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 최대 체력의 10%만큼 체력 회복. 본능을 1 얻음\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Adjust Shell\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Heal 10% of Max HP; Gain 1 Instincts\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"殻を直す\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 体力を最大値の10%回復。本能 1を得る\"}]}]}]"
+  },
+  {
+    "key": "802404-levelList",
+    "original": "[{\"level\":1,\"name\":\"뼈 폭발\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 최대 체력의 10%만큼 체력 회복\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 10 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Bone Blast\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Heal 10% of Max HP\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 10 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"骨爆発\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 体力を最大値の10%回復\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 10を付与\"}]}]}]"
+  },
+  {
+    "key": "802501-levelList",
+    "original": "[{\"level\":1,\"name\":\"거친 할퀴기\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 출혈 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 출혈 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 출혈 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Violent Scratch\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Bleed next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Bleed next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"荒い引っ掻き\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに出血 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに出血 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに出血 1を付与\"}]}]}]"
+  },
+  {
+    "key": "802502-levelList",
+    "original": "[{\"level\":1,\"name\":\"광적인 돌진\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 4 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 4 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Rabid Ram\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 4 Bleed next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 4 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"狂的な突進\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 4を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 4を付与\"}]}]}]"
+  },
+  {
+    "key": "802503-levelList",
+    "original": "[{\"level\":1,\"name\":\"갈기갈기\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 4 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 4 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 4 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 4 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Tear Apart\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 4 Bleed next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Fragile next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 4 Bleed next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Fragile next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 4 Bleed next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Fragile next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 4 Bleed next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Fragile next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ズタズタ\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 4を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 4を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 4を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 4を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 1を付与\"}]}]}]"
+  },
+  {
+    "key": "802504-levelList",
+    "original": "[{\"level\":1,\"name\":\"광폭한 추격\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 횟수 6 증가\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 파열 횟수 6 증가\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Furious Chase\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict +6 Bleed Count next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict +6 Rupture Count next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"狂暴な追撃\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 回数が6増加\"},{\"desc\":\"[OnSucceedAttack] 次のターンに破裂 回数が6増加\"}]}]}]"
+  },
+  {
+    "key": "802505-levelList",
+    "original": "[{\"level\":1,\"name\":\"날 선 경계\",\"desc\":\"\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Sharp Alertness\",\"desc\":\"\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"気の立った警戒\",\"desc\":\"\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "802701-levelList",
+    "original": "[{\"level\":1,\"name\":\"할퀴기\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 출혈 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Claw\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"引っ掻く\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに出血 1を付与\"}]}]}]"
+  },
+  {
+    "key": "802702-levelList",
+    "original": "[{\"level\":1,\"name\":\"경계\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Lookout\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"警戒\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "802703-levelList",
+    "original": "[{\"level\":1,\"name\":\"눈 먼 돌진\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 2 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Blind Charge\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Bleed next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"盲目的突進\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 2を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 2を付与\"}]}]}]"
+  },
+  {
+    "key": "802801-levelList",
+    "original": "[{\"level\":1,\"name\":\"휘감는 팔\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Coiling Arms\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"巻き付く腕\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 3を付与\"}]}]}]"
+  },
+  {
+    "key": "802802-levelList",
+    "original": "[{\"level\":1,\"name\":\"똬리 틀기\",\"desc\":\"[DefeatDuel] 본능을 1 잃음\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 체력 20 회복, 출혈 횟수 5 증가\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Coil Up\",\"desc\":\"[DefeatDuel] Lose 1 Instincts\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Heal 20 HP; Inflict +5 Bleed Count\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ねじ切る\",\"desc\":\"[DefeatDuel] 本能 1を失う\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 体力を20回復、出血 回数が5増加\"}]}]}]"
+  },
+  {
+    "key": "802803-levelList",
+    "original": "[{\"level\":1,\"name\":\"양팔 휘두르기\",\"desc\":\"파괴된 팔의 수만큼 스킬 위력 감소\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 2, 마비 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 2, 마비 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 4, 마비 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Swinging Arms\",\"desc\":\"Skill Power -1 for each broken arm\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Bleed and 1 Paralyze next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Bleed and 1 Paralyze next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 4 Bleed and 2 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"両腕振り回し\",\"desc\":\"破壊された腕の数だけスキル威力減少\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 2、麻痺 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 2、麻痺 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 4、麻痺 2を付与\"}]}]}]"
+  },
+  {
+    "key": "802804-levelList",
+    "original": "[{\"level\":1,\"name\":\"양팔 후려치기\",\"desc\":\"[DefeatDuel] 본능을 1 잃음\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 흐트러짐 손상 10. 다음 턴에 속박 5 부여. \"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Thrashing Arms\",\"desc\":\"[DefeatDuel] Lose 1 Instincts\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Raise Stagger Threshold by 10; Inflict 5 Bind next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"両腕で引っ叩く\",\"desc\":\"[DefeatDuel] 本能 1を失う\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 混乱区間を10前進、次のターンに束縛 5を付与。\"}]}]}]"
+  },
+  {
+    "key": "802805-levelList",
+    "original": "[{\"level\":1,\"name\":\"숨죽이기\",\"desc\":\"[StartBattle] 본능을 1 얻음\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Held Breath\",\"desc\":\"[StartBattle] Gain 1 Instincts\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"息を殺す\",\"desc\":\"[StartBattle] 本能 1を得る\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "802807-levelList",
+    "original": "[{\"level\":1,\"name\":\"고통의 몸부림\",\"desc\":\"[WhenUse] 체력 12 소모. 다음 턴에 출혈 5를 얻음\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 독 3 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 독 3 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 독 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Pained Writhing\",\"desc\":\"[WhenUse] Lose 12 HP; Gain 5 Bleed next turn\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Poison next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Poison next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Poison next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"苦痛の身悶え\",\"desc\":\"[WhenUse] 体力12消耗。次のターンに出血 3を得る\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに毒 3を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに毒 3を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに毒 3を付与\"}]}]}]"
+  },
+  {
+    "key": "802808-levelList",
+    "original": "[{\"level\":1,\"name\":\"고통의 발악\",\"desc\":\"[WhenUse] 체력 12 소모. 다음 턴에 자신의 출혈 횟수 3 증가\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 6 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 6 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Pained Struggle\",\"desc\":\"[WhenUse] Lose 12 HP; Gain +3 Bleed Count next turn\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 6 Paralyze next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 6 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"苦痛の足掻き\",\"desc\":\"[WhenUse] 体力12消耗。次のターンに自分の出血 回数が3増加\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 6を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 6を付与\"}]}]}]"
+  },
+  {
+    "key": "802901-levelList",
+    "original": "[{\"level\":1,\"name\":\"\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "802902-levelList",
+    "original": "[{\"level\":1,\"name\":\"깊은 찌르기\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 6 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Deep Thrust\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 6 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"深く刺す\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 6を付与\"}]}]}]"
+  },
+  {
+    "key": "802903-levelList",
+    "original": "[{\"level\":1,\"name\":\"쥐어짐\",\"desc\":\"[StartBattle] 다음 턴동안 대상을 주시함\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"The Gripping\",\"desc\":\"[StartBattle] Gaze into the target for the next turn\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"握り締める\",\"desc\":\"[StartBattle] 次のターン、対象を注視する\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"\"}]}]}]"
+  },
+  {
+    "key": "802904-levelList",
+    "original": "[{\"level\":1,\"name\":\"광소\",\"desc\":\"[WhenUse] 대상에게 정신피해 10\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 공격 위력 증가 1 얻음\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Cackle\",\"desc\":\"[WhenUse] Deal 10 SP damage\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Gain 1 Attack Power Up next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"狂笑\",\"desc\":\"[WhenUse] 対象へ10精神力ダメージ\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに攻撃威力増加 1を得る\"}]}]}]"
+  },
+  {
+    "key": "802905-levelList",
+    "original": "[{\"level\":1,\"name\":\"죄악을 꿰뚫는 못\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 N사의 못 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 N사의 못 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 N사의 못 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Sin-skewering Nail\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 N Corp’s Nails next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"罪悪を貫く釘\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンにN社の釘 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンにN社の釘 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンにN社の釘 1を付与\"}]}]}]"
+  },
+  {
+    "key": "802906-levelList",
+    "original": "[{\"level\":1,\"name\":\"정화\",\"desc\":\"[WhenUse] 대상 체력이 30%미만이면 스킬 위력 +2\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] N사의 못 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] N사의 못 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] N사의 못 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 대상에게 N사의 못이 5이상 있으면, 흐트러짐 상태로 만들고 N사의 못을 없앰\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Purify\",\"desc\":\"[WhenUse] If target’s HP is below 30%, Skill Power +2\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 N Corp’s Nails\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 N Corp’s Nails\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 N Corp’s Nails\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them and remove the Nails\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"浄化\",\"desc\":\"[WhenUse] 対象の体力が30%未満のとき、スキル威力+2\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] N社の釘 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] N社の釘 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] N社の釘 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 対象のN社の釘 が5本以上なら、混乱状態にしてN社の釘 を無くす\"}]}]}]"
+  },
+  {
+    "key": "802907-levelList",
+    "original": "[{\"level\":1,\"name\":\"처단할지어다!\",\"desc\":\"[WhenUse] 대상 체력이 30%미만이면 스킬 위력 +2\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 대상에게 못이 5이상 있으면, 흐트러짐 상태로 만듦\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 못 수치X3만큼 피해를 주고 못을 없앰\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"I Shall Claim Your Life!\",\"desc\":\"[WhenUse] If target’s HP is below 30%, Skill Power +2\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] If target has 5+ Nails, Stagger them\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Deal damage by 3x Nails on target, then remove the Nails\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"処断せん！\",\"desc\":\"[WhenUse] 対象の体力が30%未満のとき、スキル威力+2\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 対象の釘 が5本以上なら、混乱状態にする\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 釘 の本数×3だけダメージを与えて釘 を無くす\"}]}]}]"
+  },
+  {
+    "key": "802908-levelList",
+    "original": "[{\"level\":1,\"name\":\"처단할지어다!\",\"desc\":\"[DefeatDuel] 흐트러짐 상태가 됨\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 대상을 흐트러짐 상태로 만들고, 다음 턴에 취약 10 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"I Shall Claim Your Life!\",\"desc\":\"[DefeatDuel] User becomes Staggered\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Stagger target and inflict 10 Fragile next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"処断せん！\",\"desc\":\"[DefeatDuel] 混乱状態になる\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 対象を混乱状態にし、次のターンに脆弱 10を付与\"}]}]}]"
+  },
+  {
+    "key": "802909-levelList",
+    "original": "[{\"level\":1,\"name\":\"\",\"desc\":\"\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"\",\"desc\":\"\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"\",\"desc\":\"\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "802910-levelList",
+    "original": "[{\"level\":1,\"name\":\"가소로워\",\"desc\":\"[OnSucceedEvade] 대상에게 정신피해 5\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"You Are Nothing\",\"desc\":\"[OnSucceedEvade] Deal 5 SP damage\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"笑止\",\"desc\":\"[OnSucceedEvade] 対象へ5精神力ダメージ\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "803001-levelList",
+    "original": "[{\"level\":1,\"name\":\"첫 사람의 날개\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Protoplast’s Wings\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"初めての人の翼\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "803002-levelList",
+    "original": "[{\"level\":1,\"name\":\"첫 사람의 날개\",\"coinlist\":[{},{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Protoplast’s Wings\",\"coinlist\":[{},{}]}]\nJP :\n[{\"level\":1,\"name\":\"初めての人の翼\",\"coinlist\":[{},{}]}]"
+  },
+  {
+    "key": "803003-levelList",
+    "original": "[{\"level\":1,\"name\":\"무구한 날개짓\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Innocent Flutters\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Bind next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Paralyze next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Bind next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Paralyze next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Bind next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Paralyze next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Bind next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"無垢な羽ばたき\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 1を付与\"}]}]}]"
+  },
+  {
+    "key": "803004-levelList",
+    "original": "[{\"level\":1,\"name\":\"부러진 날개\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Broken Wings\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Bind next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Paralyze next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Bind next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"折れた翼\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 1を付与\"}]}]}]"
+  },
+  {
+    "key": "803005-levelList",
+    "original": "[{\"level\":1,\"name\":\"부러진 날개\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Broken Wings\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Bind next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Paralyze next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Bind next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 1 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"折れた翼\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 1を付与\"}]}]}]"
+  },
+  {
+    "key": "803006-levelList",
+    "original": "[{\"level\":1,\"name\":\"격노한 날개짓\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Enraged Flutters\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"激怒の羽ばたき\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "803007-levelList",
+    "original": "[{\"level\":1,\"name\":\"고결한 정화\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 2 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 2 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 1 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Noble Purification\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Fragile next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 2 Bleed next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Fragile next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 2 Bleed next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Fragile next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 2 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"高潔な浄化\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに出血 2を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに出血 2を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 1を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに出血 2を付与\"}]}]}]"
+  },
+  {
+    "key": "803008-levelList",
+    "original": "[{\"level\":1,\"name\":\"영예로운 쥐어짐\",\"desc\":\"[WhenUse] 대상의 체력이 30%미만이면 피해량 +100%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 대상의 체력이 30% 미만이면 즉시 처치하고, 체력을 30 회복\\n다음 턴에 공격 위력 증가를 2 얻음\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Honorable Grip\",\"desc\":\"[WhenUse] If target’s HP is below 30%, +100% Damage\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] If target’s HP is below 30%, kill them and heal 30 HP\\nGain 2 Attack Power Up next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"栄誉の掌握\",\"desc\":\"[WhenUse] 対象の体力が30%未満のとき、与ダメージ量+100%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 対処の体力が30%未満なら即死し、体力を30回復\\n次のターンに攻撃威力増加 2を得る\"}]}]}]"
+  },
+  {
+    "key": "803009-levelList",
+    "original": "[{\"level\":1,\"name\":\"참회하라!!\",\"desc\":\"[WhenUse] 대상의 체력이 30%미만이면 피해량 +100%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 5 부여\"},{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 5 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Repent!!\",\"desc\":\"[WhenUse] If target’s HP is below 30%, +100% Damage\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 5 Fragile next turn\"},{\"desc\":\"[OnSucceedAttack] Inflict 5 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"懺悔せよ！！\",\"desc\":\"[WhenUse] 対象の体力が30%未満のとき、与ダメージ量+100%\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 5を付与\"},{\"desc\":\"[OnSucceedAttack] 次のターンに出血 5を付与\"}]}]}]"
+  },
+  {
+    "key": "803010-levelList",
+    "original": "[{\"level\":1,\"name\":\"온전한 살덩이\",\"coinlist\":[{\"coindescs\":[{}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Peerless Flesh\",\"coinlist\":[{\"coindescs\":[{}]}]}]\nJP :\n[{\"level\":1,\"name\":\"完全な肉塊\",\"coinlist\":[{\"coindescs\":[{}]}]}]"
+  },
+  {
+    "key": "803101-levelList",
+    "original": "[{\"level\":1,\"name\":\"손뼉치기\",\"keywords\":[\"Reduction\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 공격 위력 감소 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clap\",\"keywords\":[\"Reduction\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Attack Power Down next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"手打ち\",\"keywords\":[\"Reduction\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに攻撃威力減少 1を付与\"}]}]}]"
+  },
+  {
+    "key": "803102-levelList",
+    "original": "[{\"level\":1,\"name\":\"강한 손뼉치기\",\"keywords\":[\"Reduction\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 공격 위력 감소 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Powerful Clap\",\"keywords\":[\"Reduction\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Attack Power Down next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"強い手打ち\",\"keywords\":[\"Reduction\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに攻撃威力減少 3を付与\"}]}]}]"
+  },
+  {
+    "key": "803103-levelList",
+    "original": "[{\"level\":1,\"name\":\"꼬리치기\",\"keywords\":[\"Vulnerable\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 취약 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 취약 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Tail Whip\",\"keywords\":[\"Vulnerable\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Fragile next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Fragile next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"尻尾打ち\",\"keywords\":[\"Vulnerable\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに脆弱 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに脆弱 3を付与\"}]}]}]"
+  },
+  {
+    "key": "803104-levelList",
+    "original": "[{\"level\":1,\"name\":\"주머니 압박\",\"keywords\":[\"Binding\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Pressing Sac\",\"keywords\":[\"Binding\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Bind next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"袋圧迫\",\"keywords\":[\"Binding\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 3を付与\"}]}]}]"
+  },
+  {
+    "key": "803105-levelList",
+    "original": "[{\"level\":1,\"name\":\"혈사포\",\"keywords\":[\"Bleeding\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 출혈 5 부여\"},{\"desc\":\"[OnSucceedAttackHead] 출혈 20 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Blood Cannon\",\"keywords\":[\"Bleeding\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 5 Bleed\"},{\"desc\":\"[OnSucceedAttackHead] Inflict 20 Bleed\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"血射砲\",\"keywords\":[\"Bleeding\"],\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 出血 5を付与\"},{\"desc\":\"[OnSucceedAttackHead] 出血 20を付与\"}]}]}]"
+  },
+  {
+    "key": "803106-levelList",
+    "original": "[{\"level\":1,\"name\":\"종혈\",\"keywords\":[\"Bleeding\"],\"desc\":\"[Wide]\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 출혈 30 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Clotting\",\"keywords\":[\"Bleeding\"],\"desc\":\"[Wide]\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 30 Bleed\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"凝血\",\"keywords\":[\"Bleeding\"],\"desc\":\"[Wide]\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 出血 30を付与\"}]}]}]"
+  },
+  {
+    "key": "803201-levelList",
+    "original": "[{\"level\":1,\"name\":\"할퀴기\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 2 부여.\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Claw\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Bleed next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"引っ掻く\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 2を付与。\"}]}]}]"
+  },
+  {
+    "key": "803202-levelList",
+    "original": "[{\"level\":1,\"name\":\"등압\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 파열 1 부여.\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Constant Voltage\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Rupture next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"等圧\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに破裂 1を付与。\"}]}]}]"
+  },
+  {
+    "key": "803203-levelList",
+    "original": "[{\"level\":1,\"name\":\"등압추격\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 파열 1 부여.\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 파열 4 부여.\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Electromotive Pursuit\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Rupture next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 4 Rupture next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"動圧追撃\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに破裂 1を付与。\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに破裂 4を付与。\"}]}]}]"
+  },
+  {
+    "key": "803204-levelList",
+    "original": "[{\"level\":1,\"name\":\"하울링\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 2 부여.\"},{\"desc\":\"[OnSucceedAttackHead] 수비 위력 감소 4 부여.\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Howl\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Bind next turn\"},{\"desc\":\"[OnSucceedAttackHead] Inflict 4 Defense Power Down\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ハウリング\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 2を付与.\"},{\"desc\":\"[OnSucceedAttackHead] 守備威力減少 4を付与。\"}]}]}]"
+  },
+  {
+    "key": "803205-levelList",
+    "original": "[{\"level\":1,\"name\":\"전격 하울링\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 파열 3 부여.\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Electrified Howl\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Rupture next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"電撃ハウリング\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 次のターンに破裂 3を付与。\"}]}]}]"
+  },
+  {
+    "key": "803206-levelList",
+    "original": "[{\"level\":1,\"name\":\"피뢰\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 파열 2 부여.\"},{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 파열 5 부여.\"}]},{\"coindescs\":[{\"desc\":\"\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Lightning Rod\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Rupture next turn\"},{\"desc\":\"[OnSucceedAttackHead] Inflict 5 Rupture next turn\"}]},{\"coindescs\":[{\"desc\":\"\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"避雷\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに破裂 2を付与。\"},{\"desc\":\"[OnSucceedAttackHead] 次のターンに破裂 5を付与。\"}]},{\"coindescs\":[{\"desc\":\"\"}]}]}]"
+  },
+  {
+    "key": "803207-levelList",
+    "original": "[{\"level\":1,\"name\":\"적뢰\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 파열 10 부여.\"}]},{\"coindescs\":[{\"desc\":\"\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Red Bolts\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 10 Rupture next turn\"}]},{\"coindescs\":[{\"desc\":\"\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"赤雷\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに破裂 10を付与。\"}]},{\"coindescs\":[{\"desc\":\"\"}]}]}]"
+  },
+  {
+    "key": "803208-levelList",
+    "original": "[{\"level\":1,\"name\":\"하울링\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 2 부여\"},{\"desc\":\"[OnSucceedAttackHead] 수비 위력 감소 4 부여.\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Howl\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Bind next turn\"},{\"desc\":\"[OnSucceedAttackHead] Inflict 4 Defense Power Down\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ハウリング\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 2を付与\"},{\"desc\":\"[OnSucceedAttackHead] 守備威力減少 4を付与。\"}]}]}]"
+  },
+  {
+    "key": "803301-levelList",
+    "original": "[{\"level\":1,\"name\":\"휘감는 팔\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 마비 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Coiling Arms\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"巻き付く腕\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに麻痺 1を付与\"}]}]}]"
+  },
+  {
+    "key": "803302-levelList",
+    "original": "[{\"level\":1,\"name\":\"휘두르기\",\"desc\":\"[WhenUse] 다음 턴에 공격 위력 증가 1을 얻음\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 3, 마비 1 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 출혈 3, 마비 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Swipe\",\"desc\":\"[WhenUse] Gain 1 Attack Power Up next turn\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Bleed and 1 Paralyze next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Bleed and 1 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"振り回す\",\"desc\":\"[WhenUse] 次のターンに攻撃威力増加 1を得る\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 3、麻痺 1を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに出血 3、麻痺 1を付与\"}]}]}]"
+  },
+  {
+    "key": "803303-levelList",
+    "original": "[{\"level\":1,\"name\":\"후려치기\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 속박 3 부여.\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Thwack\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Bind next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"引っ叩く\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに束縛 3を付与。\"}]}]}]"
+  },
+  {
+    "key": "803304-levelList",
+    "original": "[{\"level\":1,\"name\":\"가드\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Guard\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ガード\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"\"}]}]}]"
+  },
+  {
+    "key": "803305-levelList",
+    "original": "[{\"level\":1,\"name\":\"독액 뿜기\",\"desc\":\"[WhenUse]체력 6 소모. 다음 턴에 출혈 5를 얻음\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 독 3 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 독 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Poison Spray\",\"desc\":\"[WhenUse] Lose 6 HP; Gain 5 Bleed next turn\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Poison next turn\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Poison next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"毒液噴射\",\"desc\":\"[WhenUse] 体力6消耗。次のターンに出血 3を得る\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに毒 3を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンに毒 3を付与\"}]}]}]"
+  },
+  {
+    "key": "803401-levelList",
+    "original": "[{\"level\":1,\"name\":\"꼬고고곡\",\"desc\":\"정신력이 가장 낮은 대상 우선 공격\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 정신력 5 피해\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Bawkbawbawbawk\",\"desc\":\"Targets the unit with the lowest SP\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Deal 5 SP damage\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ココココッ\",\"desc\":\"精神力が最も低い対象を優先して攻撃\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 5精神力ダメージ\"}]}]}]"
+  },
+  {
+    "key": "803402-levelList",
+    "original": "[{\"level\":1,\"name\":\"꼬고곡\",\"desc\":\"정신력이 가장 낮은 대상 우선 공격\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 체력 7 회복\"},{\"desc\":\"[OnSucceedAttackHead] 침잠 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Babawbawk\",\"desc\":\"Targets the unit with the lowest SP\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Heal 7 HP\"},{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Sinking\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"コココッ\",\"desc\":\"精神力が最も低い対象を優先して攻撃\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 体力を7回復\"},{\"desc\":\"[OnSucceedAttackHead] 沈潜 3を付与\"}]}]}]"
+  },
+  {
+    "key": "803403-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄그극\",\"desc\":\"이번 턴동안 피해를 당하지 않았다면, 다음 턴에 모든 아군에게 공격 위력 증가 2 부여\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Keghgh\",\"desc\":\"If user doesn’t take damage this turn, apply 2 Attack Power Up to all allies next turn\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"クククッ\",\"desc\":\"1ターンの間ダメージを受けなければ、次のターンに全味方へ攻撃威力増加 2を付与\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "803501-levelList",
+    "original": "[{\"level\":1,\"name\":\"꼬오곡\",\"desc\":\"체력이 가장 낮은 대상 우선 공격\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 취약 1 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Baaawkbawk\",\"desc\":\"Targets the unit with the lowest HP\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 1 Fragile\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"コォコッ\",\"desc\":\"体力が一番低い対象を優先して攻撃\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 脆弱1を付与\"}]}]}]"
+  },
+  {
+    "key": "803502-levelList",
+    "original": "[{\"level\":1,\"name\":\"꼬고꼭\",\"desc\":\"체력이 가장 낮은 대상 우선 공격\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 체력 7 회복\"},{\"desc\":\"[OnSucceedAttackHead] 출혈 5 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Bawkbabawk\",\"desc\":\"Targets the unit with the lowest HP\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Heal 7 HP\"},{\"desc\":\"[OnSucceedAttackHead] Inflict 5 Bleed\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"コゴコッ\",\"desc\":\"体力が一番低い対象を優先して攻撃\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 体力を7回復\"},{\"desc\":\"[OnSucceedAttackHead] 出血 5を付与\"}]}]}]"
+  },
+  {
+    "key": "803503-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄극\",\"desc\":\"[OnSucceedEvade] 대상의 정신력 -15\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Khgh\",\"desc\":\"[OnSucceedEvade] Target loses 15 SP\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"ククッ\",\"desc\":\"[OnSucceedEvade] 対象の精神力-15\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "803601-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄끄끅!\",\"desc\":\"이전 턴에 피해를 입지 않았다면 코인 위력 +3\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 다음 턴에 신속 3 얻음\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Khghgh!\",\"desc\":\"If user took no damage last turn, Coin Power +3\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Gain 3 Haste next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"クククッ！\",\"desc\":\"前のターンにて、ダメージを受けていなければコイン威力+3\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 次のターンにクイック 3を得る\"}]}]}]"
+  },
+  {
+    "key": "803602-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄끄옥!\",\"desc\":\"이전 턴에 피해를 입지 않았다면 코인 위력 +3\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 체력 7 회복\"},{\"desc\":\"[OnSucceedAttackHead] 다음 턴에 마비 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Kawkbaawk!\",\"desc\":\"If user took no damage last turn, Coin Power +3\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Heal 7 HP\"},{\"desc\":\"[OnSucceedAttackHead] Inflict 2 Paralyze next turn\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ククゥッ！\",\"desc\":\"前のターンにて、ダメージを受けていなければコイン威力+3\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 体力を7回復\"},{\"desc\":\"[OnSucceedAttackHead] 次のターンに麻痺 2を付与\"}]}]}]"
+  },
+  {
+    "key": "803603-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄극!\",\"desc\":\"\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Krgh!\",\"desc\":\"\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"ククッ！\",\"desc\":\"\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "803701-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄극\",\"desc\":\"체력이 가장 높은 대상 우선 공격\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 마비 2 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Khgh\",\"desc\":\"Targets the unit with the most HP\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 2 Paralyze\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ククッ\",\"desc\":\"体力が一番多い対象を優先して攻撃\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 麻痺 2を付与\"}]}]}]"
+  },
+  {
+    "key": "803702-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄꾸우곡\",\"desc\":\"체력이 가장 높은 대상 우선 공격\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 체력 7 회복\"},{\"desc\":\"[OnSucceedAttack] 마비 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Khgaawahk\",\"desc\":\"Targets the unit with the most HP\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Heal 7 HP\"},{\"desc\":\"[OnSucceedAttack] Inflict 3 Paralyze\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ククゥコッ\",\"desc\":\"体力が一番多い対象を優先して攻撃\",\"coinlist\":[{},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 体力を7回復\"},{\"desc\":\"[OnSucceedAttack] 麻痺 3を付与\"}]}]}]"
+  },
+  {
+    "key": "803703-levelList",
+    "original": "[{\"level\":1,\"name\":\"끅!\",\"desc\":\"\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Khk!\",\"desc\":\"\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"グッ！\",\"desc\":\"\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "803801-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄!\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 출혈 3 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 파열 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Kgh!\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Bleed\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Rupture\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ク！\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 出血 3を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 破裂 3を付与\"}]}]}]"
+  },
+  {
+    "key": "803802-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄극!\",\"desc\":\"정신력이 가장 낮은 대상 우선 공격\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 침잠 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Krgh!\",\"desc\":\"Targets the unit with the lowest SP\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Sinking\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ククッ！\",\"desc\":\"精神力が最も低い対象を優先して攻撃\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 沈潜 3を付与\"}]}]}]"
+  },
+  {
+    "key": "803803-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄극...\",\"desc\":\"\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Krgh…\",\"desc\":\"\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"ククッ…\",\"desc\":\"\",\"coinlist\":[{}]}]"
+  },
+  {
+    "key": "803901-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄!\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 출혈 3 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 진동 3 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Kgh!\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Bleed\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Tremor\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"ク！\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 出血 3を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 振動 3を付与\"}]}]}]"
+  },
+  {
+    "key": "803902-levelList",
+    "original": "[{\"level\":1,\"name\":\"끅\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 출혈 3 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 진동 3 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 마비 1, 진동 5 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 진동 폭발\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Khk\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 3 Bleed\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 3 Tremor\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] Inflict 1 Paralyze and 5 Tremor\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Burst Tremor\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"グッ！\",\"desc\":\"\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 出血 3を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 振動 3を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttackHead] 麻痺 1, 振動 5を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 振動 爆発\"}]}]}]"
+  },
+  {
+    "key": "803903-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄그극!\",\"desc\":\"정신력이 가장 낮은 대상 우선 공격\\n적중 시 생닭 생산\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 침잠 5 부여\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Keghgh!\",\"desc\":\"Targets the unit with the lowest SP\\n[OnSucceedAttack] Spawn a Raw Chicken\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 5 Sinking\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"クククッ!\",\"desc\":\"精神力が最も低い対象を優先して攻撃\\n的中時、生鶏を生産\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 沈潜 5を付与\"}]}]}]"
+  },
+  {
+    "key": "803904-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄그그그극\",\"desc\":\"[WinDuel] 최종 위력 + 1\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 출혈 5 부여\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 진동 폭발\"}]}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Khghghghgk\",\"desc\":\"[WinDuel] Final Power +1\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Inflict 5 Bleed\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] Burst Tremor\"}]}]}]\nJP :\n[{\"level\":1,\"name\":\"クククククッ\",\"desc\":\"[WinDuel] 最終威力+1\",\"coinlist\":[{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 出血 5を付与\"}]},{\"coindescs\":[{\"desc\":\"[OnSucceedAttack] 振動 爆発\"}]}]}]"
+  },
+  {
+    "key": "803905-levelList",
+    "original": "[{\"level\":1,\"name\":\"끄그극...\",\"desc\":\"\",\"coinlist\":[{}]}]",
+    "context": "EN :\n[{\"level\":1,\"name\":\"Keghgh…\",\"desc\":\"\",\"coinlist\":[{}]}]\nJP :\n[{\"level\":1,\"name\":\"クククッ...\",\"desc\":\"\",\"coinlist\":[{}]}]"
+  }
+]

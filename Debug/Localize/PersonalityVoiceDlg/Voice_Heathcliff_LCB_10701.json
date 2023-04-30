@@ -1,0 +1,212 @@
+[
+  {
+    "key": "get_10701_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10701_1-dlg",
+    "original": "히스클리프. 사람 박살 내는 건 내 전문이지. 물론, 내가 내킬 때만.",
+    "context": "EN :\nName’s Heathcliff. Clobbering people is my specialty. ‘Course, only when I fancy it.\nJP :\nヒースクリフ。人をぶっ潰すのがオレの専門分野だ。もちろん、オレの気が向いたときだけな。"
+  },
+  {
+    "key": "lobby_morning_10701_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10701_1-dlg",
+    "original": "아침부터 그 시계 좀 치워라… 거슬리니까.",
+    "context": "EN :\nKeep that clock away from my face… It’s irritating.\nJP :\n朝っぱらからその時計見せんじゃねぇよ…気に食わねぇんだ。"
+  },
+  {
+    "key": "lobby_noon_10701_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10701_1-dlg",
+    "original": "왜? 점심은 뭐 드셨어요? 이딴 말 기대하고 나한테 온 건 아니지?",
+    "context": "EN :\nWhat? Expecting me to ask what scran you had for lunch or some mince?\nJP :\nなんだ？お昼は何食べました？こんな言葉を期待してオレに来たわけじゃねぇよな？"
+  },
+  {
+    "key": "lobby_night_10701_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10701_1-dlg",
+    "original": "아 잠깐, 또 훈련이니 작전이니 시킬 거라면 다시 생각하고 말하는 게 좋을 거야.",
+    "context": "EN :\nNow stop your gob. If you’re thinking of ordering more training or missions, you’d best think twice.\nJP :\nおい待てよ。また訓練とか作戦とかさせようってんなら、もう一度考え直してから言った方が良いと思うぜ。"
+  },
+  {
+    "key": "smalltalk_10701_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10701_1-dlg",
+    "original": "관리자라고 해서 훈계하거나 쓸데없는 계획 세울 생각은 하지 마라. 난 남의 말은 안 듣거든.",
+    "context": "EN :\nJust ‘cause you’re the manager doesn’t mean you get to lecture me or shove me into shoddy plans. I don’t follow anyone’s orders.\nJP :\n管理人だからって訓戒したり、無駄な計画立てたりしようと思うなよ。オレ、他人の言うことは聞かないんだ。"
+  },
+  {
+    "key": "smalltalk_10701_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10701_2-dlg",
+    "original": "형씨, 궁금하지 않아? 그 시계 안쪽이 어떻게 생겼을지 말이야. 하핫. 농담이야 왜 몸을 떨고 그래?",
+    "context": "EN :\nDon’t you ever get curious about what’s on the other side of that clock on your shoulders, mate? Hahah, I was just taking the piss. What’s got you shaking like timber?\nJP :\nあんさん、気にならねぇか？その時計の中がどうなってるのかがな。ははっ。冗談だよ、どうしてそんな震えてんだ？"
+  },
+  {
+    "key": "smalltalk_10701_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10701_3-dlg",
+    "original": "우리 사이에 긴 대화는 필요 없지. 주먹으로 하는 거라면 모를까.",
+    "context": "EN :\nNo need for long gabs between us. Not about to turn down an exchange of punches, though.\nJP :\nオレたちに長い対話は要らない。拳でなら別だが。"
+  },
+  {
+    "key": "neglect_10701_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10701_1-dlg",
+    "original": "그래, 한 대 맞고 싶다는 거지? 딱 기다려.",
+    "context": "EN :\nRight, so you wanna get smacked, ey? Stay right there.\nJP :\nへぇ、一発食らいたいってことか？じっと待ってろよ。"
+  },
+  {
+    "key": "formation_10701_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10701_1-dlg",
+    "original": "몸이 찌뿌둥하던 참이었어. 때려 부수러 갈 시간이다!",
+    "context": "EN :\nI was craving a workout. Time to smash stuff right up!\nJP :\nちょうど身体がダルかったんだよなぁ。殴り潰しに行く時間だ！"
+  },
+  {
+    "key": "battleentry_10701_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10701_1-dlg",
+    "original": "길게 끌 거 없어, 바로 간다!",
+    "context": "EN :\nDon’t make it long, I’m going in!\nJP :\n引きのばす必要も無い、すぐ行くぞ！"
+  },
+  {
+    "key": "battle_select_10701_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10701_1-dlg",
+    "original": "왜? 뭐?",
+    "context": "EN :\nWhat? Why?\nJP :\nは？なんだ？"
+  },
+  {
+    "key": "battle_endcommand_10701_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10701_1-dlg",
+    "original": "먼저 간다!",
+    "context": "EN :\nAlready there!\nJP :\n先行くぞ！"
+  },
+  {
+    "key": "battle_enemy_break_10701_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10701_1-dlg",
+    "original": "하핫, 어떠냐?",
+    "context": "EN :\nHaha, how do ya like that?\nJP :\nははっ、どうだ？"
+  },
+  {
+    "key": "battle_break_10701_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10701_1-dlg",
+    "original": "윽…!",
+    "context": "EN :\nGrh…!\nJP :\nうっ…！"
+  },
+  {
+    "key": "battle_kill_10701_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10701_1-dlg",
+    "original": "쉽네.",
+    "context": "EN :\nPiss easy.\nJP :\nカンタンだな。"
+  },
+  {
+    "key": "battle_allydead_10701_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10701_1-dlg",
+    "original": "뭐야, 언제 으깨졌냐?",
+    "context": "EN :\nWhat? When’d you get smashed to bits?\nJP :\nなんだよ、いつぶっ潰されたんだ？"
+  },
+  {
+    "key": "choice_success_p_10701_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10701_1-dlg",
+    "original": "너 왜 뿌듯해 보이냐? 내가 해낸 건데.",
+    "context": "EN :\nWhat’s that proud look? I’m the one who dealt with it.\nJP :\nどうしてお前が嬉しそうなんだよ？オレがやったのに。"
+  },
+  {
+    "key": "choice_fail_n_10701_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10701_1-dlg",
+    "original": "…열받네. 내가 딴 놈 보내라 하지 않았었냐?",
+    "context": "EN :\n…This is really narking me. Didn’t I tell you to get someone else?\nJP :\n…ムカツク。他のヤツ出せって言っただろ？"
+  },
+  {
+    "key": "battle_clear_10701_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10701_1-dlg",
+    "original": "뭐, 이 정도에 좋다고 히죽거리고 싶진 않아.",
+    "context": "EN :\nWell, don’t wanna giggle over small victories.\nJP :\nまぁ、たかがこれくらいでニヤニヤしたくはないな。"
+  },
+  {
+    "key": "battle_clear_ex_10701_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10701_1-dlg",
+    "original": "흥, 보여? 마구잡이로 때려 부숴놓았지!",
+    "context": "EN :\nHeh, see that? I did a real bang up job!\nJP :\nふん、どうだ？手当たり次第ぶっ潰しといたぜ！"
+  },
+  {
+    "key": "battle_defeat_10701_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10701_1-dlg",
+    "original": "젠장, 이거 진짜 열받네! 형씨, 여기서 안 끝낼 거지?",
+    "context": "EN :\nBugger all, this’s got me pure raging! You ain’t gonna let this go, right, mate?\nJP :\nクッソォ、これほんとムカつくな！あんさん、ここで終わらせるつもりはねぇよな？"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "key": "get_11101_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11101_1-dlg",
+    "original": "오티스입니다. 제 이름을 기억해주십시오. 관리자님.",
+    "context": "EN :\nMy name is Outis. I hope you’ll remember it well, Executive Manager.\nJP :\nウーティスです。わたくしの名前を覚えてくださいませ。"
+  },
+  {
+    "key": "lobby_morning_11101_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11101_1-dlg",
+    "original": "아침 식사는 챙겨 드셨습니까 관리자님! 영 비실해보이시는데, 균형 있는 영양 식단이 무엇보다 중요합니다!",
+    "context": "EN :\nA fine morning, Executive Manager! Have you had your breakfast? You seem concerningly feeble; allow me to remind you that it’s important to have a balanced diet!\nJP :\n朝食は召し上がりましたか、管理人様！かなりほっそりしているように見受けられますので、バランスの取れた栄養食が何より重要です！"
+  },
+  {
+    "key": "lobby_noon_11101_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11101_1-dlg",
+    "original": "관리자님 같은 분이 혼자 밥을 먹는 찌질한 행위를 하셔서는 안 됩니다! 제가 같이 먹어드리겠습니다!",
+    "context": "EN :\nAn outstanding leader such as yourself should not be subject to the pathetic humiliation of eating all alone! I shall join you at your table!\nJP :\n管理人様のような方が、一人で食事を召し上がるという情けない行為をしてはなりません！わたくしがお供いたしましょう！"
+  },
+  {
+    "key": "lobby_night_11101_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11101_1-dlg",
+    "original": "내일도 좋은 컨디션으로 임하시려면 일찍 자두는 것이 좋습니다.",
+    "context": "EN :\nI advise you to sleep early in order to take on tomorrow’s tasks in good shape.\nJP :\n明日も良いコンディションで臨むためには、早く寝た方がよろしいです。"
+  },
+  {
+    "key": "smalltalk_11101_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11101_1-dlg",
+    "original": "바쁘긴 합니다만, 관리자님이 부르신다면 하던 일 따위 즉시 중단하고 오겠습니다.",
+    "context": "EN :\nWhile I am busy, I am fully willing to pause all my ongoing tasks if you summon me.\nJP :\n忙しくはありますが管理人様のお呼びとあらば、手に付けていたことなぞ即時中断して参ります。"
+  },
+  {
+    "key": "smalltalk_11101_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11101_2-dlg",
+    "original": "관리자님은 승리를 위해 어디까지 내어줄 수 있으십니까. 어디까지… 자신을 놓아버릴 수 있으십니까?",
+    "context": "EN :\nHow much are you ready to sacrifice for victory, Executive Manager? How much of yourself are you willing to let go if it means you can win…?\nJP :\n管理人様は勝利のため、どの程度まで差し出すことができますか。どこまで…自らを手放すことができますか？"
+  },
+  {
+    "key": "smalltalk_11101_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11101_3-dlg",
+    "original": "전장에 직접 서보지도 않은 애송이들 따위랑 임무를 수행해야 하다니… 아 물론 관리자님을 두고 말한 건 아닙니다.",
+    "context": "EN :\nThe absurdity of having to carry out missions with rookies who haven’t even set foot on a real battlefield… Ah, I am most definitely not referring to you, Executive Manager.\nJP :\n戦場に立ったことすらない若輩者たちなどと、任務を遂行しなければならないとは…。あぁ、もちろん管理人様に対して言ったわけではございません。"
+  },
+  {
+    "key": "neglect_11101_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11101_1-dlg",
+    "original": "관리자님? 전투 능력도 변변찮으신데 혼자 다니는 건 위험합니다!",
+    "context": "EN :\nExecutive Manager? It’s dangerous to go out alone, especially for someone who is as incapable of combat as you are!\nJP :\n管理人様？戦闘能力もお粗末ですのに、一人で歩き回るのは危険です！"
+  },
+  {
+    "key": "formation_11101_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11101_1-dlg",
+    "original": "즉시 출격하겠습니다.",
+    "context": "EN :\nI will make a sortie right away.\nJP :\n即時出撃いたします。"
+  },
+  {
+    "key": "battleentry_11101_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11101_1-dlg",
+    "original": "이 오티스. 참전합니다.",
+    "context": "EN :\nOutis, joining the battle.\nJP :\nこのウーティス、参戦いたします。"
+  },
+  {
+    "key": "battle_select_11101_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11101_1-dlg",
+    "original": "볼 일이 있나요? 관리자님.",
+    "context": "EN :\nDo you have any business with me, Executive Manager?\nJP :\n用でもあるのですか？管理人様。"
+  },
+  {
+    "key": "battle_endcommand_11101_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11101_1-dlg",
+    "original": "명령대로 하겠습니다.",
+    "context": "EN :\nAs you order.\nJP :\nご命令通りに。"
+  },
+  {
+    "key": "battle_enemy_break_11101_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11101_1-dlg",
+    "original": "순조로운 전략입니다.",
+    "context": "EN :\nThe plan is going smoothly.\nJP :\n戦略は順調です。"
+  },
+  {
+    "key": "battle_break_11101_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11101_1-dlg",
+    "original": "윽!",
+    "context": "EN :\nUgh!\nJP :\nうっ！"
+  },
+  {
+    "key": "battle_kill_11101_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11101_1-dlg",
+    "original": "좋은 전략입니다.",
+    "context": "EN :\nA sound strategy.\nJP :\n良い戦略です。"
+  },
+  {
+    "key": "battle_allydead_11101_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_11101_1-dlg",
+    "original": "이래서 애송이들이란.",
+    "context": "EN :\nRookies.\nJP :\nこれだから若輩者は。"
+  },
+  {
+    "key": "choice_success_p_11101_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11101_1-dlg",
+    "original": "훌륭한 작전 덕분에 승리했을 뿐입니다.",
+    "context": "EN :\nThis victory can only be attributed to your excellent planning.\nJP :\n素晴らしい作戦のおかげで勝利したまでのことです。"
+  },
+  {
+    "key": "choice_fail_n_11101_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11101_1-dlg",
+    "original": "저의 실책입니다…",
+    "context": "EN :\nThe fault is mine…\nJP :\nわたくしの失策でございます…。"
+  },
+  {
+    "key": "battle_clear_11101_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11101_1-dlg",
+    "original": "여억시! 관리자님이십니다!",
+    "context": "EN :\nSplendid as always, Executive Manager!\nJP :\nさっすが！管理人様でございます！"
+  },
+  {
+    "key": "battle_clear_ex_11101_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11101_1-dlg",
+    "original": "관리자님의 99% 명령과 1%의 제 실력이 합쳐진 결과였습니다!",
+    "context": "EN :\nThis was 99% your brilliant leadership and 1% my competence!\nJP :\n管理人様の99%の命令と、わたくしの1%の実力が合わさった結果でした！"
+  },
+  {
+    "key": "battle_defeat_11101_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11101_1-dlg",
+    "original": "뭐가 됐던 관리자님이나 제 책임은 아닙니다.",
+    "context": "EN :\nIn any case, it’s neither of our faults, Executive Manager.\nJP :\n何はともあれ、管理人様やわたくしの責任ではありません。"
+  }
+]

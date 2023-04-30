@@ -1,0 +1,113 @@
+[
+  {
+    "key": "0-place",
+    "original": "카지노 3F",
+    "context": "EN :\nCasino 3F\nJP :\nカジノ 3F"
+  },
+  {
+    "key": "0-model",
+    "original": "위협적인철공회조직원",
+    "translation": "盛气凌人的铁工会成员",
+    "context": "EN :\n铁工会\nJP :\nIron1"
+  },
+  {
+    "key": "0-teller",
+    "original": "위협적인 철공회 조직원",
+    "context": "EN :\nThreatening Crewman\nJP :\n威圧的な鉄工会の組織員"
+  },
+  {
+    "key": "0-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "0-content",
+    "original": "이건 또 뭐다냐?",
+    "context": "EN :\nWhat d’we have ‘ere?\nJP :\nなんだこいつら…？"
+  },
+  {
+    "key": "1-model",
+    "original": "몸푸는철공회조직원",
+    "translation": "正在热身的铁工会成员",
+    "context": "EN :\n铁工会\nJP :\nIron2"
+  },
+  {
+    "key": "1-teller",
+    "original": "몸 푸는 철공회 조직원",
+    "context": "EN :\nFlexing Crewman\nJP :\n身体を解す鉄工会の組織員"
+  },
+  {
+    "key": "1-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "1-content",
+    "original": "느이, 여기가 어딘 줄 알고 기어 올라왔냐?",
+    "context": "EN :\nD’you fellers have any idea what you’ve just walked into?\nJP :\nおめぇら、ここがどこだと思って登ってきた？"
+  },
+  {
+    "key": "2-model",
+    "original": "위협적인철공회조직원",
+    "translation": "盛气凌人的铁工会成员",
+    "context": "EN :\n铁工会\nJP :\nIron1"
+  },
+  {
+    "key": "2-teller",
+    "original": "위협적인 철공회 조직원",
+    "context": "EN :\nThreatening Crewman\nJP :\n威圧的な鉄工会の組織員"
+  },
+  {
+    "key": "2-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "2-content",
+    "original": "함부로 껄떡거리다간 몸을 아크로바틱 하게 비틀어줄 것이여.",
+    "context": "EN :\nTry mucking about and we’ll make the most acrobatic poses known to man outta you.\nJP :\nちょっかい出すってんなら、身体をアクロバティックにひねってやるかんな。"
+  },
+  {
+    "key": "3-model",
+    "original": "몸푸는철공회조직원",
+    "translation": "正在热身的铁工会成员",
+    "context": "EN :\n铁工会\nJP :\nIron2"
+  },
+  {
+    "key": "3-teller",
+    "original": "몸 푸는 철공회 조직원",
+    "context": "EN :\nFlexing Crewman\nJP :\n身体を解す鉄工会の組織員"
+  },
+  {
+    "key": "3-title",
+    "original": "철공회",
+    "context": "EN :\nTieqiu Crew\nJP :\n鉄工会"
+  },
+  {
+    "key": "3-content",
+    "original": "그런 다음엔 손가락 마디마디마다 조각내서 마작 패로 써주지.",
+    "context": "EN :\nThen we’ll lop off your digits joint by joint and make purdy mahjong tiles with ‘em.\nJP :\nそしたら指を関節ごとに切り刻んで麻雀牌に使ってやる。"
+  },
+  {
+    "key": "4-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "4-content",
+    "original": "어휴… 환영 인사가 참 살벌하네요.",
+    "context": "EN :\nSheesh… Some warm welcome that was.\nJP :\nふぅ…歓迎の挨拶がかなり殺伐としてますね。"
+  },
+  {
+    "key": "5-model",
+    "original": "히스클리프",
+    "translation": "希斯克利夫",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "5-content",
+    "original": "후, 내가 이런 인사를 마다하는 성미는 아니라서. 야! 조져!",
+    "context": "EN :\nFeh, I’m not one to let introductions like that go unanswered. Oi! Dust up!\nJP :\nふぅ、オレはこういう挨拶を断るたちじゃないからな。おい！くたばれ！"
+  }
+]

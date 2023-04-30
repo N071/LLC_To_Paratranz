@@ -1,0 +1,577 @@
+[
+  {
+    "key": "1001-name",
+    "original": "신도의 가면",
+    "context": "EN :\nMask of a Devotee\nJP :\n信徒の仮面"
+  },
+  {
+    "key": "1001-desc",
+    "original": "모든 아군의 방어 레벨 +5",
+    "context": "EN :\nAll allies gain +5 Defense Level.\nJP :\n全味方の防御レベル+5"
+  },
+  {
+    "key": "1001-simpleDesc",
+    "original": "[{\"abilityID\":1001,\"simpleDesc\":\"방어 레벨 +5\"}]",
+    "context": "EN :\n[{\"abilityID\":1001,\"simpleDesc\":\"Defense Level +5\"}]\nJP :\n[{\"abilityID\":1001,\"simpleDesc\":\"防御レベル +5\"}]"
+  },
+  {
+    "key": "1002-name",
+    "original": "허름한 붕대",
+    "context": "EN :\nShoddy Dressing\nJP :\nくたびれた包帯"
+  },
+  {
+    "key": "1002-desc",
+    "original": "모든 아군 최대 체력 +10%",
+    "context": "EN :\nAll allies gain +10% Max HP.\nJP :\n全味方の最大体力+10%"
+  },
+  {
+    "key": "1002-simpleDesc",
+    "original": "[{\"abilityID\":1002,\"simpleDesc\":\"최대 체력 +10%\"}]",
+    "context": "EN :\n[{\"abilityID\":1002,\"simpleDesc\":\"Max HP +10%\"}]\nJP :\n[{\"abilityID\":1002,\"simpleDesc\":\"最大体力+10%\"}]"
+  },
+  {
+    "key": "1003-name",
+    "original": "짓물린 파편",
+    "context": "EN :\nFestered Fragment\nJP :\n爛れた破片"
+  },
+  {
+    "key": "1003-desc",
+    "original": "턴 시작 시 체력이 50% 미만인 아군의 체력 5 회복",
+    "context": "EN :\nAt the start of the turn, allies with 50% or less health heal 5 HP.\nJP :\nターン開始時、体力が50%未満の味方の体力を5回復"
+  },
+  {
+    "key": "1003-simpleDesc",
+    "original": "[{\"abilityID\":1003,\"simpleDesc\":\"체력 50%미만 아군 체력 5 회복\"}]",
+    "context": "EN :\n[{\"abilityID\":1003,\"simpleDesc\":\"Allies at <50% health heal 5 HP\"}]\nJP :\n[{\"abilityID\":1003,\"simpleDesc\":\"体力が50%未満の味方の体力を5回復\"}]"
+  },
+  {
+    "key": "1004-name",
+    "original": "피 묻은 신도의 가면",
+    "context": "EN :\nBloodied Mask of a Devotee\nJP :\n血の付いた信徒の仮面"
+  },
+  {
+    "key": "1004-desc",
+    "original": "모든 아군의 공격 레벨+5, 방어 레벨+5",
+    "context": "EN :\nAll allies gain +5 Offense Level and +5 Defense Level.\nJP :\n全味方の攻撃レベル+5、防御レベル+5"
+  },
+  {
+    "key": "1004-simpleDesc",
+    "original": "[{\"abilityID\":1004,\"simpleDesc\":\"공격 레벨 +5, 방어 레벨 +5\"}]",
+    "context": "EN :\n[{\"abilityID\":1004,\"simpleDesc\":\"Offense & Defense Levels +5\"}]\nJP :\n[{\"abilityID\":1004,\"simpleDesc\":\"攻撃レベル+5、防御レベル+5\"}]"
+  },
+  {
+    "key": "1005-name",
+    "original": "흑단 브로치",
+    "context": "EN :\nEbony Brooch\nJP :\n黒檀のブローチ"
+  },
+  {
+    "key": "1005-desc",
+    "original": "매 전투에서 3턴동안 모든 적에게 속박 2 부여",
+    "context": "EN :\nFor the first 3 turns of battle, inflict 2 Bind on all enemies.\nJP :\n戦闘に突入する度、3ターンの間全ての敵に束縛 2を与える"
+  },
+  {
+    "key": "1005-simpleDesc",
+    "original": "[{\"abilityID\":1005,\"simpleDesc\":\"속박 2 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":1005,\"simpleDesc\":\"Inflict 2 Bind\"}]\nJP :\n[{\"abilityID\":1005,\"simpleDesc\":\"束縛 2を付与\"}]"
+  },
+  {
+    "key": "1006-name",
+    "original": "종말의 부조",
+    "context": "EN :\nEtched Doomsday\nJP :\n終末のレリーフ"
+  },
+  {
+    "key": "1006-desc",
+    "original": "매 전투의 첫 턴마다 모든 적에게 화상 1(5회 발동) 부여",
+    "context": "EN :\nOn the first turn of battle, inflict 1 Burn on all enemies 5 times.\nJP :\n戦闘に突入する度、全ての敵に火傷 1を付与(5回発動)"
+  },
+  {
+    "key": "1006-simpleDesc",
+    "original": "[{\"abilityID\":1006,\"simpleDesc\":\"화상 1 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":1006,\"simpleDesc\":\"Inflict 1 Burn\"}]\nJP :\n[{\"abilityID\":1006,\"simpleDesc\":\"火傷 1を付与\"}]"
+  },
+  {
+    "key": "1011-name",
+    "original": "장난감 주먹",
+    "context": "EN :\nToy Fist\nJP :\nおもちゃの拳\n"
+  },
+  {
+    "key": "1011-desc",
+    "original": "모든 아군의 가하는 피해량 +10%",
+    "context": "EN :\nAll allies deal +10% damage.\nJP :\n全味方の与ダメージ量+10%"
+  },
+  {
+    "key": "1011-simpleDesc",
+    "original": "[{\"abilityID\":1011,\"simpleDesc\":\"가하는 피해량 +10%\"}]",
+    "context": "EN :\n[{\"abilityID\":1011,\"simpleDesc\":\"Damage +10%\"}]\nJP :\n[{\"abilityID\":1011,\"simpleDesc\":\"与ダメージ量+10%\"}]"
+  },
+  {
+    "key": "1012-name",
+    "original": "장난감 발",
+    "context": "EN :\nToy Foot\nJP :\nおもちゃの足"
+  },
+  {
+    "key": "1012-desc",
+    "original": "모든 아군의 속도 +1",
+    "context": "EN :\nAll allies gain +1 Speed.\nJP :\n全味方の速度+1"
+  },
+  {
+    "key": "1012-simpleDesc",
+    "original": "[{\"abilityID\":1012,\"simpleDesc\":\"속도 +1\"}]",
+    "context": "EN :\n[{\"abilityID\":1012,\"simpleDesc\":\"SPD +1\"}]\nJP :\n[{\"abilityID\":1012,\"simpleDesc\":\"速度+1\"}]"
+  },
+  {
+    "key": "1013-name",
+    "original": "장난감 나사",
+    "context": "EN :\nToy Screw\nJP :\nおもちゃのネジ"
+  },
+  {
+    "key": "1013-desc",
+    "original": "모든 아군의 최대 체력 +10%",
+    "context": "EN :\nAll allies gain +10% Max HP.\nJP :\n全味方の最大体力+10%"
+  },
+  {
+    "key": "1013-abnormalityName",
+    "original": "강화 인간",
+    "context": "EN :\nCyborg\nJP :\n強化人間"
+  },
+  {
+    "key": "1013-simpleDesc",
+    "original": "[{\"abilityID\":1013,\"simpleDesc\":\"최대 체력 +10%\"}]",
+    "context": "EN :\n[{\"abilityID\":1013,\"simpleDesc\":\"Max HP +10%\"}]\nJP :\n[{\"abilityID\":1013,\"simpleDesc\":\"最大体力+10%\"}]"
+  },
+  {
+    "key": "1014-name",
+    "original": "무지개 태엽",
+    "context": "EN :\nRainbow Mainspring\nJP :\n虹色のゼンマイ"
+  },
+  {
+    "key": "1014-desc",
+    "original": "매 턴 시작 시 현재 체력이 가장 낮은 아군 1명이 보호 2를 얻음",
+    "context": "EN :\nAt the start of the turn, apply 2 Protection to the ally with the lowest HP.\nJP :\nターンが開始する度、現時点での体力が最も低い味方1名が、保護 2を得る"
+  },
+  {
+    "key": "1014-simpleDesc",
+    "original": "[{\"abilityID\":1014,\"simpleDesc\":\"보호 2 얻음\"}]",
+    "context": "EN :\n[{\"abilityID\":1014,\"simpleDesc\":\"Gain 2 Protection\"}]\nJP :\n[{\"abilityID\":1014,\"simpleDesc\":\"保護 2を得る\"}]"
+  },
+  {
+    "key": "1015-name",
+    "original": "녹슨 태엽",
+    "context": "EN :\nRusty Mainspring\nJP :\n錆び付いたゼンマイ"
+  },
+  {
+    "key": "1015-desc",
+    "original": "매 턴 시작 시 현재 체력이 가장 낮은 아군 1명이 보호 1을 얻음",
+    "context": "EN :\nAt the start of the turn, apply 1 Protection to the ally with the lowest HP.\nJP :\nターンが開始する度、現時点での体力が最も低い味方1名が、保護 1を得る"
+  },
+  {
+    "key": "1015-simpleDesc",
+    "original": "[{\"abilityID\":1015,\"simpleDesc\":\"보호 1 얻음\"}]",
+    "context": "EN :\n[{\"abilityID\":1015,\"simpleDesc\":\"Gain 1 Protection\"}]\nJP :\n[{\"abilityID\":1015,\"simpleDesc\":\"保護 1を得る\"}]"
+  },
+  {
+    "key": "1016-name",
+    "original": "긴급 시술 장치",
+    "context": "EN :\nEmergency Surgical Kit\nJP :\n緊急施術 装置"
+  },
+  {
+    "key": "1016-desc",
+    "original": "전투에서 체력이 0이 되는 피해를 입을 때, 체력이 1 미만으로 감소하지 않음\n다음 턴에 체력을 최대로 회복하고, 시술 3을 얻음\n전투 종료 시 체력이 남아있어도 사망함.(던전 내 1회 발동 후 소멸)",
+    "context": "EN :\nDuring battle, if an ally takes lethal damage, their HP won’t go below 1.\nOn the next turn, fully heal their HP and gain 3 Surgery.\nThey will die at the end of the battle.\n(Activates once per dungeon, then the Gift expires.)\nJP :\n戦闘にて体力が0になるダメージを受けた場合、体力が1未満に減少しない。\n次のターンで体力を最大に回復し、施術 3を得る。\n戦闘終了後、体力が残っていても死亡する。(ダンジョン内で1回のみ発動)"
+  },
+  {
+    "key": "1016-simpleDesc",
+    "original": "[{\"abilityID\":1016,\"simpleDesc\":\"체력 전부 회복\"},{\"abilityID\":10161,\"simpleDesc\":\"시술 3 얻음\"}]",
+    "context": "EN :\n[{\"abilityID\":1016,\"simpleDesc\":\"Fully heal HP\"},{\"abilityID\":10161,\"simpleDesc\":\"Gain 3 Surgery\"}]\nJP :\n[{\"abilityID\":1016,\"simpleDesc\":\"体力を全快\"},{\"abilityID\":10161,\"simpleDesc\":\"施術 3を得る\"}]"
+  },
+  {
+    "key": "1018-name",
+    "original": "꿈틀거리는 리본",
+    "context": "EN :\nWrithing Ribbon\nJP :\n蠢くリボン"
+  },
+  {
+    "key": "1018-desc",
+    "original": "색욕 속성 스킬로 합 승리 시 다음 턴에 속박, 취약 1 부여",
+    "context": "EN :\nAfter winning a Clash using a Lust skill, inflict 1 Bind and 1 Fragile next turn.\nJP :\n色欲属性スキルでマッチ勝利時、次のターンに束縛・脆弱 1を付与"
+  },
+  {
+    "key": "1018-simpleDesc",
+    "original": "[{\"abilityID\":1018,\"simpleDesc\":\"속박 1 부여\"},{\"abilityID\":10181,\"simpleDesc\":\"취약 1 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":1018,\"simpleDesc\":\"Inflict 1 Bind\"},{\"abilityID\":10181,\"simpleDesc\":\"Inflict 1 Fragile\"}]\nJP :\n[{\"abilityID\":1018,\"simpleDesc\":\"束縛 1を付与\"},{\"abilityID\":10181,\"simpleDesc\":\"脆弱 1を付与\"}]"
+  },
+  {
+    "key": "1021-name",
+    "original": "어느 표지",
+    "context": "EN :\nA Sign\nJP :\nとある印"
+  },
+  {
+    "key": "1021-desc",
+    "original": "크로머에 맞서고자 하는 싱클레어의 마음. 획이 3번 그어지면...",
+    "context": "EN :\nSinclair’s determination to stand up to Kromer. After three strokes have been drawn…\nJP :\nクローマーに立ち向かおうとするシンクレアの心。線が3回引かれると…。"
+  },
+  {
+    "key": "1021-simpleDesc",
+    "original": "[{\"abilityID\":1021,\"simpleDesc\":\"싱클레어의 마음\"}]",
+    "context": "EN :\n[{\"abilityID\":1021,\"simpleDesc\":\"Sinclair’s Will\"}]\nJP :\n[{\"abilityID\":1021,\"simpleDesc\":\"シンクレアの心\"}]"
+  },
+  {
+    "key": "1022-name",
+    "original": "어느 표지",
+    "context": "EN :\nA Sign\nJP :\nとある印"
+  },
+  {
+    "key": "1022-desc",
+    "original": "크로머에 맞서고자 하는 싱클레어의 마음. 획이 3번 그어지면...",
+    "context": "EN :\nSinclair’s determination to stand up to Kromer. After three strokes have been drawn…\nJP :\nクローマーに立ち向かおうとするシンクレアの心。線が3回引かれると…。"
+  },
+  {
+    "key": "1022-simpleDesc",
+    "original": "[{\"abilityID\":1022,\"simpleDesc\":\"싱클레어의 마음\"}]",
+    "context": "EN :\n[{\"abilityID\":1022,\"simpleDesc\":\"Sinclair’s Will\"}]\nJP :\n[{\"abilityID\":1022,\"simpleDesc\":\"シンクレアの心\"}]"
+  },
+  {
+    "key": "1023-name",
+    "original": "어느 표지",
+    "context": "EN :\nA Sign\nJP :\nとある印"
+  },
+  {
+    "key": "1023-desc",
+    "original": "크로머에 맞서고자 하는 싱클레어의 마음. 획이 3번 그어지면...",
+    "context": "EN :\nSinclair’s determination to stand up to Kromer. After three strokes have been drawn…\nJP :\nクローマーに立ち向かおうとするシンクレアの心。線が3回引かれると…。"
+  },
+  {
+    "key": "1023-simpleDesc",
+    "original": "[{\"abilityID\":1023,\"simpleDesc\":\"싱클레어의 마음\"}]",
+    "context": "EN :\n[{\"abilityID\":1023,\"simpleDesc\":\"Sinclair’s Will\"}]\nJP :\n[{\"abilityID\":1023,\"simpleDesc\":\"シンクレアの心\"}]"
+  },
+  {
+    "key": "1024-name",
+    "original": "어느 표지",
+    "context": "EN :\nA Sign\nJP :\nとある印"
+  },
+  {
+    "key": "1024-desc",
+    "original": "크로머에 맞서고자 하는 싱클레어의 마음. 획이 3번 그어지면...",
+    "context": "EN :\nSinclair’s determination to stand up to Kromer. After three strokes have been drawn…\nJP :\nクローマーに立ち向かおうとするシンクレアの心。線が3回引かれると…。"
+  },
+  {
+    "key": "1024-simpleDesc",
+    "original": "[{\"abilityID\":1024,\"simpleDesc\":\"싱클레어의 마음\"}]",
+    "context": "EN :\n[{\"abilityID\":1024,\"simpleDesc\":\"Sinclair’s Will\"}]\nJP :\n[{\"abilityID\":1024,\"simpleDesc\":\"シンクレアの心\"}]"
+  },
+  {
+    "key": "1032-name",
+    "original": "횃불 더미",
+    "context": "EN :\nTorch Stack\nJP :\n松明の山"
+  },
+  {
+    "key": "1032-desc",
+    "original": "다음 3번의 전투 동안 신속 3을 얻은 상태로 전투 시작.\n전투 3회 종료 후 소멸",
+    "context": "EN :\nStart the next 3 battles with 3 Haste.\nExpires afterward.\nJP :\n戦闘に入る度、クイック 3を得る。\n計3回戦闘を行うと消滅"
+  },
+  {
+    "key": "1032-simpleDesc",
+    "original": "[{\"abilityID\":1032,\"simpleDesc\":\"신속 3 얻음\"}]",
+    "context": "EN :\n[{\"abilityID\":1032,\"simpleDesc\":\"Gain 3 Haste\"}]\nJP :\n[{\"abilityID\":1032,\"simpleDesc\":\"クイック 3を得る\"}]"
+  },
+  {
+    "key": "1033-name",
+    "original": "옛 창고의 열쇠",
+    "context": "EN :\nOld Warehouse’s Key\nJP :\n古い倉庫の鍵"
+  },
+  {
+    "key": "1033-desc",
+    "original": "특정 선택지에서 사용 가능. 사용 시 소멸.",
+    "context": "EN :\nUsed in certain events. Expires on use.\nJP :\n特定の選択肢にて使用可能。使用時消滅。"
+  },
+  {
+    "key": "1033-simpleDesc",
+    "original": "[{\"abilityID\":1033,\"simpleDesc\":\"선택지에 사용\"}]",
+    "context": "EN :\n[{\"abilityID\":1033,\"simpleDesc\":\"Used in events\"}]\nJP :\n[{\"abilityID\":1033,\"simpleDesc\":\"選択肢にて使用\"}]"
+  },
+  {
+    "key": "1034-name",
+    "original": "핏빛 갈기",
+    "context": "EN :\nBlood-red Mane\nJP :\n血紅色のたてがみ"
+  },
+  {
+    "key": "1034-desc",
+    "original": "색욕 속성 스킬을 가진 수감자에게만 적용\n이전 턴에 공격으로 피해를 받지 않았으면, 신속 2, 수비 위력 증가 2를 얻음\n이전 턴에 공격으로 피해를 받았으면, 속박 2, 공격 위력 증가 2를 얻음",
+    "context": "EN :\nAt the start of the turn, allies with Lust skills have the following:\nIf the unit took no damage from attacks last turn, apply 2 Haste and Defense Power Up.\nIf the unit took damage from attacks last turn, apply 2 Bind and Attack Power Up.\nJP :\n色欲属性スキルを持つ囚人にのみ適用\n前回のターンに被弾しなかった場合、クイック 2、守備威力増加 2を得る\n被弾した場合は束縛 2、攻撃威力増加 2を得る"
+  },
+  {
+    "key": "1034-simpleDesc",
+    "original": "[{\"abilityID\":1034,\"simpleDesc\":\"신속 2, 수비 위력 증가 2 얻음\"},{\"abilityID\":10341,\"simpleDesc\":\"속박 2, 공격 위력 증가 2 얻음\"}]",
+    "context": "EN :\n[{\"abilityID\":1034,\"simpleDesc\":\"Gain 2 Haste and Defense Power Up\"},{\"abilityID\":10341,\"simpleDesc\":\"Gain 2 Bind and Attack Power Up\"}]\nJP :\n[{\"abilityID\":1034,\"simpleDesc\":\"クイック 2、守備威力増加 2を得る\"},{\"abilityID\":10341,\"simpleDesc\":\"束縛 2、攻撃威力増加 2を得る\"}]"
+  },
+  {
+    "key": "1037-name",
+    "original": "N사의 인장",
+    "context": "EN :\nN Corp. Seal\nJP :\nN社の印章"
+  },
+  {
+    "key": "1037-desc",
+    "original": "특정 선택지에서 사용 가능. 사용 시 소멸",
+    "context": "EN :\nUsed in certain events. Expires on use\nJP :\n特定の選択肢にて使用可能。使用時消滅。"
+  },
+  {
+    "key": "1037-simpleDesc",
+    "original": "[{\"abilityID\":1037,\"simpleDesc\":\"선택지에 사용\"}]",
+    "context": "EN :\n[{\"abilityID\":1037,\"simpleDesc\":\"Used in events\"}]\nJP :\n[{\"abilityID\":1037,\"simpleDesc\":\"選択肢にて使用\"}]"
+  },
+  {
+    "key": "1038-name",
+    "original": "순수함의 증표",
+    "context": "EN :\nToken of Innocence\nJP :\n純粋さの証"
+  },
+  {
+    "key": "1038-desc",
+    "original": "해당 의식을 진행한 인격의 분노 속성 스킬 위력 +2",
+    "context": "EN :\nFor the Identity that undertook the rite: Boost the Power of Wrath skills by 2.\nJP :\n該当する儀式を行った人格の憤怒属性スキルの威力+2"
+  },
+  {
+    "key": "1038-simpleDesc",
+    "original": "[{\"abilityID\":1038,\"simpleDesc\":\"분노 속성 스킬 위력 +2\"}]",
+    "context": "EN :\n[{\"abilityID\":1038,\"simpleDesc\":\"Wrath Skill Power +2\"}]\nJP :\n[{\"abilityID\":1038,\"simpleDesc\":\"憤怒属性スキル威力+2\"}]"
+  },
+  {
+    "key": "1039-name",
+    "original": "눈물의 증표",
+    "context": "EN :\nToken of Tears\nJP :\n涙の証"
+  },
+  {
+    "key": "1039-desc",
+    "original": "해당 의식을 진행한 인격의 우울 속성 스킬 위력 +2",
+    "context": "EN :\nFor the Identity that undertook the rite: Boost the Power of Gloom skills by 2.\nJP :\n該当する儀式を行った人格の憂鬱属性スキルの威力+2"
+  },
+  {
+    "key": "1039-simpleDesc",
+    "original": "[{\"abilityID\":1039,\"simpleDesc\":\"우울 속성 스킬 위력 +2\"}]",
+    "context": "EN :\n[{\"abilityID\":1039,\"simpleDesc\":\"Gloom Skill Power +2\"}]\nJP :\n[{\"abilityID\":1039,\"simpleDesc\":\"憂鬱属性スキル威力+2\"}]"
+  },
+  {
+    "key": "1040-name",
+    "original": "빛나는 두개골",
+    "context": "EN :\nSparkling Skull\nJP :\n光る頭蓋骨"
+  },
+  {
+    "key": "1040-desc",
+    "original": "이전 턴에 피해를 10 이상 받았으면, 턴 시작 시 체력 5-15 회복",
+    "context": "EN :\nAt the start of the turn, if the character took 10+ damage last turn, heal 5-15 HP.\nJP :\n前回のターンにてダメージを10以上受けた場合、ターン開始時に体力を5-15回復"
+  },
+  {
+    "key": "1040-simpleDesc",
+    "original": "[{\"abilityID\":1040,\"simpleDesc\":\"체력 5 - 15 회복\"}]",
+    "context": "EN :\n[{\"abilityID\":1040,\"simpleDesc\":\"Heal 5-15 HP\"}]\nJP :\n[{\"abilityID\":1040,\"simpleDesc\":\"体力を5-15回復\"}]"
+  },
+  {
+    "key": "1041-name",
+    "original": "피 흘리는 손",
+    "context": "EN :\nHemorrhagic Hand\nJP :\n血を流す手"
+  },
+  {
+    "key": "1041-desc",
+    "original": "턴 시작 시 체력이 25% 미만이 공격 위력 증가 2 얻음",
+    "context": "EN :\nAt the start of the turn, apply 2 Attack Power Up to allies at 25% or lower health.\nJP :\nターン開始時、体力が25%未満なら攻撃威力増加 2を得る"
+  },
+  {
+    "key": "1041-simpleDesc",
+    "original": "[{\"abilityID\":1041,\"simpleDesc\":\"공격 위력 증가 2 얻음\"}]",
+    "context": "EN :\n[{\"abilityID\":1041,\"simpleDesc\":\"Gain 2 Attack Power Up\"}]\nJP :\n[{\"abilityID\":1041,\"simpleDesc\":\"攻撃威力増加 2を得る\"}]"
+  },
+  {
+    "key": "1042-name",
+    "original": "조롱하는 혓바닥",
+    "context": "EN :\nSniggering Tongue\nJP :\n嘲弄する舌"
+  },
+  {
+    "key": "1042-desc",
+    "original": "합 승리 시 가하는 피해량 +10%",
+    "context": "EN :\nDeal +10% damage in a won clash.\nJP :\nマッチ終了時の与ダメージ量+10%"
+  },
+  {
+    "key": "1042-simpleDesc",
+    "original": "[{\"abilityID\":1042,\"simpleDesc\":\"가하는 피해량 +10%\"}]",
+    "context": "EN :\n[{\"abilityID\":1042,\"simpleDesc\":\"Damage +10%\"}]\nJP :\n[{\"abilityID\":1042,\"simpleDesc\":\"与ダメージ量+10%\"}]"
+  },
+  {
+    "key": "1043-name",
+    "original": "속죄의 증표",
+    "context": "EN :\nToken of Atonement\nJP :\n贖罪の証"
+  },
+  {
+    "key": "1043-desc",
+    "original": "해당 의식을 진행한 인격의 색욕 속성 스킬 위력 +2",
+    "context": "EN :\nFor the Identity that undertook the rite: Boost the Power of Lust skills by 2.\nJP :\n該当する儀式を行った人格の色欲属性スキルの威力+2"
+  },
+  {
+    "key": "1043-simpleDesc",
+    "original": "[{\"abilityID\":1043,\"simpleDesc\":\"색욕 속성 스킬 위력 +2\"}]",
+    "context": "EN :\n[{\"abilityID\":1043,\"simpleDesc\":\"Lust Skill Power +2\"}]\nJP :\n[{\"abilityID\":1043,\"simpleDesc\":\"色欲属性スキル威力+2\"}]"
+  },
+  {
+    "key": "1044-name",
+    "original": "의식의 자격",
+    "context": "EN :\nRitualist’s Right\nJP :\n儀式の資格"
+  },
+  {
+    "key": "1044-desc",
+    "original": "모든 아군이 색욕 속성으로 받는 피해량 20% 감소",
+    "context": "EN :\nAll allies take -20% damage from Lust attacks.\nJP :\n全味方の色欲属性被ダメージ量が20%減少"
+  },
+  {
+    "key": "1044-simpleDesc",
+    "original": "[{\"abilityID\":1044,\"simpleDesc\":\"받는 피해량 -20%\"}]",
+    "context": "EN :\n[{\"abilityID\":1044,\"simpleDesc\":\"Damage Taken -20%\"}]\nJP :\n[{\"abilityID\":1044,\"simpleDesc\":\"被ダメージ量-20%\"}]"
+  },
+  {
+    "key": "1046-name",
+    "original": "초록빛 허물",
+    "context": "EN :\nGreen Skin\nJP :\n緑の抜け殻"
+  },
+  {
+    "key": "1046-desc",
+    "original": "피격 시 아군 1명의 체력이 1 미만이 될 때, 해당 캐릭터가 체력을 최대 체력의 50%만큼 회복함\n(던전 내 1회 발동 후 소멸)",
+    "context": "EN :\nIf an ally takes a lethal attack, they heal 50% of their Max HP.\n(Once per dungeon and expires after activation.)\nJP :\n味方が被弾して体力が1未満になった場合、該当するキャラクターが体力を最大値の50%回復\n(ダンジョン内で1回のみ発動/発動後に消滅)"
+  },
+  {
+    "key": "1046-simpleDesc",
+    "original": "[{\"abilityID\":1046,\"simpleDesc\":\"최대 체력의 50%만큼 회복\"}]",
+    "context": "EN :\n[{\"abilityID\":1046,\"simpleDesc\":\"Heal 50% of Max HP\"}]\nJP :\n[{\"abilityID\":1046,\"simpleDesc\":\"体力を最大値の50%回復\"}]"
+  },
+  {
+    "key": "1048-name",
+    "original": "투구",
+    "context": "EN :\nTopfhelm\nJP :\n兜"
+  },
+  {
+    "key": "1048-desc",
+    "original": "수비 스킬의 위력 +1",
+    "context": "EN :\nDefense Skill Power +1\nJP :\n守備スキル威力+1"
+  },
+  {
+    "key": "1048-simpleDesc",
+    "original": "[{\"abilityID\":1048,\"simpleDesc\":\"수비 스킬 위력 +1\"}]",
+    "context": "EN :\n[{\"abilityID\":1048,\"simpleDesc\":\"Defense Skill Power +1\"}]\nJP :\n[{\"abilityID\":1048,\"simpleDesc\":\"守備スキル威力+1\"}]"
+  },
+  {
+    "key": "1049-name",
+    "original": "망치",
+    "context": "EN :\nHammer\nJP :\n金鎚"
+  },
+  {
+    "key": "1049-desc",
+    "original": "스킬로 진동 부여 시 50% 확률로 1 추가 부여",
+    "context": "EN :\nWhen inflicting Tremor with skill effects, inflict 1 more at a 50% chance.\nJP :\nスキルで振動 付与時、50%の確率で+1を追加付与"
+  },
+  {
+    "key": "1049-simpleDesc",
+    "original": "[{\"abilityID\":1049,\"simpleDesc\":\"진동 1 추가 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":1049,\"simpleDesc\":\"Inflict 1 additional Tremor\"}]\nJP :\n[{\"abilityID\":1049,\"simpleDesc\":\"振動 1を追加付与\"}]"
+  },
+  {
+    "key": "1050-name",
+    "original": "못",
+    "context": "EN :\nNagel\nJP :\n釘"
+  },
+  {
+    "key": "1050-desc",
+    "original": "스킬로 출혈 부여 시 50% 확률로 1 추가 부여",
+    "context": "EN :\nWhen inflicting Bleed with skill effects, inflict 1 more at a 50% chance.\nJP :\nスキルで出血 付与時、50%の確率で+1を追加付与"
+  },
+  {
+    "key": "1050-simpleDesc",
+    "original": "[{\"abilityID\":1050,\"simpleDesc\":\"출혈 1 추가 부여\"}]",
+    "context": "EN :\n[{\"abilityID\":1050,\"simpleDesc\":\"Inflict 1 additional Bleed\"}]\nJP :\n[{\"abilityID\":1050,\"simpleDesc\":\"出血 1を追加付与\"}]"
+  },
+  {
+    "key": "1051-name",
+    "original": "못과 망치의 책",
+    "context": "EN :\nNagel und Hammer Scriptures\nJP :\n釘と金鎚の本"
+  },
+  {
+    "key": "1051-desc",
+    "original": "오만 속성 스킬 사용 시 정신력 -5, 오만 속성 스킬의 가하는 피해량 +5%",
+    "context": "EN :\nWhen using a Pride skill, lose 5 SP, but boost its damage by 5%\nJP :\n傲慢属性スキルを使用時、精神力-5。傲慢属性スキルによる与ダメージ量+5%"
+  },
+  {
+    "key": "1051-simpleDesc",
+    "original": "[{\"abilityID\":1051,\"simpleDesc\":\"조건 충족한 정신력 -5\"},{\"abilityID\":10511,\"simpleDesc\":\"조건 충족한 가하는 피해량 +5%\"}]",
+    "context": "EN :\n[{\"abilityID\":1051,\"simpleDesc\":\"Pride skills cost 5 SP\"},{\"abilityID\":10511,\"simpleDesc\":\"Pride skill damage +5%\"}]\nJP :\n[{\"abilityID\":1051,\"simpleDesc\":\"条件を満たすと精神力-5\"},{\"abilityID\":10511,\"simpleDesc\":\"条件を満たすと与ダメージ量+5%\"}]"
+  },
+  {
+    "key": "1052-name",
+    "original": "뜨거운 육즙 다리살",
+    "context": "EN :\nHot ‘n Juicy Drumstick\nJP :\n熱い肉汁ドラムスティック"
+  },
+  {
+    "key": "1052-desc",
+    "original": "스킬로 화상 부여 시 화상 횟수 5 증가",
+    "context": "EN :\nWhen inflicting Burn with skill effects, inflict +5 Burn Count.\nJP :\nスキルで火傷 付与時、火傷 回数が5増加"
+  },
+  {
+    "key": "1052-simpleDesc",
+    "original": "[{\"abilityID\":1052,\"simpleDesc\":\"\"}]",
+    "context": "EN :\n[{\"abilityID\":1052,\"simpleDesc\":\"\"}]\nJP :\n[{\"abilityID\":1052,\"simpleDesc\":\"\"}]"
+  },
+  {
+    "key": "1053-name",
+    "original": "목이 뻑뻑 가슴살",
+    "context": "EN :\nDry-to-the-Bone Breast\nJP :\n喉がパサパサ胸肉"
+  },
+  {
+    "key": "1053-desc",
+    "original": "스킬로 파열 부여 시 파열 횟수 5 증가",
+    "context": "EN :\nWhen inflicting Rupture with skill effects, inflict +5 Rupture Count.\nJP :\nスキルで破裂 付与時、破裂 回数が5増加"
+  },
+  {
+    "key": "1053-simpleDesc",
+    "original": "[{\"abilityID\":1053,\"simpleDesc\":\"\"}]",
+    "context": "EN :\n[{\"abilityID\":1053,\"simpleDesc\":\"\"}]\nJP :\n[{\"abilityID\":1053,\"simpleDesc\":\"\"}]"
+  },
+  {
+    "key": "1054-name",
+    "original": "탱고 닭양념장",
+    "context": "EN :\nTango Marinade\nJP :\nタンゴチキンのタレ"
+  },
+  {
+    "key": "1054-desc",
+    "original": "대상보다 속도가 높다면, 합 위력 (속도 / 2)만큼 추가",
+    "context": "EN :\nAllies gain Clash Power by half their Speed against opponents with lower Speed.\nJP :\n対象より速度が高ければ、マッチ威力が(速度÷2)だけ増加"
+  },
+  {
+    "key": "1054-simpleDesc",
+    "original": "[{\"abilityID\":1054,\"simpleDesc\":\"\"}]",
+    "context": "EN :\n[{\"abilityID\":1054,\"simpleDesc\":\"\"}]\nJP :\n[{\"abilityID\":1054,\"simpleDesc\":\"\"}]"
+  },
+  {
+    "key": "1055-name",
+    "original": "오염된 실과 바늘",
+    "context": "EN :\nContaminated Needle & Thread\nJP :\n汚染された糸と針"
+  },
+  {
+    "key": "1055-desc",
+    "original": "매 턴마다 처음으로 적에게 피해를 입힌 스킬의 (피해량 / 3)만큼 출혈을 부여.",
+    "context": "EN :\nEach turn, the first skill to deal damage to an enemy inflicts Bleed by 1/3 of the damage dealt.\nJP :\n毎ターン、最初に敵へダメージを与えたスキルの(ダメージ量÷3)だけ出血 を付与"
+  },
+  {
+    "key": "1055-simpleDesc",
+    "original": "[{\"abilityID\":1055,\"simpleDesc\":\"\"}]",
+    "context": "EN :\n[{\"abilityID\":1055,\"simpleDesc\":\"\"}]\nJP :\n[{\"abilityID\":1055,\"simpleDesc\":\"\"}]"
+  },
+  {
+    "key": "1056-name",
+    "original": "날카로운 실과 바늘",
+    "context": "EN :\nSharp Needle & Thread\nJP :\n鋭い糸と針"
+  },
+  {
+    "key": "1056-desc",
+    "original": "매 턴마다 처음으로 적에게 피해를 입힌 스킬의 (피해량 / 2)만큼 추가 고정 피해를 입힘.",
+    "context": "EN :\nEach turn, the first skill to deal damage to an enemy deals bonus fixed damage by half of the damage dealt.\nJP :\n毎ターン、最初に敵へダメージを与えたスキルの(ダメージ量÷2)だけ追加で固定ダメージを付与"
+  },
+  {
+    "key": "1056-simpleDesc",
+    "original": "[{\"abilityID\":1056,\"simpleDesc\":\"\"}]",
+    "context": "EN :\n[{\"abilityID\":1056,\"simpleDesc\":\"\"}]\nJP :\n[{\"abilityID\":1056,\"simpleDesc\":\"\"}]"
+  }
+]

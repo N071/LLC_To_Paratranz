@@ -1,0 +1,1487 @@
+[
+  {
+    "key": "AreaAtk-name",
+    "original": "광역 공격",
+    "context": "EN :\nAoE Attack\nJP :\n広域攻撃"
+  },
+  {
+    "key": "AreaAtk-desc",
+    "original": "2명 이상의 적을 공격",
+    "context": "EN :\nTargets 2 or more foes.\nJP :\n2名以上の敵を攻撃"
+  },
+  {
+    "key": "Enhancement-name",
+    "original": "공격 위력 증가",
+    "context": "EN :\nAttack Power Up\nJP :\n攻撃威力増加"
+  },
+  {
+    "key": "Enhancement-desc",
+    "original": "한 턴동안 공격 스킬의 최종 위력이 수치만큼 증가",
+    "context": "EN :\nAttack skills gain final Power by the effect’s Count for one turn.\nJP :\n1ターンの間、攻撃スキルの最終威力が数値だけ増加"
+  },
+  {
+    "key": "Agility-name",
+    "original": "신속",
+    "context": "EN :\nHaste\nJP :\nクイック"
+  },
+  {
+    "key": "Agility-desc",
+    "original": "한 턴 동안 속도가 수치만큼 증가",
+    "context": "EN :\nSpeed increases by the effect’s Count for one turn.\nJP :\n1ターンの間、速度が数値だけ増加"
+  },
+  {
+    "key": "Endurance-name",
+    "original": "수비 위력 증가",
+    "context": "EN :\nDefense Power Up\nJP :\n守備威力増加"
+  },
+  {
+    "key": "Endurance-desc",
+    "original": "한 턴 동안 수비 스킬의 최종 위력이 수치만큼 증가",
+    "context": "EN :\nDefense skills gain final Power by the effect’s Count for one turn.\nJP :\n1ターンの間、守備スキルの最終威力が数値だけ増加"
+  },
+  {
+    "key": "Reduction-name",
+    "original": "공격 위력 감소",
+    "context": "EN :\nAttack Power Down\nJP :\n攻撃威力減少"
+  },
+  {
+    "key": "Reduction-desc",
+    "original": "한 턴 동안 공격 스킬의 최종 위력이 수치만큼 감소",
+    "context": "EN :\nAttack skills lose final Power by the effect’s Count for one turn.\nJP :\n1ターンの間、攻撃スキルの最終威力が数値だけ減少"
+  },
+  {
+    "key": "Binding-name",
+    "original": "속박",
+    "context": "EN :\nBind\nJP :\n束縛"
+  },
+  {
+    "key": "Binding-desc",
+    "original": "한 턴 동안 속도가 수치만큼 감소",
+    "context": "EN :\nSpeed decreases by the effect’s Count for one turn.\nJP :\n1ターンの間、速度が数値だけ減少"
+  },
+  {
+    "key": "Vulnerable-name",
+    "original": "취약",
+    "context": "EN :\nFragile\nJP :\n脆弱"
+  },
+  {
+    "key": "Vulnerable-desc",
+    "original": "한 턴 동안 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "Vulnerable-summary",
+    "original": "받는 피해량 +{0}0",
+    "context": "EN :\n받는 피해량 +{0}0\nJP :\n받는 피해량 +{0}0"
+  },
+  {
+    "key": "Taunt-name",
+    "original": "도발",
+    "context": "EN :\nTaunt\nJP :\n挑発"
+  },
+  {
+    "key": "Taunt-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "Stun-name",
+    "original": "기절",
+    "context": "EN :\nStun\nJP :\n気絶"
+  },
+  {
+    "key": "Stun-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "ElectricShock-name",
+    "original": "감전",
+    "context": "EN :\nShock\nJP :\n感電"
+  },
+  {
+    "key": "ElectricShock-desc",
+    "original": "이번 턴동안 받는 피해가 스택만큼만큼 고정 증가",
+    "context": "EN :\nTake more damage by the effect’s Count.\nJP :\n1ターンの間、被ダメージに数値分の固定ダメージが追加"
+  },
+  {
+    "key": "Burn-name",
+    "original": "화상",
+    "context": "EN :\nBurn\nJP :\n火傷"
+  },
+  {
+    "key": "Burn-desc",
+    "original": "턴 종료 시 스택만큼 고정 피해를 받고 절반 감소",
+    "context": "EN :\nAt the end of the turn, take fixed damage by the effect’s Count, then halve it.\nJP :\nターン終了時、数値分の固定ダメージを受けて数値が半減"
+  },
+  {
+    "key": "Bleeding-name",
+    "original": "출혈",
+    "context": "EN :\nBleed\nJP :\n出血"
+  },
+  {
+    "key": "Bleeding-desc",
+    "original": "공격 시작 시 현재 체력의 (스택)%만큼 고정 피해를 받고 절반 감소",
+    "context": "EN :\nWhen attacking, take fixed damage equal to (Count)% of current HP, then halve it.\nJP :\n攻撃開始時、現体力の(数値)%分の固定ダメージを受けて数値が半減"
+  },
+  {
+    "key": "Target-name",
+    "original": "표적",
+    "context": "EN :\nMarked\nJP :\n標的"
+  },
+  {
+    "key": "Target-desc",
+    "original": "[날카로운 칼] 패시브를 가지고 있는 캐릭터의 공격 대상이 됨",
+    "context": "EN :\nTargeted by the character with the Passive [Sharp Edge].\nJP :\n[鋭い刃]パッシブを持つキャラクターの攻撃対象となる"
+  },
+  {
+    "key": "SelfHarm_LowMorale-name",
+    "original": "자해 (사기 저하)",
+    "context": "EN :\nCompulsion (Low Morale)\nJP :\n自傷(士気低下)"
+  },
+  {
+    "key": "SelfHarm_LowMorale-desc",
+    "original": "턴 시작 시 신속, 취약 2를 얻음",
+    "context": "EN :\nAt the start of the turn, gain 2 Haste and 2 Fragile.\nJP :\nターン開始時にクイック、脆弱2を得る"
+  },
+  {
+    "key": "SelfHarm_Panic-name",
+    "original": "자해 (패닉)",
+    "context": "EN :\nCompulsion (Panic)\nJP :\n自傷(パニック)"
+  },
+  {
+    "key": "SelfHarm_Panic-desc",
+    "original": "턴 시작 시 자신의 체력 -10",
+    "context": "EN :\nAt the start of the turn, lose 10 HP.\nJP :\nターン開始時、自分の体力-10"
+  },
+  {
+    "key": "Blame_LowMorale-name",
+    "original": "비난 (사기 저하)",
+    "context": "EN :\nOutlash (Low Morale)\nJP :\n非難(士気低下)"
+  },
+  {
+    "key": "Blame_LowMorale-desc",
+    "original": "턴 시작 시 공격 위력 증가, 취약 2를 얻음",
+    "context": "EN :\nAt the start of the turn, gain 2 Attack Power Up and 2 Fragile.\nJP :\nターン開始時に攻撃威力増加、脆弱2を得る"
+  },
+  {
+    "key": "Blame_Panic-name",
+    "original": "비난 (패닉)",
+    "context": "EN :\nOutlash (Panic)\nJP :\n非難(パニック)"
+  },
+  {
+    "key": "Blame_Panic-desc",
+    "original": "턴 시작 시 무작위 아군의 정신력 -20",
+    "context": "EN :\nAt the start of the turn, a random ally loses 20 SP.\nJP :\nターン開始時、ランダムな味方の精神力-20"
+  },
+  {
+    "key": "Charge-name",
+    "original": "충전",
+    "context": "EN :\nCharge\nJP :\n充電"
+  },
+  {
+    "key": "Charge-desc",
+    "original": "소모 시 특정 스킬의 능력이 상승함. 최대 20까지 얻을 수 있음. 턴 종료 시 1 감소.",
+    "context": "EN :\nResource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn.\nJP :\n消耗時特定スキルの能力が上昇。最大20まで獲得可能。ターン終了時に1減少。"
+  },
+  {
+    "key": "DamageOverTime-name",
+    "original": "지속 피해",
+    "context": "EN :\nOngoing Damage\nJP :\n持続ダメージ"
+  },
+  {
+    "key": "DamageOverTime-desc",
+    "original": "턴 시작 시 스택만큼 고정 피해를 입음",
+    "context": "EN :\nAt the start of the turn, take fixed damage by the effect’s Count.\nJP :\nターン開始時、数値分の固定ダメージを受ける"
+  },
+  {
+    "key": "ResultEnhancement-name",
+    "original": "공격 위력 증가",
+    "context": "EN :\nAttack Power Up\nJP :\n攻撃威力増加"
+  },
+  {
+    "key": "ResultEnhancement-desc",
+    "original": "한 턴 동안 공격 스킬의 최종 위력이 수치만큼 증가",
+    "context": "EN :\nAttack skills gain final Power by the effect’s Count for one turn.\nJP :\n1ターンの間、攻撃スキルの最終威力が数値だけ増加"
+  },
+  {
+    "key": "ResultEnhancement-summary",
+    "original": "공격 스킬의 최종 위력 +{0}",
+    "context": "EN :\n공격 스킬의 최종 위력 +{0}\nJP :\n공격 스킬의 최종 위력 +{0}"
+  },
+  {
+    "key": "Protection-name",
+    "original": "보호",
+    "context": "EN :\nProtection\nJP :\n保護"
+  },
+  {
+    "key": "Protection-desc",
+    "original": "한 턴 동안 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "Protection-summary",
+    "original": "받는 피해량 -{0}",
+    "context": "EN :\n받는 피해량 -{0}\nJP :\n받는 피해량 -{0}"
+  },
+  {
+    "key": "AttackDmgUp-name",
+    "original": "피해량 증가",
+    "context": "EN :\nDamage Up\nJP :\nダメージ量増加"
+  },
+  {
+    "key": "AttackDmgUp-desc",
+    "original": "한 턴 동안 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "AttackDmgUp-summary",
+    "original": "가하는 피해량 +{0}0%",
+    "context": "EN :\n+{0}0% Damage Dealt\nJP :\n가하는 피해량 +{0}0%"
+  },
+  {
+    "key": "DefenseUp-name",
+    "original": "방어 레벨 증가",
+    "context": "EN :\nDefense Level Up\nJP :\n防御レベル増加"
+  },
+  {
+    "key": "DefenseUp-desc",
+    "original": "한 턴 동안 방어 레벨이 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDefense Level increases based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、防御レベルが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "DefenseUp-summary",
+    "original": "방어 레벨 +{0}0%",
+    "context": "EN :\nDefense Level +{0}0%\nJP :\n防御レベル +{0}0%"
+  },
+  {
+    "key": "PlusCoinValueUp-name",
+    "original": "더하기 코인 강화",
+    "context": "EN :\nPlus Coin Boost\nJP :\n加算コイン強化"
+  },
+  {
+    "key": "PlusCoinValueUp-desc",
+    "original": "더하기 코인 위력이 수치만큼 증가",
+    "context": "EN :\nRaise the Power of Plus Coins by the effect’s Count.\nJP :\n加算コイン威力が数値だけ増加"
+  },
+  {
+    "key": "MinusCoinValueUp-name",
+    "original": "빼기 코인 강화",
+    "context": "EN :\nMinus Coin Boost\nJP :\n減算コイン強化"
+  },
+  {
+    "key": "MinusCoinValueUp-desc",
+    "original": "빼기 코인 위력이 수치만큼 증가",
+    "context": "EN :\nRaise the Power of Minus Coins by the effect’s Count.\nJP :\n減算コイン威力が数値だけ増加"
+  },
+  {
+    "key": "TimesCoinValueUp-name",
+    "original": "곱하기 코인 강화",
+    "context": "EN :\nMultiply Coin Boost\nJP :\n乗算コイン強化"
+  },
+  {
+    "key": "TimesCoinValueUp-desc",
+    "original": "곱하기 코인 위력이 수치만큼 증가",
+    "context": "EN :\nRaise the Power of Multiply Coins by the effect’s Count.\nJP :\n乗算コイン威力が数値だけ増加"
+  },
+  {
+    "key": "Disarming-name",
+    "original": "수비 위력 감소",
+    "context": "EN :\nDefense Power Down\nJP :\n守備威力減少"
+  },
+  {
+    "key": "Disarming-desc",
+    "original": "한 턴 동안 수비 스킬의 최종 위력이 수치만큼 감소",
+    "context": "EN :\nDefense skills lose final Power by the effect’s Count for one turn.\nJP :\n1ターンの間、守備スキルの最終威力が数値だけ減少"
+  },
+  {
+    "key": "ResultReduction-name",
+    "original": "위력 감소",
+    "context": "EN :\nPower Down\nJP :\n威力減少"
+  },
+  {
+    "key": "ResultReduction-desc",
+    "original": "한 턴 동안 스킬의 최종 위력이 수치만큼 감소",
+    "context": "EN :\nAll skills lose final Power by the effect’s Count for one turn.\nJP :\n1ターンの間、スキルの最終威力が数値だけ減少"
+  },
+  {
+    "key": "ResultReduction-summary",
+    "original": "스킬의 최종 위력 -{0}",
+    "context": "EN :\nSkill Final Power -{0}\nJP :\n스킬의 최종 위력 -{0}"
+  },
+  {
+    "key": "AttackDmgDown-name",
+    "original": "피해량 감소",
+    "context": "EN :\nDamage Down\nJP :\nダメージ量減少"
+  },
+  {
+    "key": "AttackDmgDown-desc",
+    "original": "한 턴 동안 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "AttackDmgDown-summary",
+    "original": "가하는 피해량 -{0}0%",
+    "context": "EN :\n-{0}0% Damage Dealt\nJP :\n가하는 피해량 -{0}0%"
+  },
+  {
+    "key": "DefenseDown-name",
+    "original": "방어 레벨 감소",
+    "context": "EN :\nDefense Level Down\nJP :\n防御レベル減少"
+  },
+  {
+    "key": "DefenseDown-desc",
+    "original": "한 턴 동안 방어 레벨이 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDefense Level decreases based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、防御レベルが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "DefenseDown-summary",
+    "original": "방어 레벨 -{0}0%",
+    "context": "EN :\nDefense Level -{0}0%\nJP :\n防御レベル -{0}0%"
+  },
+  {
+    "key": "Paralysis-name",
+    "original": "마비",
+    "context": "EN :\nParalyze\nJP :\n麻痺"
+  },
+  {
+    "key": "Paralysis-desc",
+    "original": "한 턴 동안 수치만큼 코인 위력이 0으로 고정",
+    "context": "EN :\nFix the Power of Coins to 0 for one turn, with one Coin per the effect’s Count.\nJP :\n1ターンの間、数値の枚数分のコイン威力が0に固定"
+  },
+  {
+    "key": "PlusCoinValueDown-name",
+    "original": "더하기 코인 약화",
+    "context": "EN :\nPlus Coin Drop\nJP :\n加算コイン弱化"
+  },
+  {
+    "key": "PlusCoinValueDown-desc",
+    "original": "한 턴 동안 더하기 코인 위력이 수치만큼 감소",
+    "context": "EN :\nReduce the power of Plus Coins by the effect’s Count.\nJP :\n1ターンの間、加算コイン威力が数値だけ減少"
+  },
+  {
+    "key": "MinusCoinValueDown-name",
+    "original": "빼기 코인 약화",
+    "context": "EN :\nMinus Coin Drop\nJP :\n減算コイン弱化"
+  },
+  {
+    "key": "MinusCoinValueDown-desc",
+    "original": "한 턴 동안 빼기 코인 위력이 수치만큼 감소",
+    "context": "EN :\nReduce the power of Minus Coins by the effect’s Count.\nJP :\n1ターンの間、減算コイン威力が数値だけ減少"
+  },
+  {
+    "key": "TimesCoinValueDown-name",
+    "original": "곱하기 코인 약화",
+    "context": "EN :\nMultiply Coin Drop\nJP :\n乗算コイン弱化"
+  },
+  {
+    "key": "TimesCoinValueDown-desc",
+    "original": "한 턴 동안 곱하기 코인 위력이 수치만큼 감소",
+    "context": "EN :\nReduce the power of Multiply Coins by the effect’s Count.\nJP :\n1ターンの間、乗算コイン威力が数値だけ減少"
+  },
+  {
+    "key": "MoonLight-name",
+    "original": "달빛",
+    "context": "EN :\nMoonlight\nJP :\n月の光"
+  },
+  {
+    "key": "MoonLight-desc",
+    "original": "특정 스킬 사용 시 달빛을 소모하여 추가 효과가 발동함",
+    "context": "EN :\nResource used by certain skills for additional effects.\nJP :\n特定スキル使用時に月の光を消耗し、追加効果が発動"
+  },
+  {
+    "key": "Anger-name",
+    "original": "분노",
+    "context": "EN :\nRage\nJP :\n憤怒"
+  },
+  {
+    "key": "Anger-desc",
+    "original": "특정 스킬에 의해 소모됨. 분노를 소모하여 특정 스킬 사용",
+    "context": "EN :\nSpent by certain skills. Required for the use of certain skills.\nJP :\n特定スキルによって消耗。憤怒を消耗して特定スキルを使用。"
+  },
+  {
+    "key": "Inactible-name",
+    "original": "행동 불가",
+    "context": "EN :\nImmobilize\nJP :\n行動不能"
+  },
+  {
+    "key": "Inactible-desc",
+    "original": "이번 턴 동안 행동하지 않음",
+    "context": "EN :\nDoes not act for the turn.\nJP :\n1ターンの間行動しない"
+  },
+  {
+    "key": "Combustion-name",
+    "original": "화상",
+    "context": "EN :\nBurn\nJP :\n火傷"
+  },
+  {
+    "key": "Combustion-desc",
+    "original": "턴 종료 시, 효과 위력만큼 고정 체력 피해를 받음\n턴 종료 후 횟수 1 감소",
+    "context": "EN :\nAt the end of the turn, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1.\nJP :\nターン終了時、効果威力分の固定ダメージを受ける\nターン終了後、回数が1減少"
+  },
+  {
+    "key": "Laceration-name",
+    "original": "출혈",
+    "context": "EN :\nBleed\nJP :\n出血"
+  },
+  {
+    "key": "Laceration-desc",
+    "original": "공격 스킬의 코인 판정 시, 효과 위력만큼 고정 체력 피해를 받음\n공격 스킬의 코인 판정 후 횟수 1 감소",
+    "context": "EN :\nWhen tossing an attack Coin, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1.\nJP :\n攻撃スキルコインの判定時、効果威力分の固定ダメージを受ける\n攻撃スキルコインの判定後、回数が1減少"
+  },
+  {
+    "key": "Vibration-name",
+    "original": "진동",
+    "context": "EN :\nTremor\nJP :\n振動"
+  },
+  {
+    "key": "Vibration-desc",
+    "original": "진동 폭발 스킬로 피격 시, 효과 위력만큼 흐트러짐 손상\n턴 종료 후 횟수 1 감소",
+    "context": "EN :\nWhen attacked by skills that burst Tremor, raise the Stagger Threshold by the effect’s Potency.\nAt the end of the turn, reduce the Count by 1.\nJP :\n振動爆発スキルでダメージを受けるとき、効果威力分混乱区間が前進する\nターン終了後、回数が1減少"
+  },
+  {
+    "key": "Burst-name",
+    "original": "파열",
+    "context": "EN :\nRupture\nJP :\n破裂"
+  },
+  {
+    "key": "Burst-desc",
+    "original": "공격 스킬로 피격 시, 효과 위력만큼 고정 체력 피해를 받음\n피격 후 횟수 1 감소",
+    "context": "EN :\nWhen hit by an attack, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1.\nJP :\n攻撃スキルを受けたとき、効果威力分の固定ダメージを受ける\n被ダメージ後、回数が1減少"
+  },
+  {
+    "key": "Sinking-name",
+    "original": "침잠",
+    "context": "EN :\nSinking\nJP :\n沈潜"
+  },
+  {
+    "key": "Sinking-desc",
+    "original": "공격 스킬로 피격 시, 효과 위력만큼 고정 정신력 피해를 받음 (환상체에게는 우울 속성 피해로 적용됨)\n피격 후 횟수 1 감소",
+    "context": "EN :\nWhen hit by an attack, take fixed SP damage by the effect’s Potency.\n(Abnormalities take Gloom damage instead.)\nThen, reduce its Count by 1.\nJP :\n攻撃スキルで被ダメージ時、効果威力分の固定精神力ダメージを受ける(幻想体では憂鬱属性に換算)\n被ダメージ後、回数が1減少"
+  },
+  {
+    "key": "Breath-name",
+    "original": "호흡",
+    "context": "EN :\nPoise\nJP :\n呼吸"
+  },
+  {
+    "key": "Breath-desc",
+    "original": "적중 시 효과 위력에 비례한 확률로 치명타 피해를 입힘\n턴 종료 시, 치명타 발동 후 횟수 1 감소",
+    "context": "EN :\nOn hit, gain a Potency-based chance to deal critical damage, reducing the Count by 1 if successful.\nAt the end of the turn, reduce the Count by 1.\nJP :\nコイン判定時、威力に比例した確率で致命打を与える\nターン終了時、あるいは致命打発動後に回数が1減少"
+  },
+  {
+    "key": "BloodPocket-name",
+    "original": "피주머니",
+    "context": "EN :\nBlood Sac\nJP :\n血袋"
+  },
+  {
+    "key": "BloodPocket-desc",
+    "original": "특정 수치에 강력한 공격을 사용함.",
+    "context": "EN :\nUse a powerful attack after the Count reaches a certain amount.\nJP :\n特定の数値で強力な攻撃を使用"
+  },
+  {
+    "key": "WaterPocket-name",
+    "original": "물주머니",
+    "context": "EN :\nFluid Sac\nJP :\n水袋"
+  },
+  {
+    "key": "WaterPocket-desc",
+    "original": "수치에 비례하여 체력을 회복함",
+    "context": "EN :\nHeals HP based on the Count.\nJP :\n数値に比例して体力を回復"
+  },
+  {
+    "key": "DogThunder-name",
+    "original": "번개",
+    "context": "EN :\nLightning\nJP :\n雷"
+  },
+  {
+    "key": "DogThunder-desc",
+    "original": "특정 수치에 자신을 강화함.",
+    "context": "EN :\nPowers up after the Count reaches a certain amount.\nJP :\n特定数値で自分を強化"
+  },
+  {
+    "key": "Run_Panic-name",
+    "original": "압도",
+    "context": "EN :\nOppression\nJP :\n圧倒"
+  },
+  {
+    "key": "Run_Panic-desc",
+    "original": "한 턴 동안 행동 불가. 피격 시 공격자의 스킬이 종료된 후 도주함.",
+    "context": "EN :\nCannot act for one turn. When hit, flees battle after the attacker’s skill has finished.\nJP :\n1ターンの間行動不能。被ダメージ時、攻撃者のスキルが終了後に逃走する。"
+  },
+  {
+    "key": "Operation-name",
+    "original": "시술",
+    "context": "EN :\nSurgery\nJP :\n施術"
+  },
+  {
+    "key": "Operation-desc",
+    "original": "이 수치가 5가 되면 사망함\n최대 체력이 수치에 비례하여 20%씩 감소 \n가하는 피해량이 수치에 비례하여 20%씩 증가\n매 턴마다 수치만큼 신속을 얻음",
+    "context": "EN :\nDie when Count reaches 5.\nReduce Max HP by 20% (per Count).\nDeal 20% (per Count) more damage.\nAt the start of the turn, gain Haste by the effect’s Count.\nJP :\nこの数値が5になると死亡\n最大体力値が数値に比例して20%ずつ減少　\n与ダメージ量が数値に比例して20ずつ増加\n毎ターン、数値分のクイックを得る"
+  },
+  {
+    "key": "Emergency_Operation-name",
+    "original": "긴급_시술",
+    "context": "EN :\nMakeshift Surgery\nJP :\n緊急施術"
+  },
+  {
+    "key": "Emergency_Operation-desc",
+    "original": "자신의 '긴급 시술' 수에 비례하여 최대 체력이 25%, 위력이 1만큼 증가함.\nn매 턴마다 '긴급 시술'을 1 얻음\n'긴급 시술'이 5가 될 경우, 사망함",
+    "context": "EN :\nBoost Max HP by 25% and skill Power by 1 per this effect’s Count.\nEach turn, increase this effect’s Count by 1.\nDie when Count reaches 5.\nJP :\n自分の「緊急施術」数に比例して体力最大値が25％、威力が1ずつ増加する\n毎ターン「緊急施術」を1ずつ得る\n「緊急施術」が5になると死亡する"
+  },
+  {
+    "key": "BabayagaTimeLimit-name",
+    "original": "다가오는 바바야가",
+    "context": "EN :\nBaba Yaga’s Coming!\nJP :\n近寄るバーバヤーガ"
+  },
+  {
+    "key": "BabayagaTimeLimit-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "PinkRibbon-name",
+    "original": "분홍 리본",
+    "context": "EN :\nPink Ribbons\nJP :\n桃色のリボン"
+  },
+  {
+    "key": "PinkRibbon-desc",
+    "original": "턴 종료 시 스택이 5 이상되면, 스택을 초기화하고 다음 턴 동안 '탐욕' 상태가 됨",
+    "context": "EN :\nAt the end of the turn, if at 5+ Potency, remove this effect and apply ‘Desirous’ next turn.\nJP :\nターン終了時にこの数値が5以上なら、値を初期化して次のターンの間「貪欲」状態になる"
+  },
+  {
+    "key": "Greedy-name",
+    "original": "탐욕",
+    "context": "EN :\nDesirous\nJP :\n貪欲"
+  },
+  {
+    "key": "Greedy-desc",
+    "original": "턴 시작 시 속박 10 얻음\n모든 물리 내성이 취약 상태가 됨\n공격 스킬의 스킬 위력 +2\n수비 스킬의 스킬 위력 -2",
+    "context": "EN :\nAt the start of the turn, gain 10 Bind.\nAll phys. resistances change to ‘Fatal’.\nAttack Skill Power +2.\nDefense Skill Power -2.\nJP :\nターン開始時、束縛1を0得る\n全ての物理耐性が脆弱状態になる\n攻撃スキルのスキル威力+2\n守備スキルのスキル威力-2"
+  },
+  {
+    "key": "PinkRibbon_Ishmael-name",
+    "original": "분홍 리본",
+    "context": "EN :\nPink Ribbons\nJP :\n桃色のリボン"
+  },
+  {
+    "key": "PinkRibbon_Ishmael-desc",
+    "original": "이번 턴 동안 공격 스킬의 코인을 사용할 때마다 수치 증가.\n턴 종료 시 수치만큼 속박을 얻은 뒤 효과 소멸",
+    "context": "EN :\nCount increases by 1 whenever the affected unit tosses an attack skill Coin.\nAt the end of the turn, inflict Bind by the effect’s Count, then remove the effect.\nJP :\n1ターンの間、攻撃スキルのコインを使用する度に値が増加。\nターン終了時、数値分の束縛を得て効果消滅。"
+  },
+  {
+    "key": "Muckworm-name",
+    "original": "구더기",
+    "context": "EN :\nMaggots\nJP :\n蛆虫"
+  },
+  {
+    "key": "Muckworm-desc",
+    "original": "턴 종료 시 탐식 피해를 {0} 받고, 출혈 횟수가 1 증가한 뒤 수치 1 감소",
+    "context": "EN :\nAt the end of the turn, take Gluttony damage by the Count, increase Bleed Count by 1, then reduce this effect’s Count by 1.\nJP :\nターン終了時に暴食ダメージを受け、出血 回数が1増加して数値が1減少"
+  },
+  {
+    "key": "AttackUp-name",
+    "original": "공격 레벨 증가",
+    "context": "EN :\nOffense Level Up\nJP :\n攻撃レベル増加"
+  },
+  {
+    "key": "AttackUp-desc",
+    "original": "한 턴 동안 공격 레벨이 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nOffense Level increases based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、攻撃レベルが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "AttackDown-name",
+    "original": "공격 레벨 감소 ",
+    "context": "EN :\nOffense Level Down \nJP :\n攻撃レベル減少"
+  },
+  {
+    "key": "AttackDown-desc",
+    "original": "한 턴 동안 공격 레벨이 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nOffense Level decreases based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、攻撃レベルが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "Liu_Meursault_Guard_Buff-name",
+    "original": "태산",
+    "context": "EN :\nGreat Mountain\nJP :\n泰山"
+  },
+  {
+    "key": "Liu_Meursault_Guard_Buff-desc",
+    "original": "피격 시 대상에게 화상 횟수 1 증가",
+    "context": "EN :\nWhen attacked, inflict +1 Burn Count on the attacker.\nJP :\n被ダメージ時、対象の火傷回数1を増加"
+  },
+  {
+    "key": "SlashResistUp-name",
+    "original": "참격 내성 증가",
+    "context": "EN :\nSlash Resist Up\nJP :\n斬撃耐性増加"
+  },
+  {
+    "key": "SlashResistUp-desc",
+    "original": "대상의 참격 내성을 (스택 * 0.1)% 증가",
+    "context": "EN :\nIncrease Slash Resistance by a % based on Count.\n(0.1% per Count)\nJP :\n対象の斬撃耐性を(数値×0.1)%増加"
+  },
+  {
+    "key": "PenetrateResistUp-name",
+    "original": "관통 내성 증가",
+    "context": "EN :\nPierce Resist Up\nJP :\n貫通耐性増加"
+  },
+  {
+    "key": "PenetrateResistUp-desc",
+    "original": "대상의 관통 내성을 (스택 * 0.1)% 증가",
+    "context": "EN :\nIncrease Pierce Resistance by a % based on Count.\n(0.1% per Count)\nJP :\n対象の貫通耐性を(数値×0.1)%増加"
+  },
+  {
+    "key": "HitResistUp-name",
+    "original": "타격 내성 증가",
+    "context": "EN :\nBlunt Resist Up\nJP :\n打撃耐性増加"
+  },
+  {
+    "key": "HitResistUp-desc",
+    "original": "대상의 타격 내성을 (스택 * 0.1)% 증가",
+    "context": "EN :\nIncrease Blunt Resistance by a % based on Count.\n(0.1% per Count)\nJP :\n対象の打撃耐性を(数値×0.1)%増加"
+  },
+  {
+    "key": "SlashDamageUp-name",
+    "original": "참격 피해량 증가",
+    "context": "EN :\nSlash DMG Up\nJP :\n斬撃ダメージ量増加"
+  },
+  {
+    "key": "SlashDamageUp-desc",
+    "original": "한 턴 동안 참격 속성 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with Slash skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、斬撃属性スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "PenetrateDamageUp-name",
+    "original": "관통 피해량 증가",
+    "context": "EN :\nPierce DMG Up\nJP :\n貫通量ダメージ増加"
+  },
+  {
+    "key": "PenetrateDamageUp-desc",
+    "original": "한 턴 동안 관통 속성 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with Pierce skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、貫通属性スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "HitDamageUp-name",
+    "original": "타격 피해량 증가",
+    "context": "EN :\nBlunt DMG Up\nJP :\n打撃ダメージ量増加"
+  },
+  {
+    "key": "HitDamageUp-desc",
+    "original": "한 턴 동안 타격 속성 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with Blunt skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、打撃属性スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "SlashResistDown-name",
+    "original": "참격 내성 감소",
+    "context": "EN :\nSlash Resist Down\nJP :\n斬撃耐性減少"
+  },
+  {
+    "key": "SlashResistDown-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "PenetrateResistDown-name",
+    "original": "관통 내성 감소",
+    "context": "EN :\nPierce Resist Down\nJP :\n貫通耐性減少"
+  },
+  {
+    "key": "PenetrateResistDown-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "HitResistDown-name",
+    "original": "타격 내성 감소",
+    "context": "EN :\nBlunt Resist Down\nJP :\n打撃耐性減少"
+  },
+  {
+    "key": "HitResistDown-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "SlashDamageDown-name",
+    "original": "참격 피해량 감소",
+    "context": "EN :\nSlash DMG Down\nJP :\n斬撃ダメージ量減少"
+  },
+  {
+    "key": "SlashDamageDown-desc",
+    "original": "한 턴 동안 참격 속성 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with Slash skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、斬撃属性スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "PenetrateDamageDown-name",
+    "original": "관통 피해량 감소",
+    "context": "EN :\nPierce DMG Down\nJP :\n貫通ダメージ量減少"
+  },
+  {
+    "key": "PenetrateDamageDown-desc",
+    "original": "한 턴 동안 관통 속성 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with Pierce skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、斬撃属性スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "HitDamageDown-name",
+    "original": "타격 피해량 감소",
+    "context": "EN :\nBlunt DMG Down\nJP :\n打撃ダメージ量減少"
+  },
+  {
+    "key": "HitDamageDown-desc",
+    "original": "한 턴 동안 타격 속성 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with Blunt skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、打撃属性スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "CrimsonResistDown-name",
+    "original": "분노 내성 감소",
+    "context": "EN :\nWrath Resist Down\nJP :\n憤怒耐性減少"
+  },
+  {
+    "key": "CrimsonResistDown-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "ScarletResistDown-name",
+    "original": "색욕 내성 감소",
+    "context": "EN :\nLust Resist Down\nJP :\n色欲耐性減少"
+  },
+  {
+    "key": "ScarletResistDown-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "AmberResistDown-name",
+    "original": "나태 내성 감소",
+    "context": "EN :\nSloth Resist Down\nJP :\n怠惰耐性減少"
+  },
+  {
+    "key": "AmberResistDown-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "ShamrockResistDown-name",
+    "original": "탐식 내성 감소",
+    "context": "EN :\nGluttony Resist Down\nJP :\n暴食耐性減少"
+  },
+  {
+    "key": "ShamrockResistDown-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "AzureResistDown-name",
+    "original": "우울 내성 감소",
+    "context": "EN :\nGloom Resist Down\nJP :\n憂鬱耐性減少"
+  },
+  {
+    "key": "AzureResistDown-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "IndigoResistDown-name",
+    "original": "오만 내성 감소",
+    "context": "EN :\nPride Resist Down\nJP :\n傲慢耐性減少"
+  },
+  {
+    "key": "IndigoResistDown-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "VioletResistDown-name",
+    "original": "질투 내성 감소",
+    "context": "EN :\nEnvy Resist Down\nJP :\n嫉妬耐性減少"
+  },
+  {
+    "key": "VioletResistDown-desc",
+    "original": "",
+    "context": "EN :\n\nJP :\n"
+  },
+  {
+    "key": "CrimsonResistUp-name",
+    "original": "분노 내성 증가",
+    "context": "EN :\nWrath Resist Up\nJP :\n憤怒耐性増加"
+  },
+  {
+    "key": "CrimsonResistUp-desc",
+    "original": "대상의 분노 내성을 (스택 * 0.1)% 증가",
+    "context": "EN :\nIncrease Wrath Resistance by a % based on Count.\n(0.1% per Count)\nJP :\n対象の憤怒耐性を(数値×0.1)%増加"
+  },
+  {
+    "key": "ScarletResistUp-name",
+    "original": "색욕 내성 증가",
+    "context": "EN :\nLust Resist Up\nJP :\n色欲耐性増加"
+  },
+  {
+    "key": "ScarletResistUp-desc",
+    "original": "대상의 색욕 내성을 (스택 * 0.1)% 증가",
+    "context": "EN :\nIncrease Lust Resistance by a % based on Count.\n(0.1% per Count)\nJP :\n対象の色欲耐性を(数値×0.1)%増加"
+  },
+  {
+    "key": "AmberResistUp-name",
+    "original": "나태 내성 증가",
+    "context": "EN :\nSloth Resist Up\nJP :\n怠惰耐性増加"
+  },
+  {
+    "key": "AmberResistUp-desc",
+    "original": "대상의 나태 내성을 (스택 * 0.1)% 증가",
+    "context": "EN :\nIncrease Sloth Resistance by a % based on Count.\n(0.1% per Count)\nJP :\n対象の怠惰耐性を(数値×0.1)%増加"
+  },
+  {
+    "key": "ShamrockResistUp-name",
+    "original": "탐식 내성 증가",
+    "context": "EN :\nGluttony Resist Up\nJP :\n暴食耐性増加"
+  },
+  {
+    "key": "ShamrockResistUp-desc",
+    "original": "대상의 탐식 내성을 (스택 * 0.1)% 증가",
+    "context": "EN :\nIncrease Gluttony Resistance by a % based on Count.\n(0.1% per Count)\nJP :\n対象の暴食耐性を(数値×0.1)%増加"
+  },
+  {
+    "key": "AzureResistUp-name",
+    "original": "우울 내성 증가",
+    "context": "EN :\nGloom Resist Up\nJP :\n憂鬱耐性増加"
+  },
+  {
+    "key": "AzureResistUp-desc",
+    "original": "대상의 우울 내성을 (스택 * 0.1)% 증가",
+    "context": "EN :\nIncrease Gloom Resistance by a % based on Count.\n(0.1% per Count)\nJP :\n対象の憂鬱耐性を(数値×0.1)%増加"
+  },
+  {
+    "key": "IndigoResistUp-name",
+    "original": "오만 내성 증가",
+    "context": "EN :\nPride Resist Up\nJP :\n傲慢耐性増加"
+  },
+  {
+    "key": "IndigoResistUp-desc",
+    "original": "대상의 오만 내성을 (스택 * 0.1)% 증가",
+    "context": "EN :\nIncrease Pride Resistance by a % based on Count.\n(0.1% per Count)\nJP :\n対象の傲慢耐性を(数値×0.1)%増加"
+  },
+  {
+    "key": "VioletResistUp-name",
+    "original": "질투 내성 증가",
+    "context": "EN :\nEnvy Resist Up\nJP :\n嫉妬耐性増加"
+  },
+  {
+    "key": "VioletResistUp-desc",
+    "original": "대상의 질투 내성을 (스택 * 0.1)% 증가",
+    "context": "EN :\nIncrease Envy Resistance by a % based on Count.\n(0.1% per Count)\nJP :\n対象の嫉妬耐性を(数値×0.1)%増加"
+  },
+  {
+    "key": "CrimsonDamageDown-name",
+    "original": "분노 피해량 감소",
+    "context": "EN :\nWrath DMG Down\nJP :\n憤怒ダメージ量減少"
+  },
+  {
+    "key": "CrimsonDamageDown-desc",
+    "original": "한 턴 동안 분노 속성 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with Wrath skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、憤怒属性スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "ScarletDamageDown-name",
+    "original": "색욕 피해량 감소",
+    "context": "EN :\nLust DMG Down\nJP :\n色欲ダメージ量減少"
+  },
+  {
+    "key": "ScarletDamageDown-desc",
+    "original": "한 턴 동안 색욕 속성 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with Lust skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、色欲属性スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "AmberDamageDown-name",
+    "original": "나태 피해량 감소",
+    "context": "EN :\nSloth DMG Down\nJP :\n怠惰ダメージ量減少"
+  },
+  {
+    "key": "AmberDamageDown-desc",
+    "original": "한 턴 동안 나태 속성 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with Sloth skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、怠惰属性スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "ShamrockDamageDown-name",
+    "original": "탐식 피해량 감소",
+    "context": "EN :\nGluttony DMG Down\nJP :\n暴食ダメージ量減少"
+  },
+  {
+    "key": "ShamrockDamageDown-desc",
+    "original": "한 턴 동안 탐식 속성 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with Gluttony skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、暴食属性スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "AzureDamageDown-name",
+    "original": "우울 피해량 감소",
+    "context": "EN :\nGloom DMG Down\nJP :\n憂鬱ダメージ量減少"
+  },
+  {
+    "key": "AzureDamageDown-desc",
+    "original": "한 턴 동안 우울 속성 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with Gloom skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、憂鬱属性スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "IndigoDamageDown-name",
+    "original": "오만 피해량 감소",
+    "context": "EN :\nPride DMG Down\nJP :\n傲慢ダメージ量減少"
+  },
+  {
+    "key": "IndigoDamageDown-desc",
+    "original": "한 턴 동안 오만 속성 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with Pride skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、傲慢属性スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "VioletDamageDown-name",
+    "original": "질투 피해량 감소",
+    "context": "EN :\nEnvy DMG Down\nJP :\n嫉妬ダメージ量減少"
+  },
+  {
+    "key": "VioletDamageDown-desc",
+    "original": "한 턴 동안 질투 속성 스킬로 가하는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nDeal less damage with Envy skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、嫉妬属性スキルでの与ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "CrimsonDamageUp-name",
+    "original": "분노 피해량 증가",
+    "context": "EN :\nWrath DMG Up\nJP :\n憤怒ダメージ量増加"
+  },
+  {
+    "key": "CrimsonDamageUp-desc",
+    "original": "한 턴 동안 분노 속성 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with Wrath skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、憤怒属性スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "ScarletDamageUp-name",
+    "original": "색욕 피해량 증가",
+    "context": "EN :\nLust DMG Up\nJP :\n色欲ダメージ量増加"
+  },
+  {
+    "key": "ScarletDamageUp-desc",
+    "original": "한 턴 동안 색욕 속성 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with Lust skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、色欲属性スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "AmberDamageUp-name",
+    "original": "나태 피해량 증가",
+    "context": "EN :\nSloth DMG Up\nJP :\n怠惰ダメージ量増加"
+  },
+  {
+    "key": "AmberDamageUp-desc",
+    "original": "한 턴 동안 나태 속성 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with Sloth skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、怠惰属性スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "ShamrockDamageUp-name",
+    "original": "탐식 피해량 증가",
+    "context": "EN :\nGluttony DMG Up\nJP :\n暴食ダメージ量増加"
+  },
+  {
+    "key": "ShamrockDamageUp-desc",
+    "original": "한 턴 동안 탐식 속성 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with Gluttony skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、暴食属性スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "AzureDamageUp-name",
+    "original": "우울 피해량 증가",
+    "context": "EN :\nGloom DMG Up\nJP :\n憂鬱ダメージ量増加"
+  },
+  {
+    "key": "AzureDamageUp-desc",
+    "original": "한 턴 동안 우울 속성 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with Gloom skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、憂鬱属性スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "IndigoDamageUp-name",
+    "original": "오만 피해량 증가",
+    "context": "EN :\nPride DMG Up\nJP :\n傲慢ダメージ量増加"
+  },
+  {
+    "key": "IndigoDamageUp-desc",
+    "original": "한 턴 동안 오만 속성 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with Pride skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、傲慢属性スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "VioletDamageUp-name",
+    "original": "질투 피해량 증가",
+    "context": "EN :\nEnvy DMG Up\nJP :\n嫉妬ダメージ量増加"
+  },
+  {
+    "key": "VioletDamageUp-desc",
+    "original": "한 턴 동안 질투 속성 스킬로 가하는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nDeal more damage with Envy skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、嫉妬属性スキルでの与ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "Curse-name",
+    "original": "저주",
+    "context": "EN :\nCurse\nJP :\n呪い"
+  },
+  {
+    "key": "Curse-desc",
+    "original": "턴 종료 시 공격 위력 감소, 수비 위력 감소, 공격 레벨 감소, 방어 레벨 감소 1 중 무작위 1개의 효과를 얻고, 수치 1 감소",
+    "context": "EN :\nAt the end of the turn, gain one of the following, then reduce this effect’s Count by 1.\n1 Attack Power Down/1 Defense Power Down/1 Offense Level Down/1 Defense Level Down.\nJP :\nターン終了時に威力減少、守備威力減少、攻撃レベル減少、防御レベル減少 1からランダムに1つの効果を獲得し、値が1減少。"
+  },
+  {
+    "key": "AttackDmgUp_Weak-name",
+    "original": "약점 공격 시 피해량 증가",
+    "context": "EN :\nWeak-resist DMG Boost\nJP :\n弱点攻撃時にダメージ量増加"
+  },
+  {
+    "key": "AttackDmgUp_Weak-desc",
+    "original": "약점 공격 시 피해 (스택)% 증가",
+    "context": "EN :\nBoost the damage of attacks against Weak resistances by a % based on Count.\n(10% per Count)\nJP :\n弱点攻撃時、ダメージが(数値)%増加"
+  },
+  {
+    "key": "Bullet-name",
+    "original": "탄환",
+    "context": "EN :\nAmmo\nJP :\n弾丸"
+  },
+  {
+    "key": "Bullet-desc",
+    "original": "특정 스킬 사용 시 탄환이 소모됨\n탄환이 없을 때 공격이 취소됨",
+    "context": "EN :\nSpent by certain skills.\nSome attacks cancel if lacking Ammo.\nJP :\n特定のスキル使用時に弾丸を消耗\n弾丸が無い場合、攻撃がキャンセルされる"
+  },
+  {
+    "key": "Meursault_Last_Remodeling-name",
+    "original": "마지막 개조",
+    "context": "EN :\nFinal Augment\nJP :\n最後の改造"
+  },
+  {
+    "key": "Meursault_Last_Remodeling-desc",
+    "original": "매 턴마다 공격 위력 증가, 수비 위력 증가, 신속 3을 얻고, 3턴 뒤 사망함",
+    "context": "EN :\nAt the start of the turn, gain 3 Attack Power Up, Defense Power Up, and Haste; die after 3 turns.\nJP :\n毎ターン攻撃威力増加、守備威力増加、クイック3を得る。3ターン後に死亡する"
+  },
+  {
+    "key": "Aggressive-name",
+    "original": "본능",
+    "context": "EN :\nInstincts\nJP :\n本能"
+  },
+  {
+    "key": "Aggressive-desc",
+    "original": "턴 종료 시 수치가 4 이상이면 상태가 공격적으로 변경됨.",
+    "context": "EN :\nAt the end of the turn, if the Count is at 4+, change to an “aggressive” state.\nJP :\nターン終了時、数値が4以上なら攻撃的になる"
+  },
+  {
+    "key": "Cromer_Target-name",
+    "original": "쥐는 자의 주시",
+    "context": "EN :\nGaze of the One Who Grips\nJP :\n握る者の注視"
+  },
+  {
+    "key": "Cromer_Target-desc",
+    "original": "한 턴 동안 흐트러짐 상태가 되고, 크로머에게 받는 피해량 +100%",
+    "context": "EN :\nStaggered for one turn. Take +100% damage from Kromer.\nJP :\n1ターンの間混乱状態になり、クローマーからの被ダメージ量+100%"
+  },
+  {
+    "key": "Poison-name",
+    "original": "독",
+    "context": "EN :\nPoison\nJP :\n毒"
+  },
+  {
+    "key": "Poison-desc",
+    "original": "턴 종료 시 수치만큼 피해를 주고, 수치가 반으로 감소",
+    "context": "EN :\nAt the end of the turn, take fixed damage by the Count, then halve the Count.\nJP :\nターン終了時に数値分のダメージを受け、数値が半分に減少"
+  },
+  {
+    "key": "Desire-name",
+    "original": "욕망",
+    "context": "EN :\nUrge\nJP :\n欲望"
+  },
+  {
+    "key": "Desire-desc",
+    "original": "턴 종료 시 스택이 5 이상이면 정신 피해를 30 주고, 다음 턴에 취약 2, 속박 10을 부여한 뒤 소멸.",
+    "context": "EN :\nAt the end of the turn, if at 5+ stacks, take 30 SP damage, gain 2 Fragile and 10 Bind, and remove this effect.\nJP :\nターン終了時に値が5以上なら精神力ダメージを30受け、次のターンに脆弱2、束縛10を付与して消滅。\n"
+  },
+  {
+    "key": "Assemble-name",
+    "original": "광신",
+    "context": "EN :\nFanatic\nJP :\n狂信"
+  },
+  {
+    "key": "Assemble-desc",
+    "original": "이번 턴 동안 못이 부여된 대상 공격 시 최종 위력이 수치만큼 증가",
+    "context": "EN :\nRaise Skill Final Power by the effect’s Count against units with Nails for the turn.\nJP :\n1ターンの間、釘の付与された対象を攻撃時、最終威力がこの数値だけ増加"
+  },
+  {
+    "key": "Nail-name",
+    "original": "N사의 못",
+    "context": "EN :\nN Corp’s Nails\nJP :\nN社の釘"
+  },
+  {
+    "key": "Nail-desc",
+    "original": "턴 시작 시 출혈 1을 주고, 출혈 횟수가 수치만큼 증가. 턴 종료 시 1 감소.",
+    "context": "EN :\nAt the start of the turn, gain 1 Bleed and increase the Bleed Count by this effect’s Count.\nAt the end of the turn, reduce the Count by 1.\nJP :\nターン開始時に出血1を付与し、出血 回数が数値だけ増加。ターン終了時に1減少。"
+  },
+  {
+    "key": "BeingGolden-name",
+    "original": "황금빛",
+    "context": "EN :\nGolden Sheen\nJP :\n黄金色"
+  },
+  {
+    "key": "BeingGolden-desc",
+    "original": "턴 시작 시 수치당 10만큼 체력 회복",
+    "context": "EN :\nAt the start of the turn, heal 10 HP per Count.\nJP :\nターン開始時、この数値×10だけ体力を回復する"
+  },
+  {
+    "key": "SlashTakeDamageDown-name",
+    "original": "참격 보호",
+    "context": "EN :\nSlash Protection\nJP :\n斬撃保護"
+  },
+  {
+    "key": "SlashTakeDamageDown-desc",
+    "original": "한 턴 동안 참격 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from Slash skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、斬撃スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "PenetrateTakeDamageDown-name",
+    "original": "관통 보호",
+    "context": "EN :\nPierce Protection\nJP :\n貫通保護"
+  },
+  {
+    "key": "PenetrateTakeDamageDown-desc",
+    "original": "한 턴 동안 관통 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from Pierce skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、貫通スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "HitTakeDamageDown-name",
+    "original": "타격 보호",
+    "context": "EN :\nBlunt Protection\nJP :\n打撃保護"
+  },
+  {
+    "key": "HitTakeDamageDown-desc",
+    "original": "한 턴 동안 타격 속성 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from Blunt skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、打撃属性スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "CrimsonTakeDamageDown-name",
+    "original": "분노 보호",
+    "context": "EN :\nWrath Protection\nJP :\n憤怒保護"
+  },
+  {
+    "key": "CrimsonTakeDamageDown-desc",
+    "original": "한 턴 동안 분노 속성 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from Wrath skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、憤怒属性スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "ScarletTakeDamageDown-name",
+    "original": "색욕 보호",
+    "context": "EN :\nLust Protection\nJP :\n色欲保護"
+  },
+  {
+    "key": "ScarletTakeDamageDown-desc",
+    "original": "한 턴 동안 색욕 속성 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from Lust skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、色欲属性スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "AmberTakeDamageDown-name",
+    "original": "나태 보호",
+    "context": "EN :\nSloth Protection\nJP :\n怠惰保護"
+  },
+  {
+    "key": "AmberTakeDamageDown-desc",
+    "original": "한 턴 동안 나태 속성 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from Sloth skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、怠惰属性スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "ShamrockTakeDamageDown-name",
+    "original": "탐식 보호",
+    "context": "EN :\nGluttony Protection\nJP :\n暴食保護"
+  },
+  {
+    "key": "ShamrockTakeDamageDown-desc",
+    "original": "한 턴 동안 탐식 속성 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from Gluttony skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、暴食属性スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "AzureTakeDamageDown-name",
+    "original": "우울 보호",
+    "context": "EN :\nGloom Protection\nJP :\n憂鬱保護"
+  },
+  {
+    "key": "AzureTakeDamageDown-desc",
+    "original": "한 턴 동안 우울 속성 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from Gloom skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、憂鬱属性スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "IndigoTakeDamageDown-name",
+    "original": "오만 보호",
+    "context": "EN :\nPride Protection\nJP :\n傲慢保護"
+  },
+  {
+    "key": "IndigoTakeDamageDown-desc",
+    "original": "한 턴 동안 오만 속성 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from Pride skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、傲慢属性スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "VioletTakeDamageDown-name",
+    "original": "질투 보호",
+    "context": "EN :\nEnvy Protection\nJP :\n嫉妬保護"
+  },
+  {
+    "key": "VioletTakeDamageDown-desc",
+    "original": "한 턴 동안 질투 속성 스킬로 받는 피해가 수치에 비례하여 감소 (최대 10)",
+    "context": "EN :\nTake less damage from Envy skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、嫉妬属性スキルでの被ダメージが数値に比例して減少(最大10)"
+  },
+  {
+    "key": "SlashTakeDamageUp-name",
+    "original": "참격 취약",
+    "context": "EN :\nSlash Fragility\nJP :\n斬撃脆弱"
+  },
+  {
+    "key": "SlashTakeDamageUp-desc",
+    "original": "한 턴 동안 참격 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from Slash skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、斬撃スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "PenetrateTakeDamageUp-name",
+    "original": "관통 취약",
+    "context": "EN :\nPierce Fragility\nJP :\n貫通脆弱"
+  },
+  {
+    "key": "PenetrateTakeDamageUp-desc",
+    "original": "한 턴 동안 관통 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from Pierce skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、貫通スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "HitTakeDamageUp-name",
+    "original": "타격 취약",
+    "context": "EN :\nBlunt Fragility\nJP :\n打撃脆弱"
+  },
+  {
+    "key": "HitTakeDamageUp-desc",
+    "original": "한 턴 동안 타격 속성 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from Blunt skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、打撃属性スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "CrimsonTakeDamageUp-name",
+    "original": "분노 취약",
+    "context": "EN :\nWrath Fragility\nJP :\n憤怒脆弱"
+  },
+  {
+    "key": "CrimsonTakeDamageUp-desc",
+    "original": "한 턴 동안 분노 속성 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from Wrath skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、憤怒属性スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "ScarletTakeDamageUp-name",
+    "original": "색욕 취약",
+    "context": "EN :\nLust Fragility\nJP :\n色欲脆弱"
+  },
+  {
+    "key": "ScarletTakeDamageUp-desc",
+    "original": "한 턴 동안 색욕 속성 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from Lust skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、色欲属性スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "AmberTakeDamageUp-name",
+    "original": "나태 취약",
+    "context": "EN :\nSloth Fragility\nJP :\n怠惰脆弱"
+  },
+  {
+    "key": "AmberTakeDamageUp-desc",
+    "original": "한 턴 동안 나태 속성 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from Sloth skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、怠惰属性スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "ShamrockTakeDamageUp-name",
+    "original": "탐식 취약",
+    "context": "EN :\nGluttony Fragility\nJP :\n暴食脆弱"
+  },
+  {
+    "key": "ShamrockTakeDamageUp-desc",
+    "original": "한 턴 동안 탐식 속성 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from Gluttony skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、暴食属性スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "AzureTakeDamageUp-name",
+    "original": "우울 취약",
+    "context": "EN :\nGloom Fragility\nJP :\n憂鬱脆弱"
+  },
+  {
+    "key": "AzureTakeDamageUp-desc",
+    "original": "한 턴 동안 우울 속성 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from Gloom skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、憂鬱属性スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "IndigoTakeDamageUp-name",
+    "original": "오만 취약",
+    "context": "EN :\nPride Fragility\nJP :\n傲慢脆弱"
+  },
+  {
+    "key": "IndigoTakeDamageUp-desc",
+    "original": "한 턴 동안 오만 속성 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from Pride skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、傲慢属性スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "VioletTakeDamageUp-name",
+    "original": "질투 취약",
+    "context": "EN :\nEnvy Fragility\nJP :\n嫉妬脆弱"
+  },
+  {
+    "key": "VioletTakeDamageUp-desc",
+    "original": "한 턴 동안 질투 속성 스킬로 받는 피해가 수치에 비례하여 증가 (최대 10)",
+    "context": "EN :\nTake more damage from Envy skills based on the effect’s Count for one turn. (Max 10)\nJP :\n1ターンの間、嫉妬属性スキルでの被ダメージが数値に比例して増加(最大10)"
+  },
+  {
+    "key": "NailPersonality-name",
+    "original": "못",
+    "context": "EN :\nNails\nJP :\n釘"
+  },
+  {
+    "key": "NailPersonality-desc",
+    "original": "턴 시작 시 출혈 1을 주고, 출혈 횟수가 수치만큼 증가. 턴 종료 시 수치가 절반 감소 (소수점 버림)",
+    "context": "EN :\nAt the start of the turn, gain 1 Bleed and increase the Bleed Count by this effect’s Count.\nAt the end of the turn, halve the Count. (Rounded down)\nJP :\nターン終了時に出血 1を付与、出血 回数が数値だけ増加。ターン終了時に数値が半減。(小数点切り捨て)"
+  },
+  {
+    "key": "AssemblePersonality-name",
+    "original": "광신",
+    "context": "EN :\nFanatic\nJP :\n狂信"
+  },
+  {
+    "key": "AssemblePersonality-desc",
+    "original": "이번 턴 동안 못이 부여된 대상 공격 시 최종 위력이 수치만큼 증가",
+    "context": "EN :\nRaise Skill Final Power by the effect’s Count against units with Nails for the turn.\nJP :\n1ターンの間、釘の付与された対象を攻撃時、最終威力がこの数値だけ増加"
+  },
+  {
+    "key": "MarkOfHeresy-name",
+    "original": "주시",
+    "context": "EN :\nGaze\nJP :\n注視"
+  },
+  {
+    "key": "MarkOfHeresy-desc",
+    "original": "한 턴동안 관통, 타격 속성 스킬로 받는 피해 20% 증가. 표적이 찍힌 적 처치 시 처치한 아군의 정신력이 10 회복되며, 해당 아군이 N사 광신도면 다음 턴에 광신 1을 얻음",
+    "context": "EN :\nTake +20% damage from Pierce and Blunt skills for one turn.\nThe ally that defeats the marked unit heals 10 SP; if the ally is from N Corp, also apply 1 Fanatic next turn.\nJP :\n1ターンの間貫通、打撃属性スキルによる被ダメージが20%増加。標的 が付与された敵を倒したとき、倒した味方の精神力が10回復し、該当する味方がN社の狂信者なら次のターンに狂信1を得る"
+  },
+  {
+    "key": "HitResultUp-name",
+    "original": "타격 위력 증가",
+    "context": "EN :\nBlunt Power Up\nJP :\n打撃威力増加"
+  },
+  {
+    "key": "HitResultUp-desc",
+    "original": "한 턴 동안 타격 속성 스킬의 최종 위력이 수치만큼 증가",
+    "context": "EN :\nBlunt skills gain final Power by the effect’s Count for one turn.\nJP :\n1ターンの間、打撃属性スキルの最終威力が数値だけ増加"
+  },
+  {
+    "key": "WeaknessAnalysis-name",
+    "original": "약점 분석",
+    "context": "EN :\nWeakness Analyzed\nJP :\n弱点分析"
+  },
+  {
+    "key": "WeaknessAnalysis-desc",
+    "original": "한 턴 동안 공격 유형 내성에서 '견딤', '보통' 내성 중 무작위 하나를 선택하여 약화[+0.2]시킴",
+    "context": "EN :\nA random “Endure” or “Normal” attack type resistance is weakened [+0.2 to damage multiplier] for one turn.\nJP :\n1ターンの間、攻撃タイプ耐性の「抵抗」「普通」のうち1つをランダムに選択し弱化[+0.2]する"
+  },
+  {
+    "key": "Cycle-name",
+    "original": "업보",
+    "context": "EN :\nKarma\nJP :\n業報"
+  },
+  {
+    "key": "Cycle-desc",
+    "original": "수치당 받는 피해량이 1% 증가한다. 턴 종료 시 수치가 108이 되면 사망한다.",
+    "context": "EN :\nTake +1% damage per Count. At the end of the turn, if at 108+ Count, the unit dies.\nJP :\n値1につき、被ダメージ量が1%増加する。ターン終了時、108になると死亡する。"
+  },
+  {
+    "key": "Duress-name",
+    "original": "구속",
+    "context": "EN :\nCaptivity\nJP :\n拘束"
+  },
+  {
+    "key": "Duress-desc",
+    "original": "대상을 3턴간 흐트러짐 상태로 만듦.\n턴 시작 시 kqe-1j-23이 흐트러짐 상태인 경우 해제됨",
+    "context": "EN :\nThe affected unit becomes Staggered for 3 turns.\nAt the start of the turn, if Kqe-1j-23 is Staggered, remove this status.\nJP :\n対象を3ターンの間混乱状態にする。\nターン開始時にkqe-1j-23が混乱状態になっている場合は解除される。"
+  },
+  {
+    "key": "VioletResultUp-name",
+    "original": "질투 위력 증가",
+    "context": "EN :\nEnvy Power Up\nJP :\n嫉妬威力増加"
+  },
+  {
+    "key": "VioletResultUp-desc",
+    "original": "한 턴 동안 질투 속성 스킬의 최종 위력이 수치만큼 증가",
+    "context": "EN :\nEnvy skills gain final Power by the effect’s Count for one turn.\nJP :\n1ターンの間、嫉妬属性スキルの最終威力が数値だけ増加"
+  },
+  {
+    "key": "CyclingKarma-name",
+    "original": "순환하는 업보",
+    "context": "EN :\nCyclical Karma\nJP :\n循環する業報"
+  },
+  {
+    "key": "CyclingKarma-desc",
+    "original": "모든 캐릭터가 공격 적중 시마다 업보를 공격 대상에게 옮긴다. 아군이 살아있는동안에는 나는 비워내느니에게는 업보가 옮겨지지 않는다.",
+    "context": "EN :\nAll units transfer their Karma to their targets after a successful attack.\nKarma is not transferred to My Form Empties as long as its allies are alive.\nJP :\n全キャラクターが攻撃を的中させる度に業報 を攻撃対象に移す。味方が生き残っている場合は我、無に至れりに業報が移らない。"
+  },
+  {
+    "key": "CyclingKarma-summary",
+    "original": "합 승리 시 업보 이동",
+    "context": "EN :\nKarma transferred on Clash win\nJP :\nマッチ勝利時、業報が移動"
+  },
+  {
+    "key": "Cromer_Ecstasy-name",
+    "original": "희열",
+    "context": "EN :\nEcstatic\nJP :\n喜悦"
+  },
+  {
+    "key": "Cromer_Ecstasy-desc",
+    "original": "입 부위의 모든 물리 내성이 취약으로 변경됨.",
+    "context": "EN :\nAll the Maw’s physical resistances change to ‘Fatal’.\nJP :\n口部位の全物理耐性が脆弱に変更。"
+  },
+  {
+    "key": "Cromer_Madness-name",
+    "original": "순수",
+    "context": "EN :\nPurity\nJP :\n純粋"
+  },
+  {
+    "key": "Cromer_Madness-desc",
+    "original": "모든 부위가 속박 3, 피해량 증가 3을 얻고, 모든 물리 내성이 취약으로 변경됨.",
+    "context": "EN :\nAll parts gain 3 Bind and 3 Damage Up, and their phys. resistances change to ‘Fatal’.\nJP :\n全部位が束縛 3、ダメージ量増加 3を得て、全物理耐性が脆弱へと変更。"
+  },
+  {
+    "key": "TakeHpHealReduce-name",
+    "original": "체력 회복 감소",
+    "context": "EN :\nHP Healing Down\nJP :\n体力回復減少"
+  },
+  {
+    "key": "TakeHpHealReduce-desc",
+    "original": "패시브, 스킬, 코인의 효과로 회복하는 체력이 수치에 비례하여 감소 (최대 5)",
+    "context": "EN :\nDecreases HP healing provided by Passive abilities, Skills, and Coin effects. (Max 5)\nJP :\nパッシブ、スキル、コインの効果で回復する体力が数値に比例して減少(最大5)"
+  },
+  {
+    "key": "AttackLevelAdder-name",
+    "original": "공격 레벨+",
+    "context": "EN :\nOffense Level+\nJP :\n攻撃レベル+"
+  },
+  {
+    "key": "AttackLevelAdder-desc",
+    "original": "한 턴 동안 공격 레벨이 수치만큼 증가",
+    "context": "EN :\nOffense Level increases by the effect’s Count for one turn.\nJP :\n1ターンの間、攻撃レベルが数値分増加"
+  },
+  {
+    "key": "Thirst-name",
+    "original": "갈증",
+    "context": "EN :\nAppetite\nJP :\n渇き"
+  },
+  {
+    "key": "Thirst-desc",
+    "original": "즉흥 조리 패시브의 회복량이 수치에 비례하여 증가. 패시브 발동 시 전부 소모.",
+    "context": "EN :\nIncreases the healing provided by the Passive [Rustle Up].\nSpent when the Passive activates.\nJP :\n即席料理パッシブの回復量が数値に比例して増加、パッシブ発動時全て消耗"
+  },
+  {
+    "key": "GainSinStockAdder-name",
+    "original": "E.G.O 자원 획득량 +",
+    "context": "EN :\nE.G.O Resource Amp\nJP :\nE.G.O資源獲得量+"
+  },
+  {
+    "key": "GainSinStockAdder-desc",
+    "original": "한 턴 동안 스킬 사용 시 획득하는 E.G.O 자원 수가 수치만큼 증가",
+    "context": "EN :\nIncreases the amount of E.G.O resources earned from skills by the effect’s Count for one turn.\nJP :\n1ターンの間、スキル使用時に獲得するE.G.O資源数が数値分増加"
+  },
+  {
+    "key": "Enrage-name",
+    "original": "광란",
+    "context": "EN :\nFrenzy\nJP :\n狂乱"
+  },
+  {
+    "key": "Enrage-desc",
+    "original": "한 턴 동안 공격 위력 증가 3, 취약 3을 얻고, 스킬 패턴이 변경됨. 피격 시 공격성을 얻지 않음.",
+    "context": "EN :\nGain 3 Attack Power Up and 3 Fragile for one turn, and change behavior. Does not gain Aggression when attacked.\nJP :\n1ターンの間、攻撃威力増加 3、脆弱 3を得て、スキルパターンが変更。被ダメージ時に攻撃性を獲得しない。"
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "key": "0-place",
+    "original": "끝없는 시체들의 언덕",
+    "context": "EN :\nUnending Hill of Corpses\nJP :\n果てしない死体の丘"
+  },
+  {
+    "key": "0-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "0-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "0-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "0-content",
+    "original": "어땠어? 싱클레어. 네 마음속에 나 있는 길에서 정답은 찾을 수 있었니?",
+    "context": "EN :\nWell? Sinclair? Were you able to find an answer in your heart’s path?\nJP :\nどうだった？シンクレア。君の心の中にある道で正解は見つけられた？"
+  },
+  {
+    "key": "1-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "1-content",
+    "original": "…크로머.",
+    "context": "EN :\n…Kromer.\nJP :\n…クローマー。"
+  },
+  {
+    "key": "2-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "2-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "2-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "2-content",
+    "original": "아하하, 눈 그렇게 뜨지 마.",
+    "context": "EN :\nAhaha, don’t give me that look.\nJP :\nあはは、そんな風に目をかっぴらかないでよ。"
+  },
+  {
+    "key": "3-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "3-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "3-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "3-content",
+    "original": "아직 때가 되지도 않았는데…",
+    "context": "EN :\nIt’s not even time yet…\nJP :\nまだ時が来てすらいないのに…。"
+  },
+  {
+    "key": "4-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "4-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "4-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "4-content",
+    "original": "널 죽여보고 싶잖아.",
+    "context": "EN :\nYou’re making me want to kill you.\nJP :\n君を殺してみたくなるでしょ。"
+  },
+  {
+    "key": "크로머-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "크로머-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "크로머-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "크로머-content",
+    "original": "아후… 아냐, 아냐. 참아야지… 당장의 재미보다는 더 중요한 일이 있으니까.",
+    "context": "EN :\nAhu… No, no. I should abstain… I can’t let immediate entertainment distract me from the more important things.\nJP :\nふぅ…いやいや。我慢しなきゃ…。\n目下の楽しみよりもっと大事なことがあるから。"
+  },
+  {
+    "key": "5-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "5-content",
+    "original": "싱클레어, 공명하기 시작한 황금가지를 회수하려면…",
+    "context": "EN :\nSinclair, the only way to retrieve a Golden Bough that’s begun to resonate is…\nJP :\nシンクレア、共鳴し始めた黄金の枝を回収するには…。"
+  },
+  {
+    "key": "6-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "6-content",
+    "original": "알아요.",
+    "context": "EN :\nI know.\nJP :\n知ってます。"
+  },
+  {
+    "key": "7-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "7-content",
+    "original": "…황금가지가 아니었어도.",
+    "context": "EN :\nEven if it weren’t for our mission…\nJP :\n…黄金の枝じゃなくても。"
+  },
+  {
+    "key": "8-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "8-content",
+    "original": "저 개새끼는… 제가 찢어 마실 거예요.",
+    "context": "EN :\nI’d still tear that bitch to pieces… and drink up her remains.\nJP :\nあのクソアマは…僕がぶっ殺してやります。"
+  },
+  {
+    "key": "9-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "9-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "9-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "9-content",
+    "original": "풉… 아하하하!!",
+    "context": "EN :\nPfh… Ahahaha!!\nJP :\nプッ…アハハハ！！"
+  },
+  {
+    "key": "10-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "10-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "10-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "10-content",
+    "original": "크큭… 싱클레어…! 언제부터 그런 말을 배운 거야? 너 같지 않아 보여서… 우습잖아… 푸훗.",
+    "context": "EN :\nKuhuu… Oh, Sinclair…! When did you learn to act so tough? That’s not like you at all… What a riot… Pfft.\nJP :\nくくっ…シンクレア…！いつそんな言葉を覚えたの？\n君らしくなくて…おかしいじゃない…プフッ。"
+  },
+  {
+    "key": "11-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "11-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "11-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "11-content",
+    "original": "그래도… 뭐. 친구들도 많이 생긴 것 같고.",
+    "context": "EN :\nStill… Well, I guess you’ve made some friends since then.\nJP :\nでも…まあ。友だちもいっぱいできたみたいだし。"
+  },
+  {
+    "key": "12-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "12-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "12-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "12-content",
+    "original": "이번에는, 도망치지 않을 거지?",
+    "context": "EN :\nYou won’t run away this time, will you?\nJP :\n今度は、逃げないよね？"
+  }
+]

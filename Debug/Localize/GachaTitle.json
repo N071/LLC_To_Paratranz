@@ -1,0 +1,62 @@
+[
+  {
+    "key": "1-content",
+    "original": "일반 추출",
+    "context": "EN :\nStandard Extraction\nJP :\n一般抽出"
+  },
+  {
+    "key": "2-content",
+    "original": "3성 인격 확정 추출",
+    "context": "EN :\nAssured Extraction: 3★ Identity\nJP :\n星3人格 確定抽出"
+  },
+  {
+    "key": "3-content",
+    "original": "신입 관리자 기념 추출",
+    "context": "EN :\nNew Manager’s Welcome Extraction\nJP :\n新任管理人 記念抽出"
+  },
+  {
+    "key": "4-content",
+    "original": "시즌 1 - 3성 인격 확정 추출",
+    "context": "EN :\n[Season 1] Assured Extraction: 3★ Identity\nJP :\nシーズン1 - 星3人格確定抽出"
+  },
+  {
+    "key": "101-content",
+    "original": "특정 추출 그레고르",
+    "context": "EN :\nTarget Extraction: Gregor\nJP :\n特定抽出 グレゴール"
+  },
+  {
+    "key": "102-content",
+    "original": "신규 특정 추출 N사-#1",
+    "context": "EN :\nNew Target Extraction: N Corp. #1\nJP :\n新規特定抽出 N社-#1"
+  },
+  {
+    "key": "103-content",
+    "original": "특정 추출 로쟈",
+    "context": "EN :\nTarget Extraction: Rodion\nJP :\n特定抽出ロージャ"
+  },
+  {
+    "key": "104-content",
+    "original": "신규 특정 추출 N사-#2",
+    "context": "EN :\nNew Target Extraction: N Corp. #2\nJP :\n新規特定抽出 N社-#2"
+  },
+  {
+    "key": "105-content",
+    "original": "특정 추출 히스클리프",
+    "context": "EN :\nTarget Extraction: Heathcliff\nJP :\n特定抽出 ヒースクリフ"
+  },
+  {
+    "key": "106-content",
+    "original": "신규 특정 추출 세븐 협회 6과 부장 오티스, 리우 협회 5과 홍루",
+    "context": "EN :\nNew Target Extraction: Seven S6 Director Outis & Liu S5 Hong Lu\nJP :\n新規特定抽出 セブン協会7課部長 ウーティス, リウ協会5課 ホンル"
+  },
+  {
+    "key": "107-content",
+    "original": "특정 추출 돈키호테",
+    "context": "EN :\nTarget Extraction: Don Quixote\nJP :\n特定抽出 ドンキホーテ"
+  },
+  {
+    "key": "108-content",
+    "original": "신규 특정 추출 헬스 치킨",
+    "context": "EN :\nNew Target Extraction: Hell’s Chicken\nJP :\n新規特定抽出 ヘルズチキン"
+  }
+]

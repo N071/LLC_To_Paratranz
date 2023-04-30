@@ -1,0 +1,950 @@
+[
+  {
+    "key": "0-place",
+    "original": "싱클레어의 옛 저택",
+    "context": "EN :\nThe Old Sinclair Estate\nJP :\nシンクレアのかつての邸宅"
+  },
+  {
+    "key": "0-content",
+    "original": "싱클레어의 집은 마을에서 가장 안쪽에 있는, 제일 커다란 저택이었다.",
+    "context": "EN :\nSinclair’s home was the largest mansion in the neighborhood, standing at the innermost part of town.\nJP :\nシンクレアの家は町の一番奥にある、一番大きな邸宅だった。"
+  },
+  {
+    "key": "1-content",
+    "original": "멀리서도 그 저택이 불길에 거세게 타오르고 있다는 것이 한눈에 보였다.",
+    "context": "EN :\nOne could see from a distance that a huge flame was engulfing the estate.\nJP :\n遠くからでもその邸宅が燃え盛っているのが、一目で分かった。"
+  },
+  {
+    "key": "2-content",
+    "original": "잠깐동안 이 마을이 한창 평화로웠을 시절에 대해 상상해 보았다.",
+    "context": "EN :\nI took a moment to try and imagine what this town could have looked like during its peaceful times.\nJP :\nしばらくの間、この町が平和だった頃について思い浮かべてみた。"
+  },
+  {
+    "key": "3-content",
+    "original": "그러니까, 마을에 진입하기 전부터 보였던 나무들이 지금과는 다르게 푸릇푸릇한 잎사귀를 가지고 있었을 시기 말이다.",
+    "context": "EN :\nTo bring to mind the times when the trees we saw near the town still had lush, verdant leaves.\nJP :\nつまり、町に入る前から見える木々が、\n今とは違って青々とした葉っぱを生やしていた頃のことだ。"
+  },
+  {
+    "key": "4-content",
+    "original": "그 시기의 싱클레어가 어떤 모습이었을지.",
+    "context": "EN :\nHow Sinclair would’ve been during those times.\nJP :\nその頃のシンクレアがどんな姿だったのか。"
+  },
+  {
+    "key": "5-content",
+    "original": "혹은 모두가 죽었을 때는 어떤 모습이었을지.",
+    "context": "EN :\nOr when everyone around him had died.\nJP :\nあるいは皆が死んだときはどんな姿だったのか。"
+  },
+  {
+    "key": "6-content",
+    "original": "행복 혹은 절망 둘 중 어느 것 하나 나는 제대로 알지 못했다.",
+    "context": "EN :\nI couldn’t paint a clear picture of either happiness or despair.\nJP :\n幸せもしくは絶望、どちらも私にはよく分からなかった。"
+  },
+  {
+    "key": "7-content",
+    "original": "그럼에도 나는 싱클레어가 앞으로 인사를 건넬 불행에게 조금은 덤덤해지길 바란다.",
+    "context": "EN :\nNonetheless, I only hope that Sinclair can brace himself for the misfortune he’ll soon have to face.\nJP :\nそれでも私は、シンクレアがこれから巡り会うことになる不幸に、少しは淡々としていられるようになることを願った。"
+  },
+  {
+    "key": "8-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "8-content",
+    "original": "정말… 심하네요, 이건…",
+    "context": "EN :\nThis is… awful, to say the least…\nJP :\n本当に…酷いですね、これは…。"
+  },
+  {
+    "key": "9-content",
+    "original": "한 때는 드넓은 정원이었을지도 모르는 마당이 지금은 높이 솟은 못들로 빼곡히 메워져 있었다.",
+    "context": "EN :\nA courtyard that could have once been a vast, flourishing garden was now full of nails erected tall.\nJP :\nかつては広々とした庭園だったかもしれない庭が、\n今は高くそびえる釘でびっちりと埋め尽くされていた。"
+  },
+  {
+    "key": "10-content",
+    "original": "장대같이 높이 솟아오른 수많은 못에는 가지각색의 의체들이 꽂혀 있었고,",
+    "context": "EN :\nA variety of prosthetic bodies were pierced by those towering nails.\nJP :\n塔のように高くそびえる数多の釘には、様々な義体が刺さっていて、"
+  },
+  {
+    "key": "11-content",
+    "original": "집은 그 모든 걸 집어삼킬 기세로 거세게 타오르고 있었다.",
+    "context": "EN :\nAnd the house was enveloped in ferocious flame, ready to consume everything around it.\nJP :\n家はその全てを飲み込む勢いで激しく燃えていた。"
+  },
+  {
+    "key": "12-content",
+    "original": "모두의 눈이 의체들에게 박혀 있는 와중에,",
+    "context": "EN :\nWhile everyone’s attention was drawn to the prostheses…\nJP :\nみんなの視線が義体に突き刺さってる最中、"
+  },
+  {
+    "key": "13-content",
+    "original": "싱클레어의 시선은 마당의 한구석을 향했다.",
+    "context": "EN :\nSinclair’s eyes drifted to a corner of the yard.\nJP :\nシンクレアの視線は庭の片隅へ向かっていた。"
+  },
+  {
+    "key": "14-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "14-content",
+    "original": "무덤, 들이… 파헤쳐져 있어…?",
+    "context": "EN :\nThe graves, they’re… dug up…?\nJP :\n墓石、が…暴かれてる…？"
+  },
+  {
+    "key": "15-content",
+    "original": "시선을 따라가 보니, 무덤 세 개가 마구잡이로 헤집어져 있었다.",
+    "context": "EN :\nFollowing his gaze, I could see three graves that were violated.\nJP :\n視線を追ってみると、三つの墓がめちゃくちゃに荒されていた。"
+  },
+  {
+    "key": "16-content",
+    "original": "싱클레어의 표정만으로도 그 무덤의 주인이 누구인지, 수감자 모두가 알 수 있었을 것이다.",
+    "context": "EN :\nSinclair’s expression alone was enough for me and all the other Sinners to guess who they were for.\nJP :\nシンクレアの表情だけでもその墓の主が誰なのか\n囚人全員、知ることが出来ただろう。"
+  },
+  {
+    "key": "17-model",
+    "original": "이상",
+    "translation": "李箱",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "17-content",
+    "original": "…부관참시라니, 마귀가 따로 없구료.",
+    "context": "EN :\n…To execute the dead—this is nothing short of a devil’s work.\nJP :\n…死後処刑とは、悪魔の所業なり。"
+  },
+  {
+    "key": "18-content",
+    "original": "아버지와 어머니, 누나.",
+    "context": "EN :\nFather, mother, and sister.\nJP :\nお父さんとお母さん、お姉さん。"
+  },
+  {
+    "key": "19-content",
+    "original": "언젠가 싱클레어가 말했던 가족 구성원의 무덤이다.",
+    "context": "EN :\nThe family he mentioned… That’s where they should be resting.\nJP :\nいつかシンクレアが言っていた家族の墓だ。"
+  },
+  {
+    "key": "20-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "20-content",
+    "original": "잠깐… 거수자 한 명, 전방이다.",
+    "context": "EN :\nHalt… One Uniform, straight ahead.\nJP :\n待て…挙不者一名、前方だ。"
+  },
+  {
+    "key": "21-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "21-content",
+    "original": "휘파람 소리…",
+    "context": "EN :\nThat whistling…\nJP :\n口笛の音…。"
+  },
+  {
+    "key": "22-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "22-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "22-content",
+    "original": "크크큭, 아니 아무리 생각해도 너무 웃기잖아.",
+    "context": "EN :\nKehehe. I mean, it’s just too funny when you think about it.\nJP :\nくくくっ、いや、いくら何でも面白すぎ。"
+  },
+  {
+    "key": "23-content",
+    "original": "불타오르는 집의 안에서부터 누군가가 걸어 나왔다.",
+    "context": "EN :\nSomeone walked out of the burning household.\nJP :\n燃え盛る家の中から誰かが歩いてきた。"
+  },
+  {
+    "key": "24-content",
+    "original": "어떻게 들어도 사악하다고 밖에 생각할 수 없는 웃음을 흘리며.",
+    "context": "EN :\nHer laugh was simply sinister in every way imaginable.\nJP :\nどう聞いても邪悪としか思えない笑い声を垂れ流しながら。"
+  },
+  {
+    "key": "25-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "25-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "25-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "25-content",
+    "original": "썩지도 않는 몸뚱이들을 정성스럽게 묻어 놓는 거 말이야… 그치?",
+    "context": "EN :\nWhy put so much effort into burying bodies that can’t even rot… Am I right?\nJP :\n腐りもしない体を丁寧に埋めておくだなんて…ね？"
+  },
+  {
+    "key": "26-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "26-content",
+    "original": "크로머…",
+    "context": "EN :\nKromer…\nJP :\nクローマー…。"
+  },
+  {
+    "key": "27-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "27-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "27-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "27-content",
+    "original": "그래도 여기 꼬챙이들 중에 잘 찾아보면 찾을 수 있을 거야. 내가 어디에 꽂아 놓긴 했거든.",
+    "context": "EN :\nI’m sure you’ll find ‘em around somewhere if you look hard enough. I do remember nailing those three.\nJP :\nでも、ここの串の中をよく探せば見つかると思う。\n私がどこかに突き刺しておいたんだ。"
+  },
+  {
+    "key": "28-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "28-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "28-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "28-content",
+    "original": "내 말 잘 들으면 위치를 알려줄 수도 있는데…",
+    "context": "EN :\nBe a good boy, and I might just tell you where they are…\nJP :\n私の言うことをよく聞いてくれるなら、場所を教えてあげてもいいけど…。"
+  },
+  {
+    "key": "29-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "29-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "29-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "29-content",
+    "original": "어때? 싱클레어. 여기까지 찾아오다니 많이 용감해진 것 같은데.",
+    "context": "EN :\nWell, Sinclair? You’ve grown a spine, coming all the way here.\nJP :\nどう？ シンクレア。ここまで来れたなんて、すごく勇敢になったみたいだね。"
+  },
+  {
+    "key": "30-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "30-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "30-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金槌"
+  },
+  {
+    "key": "30-content",
+    "original": "시체들을 쳐다볼 용기도 기르고 온 거, 맞지?",
+    "context": "EN :\nEnough of one to look at a few dead bodies too, right?\nJP :\n死体を見つめる勇気も育んできたんだ、そうだよね？"
+  },
+  {
+    "key": "31-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "31-content",
+    "original": "왜… 대체… 이렇게…",
+    "context": "EN :\nWhy… Just… Why all this…?\nJP :\nどうして…一体…こんな…。"
+  },
+  {
+    "key": "32-content",
+    "original": "싱클레어는 제대로 된 말조차 내뱉지 못하고 있다.",
+    "context": "EN :\nSinclair couldn’t even speak properly.\nJP :\nシンクレアはまともな言葉さえ吐けずにいる。"
+  },
+  {
+    "key": "33-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "33-content",
+    "original": "비포 팀들은 어디 간 거지? 이 지점까지 왔다면 모습을 보일 정도는 되었는데…",
+    "context": "EN :\nWhere did our Before Team get off to? They’ve got to turn up at this point…\nJP :\nビフォーチームはどこへ行った？\nこの地点まで来れば姿を見せるくらいは出来るだろうに…。"
+  },
+  {
+    "key": "34-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "34-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "34-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "34-content",
+    "original": "아~ 싱클레어 친구들!",
+    "context": "EN :\nAh~ Sinclair’s got some buddies!\nJP :\nあ～シンクレアのお友達！"
+  },
+  {
+    "key": "35-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "35-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "35-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "35-content",
+    "original": "같이 숨어 들어온 다른 쥐새끼들을 찾나 봐?",
+    "context": "EN :\nLooking for the other filthy ratlets that snuck in here?\nJP :\n一緒に隠れて入ってきた他のネズミを探してるんだね？"
+  },
+  {
+    "key": "36-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "36-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "36-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "36-content",
+    "original": "좋아, 좋아. 잘 봐. 내가 조명을 켜줄 테니까, 눈 크게 뜨고!",
+    "context": "EN :\nOkay, okay. Watch closely. I’ll turn on the lights, so open your eyes wide!\nJP :\nよし、よし。よく見てて。私が照明を点けてあげるから、目を大きく開けて！"
+  },
+  {
+    "key": "37-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "37-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\n크로머"
+  },
+  {
+    "key": "37-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "37-content",
+    "original": "짜잔!",
+    "context": "EN :\nTadaa!\nJP :\nじゃじゃーん！"
+  },
+  {
+    "key": "38-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "38-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "38-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "38-content",
+    "original": "컥, 커억…",
+    "context": "EN :\nKrgh, khaag…\nJP :\nけ、けほっ…。"
+  },
+  {
+    "key": "39-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "39-content",
+    "original": "에피…?",
+    "context": "EN :\nEffie…?\nJP :\nエピ…？"
+  },
+  {
+    "key": "40-content",
+    "original": "겨우 숨만 붙어 있는 에피는 팔과 다리를 잘라낸 뒤, 억지로 쑤셔 넣은 듯 비틀린 팔과 다리의 의체가 끼워 넣어져 있었다.",
+    "context": "EN :\nEffie was barely breathing. His limbs had been cut away, and deformed prosthetics were crudely lodged in their place.\nJP :\nやっとのことで息をしているエピは腕と足が斬られ、\n無理やり押し込んだかのように曲がった腕と足の義体が\n取り付けられていた。"
+  },
+  {
+    "key": "41-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "41-content",
+    "original": "에피 씨!!!",
+    "context": "EN :\nEffie!!!\nJP :\nエピさん！！！"
+  },
+  {
+    "key": "42-content",
+    "original": "에피는 이미 제대로 된 말도 뱉어내지 못할 정도로 만신창이인 상태였다.",
+    "context": "EN :\nHe was too mutilated to even speak a single word.\nJP :\nエピは既にまともな言葉も吐き出せないくらい、満身創痍だった。"
+  },
+  {
+    "key": "43-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "43-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "44-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "44-content",
+    "original": "저대로라면 온전히 사망까지 걸리는 기간은 평균적으로 이틀이예요.",
+    "context": "EN :\nIn his current state, it will take around two days for him to completely die.\nJP :\nあのままだと、完全に死亡するまで掛かる時間は平均して二日です。"
+  },
+  {
+    "key": "45-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "45-content",
+    "original": "장대에 서서히 꽂히면서 고통은 배가 되겠죠.",
+    "context": "EN :\nAnd the pole piercing through him will only amplify his suffering.\nJP :\n棒へに徐々に刺さりながら、痛みは倍となるでしょう。"
+  },
+  {
+    "key": "46-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "46-content",
+    "original": "<그럼…>",
+    "context": "EN :\n<Then…>\nJP :\n<それじゃあ…。>"
+  },
+  {
+    "key": "47-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "47-content",
+    "original": "관리자님, 저는 사람을 최대한 고통 없이 보낼 방법을 알고 있습니다.",
+    "context": "EN :\nManager, I happen to know of a method to end a life with as little pain as possible.\nJP :\n管理人様、私は人をなるべく苦痛が無いように介錯する方法を知っております。"
+  },
+  {
+    "key": "48-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "48-content",
+    "original": "쓰였던 적이 많은 기술이라 말이죠…",
+    "context": "EN :\nIt’s one that saw many uses, in fact…\nJP :\n使うことの多い技術ですから…。"
+  },
+  {
+    "key": "49-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "49-content",
+    "original": "명령을 요청해도 되겠습니까?",
+    "context": "EN :\nMay I ask you to give me the order?\nJP :\n命令を要請してもよろしいでしょうか？"
+  },
+  {
+    "key": "50-content",
+    "original": "그레고르와 이스마엘을 번갈아 바라보았다.",
+    "context": "EN :\nI looked to both Gregor and Ishmael.\nJP :\nグレゴールとイシュメールを交互に見つめた。"
+  },
+  {
+    "key": "51-content",
+    "original": "그들 또한 나를 쳐다보다가… 약속이라도 한 듯 고개를 떨구며 입술을 꽉 물었다.",
+    "context": "EN :\nThey gazed back at me, and… as if in acknowledgement, dropped their heads low and bit their lips.\nJP :\n二人もまた私を見つめ…示し合わせていたかのように\n項垂れ、唇をぎゅっと噛み締めた。"
+  },
+  {
+    "key": "52-content",
+    "original": "나는 그것이 무얼 뜻하는지 알고 있었다.",
+    "context": "EN :\nI understood what that meant.\nJP :\n私はそれが何を意味するのか知っていた。"
+  },
+  {
+    "key": "53-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "53-content",
+    "original": "…편해지도록.",
+    "context": "EN :\n…Rest in peace.\nJP :\n…安らかに。"
+  },
+  {
+    "key": "54-content",
+    "original": "오티스의 옷깃이 스치는 소리가 있었고.",
+    "context": "EN :\nThe collar of Outis’s clothes brushed against the wind.\nJP :\nウーティスの襟が掠れる音があり。"
+  },
+  {
+    "key": "55-content",
+    "original": "적막이 뒤를 이었다.",
+    "context": "EN :\nThen silence.\nJP :\n寂寞が後に続いた。"
+  },
+  {
+    "key": "56-content",
+    "original": "그리고, 그 적막은 크로머의 폭소로 순식간에 찢어발겨진다.",
+    "context": "EN :\nAnd—it’s then broken by Kromer’s roaring laughter.\nJP :\nそして、その寂寞はクローマーの大笑いであっという間に破り捨てられた。"
+  },
+  {
+    "key": "57-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "57-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "57-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "57-content",
+    "original": "풉… 푸하하하하!!",
+    "context": "EN :\nPfh… Pwahahahaha!!\nJP :\nぷっ…プハハハハ！！"
+  },
+  {
+    "key": "58-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "58-content",
+    "original": "아.",
+    "context": "EN :\nAh.\nJP :\nあ。"
+  },
+  {
+    "key": "59-content",
+    "original": "동시에, 무언가 깨어져 나가는 소리도 들리는 듯했다.",
+    "context": "EN :\nAt the same time, I could hear something else break.\nJP :\n同時に、何かが割れていく音も聞こえた気がした。"
+  },
+  {
+    "key": "60-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "60-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "60-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "60-content",
+    "original": "어차피 다 같은 꼴이 될 텐데, 챙겨주는 꼴 진짜 웃긴다!",
+    "context": "EN :\nReally, it’s hilarious to watch you all care for each other when you’ll all meet the same fate anyway!\nJP :\nどうせみんな同じザマになるのに、最後まで面倒を見てあげるとかホント笑える！"
+  },
+  {
+    "key": "61-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "61-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "61-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "61-content",
+    "original": "싱클레어, 이러니까 옛날 생각나지 않아?",
+    "context": "EN :\nBrings you back, doesn’t it, Sinclair?\nJP :\nシンクレア、こうしてると昔のこと思い出さない？"
+  },
+  {
+    "key": "62-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "62-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "62-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "62-content",
+    "original": "그때, 네 표정도 진짜 볼만 했었는데.",
+    "context": "EN :\nYour face back then was real priceless.\nJP :\nあのときの、君の表情も本当に見応えがあったのに。"
+  },
+  {
+    "key": "63-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "63-content",
+    "original": "크로머.",
+    "context": "EN :\nKromer.\nJP :\nクローマー。"
+  },
+  {
+    "key": "64-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "64-content",
+    "original": "너는 죽어야만 해.",
+    "context": "EN :\nYou have to die.\nJP :\nお前は死ぬべきだ。"
+  },
+  {
+    "key": "65-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "65-content",
+    "original": "응. 그게 맞는 것 같아.",
+    "context": "EN :\nYeah, I think that’s the right way.\nJP :\nうん。それが良いんだ。"
+  },
+  {
+    "key": "66-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "66-content",
+    "original": "너는 내 손에…!",
+    "context": "EN :\nYou’ll die by my—!\nJP :\nお前は僕の手で…！"
+  },
+  {
+    "key": "67-content",
+    "original": "그때, 바닥에 못이 천천히 끌리는 소리가 들려왔다.",
+    "context": "EN :\nHe was interrupted by the sound of a nail dragging across the floor.\nJP :\nそのとき、床で釘がゆっくりと引き摺られる音が聞こえてきた。"
+  },
+  {
+    "key": "68-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "68-content",
+    "original": "…귀도라는 작자군.",
+    "context": "EN :\n…It’s Guido.\nJP :\n…グイドという奴か。"
+  },
+  {
+    "key": "69-content",
+    "original": "전력을 다했다고 생각했지만, 그 짧은 시간 동안 금세 회복이라도 한 건지 걸어오는 모습에는 어떤 부상의 흔적도 찾아볼 수 없다.",
+    "context": "EN :\nWe thought we had felled him with our best, but not a scratch was on his body now. It was as if all his injuries healed in that short time.\nJP :\n全力を尽くしたはずだが、あの短い間に全快したのか、\n歩いてくる姿にはいかなる怪我の痕跡すら見受けられない。"
+  },
+  {
+    "key": "70-content",
+    "original": "그 모습이 수감자들의 진력을 단숨에 빠지게 했고…",
+    "context": "EN :\nSeeing him walk towards us in perfect condition fatigued the Sinners…\nJP :\nその姿が囚人の気力を一気に失わせ…。"
+  },
+  {
+    "key": "71-content",
+    "original": "다들 마땅히 할 말을 찾지 못한 채 마음 깊은 곳에서부터 올라오는 탄식을\n뱉어낸다.",
+    "context": "EN :\nRendered speechless, all they can muster from their hearts is a deep groan of contempt.\nJP :\n誰もが的確な言葉を見つけられないまま、\n心の奥底から上がってくる溜め息を吐き出す。"
+  },
+  {
+    "key": "72-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "72-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "72-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "72-content",
+    "original": "귀도, 나머지는 왜 처리를 못 한 거야?",
+    "context": "EN :\nGuido, why couldn’t you take out the others?\nJP :\nグイド、残りのはどうして処理できなかったの？"
+  },
+  {
+    "key": "73-model",
+    "original": "귀도",
+    "translation": "圭多",
+    "context": "EN :\n钉与锤\nJP :\nGuido"
+  },
+  {
+    "key": "73-teller",
+    "original": "귀도",
+    "context": "EN :\nGuido\nJP :\nグイド"
+  },
+  {
+    "key": "73-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "73-content",
+    "original": "용서하십시오, 쥐는 자시여. 제가 미력하였기에.",
+    "context": "EN :\nForgive my ineptitude, O One Who Grips. My incompetence allowed them to escape.\nJP :\nお許しくださいませ、握る者よ。私が微力が故に。"
+  },
+  {
+    "key": "74-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "74-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "74-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "74-content",
+    "original": "항상 경계해야 해. 저 망할 철판 떼기 머리에는 뭐가 숨겨져 있을지 알 수 없거든.",
+    "context": "EN :\nYou have to stay alert. You never know what’s hidden under those cursed steel craniums.\nJP :\n常に警戒しなきゃだめ。\nあのクソ鉄頭には何が隠されているのか分からないからね。"
+  },
+  {
+    "key": "75-model",
+    "original": "귀도",
+    "translation": "圭多",
+    "context": "EN :\n钉与锤\nJP :\nGuido"
+  },
+  {
+    "key": "75-teller",
+    "original": "귀도",
+    "context": "EN :\nGuido\nJP :\nグイド"
+  },
+  {
+    "key": "75-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "75-content",
+    "original": "명심하겠습니다. 쥐는 자시여.",
+    "context": "EN :\nI shall keep your word at heart, O One Who Grips.\nJP :\n肝に銘じます。握る者よ。"
+  },
+  {
+    "key": "76-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "76-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "76-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "76-content",
+    "original": "재회는 끝났으니까, 나는 다시 돌아간다.",
+    "context": "EN :\nSince the reunion is over, I’ll be heading back.\nJP :\n再会は終わったし、私は帰るね。"
+  },
+  {
+    "key": "77-content",
+    "original": "크로머는 뒤를 돌아 불이 타오르는 집 안으로 걸어 들어간다.",
+    "context": "EN :\nKromer turns around to walk into the burning mansion.\nJP :\nクローマーは後ろを向いて、燃え盛る家の中へ歩いて入った。"
+  },
+  {
+    "key": "78-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "78-content",
+    "original": "크로머!!!",
+    "context": "EN :\nKromer!!!\nJP :\nクローマー！！！"
+  },
+  {
+    "key": "79-model",
+    "original": "싱클레어",
+    "translation": "辛克莱",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "79-content",
+    "original": "돌아와! 내가… 널! 이 손으로 쥐어 잡고…",
+    "context": "EN :\nGet back here! I’ll… I swear, you—! I’ll grab you with my hand and—\nJP :\n戻れ！僕が…お前を！この手で掴んで…。"
+  },
+  {
+    "key": "80-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "80-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "80-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "80-content",
+    "original": "아니지. 싱클레어.",
+    "context": "EN :\nNope, Sinclair.\nJP :\nいいえ、シンクレア。"
+  },
+  {
+    "key": "81-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "81-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "81-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "81-content",
+    "original": "항상 그랬지만…",
+    "context": "EN :\nIt’s always been the other way around…\nJP :\nいつもそうだったけど…。"
+  },
+  {
+    "key": "82-content",
+    "original": "집어삼키는 것이 화마인지 크로머인지 구별이 안 될 정도로 크로머는 입꼬리를 길게 늘여 웃는다.",
+    "context": "EN :\nA long smirk dances across Kromer’s entire face; it’s hard to tell if it’s the violent blaze or Kromer’s vice that is consuming the other.\nJP :\n飲み込まんとしているのは悪魔のような業火か、それともクローマーか。\nその区別が出来ないくらいに、クローマーは\n口元をうんとつり上げて悪魔のように笑う。"
+  },
+  {
+    "key": "83-content",
+    "original": "그리고는…",
+    "context": "EN :\nAnd then…\nJP :\nそうしては…。"
+  },
+  {
+    "key": "84-model",
+    "original": "크로머",
+    "translation": "克罗默",
+    "context": "EN :\n钉与锤\nJP :\nCromer"
+  },
+  {
+    "key": "84-teller",
+    "original": "크로머",
+    "context": "EN :\nKromer\nJP :\nクローマー"
+  },
+  {
+    "key": "84-title",
+    "original": "못과 망치",
+    "context": "EN :\nNagel und Hammer\nJP :\n釘と金鎚"
+  },
+  {
+    "key": "84-content",
+    "original": "쥐는 건 나야.",
+    "context": "EN :\nI am the one who grips.\nJP :\n握るのは私よ。"
+  }
+]

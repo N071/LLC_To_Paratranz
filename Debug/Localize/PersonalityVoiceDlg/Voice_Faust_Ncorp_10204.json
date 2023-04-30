@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10204_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10204_1-dlg",
+    "original": "함께 하시겠나요…? 추악함을 정화하는 대업을.",
+    "context": "EN :\nWill you join me… in the great task to purify the abominable filth?\nJP :\n共にしますか…？醜悪さを浄化する大業を。"
+  },
+  {
+    "key": "lobby_morning_10204_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10204_1-dlg",
+    "original": "연설시간에 맞춰오셨군요! 후후, 기특하군요.",
+    "context": "EN :\nYou came just in time for the sermons! Huhu, you deserve some praise.\nJP :\n演説の時間に合わせてきたのですね！ふふ、殊勝な心掛けです。"
+  },
+  {
+    "key": "lobby_noon_10204_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10204_1-dlg",
+    "original": "아… 밖은 지금 점심 시간인가보죠? 큭큭… 너무 관심사 밖이라.",
+    "context": "EN :\nOh… Is it lunchtime outside? Keehee… Pardon, I couldn’t care less about such things.\nJP :\nあぁ…外は今お昼の時間のようですね？くっくっ…関心外すぎる事柄でしたので。"
+  },
+  {
+    "key": "lobby_night_10204_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10204_1-dlg",
+    "original": "정화의 시간입니다… 더러운 것들을 순수의 흙에서 떼어내 버릴 시간이죠.",
+    "context": "EN :\nIt is the time of purification… the hour for us to remove filth from the soil of purity.\nJP :\n浄化の時間です…汚いモノ達を純粋の土から引き剥がしてしまう時間です。"
+  },
+  {
+    "key": "smalltalk_10204_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10204_1-dlg",
+    "original": "고통을 받아들여야 해요! 그걸 초월한 순간에야… 다시 태어날 수 있으니까요.",
+    "context": "EN :\nYou must accept the pain! You have to transcend it… Only then may you be reborn.\nJP :\n苦痛を受け容れねばなりません！それを超越した瞬間に…生まれ変わることができますから。"
+  },
+  {
+    "key": "smalltalk_10204_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10204_2-dlg",
+    "original": "파우스트를 따라오세요… 제게 쥐여지는 겁니다… 크흣.",
+    "context": "EN :\nCome, follow Faust… You will be gripped by my hands… Keehee.\nJP :\nファウストに従うのです…私に握られるのです…くふっ。"
+  },
+  {
+    "key": "smalltalk_10204_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10204_3-dlg",
+    "original": "인간을 구성하는 것은 살과 피… 그리고 뼈. 그 밖의 것은 불결할뿐이에요.\n…그 가면 정도는 봐드리죠. 의복과 다를 바 없으니까요.",
+    "context": "EN :\nWhat constitutes a human is flesh, blood… and bone. All else is filth.\n…I can give that mask of yours a pass. It’s essentially a piece of clothing.\nJP :\n人間を構成するものは肉と血…そして骨。それ以外のモノは不潔でしかありません。\n…その仮面程度は大目に見ましょう。衣服とそう変わりありませんからね。"
+  },
+  {
+    "key": "smalltalk_10204_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10204_4-dlg",
+    "original": "당신은… 손에 묻은 것을 씻어내지 않나요?\n킥킥… 거봐요. 불결한 것을 씻어내는건 당연한 이치랍니다.",
+    "context": "EN :\nDo you… not wash your hands when they are begrimed?\nKeekee… See now, to cleanse filth is a natural thing to do.\nJP :\n貴方は…手に付いたモノを洗い流さないのですか？\nくっくっ…ほら。不潔なモノを洗い流すことは当然の理ですよ。"
+  },
+  {
+    "key": "smalltalk_10204_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10204_5-dlg",
+    "original": "회사가… 항상 정답은 아니지요. 때로는… 스스로 개척할 때도 필요하답니다?",
+    "context": "EN :\nThe company… doesn’t always have the right answer. At times… you need to forge your own path, you know?\nJP :\n会社が…常に答えではありません。ときには…自ら計画する必要もあるのですよ？"
+  },
+  {
+    "key": "neglect_10204_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10204_1-dlg",
+    "original": "할말도 없는데 파우스트를 잡고 있던 건가요…? 훗, 이번만 넘어가드리죠.",
+    "context": "EN :\nYou’ve been keeping Faust here with nothing to say…? Hah, forgiveness comes to you just this once.\nJP :\n言うこともないのにファウストを捕まえていたのですか…？ふっ、今回だけは赦してあげましょう。"
+  },
+  {
+    "key": "gacksung_10204_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10204_1-dlg",
+    "original": "높이… 더 높이! 더욱… 순수한 몸으로… 후훗!",
+    "context": "EN :\nHigher… Still higher! Let me advance… toward a purer body… Huhu!\nJP :\n高く…より高く！より…純粋な身体に…ふふっ！"
+  },
+  {
+    "key": "formation_10204_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10204_1-dlg",
+    "original": "망치를 쥐고.",
+    "context": "EN :\nWith hammer in hand.\nJP :\n金鎚を握り。"
+  },
+  {
+    "key": "battleentry_10204_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10204_1-dlg",
+    "original": "파우스트가 나설 만한 곳이어야 할겁니다.",
+    "context": "EN :\nThis had better be worthy of Faust’s participation.\nJP :\nファウストが出るに値する場所なのでしょうね。"
+  },
+  {
+    "key": "battle_select_10204_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10204_1-dlg",
+    "original": "고해는 나중에.",
+    "context": "EN :\nSave your confession for later.\nJP :\n告解は後ほど。"
+  },
+  {
+    "key": "battle_endcommand_10204_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10204_1-dlg",
+    "original": "정화!",
+    "context": "EN :\nPurge!\nJP :\n浄化！"
+  },
+  {
+    "key": "battle_enemy_break_10204_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10204_1-dlg",
+    "original": "흙에서…",
+    "context": "EN :\nFrom dirt…\nJP :\n土より…。"
+  },
+  {
+    "key": "battle_break_10204_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10204_1-dlg",
+    "original": "…맙소사.",
+    "context": "EN :\n…Goodness.\nJP :\n…まさか。"
+  },
+  {
+    "key": "battle_kill_10204_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10204_1-dlg",
+    "original": "…흙으로!",
+    "context": "EN :\n…to dirt!\nJP :\n…土へ！"
+  },
+  {
+    "key": "battle_dead_10204_1-desc",
+    "original": "본인 사망",
+    "context": "EN :\nDeath\nJP :\n本人死亡"
+  },
+  {
+    "key": "battle_dead_10204_1-dlg",
+    "original": "아직… 완전해지지…",
+    "context": "EN :\nI’ve… yet to be whole…\nJP :\nまだ…完全には…。"
+  },
+  {
+    "key": "choice_success_p_10204_2-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10204_2-dlg",
+    "original": "당연하지!",
+    "context": "EN :\nNaturally!\nJP :\n当然よ！"
+  },
+  {
+    "key": "choice_fail_n_10204_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10204_1-dlg",
+    "original": "…뭐야?",
+    "context": "EN :\nHow could…?\nJP :\n…何よ？"
+  },
+  {
+    "key": "battle_clear_10204_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10204_1-dlg",
+    "original": "정화는 끝났나…? 흐흣.",
+    "context": "EN :\nIs the purification over…? Heeheh.\nJP :\n浄化は終わった…？ふふっ。"
+  },
+  {
+    "key": "battle_clear_ex_10204_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10204_1-dlg",
+    "original": "가장 순수한 세상으로!",
+    "context": "EN :\nToward the purest world!\nJP :\n最も純粋な世界へと！"
+  },
+  {
+    "key": "battle_defeat_10204_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10204_1-dlg",
+    "original": "패배…? 믿을 수가 없네. 망치들은 어디갔지?",
+    "context": "EN :\nDefeat…? This is unbelievable. Where are my hammers?\nJP :\n敗北…？信じられないわね。金鎚達はどこへ行った？"
+  }
+]

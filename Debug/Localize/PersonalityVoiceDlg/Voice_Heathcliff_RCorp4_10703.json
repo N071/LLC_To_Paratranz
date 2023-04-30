@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_10703_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_10703_1-dlg",
+    "original": "깡총깡총… 뛰면서… 토끼가 왔다. 다 쳐부수러!",
+    "context": "EN :\nHippity-hop… Out on a bop… The rabbit hops in. To smash it to bits!\nJP :\nぴょんぴょん…飛びながら…ウサギが来た。全部ぶっ潰しにな！"
+  },
+  {
+    "key": "lobby_morning_10703_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_10703_1-dlg",
+    "original": "뭐? 새벽에 세수하러 온 토끼 처음 보냐?",
+    "context": "EN :\nWhat? Never seen a hare up early to wash his face before?\nJP :\nは？夜明けに顔洗いに来たウサギは初めて見たってか？"
+  },
+  {
+    "key": "lobby_noon_10703_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_10703_1-dlg",
+    "original": "어디 괜찮은 작전 없나? 생각만 해도 피가 돌고 눈이 붉어질 것 같은… 그런 화끈한 작전 말이야.",
+    "context": "EN :\nGot any good missions for me? The kind that gets the blood pumping and eyes fierce… One of those exciting ones.\nJP :\nどこかに良い作戦はないか？考えるだけで血が巡って目が朱くなりそうな…そんな熱い作戦な。"
+  },
+  {
+    "key": "lobby_night_10703_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_10703_1-dlg",
+    "original": "이래 보여도 난 야행성이야. 어둠은 날 더 날뛰게 해준다는 뜻이지.",
+    "context": "EN :\nI may not look it, but I’m a nocturnal creature—means the dark spurs me further.\nJP :\nこう見えてもオレは夜行性なんだよ。暗闇はオレをもっと飛び跳ねさせるってことだ。"
+  },
+  {
+    "key": "smalltalk_10703_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_10703_1-dlg",
+    "original": "이봐! 가만히 앉아서 시시껄렁한 수다나 떨 시간에 임무나 하나 더 보내줘.",
+    "context": "EN :\nOi there! If you’ve got time for silly chinwags, send me on a mission instead.\nJP :\nおい！じっと座ってくっだらねぇお喋りしてる暇があるんなら、その分任務に送ってくれよ。"
+  },
+  {
+    "key": "smalltalk_10703_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_10703_2-dlg",
+    "original": "난 토끼야. 풀이 있는 곳이라면 어디든 가서 전부 해치워 버리지.",
+    "context": "EN :\nI’m a rabbit. I go anywhere with grass to graze.\nJP :\nオレはウサギだ。草がある場所ならどこであろうと行って片付けるのさ。"
+  },
+  {
+    "key": "smalltalk_10703_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_10703_3-dlg",
+    "original": "토끼가 약하다고 누가 그러지? 굶주린 토끼 떼들을 만나면 무슨 일이 일어나는지, 본 적 있어?",
+    "context": "EN :\nWho says rabbits’re weak? Ever seen what happens when you try to fight a horde of starving coneys?\nJP :\n誰がウサギは弱いって？餓えたウサギの群れに出くわしたらどうなるか、見たことあるか？"
+  },
+  {
+    "key": "smalltalk_10703_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_10703_4-dlg",
+    "original": "혹시 내가 싸우다가 형씨까지 공격하더라도 너무 원망하지는 마. 토끼의 습성이니까.",
+    "context": "EN :\nDon’t get too bitter if I wallop you while I’m fightin’, mate. It’s in the rabbit’s nature.\nJP :\nもしオレが戦ってて、あんさんまで攻撃してもそんなに恨むなよ。ウサギの習性だからな。"
+  },
+  {
+    "key": "smalltalk_10703_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_10703_5-dlg",
+    "original": "그 시계 대가리 좀 쓸만한 거 같은데, 같이 토끼 팀이 되어서 뜀박질해 볼 생각은 없어?",
+    "context": "EN :\nThat clock of yours seems pretty useful, so why don’tcha join the Rabbit Team and hop with me?\nJP :\nその時計ヅラちょっと使えそうだな、一緒にウサギチームになって飛び回るつもりはねぇか？"
+  },
+  {
+    "key": "neglect_10703_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_10703_1-dlg",
+    "original": "그거 알아? 토끼는, 귀도 밝아. ",
+    "context": "EN :\nDid you know? A rabbit’s got good ears, too.\nJP :\n知ってるか？ウサギは、耳も良い。"
+  },
+  {
+    "key": "gacksung_10703_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_10703_1-dlg",
+    "original": "그래, 진작 이랬어야지!",
+    "context": "EN :\nAlright, now that’s what I like to see!\nJP :\nあぁ、最初からこうしろよ！"
+  },
+  {
+    "key": "formation_10703_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_10703_1-dlg",
+    "original": "자, 풀 뜯을 시간이다.",
+    "context": "EN :\nRight, time to graze some grass.\nJP :\nさぁ、草を食む時間だ。"
+  },
+  {
+    "key": "battleentry_10703_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_10703_1-dlg",
+    "original": "싱싱한 풀이 보이네!",
+    "context": "EN :\nI spy with my eyes a fresh patch of grass!\nJP :\n新鮮な草が見えるなぁ！"
+  },
+  {
+    "key": "battle_select_10703_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_10703_1-dlg",
+    "original": "화끈한 계획이라도 생각난 거야?",
+    "context": "EN :\nGot some sort of bombastic plan?\nJP :\n熱い計画でも思いついたのか？"
+  },
+  {
+    "key": "battle_endcommand_10703_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_10703_1-dlg",
+    "original": "깡총!",
+    "context": "EN :\nHop on!\nJP :\nぴょん！"
+  },
+  {
+    "key": "battle_enemy_break_10703_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_10703_1-dlg",
+    "original": "더 날뛰어보라고!",
+    "context": "EN :\nGo on and get wild for me!\nJP :\nもっと飛び跳ねてみろよ！"
+  },
+  {
+    "key": "battle_break_10703_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_10703_1-dlg",
+    "original": "하…!",
+    "context": "EN :\nHah…!\nJP :\nはっ…！"
+  },
+  {
+    "key": "battle_kill_10703_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_10703_1-dlg",
+    "original": "후, 씹는 맛이 있는데.",
+    "context": "EN :\nHuff, that feels good to chew.\nJP :\nふぅ、噛み応えがあるな。"
+  },
+  {
+    "key": "battle_allydead_10703_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_10703_1-dlg",
+    "original": "외로웠나? 벌써부터 죽어버리게.",
+    "context": "EN :\nKicked it already? Were you getting lonely or what.\nJP :\n寂しかったのか？もう死んでるとか。"
+  },
+  {
+    "key": "choice_success_p_10703_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_10703_1-dlg",
+    "original": "샐러드 먹는 것만큼 쉽구만.",
+    "context": "EN :\nEasy as salad.\nJP :\nサラダ前にはカンタンだ。"
+  },
+  {
+    "key": "choice_fail_n_10703_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_10703_1-dlg",
+    "original": "난 시키는 대로 했어. 불만은 상부에 찌르라고.",
+    "context": "EN :\nI was following the orders. You can say your complaints to the high heid yins.\nJP :\nオレは言う通りにしたぞ。不満は上を突っつけよな。"
+  },
+  {
+    "key": "battle_clear_10703_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_10703_1-dlg",
+    "original": "어때? 끝내주게 강하고 믿을 수 없이 빨랐지?",
+    "context": "EN :\nHow’s that? Remarkably strong and unbelievably fast, eh?\nJP :\nどうだ？すっごく強くて信じられないくらい速かったろ？"
+  },
+  {
+    "key": "battle_clear_ex_10703_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_10703_1-dlg",
+    "original": "근육이 신나서 날뛰는군. 더 해치울 거 없어? 난 이제 시작인데!",
+    "context": "EN :\nMy muscles are quivering with excitement. Got anyone else to scuffle? I’m just getting started!\nJP :\n筋肉が喜んで跳ねてるな。もっと片付けるやつはいねぇか？ようやく調子が出てきたんだよ！"
+  },
+  {
+    "key": "battle_defeat_10703_1-desc",
+    "original": "전투 패배",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_10703_1-dlg",
+    "original": "쉴 시간 따위 없어. 바로 다시 간다!",
+    "context": "EN :\nNo time for rest. We’re going right back in!\nJP :\n休む暇などない。またすぐに行くぞ！"
+  }
+]

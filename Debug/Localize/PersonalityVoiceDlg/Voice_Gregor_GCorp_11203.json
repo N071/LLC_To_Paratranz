@@ -1,0 +1,242 @@
+[
+  {
+    "key": "get_11203_1-desc",
+    "original": "인격 획득",
+    "context": "EN :\nIdentity Acquisition\nJP :\n人格獲得"
+  },
+  {
+    "key": "get_11203_1-dlg",
+    "original": "신고합니다! 입사를 명 받은 그레고르라고 합니다. 작전에 함께 투입되어서 영광입니다!",
+    "context": "EN :\nEmployee Gregor, reporting for duty! It’s an honor to join your mission, Manager!\nJP :\n入社を命じられたグレゴールであります。作戦に共に投入されることになり、光栄です！"
+  },
+  {
+    "key": "lobby_morning_11203_1-desc",
+    "original": "아침 인사",
+    "context": "EN :\nMorning Greeting\nJP :\n朝の挨拶"
+  },
+  {
+    "key": "lobby_morning_11203_1-dlg",
+    "original": "충성! 아침 점호 간 이상 없었습니다!",
+    "context": "EN :\nGood morning, Manager! Morning roll call was all clear!\nJP :\nサー！朝の点呼間、異常ありませんでした！"
+  },
+  {
+    "key": "lobby_noon_11203_1-desc",
+    "original": "점심 인사",
+    "context": "EN :\nAfternoon Greeting\nJP :\n昼の挨拶"
+  },
+  {
+    "key": "lobby_noon_11203_1-dlg",
+    "original": "점심시간이군요! 오후 일과도 최선을 다하겠습니다!",
+    "context": "EN :\nIt’s lunch hours, Manager! I’ll perform the remaining tasks with due diligence!\nJP :\nお昼時ですね！午後の日課も最善を尽くします！"
+  },
+  {
+    "key": "lobby_night_11203_1-desc",
+    "original": "저녁 인사",
+    "context": "EN :\nEvening Greeting\nJP :\n夕方の挨拶"
+  },
+  {
+    "key": "lobby_night_11203_1-dlg",
+    "original": "근무 중 이상 없습니다. 충성!",
+    "context": "EN :\nNothing to report, Manager Dante!\nJP :\n勤務中異常ありません。サー！"
+  },
+  {
+    "key": "smalltalk_11203_1-desc",
+    "original": "대화 1",
+    "context": "EN :\nChatter #1\nJP :\n対話1"
+  },
+  {
+    "key": "smalltalk_11203_1-dlg",
+    "original": "관리자님! 아직 적응 중입니다만… 다들 잘 챙겨주셔서 문제없이 지내고 있습니다. 가끔 로쟈님이 징그럽다곤 하지만… 하하, 괜찮습니다.",
+    "context": "EN :\nManager! I’m still adjusting to life here… but thanks to everyone’s assistance, I am without trouble. Ms. Rodya often has unsavory comments, but… Haha, it’s alright.\nJP :\n管理人殿！まだ適応中ではありますが…皆に面倒を見ていただき問題なく過ごせております。たまにロージャ殿が気持ち悪いといいますが…はは、問題ございません。"
+  },
+  {
+    "key": "smalltalk_11203_2-desc",
+    "original": "대화 2",
+    "context": "EN :\nChatter #2\nJP :\n対話2"
+  },
+  {
+    "key": "smalltalk_11203_2-dlg",
+    "original": "망설이지 않고 싸우겠습니다. 신체 개조를 받는 기회를 운 좋게 얻었을 때부터, 다짐해왔습니다.",
+    "context": "EN :\nI’ll fight my enemies without hesitation. I’d made up my mind the day I was honored with an opportunity to get the modification procedure.\nJP :\nためらわずに戦います。身体改造を受けるチャンスを運良く得たときから、決心してきました。"
+  },
+  {
+    "key": "smalltalk_11203_3-desc",
+    "original": "대화 3",
+    "context": "EN :\nChatter #3\nJP :\n対話3"
+  },
+  {
+    "key": "smalltalk_11203_3-dlg",
+    "original": "아, 이 팔이요? 전 자랑스럽게 생각하고 있습니다. 무력하게 전쟁을 바라보는 것보단… 전장 한복판에 뛰어 들어갈 수 있다는 건 큰 행운이거든요.",
+    "context": "EN :\nOh, this arm? I’m proud of it. It’s a tremendous boon to be able to enter the fray of battle… rather than helplessly watch from afar.\nJP :\nあ、この腕でございますか？自分は自慢に思っております。無力に戦争を眺めるよりかは…戦争のど真ん中に飛び込めるというのは大きな幸運であります。"
+  },
+  {
+    "key": "smalltalk_11203_4-desc",
+    "original": "동기화 후 대화 1",
+    "context": "EN :\nPost-Uptie Chat 1\nJP :\n同期化後の対話1"
+  },
+  {
+    "key": "smalltalk_11203_4-dlg",
+    "original": "신체 개조는… 후회하지 않습니다. 하지만… 전 평생 민간인의 삶으로 돌아갈 수는 없을 겁니다.",
+    "context": "EN :\nThe augmentation… I don’t regret it. One downside, though… is that I won’t ever be able to return to civilian life.\nJP :\n身体改造は…後悔しておりません。しかし…自分は一生民間人の人生へ戻ることはないでしょう。"
+  },
+  {
+    "key": "smalltalk_11203_5-desc",
+    "original": "동기화 후 대화 2",
+    "context": "EN :\nPost-Uptie Chat 2\nJP :\n同期化後の対話2"
+  },
+  {
+    "key": "smalltalk_11203_5-dlg",
+    "original": "요새는… 최대한 아무 생각도 안 하려고 노력하고 있습니다. 그래야 버틸 수 있는 기분이거든요.",
+    "context": "EN :\nNowadays… I try not to think much about what I do. It’s getting too taxing to keep up with this otherwise.\nJP :\n近頃は…なるべく何も考えないように努力しております。そうしないと耐えられない気がするのです。"
+  },
+  {
+    "key": "neglect_11203_1-desc",
+    "original": "방치",
+    "context": "EN :\nIdle\nJP :\n放置"
+  },
+  {
+    "key": "neglect_11203_1-dlg",
+    "original": "관리자님? 잠시 자리를 비우셨군요. 대기하겠습니다.",
+    "context": "EN :\nManager? I see you’ve taken a temporary leave. I’ll be on standby.\nJP :\n管理人殿？しばし席を外されたのですね。待機します。"
+  },
+  {
+    "key": "gacksung_11203_1-desc",
+    "original": "동기화 진행",
+    "context": "EN :\nUptying\nJP :\n同期化進行"
+  },
+  {
+    "key": "gacksung_11203_1-dlg",
+    "original": "충성! 앞으로도 최선을 다해서 보필하겠습니다, 관리자님!",
+    "context": "EN :\nSalutations! I’ll continue to aid you to the best of my ability, Manager!\nJP :\nサー！これからも最善を尽くして補弼いたします、管理人殿！"
+  },
+  {
+    "key": "formation_11203_1-desc",
+    "original": "인격 편성",
+    "context": "EN :\nDeployment\nJP :\n人格編成"
+  },
+  {
+    "key": "formation_11203_1-dlg",
+    "original": "영광입니다!",
+    "context": "EN :\nIt’s an honor, Manager!\nJP :\n光栄です！"
+  },
+  {
+    "key": "battleentry_11203_1-desc",
+    "original": "입장",
+    "context": "EN :\nStage Entry\nJP :\n入場"
+  },
+  {
+    "key": "battleentry_11203_1-dlg",
+    "original": "최선을 다해 임하겠습니다!",
+    "context": "EN :\nI will do my utmost!\nJP :\n最善を尽くして臨みます！"
+  },
+  {
+    "key": "battle_select_11203_1-desc",
+    "original": "전투 중 인격 선택",
+    "context": "EN :\nViewed in Battle\nJP :\n戦闘中の人格選択"
+  },
+  {
+    "key": "battle_select_11203_1-dlg",
+    "original": "일등대리 그레고르!",
+    "context": "EN :\nManager Corporal Gregor reporting!\nJP :\n課長代理グレゴール！"
+  },
+  {
+    "key": "battle_endcommand_11203_1-desc",
+    "original": "공격 시작",
+    "context": "EN :\nCommencing Attack\nJP :\n攻撃開始"
+  },
+  {
+    "key": "battle_endcommand_11203_1-dlg",
+    "original": "명령대로!",
+    "context": "EN :\nRoger that!\nJP :\nご命令通り！"
+  },
+  {
+    "key": "battle_enemy_break_11203_1-desc",
+    "original": "적 흐트러질 시 대사",
+    "context": "EN :\nEnemy Stagger\nJP :\n敵混乱時"
+  },
+  {
+    "key": "battle_enemy_break_11203_1-dlg",
+    "original": "제대로 들어갔습니다!",
+    "context": "EN :\nI got a clean hit!\nJP :\nまともに入りましたね！"
+  },
+  {
+    "key": "battle_break_11203_1-desc",
+    "original": "흐트러질 시 대사",
+    "context": "EN :\nStaggered\nJP :\n混乱時"
+  },
+  {
+    "key": "battle_break_11203_1-dlg",
+    "original": "윽…",
+    "context": "EN :\nNgh…\nJP :\nうっ…。"
+  },
+  {
+    "key": "battle_kill_11203_1-desc",
+    "original": "적 처치",
+    "context": "EN :\nEnemy Killed\nJP :\n敵討伐"
+  },
+  {
+    "key": "battle_kill_11203_1-dlg",
+    "original": "처리했습니다!",
+    "context": "EN :\nI took one down!\nJP :\n片付けました！"
+  },
+  {
+    "key": "battle_allydead_11203_1-desc",
+    "original": "아군 사망",
+    "context": "EN :\nAlly Death\nJP :\n味方死亡"
+  },
+  {
+    "key": "battle_allydead_11203_1-dlg",
+    "original": "제가 더 노력해보겠습니다…",
+    "context": "EN :\nI’ll work harder to make up for it…\nJP :\nより努力してみせます…。"
+  },
+  {
+    "key": "choice_success_p_11203_1-desc",
+    "original": "선택지 성공",
+    "context": "EN :\nCheck Passed\nJP :\n選択肢成功"
+  },
+  {
+    "key": "choice_success_p_11203_1-dlg",
+    "original": "관리자님! 멋진 전략이었습니다!",
+    "context": "EN :\nSplendid strategy, Manager!\nJP :\n管理人殿！素晴らしい戦略でした！"
+  },
+  {
+    "key": "choice_fail_n_11203_1-desc",
+    "original": "선택지 실패",
+    "context": "EN :\nCheck Failed\nJP :\n選択肢失敗"
+  },
+  {
+    "key": "choice_fail_n_11203_1-dlg",
+    "original": "믿어주셨는데… 실패했습니다.",
+    "context": "EN :\nYou trusted me with it… and yet I failed.\nJP :\n信じて頂いたのに…失敗しました。"
+  },
+  {
+    "key": "battle_clear_11203_1-desc",
+    "original": "전투 승리",
+    "context": "EN :\nVictory Cry\nJP :\n戦闘勝利"
+  },
+  {
+    "key": "battle_clear_11203_1-dlg",
+    "original": "덕분입니다, 관리자님. 좋은 전술이었습니다.",
+    "context": "EN :\nIt’s all thanks to you, Manager. Your tactical prowess shined.\nJP :\nおかげさまです、管理人殿。良い戦術でした。"
+  },
+  {
+    "key": "battle_clear_ex_11203_1-desc",
+    "original": "EX CLEAR 전투 승리",
+    "context": "EN :\nExtra Conditions Fulfilled\nJP :\nEX CLEAR戦闘勝利"
+  },
+  {
+    "key": "battle_clear_ex_11203_1-dlg",
+    "original": "관리자님 덕분에 승리를 거둘 수 있었습니다.",
+    "context": "EN :\nThis victory was all thanks to you, Executive Manager.\nJP :\n管理人殿のおかげで勝利を収めることができました。"
+  },
+  {
+    "key": "battle_defeat_11203_1-desc",
+    "original": "전투 패배 대사",
+    "context": "EN :\nDefeat Wail\nJP :\n戦闘敗北"
+  },
+  {
+    "key": "battle_defeat_11203_1-dlg",
+    "original": "전쟁이란… 이런 것이군요. 전 자격 미달이었습니다.",
+    "context": "EN :\nThis… is what a war is. I was wholly unqualified.\nJP :\n戦闘とは…こういうものなのですね。自分には資格が足りませんでした。"
+  }
+]

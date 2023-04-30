@@ -1,0 +1,197 @@
+[
+  {
+    "key": "clear_turn-content",
+    "original": "클리어 턴",
+    "context": "EN :\nClear Turns\nJP :\nクリアターン"
+  },
+  {
+    "key": "accumulated_turn-content",
+    "original": "누적 턴",
+    "context": "EN :\nTotal Turns\nJP :\n累計ターン"
+  },
+  {
+    "key": "final_accumulated_turn-content",
+    "original": "최종 누적 턴",
+    "context": "EN :\nFinal Turn Count\nJP :\n最終累計ターン"
+  },
+  {
+    "key": "reward_after_clear-content",
+    "original": "클리어 시 보상",
+    "context": "EN :\nClear Rewards\nJP :\nクリア時の報酬"
+  },
+  {
+    "key": "lost_and_found-content",
+    "original": "분실물 보관소",
+    "context": "EN :\nLost & Found\nJP :\n遺失物取扱所"
+  },
+  {
+    "key": "railway_line-content",
+    "original": "{0}호선",
+    "context": "EN :\nLine {0}\nJP :\n{0}号線"
+  },
+  {
+    "key": "progressing_railway_line-content",
+    "original": "진행 노선: {0}",
+    "context": "EN :\nTraveling: {0}\nJP :\n進行路線: {0}"
+  },
+  {
+    "key": "select_railway_line-content",
+    "original": "노선도를 선택하세요",
+    "context": "EN :\nWhat Line will you travel?\nJP :\n路線図を選択してください"
+  },
+  {
+    "key": "stage_info-content",
+    "original": "스테이지 정보",
+    "context": "EN :\nStation Data\nJP :\nステージ情報"
+  },
+  {
+    "key": "stage_number-content",
+    "original": "스테이지 {0}",
+    "context": "EN :\nStation {0}\nJP :\nステージ{0}"
+  },
+  {
+    "key": "mirror_refraction_railway-content",
+    "original": "거울굴절철도",
+    "context": "EN :\nRefraction Railway\nJP :\n鏡屈折鉄道"
+  },
+  {
+    "key": "mirror_refraction_railway_with_dungeon_name-content",
+    "original": "거울굴절철도 {0}",
+    "context": "EN :\nRefraction Railway {0}\nJP :\n鏡屈折鉄道 {0}"
+  },
+  {
+    "key": "accumulated_records-content",
+    "original": "누적 기록",
+    "context": "EN :\nTravel Collection\nJP :\n累計記録"
+  },
+  {
+    "key": "rank_with_number-content",
+    "original": "{0}위",
+    "context": "EN :\nRank #{0}\nJP :\n{0}位"
+  },
+  {
+    "key": "open_railway_dungeon_records-content",
+    "original": "기록 열람",
+    "context": "EN :\nLogs\nJP :\n記録閲覧"
+  },
+  {
+    "key": "no_more_rewards_remains_desc-content",
+    "original": "수령할 수 있는 보상이 없습니다.",
+    "context": "EN :\nNo rewards to claim.\nJP :\n受け取れる報酬がありません。"
+  },
+  {
+    "key": "use_enkephalin_module_to_acquire_rewards-content",
+    "original": "<color=#990000>엔케팔린 모듈 {0}개</color>를 소모하여\n보상을 수령하시겠습니까?",
+    "context": "EN :\nSpend <color=#990000>{0} Enkephalin Modules</color>\nto unlock the rewards?\nJP :\n<color=#990000>エンケファリンモジュールを{0}つ</color>を消耗し\n報酬を受け取りますか？"
+  },
+  {
+    "key": "able_to_acquire_rewards_without_using_enkephalin_module-content",
+    "original": "※이벤트 기간 동안 추가로 획득한 보상은 엔케팔린 모듈 추가 소모 없이 언제든지 획득할 수 있습니다.",
+    "context": "EN :\n※ Once unlocked, you can freely claim the rewards you’ve earned during the event at no additional cost.\nJP :\n※イベント期間中、追加で獲得した報酬はエンケファリンモジュールの追加消耗なしにいつでも獲得することができます。"
+  },
+  {
+    "key": "railway_dungeon_ask_for_re_enter-content",
+    "original": "<color=#990000>{0}-{1}</color>를 도전 중입니다.\n계속 진행하시겠습니까?",
+    "context": "EN :\nCurrently on <color=#990000>{0} to Station {1}</color>.\nResume your travels?\nJP :\n<color=#990000>{0}-{1}</color>に挑戦中です。\nこのまま続けますか？"
+  },
+  {
+    "key": "railway_dungeon_current_running-content",
+    "original": "이번 역: {0}-{1} 진행 중",
+    "context": "EN :\n{0} in Transit to Station {1}\nJP :\n次の駅: {0}-{1} 進行中"
+  },
+  {
+    "key": "final_clear_accumulated_turn-content",
+    "original": "최종 클리어 누적 턴",
+    "context": "EN :\nFinal Turn Count\nJP :\n最終クリア累計ターン"
+  },
+  {
+    "key": "railway_dungeon_detailed_info-content",
+    "original": "상세 정보",
+    "context": "EN :\nDetails\nJP :\n詳細情報"
+  },
+  {
+    "key": "railway_dungeon_1_banner_reward_condition_1-content",
+    "original": "거울굴절철도 - {0}단계 클리어",
+    "context": "EN :\nRefraction Railway - Clear Station {0}\nJP :\n鏡屈折鉄道 - レベル{0}クリア"
+  },
+  {
+    "key": "railway_dungeon_1_banner_reward_condition_2-content",
+    "original": "거울굴절철도 - {0}단계 클리어, 누적 턴 {1} 이하",
+    "context": "EN :\nRefraction Railway - Clear Station {0} under {1} total turns\nJP :\n鏡屈折鉄道 - レベル{0}クリア, 累計ターン {1}以下"
+  },
+  {
+    "key": "railway_dungeon_1_banner_reward_condition_3-content",
+    "original": "({0} 까지 위 획득 조건 달성)",
+    "context": "EN :\n(Complete before {0})\nJP :\n({0}まで上記獲得条件達成)"
+  },
+  {
+    "key": "railway_dungeon_banner_reward_condition_title-content",
+    "original": "배너 획득 조건",
+    "context": "EN :\nBanner Requisites\nJP :\nバナー獲得条件"
+  },
+  {
+    "key": "railway_dungeon_banner_reward_unable_over-content",
+    "original": "(단, 누적 턴 {0} 초과 시 획득 불가)",
+    "context": "EN :\n(Unobtainable past {0} total turns)\nJP :\n(ただし、累計ターン{0}超過時は獲得不可)"
+  },
+  {
+    "key": "no_records_description-content",
+    "original": "기록이 존재하지 않습니다.",
+    "context": "EN :\nThe travelogue is currently empty.\nJP :\n記録が存在しません。"
+  },
+  {
+    "key": "recover_after_resting_battle-content",
+    "original": "이번 전투\n휴식 시\n상태 초기화 및\n체력 전체회복",
+    "context": "EN :\nFully recovers\nafter resting\nfor this battle\nJP :\n戦闘休憩時\nステータス\n初期化&\n体力全快"
+  },
+  {
+    "key": "railway_dungeon_try_last_node-content",
+    "original": "해당 스테이지를 클리어할 경우, 이전 스테이지를 다시 도전할 수 없습니다.\n\n해당 스테이지를 도전하시겠습니까?",
+    "context": "EN :\nOnce you clear this stage, you won’t be able to return to a previous stage until you reach it again during a new run.\n\nAre you prepared to enter the stage?\nJP :\n該当ステージをクリアする場合、\n前のステージに再挑戦できなくなります。\n\n該当ステージに挑戦しますか？"
+  },
+  {
+    "key": "railway_dungeon_ask_stop_desc-content",
+    "original": "거울굴절철도 탐사를 그만두시겠습니까?",
+    "context": "EN :\nWould you like to disembark from the Refraction Railway?\nJP :\n鏡屈折鉄道の探査を終了しますか？"
+  },
+  {
+    "key": "railway_dungeon_before_enter_past_node_battle-content",
+    "original": "해당 스테이지부터 다시 시작할 경우, 이후 스테이지의 클리어 기록이 초기화되어 사라집니다.\n\n해당 스테이지를 다시 도전하시겠습니까?",
+    "context": "EN :\nIf you start over from the selected stage, your progress for the stages after it will be reset.\n\nAre you sure you want to backtrack to this stage?\nJP :\n該当ステージから再挑戦する場合、以降のステージクリア記録が初期化されます。\n\n該当ステージに再挑戦しますか？"
+  },
+  {
+    "key": "railway_dungeon_finished_description-content",
+    "original": "※ 동일한 턴 수의 기록이 추가될 경우 사망 상태가 더 많은 기록을 덮어쓰며,\n이 역시 동일할 경우 가장 오래된 기록을 덮어씁니다.",
+    "context": "EN :\n※ If two records have the same Total Turns, the one with the higher death count will be overwritten.\nIf the death counts are also identical, then the older one will be overwritten.\nJP :\n※同一ターン数の記録が追加される場合、死亡状態が少ない方が保存されます。\n死亡数も同じ場合、古い方の記録が上書きされます。"
+  },
+  {
+    "key": "railway_dungeon_open_duration-content",
+    "original": "운행기간",
+    "context": "EN :\nOperation Period\nJP :\n運行期間"
+  },
+  {
+    "key": "railway_dungeon_current_station-content",
+    "original": "이번 역: {0}",
+    "context": "EN :\nThis is {0}\nJP :\n次の駅: {0}"
+  },
+  {
+    "key": "railway_dungeon_route_map-content",
+    "original": "노선 운행도",
+    "context": "EN :\nLine Diagram\nJP :\n路線運行図"
+  },
+  {
+    "key": "railway_dungeon_resume_operation-content",
+    "original": "운영 재개",
+    "context": "EN :\nContinue Travels\nJP :\n運営再開"
+  },
+  {
+    "key": "railway_dungeon_stop_operation-content",
+    "original": "운영 중단",
+    "context": "EN :\nDisembark\nJP :\n運営中断"
+  },
+  {
+    "key": "railway_dungeon_station_info-content",
+    "original": "노선 정보",
+    "context": "EN :\nLine Info\nJP :\n路線情報"
+  }
+]

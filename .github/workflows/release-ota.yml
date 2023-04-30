@@ -1,0 +1,20 @@
+name: release-ota
+on:
+  workflow_dispatch:
+env: 
+  GH_TOKEN: ${{ secrets.ROOT }}   
+jobs:
+  make-ota:
+    runs-on: "windows-latest"
+    steps:
+      - name: "Fetch LLC"
+        uses: actions/checkout@v3
+        with:
+          repository: ${{ format('{0}/{1}', github.repository_owner, 'LLC_Test') }}
+          path: LLC
+      - uses: actions/checkout@v3
+        with:
+          path: LLC_To_Paratranz
+      - name: "Run build"
+        run: |
+          ./Download.ps1 ${{ secrets.PARATRANZ_ROOT }}

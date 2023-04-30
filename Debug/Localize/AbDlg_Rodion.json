@@ -1,0 +1,142 @@
+[
+  {
+    "key": "1-teller",
+    "original": "흑운회 로쟈",
+    "context": "EN :\nKurokumo Rodion\nJP :\n黒雲会 ロージャ"
+  },
+  {
+    "key": "1-dialog",
+    "original": "야, 이거 못하면 나 손목 건다. 응?",
+    "context": "EN :\nLook, I’ll lop off my hand if I somehow don’t make it. Deal?\nJP :\nね、これ成功するのに手首賭けてもいいよ。あん？"
+  },
+  {
+    "key": "2-teller",
+    "original": "흑운회 로쟈",
+    "context": "EN :\nKurokumo Rodion\nJP :\n黒雲会 ロージャ"
+  },
+  {
+    "key": "2-dialog",
+    "original": "쉬워보이네. 나한테 맡겨.",
+    "context": "EN :\nThe odds are nice. Leave it to me.\nJP :\n簡単そう。私に任せて。"
+  },
+  {
+    "key": "3-teller",
+    "original": "흑운회 로쟈",
+    "context": "EN :\nKurokumo Rodion\nJP :\n黒雲会 ロージャ"
+  },
+  {
+    "key": "3-dialog",
+    "original": "해보지 뭐. 나 믿지?",
+    "context": "EN :\nSure, why not. You trust me, yeah?\nJP :\nまぁやってみましょ。信じてくれる？"
+  },
+  {
+    "key": "4-teller",
+    "original": "흑운회 로쟈",
+    "context": "EN :\nKurokumo Rodion\nJP :\n黒雲会 ロージャ"
+  },
+  {
+    "key": "4-dialog",
+    "original": "약~간의 운이 필요할 것 같긴 해.",
+    "context": "EN :\nThis might take a tiiiiny bit of luck to pull off.\nJP :\nちょ～っとだけ運が絡むかもしれないね。"
+  },
+  {
+    "key": "5-teller",
+    "original": "흑운회 로쟈",
+    "context": "EN :\nKurokumo Rodion\nJP :\n黒雲会 ロージャ"
+  },
+  {
+    "key": "5-dialog",
+    "original": "나는 빼줘, 알았지?",
+    "context": "EN :\nLeave me out of this, m’kay?\nJP :\n私はパスで、いい？"
+  },
+  {
+    "key": "6-teller",
+    "original": "흑운회 로쟈",
+    "context": "EN :\nKurokumo Rodion\nJP :\n黒雲会 ロージャ"
+  },
+  {
+    "key": "6-dialog",
+    "original": "딴 애들이었으면 못했을걸? ",
+    "context": "EN :\nI bet the others woulda gone bust.\nJP :\n他の子じゃできなかっただろうね？"
+  },
+  {
+    "key": "7-teller",
+    "original": "흑운회 로쟈",
+    "context": "EN :\nKurokumo Rodion\nJP :\n黒雲会 ロージャ"
+  },
+  {
+    "key": "7-dialog",
+    "original": "내가 경고했었잖아. ",
+    "context": "EN :\nTotally warned ya.\nJP :\n警告したでしょ。"
+  },
+  {
+    "key": "8-teller",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\n제복소드"
+  },
+  {
+    "key": "8-dialog",
+    "original": "야, 이거 못하면 나 손목 건다. 응?",
+    "context": "EN :\nLook, I’ll lop off my hand if I somehow don’t make it. Deal?\nJP :\nね、これ成功するのに手首賭けてもいいよ。あん？"
+  },
+  {
+    "key": "9-teller",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\n제복소드"
+  },
+  {
+    "key": "9-dialog",
+    "original": "쉬워보이네. 나한테 맡겨.",
+    "context": "EN :\nThe odds are nice. Leave it to me.\nJP :\n簡単そう。私に任せて。"
+  },
+  {
+    "key": "10-teller",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\n제복소드"
+  },
+  {
+    "key": "10-dialog",
+    "original": "해보지 뭐. 나 믿지?",
+    "context": "EN :\nSure, why not. You trust me, yeah?\nJP :\nまぁやってみましょ。信じてくれる？"
+  },
+  {
+    "key": "11-teller",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\n제복소드"
+  },
+  {
+    "key": "11-dialog",
+    "original": "약~간의 운이 필요할 것 같긴 해.",
+    "context": "EN :\nThis might take a tiiiiny bit of luck to pull off.\nJP :\nちょ～っとだけ運が絡むかもしれないね。"
+  },
+  {
+    "key": "12-teller",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\n제복소드"
+  },
+  {
+    "key": "12-dialog",
+    "original": "나는 빼줘, 알았지?",
+    "context": "EN :\nLeave me out of this, m’kay?\nJP :\n私はパスで、いい？"
+  },
+  {
+    "key": "13-teller",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\n제복소드"
+  },
+  {
+    "key": "13-dialog",
+    "original": "딴 애들이었으면 못했을걸? ",
+    "context": "EN :\nI bet the others woulda gone bust.\nJP :\n他の子じゃできなかっただろうね？"
+  },
+  {
+    "key": "14-teller",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\n제복소드"
+  },
+  {
+    "key": "14-dialog",
+    "original": "내가 경고했었잖아. ",
+    "context": "EN :\nTotally warned ya.\nJP :\n警告したでしょ。"
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "key": "10101-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "10101-name",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "10101-nameWithTitle",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "10101-desc",
+    "original": "이상의 첫번째 인격",
+    "context": "EN :\nYi Sang’s 1st Identity\nJP :\nイサンの1つ目の人格"
+  },
+  {
+    "key": "10201-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "10201-name",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10201-nameWithTitle",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10201-desc",
+    "original": "파우스트의 첫번째 인격",
+    "context": "EN :\nFaust’s 1st Identity\nJP :\nファウストの1つ目の人格"
+  },
+  {
+    "key": "10301-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "10301-name",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10301-nameWithTitle",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10301-desc",
+    "original": "돈키호테의 첫번째 인격",
+    "context": "EN :\nDon Quixote’s 1st Identity\nJP :\nドンキホーテの1つ目の人格"
+  },
+  {
+    "key": "10401-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "10401-name",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "10401-nameWithTitle",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "10401-desc",
+    "original": "료슈의 첫번째 인격",
+    "context": "EN :\nRyōshū’s 1st Identity\nJP :\n良秀の1つ目の人格"
+  },
+  {
+    "key": "10501-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "10501-name",
+    "original": "뫼르소",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "10501-nameWithTitle",
+    "original": "뫼르소",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "10501-desc",
+    "original": "뫼르소의 첫번째 인격",
+    "context": "EN :\nMeursault’s 1st Identity\nJP :\nムルソーの1つ目の人格"
+  },
+  {
+    "key": "10601-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "10601-name",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10601-nameWithTitle",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10601-desc",
+    "original": "홍루의 첫번째 인격",
+    "context": "EN :\nHong Lu’s 1st Identity\nJP :\nホンルの1つ目の人格"
+  },
+  {
+    "key": "10701-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "10701-name",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10701-nameWithTitle",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10701-desc",
+    "original": "히스클리프의 첫번째 인격",
+    "context": "EN :\nHeathcliff’s 1st Identity\nJP :\nヒースクリフの1つ目の人格"
+  },
+  {
+    "key": "10801-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "10801-name",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10801-nameWithTitle",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10801-desc",
+    "original": "이스마엘의 첫번째 인격",
+    "context": "EN :\nIshmael’s 1st Identity\nJP :\nイシュメールの1つ目の人格"
+  },
+  {
+    "key": "10901-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "10901-name",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10901-nameWithTitle",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10901-desc",
+    "original": "로쟈의 첫번째 인격",
+    "context": "EN :\nRodion’s 1st Identity\nJP :\nロージャの1つ目の人格"
+  },
+  {
+    "key": "11001-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "11001-name",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11001-nameWithTitle",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11001-desc",
+    "original": "싱클레어의 첫번째 인격",
+    "context": "EN :\nSinclair’s 1st Identity\nJP :\nシンクレアの1つ目の人格"
+  },
+  {
+    "key": "11101-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "11101-name",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11101-nameWithTitle",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11101-desc",
+    "original": "오티스의 첫번째 인격",
+    "context": "EN :\nOutis’s 1st Identity\nJP :\nウーティスの1つ目の人格"
+  },
+  {
+    "key": "11201-title",
+    "original": "LCB 수감자",
+    "context": "EN :\nLCB Sinner\nJP :\nLCBの囚人"
+  },
+  {
+    "key": "11201-name",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11201-nameWithTitle",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11201-desc",
+    "original": "그레고르의 첫번째 인격",
+    "context": "EN :\nGregor’s 1st Identity\nJP :\nグレゴールの1つ目の人格"
+  },
+  {
+    "key": "10102-title",
+    "original": "세븐 협회 6과",
+    "context": "EN :\nSeven Section 6\nJP :\nセブン協会 6課"
+  },
+  {
+    "key": "10102-name",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "10102-nameWithTitle",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "10102-desc",
+    "original": "이상의 두번째 인격",
+    "context": "EN :\nYi Sang’s 2nd Identity\nJP :\nイサンの2つ目の人格"
+  },
+  {
+    "key": "10202-title",
+    "original": "W사 정리 요원",
+    "context": "EN :\nW Corp. Cleanup Agent\nJP :\nW社 整理要員"
+  },
+  {
+    "key": "10202-name",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10202-nameWithTitle",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10202-desc",
+    "original": "파우스트의 두번째 인격",
+    "context": "EN :\nFaust’s 2nd Identity\nJP :\nファウストの2つ目の人格"
+  },
+  {
+    "key": "10302-title",
+    "original": "W사 정리 요원",
+    "context": "EN :\nW Corp. Cleanup Agent\nJP :\nW社 整理要員"
+  },
+  {
+    "key": "10302-name",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10302-nameWithTitle",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10302-desc",
+    "original": "돈키호테의 두번째 인격",
+    "context": "EN :\nDon Quixote’s 2nd Identity\nJP :\nドンキホーテの2つ目の人格"
+  },
+  {
+    "key": "10402-title",
+    "original": "세븐 협회 6과",
+    "context": "EN :\nSeven Section 6\nJP :\nセブン協会 6課"
+  },
+  {
+    "key": "10402-name",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "10402-nameWithTitle",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "10402-desc",
+    "original": "료슈의 두번째 인격",
+    "context": "EN :\nRyōshū’s 2nd Identity\nJP :\n良秀の2つ目の人格"
+  },
+  {
+    "key": "10502-title",
+    "original": "리우 협회 6과",
+    "context": "EN :\nLiu Section 6\nJP :\nリウ協会 6課"
+  },
+  {
+    "key": "10502-name",
+    "original": "뫼르소",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "10502-nameWithTitle",
+    "original": "뫼르소",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "10502-desc",
+    "original": "뫼르소의 두번째 인격",
+    "context": "EN :\nMeursault’s 2nd Identity\nJP :\nムルソーの2つ目の人格"
+  },
+  {
+    "key": "10602-title",
+    "original": "흑운회 와카슈",
+    "context": "EN :\nKurokumo Wakashu\nJP :\n黒雲会 若衆"
+  },
+  {
+    "key": "10602-name",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10602-nameWithTitle",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10602-desc",
+    "original": "홍루의 두번째 인격",
+    "context": "EN :\nHong Lu’s 2nd Identity\nJP :\nホンルの2つ目の人格"
+  },
+  {
+    "key": "10702-title",
+    "original": "시 협회 5과",
+    "context": "EN :\nShi Section 5\nJP :\nシ協会 5課"
+  },
+  {
+    "key": "10702-name",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10702-nameWithTitle",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10702-desc",
+    "original": "히스클리프의 두번째 인격",
+    "context": "EN :\nHeathcliff’s 2nd Identity\nJP :\nヒースクリフの2つ目の人格"
+  },
+  {
+    "key": "10802-title",
+    "original": "R사 제 4무리 순록팀",
+    "context": "EN :\nR Corp. 4th Pack Reindeer\nJP :\nR社第4群\nトナカイチーム"
+  },
+  {
+    "key": "10802-name",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10802-nameWithTitle",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10802-desc",
+    "original": "이스마엘의 두번째 인격",
+    "context": "EN :\nIshmael’s 2nd Identity\nJP :\nイシュメールの1つ目の人格"
+  },
+  {
+    "key": "10902-title",
+    "original": "흑운회 와카슈",
+    "context": "EN :\nKurokumo Wakashu\nJP :\n黒雲会 若衆"
+  },
+  {
+    "key": "10902-name",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10902-nameWithTitle",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10902-desc",
+    "original": "로쟈의 두번째 인격",
+    "context": "EN :\nRodion’s 2nd Identity\nJP :\nロージャの2つ目の人格"
+  },
+  {
+    "key": "11002-title",
+    "original": "검계 살수",
+    "context": "EN :\nBlade Lineage Salsu\nJP :\n剣契 殺手"
+  },
+  {
+    "key": "11002-name",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11002-nameWithTitle",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11002-desc",
+    "original": "싱클레어의 두번째 인격",
+    "context": "EN :\nSinclair’s 2nd Identity\nJP :\nシンクレアの2つ目の人格"
+  },
+  {
+    "key": "11102-title",
+    "original": "검계 조직원",
+    "context": "EN :\nBlade Lineage Cutthroat\nJP :\n剣契 組織員"
+  },
+  {
+    "key": "11102-name",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11102-nameWithTitle",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11102-desc",
+    "original": "오티스의 두번째 인격",
+    "context": "EN :\nOutis’s 2nd Identity\nJP :\nウーティスの2つ目の人格"
+  },
+  {
+    "key": "11202-title",
+    "original": "리우 협회 6과",
+    "context": "EN :\nLiu Section 6\nJP :\nリウ協会 6課"
+  },
+  {
+    "key": "11202-name",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11202-nameWithTitle",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11202-desc",
+    "original": "그레고르의 두번째 인격",
+    "context": "EN :\nGregor’s 2nd Identity\nJP :\nグレゴールの2つ目の人格"
+  },
+  {
+    "key": "10103-title",
+    "original": "검계 살수",
+    "context": "EN :\nBlade Lineage Salsu\nJP :\n剣契 殺手"
+  },
+  {
+    "key": "10103-name",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "10103-nameWithTitle",
+    "original": "이상",
+    "context": "EN :\nYi Sang\nJP :\nイサン"
+  },
+  {
+    "key": "10103-desc",
+    "original": "이상의 세번째 인격",
+    "context": "EN :\nYi Sang’s 3rd Identity\nJP :\nイサンの3つ目の人格"
+  },
+  {
+    "key": "10203-title",
+    "original": "살아남은 로보토미 직원",
+    "context": "EN :\nLobotomy Corp. Remnant\nJP :\n生き残った\nロボトミー職員"
+  },
+  {
+    "key": "10203-name",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10203-nameWithTitle",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10203-desc",
+    "original": "파우스트의 세번째 인격",
+    "context": "EN :\nFaust’s 3rd Identity\nJP :\nファウストの3つ目の人格"
+  },
+  {
+    "key": "10403-title",
+    "original": "흑운회 와카슈",
+    "context": "EN :\nKurokumo Wakashu\nJP :\n黒雲会 若衆"
+  },
+  {
+    "key": "10403-name",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "10403-nameWithTitle",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "10403-desc",
+    "original": "료슈의 세번째 인격",
+    "context": "EN :\nRyōshū’s 3rd Identity\nJP :\n良秀の3つ目の人格"
+  },
+  {
+    "key": "10503-title",
+    "original": "W사 정리 요원",
+    "context": "EN :\nW Corp. Cleanup Agent\nJP :\nW社 整理要員"
+  },
+  {
+    "key": "10503-name",
+    "original": "뫼르소",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "10503-nameWithTitle",
+    "original": "뫼르소",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "10503-desc",
+    "original": "뫼르소의 세번째 인격",
+    "context": "EN :\nMeursault’s 3rd Identity\nJP :\nムルソーの3つ目の人格"
+  },
+  {
+    "key": "10603-title",
+    "original": "콩콩이파 두목",
+    "context": "EN :\nTingtang Gangleader\nJP :\nぽんぽん派 ボス"
+  },
+  {
+    "key": "10603-name",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10603-nameWithTitle",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10603-desc",
+    "original": "홍루의 세번째 인격",
+    "context": "EN :\nHong Lu’s 3rd Identity\nJP :\nホンルの3つ目の人格"
+  },
+  {
+    "key": "10703-title",
+    "original": "R사 제 4무리 토끼팀",
+    "context": "EN :\nR Corp. 4th Pack Rabbit\nJP :\nR社第4群\nウサギチーム"
+  },
+  {
+    "key": "10703-name",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10703-nameWithTitle",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10703-desc",
+    "original": "히스클리프의 세번째 인격",
+    "context": "EN :\nHeathcliff’s 3rd Identity\nJP :\nヒースクリフの3つ目の人格"
+  },
+  {
+    "key": "10803-title",
+    "original": "시 협회 5과",
+    "context": "EN :\nShi Section 5\nJP :\nシ協会 5課"
+  },
+  {
+    "key": "10803-name",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10803-nameWithTitle",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10803-desc",
+    "original": "이스마엘의 세번째 인격",
+    "context": "EN :\nIshmael’s 3rd Identity\nJP :\nイシュメールの3つ目の人格"
+  },
+  {
+    "key": "10903-title",
+    "original": "LCCB 대리",
+    "context": "EN :\nLCCB Assistant Manager\nJP :\nLCCB 係長"
+  },
+  {
+    "key": "10903-name",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10903-nameWithTitle",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10903-desc",
+    "original": "로쟈의 세번째 인격",
+    "context": "EN :\nRodion’s 3rd Identity\nJP :\nロージャの3つ目の人格"
+  },
+  {
+    "key": "11003-title",
+    "original": "츠바이 협회 6과",
+    "context": "EN :\nZwei Section 6\nJP :\nツヴァイ協会 6課"
+  },
+  {
+    "key": "11003-name",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11003-nameWithTitle",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11003-desc",
+    "original": "싱클레어의 세번째 인격",
+    "context": "EN :\nSinclair’s 3rd Identity\nJP :\nシンクレアの3つ目の人格"
+  },
+  {
+    "key": "11103-title",
+    "original": "G사 부장",
+    "context": "EN :\nG Corp. Head Manager\nJP :\nG社 部長"
+  },
+  {
+    "key": "11103-name",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11103-nameWithTitle",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11103-desc",
+    "original": "오티스의 세번째 인격",
+    "context": "EN :\nOutis’s 3rd Identity\nJP :\nウーティスの3つ目の人格"
+  },
+  {
+    "key": "11203-title",
+    "original": "G사 일등대리",
+    "context": "EN :\nG Corp. Manager Corporal\nJP :\nG社 課長代理"
+  },
+  {
+    "key": "11203-name",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11203-nameWithTitle",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11203-desc",
+    "original": "그레고르의 세번째 인격",
+    "context": "EN :\nGregor’s 3rd Identity\nJP :\nグレゴールの3つ目の人格"
+  },
+  {
+    "key": "10804-title",
+    "original": "LCCB 대리",
+    "context": "EN :\nLCCB Assistant Manager\nJP :\nLCCB 係長"
+  },
+  {
+    "key": "10804-name",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10804-nameWithTitle",
+    "original": "이스마엘",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "10804-desc",
+    "original": "이스마엘의 네번째 인격",
+    "context": "EN :\nIshmael’s 4th Identity\nJP :\nイシュメールの4つ目の人格"
+  },
+  {
+    "key": "11004-title",
+    "original": "마리아치 보스",
+    "context": "EN :\nJefe de Los Mariachis\nJP :\nマリアッチ ボス"
+  },
+  {
+    "key": "11004-name",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11004-nameWithTitle",
+    "original": "싱클레어",
+    "context": "EN :\nSinclair\nJP :\nシンクレア"
+  },
+  {
+    "key": "11004-desc",
+    "original": "싱클레어의 네번째 인격",
+    "context": "EN :\nSinclair’s 4th Identity\nJP :\nシンクレアの4つ目の人格"
+  },
+  {
+    "key": "10303-title",
+    "original": "시 협회 5과 부장",
+    "context": "EN :\nShi Section 5 Director\nJP :\nシ協会 5課 部長"
+  },
+  {
+    "key": "10303-name",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10303-nameWithTitle",
+    "original": "돈키호테",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "10303-desc",
+    "original": "돈키호테의 세번째 인격",
+    "context": "EN :\nDon Quixote’s 3rd Identity\nJP :\nドンキホーテの3つ目の人格"
+  },
+  {
+    "key": "10504-title",
+    "original": "N사 큰 망치",
+    "context": "EN :\nN Corp. Großhammer\nJP :\nN社 大鎚"
+  },
+  {
+    "key": "10504-name",
+    "original": "뫼르소",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "10504-nameWithTitle",
+    "original": "뫼르소",
+    "context": "EN :\nMeursault\nJP :\nムルソー"
+  },
+  {
+    "key": "10504-desc",
+    "original": "뫼르소의 네번째 인격",
+    "context": "EN :\nMeursault’s 4th Identity\nJP :\nムルソーの4つ目の人格"
+  },
+  {
+    "key": "10904-title",
+    "original": "N사 중간 망치",
+    "context": "EN :\nN Corp. Mittelhammer\nJP :\nN社 中鎚"
+  },
+  {
+    "key": "10904-name",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10904-nameWithTitle",
+    "original": "로쟈",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "10904-desc",
+    "original": "로쟈의 네번째 인격",
+    "context": "EN :\nRodion’s 4th Identity\nJP :\nロージャの4つ目の人格"
+  },
+  {
+    "key": "10204-title",
+    "original": "쥐는 자",
+    "context": "EN :\nThe One Who Grips\nJP :\n握る者"
+  },
+  {
+    "key": "10204-name",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10204-nameWithTitle",
+    "original": "파우스트",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10204-desc",
+    "original": "파우스트의 네번째 인격",
+    "context": "EN :\nFaust’s 4th Identity\nJP :\nファウストの4つ目の人格"
+  },
+  {
+    "key": "10704-title",
+    "original": "N사 작은 망치",
+    "context": "EN :\nN Corp. Kleinhammer\nJP :\nN社 小鎚"
+  },
+  {
+    "key": "10704-name",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10704-nameWithTitle",
+    "original": "히스클리프",
+    "context": "EN :\nHeathcliff\nJP :\nヒースクリフ"
+  },
+  {
+    "key": "10704-desc",
+    "original": "히스클리프의 네번째 인격",
+    "context": "EN :\nHeathcliff’s 4th Identity\nJP :\nヒースクリフの4つ目の人格"
+  },
+  {
+    "key": "11104-title",
+    "original": "세븐 협회 6과 부장",
+    "context": "EN :\nSeven Section 6 Director\nJP :\nセブン協会 6課 部長"
+  },
+  {
+    "key": "11104-name",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11104-nameWithTitle",
+    "original": "오티스",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "11104-desc",
+    "original": "오티스의 네번째 인격",
+    "context": "EN :\nOutis’s 4th Identity\nJP :\nウーティスの4つ目の人格"
+  },
+  {
+    "key": "10604-title",
+    "original": "리우 협회 5과",
+    "context": "EN :\nLiu Section 5\nJP :\nリウ協会 5課"
+  },
+  {
+    "key": "10604-name",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10604-nameWithTitle",
+    "original": "홍루",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "10604-desc",
+    "original": "홍루의 네번째 인격",
+    "context": "EN :\nHong Lu’s 4th Identity\nJP :\nホンルの4つ目の人格"
+  },
+  {
+    "key": "10404-title",
+    "original": "료. 고. 파. 주방장",
+    "context": "EN :\nR.B. Chef de Cuisine\nJP :\nりょ・ミ・パ 厨房長"
+  },
+  {
+    "key": "10404-name",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "10404-nameWithTitle",
+    "original": "료슈",
+    "context": "EN :\nRyōshū\nJP :\n良秀"
+  },
+  {
+    "key": "10404-desc",
+    "original": "료슈의 네번째 인격",
+    "context": "EN :\nRyōshū’s 4th Identity\nJP :\n良秀の4つ目の人格"
+  },
+  {
+    "key": "11204-title",
+    "original": "료. 고. 파. 조수",
+    "context": "EN :\nR.B. Sous-chef\nJP :\nりょ・ミ・パ 助手"
+  },
+  {
+    "key": "11204-name",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11204-nameWithTitle",
+    "original": "그레고르",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11204-desc",
+    "original": "그레고르의 네번째 인격",
+    "context": "EN :\nGregor’s 4th Identity\nJP :\nグレゴールの4つ目の人格"
+  }
+]

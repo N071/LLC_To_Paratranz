@@ -1,0 +1,370 @@
+[
+  {
+    "key": "0-place",
+    "original": "연기전쟁 중부전선",
+    "context": "EN :\nCentral Front in the Smoke War\nJP :\n煙戦争 中部戦線"
+  },
+  {
+    "key": "0-model",
+    "original": "유리",
+    "translation": "尤莉",
+    "context": "EN :\nleft\nJP :\nyuri"
+  },
+  {
+    "key": "0-teller",
+    "original": "유리",
+    "context": "EN :\nYuri\nJP :\nユーリ"
+  },
+  {
+    "key": "0-title",
+    "original": "8급 해결사",
+    "context": "EN :\nGrade 8 Fixer\nJP :\n8級フィクサー"
+  },
+  {
+    "key": "0-content",
+    "original": "욱… 토할 것 같아요. 눈앞의 것들이 모조리 일렁이고 있어서…",
+    "context": "EN :\nGuh… I think I’m gonna throw up. Everything is wobbling…\nJP :\nうっ…吐きそうです。目の前の全てがゆらゆらしてて…。"
+  },
+  {
+    "key": "1-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "1-content",
+    "original": "심압이 높아지고 있는 것 같군요.",
+    "context": "EN :\nIt would appear that psychogenic pressure is rising.\nJP :\n心圧が高まっているようですね。"
+  },
+  {
+    "key": "2-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "2-content",
+    "original": "하지만 무사… 할…",
+    "context": "EN :\nBut you should be… fine…\nJP :\nでも無事…で…。"
+  },
+  {
+    "key": "3-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "3-content",
+    "original": "불안한 악몽을 꾸었던 적이 있었던 것 같다.",
+    "context": "EN :\nI think I once had an unsettling nightmare.\nJP :\n不安な悪夢を見たことがあった気がする。"
+  },
+  {
+    "key": "4-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "4-content",
+    "original": "혹은 아직도 악몽을 꾸고 있는 것일지도 모르겠다.",
+    "context": "EN :\nMaybe I’m still in one, even now.\nJP :\nあるいはまだ悪夢を見ているのかもしれない。"
+  },
+  {
+    "key": "5-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "5-content",
+    "original": "이 꿈, 이 공간에 존재하는 색이라고는 단 두 개다.",
+    "context": "EN :\nIn this dream, there are only two colors in the room where I stand.\nJP :\nこの夢、この空間に存在する色といってはたったの二つだ。"
+  },
+  {
+    "key": "6-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "6-content",
+    "original": "벽을 온통 뒤덮은 청색. 그리고 흔들리는 적색.",
+    "context": "EN :\nThe blue covering every wall, and the dangling dot of red.\nJP :\n壁一面を覆う青色、そして揺れる赤色。"
+  },
+  {
+    "key": "7-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "7-content",
+    "original": "그리고 나는 이곳을 나가는 방법에 대해 알고 있다.",
+    "context": "EN :\nI know how to get out of here, too.\nJP :\nそして俺はここから出て行く方法を知っている。"
+  },
+  {
+    "key": "8-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "8-content",
+    "original": "팔을 뻗어 무기력하게 흔들리는 사과를 조각내기만 하면 되는 것이었다.",
+    "context": "EN :\nAll I had to do was stretch out my arm and cut the hanging apple.\nJP :\n腕を伸ばし、無気力に揺れるリンゴをバラバラにさえすれば良いだけだった。"
+  },
+  {
+    "key": "9-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "9-content",
+    "original": "청색 가운을 입은 자들은 내가 그 조건을 이해하지 못하는 것처럼 보였는지,",
+    "context": "EN :\nThe people in blue coats seemed to think I failed to understand that.\nJP :\n青色のガウンを着た者たちは、私がその条件を理解していないように見えたのか、"
+  },
+  {
+    "key": "10-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "10-content",
+    "original": "하루에 몇 번씩 찾아와서 설명을 반복했지만…",
+    "context": "EN :\nThey would come in several times a day and explain it to me over and over…\nJP :\n一日に何回も訪ねてきて説明を繰り返したが…。"
+  },
+  {
+    "key": "11-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "11-content",
+    "original": "안타깝게도 내가 이해하지 못하는 것은 그런 것이 아니었다.",
+    "context": "EN :\nUnfortunately for them, that wasn’t the part I struggled to understand.\nJP :\n残念なことに俺が理解できないのはそういうことじゃなかった。"
+  },
+  {
+    "key": "12-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "12-content",
+    "original": "마침내 이해하기를 포기하고, 동강 난 사과가 땅에 떨어지던 그때,",
+    "context": "EN :\nWhen I finally gave up thinking about it, and the sliced apple fell to the floor…\nJP :\n遂に理解することを諦め、割れたリンゴが地面に落ちたそのとき、"
+  },
+  {
+    "key": "13-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "13-content",
+    "original": "닫혀있던 문이 열렸다.",
+    "context": "EN :\nThe door was opened.\nJP :\n閉じていた扉が開いた。"
+  },
+  {
+    "key": "14-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "14-content",
+    "original": "계기는 기억나지 않는다.",
+    "context": "EN :\nI don’t remember what drove me to do it.\nJP :\nきっかけは思い出せない。"
+  },
+  {
+    "key": "15-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "15-content",
+    "original": "정신적으로 너무 지쳐 있었던 걸지도 모르고,",
+    "context": "EN :\nMaybe I was exhausted mentally.\nJP :\n精神的にとても疲れていたのかもしれないし,"
+  },
+  {
+    "key": "16-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "16-content",
+    "original": "그냥 체념하기로 결심했던 걸지도 모른다.",
+    "context": "EN :\nOr maybe I thought to resign myself to it.\nJP :\nただ諦めることにしたのかもしれない。"
+  },
+  {
+    "key": "17-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "17-content",
+    "original": "어찌 되었든 악몽에서 벗어나고 싶다는 생각을 했다는 것만 제대로 기억이 난다.",
+    "context": "EN :\nIn either case, what I do remember is my desire to break free from the nightmare.\nJP :\n何はともあれ、悪夢から逃れたいと思っていたことだけは確かに思い出せた。"
+  },
+  {
+    "key": "18-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "18-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "18-content",
+    "original": "드디어 해냈네. 그럴 줄 알았어. 성공적인 수술이었거든.",
+    "context": "EN :\nYou finally did it. I knew you could. The surgery was successful, after all.\nJP :\nついにやり遂げた。こうなると思ったよ。手術は成功的に終わったからね。"
+  },
+  {
+    "key": "19-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "19-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "19-content",
+    "original": "앞으로도 그렇게 하면 된단다. 눈앞의 사과를 조각내는 거야. 간단하지?",
+    "context": "EN :\nYou just have to keep it up. Chop up the apples in front of you. Simple, isn’t it?\nJP :\nこれからもそうすれば良いんだよ。目の前の林檎をバラバラにするんだ。\n簡単だろ？"
+  },
+  {
+    "key": "20-teller",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "20-title",
+    "original": "???",
+    "context": "EN :\n???\nJP :\n???"
+  },
+  {
+    "key": "20-content",
+    "original": "아, 맞다. 15번째 생일을 축하해!",
+    "context": "EN :\nOh, right. Happy fifteenth birthday!\nJP :\nあ、そうだ。15番目の誕生日おめでとう！"
+  },
+  {
+    "key": "21-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "21-content",
+    "original": "…네.",
+    "context": "EN :\n…Okay.\nJP :\n…はい。"
+  },
+  {
+    "key": "22-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "22-content",
+    "original": "포기와 체념을 통해 벗어난 악몽.",
+    "context": "EN :\nA nightmare I escaped through renunciation and resignation.\nJP :\n放棄と諦念を通じて抜け出した悪夢。"
+  },
+  {
+    "key": "23-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "23-content",
+    "original": "어느 날 아침, 꿈에서 깨어나고 나니.",
+    "context": "EN :\nOne day, as I awoke from my unsettling dreams…\nJP :\nある日の朝、夢から目覚めると。"
+  },
+  {
+    "key": "24-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "24-content",
+    "original": "나는 한 마리 흉측한 해충으로 변해 있었음을 발견할 수 있었다.",
+    "context": "EN :\nI had found myself transformed into some hideous pest.\nJP :\n俺は一匹のおぞましい害虫に変わっていることを発見した。"
+  },
+  {
+    "key": "25-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "25-content",
+    "original": "사과를 조각낸다.",
+    "context": "EN :\nI cut apples in half.\nJP :\n林檎をバラバラにする。"
+  },
+  {
+    "key": "26-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "26-content",
+    "original": "어떤 건 딱딱했고, 퍼석했고, 물렀고, 과즙이 많았다.",
+    "context": "EN :\nSome were hard, some crumbly, some were soft, some sappy.\nJP :\nあるものは硬くて、パサパサしていて、柔らかくて、果汁が多かった。"
+  },
+  {
+    "key": "27-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "27-content",
+    "original": "단내가 퍼질 때마다 가끔 구역질이 났다.",
+    "context": "EN :\nThe sugary smell made me sick sometimes.\nJP :\n甘い香りが広がるたびに、稀に吐き気がした。"
+  },
+  {
+    "key": "28-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "28-content",
+    "original": "깨달은 건 언제였을까.",
+    "context": "EN :\nAt some point, I realized something:\nJP :\n悟ったのはいつだったのだろう。"
+  },
+  {
+    "key": "29-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "29-content",
+    "original": "꿈에서 깨어났다고 생각했지만.",
+    "context": "EN :\nI thought I woke up from the dream.\nJP :\n夢から目覚めたと思っていたが。"
+  },
+  {
+    "key": "30-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "30-content",
+    "original": "<color=#69350b>나는 여전히 악몽의 한 가운데였다는 것을.</color>",
+    "context": "EN :\n<color=#69350b>But I was still right in the middle of that nightmare.</color>\nJP :\n<color=#69350b>俺は未だに、悪夢のど真ん中にいたということを。</color>"
+  }
+]

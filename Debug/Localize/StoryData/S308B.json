@@ -1,0 +1,1075 @@
+[
+  {
+    "key": "0-place",
+    "original": "K사 검문소",
+    "context": "EN :\nK Corp. Checkpoint\nJP :\nK社 検問所"
+  },
+  {
+    "key": "0-content",
+    "original": "12번의 고통을 차례차례 겪고 난 후, 수감자들이 다시 모였다.",
+    "context": "EN :\nAfter twelve whirls of agony, the Sinners were all back in one piece.\nJP :\n12回の苦痛を順番に経て、囚人たちが再び集まった。"
+  },
+  {
+    "key": "1-content",
+    "original": "다들 주눅이라도 들었는지 평소와는 다르게 조용해진 모습이 낯설다.",
+    "context": "EN :\nThe massacre must’ve been humbling because it feels rather strange seeing them this quiet.\nJP :\nみんな臆したのか、普段とは違って静かなのでどうも慣れない。"
+  },
+  {
+    "key": "2-model",
+    "original": "지크프리트",
+    "translation": "齐格飞",
+    "context": "EN :\n1阶收尾人\nJP :\nSiegfried"
+  },
+  {
+    "key": "2-teller",
+    "original": "지크프리트",
+    "context": "EN :\nSiegfried\nJP :\nジークフリート"
+  },
+  {
+    "key": "2-title",
+    "original": "해결사?",
+    "context": "EN :\nA Fixer?\nJP :\nフィクサー？"
+  },
+  {
+    "key": "2-content",
+    "original": "어떻게 지내고 있었는가, 붉은시선? 요새 통 얼굴 보기가 힘들었는데. ‘둥지 속 우수한 해결사들의 모임’에도 안 나오고…",
+    "context": "EN :\nHow’s life been, Red Gaze? We’ve rarely had a chance to meet in recent times. Haven’t shown up to the ‘League of Excellent Nest-dwelling Fixers’ lately, either…\nJP :\nあれからどう過ごしていた、赤い視線？\n最近、とんと顔を見ることが無かったが。\n「巣の中で優秀なフィクサーたちの集い」にも出席もしないで…。"
+  },
+  {
+    "key": "3-model",
+    "original": "지크프리트",
+    "translation": "齐格飞",
+    "context": "EN :\n1阶收尾人\nJP :\nSiegfried"
+  },
+  {
+    "key": "3-teller",
+    "original": "지크프리트",
+    "context": "EN :\nSiegfried\nJP :\nジークフリート"
+  },
+  {
+    "key": "3-title",
+    "original": "해결사?",
+    "context": "EN :\nA Fixer?\nJP :\nフィクサー？"
+  },
+  {
+    "key": "3-content",
+    "original": "내가 초대장을 무려 수십 장이나 보냈는데 받지 못한 것인가?",
+    "context": "EN :\nWere you unable to read the dozens of invitations I sent you?\nJP :\n俺が招待状を何十枚も送ったのに、受け取れなかったのか？"
+  },
+  {
+    "key": "4-model",
+    "original": "베르길리우스",
+    "translation": "维吉里乌斯",
+    "context": "EN :\nVergilius\nJP :\nヴェルギリウス"
+  },
+  {
+    "key": "4-content",
+    "original": "주소 바꿨어. 그리고 당신처럼 충실하게 꼬리 따위 흔들고 있을 여유도 없지.",
+    "context": "EN :\nChanged addresses. And I don’t have the time to lick top-brass boots like you’re doing.\nJP :\n住所は変えた。あと、あなたみたいに忠実に尻尾なんか振ってる余裕もない。"
+  },
+  {
+    "key": "5-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "5-content",
+    "original": "<무슨 사연이 있는진 모르지만… 베르길리우스가 너무 살벌하게 대하는 거 아니야?>",
+    "context": "EN :\n<I don’t know what happened between these two, but… Vergilius is a bit hostile here, right?>\nJP :\n<どういう事情があるのかは分からないけど…\nヴェルギリウスの受け答え、刺々しすぎない？>"
+  },
+  {
+    "key": "6-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "6-content",
+    "original": "척 보기에도 둘의 성향이 다르다고 느끼지 않나요, 단테?",
+    "context": "EN :\nThe difference in disposition between them is rather clear, isn’t it, Dante?\nJP :\nざっと見ただけでも二人の志向が違うと思いませんか、ダンテ？"
+  },
+  {
+    "key": "7-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "7-content",
+    "original": "<어떤 성향?>",
+    "context": "EN :\n<In what ways?>\nJP :\n<どういう志向？>"
+  },
+  {
+    "key": "8-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "8-content",
+    "original": "간단히 말하자면, 지크프리트 씨는 해결사 중에서도 날개 친화적인 쪽에 가까웠죠.",
+    "context": "EN :\nSimply put, Mr. Siegfried can be described as a pro-Wing Fixer based on the views he’s expressed.\nJP :\n簡単に言うと、ジークフリートさんはフィクサーの中でも翼寄りに近いです。"
+  },
+  {
+    "key": "9-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "9-content",
+    "original": "반면에 베르길리우스 씨는 해결사만의 독립성을 추구했어요.",
+    "context": "EN :\nOn the other hand, our guide Vergilius sought independence as a Fixer.\nJP :\n反対にヴェルギリウスはフィクサーだけの独立性を追求しました。"
+  },
+  {
+    "key": "10-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "10-content",
+    "original": "영향력이 강한 어느 한 곳에 해결사가 종속되는 순간, 해결사가 지켜야 할 최소한의 가치마저도 사라진다고 생각했거든요.",
+    "context": "EN :\nHe believed that a Fixer loses sight of their core principles the moment they become subordinate to an influential entity.\nJP :\n影響力の強いどこかにフィクサーが従属する瞬間、フィクサーが守るべき\n最小限の価値すらも消えると考えたからです。"
+  },
+  {
+    "key": "11-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "11-content",
+    "original": "힘 있는 자들 한정해선 누구보다 엄격한 잣대를 들이미는 사람이니까요.",
+    "context": "EN :\nHe is someone who is strict towards those with power, after all.\nJP :\n力ある者たちに限っては、誰よりも厳格な指標を突き付ける人ですからね。"
+  },
+  {
+    "key": "12-content",
+    "original": "파우스트와의 이야기를 나누면서 돈키호테가 덜덜 떨리는 모습으로 지크프리트에게 다가가는 모습이 보였다.",
+    "context": "EN :\nWhile speaking with Faust, I saw Don Quixote quake and approach Siegfried with shaky hands.\nJP :\nファウストと話をしていると、ドンキホーテがぶるぶる震えながら\nジークフリートへと近寄る姿が見えた。"
+  },
+  {
+    "key": "13-content",
+    "original": "방금까지 본인을 조각냈던 장본인 일텐데, 오히려 그 또한 돈키호테에겐 하나의 영광이었나 보다.",
+    "context": "EN :\nShe must’ve been honored to see him, even after being mincemeat by his hands mere moments ago.\nJP :\n先程本人を木っ端微塵にした張本人だろうに、\nむしろそれもまたドンキホーテにとっては一つの栄光だったようだ。"
+  },
+  {
+    "key": "14-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "14-content",
+    "original": "패패패패패…팬이오! 그대의 피규어도 모아놓았소! 한정판은 아니지만… 나도 그대처럼 엄청난 해결사가 되는 것이 꿈이오!",
+    "context": "EN :\nF, fe, fa, feh, afa… a fan, I am! I have collected figurines sculpted after you! Though I’ve yet to get my hands on limited editions… I set my heart on becoming a magnificent Fixer such as you!\nJP :\nファファファファファ…ファンです！そなたのフィギュアも集めておりまする！\n限定版ではないけど…。\n私もそなたのような凄いフィクサーになるのが夢でありまする！"
+  },
+  {
+    "key": "15-model",
+    "original": "지크프리트",
+    "translation": "齐格飞",
+    "context": "EN :\n1阶收尾人\nJP :\nSiegfried"
+  },
+  {
+    "key": "15-title",
+    "original": "해결사?",
+    "context": "EN :\nA Fixer?\nJP :\nフィクサー？"
+  },
+  {
+    "key": "15-content",
+    "original": "음! 해결사 꿈나무군! 시간이 얼마 없지만, 사인은 해줄 수 있지!",
+    "context": "EN :\nAha! An aspiring Fixer! I have little time to spare, but more than enough for an autograph!\nJP :\nうむ！フィクサーの有望株だな！時間はあまりないが、サインはできるな！"
+  },
+  {
+    "key": "16-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "16-content",
+    "original": "그… 그게 정말이오? 그럼 사인은… 사인은… 여기에… 에헤헤…",
+    "context": "EN :\nI… Is that true? Then would you sign… an autograph… here… Ehehe…\nJP :\nそ…それは本当か？じゃあサインは…サインは…ここに…えへへ…。"
+  },
+  {
+    "key": "17-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "17-content",
+    "original": "숨 좀 쉬어, 돈키호테…",
+    "context": "EN :\nSlow breaths, Don Quixote…\nJP :\nちょっとは息しろよ、ドンキホーテ…。"
+  },
+  {
+    "key": "18-teller",
+    "original": "안내 방송",
+    "context": "EN :\nAnnouncement\nJP :\n案内放送"
+  },
+  {
+    "key": "18-title",
+    "original": "K사 검문소",
+    "context": "EN :\nK Corp. Checkpoint\nJP :\nK社 検問所"
+  },
+  {
+    "key": "18-content",
+    "original": "안내합니다. 상황 종료, 코드 퍼플. 상황 종료, 코드 퍼플. 올 코드, 클리어.",
+    "context": "EN :\nAttention. Code purple, dismissed. Code purple, dismissed. All codes cleared.\nJP :\nお知らせします。状況終了、コードパープル。\n状況終了、コードパープル。オールコード、クリア。"
+  },
+  {
+    "key": "19-model",
+    "original": "지크프리트",
+    "translation": "齐格飞",
+    "context": "EN :\n1阶收尾人\nJP :\nSiegfried"
+  },
+  {
+    "key": "19-title",
+    "original": "해결사?",
+    "context": "EN :\nA Fixer?\nJP :\nフィクサー？"
+  },
+  {
+    "key": "19-content",
+    "original": "음! 일은 성공적으로 끝 마쳤다!",
+    "context": "EN :\nHuzzah! That’s a job done well!\nJP :\nうむ！仕事は成功的に収められた！"
+  },
+  {
+    "key": "20-model",
+    "original": "지크프리트",
+    "translation": "齐格飞",
+    "context": "EN :\n1阶收尾人\nJP :\nSiegfried"
+  },
+  {
+    "key": "20-title",
+    "original": "해결사?",
+    "context": "EN :\nA Fixer?\nJP :\nフィクサー？"
+  },
+  {
+    "key": "20-content",
+    "original": "그럼, 또 어디선가에서 보도록 하지! 하하하하!!",
+    "context": "EN :\nNow then, until next we meet! Hahahaha!!\nJP :\nそれでは、またどこかで逢おうぞ！ハハハハ！！"
+  },
+  {
+    "key": "21-content",
+    "original": "엄청난 진동과 함께, 지크프리트는 하늘로 솟아 어디론가로 사라졌고…",
+    "context": "EN :\nLeaping with tremendous force, Siegfried vanished into the air…\nJP :\n凄まじい振動と共にジークフリートは天へ舞い上がり、どこかへ消え…。"
+  },
+  {
+    "key": "22-content",
+    "original": "우리는 다소 시간이 걸리긴 했지만, 결과적으로 다시 통행 허가를 받아낼 수 있었다.",
+    "context": "EN :\nAlthough there was a small delay, we did get the travel permit in the end.\nJP :\n私たちは多少時間が掛かりはしたが、結果的に再び通行許可を\n得ることが出来た。"
+  },
+  {
+    "key": "23-content",
+    "original": "그 사이에 베르길리우스는 버스로 먼저 돌아가 버렸다. 어쩌면, 애초에 지크프리트라는 자와 접선할 거라는 것을 알고 내렸던 것일지도 모르겠다.",
+    "context": "EN :\nVergilius returned to the bus in the meantime. Or, perhaps he only got off knowing that we’d run into that Siegfried.\nJP :\nその隙にヴェルギリウスはバスへ先に帰ってしまった。もしかすると、最初から\nジークフリートという者とぶつかることを知ってて降車してたのかもしれない。"
+  },
+  {
+    "key": "24-content",
+    "original": "다소 화가 나 보이는 그의 뒷모습이 신경이 쓰이는 건 나뿐인 듯했지만…",
+    "context": "EN :\nHe looked rather upset as he walked away, but no one else seemed to care that much…\nJP :\n多少怒ってみえる彼の後ろ姿が気になるのは、私だけのようだったが…。"
+  },
+  {
+    "key": "25-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "25-content",
+    "original": "우후, 우후후…",
+    "context": "EN :\nUfu, wuhuhu…\nJP :\nうふ、うふふ…。"
+  },
+  {
+    "key": "26-content",
+    "original": "싸늘해진 공기를 홀로 눈치채지 못한 건지, 돈키호테는 지크프리트의 사인이 담긴 종이를 세상 그 누구보다 행복하게 쓰다듬고 있었다.",
+    "context": "EN :\nClueless to the surrounding frigidness, Don Quixote was happy as a clam, caressing the sheet of paper autographed by Siegfried.\nJP :\n一人だけ冷え切った空気を読めなかったのか、\nドンキホーテはジークフリートのサインが\n書かれた紙をこの世で誰よりも幸せそうな顔で撫でていた。"
+  },
+  {
+    "key": "27-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "27-content",
+    "original": "꿈을 꾸고 있는 것은 아닌지 모르겠소! 관리자 나리! 내 볼따구 한 번만 꼬집어 줄 수 있겠소?",
+    "context": "EN :\nI must be caught in a dream! Manager Esquire! Will you pinch my cheek just once?\nJP :\n夢を見ているのではあるまいか！\n管理人殿！私のほっぺたを一度だけつねっては貰えぬか？"
+  },
+  {
+    "key": "28-content",
+    "original": "출입 검문소를 나오면서 흰소리를하는 돈키호테에게 무언가 말하려고 하는데…",
+    "context": "EN :\nJust as I was about to give the blissful Don Quixote a word while we walked out of the border checkpoint…\nJP :\n検問所を出ながら、騒ぎ立てているドンキホーテに何か言おうとしたが…。"
+  },
+  {
+    "key": "29-content",
+    "original": "갑자기 눈앞에서 장갑차 한 대가 멈춰 섰다.",
+    "context": "EN :\nAn armored vehicle stopped before us.\nJP :\n急に目の前で装甲車が止まった。"
+  },
+  {
+    "key": "30-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "30-content",
+    "original": "…새로운 적인가? 둥지의 검문소 앞에서 간도 크군.",
+    "context": "EN :\n…A newfound foe? Bold of them to challenge us right in front of a Nest’s checkpoint.\nJP :\n…新たな敵か？巣の検問所の前なのに度胸が据わってるな。"
+  },
+  {
+    "key": "31-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "31-content",
+    "original": "이 차는… LCC, 청소부서 소속이군요.",
+    "context": "EN :\nThis vehicle is from… LCC, the clearance department.\nJP :\nこの車は…LCC、掃除部署所属ですね。"
+  },
+  {
+    "key": "32-content",
+    "original": "파우스트가 무심하게 대답하자마자 장갑차가 열렸다.",
+    "context": "EN :\nFollowing Faust’s plain reply, the vehicle’s doors opened.\nJP :\nファウストが気にも留めない様子で答えると、たちまち装甲車が開いた。"
+  },
+  {
+    "key": "33-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "33-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "33-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "33-content",
+    "original": "나 참, 왜 이렇게 오래 걸린 거야? 이 근처를 세 바퀴나 뱅뱅 돌았잖아.",
+    "context": "EN :\nAh geez, what took you so long? We had to cycle three laps waiting for it to be over.\nJP :\nあぁもう、なんでこんなに掛かったんだよ？\nこの辺りを三回もぐるぐる回ったじゃないか。"
+  },
+  {
+    "key": "34-content",
+    "original": "열린 차 안에서부터 낯익은 얼굴들이 보였다.",
+    "context": "EN :\nA couple of familiar faces appeared out of the car.\nJP :\n開いた車の中から見慣れた顔が見えた。"
+  },
+  {
+    "key": "35-content",
+    "original": "에피, 그리고 소드.",
+    "context": "EN :\nEffie, and Saude.\nJP :\nエピ、それにソード。"
+  },
+  {
+    "key": "36-content",
+    "original": "복장은 이전과 달라졌어도 자신감과 여유가 넘치는 표정만큼은 그대로였다.",
+    "context": "EN :\nEven though their outfits had changed, their faces were greased with just as much confidence and poise.\nJP :\n服装は前と違うが、自信と余裕溢れる顔つきはそのままだった。"
+  },
+  {
+    "key": "37-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "37-content",
+    "original": "오, 비포팀에서도 온 건가? 분위기가 조금 달라졌군, 그래.",
+    "context": "EN :\nOh, people from the Before Team, eh? Something about you looks different, I’ve gotta say.\nJP :\nお、ビフォーチームからも来たのか？\n雰囲気がちょっと変わったな。"
+  },
+  {
+    "key": "38-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "38-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "38-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "38-content",
+    "original": "그건 카지노 잠입을 위한 위장복이었답니다. 결과적으론 쓸모가 없긴 했지만 말이에요.",
+    "context": "EN :\nThat was a disguise we had in order to infiltrate the casino. It was ultimately useless, though.\nJP :\nそれはカジノ潜入のための擬装用の服でした。結果的に役に立たなかったんですけどね。"
+  },
+  {
+    "key": "39-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "39-content",
+    "original": "<…….>",
+    "context": "EN :\n<……>\nJP :\n<……。>"
+  },
+  {
+    "key": "40-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "40-content",
+    "original": "…그 심부를 찌르는 말투는 여전하구만.",
+    "context": "EN :\n…Still got that sharp tongue too, huh.\nJP :\n…その深いところ突き刺すような言い方は相変わらずだな。"
+  },
+  {
+    "key": "41-content",
+    "original": "돌연히 지난번, 엉망진창 대 하모니였던 순간들이 떠올라 잠시동안 명치가 아팠다.",
+    "context": "EN :\nMy chest ached a little at the thought of the harmonious cacophony that was our last operation.\nJP :\n急にこの前のドッタンバッタン大騒ぎを思い出し、\nしばらくみぞおちの辺りがなんとなく痛んだ。"
+  },
+  {
+    "key": "42-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "42-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "42-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "42-content",
+    "original": "풉… 소드, 저 시계 시침 바르르 떨리는 거 보여? 저러다가 울기라도 하겠어.",
+    "context": "EN :\nPft… Saude, you see that hand on the clock trembling? You’ll make them cry.\nJP :\nぷっ…ソード、あの時計の秒針が震えてるの見える？\nあのまま泣いちゃいそう。"
+  },
+  {
+    "key": "43-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "43-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "43-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "43-content",
+    "original": "장난이랍니다. 실력으로는 아직 발전해야 할 부분이 한참 남아있었지만, 그래도 LCB 부서만의 색깔이 있다는 걸 인정하기로 했거든요.",
+    "context": "EN :\nI was just being playful. While you had much room for improvement in regard to skill, I’ve made up my mind to admit that the LCB department has its own character.\nJP :\n冗談ですよ。実力ではまだ至らないところはかなりありますが、\nそれでもLCB部署ならではの色があるということを認めることにしたんです。"
+  },
+  {
+    "key": "44-content",
+    "original": "과정이 어떻든, 결과적으론 저 둘에게 좋은 인상을 남기긴 했던 모양이다.",
+    "context": "EN :\nIn spite of the rough path we took, it sounds like we did leave a positive impression on the two.\nJP :\n過程がどうであれ、結果的にはあの二人に良い印象を残せたようだ。"
+  },
+  {
+    "key": "45-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "45-content",
+    "original": "비포팀들은 먼저 작전 현장에 도착해 있는 줄 알았는데요.",
+    "context": "EN :\nThe Before Team was supposed to be on site at this hour, wasn’t it?\nJP :\nビフォーチームは先に作戦現場へ到着していると思ったのですが。"
+  },
+  {
+    "key": "46-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "46-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "46-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "46-content",
+    "original": "다른 대원들은 이미 도착해 있을 거야. 너희들이 알면 유용할 추가정보가 있어서 잠시 남아서 기다려 주기로 했지.",
+    "context": "EN :\nThe others should be there already. We decided to wait for you because we had useful intel to share.\nJP :\n他の隊員たちは既に到着しているはずだ。お前たちにとって\n有用な追加情報があるから、しばらく残って待ってあげることにしたんだよ。"
+  },
+  {
+    "key": "47-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "47-content",
+    "original": "음… 어떻든 간에, 우리가 신경이 쓰였다는 거네, 맞지?",
+    "context": "EN :\nHmm… In any case, you cared about us, right?\nJP :\nうーん…どっちにしろ、俺たちが気掛かりだったということだよな？"
+  },
+  {
+    "key": "48-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "48-content",
+    "original": "푸흐, 너희들도 우리의 매력에 헤어 나오지 못했던 거 아니야?",
+    "context": "EN :\nPfhu, do we have a couple of new fans knee-deep in our charm?\nJP :\nぷふっ、あなたたちも私たちの魅力の虜になっちゃったの？"
+  },
+  {
+    "key": "49-model",
+    "original": "로쟈",
+    "translation": "罗佳",
+    "context": "EN :\nRodion\nJP :\nロージャ"
+  },
+  {
+    "key": "49-content",
+    "original": "왜~ 그런 거 있잖아. 귀신같이 맛없는 재료들만 모아 놓아서 요리했는데 묘하게 맛이 있는 거.",
+    "context": "EN :\nY’know~ Something like—the sorta food that’s cooked from ghastly ingredients, but the end result’s a pleasant surprise.\nJP :\nまぁね～そういうのあるじゃん。死ぬほどまっずい材料ばっかり集めて\n料理したら、妙においしいみたいな。"
+  },
+  {
+    "key": "50-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "50-content",
+    "original": "맞아, 전장에는 그런 게 많았지. 분명 먹을 당시엔 비참했는데 자꾸 기억에 남는…",
+    "context": "EN :\nYep, had a lot of that on the battlefield. Miserable to swallow, but somehow memorable…\nJP :\nああ、戦場じゃあそういうのが多かったな。\n確か食べたときは酷かったのに、何度も思い浮かぶ…。"
+  },
+  {
+    "key": "51-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "51-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "51-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "51-content",
+    "original": "…두 분 다 어떤 음식을 드셔 왔던 거죠?",
+    "context": "EN :\n…What kind of food have you two been eating?\nJP :\n…お二人さんは今までどんなものを食べてきたんですか？"
+  },
+  {
+    "key": "52-model",
+    "original": "홍루",
+    "translation": "鸿璐",
+    "context": "EN :\nHong Lu\nJP :\nホンル"
+  },
+  {
+    "key": "52-content",
+    "original": "저 그런데, 전달받을 정보란 어떤 것인가요?",
+    "context": "EN :\nUm, by the way, what’s the intel you were going to share with us?\nJP :\nところで、伝達情報ってどんなのですか？"
+  },
+  {
+    "key": "53-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "53-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "53-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "53-content",
+    "original": "이번 목표 지점 말이야, 우리 말고 다른 집단이 점령해 있는 상태인 것 같아.",
+    "context": "EN :\nIt’s about our target location. It seems another faction has occupied the place already.\nJP :\n今回の目標地点だけどな、俺たち以外の集団が占領している状態らしい。"
+  },
+  {
+    "key": "54-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "54-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "54-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "54-content",
+    "original": "그래서 우리 쪽에서도 평소보다 많은 인원을 투입하고 있지.",
+    "context": "EN :\nWe’re putting in more manpower than usual as a result.\nJP :\nだから俺たちの方でも普段より多くの人員を投入しているんだ。"
+  },
+  {
+    "key": "55-model",
+    "original": "오티스",
+    "translation": "奥提斯",
+    "context": "EN :\nOutis\nJP :\nウーティス"
+  },
+  {
+    "key": "55-content",
+    "original": "흥, 그래 봤자 또 어디서 모여드는 쇠파리 같은 놈들이겠지.",
+    "context": "EN :\nHmph, I bet they are yet another swarm of gadflies attracted by opportunity.\nJP :\nふん。そうしたところで、どこかから集まって来た\n小バエみたいな奴らしかいないんだろ。"
+  },
+  {
+    "key": "56-content",
+    "original": "오티스의 말 대로, 우리는 작전마다 황금 가지 근처에 상주 중이던 다른 집단들과 충돌이 있었다.",
+    "context": "EN :\nAs Outis pointed out, we weren’t new to encounters against groups of foes drawn near the Golden Boughs.\nJP :\nウーティスの言う通り、私たちは作戦の度に\n黄金の枝の近くに常駐していた他の集団と衝突した。"
+  },
+  {
+    "key": "57-content",
+    "original": "첫 번째 작전에서는 G사의 패잔병들이 떠돌이처럼 잔류해 있었고,",
+    "context": "EN :\nFor our first mission, straggling soldiers from G Corp. took shelter in the abandoned facility.\nJP :\n最初の作戦では、G社の敗残兵が流れ者のように残っており、"
+  },
+  {
+    "key": "58-content",
+    "original": "두 번째 작전에서는 다양한 갱단들이 카지노에 남아 있었다.",
+    "context": "EN :\nAnd on our second, a variety of gangs inhabited the casino.\nJP :\n二回目の作戦では、いろんなギャングがカジノに残っていた。"
+  },
+  {
+    "key": "59-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "59-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "59-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "59-content",
+    "original": "안타깝지만, 이번 상대들은 예전 같은 부스러기는 아닌 모양이야.",
+    "context": "EN :\nUnfortunately, our opponents this time won’t be some crummy no-names like before.\nJP :\n残念だけど、今回の相手はこの前みたいなクズではないみたいだ。"
+  },
+  {
+    "key": "60-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "60-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "60-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "60-content",
+    "original": "심사 기록을 슬쩍 살펴보니까, 몇 주 전 N사에서 대거 파견한 기록이 남아 있었어. 심지어 우리와 목적지가 같더라고.",
+    "context": "EN :\nWe took a peek at the immigration inspection records and found out that N Corp. dispatched a legion of employees a few weeks ago. Same destination as ours, too.\nJP :\n審査記録をこっそり調べたところ、数週間前にN社からの\n大量派遣記録が残っていたんだ。しかも俺たちと目的地が同じだった。"
+  },
+  {
+    "key": "61-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "61-content",
+    "original": "N사에서요?",
+    "context": "EN :\nFrom N Corp?\nJP :\nN社からですか？"
+  },
+  {
+    "key": "62-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "62-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "62-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "62-content",
+    "original": "공식적으로 드러난 행보는 아니지만, K사 쪽에서도 심사 통과를 해준 걸로 봐선 모종의 거래가 있었을 수도 있지.",
+    "context": "EN :\nThough this wasn’t an officially disclosed activity, seeing that K Corp. has let them pass means they might have made a deal under the table.\nJP :\n公式的に開示された行動ではないが、K社側でも審査を通したのを見るに、\nある種の取引があったのかもしれないな。"
+  },
+  {
+    "key": "63-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "63-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "63-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "63-content",
+    "original": "즉… N사에서 미리 파견이 와 있는 게 사실이라면, 가는 길이 순탄하지만은 않을 거라는 소리랍니다.",
+    "context": "EN :\nWhich… if it’s true that N Corp. has sent staff in advance, then the journey won’t be a smooth one.\nJP :\nつまり…N社から事前に派遣が来ていることが事実であれば、\n行く道が順調ではないということです。"
+  },
+  {
+    "key": "64-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "64-content",
+    "original": "…그렇군. 이거 자칫하다 여러 날개를 척지는 건 아닌지 몰라.",
+    "context": "EN :\n…I see. I’m worried we might make enemies of several Wings as we go on.\nJP :\n…そうか。これ下手すると、いろんな翼を敵に回すんじゃないのか？"
+  },
+  {
+    "key": "65-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "65-content",
+    "original": "장기적으로 봤을 때 날개 간의 충돌은 불가피한 수순일 거예요.",
+    "context": "EN :\nIn the long term, conflicts with Wings will be an unavoidable step in the process.\nJP :\n長期的に見ると、翼間の衝突は不可避となるでしょう。"
+  },
+  {
+    "key": "66-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "66-content",
+    "original": "하지만 N사에서 공식적인 파견을 공표한 게 아닌 걸 봐서는, 단순히 이익집단 간의 충돌로 마무리될 수도 있고요.",
+    "context": "EN :\nJudging from the fact that N Corp. hasn’t made this motion officially known, it could end as a simple conflict of interest.\nJP :\nしかし、N社が公式的に派遣を公表したわけではないことを見ると、\n単純に利益集団間の衝突で終わる可能性もあります。"
+  },
+  {
+    "key": "67-model",
+    "original": "파우스트",
+    "translation": "浮士德",
+    "context": "EN :\nFaust\nJP :\nファウスト"
+  },
+  {
+    "key": "67-content",
+    "original": "어쩌면… 그들이 진정으로 원하는 건 황금가지가 아니라는 가능성도 배제할 순 없어요.",
+    "context": "EN :\nFurthermore… We can’t discount the possibility that it’s not the Golden Bough they’re after.\nJP :\nもしかすると…彼らが真に望んでいるものは、\n黄金の枝ではないという可能性も排除することはできません。"
+  },
+  {
+    "key": "68-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "68-content",
+    "original": "어찌 되었든 여기저기에 써먹기 편한 게 우리라는 건 부정되지 않은 것 같지만…",
+    "context": "EN :\nDoesn’t change that we’re convenient pawns for our higher-ups to throw around either way…\nJP :\n何はともあれ、あちこちにパシりやすいのが\n俺たちってことは否定されていないっぽいけど…。"
+  },
+  {
+    "key": "69-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "69-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "69-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "69-content",
+    "original": "아. 맞아, K사 입국 관리소에서 소동을 일으킨 멍청이들이 있다고 했는데 혹시 얼굴 봤어?",
+    "context": "EN :\nOh, right, I heard some morons caused a scene at the K Corp. checkpoint. Did you guys see who they were?\nJP :\nあ。そうだ、K社入国管理所で騒動を起こしたバカどもがいるって聞いたんだけど、\nもしかして顔見たか？"
+  },
+  {
+    "key": "70-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "70-content",
+    "original": "…소, 소문이라는 건 참 빠르게 퍼지는군. 마치… 로시난테 같소.",
+    "context": "EN :\n…R—Rumor travels with such haste. ‘Twas as though… astride Rocinante.\nJP :\n…う、噂というのは本当に広まるのが早いな。まるで…ロシナンテのようだ。"
+  },
+  {
+    "key": "71-content",
+    "original": "돈키호테는 부끄럽다는 듯이 고개를 떨구었다.",
+    "context": "EN :\nDon Quixote hung her head, possibly in embarrassment.\nJP :\nドンキホーテは恥ずかしげにうなだれた。"
+  },
+  {
+    "key": "72-content",
+    "original": "다행히도, 자기가 한 일들이 무언가 민폐로 작용한다는 점은 깨닫고 있는 것일지도 모르겠다.",
+    "context": "EN :\nPerhaps she’s finally starting to learn that her reckless actions have repercussions.\nJP :\n幸いなことに、自分がしたことが\n何しらの迷惑になるということは分かっているのかもしれない。"
+  },
+  {
+    "key": "73-content",
+    "original": "…아니면 소문이 퍼져서 기쁜 듯이 부끄러워하는 거던가.",
+    "context": "EN :\n…That, or I’m mistaken and she’s glad that more people know of what she’s done.\nJP :\n…それとも噂が広がって嬉しそうに恥ずかしがっているのかもしれない。"
+  },
+  {
+    "key": "74-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "74-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "74-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "74-content",
+    "original": "아깝지 뭐예요. 그런 광경은 자주 볼 수 있지도 않았을 텐데.",
+    "context": "EN :\nA shame I missed it. That’s not the kind of spectacle you see every day.\nJP :\nもったいないでしょう。そんな光景は滅多にないですし。"
+  },
+  {
+    "key": "75-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "75-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "75-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "75-content",
+    "original": "목숨이 여러 개 있는 게 아닌 이상 누가 감히 입국 관리소에서부터 소란을…",
+    "context": "EN :\nReally, who in their right mind would mess with a Wing at a border checkpoint unless they had lives to spare…\nJP :\n命がいくつもあるわけじゃないのに、一体誰が入国管理所に入ってすぐ騒ぎを…。"
+  },
+  {
+    "key": "76-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "76-content",
+    "original": "<…….>",
+    "context": "EN :\n<……>\nJP :\n<……。>"
+  },
+  {
+    "key": "77-model",
+    "original": "돈키호테",
+    "translation": "堂吉诃德",
+    "context": "EN :\nDon Quixote\nJP :\nドンキホーテ"
+  },
+  {
+    "key": "77-content",
+    "original": "…….",
+    "context": "EN :\n……\nJP :\n……。"
+  },
+  {
+    "key": "78-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "78-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "78-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "78-content",
+    "original": "…설마, 아니죠?",
+    "context": "EN :\n…Please, don’t tell me.\nJP :\n…まさか、違いますよね？"
+  },
+  {
+    "key": "79-model",
+    "original": "이스마엘",
+    "translation": "以实玛利",
+    "context": "EN :\nIshmael\nJP :\nイシュメール"
+  },
+  {
+    "key": "79-content",
+    "original": "자자, 시간도 얼마 없고 하니 빨리 이동하죠.",
+    "context": "EN :\nCome on, we don’t have much time, so we should get going.\nJP :\nさあ、時間もあまりないですし早く移動しましょう。"
+  },
+  {
+    "key": "80-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "80-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "80-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "80-content",
+    "original": "이런. 베르길리우스 님은 이번에도 안 계시나 보네.",
+    "context": "EN :\nAh, dear. Mr. Vergilius is nowhere to be seen again.\nJP :\nおっと。ヴェルギリウスさんは今回もいらっしゃらないみたいだな。"
+  },
+  {
+    "key": "81-model",
+    "original": "그레고르",
+    "translation": "格里高尔",
+    "context": "EN :\nGregor\nJP :\nグレゴール"
+  },
+  {
+    "key": "81-content",
+    "original": "…아, 그 양반? 먼저 버스로 돌아갔어.",
+    "context": "EN :\n…Oh, him? He went back to the bus first.\nJP :\n…あぁ、あの野郎？先にバスへ戻ったぞ。"
+  },
+  {
+    "key": "82-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "82-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "82-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "82-content",
+    "original": "아쉽네요. 이번에야말로 얼굴 한번 비추고 싶었는데…",
+    "context": "EN :\nWhat a pity. I didn’t want to miss my chance to say hello…\nJP :\n残念ですね。今度こそ顔を合わせたかったんですけど…。"
+  },
+  {
+    "key": "83-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "83-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "83-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "83-content",
+    "original": "다음에는 꼭 인사를 하고 말겠어. 너희 대신 우리를 합류시킬 생각은 없냐고도 물어볼 계획이거든.",
+    "context": "EN :\nWe’ll leave an impression on him next time, mark my words. I’m planning to ask him if we can join the team in your stead.\nJP :\n次こそは絶対に挨拶してやる。お前たちの代わりに俺たちを\nチームに加えてくれるつもりはないのかも聞いてみる予定だからな。"
+  },
+  {
+    "key": "84-model",
+    "original": "단테",
+    "translation": "但丁",
+    "context": "EN :\nDante\nJP :\nダンテ"
+  },
+  {
+    "key": "84-content",
+    "original": "<뭐야, 그런 속셈으로 보고 싶어 한 거였어?>",
+    "context": "EN :\n<What, that’s the reason you wanted to meet him?>\nJP :\n<何だ、そんなつもりで会いたがってたのか？>"
+  },
+  {
+    "key": "85-model",
+    "original": "제복소드",
+    "translation": "穿制服的索德",
+    "context": "EN :\nleft\nJP :\nSodeLCC"
+  },
+  {
+    "key": "85-teller",
+    "original": "소드",
+    "context": "EN :\nSaude\nJP :\nソード"
+  },
+  {
+    "key": "85-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "85-content",
+    "original": "마냥 농담은 아니랍니다. 있다가 현장에서 다시 봐요.",
+    "context": "EN :\nThat wasn’t entirely a joke. See you at the site, then.\nJP :\n冗談というわけでもありませんよ。あとで現場にてお会いしましょう。"
+  },
+  {
+    "key": "86-model",
+    "original": "제복에피",
+    "translation": "穿制服的埃菲",
+    "context": "EN :\nleft\nJP :\nEpiLCC"
+  },
+  {
+    "key": "86-teller",
+    "original": "에피",
+    "context": "EN :\nEffie\nJP :\nエピ"
+  },
+  {
+    "key": "86-title",
+    "original": "LCCB",
+    "context": "EN :\nLCCB\nJP :\nLCCB"
+  },
+  {
+    "key": "86-content",
+    "original": "너희가 무사히 도착할 수 있다면 말이야.",
+    "context": "EN :\nIf you can get there in one piece, anyway.\nJP :\nお前たちが無事に辿り着けたらだけどな。"
+  }
+]
